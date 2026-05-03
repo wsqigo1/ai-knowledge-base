@@ -2,6 +2,9 @@
 .env
 .env.local
 
+# Claude Code 本地配置（含 API Key，不入库）
+.claude/settings.local.json
+
 # 知识库数据（不入库，体积大且含采集结果）
 knowledge/
 
