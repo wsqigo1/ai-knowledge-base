@@ -6,11 +6,6 @@ import os
 import sys
 from pathlib import Path
 
-# Ensure the installed 'mcp' SDK is imported, not this local package directory.
-_this_dir = str(Path(__file__).parent)
-if _this_dir in sys.path:
-    sys.path.remove(_this_dir)
-
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
 from mcp.types import TextContent, Tool
@@ -130,12 +125,14 @@ def _list_articles(source: str | None, tag: str | None, limit: int) -> list[Text
     if tag:
         articles = [a for a in articles if tag in a.get("tags", [])]
     articles.sort(key=lambda a: a.get("score", 0), reverse=True)
+    total = len(articles)
     articles = articles[:limit]
 
     if not articles:
         return [TextContent(type="text", text="没有找到符合条件的文章。")]
 
-    lines = [f"共 {len(articles)} 篇文章：\n"]
+    header = f"共 {total} 篇文章（本次返回 {len(articles)} 篇）：\n" if len(articles) < total else f"共 {total} 篇文章：\n"
+    lines = [header]
     for a in articles:
         lines.append(
             f"**{a['id']}** — {a.get('title', '')}\n"
