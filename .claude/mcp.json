@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ai-knowledge-base": {
+      "command": "python3",
+      "args": ["mcp/server.py"],
+      "cwd": "/Users/wushengqiang/PycharmProjects/ai-knowledge-base"
+    }
+  }
+}
