@@ -147,7 +147,7 @@ Authorization: Bearer $PRODUCTHUNT_TOKEN
 
 ### 1. 相关性预筛选
 
-仅对以下条目执行完整分析，其余条目设 `relevance_score: 0` 直接跳过：
+仅对以下条目执行完整分析，其余条目设 `score: 0` 直接跳过：
 
 - `topics` 包含：`Artificial Intelligence`、`Machine Learning`、`Developer Tools`、`Productivity`、`No-Code`、`Open Source`
 - 或 `tagline`/`description` 包含关键词（大小写不敏感）：`AI`、`LLM`、`GPT`、`Claude`、`agent`、`RAG`、`embedding`、`copilot`、`automation`、`workflow`、`API`
@@ -170,8 +170,10 @@ Authorization: Bearer $PRODUCTHUNT_TOKEN
 五维加权公式：
 
 ```
-relevance_score = 实用价值(×0.30) + 技术深度(×0.25) + 时效性(×0.20) + 社区热度(×0.15) + 领域匹配(×0.10)
+score = (实用价值(×0.30) + 技术深度(×0.25) + 时效性(×0.20) + 社区热度(×0.15) + 领域匹配(×0.10)) × 10
 ```
+
+取值范围：1.0-10.0。
 
 各维度评分标准（0.0-1.0）：
 
@@ -203,7 +205,7 @@ ai-assistant          image-generation   voice-ai        data-analysis
 {
   "summary": "...",
   "tags": ["ai-assistant", "developer-tools"],
-  "relevance_score": 0.82,
+  "score": 8.2,
   "score_breakdown": {
     "practical_value": 0.90,
     "technical_depth": 0.75,
@@ -221,7 +223,7 @@ ai-assistant          image-generation   voice-ai        data-analysis
 
 ### 1. 质量门控
 
-`relevance_score < 0.6` 的条目**丢弃**，不生成知识条目。
+`score < 6.0` 的条目**丢弃**，不生成知识条目。
 
 ### 2. 生成知识条目
 
@@ -241,7 +243,7 @@ slug 规则：取产品名称转小写，空格换连字符，仅保留字母数
   "collected_at": "2026-05-03T08:00:00Z",
   "summary": "中文摘要",
   "tags": ["tag1", "tag2"],
-  "relevance_score": 0.82,
+  "score": 8.2,
   "votes": 850
 }
 ```
@@ -263,7 +265,7 @@ slug 规则：取产品名称转小写，空格换连字符，仅保留字母数
       "source": "producthunt-daily",
       "url": "https://www.producthunt.com/posts/toolname",
       "tags": ["ai-assistant", "developer-tools"],
-      "relevance_score": 0.82,
+      "score": 8.2,
       "votes": 850,
       "file": "knowledge/articles/2026-05-03-ph-toolname.json"
     }
@@ -277,8 +279,8 @@ slug 规则：取产品名称转小写，空格换连字符，仅保留字母数
 
 ```
 采集：X 条原始数据
-过滤后：Y 条通过质量门控（relevance_score >= 0.6）
-丢弃：Z 条（score < 0.6）
+过滤后：Y 条通过质量门控（score >= 6.0）
+丢弃：Z 条（score < 6.0）
 新增知识条目：Y 个文件
 index.json 当前总条目：N
 ```
@@ -294,4 +296,4 @@ index.json 当前总条目：N
 | 空结果（今日无产品） | 可能是时区问题（PH 以 PST 为准），尝试将日期改为昨日重试；仍为空则写入 `items: []` 并报告 |
 | GraphQL 错误 | 打印 `errors` 字段内容，跳过本次采集，不中断整体流程 |
 | 网络超时（> 15s） | 重试最多 3 次，失败则记录到 `knowledge/raw/errors-{date}.json` |
-| 分析阶段 JSON 解析失败 | 标记 `relevance_score: 0`，`summary: "[分析失败]"`，继续处理下一条 |
+| 分析阶段 JSON 解析失败 | 标记 `score: 0`，`summary: "[分析失败]"`，继续处理下一条 |

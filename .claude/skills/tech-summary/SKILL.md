@@ -41,7 +41,7 @@ README 摘录：{readme_excerpt 或"无"}
 {
   "summary": "100-200字中文摘要",
   "tags": ["tag1", "tag2"],
-  "relevance_score": 0.85,
+  "score": 8.5,
   "score_breakdown": {
     "practical_value": 0.90,
     "technical_depth": 0.80,
@@ -70,8 +70,10 @@ README 摘录：{readme_excerpt 或"无"}
 五维加权公式：
 
 ```
-relevance_score = 实用价值(×0.30) + 技术深度(×0.25) + 时效性(×0.20) + 社区热度(×0.15) + 领域匹配(×0.10)
+score = (实用价值(×0.30) + 技术深度(×0.25) + 时效性(×0.20) + 社区热度(×0.15) + 领域匹配(×0.10)) × 10
 ```
+
+取值范围：1.0-10.0。
 
 各维度评分标准（0.0-1.0）：
 
@@ -118,7 +120,7 @@ response = client.messages.create(
 {
   "summary": "...",
   "tags": ["rag", "vector-search"],
-  "relevance_score": 0.82,
+  "score": 8.2,
   "score_breakdown": {
     "practical_value": 0.85,
     "technical_depth": 0.80,
@@ -148,6 +150,6 @@ embeddings            multi-agent       tool-use         agent-framework
 
 | 错误 | 处理策略 |
 |------|----------|
-| 返回非 JSON | 重试一次；仍失败则 `summary: "[分析失败]"`，`relevance_score: 0` |
+| 返回非 JSON | 重试一次；仍失败则 `summary: "[分析失败]"`，`score: 0` |
 | API 限速（429） | 等待 10 秒后重试，最多 3 次 |
 | 单条超时（>30s） | 标记失败，继续处理下一条，不中断整批 |

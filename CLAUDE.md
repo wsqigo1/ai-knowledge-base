@@ -1,139 +1,121 @@
-# CLAUDE.md — AI 知识库项目
+# CLAUDE.md
 
-> 本文件是项目的"记忆"——Claude Code 启动时自动加载，指导所有 Agent 的行为和代码规范。
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## 项目定义
 
-**AI Knowledge Base（AI 知识库）** 是一个自动化技术情报收集与分析系统。
-它持续追踪 GitHub Trending、Hacker News、arXiv 等来源，将分散的技术资讯
-转化为结构化、可检索的知识条目。
+**AI Knowledge Base** 是一个自动化技术情报系统，通过三阶段 Agent 流水线将 GitHub Trending、Hacker News、Product Hunt 等来源的 AI/LLM/Agent 资讯转化为结构化 JSON 知识条目。
 
-### 核心价值
-- 每日自动采集 AI/LLM/Agent 领域的高质量技术文章与开源项目
-- 通过 Agent 协作完成 **采集 → 分析 → 整理** 三阶段流水线
-- 输出格式统一的 JSON 知识条目，便于下游应用消费
-
-## 项目结构
+## 三阶段 Agent 流水线
 
 ```
-ai-knowledge-base/
-├── CLAUDE.md                          # 项目记忆文件（本文件）
-├── .env.example                       # 环境变量模板
-├── README.md                          # 使用说明
-├── .claude/
-│   ├── agents/
-│   │   ├── collector.md               # 采集 Agent 角色定义
-│   │   ├── analyzer.md                # 分析 Agent 角色定义
-│   │   └── organizer.md               # 整理 Agent 角色定义
-│   └── skills/
-│       ├── github-trending/SKILL.md   # GitHub Trending 采集技能
-│       ├── hackernews/SKILL.md        # Hacker News 采集技能
-│       └── tech-summary/SKILL.md      # 技术摘要生成技能
-├── scripts/
-│   ├── collect.py                     # 采集脚本
-│   ├── analyze.py                     # 分析脚本
-│   └── organize.py                    # 整理脚本
-└── knowledge/
-    ├── raw/                           # 原始采集数据（JSON）
-    └── articles/                      # 整理后的知识条目（JSON）
-        └── index.json                 # 全量索引文件
+[collector agent] ──→ knowledge/raw/{source}-{date}.json
+[analyzer agent]  ──→ 同文件，添加 summary/tags/score/analyzed_at
+[organizer agent] ──→ knowledge/articles/{date}-{slug}.json + index.json
 ```
 
-## 编码规范
+**关键约束**：
+- collector 和 analyzer **只读取和返回数据，不写文件**；写文件由主 Agent 委派 organizer 执行
+- organizer **禁止 WebFetch/Bash**，只操作已有数据
+- 质量门控：`score < 6.0` 或 `summary < 50字` 或 `tags < 2个` 的条目被丢弃，原因记入 `knowledge/raw/filtered-{date}.json`
 
-### 文件命名
-- 原始数据：`knowledge/raw/{source}-{YYYY-MM-DD}.json`
-  - 例：`knowledge/raw/github-trending-2026-05-03.json`
-  - 例：`knowledge/raw/hackernews-top-2026-05-03.json`
-- 知识条目：`knowledge/articles/{YYYY-MM-DD}-{slug}.json`
-  - 例：`knowledge/articles/2026-05-03-openai-agents-sdk.json`
-- 索引文件：`knowledge/articles/index.json`
+## 调用方式
 
-### JSON 格式
-- 使用 2 空格缩进
-- 日期格式：ISO 8601（`YYYY-MM-DDTHH:mm:ssZ`）
-- 字符编码：UTF-8
-- 每个知识条目必须包含以下字段：
-
-```json
-{
-  "id": "github-trending-2026-05-03-001",
-  "title": "项目或文章标题",
-  "source": "github-trending",
-  "url": "https://github.com/...",
-  "collected_at": "2026-05-03T08:00:00Z",
-  "summary": "中文摘要，简明描述核心价值与技术要点",
-  "tags": ["large-language-model", "agent", "rag"],
-  "relevance_score": 0.85
-}
-```
-
-### 语言约定
-- 代码、JSON 键名、文件名、脚本：英文
-- 摘要（`summary`）、分析注释、README 正文：中文
-- 标签（`tags`）：英文小写，用连字符分隔（如 `large-language-model`）
-
-## 工作流规则
-
-### 三阶段流水线
+在对话中直接描述任务，Claude Code 会委派对应的 skill 或 sub-agent：
 
 ```
-[Collector] ──采集──→ knowledge/raw/
-                          │
-[Analyzer]  ──分析──→ knowledge/raw/ (enriched，添加 summary / relevance_score)
-                          │
-[Organizer] ──整理──→ knowledge/articles/ + index.json
-```
+# 单阶段（调用对应 skill）
+采集今天的 GitHub Trending 数据
+采集今天的 Hacker News 数据
+采集今天的 Product Hunt 数据
+分析 knowledge/raw/github-trending-2026-05-03.json，补充摘要和评分
 
-### Agent 协作规则
-
-1. **单向数据流**：Collector → Analyzer → Organizer，不可反向
-2. **职责隔离**：每个 Agent 只操作自己权限范围内的文件
-3. **幂等性**：重复运行同一天的采集不应产生重复条目（按 `url` 去重）
-4. **质量门控**：`relevance_score < 0.6` 的条目，Organizer 应丢弃
-5. **可追溯**：每个条目保留 `url` 和 `collected_at` 用于溯源
-
-### 在 Claude Code 中调用各阶段
-
-直接在对话中描述任务，Claude Code 会委派对应的子 Agent：
-
-```
-# 采集
-采集今天的 GitHub Trending 数据，写入 knowledge/raw/
-
-# 分析
-分析 knowledge/raw/github-trending-2026-05-03.json，补充 summary 和 relevance_score
-
-# 整理
-整理今天所有已分析的原始数据，生成知识条目并更新 index.json
-```
-
-也可以要求一次性完成完整流水线：
-
-```
+# 完整流水线
 执行今天的完整采集→分析→整理流水线
 ```
 
-### 错误处理
-- 网络请求失败时，记录错误并跳过该条目，不中断整体流程
-- API 限流时，等待后重试，最多 3 次
-- 数据格式异常时，写入 `knowledge/raw/errors-{YYYY-MM-DD}.json` 供人工排查
+可用 skills：`github-trending`、`hackernews`、`producthunt-daily`、`tech-summary`
 
-## 技术栈
-- **运行时**：Claude Code + Claude API（claude-sonnet-4-6 / claude-haiku-4-5）
-- **脚本语言**：Python 3.11+
-- **数据源**：GitHub API v3、Hacker News API（Firebase）、arXiv API
-- **输出格式**：JSON
-- **版本管理**：Git
+## 数据格式
+
+### 原始数据（`knowledge/raw/`）
+
+collector 写入，analyzer enriched 后在同一文件追加字段：
+
+```json
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-03T08:00:00Z",
+  "items": [
+    {
+      "id": "openai/swarm",
+      "title": "swarm",
+      "url": "https://github.com/openai/swarm",
+      "summary": "...",
+      "tags": ["multi-agent", "agent-framework"],
+      "score": 8.5,
+      "analyzed_at": "2026-05-03T09:00:00Z"
+    }
+  ]
+}
+```
+
+### 知识条目（`knowledge/articles/`）
+
+organizer 输出，每条一个文件，文件名为 `{date}-{slug}.json`：
+
+```json
+{
+  "id": "kb-2026-05-03-001",
+  "title": "...",
+  "source": "github-trending",
+  "source_id": "openai/swarm",
+  "url": "https://github.com/openai/swarm",
+  "summary": "中文摘要，100-200 字",
+  "tags": ["multi-agent", "agent-framework", "open-source"],
+  "score": 8.5,
+  "collected_at": "...",
+  "analyzed_at": "...",
+  "organized_at": "...",
+  "status": "published"
+}
+```
+
+ID 规则：`kb-{YYYY-MM-DD}-{三位递增序号}`，从 index.json 当天最大序号 +1 开始。
+
+### 索引文件（`knowledge/articles/index.json`）
+
+organizer **增量追加**，永不全量重写。`entries` 按 `organized_at` 降序，`total_count` 必须等于 `entries` 数组长度。
+
+## 分析评分公式
+
+```
+score = (技术深度(×0.25) + 实用价值(×0.30) + 时效性(×0.20) + 社区热度(×0.15) + 领域匹配(×0.10)) × 10
+```
+
+取值范围：1-10（整体乘以 10，便于直观比较）。
+
+摘要要求：中文，100-200 字，结构为「是什么 → 解决什么问题 → 核心技术亮点 → 适用场景」，技术术语保留英文。
+
+标签：3-5 个，英文小写连字符，优先从标准池选：`large-language-model`、`agent`、`rag`、`vector-database`、`fine-tuning`、`prompt-engineering`、`multimodal`、`code-generation`、`benchmark`、`reasoning`、`multi-agent`、`tool-use`
+
+## 自动校验 Hook
+
+每次 Write/Edit `knowledge/articles/*.json` 后，PostToolUse hook 自动运行：
+
+1. `hooks/validate_json.py <filepath>` — 校验必填字段、`score` 范围(1-10)、`url` 格式、`collected_at` ISO 8601 格式
+2. `hooks/check_quality.py <filepath>` — 检查摘要长度(100-200字)、标签数(3-5个)、score≥6.0，评级低于 B 时告警
+
+手动运行：`python3 hooks/validate_json.py knowledge/articles/<file>.json`
+
+## 语言约定
+
+- 代码、JSON 键名、文件名、标签：英文
+- `summary` 字段、分析注释：中文
 
 ## 环境变量
 
 ```bash
-ANTHROPIC_API_KEY=sk-ant-...     # Claude API 密钥
-GITHUB_TOKEN=ghp_...             # GitHub API Token（提升限流上限）
+ANTHROPIC_API_KEY=sk-ant-...   # Claude API
+GITHUB_TOKEN=ghp_...           # GitHub API（不设则限速 60次/小时）
 ```
-
-## 注意事项
-- 不要在代码中硬编码 API Key，始终从环境变量读取
-- `knowledge/` 目录下的 JSON 文件不应提交到 Git（已加入 .gitignore）
-- 每次运行前确认 `ANTHROPIC_API_KEY` 已设置

@@ -32,7 +32,7 @@ tools:
 3. 验证每条 item 必填字段完整性：
 
 ```
-必填：id, title, url, summary, relevance_score, tags, analyzed_at
+必填：id, title, url, summary, score, tags, analyzed_at
 ```
 
 4. 缺少任何必填字段 → 标记 `status: "incomplete"`，写入过滤日志，不归档
@@ -41,7 +41,7 @@ tools:
 
 | 规则 | 动作 |
 |------|------|
-| `relevance_score < 0.6` | 丢弃，记入过滤日志 |
+| `score < 6.0` | 丢弃，记入过滤日志 |
 | `summary` 少于 50 字 | 丢弃，记入过滤日志 |
 | `tags` 少于 2 个 | 丢弃，记入过滤日志 |
 | `url` 格式异常（非 http/https） | 丢弃，记入过滤日志 |
@@ -52,7 +52,7 @@ tools:
 {
   "date": "2026-05-03",
   "filtered": [
-    {"id": "openai/swarm", "reason": "relevance_score 0.45 < 0.6"}
+    {"id": "openai/swarm", "reason": "score 4.5 < 6.0"}
   ]
 }
 ```
@@ -77,7 +77,7 @@ tools:
   "url": "https://github.com/openai/swarm",
   "summary": "OpenAI 发布的轻量级多 Agent 编排框架，主打教学与实验场景...",
   "tags": ["multi-agent", "agent-framework", "open-source"],
-  "relevance_score": 0.85,
+  "score": 8.5,
   "collected_at": "2026-05-03T08:00:00Z",
   "analyzed_at": "2026-05-03T09:00:00Z",
   "organized_at": "2026-05-03T11:30:00Z",
@@ -110,7 +110,7 @@ tools:
       "title": "OpenAI Swarm：轻量级多 Agent 编排框架",
       "file": "2026-05-03-openai-swarm.json",
       "tags": ["multi-agent", "agent-framework"],
-      "relevance_score": 0.85,
+      "score": 8.5,
       "organized_at": "2026-05-03T11:30:00Z"
     }
   ]
@@ -121,7 +121,7 @@ tools:
 
 ## 归档完成后的质量检查清单
 
-- [ ] 所有写入条目的 `relevance_score >= 0.6`
+- [ ] 所有写入条目的 `score >= 6.0`
 - [ ] 无重复条目（`url` 全库唯一）
 - [ ] 每个条目的 `id` 唯一且符合 `kb-{date}-{seq}` 规则
 - [ ] 每个条目文件名与内容中日期一致

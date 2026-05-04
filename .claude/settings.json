@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 hooks/run_validate.py",
+            "timeout": 30,
+            "statusMessage": "校验知识条目格式与质量..."
+          }
+        ]
+      }
+    ]
+  }
+}
