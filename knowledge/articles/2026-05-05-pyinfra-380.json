@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-05-012",
+  "title": "PyInfra 3.8.0",
+  "source": "hackernews-top",
+  "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+  "summary": "PyInfra 3.8.0 是一个基于 Python 的基础设施自动化工具，解决传统配置管理工具（如 Ansible）依赖声明式 DSL 或 YAML 的痛点，通过纯 Python 代码实现服务器部署、配置管理和任务编排。核心技术亮点包括：使用 Python 函数和装饰器定义状态，支持动态并行执行和幂等操作，无需额外学习领域特定语言。适用场景包括云服务器批量配置、持续部署流水线、临时任务自动化等，适合 Python 开发者快速实现基础设施即代码。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-05T01:49:50.018987+00:00",
+  "analyzed_at": "2026-05-05T01:51:11.817070+00:00",
+  "organized_at": "2026-05-05T01:51:22.318978+00:00",
+  "status": "published"
+}

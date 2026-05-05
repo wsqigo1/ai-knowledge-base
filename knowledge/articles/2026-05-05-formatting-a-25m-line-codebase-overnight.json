@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-05-011",
+  "title": "Formatting a 25M-line codebase overnight",
+  "source": "hackernews-top",
+  "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+  "summary": "该项目解决超大规模代码库（2500万行）的格式化效率问题。核心技术亮点是采用并行化处理和增量格式化策略，将传统需要数天的任务压缩至一夜完成。适用场景为大型企业代码库的自动化维护与重构。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-05T01:49:50.018987+00:00",
+  "analyzed_at": "2026-05-05T01:51:08.977851+00:00",
+  "organized_at": "2026-05-05T01:51:22.318978+00:00",
+  "status": "published"
+}

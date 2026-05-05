@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-05-006",
+  "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+  "source": "hackernews-top",
+  "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+  "summary": "本文分析了一家国防承包商的多租户授权漏洞，通过发现其API中缺乏租户隔离检查，导致攻击者可访问其他租户的敏感数据。核心亮点是展示了如何利用HTTP请求头中的租户标识符进行权限提升测试，并提出了基于角色和租户双重验证的修复方案。适用场景包括安全审计、多租户SaaS应用的渗透测试。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-05T01:49:50.018987+00:00",
+  "analyzed_at": "2026-05-05T01:50:47.483231+00:00",
+  "organized_at": "2026-05-05T01:51:22.318978+00:00",
+  "status": "published"
+}

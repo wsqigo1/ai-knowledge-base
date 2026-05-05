@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-05-010",
+  "title": "Transformers Are Inherently Succinct (2025)",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2510.19315",
+  "summary": "论文《Transformers Are Inherently Succinct》证明Transformer架构本身具有内在的简洁性，即模型在训练中会自动趋向于用更少的激活神经元表示信息，无需额外正则化。核心亮点是通过理论分析和实验验证了这种内在稀疏性，并展示了其与模型压缩、可解释性的关联。适用场景包括模型剪枝、知识蒸馏和可解释AI研究。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-05-05T01:49:50.018987+00:00",
+  "analyzed_at": "2026-05-05T01:51:07.022585+00:00",
+  "organized_at": "2026-05-05T01:51:22.318978+00:00",
+  "status": "published"
+}

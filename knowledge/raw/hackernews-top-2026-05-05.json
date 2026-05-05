@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-05T01:49:50.917392+00:00",
+  "date": "2026-05-05",
+  "count": 20,
+  "items": [
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "hn_url": "https://news.ycombinator.com/item?id=48013919",
+      "description": "",
+      "hn_score": 281,
+      "comments": 100,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "OpenAI 分享其低延迟语音 AI 系统在大规模部署中的架构设计。核心挑战是实时语音交互的延迟与资源消耗平衡，通过优化模型推理、流式处理及边缘计算实现毫秒级响应。技术亮点包括：专用语音模型、动态批处理、以及端到端延迟监控。适用于实时语音助手、客服系统等场景。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-05T01:50:40.778769+00:00"
+    },
+    {
+      "title": "Talking to strangers at the gym",
+      "source": "hackernews-top",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "hn_url": "https://news.ycombinator.com/item?id=48007438",
+      "description": "",
+      "hn_score": 1153,
+      "comments": 539,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "这是一篇关于在健身房与陌生人交流的社交技巧文章，解决的是现代人社交孤立、缺乏自然互动的问题。核心亮点包括提出低风险开场白、利用共同环境破冰、以及通过非语言信号（如微笑、眼神接触）降低对方防御心理。适用场景为健身房等半公共空间，帮助读者克服社交焦虑，建立有意义的短暂连接。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-05T01:50:43.078747+00:00"
+    },
+    {
+      "title": "Agent Skills",
+      "source": "hackernews-top",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "hn_url": "https://news.ycombinator.com/item?id=48015397",
+      "description": "",
+      "hn_score": 108,
+      "comments": 33,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Agent Skills 是一个开源项目，旨在为 AI 智能体提供可复用的技能库，解决智能体在特定任务中能力不足的问题。核心技术亮点包括模块化技能定义、支持工具调用与多步骤工作流，以及易于集成的 API 设计。适用场景包括自动化任务执行、复杂问题分解与多智能体协作。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-05T01:50:45.181752+00:00"
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "source": "hackernews-top",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "hn_url": "https://news.ycombinator.com/item?id=48012162",
+      "description": "",
+      "hn_score": 168,
+      "comments": 74,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "本文分析了一家国防承包商的多租户授权漏洞，通过发现其API中缺乏租户隔离检查，导致攻击者可访问其他租户的敏感数据。核心亮点是展示了如何利用HTTP请求头中的租户标识符进行权限提升测试，并提出了基于角色和租户双重验证的修复方案。适用场景包括安全审计、多租户SaaS应用的渗透测试。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-05T01:50:47.483231+00:00"
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "source": "hackernews-top",
+      "url": "https://www.nber.org/papers/w35117",
+      "hn_url": "https://news.ycombinator.com/item?id=48009983",
+      "description": "",
+      "hn_score": 210,
+      "comments": 206,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "该研究利用劳动力市场冲击（如工厂关闭）作为自然实验，探讨就业对中老年人认知能力下降速度的影响。核心发现是持续就业显著减缓认知衰退，尤其对低教育群体效果更明显。研究采用工具变量法解决内生性问题，数据来自美国健康与退休调查（HRS）。适用场景包括老龄化社会政策制定、劳动经济学与公共健康交叉领域。",
+      "tags": [
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-05T01:50:49.718630+00:00"
+    },
+    {
+      "title": "Redis array: short story of a long development process",
+      "source": "hackernews-top",
+      "url": "https://antirez.com/news/164",
+      "hn_url": "https://news.ycombinator.com/item?id=48009172",
+      "description": "",
+      "hn_score": 228,
+      "comments": 80,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Redis 数组（array）数据结构的开发历程，解决在 Redis 中高效存储和操作有序集合的问题。核心技术亮点包括采用紧凑编码、优化内存布局以支持快速随机访问和范围查询，以及平衡读写性能。适用于需要高性能缓存、实时排行榜或消息队列等场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-05T01:50:51.635548+00:00"
+    },
+    {
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "hn_url": "https://news.ycombinator.com/item?id=48012735",
+      "description": "",
+      "hn_score": 409,
+      "comments": 147,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Microsoft Edge浏览器存在安全漏洞：所有密码（包括未使用的）以明文形式存储在内存中。该问题源于密码管理器在进程内存中未加密保存凭据，攻击者可通过内存转储获取所有密码。核心亮点是揭示了浏览器密码存储机制的设计缺陷。适用场景：安全审计、浏览器漏洞研究、密码管理实践改进。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-05T01:50:53.946836+00:00"
+    },
+    {
+      "title": "I am worried about Bun",
+      "source": "hackernews-top",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "hn_url": "https://news.ycombinator.com/item?id=48011184",
+      "description": "",
+      "hn_score": 408,
+      "comments": 279,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Bun 是一个 JavaScript 运行时，旨在替代 Node.js 和 Deno，解决性能瓶颈和工具链碎片化问题。其核心技术亮点包括基于 WebKit 的 JavaScriptCore 引擎、内置打包器、转译器和包管理器，显著提升启动速度和开发效率。适用场景为现代 Web 开发、全栈应用和 CLI 工具构建。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-05T01:50:56.303550+00:00"
+    },
+    {
+      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+      "source": "hackernews-top",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+      "hn_url": "https://news.ycombinator.com/item?id=48009840",
+      "description": "",
+      "hn_score": 126,
+      "comments": 101,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "将1966年福特野马改装为特斯拉电动车，并实现可工作的'完全自动驾驶'功能。该项目解决了经典燃油车电动化与智能化改造的技术难题，核心亮点在于整合特斯拉动力总成与自动驾驶系统至老式车身，展示了跨平台硬件适配与软件集成的可行性。适用于经典车电动化改装、自动驾驶技术移植及开源硬件项目参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-05T01:50:58.568238+00:00"
+    },
+    {
+      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
+      "source": "hackernews-top",
+      "url": "https://www.fuelinsight.co.uk",
+      "hn_url": "https://news.ycombinator.com/item?id=48009747",
+      "description": "",
+      "hn_score": 158,
+      "comments": 75,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "该项目是一个英国燃油价格情报系统，通过收集各加油站的实时报告数据，提供市场分析。它解决的是燃油价格不透明、消费者难以获取实时比价信息的问题。核心技术亮点包括数据聚合、地理空间分析与可视化，适用于消费者比价、市场研究及政策制定等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-05T01:51:00.584094+00:00"
+    },
+    {
+      "title": "How Monero’s proof of work works",
+      "source": "hackernews-top",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "hn_url": "https://news.ycombinator.com/item?id=48009020",
+      "description": "",
+      "hn_score": 238,
+      "comments": 181,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Monero的PoW机制基于RandomX算法，旨在解决ASIC矿机导致的中心化问题。核心技术亮点包括：使用随机代码执行和内存硬性要求，确保CPU挖矿效率接近GPU/ASIC，实现抗ASIC特性。适用场景为隐私币挖矿和去中心化网络维护。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-05T01:51:02.618834+00:00"
+    },
+    {
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "source": "hackernews-top",
+      "url": "https://pomiferous.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48009441",
+      "description": "",
+      "hn_score": 102,
+      "comments": 43,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Pomiferous 是一个最全面的苹果品种数据库，旨在解决苹果品种信息分散、难以查询的问题。其核心技术亮点是构建了包含数千种苹果品种的详细结构化数据，涵盖名称、起源、特征、用途等，并提供搜索和浏览功能。适用场景包括园艺研究、农业数据管理、食品科学及爱好者查询。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-05T01:51:04.628969+00:00"
+    },
+    {
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "hn_url": "https://news.ycombinator.com/item?id=48014197",
+      "description": "",
+      "hn_score": 30,
+      "comments": 6,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "论文《Transformers Are Inherently Succinct》证明Transformer架构本身具有内在的简洁性，即模型在训练中会自动趋向于用更少的激活神经元表示信息，无需额外正则化。核心亮点是通过理论分析和实验验证了这种内在稀疏性，并展示了其与模型压缩、可解释性的关联。适用场景包括模型剪枝、知识蒸馏和可解释AI研究。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-05-05T01:51:07.022585+00:00"
+    },
+    {
+      "title": "Formatting a 25M-line codebase overnight",
+      "source": "hackernews-top",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "hn_url": "https://news.ycombinator.com/item?id=48014325",
+      "description": "",
+      "hn_score": 121,
+      "comments": 64,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "该项目解决超大规模代码库（2500万行）的格式化效率问题。核心技术亮点是采用并行化处理和增量格式化策略，将传统需要数天的任务压缩至一夜完成。适用场景为大型企业代码库的自动化维护与重构。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-05T01:51:08.977851+00:00"
+    },
+    {
+      "title": "PyInfra 3.8.0",
+      "source": "hackernews-top",
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "hn_url": "https://news.ycombinator.com/item?id=48008083",
+      "description": "",
+      "hn_score": 220,
+      "comments": 82,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "PyInfra 3.8.0 是一个基于 Python 的基础设施自动化工具，解决传统配置管理工具（如 Ansible）依赖声明式 DSL 或 YAML 的痛点，通过纯 Python 代码实现服务器部署、配置管理和任务编排。核心技术亮点包括：使用 Python 函数和装饰器定义状态，支持动态并行执行和幂等操作，无需额外学习领域特定语言。适用场景包括云服务器批量配置、持续部署流水线、临时任务自动化等，适合 Python 开发者快速实现基础设施即代码。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-05T01:51:11.817070+00:00"
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "hn_url": "https://news.ycombinator.com/item?id=48006402",
+      "description": "",
+      "hn_score": 640,
+      "comments": 607,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "GameStop向eBay提出555亿美元收购要约，旨在通过整合实体零售与在线拍卖平台，利用区块链和数字资产技术重塑二手商品交易生态。核心亮点在于将GameStop的加密货币钱包、NFT市场与eBay的收藏品品类结合，探索代币化认证和智能合约支付。适用场景为传统零售商向Web3转型的案例研究，但缺乏具体技术实现细节。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-05T01:51:14.107374+00:00"
+    },
+    {
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "hn_url": "https://news.ycombinator.com/item?id=48011689",
+      "description": "",
+      "hn_score": 417,
+      "comments": 141,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "美国医疗保健市场将公民身份和种族数据共享给广告技术巨头，暴露了敏感健康信息在数字广告生态中的隐私泄露风险。该问题源于数据经纪商与医疗平台合作，将去标识化数据重新关联至个人，用于定向广告。核心争议在于数据共享缺乏用户知情同意，且违反了HIPAA等隐私法规。适用场景包括医疗数据治理、广告技术合规审计及隐私保护技术研究。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-05T01:51:16.363320+00:00"
+    },
+    {
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "source": "hackernews-top",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "hn_url": "https://news.ycombinator.com/item?id=48010266",
+      "description": "",
+      "hn_score": 91,
+      "comments": 115,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "Sierra 是一家专注于企业级 AI 客服助手的初创公司，完成 9.5 亿美元融资，估值达 150 亿美元。其核心产品利用 large-language-model 和 agent 技术构建对话式 AI，解决企业客户服务自动化与个性化问题。技术亮点包括多轮对话管理、工具调用集成及安全护栏设计，适用于客服、销售支持等场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-05T01:51:18.652524+00:00"
+    },
+    {
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "source": "hackernews-top",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "hn_url": "https://news.ycombinator.com/item?id=48011603",
+      "description": "",
+      "hn_score": 219,
+      "comments": 149,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "该条目讨论如何阻止大型科技公司通过设计模式操纵用户行为，使其违背自身意愿。核心问题是用户自主权被侵蚀，技术亮点在于提出对抗性设计原则和用户代理机制。适用场景包括隐私保护、数字权利倡导和伦理AI设计。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-05T01:51:20.431097+00:00"
+    },
+    {
+      "title": "Heat pump sales rise across Europe",
+      "source": "hackernews-top",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "hn_url": "https://news.ycombinator.com/item?id=48012003",
+      "description": "",
+      "hn_score": 208,
+      "comments": 122,
+      "collected_at": "2026-05-05T01:49:50.018987+00:00",
+      "published_at": "2026-05-05T01:49:50.018987+00:00",
+      "summary": "该条目报道欧洲热泵销量上升，反映能源转型趋势。热泵通过高效转移热量替代传统供暖，解决建筑碳排放问题。核心技术亮点包括逆卡诺循环、变频压缩机及智能温控系统。适用场景为住宅与商业供暖、热水供应及工业低温热回收。",
+      "tags": [
+        "workflow-automation"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-05T01:51:22.315099+00:00"
+    }
+  ]
+}

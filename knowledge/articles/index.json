@@ -1,7 +1,196 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 43,
+  "total_count": 56,
   "entries": [
+    {
+      "id": "kb-2026-05-05-001",
+      "title": "vercel-labs/deepsec",
+      "source": "github-trending",
+      "url": "https://github.com/vercel-labs/deepsec",
+      "file": "2026-05-05-vercel-labsdeepsec.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-002",
+      "title": "raiyanyahya/how-to-train-your-gpt",
+      "source": "github-trending",
+      "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+      "file": "2026-05-05-raiyanyahyahow-to-train-your-gpt.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-003",
+      "title": "StartupHakk/OpenMonoAgent.ai",
+      "source": "github-trending",
+      "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+      "file": "2026-05-05-startuphakkopenmonoagentai.json",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "agent"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-004",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "file": "2026-05-05-how-openai-delivers-low-latency-voice-ai.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-005",
+      "title": "Agent Skills",
+      "source": "hackernews-top",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "file": "2026-05-05-agent-skills.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-006",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "source": "hackernews-top",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "file": "2026-05-05-securing-a-dod-contractor-finding-a-mult.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-007",
+      "title": "Redis array: short story of a long development process",
+      "source": "hackernews-top",
+      "url": "https://antirez.com/news/164",
+      "file": "2026-05-05-redis-array-short-story-of-a-long-develo.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-008",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "file": "2026-05-05-microsoft-edge-stores-all-passwords-in-m.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-009",
+      "title": "I am worried about Bun",
+      "source": "hackernews-top",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "file": "2026-05-05-i-am-worried-about-bun.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-010",
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "file": "2026-05-05-transformers-are-inherently-succinct-202.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-011",
+      "title": "Formatting a 25M-line codebase overnight",
+      "source": "hackernews-top",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "file": "2026-05-05-formatting-a-25m-line-codebase-overnight.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-012",
+      "title": "PyInfra 3.8.0",
+      "source": "hackernews-top",
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "file": "2026-05-05-pyinfra-380.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
+    {
+      "id": "kb-2026-05-05-013",
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "source": "hackernews-top",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "file": "2026-05-05-sierra-raises-950m-at-15b-valuation.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-05T01:51:22.318978+00:00"
+    },
     {
       "id": "kb-2026-05-04-006",
       "title": "tddworks/baguette",
@@ -646,5 +835,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-04T15:48:27.196288+00:00"
+  "last_updated": "2026-05-05T01:51:22.325201+00:00"
 }

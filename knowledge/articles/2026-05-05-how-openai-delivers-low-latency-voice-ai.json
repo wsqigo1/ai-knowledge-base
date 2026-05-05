@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-05-004",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+  "summary": "OpenAI 分享其低延迟语音 AI 系统在大规模部署中的架构设计。核心挑战是实时语音交互的延迟与资源消耗平衡，通过优化模型推理、流式处理及边缘计算实现毫秒级响应。技术亮点包括：专用语音模型、动态批处理、以及端到端延迟监控。适用于实时语音助手、客服系统等场景。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-05-05T01:49:50.018987+00:00",
+  "analyzed_at": "2026-05-05T01:50:40.778769+00:00",
+  "organized_at": "2026-05-05T01:51:22.318978+00:00",
+  "status": "published"
+}
