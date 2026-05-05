@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-04-021",
+  "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+  "source": "hackernews-top",
+  "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+  "summary": "macOS 创建的 tar 文件在 Linux 上解压时出现错误的兼容性问题。根本原因是 macOS tar 实现添加的扩展属性（extended attributes）和资源分叉（resource forks）在 Linux 环境中无法正确处理。解决方案包括使用 --no-xattrs 参数、COPYFILE_DISABLE 环境变量或采用跨平台兼容的打包工具。该问题影响跨操作系统的文件分发、CI/CD 流程和开发工具链，对需要支持多平台的开源项目和企业环境具有实际参考价值。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-05-04T15:45:31.826481+00:00",
+  "analyzed_at": "2026-05-04T15:48:11.545914+00:00",
+  "organized_at": "2026-05-04T15:48:27.188323+00:00",
+  "status": "published"
+}

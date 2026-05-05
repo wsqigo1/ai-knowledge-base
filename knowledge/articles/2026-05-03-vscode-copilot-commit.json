@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-03-009",
+  "title": "VS Code inserting Co-Authored-by Copilot into commits regardless of usage",
+  "source": "hackernews-top",
+  "source_id": "47989883",
+  "url": "https://github.com/microsoft/vscode/pull/310226",
+  "summary": "这是一个引发 HN 社区强烈讨论（486 条评论，score 1014）的 VS Code 争议事件：微软在 VS Code 中悄默地将「Co-Authored-by: GitHub Copilot」字段注入 git 提交记录，无论用户是否实际使用了 Copilot 辅助。这一行为触及多个敏感议题：未经明确同意的数据标记、版权归属模糊化、开源许可协议的潜在影响，以及商业产品在开源工具中强制植入品牌痕迹的边界。技术上，该 PR 揭示了 VS Code git 集成层与 Copilot 的耦合逻辑。对依赖 VS Code 进行专业开发的团队而言，需审查 commit 历史并考虑是否更换提交工具链。",
+  "tags": [
+    "code-generation",
+    "open-source",
+    "tool-use"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 6.2
+}

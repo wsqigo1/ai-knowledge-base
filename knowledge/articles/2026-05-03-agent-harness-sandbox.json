@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-004",
+  "title": "The agent harness belongs outside the sandbox",
+  "source": "hackernews-top",
+  "source_id": "47990675",
+  "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+  "summary": "这篇博客文章提出了一个 Agent 系统架构原则：Agent 的执行调度框架（harness）应当置于沙箱边界之外，而非与 Agent 工具执行环境同处一个隔离容器。核心论点是：将 harness 置于沙箱内部会导致安全边界混淆、资源管理复杂，以及可观测性下降。推荐的架构是「外部 harness + 内部执行环境」分层设计，harness 负责工具路由、状态管理和错误恢复，沙箱只执行具体工具调用。这一观点对构建生产级 Agent 系统的工程师有直接的架构指导价值，尤其在 multi-agent 协作场景下意义更为突出。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "prompt-engineering"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 7.6
+}

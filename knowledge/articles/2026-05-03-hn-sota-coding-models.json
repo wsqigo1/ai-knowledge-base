@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-03-011",
+  "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+  "source": "hackernews-top",
+  "source_id": "47990708",
+  "url": "https://hnup.date/hn-sota",
+  "summary": "这是一个社区驱动的实时 benchmark 聚合工具，通过自动抓取 Hacker News 评论中开发者对「当前最佳代码生成模型」的观点，汇总形成动态排行榜。与静止的学术 benchmark 不同，它反映的是一线开发者基于实际使用体验的主观共识，具有独特的「群体智慧」视角。该工具可帮助开发者快速了解社区当前公认的代码模型 SOTA，降低模型选型的信息搜集成本。技术上属于轻量级 NLP 信息抽取 + 排行聚合，但需注意 HN 社区存在明显的受众偏差。",
+  "tags": [
+    "benchmark",
+    "code-generation",
+    "large-language-model"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 6.0
+}

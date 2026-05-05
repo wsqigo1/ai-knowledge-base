@@ -1,0 +1,291 @@
+{
+  "source": "producthunt-daily",
+  "collected_at": "2026-05-03T08:00:00Z",
+  "date": "2026-05-03",
+  "count": 9,
+  "items": [
+    {
+      "id": "1129347",
+      "title": "Scholé",
+      "tagline": "Turn everyday work into personalized AI learning",
+      "description": "Most AI learning is disconnected from the work people actually need to do. Scholé changes that by giving professionals and teams personalized, task-based learning in real time, right in the flow of work. Grounded in learning science and powered by adaptive AI, Scholé helps learners practice, improve, and apply AI skills as they work so learning is more relevant, more effective, and immediately useful.",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "website": "https://www.producthunt.com/r/VRA3VMKGQGHMOC",
+      "votes": 269,
+      "comments": 34,
+      "topics": [
+        "Artificial Intelligence",
+        "Online Learning"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "Scholé 是面向职场专业人士和团队的个性化 AI 学习平台，将学习嵌入日常工作流程而非独立课程模式。其核心创新在于任务关联学习（Task-based Learning）——用户在完成实际工作任务时，AI 实时提供针对性的技能练习与改进建议，基于学习科学（Learning Science）驱动的自适应算法确保知识真正留存。上线首日获得 269 票，评论 34 条，社区参与度较高。目标用户为希望提升 AI 应用能力的企业员工和团队管理者，相较于传统 LMS 或独立 AI 课程平台，Scholé 的差异化在于「零摩擦」上下文学习，无需打断工作节奏即可持续提升技能。",
+      "tags": [
+        "ai-assistant",
+        "productivity",
+        "workflow-automation"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.8,
+        "technical_depth": 0.65,
+        "timeliness": 0.85,
+        "community_heat": 0.7,
+        "domain_match": 0.75
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 7.2
+    },
+    {
+      "id": "1136085",
+      "title": "Cloud Computer by Manus",
+      "tagline": "A dedicated cloud machine for bots and software",
+      "description": "Manus Cloud Computer gives you a persistent machine in the cloud to run bots, Python scripts, apps, databases, and scheduled jobs 24/7. No DevOps, no server setup, no coding required. Just describe what you want to build, and keep it running around the clock.",
+      "url": "https://www.producthunt.com/products/manus",
+      "website": "https://www.producthunt.com/r/WDXUVIZTG7AJ7U",
+      "votes": 246,
+      "comments": 6,
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "Manus Cloud Computer 是 Manus 推出的持久化云端计算环境，专为 AI Agent、自动化脚本和常驻服务设计。与传统云服务器不同，用户无需任何 DevOps 知识或代码编写能力——只需用自然语言描述需求，即可获得一台可运行 Python 脚本、数据库、定时任务的云主机，并实现 7x24 不间断执行。这直接解决了 AI Agent「执行上下文断裂」的核心痛点：对话结束后任务不中断。上线首日斩获 246 票，体现 Agent 基础设施领域的强烈市场需求。对于构建 MCP 工具、自动化 workflow 的开发者和 no-code 用户而言，这是一个极具吸引力的执行层解决方案。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "no-code"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.95,
+        "technical_depth": 0.88,
+        "timeliness": 0.95,
+        "community_heat": 0.85,
+        "domain_match": 0.95
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 9.0
+    },
+    {
+      "id": "1135553",
+      "title": "Feather",
+      "tagline": "Photo editor with local AI",
+      "description": "Your photos stay on your machine, AI generative infill, AI magic selection and smart stacking are all processed offline on your Apple Silicon Mac. The UI is modern and designed to be intuitive. It's pay once to use forever",
+      "url": "https://www.producthunt.com/products/feather-18",
+      "website": "https://www.producthunt.com/r/Q54AKWR62RQYAL",
+      "votes": 202,
+      "comments": 3,
+      "topics": [
+        "User Experience",
+        "Photography",
+        "Artificial Intelligence"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "Feather 是一款专为 Apple Silicon Mac 设计的本地 AI 图片编辑器，所有 AI 功能（生成式填充、智能选区、智能堆叠）均完全离线运行，照片数据不离开用户设备。买断制定价（一次付费永久使用）区别于当前主流 SaaS 订阅模式。获得 202 票，表明对隐私保护型 AI 工具有持续市场需求。从技术角度看，利用 Apple Neural Engine 实现本地推理是其核心壁垒，但功能范围局限于图像编辑，与 AI 开发者工具生态相关性较低，更多面向创意人群而非技术用户。",
+      "tags": [
+        "ai-assistant",
+        "image-generation",
+        "productivity"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.8,
+        "technical_depth": 0.65,
+        "timeliness": 0.85,
+        "community_heat": 0.75,
+        "domain_match": 0.45
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.2
+    },
+    {
+      "id": "1129788",
+      "title": "Microsoft Copilot Health",
+      "tagline": "Dedicated space to bring your personal health data together",
+      "description": "You've got data from your Oura, your hospital, your blood panels. None of it talks to each other. None of it tells you what to do. Copilot Health fixes that. It's a secure space inside Copilot where your health records (50,000+ US health systems), wearables (50+ devices), and lab results (via Function) come together. Medical AI analyzes the full picture and surfaces insights you can act on, grounded in sources like Harvard Health.",
+      "url": "https://www.producthunt.com/products/copilot-health",
+      "website": "https://www.producthunt.com/r/RV27254646S3NQ",
+      "votes": 144,
+      "comments": 3,
+      "topics": [
+        "Health & Fitness",
+        "Analytics",
+        "Artificial Intelligence"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "Microsoft Copilot Health 是微软将 AI Copilot 能力延伸至个人健康管理的新产品，整合来自 50,000+ 美国医疗机构的健康档案、50+ 可穿戴设备数据及实验室检测结果，通过医疗级 AI 分析全链路健康数据并提供可操作洞察，参考源包括哈佛健康等权威机构。相较于单一数据来源的健康应用，其差异化在于跨系统数据聚合与 AI 推理分析的结合。上线获得 144 票，体现了公众对 AI 医疗健康应用的关注度。作为微软 Copilot 生态扩展，其 AI 技术深度较高，但领域聚焦于消费级健康而非开发者工具，与 LLM/Agent 技术前沿相关性中等。",
+      "tags": [
+        "ai-assistant",
+        "data-analysis",
+        "workflow-automation"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.8,
+        "technical_depth": 0.75,
+        "timeliness": 0.85,
+        "community_heat": 0.65,
+        "domain_match": 0.55
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.8
+    },
+    {
+      "id": "1134756",
+      "title": "YouTube TV Custom Multiview",
+      "tagline": "Mix and match up to 4 live streams at once",
+      "description": "YouTube TV now lets subscribers build fully customizable multiviews with up to four live streams on one screen. Mix and match live channels across your plan and add-ons like NFL Sunday Ticket, using a new builder with filters for sports, news, shows, movies, and more.",
+      "url": "https://www.producthunt.com/products/google",
+      "website": "https://www.producthunt.com/r/MPC7PMAGNUTKGP",
+      "votes": 138,
+      "comments": 1,
+      "topics": [
+        "Video Streaming",
+        "Sports",
+        "TV"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "",
+      "tags": [],
+      "score_breakdown": {
+        "practical_value": 0.0,
+        "technical_depth": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 0.0
+    },
+    {
+      "id": "1135045",
+      "title": "Breaks",
+      "tagline": "A quiet Pomodoro that lives in your menu bar.",
+      "description": "A small, focused Pomodoro app that lives in your Mac menu bar. Free, open source, sandboxed. Focus journal, streaks, global hotkeys, optional Calendar export, and on-device AI weekly review powered by Apple Intelligence, your data never leaves your Mac.",
+      "url": "https://www.producthunt.com/products/breaks",
+      "website": "https://www.producthunt.com/r/K3LIUH4TGLI3BI",
+      "votes": 120,
+      "comments": 8,
+      "topics": [
+        "Productivity",
+        "Open Source",
+        "GitHub",
+        "Menu Bar Apps"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "Breaks 是一款运行于 Mac 菜单栏的极简番茄工作法（Pomodoro）应用，完全免费开源（Open Source），采用沙盒隔离设计保障隐私。核心亮点是集成 Apple Intelligence 的「本地 AI 周报复盘」功能，每周自动总结专注记录，全程离线无云端上传。功能包括专注日志、连续打卡、全局快捷键及可选 Calendar 同步。获得 120 票并有 8 条讨论。面向追求简洁、隐私保护的 Mac 用户，是开源 AI 工具实践的典型案例，虽技术深度有限，但「开源 + 本地 AI + 零成本」的组合对开发者社区有一定参考价值。",
+      "tags": [
+        "open-source",
+        "productivity",
+        "ai-assistant"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.75,
+        "technical_depth": 0.45,
+        "timeliness": 0.8,
+        "community_heat": 0.6,
+        "domain_match": 0.5
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.1
+    },
+    {
+      "id": "1136441",
+      "title": "Ara",
+      "tagline": "Build an entire business by texting",
+      "description": "Paste an Image to get a website with payments supported. Remove all the friction of setup and sourcing. Get a live domain, real website with payments. And continue to scale on your phone natively. Continue and add full backends/custom domains and much more.",
+      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "website": "https://www.producthunt.com/r/XT7WXCE63DLLKF",
+      "votes": 117,
+      "comments": 10,
+      "topics": [
+        "Messaging",
+        "Payments",
+        "SaaS"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "",
+      "tags": [],
+      "score_breakdown": {
+        "practical_value": 0.0,
+        "technical_depth": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 0.0
+    },
+    {
+      "id": "1133001",
+      "title": "Filect",
+      "tagline": "Organize Your Files With AI",
+      "description": "Filect automatically organizes your files into clean folder structures using AI. You can run it on autopilot or set custom rules, either way, your Desktop, Downloads, and Documents stay clean without lifting a finger. It can also find any specific file instantly. Just describe it in plain English and Filect finds it in seconds. Built for creators, coders, designers, video editors, drowning in files. Mac and Windows. Free 10-day trial.",
+      "url": "https://www.producthunt.com/products/filect",
+      "website": "https://www.producthunt.com/r/WWTXCKT74RCVYX",
+      "votes": 112,
+      "comments": 10,
+      "topics": [
+        "Mac",
+        "Productivity",
+        "Artificial Intelligence"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "Filect 是一款跨平台（Mac/Windows）AI 文件整理工具，通过自然语言理解自动将用户的 Desktop、Downloads、Documents 等目录分类归档至清晰的文件夹结构。支持全自动模式和自定义规则，并提供自然语言文件检索——用户只需描述文件特征（如「上周给 X 客户做的发票」）即可秒级定位。提供 10 天免费试用，目标用户涵盖创作者、开发者、设计师等重度文件使用群体。获得 112 票。相比传统文件管理或搜索工具，Filect 将 LLM 理解能力直接应用于本地文件系统，是 AI-native 生产力工具的典型代表，具有较高的实用价值与领域匹配度。",
+      "tags": [
+        "ai-assistant",
+        "productivity",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.9,
+        "technical_depth": 0.72,
+        "timeliness": 0.85,
+        "community_heat": 0.6,
+        "domain_match": 0.78
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 7.8
+    },
+    {
+      "id": "1133143",
+      "title": "explainx ai",
+      "tagline": "discover & monetize ai skills, agents, tools & mcp servers",
+      "description": "ExplainX.ai is the hub where AI practitioners find everything they need — 10,000+ agent skills, 2,000+ MCP servers, 100,000+ AI tools, agents, LLMs, courses, and news, all ranked by real adoption. Built something? Publish your skill, agent, or MCP server on ExplainX and get discovered by thousands of builders. Free to list, open to the community.",
+      "url": "https://www.producthunt.com/products/explainx",
+      "website": "https://www.producthunt.com/r/DNDZ6ADD5647SS",
+      "votes": 57,
+      "comments": 13,
+      "topics": [
+        "Artificial Intelligence",
+        "Tech news"
+      ],
+      "posted_at": "2026-05-02T07:01:00Z",
+      "collected_at": "2026-05-03T08:00:00Z",
+      "summary": "ExplainX.ai 是专注于 AI 从业者的综合型资源聚合平台，收录 10,000+ Agent 技能、2,000+ MCP 服务器、100,000+ AI 工具及 LLM 相关资源，并按真实采用率排名。平台提供双向价值：开发者可免费发布自己构建的 Agent 技能、MCP 服务器，社区用户则可发现和评估已验证的 AI 工具链。上线获得 57 票及 13 条讨论，对 MCP 生态和 Agent 开发者社区具有较强吸引力。在 AI 工具目录领域，其差异化在于聚焦 MCP 服务器和 Agent 技能的垂直深度，与当前 Claude/Cursor 等工具生态高度契合，是追踪 MCP 生态发展的重要观测窗口。",
+      "tags": [
+        "agent",
+        "mcp",
+        "large-language-model",
+        "developer-tools",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.85,
+        "technical_depth": 0.78,
+        "timeliness": 0.9,
+        "community_heat": 0.5,
+        "domain_match": 0.95
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 8.2
+    }
+  ]
+}

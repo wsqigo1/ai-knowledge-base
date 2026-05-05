@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-04-016",
+  "title": "99xAgency/GodModeSkill",
+  "source": "github-trending",
+  "url": "https://github.com/99xAgency/GodModeSkill",
+  "summary": "GodModeSkill 是为 Claude Code 设计的多 LLM 交叉审查工作流系统。通过 /work 命令编排 plan/implement/bug-fix 三个阶段，引入 3 个不同模型族进行投票机制，在每个决策门槛处实现多模型共识验证，提升代码生成质量和可靠性。核心创新在于将多 agent 协作与代码工程流程深度融合，适用于需要高质量代码输出的复杂开发任务和企业级应用场景。",
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "workflow-automation",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-04T15:45:31.144427+00:00",
+  "analyzed_at": "2026-05-04T15:46:43.124447+00:00",
+  "organized_at": "2026-05-04T15:48:27.188323+00:00",
+  "status": "published"
+}

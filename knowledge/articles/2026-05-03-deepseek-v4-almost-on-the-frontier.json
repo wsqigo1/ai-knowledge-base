@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-001",
+  "title": "DeepSeek V4—almost on the frontier",
+  "source": "hackernews-top",
+  "source_id": "47977026",
+  "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+  "summary": "Simon Willison 对 DeepSeek V4 进行了深入分析评测。DeepSeek V4 是深度求索最新发布的旗舰模型，接近但尚未达到前沿闭源模型的性能水平。Willison 以实测风格对比了 DeepSeek V4 在代码生成、推理、工具调用等任务上的表现，分析其 MoE 架构带来的高性价比优势。DeepSeek 系列以极低的推理成本和开放的权重政策持续挑战西方闭源模型的主导地位，V4 的发布是该系列进化的重要节点。对需要高性能低成本推理服务的工程团队，DeepSeek V4 是值得严肃评估的选项。HN score 520，评论 319，社区高度关注。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "reasoning"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 8.6
+}

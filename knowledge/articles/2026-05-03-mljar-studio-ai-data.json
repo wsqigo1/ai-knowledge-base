@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-03-010",
+  "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+  "source": "hackernews-top",
+  "source_id": "47985077",
+  "url": "https://mljar.com/",
+  "summary": "Mljar Studio 是一个本地运行的 AI 数据分析工具，定位为「本地优先的 AI 数据科学助手」。用户上传数据集后，AI 自动生成数据探索、特征分析、可视化和建模代码，并将整个分析过程保存为 Jupyter Notebook，确保完整的可复现性和可审计性。与云端 AI 分析工具不同，Mljar Studio 强调数据不离本地，适合有数据隐私合规需求的企业用户。核心技术亮点是将 LLM 代码生成能力与数据科学工作流深度整合，输出标准 Notebook 格式。HN score 64，comments 10，属于垂直场景工具。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "open-source"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 6.1
+}

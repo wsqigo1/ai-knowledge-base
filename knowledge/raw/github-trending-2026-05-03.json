@@ -1,0 +1,488 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-03T08:15:00Z",
+  "query": "AI OR LLM OR agent OR RAG OR MCP, past 7 days, sorted by stars",
+  "count": 15,
+  "items": [
+    {
+      "id": "willchen96/mike",
+      "title": "mike",
+      "url": "https://github.com/willchen96/mike",
+      "description": "OSS AI Legal Platform",
+      "stars": 1453,
+      "forks": 385,
+      "language": "TypeScript",
+      "topics": [],
+      "license": "AGPL-3.0",
+      "created_at": "2026-04-29T17:41:12Z",
+      "updated_at": "2026-05-03T05:41:39Z",
+      "readme_excerpt": "Mike is an open-source release containing the Mike frontend and backend. The Contents section describes the structure: frontend/ contains a Next.js application, backend/ includes an Express API with Supabase access, document processing, and migrations, and backend/migrations/000_one_shot_schema.sql provides a one-shot Supabase schema for fresh databases. Setup instructions cover installing dependencies via npm, creating local environment files from examples, running a database migration in Supabase's SQL editor, and starting both the backend and frontend servers before opening localhost:3000.",
+      "summary": "Mike 是一个开源 AI 法律平台，旨在解决法律服务门槛高、成本高的问题。项目基于 Next.js（前端）+ Express API（后端）+ Supabase（数据库）构建，提供文档处理、法律文书分析等核心功能。从技术架构看，其后端集成了 AI 文档处理流水线，能够对法律文档进行智能解析与处理。该平台以 AGPL-3.0 协议开源，适合法律科技创业团队或律所作为基础设施进行二次开发。创建于 2026-04-29，4 天内获得 1453 stars，社区热度较高，但法律 AI 领域与核心 LLM/Agent 方向的领域匹配度相对偏低，属于 AI 应用层产品而非底层技术。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "document-processing"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.7,
+        "technical_depth": 0.45,
+        "timeliness": 0.9,
+        "community_heat": 0.85,
+        "domain_match": 0.4
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.0
+    },
+    {
+      "id": "mattpocock/dictionary-of-ai-coding",
+      "title": "dictionary-of-ai-coding",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+      "description": "AI coding jargon, explained in plain English.",
+      "stars": 709,
+      "forks": 102,
+      "language": "TypeScript",
+      "topics": [],
+      "license": null,
+      "created_at": "2026-05-01T10:17:05Z",
+      "updated_at": "2026-05-03T06:00:04Z",
+      "readme_excerpt": "AI coding can feel like it's just for experts. Unexplained jargon. Mysterious failures. Bills that don't seem to match the work. It isn't, really. A lot of the confusion is manufactured: there's a whole VC-funded economy that benefits from keeping it hard to understand. The basic terms of engagement are learnable in an afternoon.",
+      "summary": "本项目是一本面向普通开发者的「AI 编程术语词典」，致力于用通俗英文解释 AI 编程领域中充斥的专业术语与行话。作者 Matt Pocock 是知名 TypeScript 教育者，他指出 AI 编程领域存在大量人为制造的认知复杂度，背后有 VC 驱动的商业利益。该项目的核心价值在于降低开发者进入 AI 工程领域的学习曲线，提供概念澄清而非代码工具。对于正在学习 prompt engineering、RAG、embedding 等概念的开发者有一定参考价值，但技术深度有限，属于教育性内容而非工程工具。创建于 2026-05-01，2 天内积累 709 stars，说明社区对 AI 术语普及类内容需求旺盛。",
+      "tags": [
+        "prompt-engineering",
+        "large-language-model",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.4,
+        "technical_depth": 0.25,
+        "timeliness": 0.95,
+        "community_heat": 0.65,
+        "domain_match": 0.7
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 5.1
+    },
+    {
+      "id": "ka-pi-ba-la/AIbijia",
+      "title": "AIbijia",
+      "url": "https://github.com/ka-pi-ba-la/AIbijia",
+      "description": "Sharing affordable, reliable tokens to level the playing field",
+      "stars": 652,
+      "forks": 28,
+      "language": null,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-04-27T12:55:00Z",
+      "updated_at": "2026-05-03T05:51:30Z",
+      "readme_excerpt": "AI bijia is an AI Token built on Anthropic's Claude Agent SDK.",
+      "summary": "AIbijia 是一个基于 Anthropic Claude Agent SDK 构建的 AI Token 共享平台，旨在为用户提供经济实惠、稳定可靠的 API 访问渠道，目标是降低 AI 使用门槛、平衡资源获取的不平等问题。项目本身以资源聚合为主要功能，技术层面直接调用 Claude Agent SDK，未见原创架构或算法创新。该项目于 2026-04-27 创建，6 天内获得 652 stars，但 forks 仅 28，表明更多是关注者而非使用者。作为 Token 分享/中转工具，存在一定合规风险，且技术深度有限，核心价值在于成本普惠而非技术创新。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.5,
+        "technical_depth": 0.2,
+        "timeliness": 0.85,
+        "community_heat": 0.6,
+        "domain_match": 0.55
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 4.6
+    },
+    {
+      "id": "appergb/openless",
+      "title": "openless",
+      "url": "https://github.com/appergb/openless",
+      "description": "Hold key, speak, release — AI-polished text at cursor in any app",
+      "stars": 430,
+      "forks": 33,
+      "language": "HTML",
+      "topics": [
+        "ai-prompt",
+        "asr",
+        "dictation",
+        "llm",
+        "macos",
+        "open-source",
+        "voice-input"
+      ],
+      "license": "MIT",
+      "created_at": "2026-04-27T07:25:49Z",
+      "updated_at": "2026-05-03T05:54:04Z",
+      "readme_excerpt": "OpenLess is a cross-platform (macOS & Windows) voice-input app — a fully open-source alternative to commercial tools like Typeless, Wispr Flow, Lazy, and Superwhisper.",
+      "summary": "OpenLess 是一款跨平台（macOS & Windows）开源语音输入工具，解决了商业语音输入工具价格高昂且不透明的问题。用户按住快捷键说话、松开后即可在任意应用光标处获得经 LLM 润色的文本输出，融合了 ASR（自动语音识别）与 LLM 文本优化两个环节。技术栈基于 HTML/JS，集成了主流 ASR 引擎与 LLM prompt，实现端到端的语音转精炼文本流程。该工具以 MIT 协议开源，适合日常写作、编程注释、邮件撰写等场景。从 LLM 应用工程视角看，其将 prompt engineering 与 ASR 管道结合的思路具有一定参考价值，社区关注度中等（430 stars）。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.75,
+        "technical_depth": 0.35,
+        "timeliness": 0.85,
+        "community_heat": 0.45,
+        "domain_match": 0.5
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 5.4
+    },
+    {
+      "id": "noonghunna/club-3090",
+      "title": "club-3090",
+      "url": "https://github.com/noonghunna/club-3090",
+      "description": "Community recipes for serving LLMs on RTX 3090",
+      "stars": 395,
+      "forks": 21,
+      "language": "Shell",
+      "topics": [],
+      "license": "Apache-2.0",
+      "created_at": "2026-04-28T10:08:59Z",
+      "updated_at": "2026-05-03T05:48:28Z",
+      "readme_excerpt": "Recipes for serving LLMs locally on RTX 3090s. Multi-engine (vLLM, llama.cpp, SGLang), multi-model, model-agnostic by design.",
+      "summary": "Club-3090 是一个面向 RTX 3090 显卡用户的 LLM 本地部署「食谱」社区项目，旨在解决消费级 GPU 部署大语言模型配置复杂、经验分散的问题。项目以 Shell 脚本为主，支持多推理引擎（vLLM、llama.cpp、SGLang）、多模型、模型无关设计，用户可根据自己的模型和场景选择最合适的部署方式。这种「多引擎食谱」设计降低了 LLM 本地推理的上手门槛，对拥有 3090 的个人开发者和研究者具有直接实用价值。创建于 2026-04-28，5 天内获得 395 stars，社区反响良好。技术深度偏向工程实践（配置/脚本）而非算法创新，领域匹配为 LLM 推理部署方向。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.8,
+        "technical_depth": 0.4,
+        "timeliness": 0.85,
+        "community_heat": 0.4,
+        "domain_match": 0.7
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.0
+    },
+    {
+      "id": "skydoves/compose-performance-skills",
+      "title": "compose-performance-skills",
+      "url": "https://github.com/skydoves/compose-performance-skills",
+      "description": "Curated library of Agent Skills for Jetpack Compose",
+      "stars": 263,
+      "forks": 9,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "compose",
+        "kotlin"
+      ],
+      "license": "Apache-2.0",
+      "created_at": "2026-04-29T08:02:27Z",
+      "updated_at": "2026-05-03T05:08:00Z",
+      "readme_excerpt": null,
+      "summary": "该项目是专为 Jetpack Compose 性能优化场景设计的 Claude Agent Skills 技能库，解决了 AI 编程助手在 Android UI 开发场景中缺乏专业领域知识的问题。通过预定义 Agent Skills，开发者可以让 Claude 更准确地给出 Compose 性能相关的代码建议。技术上结合了 Claude Code Agent Skills 机制与 Kotlin/Compose 领域知识，是 AI 辅助 Android 开发的垂直领域应用。项目于 2026-04-29 创建，stars（263）偏低，属于细分领域工具。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.6,
+        "technical_depth": 0.45,
+        "timeliness": 0.9,
+        "community_heat": 0.3,
+        "domain_match": 0.55
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 5.0
+    },
+    {
+      "id": "tddworks/baguette",
+      "title": "baguette",
+      "url": "https://github.com/tddworks/baguette",
+      "description": "Headless iOS Simulator manager with host-side input injection",
+      "stars": 252,
+      "forks": 11,
+      "language": "Swift",
+      "topics": [
+        "agent",
+        "ios",
+        "simulator",
+        "streaming"
+      ],
+      "license": "Apache-2.0",
+      "created_at": "2026-05-01T08:14:13Z",
+      "updated_at": "2026-05-03T05:58:17Z",
+      "readme_excerpt": null,
+      "summary": "Baguette 是一个 Headless iOS 模拟器管理工具，支持宿主机侧的输入注入，主要服务于 AI Agent 自动化测试 iOS 应用的场景。项目以 Swift 编写，设计目标是让 AI Agent 能够无头控制 iOS 模拟器执行 UI 测试任务。这一方向与 Agent 工具使用（tool-use）和自动化测试密切相关，为 AI 驱动的移动端 QA 流程提供基础设施。创建于 2026-05-01，2 天内获得 252 stars，技术上聚焦于 Agent 与移动端模拟器的交互接口。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.65,
+        "technical_depth": 0.5,
+        "timeliness": 0.95,
+        "community_heat": 0.28,
+        "domain_match": 0.55
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 5.2
+    },
+    {
+      "id": "Snaplii-Inc/agent-to-merchant-payments",
+      "title": "agent-to-merchant-payments",
+      "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+      "description": "Tokenized payment layer for AI agents with merchant gift cards",
+      "stars": 217,
+      "forks": 31,
+      "language": "Python",
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-27T23:12:18Z",
+      "updated_at": "2026-05-03T05:50:21Z",
+      "readme_excerpt": null,
+      "summary": "该项目探索了 AI Agent 自主完成支付交易的基础设施层，解决的核心问题是：当 AI Agent 代表用户执行购物、订阅等任务时，如何安全、合规地完成商户结算。技术方案采用代币化支付层（Tokenized payment layer），结合商户礼品卡机制，让 Agent 持有可消耗的支付凭证而非直接操作真实账户，从而隔离风险。这是 Agentic AI 商业化落地的关键基础设施之一，代表了 AI Agent 经济（Agent Economy）的早期探索。项目以 Python 编写，217 stars，forks 31，技术深度中等，但领域前沿性突出。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.6,
+        "technical_depth": 0.55,
+        "timeliness": 0.85,
+        "community_heat": 0.25,
+        "domain_match": 0.85
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.3
+    },
+    {
+      "id": "Julpygo/Claude-Code-AI-Design",
+      "title": "Claude-Code-AI-Design",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "description": "Claude design toolkit with Figma to Code, React 19, Tailwind v4",
+      "stars": 213,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-design"
+      ],
+      "license": "MIT",
+      "created_at": "2026-04-29T15:04:46Z",
+      "updated_at": "2026-05-03T05:52:42Z",
+      "readme_excerpt": null,
+      "summary": "该项目是一个以 Claude Code 为核心的 AI 设计工具包，将 Figma 设计稿转换为 React 19 + Tailwind v4 代码，主打「设计稿直出生产代码」的工程场景。项目创建于 2026-04-29，213 stars，forks 为 0，社区参与度低，可能处于早期阶段。技术深度有限，核心亮点在于 Figma-to-Code 的工作流集成，与 LLM 代码生成方向有一定关联，但创新性一般。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "prompt-engineering"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.55,
+        "technical_depth": 0.3,
+        "timeliness": 0.9,
+        "community_heat": 0.22,
+        "domain_match": 0.5
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 4.3
+    },
+    {
+      "id": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "title": "Stable-Diffusion-AI-Free",
+      "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+      "description": "Stable Diffusion free image generator with Flux 2, SDXL Turbo",
+      "stars": 207,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-image-generator",
+        "stable-diffusion"
+      ],
+      "license": "MIT",
+      "created_at": "2026-04-29T14:44:45Z",
+      "updated_at": "2026-05-03T03:37:55Z",
+      "readme_excerpt": null,
+      "summary": "该项目声称提供免费的 Stable Diffusion 图像生成服务，支持 Flux 2 和 SDXL Turbo 模型。元数据极为稀少，forks 为 0，项目可信度存疑。Stable Diffusion 属于图像生成领域，与本知识库核心追踪的 LLM/Agent/RAG 方向相关性较低，且社区参与度模式异常，建议低优先级处理。",
+      "tags": [
+        "multimodal",
+        "open-source"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.35,
+        "technical_depth": 0.15,
+        "timeliness": 0.9,
+        "community_heat": 0.22,
+        "domain_match": 0.25
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 3.0
+    },
+    {
+      "id": "ForecastForge/coinbase-trading-bot",
+      "title": "coinbase-trading-bot",
+      "url": "https://github.com/ForecastForge/coinbase-trading-bot",
+      "description": "AI-automated crypto trading bot for Coinbase with grid DCA",
+      "stars": 205,
+      "forks": 190,
+      "language": "TypeScript",
+      "topics": [
+        "crypto-bot",
+        "trading-automation",
+        "trading-bot"
+      ],
+      "license": null,
+      "created_at": "2026-04-27T18:35:31Z",
+      "updated_at": "2026-05-03T05:45:39Z",
+      "readme_excerpt": null,
+      "summary": "该项目是一个针对 Coinbase 交易所的 AI 驱动加密货币自动交易机器人，集成了网格交易和定期定额两种经典策略。forks 高达 190（相对于 205 stars 比例异常高），提示可能存在模板性质。与核心 LLM/Agent/RAG 知识领域相关性较弱，属于「AI」标签泛化使用的金融科技应用，建议低优先级收录。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.45,
+        "technical_depth": 0.2,
+        "timeliness": 0.85,
+        "community_heat": 0.22,
+        "domain_match": 0.2
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 3.2
+    },
+    {
+      "id": "Alfredo7777777/claude-design-agents-toolkit",
+      "title": "claude-design-agents-toolkit",
+      "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
+      "description": "Claude Code AI Design Suite with plugins for coders",
+      "stars": 198,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-design"
+      ],
+      "license": null,
+      "created_at": "2026-05-01T14:43:59Z",
+      "updated_at": "2026-05-03T03:22:47Z",
+      "readme_excerpt": null,
+      "summary": "该项目是一个以 Claude Code 为核心的 AI 设计工具包，将 Figma 设计稿转换为 React 19 + Tailwind v4 代码，主打「设计稿直出生产代码」的工程场景。项目创建于 2026-04-29，213 stars，forks 为 0，社区参与度低，可能处于早期阶段。技术深度有限，核心亮点在于 Figma-to-Code 的工作流集成，与 LLM 代码生成方向有一定关联，但创新性一般。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "prompt-engineering"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.3,
+        "technical_depth": 0.15,
+        "timeliness": 0.95,
+        "community_heat": 0.2,
+        "domain_match": 0.45
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 3.1
+    },
+    {
+      "id": "endless-sky-team/ai-trading-agent",
+      "title": "ai-trading-agent",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent",
+      "description": "LLM trading bot with algorithmic strategy automation",
+      "stars": 197,
+      "forks": 161,
+      "language": "TypeScript",
+      "topics": [
+        "ai-trading",
+        "crypto-bot",
+        "llm",
+        "trading-bot"
+      ],
+      "license": null,
+      "created_at": "2026-04-29T21:48:01Z",
+      "updated_at": "2026-05-03T05:58:57Z",
+      "readme_excerpt": null,
+      "summary": "该项目是基于 LLM 的加密货币交易 Agent，将 LLM 决策能力与算法交易策略自动化相结合，以 TypeScript 编写。forks（161）相对于 stars（197）的比例异常高，暗示模板克隆使用居多。LLM 在交易决策中的角色比一般交易机器人更为明确，但加密交易场景的实际 LLM 应用价值存疑，与核心 Agent/RAG 研究方向匹配度一般。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.4,
+        "technical_depth": 0.25,
+        "timeliness": 0.9,
+        "community_heat": 0.22,
+        "domain_match": 0.35
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 3.7
+    },
+    {
+      "id": "IKingBarou/Zeroclaw-Plugin-Hub",
+      "title": "Zeroclaw-Plugin-Hub",
+      "url": "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub",
+      "description": "ZeroClaw Agentic CLI with Claude Code Multi-MCP Router",
+      "stars": 197,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "claude",
+        "claude-code",
+        "mcp"
+      ],
+      "license": null,
+      "created_at": "2026-05-01T14:44:00Z",
+      "updated_at": "2026-05-02T19:26:52Z",
+      "readme_excerpt": null,
+      "summary": "Zeroclaw-Plugin-Hub 是一个面向 Claude Code 用户的 Agentic CLI 工具，核心亮点是集成了 Multi-MCP Router（多 Model Context Protocol 路由器），允许在单一 CLI 入口中统一调度多个 MCP 服务端。这解决了在复杂 Agent 工作流中需要手动切换不同 MCP 服务的痛点，实现工具调用的统一管理与路由分发。MCP（Model Context Protocol）是 Anthropic 推进的 Agent 工具标准协议，Multi-MCP 路由能力对于构建复杂多工具 Agent 系统具有重要工程价值。项目创建于 2026-05-01，2 天内获 197 stars。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "multi-agent",
+        "prompt-engineering"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.7,
+        "technical_depth": 0.6,
+        "timeliness": 0.95,
+        "community_heat": 0.22,
+        "domain_match": 0.9
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 6.5
+    },
+    {
+      "id": "bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "title": "GPT-Image-2-Driven-Prompt-Engine",
+      "url": "https://github.com/bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "description": "GPT-Image-2 prompt guide for AI image editing",
+      "stars": 197,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "gpt-image-2",
+        "image-generation"
+      ],
+      "license": null,
+      "created_at": "2026-05-01T14:43:56Z",
+      "updated_at": "2026-05-02T19:27:42Z",
+      "readme_excerpt": null,
+      "summary": "该项目是针对 GPT-Image-2 模型的 prompt 工程指南，专注于 AI 图像编辑场景的提示词设计方法论。GPT-Image-2 是 OpenAI 的图像生成/编辑模型，本项目系统整理了驱动该模型实现高质量图像编辑效果的 prompt 模式与最佳实践。属于知识性文档而非代码工具，技术原创性有限。创建于 2026-05-01，与另外两个同日创建、同 stars 数的项目特征相似，可信度存疑。",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "large-language-model"
+      ],
+      "score_breakdown": {
+        "practical_value": 0.4,
+        "technical_depth": 0.25,
+        "timeliness": 0.95,
+        "community_heat": 0.22,
+        "domain_match": 0.45
+      },
+      "analyzed_at": "2026-05-03T09:00:00Z",
+      "score": 3.8
+    }
+  ]
+}

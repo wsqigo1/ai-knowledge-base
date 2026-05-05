@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-005",
+  "title": "Flue is a TypeScript framework for building the next generation of agents",
+  "source": "hackernews-top",
+  "source_id": "47988501",
+  "url": "https://flueframework.com/",
+  "summary": "Flue 是一个基于 TypeScript 构建的新一代 Agent 框架，定位为生产级多 Agent 系统的开发基础设施。核心特性包括：类型安全的工具定义与调用、内置的 Agent 间通信协议、状态持久化机制，以及对主流 LLM 提供商的统一适配层。与 LangChain、AutoGen 等已有框架相比，Flue 主打 TypeScript 原生、开发体验优先和更简洁的 API 设计。对前端/全栈开发者从事 Agent 应用开发是直接降低门槛的工具。HN score 89，comments 50，早期社区关注度适中，框架生态还处于初期，稳定性是潜在风险点。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "open-source"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 7.4
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-015",
+  "title": "Zeroclaw-Plugin-Hub: ZeroClaw Agentic CLI with Claude Code Multi-MCP Router",
+  "source": "github-trending",
+  "source_id": "IKingBarou/Zeroclaw-Plugin-Hub",
+  "url": "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub",
+  "summary": "Zeroclaw-Plugin-Hub 是一个面向 Claude Code 用户的 Agentic CLI 工具，核心亮点是集成了 Multi-MCP Router（多 Model Context Protocol 路由器），允许在单一 CLI 入口中统一调度多个 MCP 服务端。这解决了在复杂 Agent 工作流中需要手动切换不同 MCP 服务的痛点，实现工具调用的统一管理与路由分发。MCP（Model Context Protocol）是 Anthropic 推进的 Agent 工具标准协议，Multi-MCP 路由能力对于构建复杂多工具 Agent 系统具有重要工程价值。项目创建于 2026-05-01，2 天内获 197 stars。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent",
+    "prompt-engineering"
+  ],
+  "collected_at": "2026-05-03T08:15:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 6.5
+}

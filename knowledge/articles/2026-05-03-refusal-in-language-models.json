@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-002",
+  "title": "Refusal in Language Models Is Mediated by a Single Direction",
+  "source": "hackernews-top",
+  "source_id": "47986136",
+  "url": "https://arxiv.org/abs/2406.11717",
+  "summary": "这篇 arXiv 论文通过机械可解释性（mechanistic interpretability）方法发现：LLM 的拒绝行为（Refusal）在模型内部表示空间中由单一线性方向所主导。研究者识别出一个「拒绝方向」向量，并验证了通过操控该方向可以系统性地激活或抑制模型的拒绝输出。这一发现对 AI 安全对齐研究有深远意义：揭示了 RLHF 对齐的几何结构，同时也暗示了对齐机制的脆弱性。对 LLM 安全研究者、红队测试工程师以及 alignment 方向研究者而言，这是一篇具有高技术价值和开创性意义的核心论文。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "fine-tuning"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 8.0
+}

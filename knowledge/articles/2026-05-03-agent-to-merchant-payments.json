@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-03-014",
+  "title": "agent-to-merchant-payments: Tokenized payment layer for AI agents",
+  "source": "github-trending",
+  "source_id": "Snaplii-Inc/agent-to-merchant-payments",
+  "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+  "summary": "该项目探索了 AI Agent 自主完成支付交易的基础设施层，解决的核心问题是：当 AI Agent 代表用户执行购物、订阅等任务时，如何安全、合规地完成商户结算。技术方案采用代币化支付层（Tokenized payment layer），结合商户礼品卡机制，让 Agent 持有可消耗的支付凭证而非直接操作真实账户，从而隔离风险。这是 Agentic AI 商业化落地的关键基础设施之一，代表了 AI Agent 经济（Agent Economy）的早期探索。项目以 Python 编写，217 stars，forks 31，技术深度中等，但领域前沿性突出。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "large-language-model"
+  ],
+  "collected_at": "2026-05-03T08:15:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 6.3
+}

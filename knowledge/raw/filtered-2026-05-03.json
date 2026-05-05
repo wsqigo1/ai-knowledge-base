@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-03",
+  "filtered": [
+    {
+      "id": "mattpocock/dictionary-of-ai-coding",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+      "reason": "score 5.1 < 6.0 (educational content, not engineering tool)"
+    },
+    {
+      "id": "ka-pi-ba-la/AIbijia",
+      "url": "https://github.com/ka-pi-ba-la/AIbijia",
+      "reason": "score 4.6 < 6.0 (token sharing tool with compliance concerns)"
+    },
+    {
+      "id": "appergb/openless",
+      "url": "https://github.com/appergb/openless",
+      "reason": "score 5.4 < 6.0 (voice input tool, limited LLM/Agent focus)"
+    },
+    {
+      "id": "skydoves/compose-performance-skills",
+      "url": "https://github.com/skydoves/compose-performance-skills",
+      "reason": "score 5.0 < 6.0 (narrow domain: Android Compose optimization)"
+    },
+    {
+      "id": "tddworks/baguette",
+      "url": "https://github.com/tddworks/baguette",
+      "reason": "score 5.2 < 6.0 (iOS simulator tool, peripheral to core Agent/LLM)"
+    },
+    {
+      "id": "Julpygo/Claude-Code-AI-Design",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "reason": "score 4.3 < 6.0 (early-stage design tool, low community engagement)"
+    },
+    {
+      "id": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+      "reason": "score 3.0 < 6.0 (image generation, not LLM/Agent focused; project credibility low)"
+    },
+    {
+      "id": "ForecastForge/coinbase-trading-bot",
+      "url": "https://github.com/ForecastForge/coinbase-trading-bot",
+      "reason": "score 3.2 < 6.0 (crypto trading bot with suspicious fork/star ratio)"
+    },
+    {
+      "id": "Alfredo7777777/claude-design-agents-toolkit",
+      "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
+      "reason": "score 3.1 < 6.0 (minimal content; early placeholder project)"
+    },
+    {
+      "id": "endless-sky-team/ai-trading-agent",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent",
+      "reason": "score 3.7 < 6.0 (crypto trading agent; questionable fork/star ratio)"
+    },
+    {
+      "id": "bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "url": "https://github.com/bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "reason": "score 3.8 < 6.0 (image generation prompt guide; project credibility concerns)"
+    },
+    {
+      "id": "47972481",
+      "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+      "reason": "score 3.3 < 6.0 (philosophical discussion; low practical value)"
+    },
+    {
+      "id": "47991981",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "reason": "score 5.7 < 6.0 (medical application; very low community heat; early-stage validation)"
+    },
+    {
+      "id": "47992349",
+      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "reason": "score 4.2 < 6.0 (policy news; low technical depth; peripheral to core knowledge)"
+    },
+    {
+      "id": "47991018",
+      "url": "https://github.com/mahimairaja/voiceai",
+      "reason": "score 5.5 < 6.0 (voice AI learning path; early-stage community signal)"
+    }
+  ],
+  "total_filtered": 15,
+  "total_processed": 30,
+  "pass_rate": "50%"
+}

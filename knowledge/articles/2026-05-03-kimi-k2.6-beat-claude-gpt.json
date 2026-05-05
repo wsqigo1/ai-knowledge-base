@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-003",
+  "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+  "source": "hackernews-top",
+  "source_id": "47993235",
+  "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+  "summary": "本文报道月之暗面（Moonshot AI）发布的开源权重模型 Kimi K2.6 在一项编程挑战 benchmark 中超越了 Claude、GPT-5.5 及 Gemini 系列模型。这一结果的核心意义在于：一个开源权重中文模型在代码生成领域已具备与顶级闭源模型竞争的能力，打破了「开源模型在编码任务上存在显著代差」的惯性认知。技术亮点涵盖 Kimi K2.6 在编程推理、多步骤问题求解方面的优化，以及可能采用的 MoE 架构提升推理效率。对开发者而言，可下载权重并本地部署，提供生产级代码辅助能力，该结果若得到其他 benchmark 交叉验证，将是开源大模型生态的重要里程碑。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "benchmark",
+    "open-source"
+  ],
+  "collected_at": "2026-05-03T08:00:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 7.9
+}

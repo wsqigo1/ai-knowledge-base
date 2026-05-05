@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-03-013",
+  "title": "club-3090: Community recipes for serving LLMs on RTX 3090",
+  "source": "github-trending",
+  "source_id": "noonghunna/club-3090",
+  "url": "https://github.com/noonghunna/club-3090",
+  "summary": "Club-3090 是一个面向 RTX 3090 显卡用户的 LLM 本地部署「食谱」社区项目，旨在解决消费级 GPU 部署大语言模型配置复杂、经验分散的问题。项目以 Shell 脚本为主，支持多推理引擎（vLLM、llama.cpp、SGLang）、多模型、模型无关设计，用户可根据自己的模型和场景选择最合适的部署方式。这种「多引擎食谱」设计降低了 LLM 本地推理的上手门槛，对拥有 3090 的个人开发者和研究者具有直接实用价值。创建于 2026-04-28，5 天内获得 395 stars，社区反响良好。技术深度偏向工程实践（配置/脚本）而非算法创新，领域匹配为 LLM 推理部署方向。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "fine-tuning"
+  ],
+  "collected_at": "2026-05-03T08:15:00Z",
+  "analyzed_at": "2026-05-03T09:00:00Z",
+  "organized_at": "2026-05-03T10:30:00Z",
+  "status": "published",
+  "score": 6.0
+}
