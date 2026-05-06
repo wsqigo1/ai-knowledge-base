@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-06-005",
+  "title": ".de TLD offline due to DNSSEC?",
+  "source": "hackernews-top",
+  "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+  "summary": ".de顶级域名因DNSSEC配置问题导致离线，影响德国及全球用户访问。该事件暴露了DNSSEC部署中的关键风险：密钥管理失误或配置错误可引发域名系统级故障。核心亮点在于揭示了DNSSEC安全机制与可用性之间的权衡，以及自动化验证工具在故障检测中的局限性。适用场景：域名系统运维、网络安全策略评估、关键基础设施可靠性研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-06T01:52:02.074397+00:00",
+  "analyzed_at": "2026-05-06T01:52:56.419957+00:00",
+  "organized_at": "2026-05-06T01:53:41.951260+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-06-006",
+  "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+  "summary": "Google 发表文章介绍 Gemma 4 通过多 token 预测 drafters 加速推理。传统自回归 LLM 每次生成一个 token，导致推理延迟高。核心创新在于训练小型 draft 模型同时预测多个未来 token，再通过验证阶段并行接受或拒绝，实现 2-3 倍推理加速，且不牺牲生成质量。适用于需要低延迟响应的生产环境，如实时对话、代码补全等场景。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "ai-assistant",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-05-06T01:52:02.074397+00:00",
+  "analyzed_at": "2026-05-06T01:52:58.936045+00:00",
+  "organized_at": "2026-05-06T01:53:41.951260+00:00",
+  "status": "published"
+}

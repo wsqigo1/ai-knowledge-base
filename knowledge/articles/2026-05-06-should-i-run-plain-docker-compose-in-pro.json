@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-06-015",
+  "title": "Should I run plain Docker Compose in production in 2026?",
+  "source": "hackernews-top",
+  "url": "https://distr.sh/blog/running-docker-in-production/",
+  "summary": "讨论在2026年是否应直接在生产环境使用Docker Compose，核心问题是其与Kubernetes等编排工具的权衡。Docker Compose简化了单机多容器部署，但缺乏生产级高可用、自动扩缩容和滚动更新能力。技术亮点在于其声明式配置和开发-生产环境一致性。适用场景为小型项目、边缘计算或初创团队，而大型分布式系统仍需Kubernetes。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-06T01:52:02.074397+00:00",
+  "analyzed_at": "2026-05-06T01:53:39.824021+00:00",
+  "organized_at": "2026-05-06T01:53:41.951260+00:00",
+  "status": "published"
+}

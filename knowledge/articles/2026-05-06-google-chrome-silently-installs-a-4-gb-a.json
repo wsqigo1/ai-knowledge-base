@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-06-013",
+  "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+  "source": "hackernews-top",
+  "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+  "summary": "Google Chrome 在未经用户明确同意的情况下，自动下载并安装约 4GB 的 AI 模型（用于本地推理），引发隐私和存储空间争议。该问题暴露了浏览器集成 AI 功能时缺乏透明度和用户控制权。核心技术亮点是本地 AI 推理能力，但安装过程无提示且无法轻易删除。适用场景包括离线 AI 助手、隐私敏感任务，但当前实现方式存在合规风险。",
+  "tags": [
+    "ai-assistant",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-06T01:52:02.074397+00:00",
+  "analyzed_at": "2026-05-06T01:53:30.196509+00:00",
+  "organized_at": "2026-05-06T01:53:41.951260+00:00",
+  "status": "published"
+}

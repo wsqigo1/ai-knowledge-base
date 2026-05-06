@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-06-007",
+  "title": "Computer Use is 45x more expensive than structured APIs",
+  "source": "hackernews-top",
+  "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+  "summary": "该条目比较了计算机使用（Computer Use）与结构化API的成本差异，指出前者比后者贵45倍。核心问题是评估AI代理在执行任务时，通过模拟人类操作（如点击、输入）的计算机使用方式与直接调用结构化API的效率与成本。技术亮点在于量化了两种方法的成本差距，揭示了计算机使用在资源消耗上的劣势。适用场景为AI工程师在构建自动化工作流时，需权衡成本与灵活性，选择更经济的API调用方式。",
+  "tags": [
+    "agent",
+    "benchmark",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-06T01:52:02.074397+00:00",
+  "analyzed_at": "2026-05-06T01:53:01.618196+00:00",
+  "organized_at": "2026-05-06T01:53:41.951260+00:00",
+  "status": "published"
+}

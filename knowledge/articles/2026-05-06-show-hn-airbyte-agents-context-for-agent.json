@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-06-012",
+  "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=48023496",
+  "summary": "Airbyte Agents 是一个开源工具，为 AI 代理提供跨多个数据源的上下文。它解决了代理在访问分散数据（如数据库、API、文件）时缺乏统一上下文的问题。核心技术亮点是集成 Airbyte 的数据连接能力，自动从异构数据源提取、同步并结构化数据，供代理实时查询。适用场景包括需要多源数据支持的 AI 助手、自动化工作流和数据分析代理。",
+  "tags": [
+    "agent",
+    "open-source",
+    "workflow-automation",
+    "ai-assistant",
+    "tool-use"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-05-06T01:52:02.074397+00:00",
+  "analyzed_at": "2026-05-06T01:53:27.642734+00:00",
+  "organized_at": "2026-05-06T01:53:41.951260+00:00",
+  "status": "published"
+}
