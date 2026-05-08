@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-08-015",
+  "title": "Agents need control flow, not more prompts",
+  "source": "hackernews-top",
+  "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+  "summary": "当前AI代理过度依赖提示工程，导致不可预测和脆弱的行为。文章提出核心问题：代理需要控制流（如循环、条件分支、状态机）而非更多提示。技术亮点是引入结构化控制机制来替代纯提示驱动，提升代理的可靠性和可调试性。适用场景包括复杂任务编排、多步骤工作流自动化、以及需要确定性行为的AI系统。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "developer-tools",
+    "reasoning",
+    "prompt-engineering"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-08T02:02:05.106190+00:00",
+  "analyzed_at": "2026-05-08T02:03:12.665019+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}

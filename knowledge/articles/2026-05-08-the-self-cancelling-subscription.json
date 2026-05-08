@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-08-024",
+  "title": "The Self-Cancelling Subscription",
+  "source": "hackernews-top",
+  "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+  "summary": "The Self-Cancelling Subscription 是一种设计模式，解决订阅资源（如事件监听、数据库连接）在组件卸载或生命周期结束时未正确清理导致的内存泄漏和资源浪费问题。核心亮点在于通过自动取消订阅机制（如使用 React useEffect 返回清理函数或 RxJS Subscription 管理），确保资源释放与组件状态同步。适用场景包括前端框架（React/Vue）中的副作用管理、后端 Node.js 的流式数据处理、以及任何需要动态订阅/取消订阅的异步系统。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-08T02:02:05.106190+00:00",
+  "analyzed_at": "2026-05-08T02:03:51.246491+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}

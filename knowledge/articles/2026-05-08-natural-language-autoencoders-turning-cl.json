@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-08-017",
+  "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+  "summary": "Natural Language Autoencoders 是一种将Claude等大语言模型的内部表示（thoughts）无损压缩为可读文本的技术。它解决了模型内部状态不可解释、难以调试的问题，核心亮点是通过自编码器架构将高维隐空间映射到自然语言，实现可逆编码。适用于模型可解释性研究、安全对齐分析及生成过程可视化。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-05-08T02:02:05.106190+00:00",
+  "analyzed_at": "2026-05-08T02:03:20.288819+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}

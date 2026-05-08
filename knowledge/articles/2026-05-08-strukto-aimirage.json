@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-08-002",
+  "title": "strukto-ai/mirage",
+  "source": "github-trending",
+  "url": "https://github.com/strukto-ai/mirage",
+  "summary": "Mirage 是一个为 AI 代理设计的统一虚拟文件系统，解决 AI 代理在访问和操作本地文件系统时面临的权限、隔离和兼容性问题。核心技术亮点包括：基于 FUSE 实现虚拟文件系统层，提供沙箱化文件操作环境；支持 Bash 和 Claude Code 等工具集成；通过统一接口抽象不同存储后端。适用场景：AI 代理开发中的文件操作沙箱、多工具协同工作流、安全文件访问控制。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-08T02:02:05.007459+00:00",
+  "analyzed_at": "2026-05-08T02:02:14.142690+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}

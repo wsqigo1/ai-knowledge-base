@@ -1,7 +1,369 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 71,
+  "total_count": 95,
   "entries": [
+    {
+      "id": "kb-2026-05-08-001",
+      "title": "yaojingang/yao-open-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "file": "2026-05-08-yaojingangyao-open-prompts.json",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-002",
+      "title": "strukto-ai/mirage",
+      "source": "github-trending",
+      "url": "https://github.com/strukto-ai/mirage",
+      "file": "2026-05-08-strukto-aimirage.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-003",
+      "title": "lightseekorg/tokenspeed",
+      "source": "github-trending",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "file": "2026-05-08-lightseekorgtokenspeed.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-004",
+      "title": "zarazhangrui/beautiful-html-templates",
+      "source": "github-trending",
+      "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "file": "2026-05-08-zarazhangruibeautiful-html-templates.json",
+      "tags": [
+        "code-generation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-005",
+      "title": "thcp/stemdeck",
+      "source": "github-trending",
+      "url": "https://github.com/thcp/stemdeck",
+      "file": "2026-05-08-thcpstemdeck.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-006",
+      "title": "joshawome/chainreason",
+      "source": "github-trending",
+      "url": "https://github.com/joshawome/chainreason",
+      "file": "2026-05-08-joshawomechainreason.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-007",
+      "title": "butthtio/solidity-cot-auditor",
+      "source": "github-trending",
+      "url": "https://github.com/butthtio/solidity-cot-auditor",
+      "file": "2026-05-08-butthtiosolidity-cot-auditor.json",
+      "tags": [
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-008",
+      "title": "TQ-trade-agent/tq-trading-agent",
+      "source": "github-trending",
+      "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "file": "2026-05-08-tq-trade-agenttq-trading-agent.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-009",
+      "title": "Ajai53200/DeepSeek-V4-Pro-App",
+      "source": "github-trending",
+      "url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
+      "file": "2026-05-08-ajai53200deepseek-v4-pro-app.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-010",
+      "title": "TheSashaDev/girl-agent",
+      "source": "github-trending",
+      "url": "https://github.com/TheSashaDev/girl-agent",
+      "file": "2026-05-08-thesashadevgirl-agent.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-011",
+      "title": "darkrishabh/agent-skills-eval",
+      "source": "github-trending",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "file": "2026-05-08-darkrishabhagent-skills-eval.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "developer-tools",
+        "cli"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-012",
+      "title": "jmerelnyc/Photo-agents",
+      "source": "github-trending",
+      "url": "https://github.com/jmerelnyc/Photo-agents",
+      "file": "2026-05-08-jmerelnycphoto-agents.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "workflow-automation",
+        "computer-use"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-013",
+      "title": "NirDiamant/Agent_Memory_Techniques",
+      "source": "github-trending",
+      "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "file": "2026-05-08-nirdiamantagent-memory-techniques.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "vector-database",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-014",
+      "title": "WenyuChiou/awesome-agentic-ai-zh",
+      "source": "github-trending",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "file": "2026-05-08-wenyuchiouawesome-agentic-ai-zh.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-015",
+      "title": "Agents need control flow, not more prompts",
+      "source": "hackernews-top",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "file": "2026-05-08-agents-need-control-flow-not-more-prompt.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "reasoning",
+        "prompt-engineering"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-016",
+      "title": "Building for the Future",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "file": "2026-05-08-building-for-the-future.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-017",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "file": "2026-05-08-natural-language-autoencoders-turning-cl.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-018",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "file": "2026-05-08-alphaevolve-gemini-powered-coding-agent-.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-019",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "source": "hackernews-top",
+      "url": "https://github.com/antirez/ds4",
+      "file": "2026-05-08-deepseek-4-flash-local-inference-engine-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-020",
+      "title": "AI slop is killing online communities",
+      "source": "hackernews-top",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "file": "2026-05-08-ai-slop-is-killing-online-communities.json",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-021",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "source": "hackernews-top",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "file": "2026-05-08-chrome-removes-claim-of-on-device-al-not.json",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-022",
+      "title": "Principles for agent-native CLIs",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "file": "2026-05-08-principles-for-agent-native-clis.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "mcp"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-023",
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "source": "hackernews-top",
+      "url": "https://ratex.lites.dev/",
+      "file": "2026-05-08-ratex-katex-compatible-latex-rendering-e.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
+    {
+      "id": "kb-2026-05-08-024",
+      "title": "The Self-Cancelling Subscription",
+      "source": "hackernews-top",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "file": "2026-05-08-the-self-cancelling-subscription.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-08T02:03:51.251383+00:00"
+    },
     {
       "id": "kb-2026-05-06-001",
       "title": "jherrodthomas/robotics-skills-suite",
@@ -1062,5 +1424,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-06T01:53:41.957243+00:00"
+  "last_updated": "2026-05-08T02:03:51.261455+00:00"
 }

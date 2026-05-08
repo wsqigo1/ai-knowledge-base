@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-08-023",
+  "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+  "source": "hackernews-top",
+  "url": "https://ratex.lites.dev/",
+  "summary": "RaTeX 是一个用纯 Rust 实现的 KaTeX 兼容 LaTeX 渲染引擎，旨在解决现有 JavaScript 渲染方案在性能、内存安全和跨平台部署上的瓶颈。核心技术亮点包括：利用 Rust 的无 GC 内存管理和零成本抽象实现高效解析与渲染，完全兼容 KaTeX 语法，并支持 WebAssembly 编译以在浏览器中运行。适用于需要高性能 LaTeX 渲染的静态站点生成器、文档系统或科学计算工具，尤其适合对资源占用敏感或需原生集成的场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-08T02:02:05.106190+00:00",
+  "analyzed_at": "2026-05-08T02:03:45.802147+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}

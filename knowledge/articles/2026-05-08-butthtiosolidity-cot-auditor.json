@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-08-007",
+  "title": "butthtio/solidity-cot-auditor",
+  "source": "github-trending",
+  "url": "https://github.com/butthtio/solidity-cot-auditor",
+  "summary": "solidity-cot-auditor 是一个基于 Python 的多角色链式思维 LLM 管道，用于 Solidity 智能合约安全审计。它构建在 Slither 静态分析输出之上，通过 prompt-engineering 实现多角色协作推理，解决传统自动化审计误报率高、缺乏上下文理解的问题。核心技术亮点包括多角色 CoT 流程（如分析者、验证者、总结者）和与 Slither 的深度集成。适用于智能合约开发者、安全审计团队在开发流程中辅助发现漏洞。",
+  "tags": [
+    "prompt-engineering",
+    "code-generation",
+    "developer-tools",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-08T02:02:05.007459+00:00",
+  "analyzed_at": "2026-05-08T02:02:38.995941+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}

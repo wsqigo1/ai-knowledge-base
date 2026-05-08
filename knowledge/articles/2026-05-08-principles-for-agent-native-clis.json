@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-08-022",
+  "title": "Principles for agent-native CLIs",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/trevin/status/2051316002730991795",
+  "summary": "该条目提出面向agent-native CLI（命令行界面）的设计原则，旨在解决传统CLI工具难以与AI代理高效交互的问题。核心亮点包括：将CLI输出结构化（如JSON模式）、支持流式响应、提供可编程的退出码和错误处理，以及设计无状态、幂等的命令接口。适用场景为开发AI代理工具链、自动化工作流及构建可被LLM调用的系统级接口。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "tool-use",
+    "mcp"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-05-08T02:02:05.106190+00:00",
+  "analyzed_at": "2026-05-08T02:03:42.736619+00:00",
+  "organized_at": "2026-05-08T02:03:51.251383+00:00",
+  "status": "published"
+}
