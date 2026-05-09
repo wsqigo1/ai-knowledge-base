@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-05-09-010",
+  "title": "Ask HN: We just had an actual UUID v4 collision...",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=48060054",
+  "summary": "Hacker News 上关于 UUID v4 碰撞实际发生的讨论帖，得分为 293。该事件引发了对 UUID 唯一性假设的质疑，核心问题在于随机 UUID 碰撞概率虽低但非零，在分布式系统、数据库主键等场景中可能导致数据覆盖或冲突。技术亮点包括对碰撞概率的数学分析、实际案例分享以及缓解策略（如使用 UUID v7 或结合时间戳）。适用场景为高并发分布式系统、数据库设计及唯一标识符生成方案评估。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-09T01:56:04.996572+00:00",
+  "analyzed_at": "2026-05-09T01:57:42.475479+00:00",
+  "organized_at": "2026-05-09T01:57:44.509056+00:00",
+  "status": "published"
+}

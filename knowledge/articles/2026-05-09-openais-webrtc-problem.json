@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-09-003",
+  "title": "OpenAI's WebRTC problem",
+  "source": "hackernews-top",
+  "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+  "summary": "OpenAI 在 WebRTC 实现中遇到问题，涉及实时通信的延迟、连接稳定性及与浏览器兼容性。核心挑战包括 ICE 协商失败、媒体流同步和 NAT 穿透。该问题影响需要低延迟语音/视频交互的 AI 应用，如实时语音助手和协作工具。",
+  "tags": [
+    "ai-assistant",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-09T01:56:04.996572+00:00",
+  "analyzed_at": "2026-05-09T01:57:01.201098+00:00",
+  "organized_at": "2026-05-09T01:57:44.509056+00:00",
+  "status": "published"
+}

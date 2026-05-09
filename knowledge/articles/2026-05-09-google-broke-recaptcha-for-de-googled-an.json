@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-09-002",
+  "title": "Google broke reCAPTCHA for de-googled Android users",
+  "source": "hackernews-top",
+  "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+  "summary": "Google 的 reCAPTCHA 服务对去 Google 服务的 Android 用户（如使用 MicroG 或定制 ROM）返回错误，导致无法正常验证。该问题源于 reCAPTCHA 依赖 Google Play Services 进行安全校验，而 de-googled 设备缺少此组件。核心亮点是暴露了 reCAPTCHA 对 Google 生态的强绑定，影响隐私敏感用户。适用场景包括 Android 定制系统开发、隐私保护技术讨论及 CAPTCHA 替代方案研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-05-09T01:56:04.996572+00:00",
+  "analyzed_at": "2026-05-09T01:56:59.167179+00:00",
+  "organized_at": "2026-05-09T01:57:44.509056+00:00",
+  "status": "published"
+}

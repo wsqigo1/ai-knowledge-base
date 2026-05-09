@@ -1,7 +1,150 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 95,
+  "total_count": 105,
   "entries": [
+    {
+      "id": "kb-2026-05-09-001",
+      "title": "iam567/LifeManga",
+      "source": "github-trending",
+      "url": "https://github.com/iam567/LifeManga",
+      "file": "2026-05-09-iam567lifemanga.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-002",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "source": "hackernews-top",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "file": "2026-05-09-google-broke-recaptcha-for-de-googled-an.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-003",
+      "title": "OpenAI's WebRTC problem",
+      "source": "hackernews-top",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "file": "2026-05-09-openais-webrtc-problem.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-004",
+      "title": "AI is breaking two vulnerability cultures",
+      "source": "hackernews-top",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "file": "2026-05-09-ai-is-breaking-two-vulnerability-culture.json",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-005",
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "source": "hackernews-top",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "file": "2026-05-09-can-llms-model-real-world-systems-in-tla.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-006",
+      "title": "Teaching Claude Why",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "file": "2026-05-09-teaching-claude-why.json",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-007",
+      "title": "Rumors of my death are slightly exaggerated",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48037336",
+      "file": "2026-05-09-rumors-of-my-death-are-slightly-exaggera.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-008",
+      "title": "Mojo 1.0 Beta",
+      "source": "hackernews-top",
+      "url": "https://mojolang.org/",
+      "file": "2026-05-09-mojo-10-beta.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-009",
+      "title": "All means are fair except solving the problem",
+      "source": "hackernews-top",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "file": "2026-05-09-all-means-are-fair-except-solving-the-pr.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
+    {
+      "id": "kb-2026-05-09-010",
+      "title": "Ask HN: We just had an actual UUID v4 collision...",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48060054",
+      "file": "2026-05-09-ask-hn-we-just-had-an-actual-uuid-v4-col.json",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-09T01:57:44.509056+00:00"
+    },
     {
       "id": "kb-2026-05-08-001",
       "title": "yaojingang/yao-open-prompts",
@@ -1424,5 +1567,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-08T02:03:51.261455+00:00"
+  "last_updated": "2026-05-09T01:57:44.516055+00:00"
 }

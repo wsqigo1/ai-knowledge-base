@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-09-005",
+  "title": "Can LLMs model real-world systems in TLA+?",
+  "source": "hackernews-top",
+  "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+  "summary": "该研究探索使用大型语言模型（LLM）自动生成TLA+形式化规约，以建模真实世界系统。核心解决传统形式化验证中人工编写规约成本高、易出错的问题。技术亮点包括利用LLM的代码生成能力将自然语言描述的系统需求转化为TLA+表达式，并通过迭代反馈修正规约错误。适用场景包括分布式系统、并发协议等需要严格验证的领域，可降低形式化方法的应用门槛。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-09T01:56:04.996572+00:00",
+  "analyzed_at": "2026-05-09T01:57:09.213246+00:00",
+  "organized_at": "2026-05-09T01:57:44.509056+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-09-006",
+  "title": "Teaching Claude Why",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/teaching-claude-why",
+  "summary": "《Teaching Claude Why》是一篇探讨如何通过结构化推理训练提升Claude模型可解释性的文章。它解决大模型输出黑箱化、难以追溯决策逻辑的问题。核心技术亮点包括引入因果链标注、中间推理步骤显式化以及对比学习框架，使模型在回答时能生成可解释的“为什么”路径。适用场景包括需要高可信度的AI辅助决策（如医疗诊断、法律分析）及模型审计与调试。",
+  "tags": [
+    "reasoning",
+    "large-language-model",
+    "prompt-engineering",
+    "ai-assistant"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-09T01:56:04.996572+00:00",
+  "analyzed_at": "2026-05-09T01:57:20.405556+00:00",
+  "organized_at": "2026-05-09T01:57:44.509056+00:00",
+  "status": "published"
+}
