@@ -1,7 +1,152 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 105,
+  "total_count": 115,
   "entries": [
+    {
+      "id": "kb-2026-05-10-001",
+      "title": "nickvasilescu/hermes-desktop-os1",
+      "source": "github-trending",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "file": "2026-05-10-nickvasilescuhermes-desktop-os1.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-002",
+      "title": "scosman/cursed_browser",
+      "source": "github-trending",
+      "url": "https://github.com/scosman/cursed_browser",
+      "file": "2026-05-10-scosmancursed-browser.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-003",
+      "title": "OpenSquilla/opensquilla",
+      "source": "github-trending",
+      "url": "https://github.com/OpenSquilla/opensquilla",
+      "file": "2026-05-10-opensquillaopensquilla.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-004",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "file": "2026-05-10-buns-experimental-rust-rewrite-hits-998-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-005",
+      "title": "I’ve banned query strings",
+      "source": "hackernews-top",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "file": "2026-05-10-ive-banned-query-strings.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-006",
+      "title": "LLMs corrupt your documents when you delegate",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "file": "2026-05-10-llms-corrupt-your-documents-when-you-del.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-007",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "source": "hackernews-top",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "file": "2026-05-10-a-recent-experience-with-chatgpt-55-pro.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-008",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "file": "2026-05-10-using-claude-code-the-unreasonable-effec.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 8.5,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-009",
+      "title": "Mythical Man Month",
+      "source": "hackernews-top",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "file": "2026-05-10-mythical-man-month.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
+    {
+      "id": "kb-2026-05-10-010",
+      "title": "Forking the Web",
+      "source": "hackernews-top",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "file": "2026-05-10-forking-the-web.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-10T01:56:54.651788+00:00"
+    },
     {
       "id": "kb-2026-05-09-001",
       "title": "iam567/LifeManga",
@@ -1567,5 +1712,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-09T01:57:44.516055+00:00"
+  "last_updated": "2026-05-10T01:56:54.659511+00:00"
 }

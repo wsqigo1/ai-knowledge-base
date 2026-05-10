@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-10-005",
+  "title": "I’ve banned query strings",
+  "source": "hackernews-top",
+  "url": "https://chrismorgan.info/no-query-strings",
+  "summary": "作者在网站中全面禁止URL查询字符串（query strings），以解决缓存失效、SEO重复内容、安全攻击面增加等问题。核心亮点是通过服务器端重写规则（如Nginx/Apache）将查询参数转化为路径或直接忽略，同时保留必要的动态参数（如分页）。适用场景为静态内容为主的网站、高缓存命中率需求或对SEO敏感的站点。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-10T01:55:09.652874+00:00",
+  "analyzed_at": "2026-05-10T01:56:10.785722+00:00",
+  "organized_at": "2026-05-10T01:56:54.651788+00:00",
+  "status": "published"
+}

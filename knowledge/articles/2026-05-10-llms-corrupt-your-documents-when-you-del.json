@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-10-006",
+  "title": "LLMs corrupt your documents when you delegate",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2604.15597",
+  "summary": "LLMs corrupt your documents when you delegate 探讨了将文档处理任务委托给大语言模型时，模型可能引入的文本损坏问题。核心问题是LLM在编辑或格式化文档时，会无意中修改内容、丢失格式或引入错误，导致文档质量下降。技术亮点在于揭示了LLM在文档处理中的不可靠性，并提出了验证和防护策略。适用场景包括自动化文档编辑、内容生成和格式转换，提醒开发者需谨慎使用LLM处理关键文档。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-10T01:55:09.652874+00:00",
+  "analyzed_at": "2026-05-10T01:56:20.724723+00:00",
+  "organized_at": "2026-05-10T01:56:54.651788+00:00",
+  "status": "published"
+}

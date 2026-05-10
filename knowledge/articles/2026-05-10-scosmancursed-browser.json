@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-10-002",
+  "title": "scosman/cursed_browser",
+  "source": "github-trending",
+  "url": "https://github.com/scosman/cursed_browser",
+  "summary": "cursed_browser 是一个实验性浏览器，核心思想是让 VLM（视觉语言模型）直接读取 HTML 并“幻觉”出页面渲染结果，而非传统解析渲染。它解决的是传统浏览器对复杂/非标准 HTML 兼容性差的问题，通过 VLM 的语义理解能力生成视觉输出。技术亮点在于完全依赖模型对 HTML 的“理解”而非规则引擎，适用于测试 VLM 在 UI 理解与生成上的极限，或作为 AI 原生交互界面的原型。",
+  "tags": [
+    "multimodal",
+    "large-language-model",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-05-10T01:55:09.471532+00:00",
+  "analyzed_at": "2026-05-10T01:56:00.815837+00:00",
+  "organized_at": "2026-05-10T01:56:54.651788+00:00",
+  "status": "published"
+}

@@ -1,0 +1,378 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-10T01:55:10.132763+00:00",
+  "date": "2026-05-10",
+  "count": 20,
+  "items": [
+    {
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "hn_url": "https://news.ycombinator.com/item?id=48073680",
+      "description": "",
+      "hn_score": 420,
+      "comments": 403,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "Bun 的 Rust 重写实验在 Linux x64 glibc 上达到 99.8% 测试兼容性，旨在解决 JavaScript 运行时性能瓶颈和跨平台一致性问题。核心技术亮点是将 Zig 实现的运行时逐步迁移至 Rust，利用 Rust 的内存安全性和零成本抽象提升执行效率与稳定性。适用于高性能 Node.js 替代方案、服务器端渲染、CLI 工具开发等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-10T01:56:05.657747+00:00"
+    },
+    {
+      "title": "Internet Archive Switzerland",
+      "source": "hackernews-top",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "hn_url": "https://news.ycombinator.com/item?id=48074265",
+      "description": "",
+      "hn_score": 537,
+      "comments": 76,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "Internet Archive Switzerland 是互联网档案馆在瑞士设立的分支机构，旨在解决数据冗余、地理分布访问和长期数字保存问题。其核心技术亮点包括分布式存储架构、数据镜像同步机制以及符合瑞士隐私法规的数据治理策略。适用场景为需要高可用性、低延迟访问历史网页快照的研究人员、记者和数字人文项目，以及欧洲用户对数据主权有严格要求的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-10T01:56:08.213993+00:00"
+    },
+    {
+      "title": "I’ve banned query strings",
+      "source": "hackernews-top",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "hn_url": "https://news.ycombinator.com/item?id=48076173",
+      "description": "",
+      "hn_score": 266,
+      "comments": 150,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "作者在网站中全面禁止URL查询字符串（query strings），以解决缓存失效、SEO重复内容、安全攻击面增加等问题。核心亮点是通过服务器端重写规则（如Nginx/Apache）将查询参数转化为路径或直接忽略，同时保留必要的动态参数（如分页）。适用场景为静态内容为主的网站、高缓存命中率需求或对SEO敏感的站点。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-10T01:56:10.785722+00:00"
+    },
+    {
+      "title": "Zed Editor Theme-Builder",
+      "source": "hackernews-top",
+      "url": "https://zed.dev/theme-builder",
+      "hn_url": "https://news.ycombinator.com/item?id=48076651",
+      "description": "",
+      "hn_score": 157,
+      "comments": 44,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "Zed Editor Theme-Builder 是一个开源工具，用于为 Zed 编辑器创建和定制主题。它解决了 Zed 主题开发缺乏可视化工具的问题，核心亮点是提供实时预览和 JSON 配置编辑功能。适用于 Zed 用户和主题开发者，简化了主题设计流程。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-05-10T01:56:13.006735+00:00"
+    },
+    {
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "source": "hackernews-top",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48076465",
+      "description": "",
+      "hn_score": 109,
+      "comments": 59,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "CPanel在黑色星期期间修复了3个新漏洞，此前攻击导致44k台服务器受损。这些漏洞可能被利用进行远程代码执行或权限提升，影响托管服务安全性。核心亮点是及时补丁发布和漏洞披露流程，适用于Web托管平台的安全维护。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-10T01:56:15.233594+00:00"
+    },
+    {
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "source": "hackernews-top",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "hn_url": "https://news.ycombinator.com/item?id=48075366",
+      "description": "",
+      "hn_score": 205,
+      "comments": 142,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "文章讨论了在Mac上分发软件时遇到的签名、公证、沙箱等繁琐流程，导致开发者压力增大。核心问题是苹果的代码签名和Gatekeeper机制增加了分发复杂度，尤其是对于开源或小型开发者。技术亮点在于分析了notarization、hardened runtime等安全机制的实际影响。适用场景为macOS软件开发与分发流程优化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-10T01:56:17.801890+00:00"
+    },
+    {
+      "title": "LLMs corrupt your documents when you delegate",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "hn_url": "https://news.ycombinator.com/item?id=48073246",
+      "description": "",
+      "hn_score": 355,
+      "comments": 137,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "LLMs corrupt your documents when you delegate 探讨了将文档处理任务委托给大语言模型时，模型可能引入的文本损坏问题。核心问题是LLM在编辑或格式化文档时，会无意中修改内容、丢失格式或引入错误，导致文档质量下降。技术亮点在于揭示了LLM在文档处理中的不可靠性，并提出了验证和防护策略。适用场景包括自动化文档编辑、内容生成和格式转换，提醒开发者需谨慎使用LLM处理关键文档。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-10T01:56:20.724723+00:00"
+    },
+    {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "source": "hackernews-top",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "hn_url": "https://news.ycombinator.com/item?id=48071262",
+      "description": "",
+      "hn_score": 603,
+      "comments": 428,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "本文分享了作者使用ChatGPT 5.5 Pro的近期体验，主要探讨该模型在复杂推理任务中的表现提升。核心亮点包括更长的上下文窗口支持、更精准的指令遵循能力，以及多轮对话中错误率显著降低。适用场景为需要高精度推理的AI辅助开发、代码生成和复杂问题分析。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-10T01:56:23.182703+00:00"
+    },
+    {
+      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48077126",
+      "description": "",
+      "hn_score": 292,
+      "comments": 256,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "文章报道Meta内部因AI战略推进导致员工士气低落，核心问题在于AI项目优先级过高、资源分配失衡及工作压力增大。该文不涉及具体技术方案或工具，而是反映大型科技公司AI转型中的组织管理挑战。适用场景为关注AI行业动态及企业文化的读者。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-10T01:56:25.383923+00:00"
+    },
+    {
+      "title": "The hypocrisy of cyberlibertarianism",
+      "source": "hackernews-top",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "hn_url": "https://news.ycombinator.com/item?id=48074952",
+      "description": "",
+      "hn_score": 263,
+      "comments": 219,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "这是一篇批判网络自由主义虚伪性的评论文章，探讨了互联网自由理想与现实中的权力集中、监控资本主义之间的矛盾。文章通过历史案例和哲学分析，揭示了早期互联网倡导的自由理念如何被商业和政府利益侵蚀。核心技术亮点在于对网络自由主义意识形态的批判性解构，而非具体技术方案。适用场景为技术伦理讨论、互联网政策研究及社会批判领域。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-10T01:56:27.821014+00:00"
+    },
+    {
+      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+      "source": "hackernews-top",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "hn_url": "https://news.ycombinator.com/item?id=48072190",
+      "description": "",
+      "hn_score": 397,
+      "comments": 278,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "欧盟议会研究服务处发布报告，将VPN视为需要关闭的漏洞，主要针对其可能被用于规避地理限制和内容审查。核心争议在于VPN技术本身的双重用途：既保护隐私，又可能破坏区域内容监管。该报告建议加强VPN监管，但未提出具体技术方案。适用场景：隐私保护、网络监管政策讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-10T01:56:30.398290+00:00"
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "hn_url": "https://news.ycombinator.com/item?id=48071940",
+      "description": "",
+      "hn_score": 420,
+      "comments": 238,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "Claude Code 展示了利用 HTML 作为中间表示实现 AI 代码生成与执行的高效性。它解决的是传统 LLM 代码生成中输出格式不统一、执行验证困难的问题。核心技术亮点是直接生成可交互的 HTML 页面，将代码逻辑与可视化反馈结合，适用于快速原型开发、数据可视化及交互式文档生成场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-05-10T01:56:32.971517+00:00"
+    },
+    {
+      "title": "Getting arrested in Japan",
+      "source": "hackernews-top",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "hn_url": "https://news.ycombinator.com/item?id=48078647",
+      "description": "",
+      "hn_score": 140,
+      "comments": 147,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "该条目为一篇关于在日本被逮捕的个人经历分享，并非技术文章。内容涉及日本法律程序、警察系统及外国人在日遭遇逮捕的实际情况，核心亮点在于提供第一手经验与法律建议。适用场景为计划前往或居住在日本的外国人，以及关注跨国法律问题的读者。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-10T01:56:34.825573+00:00"
+    },
+    {
+      "title": "OpenAI’s WebRTC problem",
+      "source": "hackernews-top",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "hn_url": "https://news.ycombinator.com/item?id=48051951",
+      "description": "",
+      "hn_score": 470,
+      "comments": 141,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "OpenAI在WebRTC（Web实时通信）应用中遇到问题，核心挑战是处理大规模实时音视频流的延迟、可靠性和扩展性。该问题涉及优化信令、NAT穿透和媒体流控制，以支持AI驱动的实时交互场景，如语音助手或视频分析。适用场景包括需要低延迟通信的AI应用，如实时翻译或远程协作工具。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-10T01:56:37.596323+00:00"
+    },
+    {
+      "title": "Mythical Man Month",
+      "source": "hackernews-top",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48046436",
+      "description": "",
+      "hn_score": 351,
+      "comments": 192,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "《人月神话》是Fred Brooks的经典软件工程著作，核心论点“向一个已经延误的项目增加人手只会使其更加延误”揭示了软件项目管理的根本困境。该书通过OS/360系统开发经验，提出“没有银弹”等关键洞察，强调沟通成本与任务分解的复杂性。核心技术亮点在于对“人月”概念的批判性分析，以及“第二系统效应”等管理原则。适用于大型软件项目规划、团队协作优化及技术管理者反思，至今仍是项目管理领域的必读经典。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-10T01:56:40.342960+00:00"
+    },
+    {
+      "title": "Forking the Web",
+      "source": "hackernews-top",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "hn_url": "https://news.ycombinator.com/item?id=48074087",
+      "description": "",
+      "hn_score": 107,
+      "comments": 116,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "Forking the Web 提出一种通过分叉（fork）整个网页来保存、修改和共享网络内容的方法，解决传统链接失效和内容不可控问题。核心技术亮点包括利用版本控制（如 Git）管理网页快照，支持离线访问和协作编辑。适用场景为开发者需要持久化保存网页、进行内容审查或协作修改时，尤其适用于技术文档和开源项目页面。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-10T01:56:43.152979+00:00"
+    },
+    {
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "source": "hackernews-top",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "hn_url": "https://news.ycombinator.com/item?id=48067119",
+      "description": "",
+      "hn_score": 1448,
+      "comments": 538,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "Google 更新 reCAPTCHA 后，导致去 Google 服务的 Android 用户（如使用 MicroG 或定制 ROM）无法通过验证，因为新版 reCAPTCHA 依赖 Google Play Services 的 SafetyNet API。该问题暴露了 reCAPTCHA 对 Google 生态的强绑定，核心挑战在于平衡安全性与用户自主权。目前无官方修复，社区通过修改 MicroG 或使用替代验证方案（如 hCaptcha）缓解。适用场景：Android 隐私保护、去 Google 化设备、验证码服务兼容性测试。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-10T01:56:46.429294+00:00"
+    },
+    {
+      "title": "America's carpet capital: an empire and its toxic legacy",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/projects/pfas-forever-stained/",
+      "hn_url": "https://news.ycombinator.com/item?id=48037243",
+      "description": "",
+      "hn_score": 160,
+      "comments": 99,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "本文揭露美国地毯产业中心（道尔顿市）的工业污染史，聚焦地毯制造过程中使用的化学物质（如全氟化合物、阻燃剂）对当地水源和居民健康的长期危害。文章通过历史档案和实地调查，呈现行业巨头如何规避监管、遗留有毒废物，以及社区至今面临的癌症、发育障碍等健康危机。核心技术亮点在于环境流行病学追踪与污染溯源方法。适用场景：环境政策研究、工业污染治理、公共卫生教育。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-10T01:56:49.325472+00:00"
+    },
+    {
+      "title": "How LEDs are made (2014)",
+      "source": "hackernews-top",
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "hn_url": "https://news.ycombinator.com/item?id=48048679",
+      "description": "",
+      "hn_score": 125,
+      "comments": 21,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "该文章详细介绍了LED（发光二极管）的制造工艺，包括从晶圆生长、外延沉积、芯片切割到封装测试的全流程。它解决了对LED物理制造过程缺乏系统认知的问题，核心技术亮点在于解释了如何通过掺杂和量子阱结构实现高效发光。适用于硬件工程师、半导体行业从业者或对电子元器件制造感兴趣的技术人员。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-10T01:56:51.891689+00:00"
+    },
+    {
+      "title": "What causes lightning? The answer keeps getting more interesting",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+      "hn_url": "https://news.ycombinator.com/item?id=48037517",
+      "description": "",
+      "hn_score": 193,
+      "comments": 44,
+      "collected_at": "2026-05-10T01:55:09.652874+00:00",
+      "published_at": "2026-05-10T01:55:09.652874+00:00",
+      "summary": "文章探讨了闪电形成机制的最新研究进展，核心挑战是解释闪电如何从云层中触发并传播。传统理论（如冰晶碰撞带电）无法完全解释观测现象，新研究提出“闪电启动”可能由宇宙射线或云中电场异常触发。技术亮点包括高分辨率观测数据和数值模拟的结合，以及实验室模拟闪电的突破。适用场景：气象学、大气物理研究及极端天气预测。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-10T01:56:54.645536+00:00"
+    }
+  ]
+}

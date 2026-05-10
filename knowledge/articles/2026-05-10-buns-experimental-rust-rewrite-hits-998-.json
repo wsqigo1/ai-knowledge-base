@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-10-004",
+  "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+  "summary": "Bun 的 Rust 重写实验在 Linux x64 glibc 上达到 99.8% 测试兼容性，旨在解决 JavaScript 运行时性能瓶颈和跨平台一致性问题。核心技术亮点是将 Zig 实现的运行时逐步迁移至 Rust，利用 Rust 的内存安全性和零成本抽象提升执行效率与稳定性。适用于高性能 Node.js 替代方案、服务器端渲染、CLI 工具开发等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-10T01:55:09.652874+00:00",
+  "analyzed_at": "2026-05-10T01:56:05.657747+00:00",
+  "organized_at": "2026-05-10T01:56:54.651788+00:00",
+  "status": "published"
+}
