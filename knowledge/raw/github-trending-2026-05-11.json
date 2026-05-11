@@ -1,0 +1,540 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-11T02:05:16.206135+00:00",
+  "date": "2026-05-11",
+  "count": 19,
+  "items": [
+    {
+      "title": "strukto-ai/mirage",
+      "source": "github-trending",
+      "url": "https://github.com/strukto-ai/mirage",
+      "description": "A Unified Virtual Filesystem For AI Agents",
+      "stars": 1796,
+      "language": "TypeScript",
+      "topics": [
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash",
+        "claude-code",
+        "fuse",
+        "langchain",
+        "llm-agents",
+        "openai-agents",
+        "python",
+        "typescript",
+        "vfs",
+        "virtual-filesystem"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-10T04:25:13Z",
+      "summary": "Mirage 是一个为 AI 代理设计的统一虚拟文件系统，解决代理在复杂环境中访问和管理文件时缺乏标准抽象层的问题。核心采用 TypeScript 实现，通过虚拟化层将本地、远程或容器化文件系统统一为单一接口，支持 bash 集成和 Claude Code 等工具。适用于需要沙箱化文件操作的多代理协作、自动化工作流和开发工具场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-11T02:05:19.440573+00:00"
+    },
+    {
+      "title": "yaojingang/yao-open-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "stars": 1561,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-07T12:39:19Z",
+      "summary": "yao-open-prompts 是一个中文 AI 提示词库，提供覆盖工作、学习、内容创作、营销和生活场景的预定义 prompt 模板。它解决中文用户在使用 LLM 时缺乏高质量、场景化 prompt 的问题，核心亮点是结构化分类和可直接复用的 prompt 集合，基于 Python 实现。适用于需要快速提升 AI 对话效果的中文用户，尤其适合内容生成和日常辅助场景。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:05:22.567323+00:00"
+    },
+    {
+      "title": "lightseekorg/tokenspeed",
+      "source": "github-trending",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 907,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "deepseek",
+        "gpt-oss",
+        "kimi",
+        "lightseek",
+        "llm",
+        "minimax",
+        "qwen",
+        "speed-of-light",
+        "tokenspeed"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-11T01:39:50Z",
+      "summary": "TokenSpeed 是一个专注于 LLM 推理速度优化的引擎，旨在解决大模型推理延迟高、吞吐量低的问题。其核心技术亮点包括针对 Blackwell 架构的深度优化、支持 DeepSeek、GPT-OSS、Kimi 等主流模型，并通过轻量级 Python 实现实现接近理论极限的推理速度。适用于需要低延迟、高吞吐的实时 AI 应用场景，如对话系统、代码生成助手等。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-11T02:05:25.555123+00:00"
+    },
+    {
+      "title": "huangserva/3DCellForge",
+      "source": "github-trending",
+      "url": "https://github.com/huangserva/3DCellForge",
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "stars": 787,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-11T01:07:30Z",
+      "summary": "3DCellForge 是一个基于 AI 的交互式 3D 细胞生成与探索平台，解决生物可视化中细胞模型生成复杂、缺乏交互性的问题。核心亮点在于利用 AI 算法自动生成高保真 3D 细胞结构，支持实时探索与编辑。适用场景包括生物教学、科研可视化及药物发现中的细胞模拟。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:05:28.596230+00:00"
+    },
+    {
+      "title": "zarazhangrui/beautiful-html-templates",
+      "source": "github-trending",
+      "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+      "stars": 737,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-06T01:45:30Z",
+      "summary": "一个HTML幻灯片模板库，专为编码代理设计，使其能自动选择合适模板并生成美观演示文稿。解决AI生成内容在视觉呈现上的质量不一致问题。核心亮点是模板结构化设计适配自动化选择逻辑，支持代理自主决策。适用场景包括AI驱动的演示文稿生成、自动化报告制作。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-11T02:05:31.087041+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-md-html",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-md-html",
+      "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "stars": 347,
+      "language": "CSS",
+      "topics": [],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-09T15:34:42Z",
+      "summary": "huashu-md-html 是一个实现 Markdown 与 HTML 双向转换的流水线工具，集成 markitdown、Pandoc、html-to-markdown 和 trafilatura 四套引擎，提供万物→md、md→精美html、html→md 三种能力。核心亮点包括封装多种转换库实现高兼容性、4 套反 AI slop 主题提升输出质量、以及 Claude Code skill 集成。适用于文档格式转换、内容清洗、AI 生成内容后处理等场景，解决多格式互转与排版一致性痛点。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-11T02:05:34.503952+00:00"
+    },
+    {
+      "title": "nickvasilescu/hermes-desktop-os1",
+      "source": "github-trending",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "stars": 340,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-09T05:01:58Z",
+      "summary": "Hermes Desktop - OS1 Edition 是一个原生 macOS 工作空间，用于在 Orgo 云计算机和 SSH 主机上运行 Hermes Agent。它解决了 AI 代理在远程环境中的本地化操作与集成问题，核心亮点是提供无缝的桌面端代理管理界面，支持云和 SSH 主机连接。适用于需要远程执行 AI 代理任务的开发者和运维人员。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-11T02:05:37.597211+00:00"
+    },
+    {
+      "title": "TQ-trade-agent/tq-trading-agent",
+      "source": "github-trending",
+      "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+      "stars": 296,
+      "language": "Vue",
+      "topics": [
+        "algorithmic-trading",
+        "financial-analysis",
+        "langchain",
+        "langgraph",
+        "openai",
+        "stock-research",
+        "trading-agent",
+        "trading-bot",
+        "typescript"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-06T15:19:25Z",
+      "summary": "TQ-trading-agent 是一个基于 TypeScript 和 LangGraph 构建的 AI 驱动多智能体股票研究与交易策略编排系统。它解决传统量化交易中策略单一、缺乏实时市场分析能力的问题。核心技术亮点包括：使用 LangGraph 实现多智能体协作流程，支持 OpenAI 兼容 API 进行自然语言交互，集成金融数据分析与算法交易逻辑。适用场景为个人或机构投资者的自动化交易策略开发、市场研究辅助及回测验证。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-11T02:05:40.682246+00:00"
+    },
+    {
+      "title": "darkrishabh/agent-skills-eval",
+      "source": "github-trending",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "description": "A test runner for agentskills.io-style AI agent skills",
+      "stars": 279,
+      "language": "TypeScript",
+      "topics": [
+        "agent-evals",
+        "agent-skills",
+        "agentskills",
+        "ai-agents",
+        "cli",
+        "jsonl",
+        "llm-evals",
+        "llm-evaluation",
+        "openai-compatible",
+        "typescript",
+        "yaml"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-07T00:58:40Z",
+      "summary": "agent-skills-eval 是一个基于 TypeScript 的 CLI 测试运行器，专为评估 AI agent 在 agentskills.io 风格任务中的技能表现而设计。它解决了 AI agent 技能评估缺乏标准化测试框架的问题，核心亮点包括可复现的测试套件、技能分类执行和结果报告。适用于开发者对 agent 进行功能验证、基准测试及持续集成中的性能监控。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "developer-tools",
+        "cli",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-11T02:05:43.696095+00:00"
+    },
+    {
+      "title": "iam567/LifeManga",
+      "source": "github-trending",
+      "url": "https://github.com/iam567/LifeManga",
+      "description": "ios swift swiftui openai gpt-image manga ai-art",
+      "stars": 274,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-07T11:27:56Z",
+      "summary": "LifeManga 是一个基于 Swift 和 SwiftUI 构建的 iOS 应用，利用 OpenAI 的 GPT 图像生成能力将用户照片转换为漫画风格。核心亮点在于集成 OpenAI 的 image generation API 实现实时风格迁移，并针对移动端优化了交互流程。适用于个人娱乐、社交媒体内容创作等场景，展示了 LLM 多模态能力在移动端的轻量级落地。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-11T02:05:46.665661+00:00"
+    },
+    {
+      "title": "NirDiamant/Agent_Memory_Techniques",
+      "source": "github-trending",
+      "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+      "stars": 268,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "anthropic",
+        "cognitive-architecture",
+        "cookbook",
+        "episodic-memory",
+        "graphiti",
+        "jupyter-notebook",
+        "knowledge-graph",
+        "langchain",
+        "letta",
+        "llm-agents",
+        "llm-memory",
+        "mem0",
+        "memgpt",
+        "openai",
+        "rag",
+        "tutorial",
+        "vector-database",
+        "zep"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-05T21:36:04Z",
+      "summary": "该项目提供30个可运行的Jupyter Notebook，系统覆盖LLM agent记忆技术，包括对话缓冲区、向量存储、知识图谱、情景与语义记忆，以及MemGPT、Mem0、Letta、Zep、Graphiti等主流框架的实现，并包含LoCoMo基准测试和生产模式。核心亮点是提供从基础到高级的完整记忆架构实践指南，解决agent长期上下文保持与知识检索问题。适用于构建具备持久记忆能力的AI agent系统，如对话助手、知识管理工具和自主决策代理。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "vector-database",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-11T02:05:50.022818+00:00"
+    },
+    {
+      "title": "Ajai53200/DeepSeek-V4-Pro-App",
+      "source": "github-trending",
+      "url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
+      "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
+      "stars": 228,
+      "language": "C++",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-application",
+        "ai-application-development",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-chat",
+        "deepseek-ocr-2",
+        "deepseek-r1",
+        "deepseek-r1-zero",
+        "deepseek-v3",
+        "deepseek-v4",
+        "deepseek-v4-download",
+        "deepseek-v4-pro"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-05T16:23:28Z",
+      "summary": "DeepSeek V4 Pro App 是一个基于 MoE 架构的开源大模型项目，拥有 1.6T 参数和 1M 上下文窗口，旨在解决长文本推理与复杂任务执行问题。核心技术包括 Think Max 稀疏注意力机制、coding agent 和 agentic AI 能力，支持多种推理模式。适用场景为需要高性能长上下文理解、代码生成及自主智能体开发的 AI 应用。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-11T02:05:52.816940+00:00"
+    },
+    {
+      "title": "kerlos/pordee",
+      "source": "github-trending",
+      "url": "https://github.com/kerlos/pordee",
+      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "stars": 227,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code-plugin",
+        "thai"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-10T05:18:41Z",
+      "summary": "kerlos/pordee 是一个基于 JavaScript 的 Claude 代码插件，专为泰语用户设计，提供简洁的 AI 交互体验。其核心功能是通过 Claude 模型实现代码生成与辅助，解决泰语开发者使用 AI 工具时的语言障碍。技术亮点在于轻量级实现与本地化支持，适用于泰语环境下的代码开发与学习场景。",
+      "tags": [
+        "code-generation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-11T02:05:55.303437+00:00"
+    },
+    {
+      "title": "baydarerhan/Sora-2-App-No-Watermark",
+      "source": "github-trending",
+      "url": "https://github.com/baydarerhan/Sora-2-App-No-Watermark",
+      "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool. ",
+      "stars": 213,
+      "language": "HTML",
+      "topics": [
+        "ai-video-generation",
+        "chat-gpt",
+        "chatgpt-bot",
+        "chatgpt-skill",
+        "open-ai",
+        "openai-api",
+        "openai-chatgpt",
+        "openai-playground",
+        "sora",
+        "sora-2",
+        "sora-2-pro",
+        "sora-ai",
+        "sora-detection",
+        "sora-video",
+        "sora-video-ai",
+        "sora2-free-watermark-remover",
+        "sora2-invite-share",
+        "sora2-prompt-guide",
+        "sora2-video",
+        "sora2openai"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-09T15:21:38Z",
+      "summary": "该项目声称提供无水印的Sora 2视频生成应用，支持文本转1080p全高清视频、同步音频、角色客串等功能，并包含桌面与移动端版本。实际为HTML页面，可能仅包装OpenAI API或提供虚假功能，缺乏核心技术实现。解决用户对免费无水印AI视频工具的需求，但存在误导风险。适用场景有限，需谨慎评估。",
+      "tags": [
+        "ai-video-generation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-11T02:05:58.438997+00:00"
+    },
+    {
+      "title": "OpenSquilla/opensquilla",
+      "source": "github-trending",
+      "url": "https://github.com/OpenSquilla/opensquilla",
+      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "stars": 194,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "deep-learning",
+        "foundation-models",
+        "llm",
+        "mcp",
+        "memory",
+        "openclaw",
+        "python",
+        "skills"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-10T17:32:55Z",
+      "summary": "OpenSquilla 是一个基于 Python 的 token 高效 AI Agent 框架，旨在通过优化 token 使用密度提升智能水平。核心亮点包括采用深度学习和基础模型技术，在相同预算下实现更高推理效率。适用于资源受限的 AI 代理部署场景，如边缘计算或成本敏感型应用。",
+      "tags": [
+        "agent",
+        "open-source",
+        "deep-learning",
+        "foundation-models"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-11T02:06:01.033593+00:00"
+    },
+    {
+      "title": "Sayhi-bzb/AIEden",
+      "source": "github-trending",
+      "url": "https://github.com/Sayhi-bzb/AIEden",
+      "description": "an LLM-native world and civilization",
+      "stars": 162,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-08T08:41:40Z",
+      "summary": "Sayhi-bzb/AIEden 是一个基于 LLM 原生的世界与文明模拟项目，使用 TypeScript 构建。它旨在通过大语言模型驱动虚拟世界中多个智能体的交互、决策与演化，解决传统游戏或模拟中角色行为单一、缺乏深度叙事的问题。核心技术亮点包括利用 LLM 实现智能体的自主对话、任务规划和环境响应，支持多智能体协同与动态世界构建。适用场景为游戏开发、社会模拟实验、AI 叙事研究及教育领域。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-05-11T02:06:04.253242+00:00"
+    },
+    {
+      "title": "Outpostshewharf/Edgenuity-AI-Helper",
+      "source": "github-trending",
+      "url": "https://github.com/Outpostshewharf/Edgenuity-AI-Helper",
+      "description": "edgenuity mod menu || ai chatgpt || edgenuity ai helper || edgenuity",
+      "stars": 106,
+      "language": null,
+      "topics": [
+        "edgenuity",
+        "edgenuity-answers",
+        "edgenuity-assignment-bot",
+        "edgenuity-auto",
+        "edgenuity-bot",
+        "edgenuity-hacks"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-10T02:37:50Z",
+      "summary": "Edgenuity-AI-Helper 是一个针对 Edgenuity 在线教育平台的作弊辅助工具，利用 ChatGPT 等 AI 模型自动完成作业、测验和课程任务。核心功能包括自动答题、绕过检测机制和提供答案。技术亮点在于集成 AI 对话接口实现自动化答题，但缺乏原创技术深度。适用场景为学生作弊，存在学术不端风险。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-11T02:06:07.012707+00:00"
+    },
+    {
+      "title": "zy-zmc/tianming-novel-ai-writer",
+      "source": "github-trending",
+      "url": "https://github.com/zy-zmc/tianming-novel-ai-writer",
+      "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写",
+      "stars": 106,
+      "language": "C#",
+      "topics": [
+        "ai-novel",
+        "ai-writer",
+        "ai-writing",
+        "chinese-novel",
+        "dotnet",
+        "novel-writing",
+        "tianming",
+        "webnovel",
+        "wpf",
+        "writing-tool"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-11T01:16:40Z",
+      "summary": "天命是一个基于C#的AI网文创作系统，解决长篇小说（如3000章）创作中模型记忆不足导致的剧情不一致问题。核心亮点包括12维事实快照（维护角色、地点等结构化事实）、9类变更声明（追踪剧情状态变化）和6道生成门禁（质量过滤），通过每章状态回写机制而非依赖模型记忆来保证连贯性。适用场景为中文网络小说自动化创作与辅助写作。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-11T02:06:10.000791+00:00"
+    },
+    {
+      "title": "nooncheetahstart/Kahoot-tools-AI",
+      "source": "github-trending",
+      "url": "https://github.com/nooncheetahstart/Kahoot-tools-AI",
+      "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai",
+      "stars": 106,
+      "language": "Python",
+      "topics": [
+        "kahoot",
+        "kahoot-answer-bot",
+        "kahoot-answers",
+        "kahoot-hack",
+        "kahoot-hacks"
+      ],
+      "collected_at": "2026-05-11T02:05:14.977626+00:00",
+      "published_at": "2026-05-10T02:25:48Z",
+      "summary": "一个基于Python的Kahoot答题辅助工具集合，提供自动答题、答案获取等功能。核心通过模拟请求或解析游戏数据实现自动化操作，技术实现依赖网络请求和简单数据处理。适用于教育场景中的游戏化学习辅助或测试自动化，但存在滥用风险。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-11T02:06:12.351522+00:00"
+    }
+  ]
+}

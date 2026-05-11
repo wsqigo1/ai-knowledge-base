@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-11-011",
+  "title": "Idempotency is easy until the second request is different",
+  "source": "hackernews-top",
+  "url": "https://blog.dochia.dev/blog/idempotency/",
+  "summary": "幂等性（Idempotency）在分布式系统中看似简单，但实际处理中当第二次请求与第一次不同时（如请求体变化、状态冲突），实现变得复杂。文章深入探讨了幂等键的设计、存储策略（如Redis或数据库唯一约束）以及处理并发与重试的边界情况，核心亮点是区分“相同请求”与“不同请求”的幂等性保证。适用于API设计、支付系统、消息队列等需要防止重复处理的场景。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-11T02:05:15.089671+00:00",
+  "analyzed_at": "2026-05-11T02:06:45.088665+00:00",
+  "organized_at": "2026-05-11T02:07:07.139664+00:00",
+  "status": "published"
+}

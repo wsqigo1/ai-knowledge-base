@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-11T02:05:16.206690+00:00",
+  "date": "2026-05-11",
+  "count": 20,
+  "items": [
+    {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "source": "hackernews-top",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "hn_url": "https://news.ycombinator.com/item?id=48086190",
+      "description": "",
+      "hn_score": 907,
+      "comments": 331,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "本文探讨硬件认证（Hardware Attestation）技术如何被大型科技公司用作垄断工具。它解决的核心问题是：硬件级安全认证机制（如TPM、Intel SGX）在保护设备安全的同时，可能被平台方控制，限制用户自由选择操作系统或软件，从而巩固市场垄断。核心技术亮点在于揭示认证协议中的不透明性和强制绑定策略。适用场景包括云计算、设备安全、反垄断政策讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:06:15.329427+00:00"
+    },
+    {
+      "title": "Local AI needs to be the norm",
+      "source": "hackernews-top",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085821",
+      "description": "",
+      "hn_score": 595,
+      "comments": 278,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "本文主张本地AI应成为常态，解决用户对云端AI的隐私、延迟和依赖性问题。核心亮点是强调在本地设备运行AI模型（如LLM）的可行性，通过优化模型大小和硬件适配实现实时响应。适用场景包括个人助理、离线任务和敏感数据处理。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-11T02:06:18.180336+00:00"
+    },
+    {
+      "title": "Incident Report: CVE-2024-YIKES",
+      "source": "hackernews-top",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48086082",
+      "description": "",
+      "hn_score": 395,
+      "comments": 96,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "CVE-2024-YIKES 是一份安全事件报告，披露了某个开源项目中的严重漏洞。该漏洞允许攻击者通过特定输入绕过安全机制，导致数据泄露或远程代码执行。核心技术亮点在于漏洞的发现与利用链分析，以及修复补丁的快速部署。适用场景包括安全审计、漏洞研究和开源项目维护者参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-11T02:06:20.752614+00:00"
+    },
+    {
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48085993",
+      "hn_url": "https://news.ycombinator.com/item?id=48085993",
+      "description": "",
+      "hn_score": 133,
+      "comments": 461,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "这是Hacker News上2026年5月的月度讨论帖，邀请用户分享当前正在进行的项目。核心是社区驱动的项目展示与交流，无特定技术亮点。适用场景：开发者寻找灵感、推广个人项目、发现新兴工具或趋势。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-11T02:06:22.956850+00:00"
+    },
+    {
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "source": "hackernews-top",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "hn_url": "https://news.ycombinator.com/item?id=48089263",
+      "description": "",
+      "hn_score": 73,
+      "comments": 45,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "PS3模拟器开发者请求社区停止用AI生成的PR淹没项目。这些PR通常由LLM自动生成，缺乏实际测试和代码质量，增加了维护负担。核心问题是AI工具被滥用，导致开源项目收到大量低质量贡献。技术亮点在于开发者需要设计更严格的PR审查流程或AI辅助工具来过滤无效提交。适用场景为开源项目维护和AI辅助开发工具的质量控制。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-11T02:06:26.033603+00:00"
+    },
+    {
+      "title": "You Need AI That Reduces Maintenance Costs",
+      "source": "hackernews-top",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "hn_url": "https://news.ycombinator.com/item?id=48089289",
+      "description": "",
+      "hn_score": 23,
+      "comments": 3,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "文章讨论如何通过AI降低系统维护成本，核心是使用预测性维护和自动化诊断技术。它解决传统维护中高人力投入和停机损失问题，亮点在于结合异常检测算法与历史数据训练模型，实现故障提前预警。适用场景包括IT基础设施、工业设备和软件系统的运维优化。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-11T02:06:28.658037+00:00"
+    },
+    {
+      "title": "Traces Of Humanity",
+      "source": "hackernews-top",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085782",
+      "description": "",
+      "hn_score": 128,
+      "comments": 19,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "Traces Of Humanity 是一个探索人类与AI交互痕迹的开源项目，通过分析对话数据中的模式与异常，解决AI系统缺乏对用户行为深度理解的问题。核心技术包括基于LLM的对话流分析、异常检测算法及可视化工具，适用于AI助手行为审计、用户体验优化及人机协作研究场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:06:31.387629+00:00"
+    },
+    {
+      "title": "I returned to AWS and was reminded why I left",
+      "source": "hackernews-top",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48073201",
+      "description": "",
+      "hn_score": 661,
+      "comments": 481,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "作者回顾重返AWS后的体验，指出其云服务在开发者体验、文档质量、服务一致性等方面的问题，如控制台复杂、服务间集成困难、成本管理不透明等。核心亮点在于对比其他云平台（如GCP、Azure）的易用性差异，强调AWS在生态成熟度与用户友好性之间的权衡。适用场景为云服务选型评估、开发者工具链优化决策。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-05-11T02:06:34.080155+00:00"
+    },
+    {
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "hn_url": "https://news.ycombinator.com/item?id=48088151",
+      "description": "",
+      "hn_score": 145,
+      "comments": 69,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "马里兰州居民因AI数据中心电力需求被迫承担20亿美元电网升级费用，引发公平性争议。该事件暴露AI基础设施扩张与公共资源分配的矛盾，核心问题在于如何平衡技术发展与民生成本。适用于讨论AI伦理、政策监管及可持续基础设施规划场景。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-11T02:06:36.556464+00:00"
+    },
+    {
+      "title": "The locals don't know",
+      "source": "hackernews-top",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "hn_url": "https://news.ycombinator.com/item?id=48085055",
+      "description": "",
+      "hn_score": 102,
+      "comments": 72,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "一篇关于技术社区中“本地人不知道”现象的讨论，指出许多有价值的技术信息（如小众工具、隐藏的API或本地化解决方案）往往不为外部所知。核心亮点是揭示信息不对称问题，并探讨如何通过社区分享和文档化来弥合这一差距。适用场景包括技术调研、开源项目推广和知识管理。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "community"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:06:39.260260+00:00"
+    },
+    {
+      "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+      "source": "hackernews-top",
+      "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+      "hn_url": "https://news.ycombinator.com/item?id=48089531",
+      "description": "",
+      "hn_score": 17,
+      "comments": 12,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "这是一份关于美国AI准备度的政策分析报告，评估了美国在AI领域的优势（如顶尖研究机构、强大的科技产业）、劣势（如基础设施不足、人才短缺）并提出建议（如加大投资、完善监管）。核心亮点在于系统性地从国家层面分析AI生态，而非聚焦具体技术。适用场景为政策制定者、战略规划者及关注AI宏观发展的研究人员。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-11T02:06:42.234283+00:00"
+    },
+    {
+      "title": "Idempotency is easy until the second request is different",
+      "source": "hackernews-top",
+      "url": "https://blog.dochia.dev/blog/idempotency/",
+      "hn_url": "https://news.ycombinator.com/item?id=48047930",
+      "description": "",
+      "hn_score": 283,
+      "comments": 174,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "幂等性（Idempotency）在分布式系统中看似简单，但实际处理中当第二次请求与第一次不同时（如请求体变化、状态冲突），实现变得复杂。文章深入探讨了幂等键的设计、存储策略（如Redis或数据库唯一约束）以及处理并发与重试的边界情况，核心亮点是区分“相同请求”与“不同请求”的幂等性保证。适用于API设计、支付系统、消息队列等需要防止重复处理的场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-11T02:06:45.088665+00:00"
+    },
+    {
+      "title": "What's a mathematician to do? (2010)",
+      "source": "hackernews-top",
+      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "hn_url": "https://news.ycombinator.com/item?id=48083007",
+      "description": "",
+      "hn_score": 153,
+      "comments": 75,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "2010年文章探讨数学家在现代AI/LLM研究中的角色转变。核心问题：传统数学训练如何适应机器学习领域？技术亮点：提出数学家在算法设计、理论证明和模型可解释性方面的独特优势。适用场景：AI工程师理解数学基础对LLM架构优化、损失函数设计及理论验证的价值。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-11T02:06:47.706288+00:00"
+    },
+    {
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "source": "hackernews-top",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "hn_url": "https://news.ycombinator.com/item?id=48089049",
+      "description": "",
+      "hn_score": 7,
+      "comments": 0,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "该文章探讨将Claude作为用户空间IP协议栈处理ping请求的延迟与可行性。核心问题是AI模型能否替代传统内核网络栈实现基础网络功能。亮点在于利用LLM的通用推理能力模拟协议响应，无需专用硬件或内核模块。适用场景包括边缘计算中的轻量级网络模拟、AI驱动的网络诊断工具原型验证。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-11T02:06:50.223767+00:00"
+    },
+    {
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "hn_url": "https://news.ycombinator.com/item?id=48084432",
+      "description": "",
+      "hn_score": 477,
+      "comments": 255,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "Louis Rossmann 公开承诺为一位因法律威胁而陷入困境的 OrcaSlicer 开发者支付诉讼费用。OrcaSlicer 是 3D 打印领域流行的开源切片软件，开发者因项目相关法律纠纷面临个人财务风险。核心亮点在于 Rossmann 通过个人影响力直接介入开源社区法律保护，强调开源开发者不应因贡献而承担个人法律责任。适用场景包括开源项目法律风险应对、社区支持机制建立。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-11T02:06:53.280812+00:00"
+    },
+    {
+      "title": "Think Linear Algebra (2023)",
+      "source": "hackernews-top",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48082396",
+      "description": "",
+      "hn_score": 166,
+      "comments": 20,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "Think Linear Algebra 是一个交互式线性代数学习资源，旨在解决传统教材抽象难懂的问题。它通过可视化、即时反馈和直观解释，帮助学习者理解向量空间、矩阵运算、特征值等核心概念。核心技术亮点包括动态图形演示、逐步推导和实际应用案例。适用于数学、机器学习、数据科学等领域的学习者，作为补充教材或自学工具。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-11T02:06:55.959218+00:00"
+    },
+    {
+      "title": "Task Paralysis and AI",
+      "source": "hackernews-top",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48081469",
+      "description": "",
+      "hn_score": 200,
+      "comments": 108,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "探讨AI如何加剧或缓解任务瘫痪（Task Paralysis）现象，即面对过多选择或复杂任务时无法决策或行动。核心问题在于AI提供海量信息与建议，反而导致用户认知过载。技术亮点包括利用LLM生成结构化任务分解、优先级排序建议，以及通过agent自动化执行子任务。适用场景为知识工作者的日常任务管理、项目管理工具集成，以及个人生产力提升应用。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "workflow-automation",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:06:59.085330+00:00"
+    },
+    {
+      "title": "Space Cadet Pinball on Linux",
+      "source": "hackernews-top",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "hn_url": "https://news.ycombinator.com/item?id=48082968",
+      "description": "",
+      "hn_score": 317,
+      "comments": 105,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "Space Cadet Pinball on Linux 是一个开源项目，旨在将经典的 Windows 游戏《太空军校生弹球》移植到 Linux 系统。它解决了该游戏在 Linux 上无法原生运行的问题，核心技术亮点包括使用 SDL2 库进行跨平台图形和音频渲染，并复刻了原始游戏逻辑。适用场景为 Linux 用户怀旧或体验经典弹球游戏，以及作为游戏移植技术参考。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-05-11T02:07:01.945067+00:00"
+    },
+    {
+      "title": "Spain has become one of Europe’s cheapest power markets",
+      "source": "hackernews-top",
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "hn_url": "https://news.ycombinator.com/item?id=48085330",
+      "description": "",
+      "hn_score": 146,
+      "comments": 120,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "西班牙成为欧洲最便宜的电力市场之一，主要得益于可再生能源（尤其是太阳能和风能）的快速增长，降低了电力批发价格。该条目本身并非技术文章，而是经济/能源新闻，但反映了清洁能源技术（如光伏、风电）的规模化应用对市场的影响。核心技术亮点是可再生能源的高渗透率降低了边际成本，适用场景包括能源政策分析、可再生能源投资评估。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-11T02:07:04.386423+00:00"
+    },
+    {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "source": "hackernews-top",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "hn_url": "https://news.ycombinator.com/item?id=48071262",
+      "description": "",
+      "hn_score": 685,
+      "comments": 514,
+      "collected_at": "2026-05-11T02:05:15.089671+00:00",
+      "published_at": "2026-05-11T02:05:15.089671+00:00",
+      "summary": "该条目标题提及ChatGPT 5.5 Pro体验，但实际内容未知。从HN高热度（685分）推测，可能涉及OpenAI最新模型的能力评测或使用心得。核心亮点在于模型版本迭代带来的性能提升，如推理、多模态或工具调用能力。适用场景为AI开发者评估前沿模型能力，或普通用户了解最新AI助手进展。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-11T02:07:07.133214+00:00"
+    }
+  ]
+}
