@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-12-012",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+  "source": "hackernews-top",
+  "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "summary": "该文章是系列教程第一部分，展示如何在Swift中通过优化矩阵乘法（从Gflop/s提升至Tflop/s）来训练LLM。解决Swift生态中缺乏高性能计算库的问题，核心技术包括利用Metal框架进行GPU加速、内存布局优化和并行计算。适用场景为在Apple硬件上实现轻量级LLM训练或推理。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-05-12T02:01:29.324196+00:00",
+  "analyzed_at": "2026-05-12T02:03:00.967604+00:00",
+  "organized_at": "2026-05-12T02:03:27.135907+00:00",
+  "status": "published"
+}

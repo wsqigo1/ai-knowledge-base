@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-12-013",
+  "title": "Interfaze: A new model architecture built for high accuracy at scale",
+  "source": "hackernews-top",
+  "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+  "summary": "Interfaze 是一种新型模型架构，旨在解决大规模部署中高精度与计算效率的平衡问题。其核心技术亮点是通过创新的层间交互机制（inter-layer fusion）减少冗余计算，同时保持模型容量。该架构适用于需要高吞吐量且对延迟敏感的工业级推理场景，如实时推荐系统或大规模文本分类。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-12T02:01:29.324196+00:00",
+  "analyzed_at": "2026-05-12T02:03:03.854668+00:00",
+  "organized_at": "2026-05-12T02:03:27.135907+00:00",
+  "status": "published"
+}

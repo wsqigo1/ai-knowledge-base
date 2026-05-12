@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-12-015",
+  "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+  "source": "hackernews-top",
+  "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+  "summary": "CUDA-oxide 是 NVIDIA 官方推出的 Rust 到 CUDA 编译器，旨在解决 Rust 生态中利用 GPU 并行计算时缺乏官方工具链的问题。其核心技术亮点包括：将 Rust 代码直接编译为 PTX（CUDA 中间表示），支持 Rust 的安全特性（如所有权、借用检查）与 CUDA 内存模型的无缝集成，并利用 LLVM 后端优化性能。适用场景包括高性能计算、科学模拟、图形渲染等需要 GPU 加速的 Rust 项目，尤其适合追求内存安全与并行效率的 AI 基础设施开发。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-05-12T02:01:29.324196+00:00",
+  "analyzed_at": "2026-05-12T02:03:10.179207+00:00",
+  "organized_at": "2026-05-12T02:03:27.135907+00:00",
+  "status": "published"
+}

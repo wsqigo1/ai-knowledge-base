@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-12-008",
+  "title": "Postmortem: TanStack npm supply-chain compromise",
+  "source": "hackernews-top",
+  "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+  "summary": "TanStack 团队发布 npm 供应链攻击事后分析报告。该事件通过劫持 npm 包发布流程，向流行库注入恶意代码，影响广泛用户。核心亮点包括攻击链分析、漏洞根因（如弱凭证、CI/CD 配置缺陷）及修复措施（如启用 2FA、审计依赖）。适用于开源维护者、DevOps 工程师及安全研究者，用于强化供应链安全实践。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.9,
+  "collected_at": "2026-05-12T02:01:29.324196+00:00",
+  "analyzed_at": "2026-05-12T02:02:32.051283+00:00",
+  "organized_at": "2026-05-12T02:03:27.135907+00:00",
+  "status": "published"
+}

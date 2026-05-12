@@ -1,0 +1,523 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-12T02:01:30.893732+00:00",
+  "date": "2026-05-12",
+  "count": 19,
+  "items": [
+    {
+      "title": "strukto-ai/mirage",
+      "source": "github-trending",
+      "url": "https://github.com/strukto-ai/mirage",
+      "description": "A Unified Virtual Filesystem For AI Agents",
+      "stars": 1946,
+      "language": "TypeScript",
+      "topics": [
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash",
+        "claude-code",
+        "fuse",
+        "langchain",
+        "llm-agents",
+        "openai-agents",
+        "python",
+        "typescript",
+        "vfs",
+        "virtual-filesystem"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-12T01:49:32Z",
+      "summary": "Mirage 是一个为 AI 代理设计的统一虚拟文件系统，解决 AI 代理在操作本地文件、执行 bash 命令、访问远程存储时接口碎片化问题。核心通过 FUSE 实现文件系统抽象，将多种数据源（本地、S3、Git、SSH 等）挂载为统一路径，支持代理以标准文件操作（read/write/ls）与异构资源交互。适用于 Claude Code 等 agent 沙箱环境，简化工具调用逻辑。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.3,
+      "analyzed_at": "2026-05-12T02:01:34.730921+00:00"
+    },
+    {
+      "title": "yaojingang/yao-open-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "stars": 1630,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-07T12:39:19Z",
+      "summary": "yao-open-prompts 是一个中文 AI 提示词库，旨在解决中文用户在使用大语言模型时缺乏高质量、场景化 prompt 的问题。核心亮点是覆盖工作、学习、内容创作、营销和生活五大场景的预置提示词集合，基于 Python 实现，便于本地部署和自定义。适用于需要快速获取有效 prompt 的中文 AI 应用开发者和普通用户，提升 prompt engineering 效率。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-12T02:01:37.741587+00:00"
+    },
+    {
+      "title": "huangserva/3DCellForge",
+      "source": "github-trending",
+      "url": "https://github.com/huangserva/3DCellForge",
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "stars": 1422,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-11T05:42:37Z",
+      "summary": "3DCellForge 是一个基于 AI 的交互式 3D 细胞生成与探索平台，旨在解决生物医学研究中细胞三维结构可视化与生成的需求。其核心技术亮点在于利用 JavaScript 构建的实时交互界面，结合 AI 模型实现细胞形态的智能生成与编辑。适用于生物教育、药物研发及细胞生物学可视化场景。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-12T02:01:40.655883+00:00"
+    },
+    {
+      "title": "lightseekorg/tokenspeed",
+      "source": "github-trending",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 945,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "deepseek",
+        "gpt-oss",
+        "kimi",
+        "lightseek",
+        "llm",
+        "minimax",
+        "qwen",
+        "speed-of-light",
+        "tokenspeed"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-12T01:51:47Z",
+      "summary": "TokenSpeed 是一个面向 LLM 推理的极速引擎，旨在解决大模型推理延迟高、吞吐量低的问题。其核心技术亮点包括针对 Blackwell、DeepSeek、GPT-OSS、Kimi 等架构的深度优化，以及可能采用的光速级计算优化策略。适用场景为需要低延迟、高吞吐量的 LLM 推理服务，如实时对话、代码生成等。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-12T02:01:43.439904+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-md-html",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-md-html",
+      "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "stars": 439,
+      "language": "CSS",
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-11T07:40:01Z",
+      "summary": "huashu-md-html 是一个实现 Markdown 与 HTML 双向转换的流水线工具，整合 markitdown、Pandoc、html-to-markdown 和 trafilatura 四套引擎，提供“万物→md”、“md→精美html”、“html→md”三种能力。核心亮点包括封装多种转换库以覆盖复杂场景，以及内置 4 套反 AI 风格主题。适用于文档格式互转、内容清洗、博客生成等场景，尤其适合需要高质量 HTML 输出的 AI 写作或知识管理流程。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-12T02:01:46.892074+00:00"
+    },
+    {
+      "title": "darkrishabh/agent-skills-eval",
+      "source": "github-trending",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "description": "A test runner for agentskills.io-style AI agent skills",
+      "stars": 430,
+      "language": "TypeScript",
+      "topics": [
+        "agent-evals",
+        "agent-skills",
+        "agentskills",
+        "ai-agents",
+        "cli",
+        "jsonl",
+        "llm-evals",
+        "llm-evaluation",
+        "openai-compatible",
+        "typescript",
+        "yaml"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-07T00:58:40Z",
+      "summary": "这是一个用于测试 AI agent 技能的 CLI 测试运行器，遵循 agentskills.io 风格。它解决了评估 AI agent 在特定任务上表现的问题，核心亮点是提供标准化的测试框架和命令行工具，适用于开发者对 agent 进行基准测试和性能评估。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "developer-tools",
+        "cli",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-12T02:01:49.488113+00:00"
+    },
+    {
+      "title": "nickvasilescu/hermes-desktop-os1",
+      "source": "github-trending",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "stars": 370,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-09T05:01:58Z",
+      "summary": "Hermes Desktop - OS1 Edition 是一个原生 macOS 工作空间，用于在 Orgo 云计算机和 SSH 主机上运行 Hermes Agent。它解决了 AI 代理在远程云环境中的本地化操作与桌面集成问题，核心亮点是提供无缝的 macOS 原生界面来管理云端代理实例。适用于需要远程执行 AI 任务、管理云上代理工作流的开发者或运维人员。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-12T02:01:52.688862+00:00"
+    },
+    {
+      "title": "iam567/LifeManga",
+      "source": "github-trending",
+      "url": "https://github.com/iam567/LifeManga",
+      "description": "ios swift swiftui openai gpt-image manga ai-art",
+      "stars": 308,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-07T11:27:56Z",
+      "summary": "LifeManga 是一个基于 Swift 和 SwiftUI 构建的 iOS 应用，利用 OpenAI 的 GPT 图像生成能力创建漫画风格的艺术作品。核心亮点在于将大语言模型的图像生成功能与移动端原生 UI 框架结合，实现从文本描述到漫画图像的端到端生成。适用于个人娱乐、创意表达或快速生成漫画素材的场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-12T02:01:55.194345+00:00"
+    },
+    {
+      "title": "TQ-trade-agent/tq-trading-agent",
+      "source": "github-trending",
+      "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+      "stars": 295,
+      "language": "Vue",
+      "topics": [
+        "algorithmic-trading",
+        "financial-analysis",
+        "langchain",
+        "langgraph",
+        "openai",
+        "stock-research",
+        "trading-agent",
+        "trading-bot",
+        "typescript"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-06T15:19:25Z",
+      "summary": "TQ-trade-agent 是一个基于 TypeScript、LangGraph 和 OpenAI 兼容 API 构建的 AI 驱动多智能体股票研究与交易策略编排系统。它解决了个体交易者难以高效整合市场数据、分析并生成可执行策略的问题。核心技术亮点包括多智能体协作架构、LangGraph 工作流编排以及灵活的 LLM 接口。适用于量化交易研究、自动化策略回测及金融数据分析场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-12T02:01:58.201351+00:00"
+    },
+    {
+      "title": "ChristianJR19/GoblinOS",
+      "source": "github-trending",
+      "url": "https://github.com/ChristianJR19/GoblinOS",
+      "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
+      "stars": 244,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "goblin",
+        "hermes-agent",
+        "llm",
+        "mischief",
+        "nous-research",
+        "openai",
+        "python"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-11T15:47:40Z",
+      "summary": "GoblinOS 为 Hermes Agent 添加一个持久化、情绪驱动的哥布林人格层，替换默认代理身份。核心通过 Python 实现人格状态管理，使 LLM 代理行为更具拟人化和趣味性。适用于需要角色扮演、游戏 NPC 或个性化 AI 助手的场景。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-12T02:02:00.878536+00:00"
+    },
+    {
+      "title": "kerlos/pordee",
+      "source": "github-trending",
+      "url": "https://github.com/kerlos/pordee",
+      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "stars": 240,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code-plugin",
+        "thai"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-10T05:18:41Z",
+      "summary": "kerlos/pordee 是一个基于 JavaScript 的 Claude Code 插件，专为泰语用户设计，提供简洁的 AI 交互体验。其核心功能是将 Claude 的代码生成能力与泰语自然语言理解结合，解决非英语开发者使用 AI 编程助手时的语言障碍。技术亮点在于轻量级插件架构，通过 Claude API 实现代码补全与解释。适用场景包括泰语用户的代码辅助、教学及快速原型开发。",
+      "tags": [
+        "code-generation",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-12T02:02:04.251091+00:00"
+    },
+    {
+      "title": "opensquilla/opensquilla",
+      "source": "github-trending",
+      "url": "https://github.com/opensquilla/opensquilla",
+      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "stars": 222,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "deep-learning",
+        "foundation-models",
+        "llm",
+        "mcp",
+        "memory",
+        "openclaw",
+        "python",
+        "skills"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-12T01:13:54Z",
+      "summary": "OpenSquilla 是一个开源 AI Agent 框架，旨在通过 token 高效设计提升智能密度。它解决传统 Agent 在有限预算下推理能力不足的问题，核心技术包括优化 token 分配策略和高效模型调用机制。适用于资源受限场景下的复杂任务自动化，如低成本部署智能助手或轻量级多轮对话系统。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "large-language-model",
+        "multi-agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-12T02:02:07.531381+00:00"
+    },
+    {
+      "title": "ProjectKumo/KumoApp",
+      "source": "github-trending",
+      "url": "https://github.com/ProjectKumo/KumoApp",
+      "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
+      "stars": 212,
+      "language": "Swift",
+      "topics": [
+        "agent-friendly",
+        "clash",
+        "clash-meta",
+        "cli",
+        "liquid-glass",
+        "macos",
+        "mihomo",
+        "proxy",
+        "proxy-client",
+        "swift",
+        "swift-package",
+        "swiftui"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-11T18:20:52Z",
+      "summary": "ProjectKumo/KumoApp 是一个基于 SwiftUI 构建的 macOS 原生客户端，用于管理 Mihomo 代理核心。它解决了代理配置复杂、缺乏友好图形界面的问题，提供简洁的本地操作体验。核心技术亮点包括：使用 SwiftUI 实现液态玻璃 UI 设计，集成 CLI 支持以适配 agent 自动化场景，兼容 clash-meta 协议。适用于需要稳定代理管理的 macOS 用户，尤其是偏好原生应用和自动化工作流的开发者。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-12T02:02:10.939797+00:00"
+    },
+    {
+      "title": "Sayhi-bzb/AIEden",
+      "source": "github-trending",
+      "url": "https://github.com/Sayhi-bzb/AIEden",
+      "description": "an LLM-native world and civilization",
+      "stars": 177,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-08T08:41:40Z",
+      "summary": "Sayhi-bzb/AIEden 是一个基于 LLM 原生的世界与文明模拟项目，使用 TypeScript 构建。它旨在利用大语言模型驱动虚拟世界中多个智能体的自主交互、社会演化与文明形成，解决传统游戏或模拟中 NPC 行为僵化、缺乏动态叙事的问题。核心技术亮点包括 LLM 驱动的智能体决策、多智能体协作与记忆系统，以及基于自然语言的世界规则定义。适用场景包括游戏开发、社会模拟研究、AI 叙事实验。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "multi-agent",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-12T02:02:14.678942+00:00"
+    },
+    {
+      "title": "DeepSeek-TUI/DeepSeek-TUI",
+      "source": "github-trending",
+      "url": "https://github.com/DeepSeek-TUI/DeepSeek-TUI",
+      "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal.",
+      "stars": 126,
+      "language": "Rust",
+      "topics": [
+        "deepseek-tui",
+        "deepseek-tui-download",
+        "deepseek-tui-install",
+        "deepseek-tui-installer"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-06T13:53:07Z",
+      "summary": "DeepSeek-TUI 是一个基于 Rust 构建的终端交互式编码代理，专为 DeepSeek 模型设计。它解决了在命令行环境中高效调用 DeepSeek 模型进行代码生成与辅助编程的需求，无需图形界面即可实现智能编码交互。核心技术亮点包括轻量级 TUI 界面、实时流式响应、以及针对 DeepSeek 模型的优化适配。适用场景为开发者日常终端编程、远程服务器开发、以及偏好 CLI 工作流的 AI 辅助编码任务。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-12T02:02:17.839150+00:00"
+    },
+    {
+      "title": "LYiHub/OpenClaw-AWD-Arena",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/OpenClaw-AWD-Arena",
+      "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time.",
+      "stars": 125,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-09T03:22:36Z",
+      "summary": "LYiHub/OpenClaw-AWD-Arena 是一个自动化攻防平台，利用 LLM 驱动的 agent 进行实时对抗。它解决了传统 AWD 竞赛中依赖人工操作、效率低下的问题，核心亮点在于将 LLM agent 作为攻防主体，实现自动化决策与执行。适用场景包括网络安全竞赛、AI agent 安全能力评估及攻防策略研究。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "multi-agent",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-12T02:02:20.633867+00:00"
+    },
+    {
+      "title": "rihebty/flow-kit",
+      "source": "github-trending",
+      "url": "https://github.com/rihebty/flow-kit",
+      "description": "一套融合了bmad、spec-kit、OpenSpec、GSD、claude-task-master、superpowers、gstack、skills的 AI 编程规范化流程",
+      "stars": 118,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-07T01:29:57Z",
+      "summary": "Flow-Kit 是一个集成多种 AI 编程规范化工具的开源项目，旨在解决 AI 辅助开发流程中缺乏标准化、工具碎片化的问题。其核心技术亮点是融合了 bmad、spec-kit、OpenSpec、GSD、claude-task-master、superpowers、gstack、skills 等工具，形成端到端的 AI 编程工作流规范。适用于需要统一 AI 编程流程、提升代码生成质量和团队协作效率的开发者或团队。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-12T02:02:23.268261+00:00"
+    },
+    {
+      "title": "zy-zmc/tianming-novel-ai-writer",
+      "source": "github-trending",
+      "url": "https://github.com/zy-zmc/tianming-novel-ai-writer",
+      "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写",
+      "stars": 117,
+      "language": "C#",
+      "topics": [
+        "ai-novel",
+        "ai-writer",
+        "ai-writing",
+        "chinese-novel",
+        "dotnet",
+        "novel-writing",
+        "tianming",
+        "webnovel",
+        "wpf",
+        "writing-tool"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-11T06:01:55Z",
+      "summary": "天命是一个基于C#的AI网文创作系统，解决长篇小说（如3000章）中情节连贯性依赖模型记忆的痛点。核心技术亮点包括12维事实快照（维护角色、地点等状态）、9类变更声明（跟踪剧情变化）和6道生成门禁（确保输出质量），通过每章状态回写机制而非模型记忆实现长期连贯性。适用场景为中文网络小说创作，尤其适合超长篇连载。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-12T02:02:26.564167+00:00"
+    },
+    {
+      "title": "CodeAbra/iai-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/CodeAbra/iai-mcp",
+      "description": "The best-benchmarked open-source memory system for AI coding assistants",
+      "stars": 110,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "embeddings",
+        "episodic-memory",
+        "lancedb",
+        "llm-tools",
+        "local-first",
+        "long-term-memory",
+        "mcp",
+        "mcp-server",
+        "memory",
+        "model-context-protocol",
+        "openclaw",
+        "python",
+        "semantic-search",
+        "sentence-transformers",
+        "vector-search"
+      ],
+      "collected_at": "2026-05-12T02:01:29.225245+00:00",
+      "published_at": "2026-05-11T19:51:30Z",
+      "summary": "CodeAbra/iai-mcp 是一个开源记忆系统，专为 AI 编码助手设计，旨在解决长期上下文丢失问题。核心亮点包括基于嵌入的高效检索、MCP 协议集成，以及经过基准测试的性能优化。适用于 Claude Code 等 AI 编码工具，提升跨会话的代码理解与任务连续性。",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "code-generation",
+        "embedding",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-12T02:02:28.958121+00:00"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-12T02:01:30.894226+00:00",
+  "date": "2026-05-12",
+  "count": 20,
+  "items": [
+    {
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "source": "hackernews-top",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "hn_url": "https://news.ycombinator.com/item?id=48100706",
+      "description": "",
+      "hn_score": 534,
+      "comments": 192,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "TanStack 团队发布 npm 供应链攻击事后分析报告。该事件通过劫持 npm 包发布流程，向流行库注入恶意代码，影响广泛用户。核心亮点包括攻击链分析、漏洞根因（如弱凭证、CI/CD 配置缺陷）及修复措施（如启用 2FA、审计依赖）。适用于开源维护者、DevOps 工程师及安全研究者，用于强化供应链安全实践。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.9,
+      "analyzed_at": "2026-05-12T02:02:32.051283+00:00"
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "source": "hackernews-top",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "hn_url": "https://news.ycombinator.com/item?id=48100433",
+      "description": "",
+      "hn_score": 157,
+      "comments": 163,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "文章探讨当AI能自动生成代码时，Python作为编程语言的价值是否被削弱。核心论点：Python在AI时代仍不可替代，因其生态（如PyTorch、LangChain）是AI工具链的基础，且代码生成工具本身依赖Python编写。技术亮点：分析AI代码生成对语言选择的影响，指出Python在快速原型、数据科学和AI集成中的优势。适用场景：AI工程师评估技术栈选择、理解Python在AI工作流中的持续重要性。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-12T02:02:35.606180+00:00"
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "source": "hackernews-top",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "hn_url": "https://news.ycombinator.com/item?id=48098261",
+      "description": "",
+      "hn_score": 238,
+      "comments": 46,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "UCLA发现首个修复脑损伤的中风康复药物（2025年），解决中风后神经功能恢复难题。核心技术亮点是通过靶向特定分子通路促进神经再生和突触可塑性，动物实验显示运动功能显著改善。适用场景为中风后康复治疗，可能拓展至其他神经损伤疾病。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-12T02:02:38.224344+00:00"
+    },
+    {
+      "title": "Library for fast mapping of Java records to native memory",
+      "source": "hackernews-top",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "hn_url": "https://news.ycombinator.com/item?id=48099616",
+      "description": "",
+      "hn_score": 108,
+      "comments": 24,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "该项目是一个Java库，用于将Java记录（Record）快速映射到本地内存（native memory），解决Java对象在堆外内存中高效序列化/反序列化的问题。核心技术亮点包括零拷贝、避免GC开销、直接操作内存地址，适用于高性能计算、低延迟系统及大数据处理场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-12T02:02:40.568257+00:00"
+    },
+    {
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "source": "hackernews-top",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "hn_url": "https://news.ycombinator.com/item?id=48100662",
+      "description": "",
+      "hn_score": 72,
+      "comments": 77,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "作者利用AI构建了一个工具，用于分析夜间醒来原因。工具通过收集睡眠数据（如心率、环境噪音）并利用大语言模型进行模式识别，找出潜在干扰因素。核心亮点是结合了传感器数据与LLM推理能力，实现个性化睡眠分析。适用于个人健康监测与睡眠质量优化场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-12T02:02:43.198805+00:00"
+    },
+    {
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "source": "hackernews-top",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=48100500",
+      "description": "",
+      "hn_score": 323,
+      "comments": 319,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "GitLab宣布裁员并终止其CREDIT价值观体系。该事件主要解决公司运营成本优化与价值观重构问题，核心在于通过裁员降低人力成本，同时放弃原有的CREDIT（协作、尊重、结果、迭代、透明、信任）价值观框架，转向更精简的企业文化。适用场景为科技公司战略调整与组织变革的案例研究。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-12T02:02:46.146506+00:00"
+    },
+    {
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "source": "hackernews-top",
+      "url": "https://ratty-term.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48093100",
+      "description": "",
+      "hn_score": 611,
+      "comments": 198,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "Ratty 是一款终端模拟器，支持在终端界面内直接渲染 3D 图形，解决传统终端无法展示复杂可视化内容的问题。核心技术亮点包括集成 GPU 加速的 3D 渲染管线、与终端文本流无缝混合的图形层，以及低延迟交互。适用于需要实时 3D 数据可视化、游戏开发调试或沉浸式命令行界面的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-12T02:02:48.987588+00:00"
+    },
+    {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "source": "hackernews-top",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48060077",
+      "description": "",
+      "hn_score": 224,
+      "comments": 70,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "Nullsoft 是 Winamp 和 SHOUTcast 的开发者，1997-2004 年间活跃，解决了早期互联网音频播放与流媒体分发问题。核心技术亮点包括高效音频解码、插件架构和实时流媒体协议。适用场景为数字音乐播放、网络广播及开源多媒体工具开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-12T02:02:51.596122+00:00"
+    },
+    {
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "source": "hackernews-top",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "hn_url": "https://news.ycombinator.com/item?id=48092028",
+      "description": "",
+      "hn_score": 563,
+      "comments": 416,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "Gmail注册流程升级，要求用户扫描二维码并发送短信验证。该措施旨在应对自动化机器人滥用和虚假账户注册问题，通过引入多因素验证（二维码+短信）提升账户安全性。核心技术亮点在于结合物理设备（手机摄像头）与运营商网络（短信通道）的双重验证，增加攻击者模拟成本。适用于需要高安全性的在线服务注册场景，尤其针对大规模自动化注册攻击的防御。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-12T02:02:54.900438+00:00"
+    },
+    {
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48094641",
+      "description": "",
+      "hn_score": 119,
+      "comments": 96,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "Google披露黑客首次利用AI辅助发现并利用一个真实软件漏洞（位于开源项目中的内存安全缺陷），展示了AI在漏洞挖掘中的实际威胁。核心亮点是AI通过代码分析生成潜在漏洞点，并辅助构造利用代码，解决了传统自动化漏洞挖掘难以发现逻辑漏洞的问题。适用场景包括安全研究、AI驱动的代码审计和红队测试。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-12T02:02:58.124963+00:00"
+    },
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "source": "hackernews-top",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48085685",
+      "description": "",
+      "hn_score": 216,
+      "comments": 11,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "该文章是系列教程第一部分，展示如何在Swift中通过优化矩阵乘法（从Gflop/s提升至Tflop/s）来训练LLM。解决Swift生态中缺乏高性能计算库的问题，核心技术包括利用Metal框架进行GPU加速、内存布局优化和并行计算。适用场景为在Apple硬件上实现轻量级LLM训练或推理。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-05-12T02:03:00.967604+00:00"
+    },
+    {
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "source": "hackernews-top",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "hn_url": "https://news.ycombinator.com/item?id=48097078",
+      "description": "",
+      "hn_score": 109,
+      "comments": 30,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "Interfaze 是一种新型模型架构，旨在解决大规模部署中高精度与计算效率的平衡问题。其核心技术亮点是通过创新的层间交互机制（inter-layer fusion）减少冗余计算，同时保持模型容量。该架构适用于需要高吞吐量且对延迟敏感的工业级推理场景，如实时推荐系统或大规模文本分类。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-12T02:03:03.854668+00:00"
+    },
+    {
+      "title": "AMÁLIA and the future of European Portuguese LLMs",
+      "source": "hackernews-top",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "hn_url": "https://news.ycombinator.com/item?id=48065429",
+      "description": "",
+      "hn_score": 117,
+      "comments": 57,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "AMÁLIA 是一个专注于欧洲葡萄牙语的 LLM 项目，旨在解决该语言在主流大模型中表现不足的问题。其核心技术亮点包括使用高质量葡萄牙语语料库进行预训练和微调，并针对欧洲葡萄牙语的语法和表达习惯优化。适用场景包括葡萄牙语文本生成、翻译、问答和本地化应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-12T02:03:06.620974+00:00"
+    },
+    {
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "source": "hackernews-top",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48096692",
+      "description": "",
+      "hn_score": 364,
+      "comments": 105,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "CUDA-oxide 是 NVIDIA 官方推出的 Rust 到 CUDA 编译器，旨在解决 Rust 生态中利用 GPU 并行计算时缺乏官方工具链的问题。其核心技术亮点包括：将 Rust 代码直接编译为 PTX（CUDA 中间表示），支持 Rust 的安全特性（如所有权、借用检查）与 CUDA 内存模型的无缝集成，并利用 LLVM 后端优化性能。适用场景包括高性能计算、科学模拟、图形渲染等需要 GPU 加速的 Rust 项目，尤其适合追求内存安全与并行效率的 AI 基础设施开发。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-12T02:03:10.179207+00:00"
+    },
+    {
+      "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
+      "source": "hackernews-top",
+      "url": "https://imtomt.github.io/ymawky/",
+      "hn_url": "https://news.ycombinator.com/item?id=48062977",
+      "description": "",
+      "hn_score": 102,
+      "comments": 34,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "该项目使用aarch64汇编语言从零构建一个Web服务器，旨在通过底层编程探索计算机体系结构。核心亮点是展示如何用汇编实现HTTP协议解析、TCP连接管理和响应生成，解决高级语言抽象下的性能极限问题。适用于嵌入式系统、操作系统开发或对汇编优化感兴趣的极客场景，但实用性有限。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-12T02:03:13.033902+00:00"
+    },
+    {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "source": "hackernews-top",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "hn_url": "https://news.ycombinator.com/item?id=48086190",
+      "description": "",
+      "hn_score": 2083,
+      "comments": 705,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "本文探讨硬件认证（Hardware Attestation）技术如何被大型科技公司用作垄断工具。硬件认证通过可信执行环境（TEE）等机制验证设备或软件完整性，本应用于提升安全性，但实际中可能被用于锁定用户、排除竞争。核心亮点在于揭示技术中立背后的商业策略，即利用硬件级控制权限制第三方软件或服务运行。适用场景包括云服务、设备生态和数字版权管理领域，提醒开发者警惕技术标准被滥用于市场支配。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-12T02:03:16.482941+00:00"
+    },
+    {
+      "title": "Show HN: E2a – Open-source email gateway for AI agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "hn_url": "https://news.ycombinator.com/item?id=48100227",
+      "description": "",
+      "hn_score": 22,
+      "comments": 2,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "E2a 是一个开源邮件网关，专为 AI 代理设计，解决 AI 代理无法直接收发电子邮件的问题。核心技术亮点包括：支持 SMTP/IMAP 协议，提供 RESTful API 接口，集成 LLM 解析邮件内容并触发自动化工作流。适用场景：AI 助手自动回复客户邮件、多代理协作处理邮件任务、企业邮件自动化流程。",
+      "tags": [
+        "open-source",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-05-12T02:03:19.447022+00:00"
+    },
+    {
+      "title": "Software engineering may no longer be a lifetime career",
+      "source": "hackernews-top",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "hn_url": "https://news.ycombinator.com/item?id=48095550",
+      "description": "",
+      "hn_score": 367,
+      "comments": 609,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "文章讨论软件工程可能不再是终身职业，核心观点是AI和自动化工具（如代码生成、工作流自动化）正在改变开发者的角色，导致传统编程技能贬值。解决的是职业可持续性问题，技术亮点在于分析AI对软件工程岗位的冲击，适用场景为职业规划和技术团队战略调整。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-12T02:03:21.847032+00:00"
+    },
+    {
+      "title": "Local AI needs to be the norm",
+      "source": "hackernews-top",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085821",
+      "description": "",
+      "hn_score": 1763,
+      "comments": 697,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "Local AI（本地AI）应成为常态，强调在用户设备上运行AI模型，而非依赖云端。它解决数据隐私、延迟和离线可用性问题。核心技术亮点包括模型压缩（如量化、蒸馏）、边缘计算优化和本地推理加速。适用场景包括个人助理、医疗数据分析和工业物联网。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-12T02:03:24.478747+00:00"
+    },
+    {
+      "title": "Guitar tuner that uses phone accelerometer",
+      "source": "hackernews-top",
+      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48058260",
+      "description": "",
+      "hn_score": 155,
+      "comments": 88,
+      "collected_at": "2026-05-12T02:01:29.324196+00:00",
+      "published_at": "2026-05-12T02:01:29.324196+00:00",
+      "summary": "该项目利用手机加速度计实现吉他调音器，通过分析琴弦振动产生的加速度数据来识别音高。它解决了传统调音器需要额外硬件或麦克风的问题，核心亮点在于利用手机内置传感器进行信号处理与频率分析，无需外部设备。适用场景为吉他手在无专用调音器时快速调音。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-12T02:03:27.129022+00:00"
+    }
+  ]
+}
