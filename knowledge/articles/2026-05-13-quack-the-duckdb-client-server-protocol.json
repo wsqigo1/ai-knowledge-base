@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-13-013",
+  "title": "Quack: The DuckDB Client-Server Protocol",
+  "source": "hackernews-top",
+  "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+  "summary": "Quack 是 DuckDB 的客户端-服务器协议实现，旨在解决 DuckDB 作为嵌入式数据库在远程访问和多进程场景下的连接限制。其核心技术亮点是实现了轻量级、高性能的二进制协议，支持流式查询和并发控制，无需依赖传统数据库驱动。适用场景包括数据科学工作流中的远程查询、微服务架构下的数据共享以及边缘计算环境。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-13T02:06:58.275992+00:00",
+  "analyzed_at": "2026-05-13T02:08:12.518425+00:00",
+  "organized_at": "2026-05-13T02:08:49.939109+00:00",
+  "status": "published"
+}

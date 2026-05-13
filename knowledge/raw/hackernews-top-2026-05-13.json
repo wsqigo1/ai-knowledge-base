@@ -1,0 +1,391 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-13T02:06:59.953132+00:00",
+  "date": "2026-05-13",
+  "count": 20,
+  "items": [
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "source": "hackernews-top",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "hn_url": "https://news.ycombinator.com/item?id=48115127",
+      "description": "",
+      "hn_score": 159,
+      "comments": 64,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该项目旨在恢复对Bambu Lab打印机的完整BambuNetwork支持。解决因固件更新或第三方软件限制导致的网络打印功能缺失问题。核心技术亮点包括逆向工程网络协议、实现与Bambu Lab云服务的兼容通信、以及提供本地网络打印替代方案。适用场景为需要稳定、完整网络打印功能的Bambu Lab打印机用户，尤其是依赖第三方软件或自定义工作流的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:07:52.786052+00:00"
+    },
+    {
+      "title": "Googlebook",
+      "source": "hackernews-top",
+      "url": "https://googlebook.google/",
+      "hn_url": "https://news.ycombinator.com/item?id=48111545",
+      "description": "",
+      "hn_score": 615,
+      "comments": 1040,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Googlebook 是一个基于 Google 搜索 API 的开源工具，旨在解决用户从海量搜索结果中高效提取结构化信息的问题。其核心技术亮点包括智能解析搜索结果、自动提取关键字段（如标题、链接、摘要）并支持自定义过滤规则。适用场景为数据采集、竞品分析及学术研究中的信息聚合。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:07:55.306034+00:00"
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "source": "hackernews-top",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "hn_url": "https://news.ycombinator.com/item?id=48113895",
+      "description": "",
+      "hn_score": 216,
+      "comments": 26,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该条目是一篇2016年的文章，介绍如何通过CSS、字体和动画效果使文本呈现未来主义风格。它解决的是视觉设计中的风格化文本渲染问题，核心技术包括使用霓虹色、发光阴影、动态模糊和科幻字体。适用于网页设计、游戏UI或科幻主题的视觉项目。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-13T02:07:57.732798+00:00"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "source": "hackernews-top",
+      "url": "https://github.com/cactus-compute/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=48111896",
+      "description": "",
+      "hn_score": 282,
+      "comments": 102,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Needle 是一个 26M 参数的小模型，通过蒸馏 Gemini 的工具调用能力实现高效 tool-use。它解决了大模型在工具调用场景中推理成本高、延迟大的问题，核心技术是知识蒸馏将 Gemini 的 tool-calling 能力压缩到极小模型。适用于资源受限环境下的 agent 工具调用、边缘设备或实时交互场景。",
+      "tags": [
+        "tool-use",
+        "fine-tuning",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:08:00.620091+00:00"
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "source": "hackernews-top",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48112042",
+      "description": "",
+      "hn_score": 236,
+      "comments": 117,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "CERT发布6个针对dnsmasq的严重安全漏洞CVE，涉及DNS缓存投毒、DHCP内存损坏等问题。解决广泛使用的网络基础设施软件中的远程代码执行与拒绝服务风险。核心技术亮点包括漏洞利用链分析与补丁绕过检测。适用场景为嵌入式系统、物联网设备及小型网络的路由器/DNS服务器安全加固。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-13T02:08:03.391922+00:00"
+    },
+    {
+      "title": "Why senior developers fail to communicate their expertise",
+      "source": "hackernews-top",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "hn_url": "https://news.ycombinator.com/item?id=48109460",
+      "description": "",
+      "hn_score": 374,
+      "comments": 183,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "文章探讨资深开发者难以有效传达专业知识的原因，核心问题在于专家直觉与隐性知识的表达鸿沟。通过分析认知偏差（如知识的诅咒）和沟通模型差异，提出结构化表达、类比映射和主动反馈等解决策略。适用于技术团队知识管理、跨部门协作及技术文档优化场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-13T02:08:06.118346+00:00"
+    },
+    {
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "source": "hackernews-top",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "hn_url": "https://news.ycombinator.com/item?id=48115807",
+      "description": "",
+      "hn_score": 143,
+      "comments": 30,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该条目呼吁《纽约时报》、《大西洋月刊》和《今日美国》等新闻机构停止对互联网档案馆（Wayback Machine）的法律诉讼，以保护数字历史记录的公共访问。核心问题是新闻出版商起诉互联网档案馆的版权侵权，威胁到Wayback Machine的存续。技术亮点在于Wayback Machine作为数字存档工具，通过抓取和保存网页快照，解决了网络内容消失后无法追溯的问题。适用场景包括学术研究、事实核查、历史资料检索等依赖长期网络存档的领域。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-13T02:08:09.621988+00:00"
+    },
+    {
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "source": "hackernews-top",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "hn_url": "https://news.ycombinator.com/item?id=48111765",
+      "description": "",
+      "hn_score": 191,
+      "comments": 42,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Quack 是 DuckDB 的客户端-服务器协议实现，旨在解决 DuckDB 作为嵌入式数据库在远程访问和多进程场景下的连接限制。其核心技术亮点是实现了轻量级、高性能的二进制协议，支持流式查询和并发控制，无需依赖传统数据库驱动。适用场景包括数据科学工作流中的远程查询、微服务架构下的数据共享以及边缘计算环境。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:08:12.518425+00:00"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "source": "hackernews-top",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "hn_url": "https://news.ycombinator.com/item?id=48107997",
+      "description": "",
+      "hn_score": 409,
+      "comments": 35,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该文章详细介绍了在计算机图形学中渲染天空、日落和行星的物理模拟方法，核心是使用大气散射模型（如Rayleigh散射和Mie散射）来模拟光线与大气粒子的交互，解决真实感天空渲染中的颜色渐变、太阳光晕和行星位置计算问题。技术亮点包括基于物理的实时渲染算法、光谱积分优化以及多行星大气参数配置。适用于游戏开发、天文可视化及虚拟现实场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-13T02:08:16.218446+00:00"
+    },
+    {
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "hn_url": "https://news.ycombinator.com/item?id=48100364",
+      "description": "",
+      "hn_score": 20,
+      "comments": 10,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "这是一个关于福柯《词与物》哲学概念的科普视频，用交易卡牌类比解释知识型（episteme）的演变。解决的是抽象哲学理论难以直观理解的问题。核心亮点是跨学科类比教学法，将文艺复兴、古典、现代三个知识型阶段对应卡牌游戏规则变化。适用场景为哲学教育、知识论科普或跨学科思维训练。",
+      "tags": [
+        "reasoning",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-05-13T02:08:19.286902+00:00"
+    },
+    {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48111581",
+      "description": "",
+      "hn_score": 141,
+      "comments": 116,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该项目重新设计鼠标指针，使其在AI时代具备上下文感知和智能交互能力。核心解决传统指针无法主动辅助用户的问题，通过集成LLM实现实时意图预测、操作建议和自动化任务触发。技术亮点包括基于用户行为的动态指针形态变化、与AI助手的无缝衔接以及低延迟的本地推理。适用于需要提升人机协作效率的桌面应用、设计工具和编程环境。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "human-computer-interaction"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:08:22.641452+00:00"
+    },
+    {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "source": "hackernews-top",
+      "url": "https://voker.ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48109962",
+      "description": "",
+      "hn_score": 40,
+      "comments": 19,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Voker 是一个为 AI Agent 提供分析服务的平台，解决开发者无法有效监控和优化 Agent 行为的问题。其核心技术亮点包括实时追踪 Agent 决策链、工具调用和错误率，并提供可视化仪表盘。适用于需要调试、评估和改进 AI Agent 性能的开发团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:08:24.926193+00:00"
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "source": "hackernews-top",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "hn_url": "https://news.ycombinator.com/item?id=48109970",
+      "description": "",
+      "hn_score": 309,
+      "comments": 126,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该条目讨论Obsidian插件生态的未来发展方向，核心是解决笔记工具中AI集成与自动化工作流的痛点。技术亮点包括利用LLM实现智能笔记关联、自动标签生成和内容摘要，以及通过插件架构支持agent和workflow-automation。适用场景为知识管理、个人笔记增强和开发者工具集成。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:08:28.879761+00:00"
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "source": "hackernews-top",
+      "url": "https://www.hypercubic.ai/hopper",
+      "hn_url": "https://news.ycombinator.com/item?id=48111143",
+      "description": "",
+      "hn_score": 56,
+      "comments": 33,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "该项目为大型机和COBOL系统提供AI代理接口，解决传统企业系统难以集成现代AI能力的问题。核心技术亮点包括：通过自然语言接口与COBOL程序交互，利用LLM理解业务逻辑并生成对应操作，支持任务自动化执行。适用场景为银行、保险等仍依赖大型机的行业，用于简化遗留系统维护、数据查询和流程自动化。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-05-13T02:08:32.004001+00:00"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "source": "hackernews-top",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "hn_url": "https://news.ycombinator.com/item?id=48109224",
+      "description": "",
+      "hn_score": 1102,
+      "comments": 367,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Bambu Lab 被指控滥用开源社区信任，通过将闭源组件与开源代码结合，违反 GPL 等许可证要求，实质上是利用开源生态获取商业利益而不履行回馈义务。该事件暴露了开源许可证执行中的灰色地带，即企业如何通过技术手段规避合规性。核心争议在于固件中闭源二进制与开源代码的混合分发是否构成衍生作品。适用于开源合规审计、企业开源策略制定及社区治理研究。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-13T02:08:35.398543+00:00"
+    },
+    {
+      "title": "When life gives you lemons, write better error messages",
+      "source": "hackernews-top",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "hn_url": "https://news.ycombinator.com/item?id=48069032",
+      "description": "",
+      "hn_score": 111,
+      "comments": 37,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "这是一篇关于如何编写高质量错误消息的文章。它解决的是开发者常忽略的错误信息设计问题，即模糊、无帮助的错误提示导致调试困难。核心亮点包括：提供具体错误原因、建议修复步骤、使用用户能理解的语言、避免技术术语堆砌。适用场景为任何需要用户交互的软件系统，尤其是API、CLI工具和Web应用，以提升开发者体验和调试效率。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-05-13T02:08:38.294473+00:00"
+    },
+    {
+      "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48110593",
+      "hn_url": "https://news.ycombinator.com/item?id=48110593",
+      "description": "",
+      "hn_score": 38,
+      "comments": 17,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Gigacatalyst 是一个嵌入式 AI 构建器，允许 SaaS 产品快速集成自定义 AI 功能，无需从零开发。它解决 SaaS 厂商在 AI 能力扩展中面临的高开发成本和复杂性问题。核心技术亮点包括可视化工作流编排、预置 AI 模型适配层和 API 快速集成。适用场景为需要为现有 SaaS 添加 AI 助手、自动化流程或智能分析功能的开发者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:08:41.143346+00:00"
+    },
+    {
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "source": "hackernews-top",
+      "url": "https://github.com/statewright/statewright",
+      "hn_url": "https://news.ycombinator.com/item?id=48108778",
+      "description": "",
+      "hn_score": 74,
+      "comments": 24,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Statewright 是一个通过可视化状态机（Visual State Machines）来增强 AI 代理可靠性的开源工具。它解决了 AI 代理在复杂任务中因缺乏结构化状态管理而导致的不可预测行为问题。核心技术亮点是将状态机模型可视化，允许开发者直观定义代理的状态转换逻辑，从而提升行为可解释性和稳定性。适用场景包括需要高可靠性的自动化工作流、多步骤任务执行和 AI 代理行为调试。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:08:44.256399+00:00"
+    },
+    {
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "source": "hackernews-top",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "hn_url": "https://news.ycombinator.com/item?id=48111531",
+      "description": "",
+      "hn_score": 281,
+      "comments": 88,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "Bill C-22是加拿大政府重新包装的监控法案，旨在解决去年C-26法案引发的隐私争议，核心是通过扩大政府访问通信数据的权限来加强执法监控。技术亮点在于其法律框架对端到端加密和匿名通信的潜在威胁，适用场景为政策评估和隐私技术研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-13T02:08:46.975871+00:00"
+    },
+    {
+      "title": "Learning Software Architecture",
+      "source": "hackernews-top",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48106024",
+      "description": "",
+      "hn_score": 534,
+      "comments": 108,
+      "collected_at": "2026-05-13T02:06:58.275992+00:00",
+      "published_at": "2026-05-13T02:06:58.275992+00:00",
+      "summary": "《Learning Software Architecture》是一本系统讲解软件架构设计的开源书籍。它解决开发者从单体架构向分布式、微服务等复杂架构演进时缺乏系统性知识的问题。核心技术亮点包括架构模式分类（如分层、事件驱动）、质量属性分析（性能、可扩展性）及架构决策记录方法。适用场景为初中级工程师系统学习架构设计，或团队作为架构知识培训参考。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-13T02:08:49.931475+00:00"
+    }
+  ]
+}

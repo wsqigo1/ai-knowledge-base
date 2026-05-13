@@ -1,0 +1,445 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-13T02:06:59.952594+00:00",
+  "date": "2026-05-13",
+  "count": 18,
+  "items": [
+    {
+      "title": "huangserva/3DCellForge",
+      "source": "github-trending",
+      "url": "https://github.com/huangserva/3DCellForge",
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "stars": 1712,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-13T00:58:08Z",
+      "summary": "3DCellForge 是一个基于 AI 的交互式 3D 细胞生成与探索平台，旨在解决生物医学研究中细胞三维结构可视化与生成的需求。核心技术亮点包括利用 JavaScript 构建的实时交互界面，结合 AI 模型实现细胞形态的智能生成与编辑。适用场景为生物教学、科研可视化及药物研发中的细胞结构模拟。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-05-13T02:07:02.614505+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-md-html",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-md-html",
+      "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "stars": 484,
+      "language": "CSS",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-11T07:40:01Z",
+      "summary": "huashu-md-html 是一个基于 CSS 的 md/html 双向转换工具，集成 markitdown、Pandoc、html-to-markdown 和 trafilatura 四套引擎，实现万物转 md、md 转精美 html、html 转 md 三个一站式能力。核心亮点是提供 4 套反 AI slop 主题，并支持 Claude Code skill 集成。适用于需要高质量文档格式转换、内容清洗或生成反 AI 风格化 HTML 的场景，尤其适合 AI 工程师在数据处理和展示环节使用。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:07:05.591898+00:00"
+    },
+    {
+      "title": "nickvasilescu/hermes-desktop-os1",
+      "source": "github-trending",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "stars": 390,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-09T05:01:58Z",
+      "summary": "Hermes Desktop - OS1 Edition 是一个原生 macOS 工作空间，用于在 Orgo 云计算机和 SSH 主机上运行 Hermes Agent。它解决了 AI 代理在远程云环境中的本地化桌面集成问题，核心亮点是提供原生 macOS 体验，支持无缝连接和管理远程主机上的代理。适用于需要远程 AI 代理开发、云桌面管理和 SSH 主机操作的开发者场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:07:08.266094+00:00"
+    },
+    {
+      "title": "iam567/LifeManga",
+      "source": "github-trending",
+      "url": "https://github.com/iam567/LifeManga",
+      "description": "ios swift swiftui openai gpt-image manga ai-art",
+      "stars": 326,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-07T11:27:56Z",
+      "summary": "LifeManga 是一个基于 Swift 和 SwiftUI 构建的 iOS 应用，利用 OpenAI 的 GPT 图像生成能力将用户照片转换为漫画风格。核心技术亮点是结合了 GPT 的视觉生成模型与 iOS 原生框架，实现端到端的 AI 漫画化流程。适用场景包括个人娱乐、社交媒体内容创作和艺术实验。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-13T02:07:10.478369+00:00"
+    },
+    {
+      "title": "simonlin1212/a-stock-data",
+      "source": "github-trending",
+      "url": "https://github.com/simonlin1212/a-stock-data",
+      "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+      "stars": 285,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T06:55:55Z",
+      "summary": "simonlin1212/a-stock-data 是一个面向中国A股市场的全栈数据工具包，采用6层架构设计，提供15个API端点和7个数据源整合。它解决了A股数据获取碎片化、格式不统一的问题，核心亮点包括多源数据聚合、结构化接口和AI Skill集成，适用于量化分析、金融AI应用开发和市场研究场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:07:12.905127+00:00"
+    },
+    {
+      "title": "kerlos/pordee",
+      "source": "github-trending",
+      "url": "https://github.com/kerlos/pordee",
+      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "stars": 251,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code-plugin",
+        "thai"
+      ],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-10T05:18:41Z",
+      "summary": "kerlos/pordee 是一个基于 JavaScript 的 AI 辅助工具，专为泰语用户设计，通过 Claude Code 插件实现简洁的问答交互。其核心技术亮点在于利用 Claude 的语言理解能力，将复杂问题转化为简短、精准的泰语回答，解决非英语用户使用 AI 时的语言障碍。适用场景包括泰语环境下的快速信息查询、代码解释或日常对话辅助。",
+      "tags": [
+        "ai-assistant",
+        "code-generation",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-13T02:07:15.872195+00:00"
+    },
+    {
+      "title": "ProjectKumo/KumoApp",
+      "source": "github-trending",
+      "url": "https://github.com/ProjectKumo/KumoApp",
+      "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
+      "stars": 232,
+      "language": "Swift",
+      "topics": [
+        "agent-friendly",
+        "clash",
+        "clash-meta",
+        "cli",
+        "liquid-glass",
+        "macos",
+        "mihomo",
+        "proxy",
+        "proxy-client",
+        "swift",
+        "swift-package",
+        "swiftui"
+      ],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T12:33:04Z",
+      "summary": "ProjectKumo/KumoApp 是一个基于 SwiftUI 构建的原生 macOS 客户端，用于 Mihomo 代理核心，提供图形界面和 CLI 双模式操作。它解决了 Clash 代理在 macOS 上缺乏原生、美观且支持 agent 友好交互的问题。核心技术亮点包括 Liquid Glass 视觉效果、SwiftUI 原生性能优化、以及面向 agent 的 CLI 接口设计。适用场景为 macOS 用户需要稳定、低延迟的代理管理，或开发者集成代理控制到自动化工作流。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:07:19.307785+00:00"
+    },
+    {
+      "title": "sunyouzhi2003/LSFG-Desktop",
+      "source": "github-trending",
+      "url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+      "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
+      "stars": 224,
+      "language": "C++",
+      "topics": [
+        "crimson-desert-lsfg",
+        "frame-generation",
+        "fsr-alternative",
+        "game-upscaler",
+        "gaming-booster",
+        "gaming-performance",
+        "integer-scaling",
+        "lossless-frame-generation",
+        "lossless-scaling",
+        "lossless-scaling-2026",
+        "lossless-scaling-isfg",
+        "lossless-scaling-pc",
+        "lossless-scaling-software",
+        "lossless-scaling-v3",
+        "lsfg",
+        "lsfg-3",
+        "lsfg-ai-upscaling",
+        "smooth-gaming",
+        "upscale-tool",
+        "windows-scaling-tool"
+      ],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T13:42:16Z",
+      "summary": "LSFG-Desktop 是一个基于 C++ 的开源通用帧生成与 AI 超分辨率工具，实现 LSFG 3 多帧生成（X2/X3/X4）及 LS1、FSR 3.1、NIS 超分，解决游戏卡顿与低帧率问题。核心技术包括低延迟模式、VRR 支持、4K 空间缩放与 G-Sync 兼容，适用于 Steam Deck、掌机及 Android（LSFG-VK）平台，显著提升游戏流畅度。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:07:21.700392+00:00"
+    },
+    {
+      "title": "yaassin12/DeepSeek-V4-Pro-App",
+      "source": "github-trending",
+      "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+      "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
+      "stars": 215,
+      "language": "C++",
+      "topics": [
+        "agentic-ai",
+        "ai-application",
+        "ai-application-development",
+        "deep-seek",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-chat",
+        "deepseek-ocr-2",
+        "deepseek-r1",
+        "deepseek-r1-zero",
+        "deepseek-v4-download",
+        "deepseek-v4-pro"
+      ],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T15:10:12Z",
+      "summary": "yaassin12/DeepSeek-V4-Pro-App 是一款基于 DeepSeek V4 Pro 的桌面 AI 应用，采用 1.6T MoE 架构和 1M token 上下文窗口，通过 Engram 记忆机制实现持久化上下文。核心解决长上下文推理、复杂代码修复和跨文件分析问题，支持 Pro 编码代理、Think Mode（High/Max）和仓库级推理。适用场景包括高级代码生成、复杂 bug 修复、实时网络搜索和低延迟流式交互，本地 API 密钥存储保障隐私。",
+      "tags": [
+        "ai-assistant",
+        "code-generation",
+        "reasoning",
+        "developer-tools",
+        "agent"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-13T02:07:24.666133+00:00"
+    },
+    {
+      "title": "Salomondiei08/oh-my-hermes",
+      "source": "github-trending",
+      "url": "https://github.com/Salomondiei08/oh-my-hermes",
+      "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
+      "stars": 198,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T10:18:29Z",
+      "summary": "oh-my-hermes 是一个基于 Shell 的工作流层，用于通过 Hermes Agent 构建、部署和运维应用。它解决 Agent 开发中缺乏标准化工作流的问题，核心亮点是提供意见性（opinionated）的流程抽象，简化 Agent 的构建与操作。适用场景包括 AI 工程师快速搭建和运维基于 Hermes Agent 的应用。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:07:27.168152+00:00"
+    },
+    {
+      "title": "Sayhi-bzb/AIEden",
+      "source": "github-trending",
+      "url": "https://github.com/Sayhi-bzb/AIEden",
+      "description": "an LLM-native world and civilization",
+      "stars": 195,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-08T08:41:40Z",
+      "summary": "Sayhi-bzb/AIEden 是一个基于 LLM 原生的世界与文明模拟项目，使用 TypeScript 构建。它解决如何利用大语言模型创建动态、交互式虚拟社会的问题。核心技术亮点包括 LLM 驱动的智能体行为生成、世界状态管理与多智能体交互。适用场景为游戏开发、社会模拟实验与 AI 叙事研究。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "multi-agent",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:07:29.788918+00:00"
+    },
+    {
+      "title": "DenAB-NVS/submarine",
+      "source": "github-trending",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "stars": 166,
+      "language": "JavaScript",
+      "topics": [
+        "ai-depth-module",
+        "ai-memory",
+        "autonomous-ai-memory",
+        "competitive-adaptive-ai",
+        "deep-ai-memory",
+        "local-first",
+        "model-agnostic",
+        "native-memory",
+        "personalized-ai-layer",
+        "personalized-ai-memory",
+        "self-hosted",
+        "sovereign-memory"
+      ],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-07T23:25:55Z",
+      "summary": "DenAB-NVS/submarine 是一个开源、本地优先、模型无关的深度自适应 AI 记忆模块。它解决 AI 在长期交互中缺乏持久、可扩展记忆的问题，通过深度自适应机制实现主权化记忆管理。核心技术亮点包括深度自适应记忆层、竞争性自适应算法，支持本地运行且不依赖特定模型。适用场景为需要长期上下文保持的自主 AI 代理、个性化助手及边缘设备上的智能应用。",
+      "tags": [
+        "ai-memory",
+        "open-source",
+        "agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:07:33.143134+00:00"
+    },
+    {
+      "title": "LYiHub/OpenClaw-AWD-Arena",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/OpenClaw-AWD-Arena",
+      "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time.",
+      "stars": 165,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-09T03:22:36Z",
+      "summary": "LYiHub/OpenClaw-AWD-Arena 是一个自动化攻防对抗平台，利用 LLM 驱动的智能体实时进行 Attack-with-Defense 竞赛。它解决了传统 AWD 比赛中依赖人工操作、效率低下的问题，核心亮点在于将 LLM 作为决策核心，实现攻击策略生成、漏洞修复与防御响应的全自动化。适用场景包括网络安全竞赛、AI 安全研究及 LLM 自主决策能力评估。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:07:35.859584+00:00"
+    },
+    {
+      "title": "yliust/Tactile",
+      "source": "github-trending",
+      "url": "https://github.com/yliust/Tactile",
+      "description": "Tactile: an accessibility-first operating layer for agents.",
+      "stars": 147,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T23:24:35Z",
+      "summary": "Tactile 是一个面向 AI 代理的 accessibility-first 操作系统层，旨在解决代理在复杂环境中交互时的可访问性与控制问题。其核心技术亮点在于通过统一的抽象层，使代理能更高效地处理多模态输入与输出，降低对底层系统细节的依赖。适用于需要高可靠性代理交互的自动化工作流、辅助技术集成及多代理协作场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:07:39.072423+00:00"
+    },
+    {
+      "title": "agentara/skills",
+      "source": "github-trending",
+      "url": "https://github.com/agentara/skills",
+      "description": "Original and practical skills for AI builders.",
+      "stars": 142,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-12T14:54:36Z",
+      "summary": "agentara/skills 是一个面向 AI 构建者的开源技能库，提供原创且实用的技能模板。它解决 AI 开发者缺乏可复用、标准化技能组件的问题，核心亮点是提供可直接集成到 AI 代理中的 HTML 技能模块，降低开发门槛。适用场景包括快速原型开发、AI 代理功能扩展及教育学习。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:07:41.933627+00:00"
+    },
+    {
+      "title": "zy-zmc/tianming-novel-ai-writer",
+      "source": "github-trending",
+      "url": "https://github.com/zy-zmc/tianming-novel-ai-writer",
+      "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写",
+      "stars": 131,
+      "language": "C#",
+      "topics": [
+        "ai-novel",
+        "ai-writer",
+        "ai-writing",
+        "chinese-novel",
+        "dotnet",
+        "novel-writing",
+        "tianming",
+        "webnovel",
+        "wpf",
+        "writing-tool"
+      ],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-11T06:01:55Z",
+      "summary": "一个基于C#的开源AI网文创作系统，解决长篇小说（3000章以上）情节连贯性难题。核心创新在于不依赖模型长上下文记忆，而是通过12维事实快照、9类变更声明和6道生成门禁，每章回写状态实现连贯性。适用于中文网络小说自动化创作场景。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-13T02:07:44.376842+00:00"
+    },
+    {
+      "title": "ab-613/OpenGravity",
+      "source": "github-trending",
+      "url": "https://github.com/ab-613/OpenGravity",
+      "description": "A lightweight, vanilla JS, open source BYOK (Bring Your Own Key) clone of the Google Antigravity UI. It currently features a live xterm.js terminal with direct local file system sync and a sidebar agent capable of running commands and editing files. Built in pure HTML/CSS/JS for maximum speed and zero installation.",
+      "stars": 125,
+      "language": "CSS",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-11T22:28:58Z",
+      "summary": "OpenGravity 是一个轻量级、纯前端（HTML/CSS/JS）的开源项目，通过 BYOK 模式克隆了 Google Antigravity UI。它提供实时 xterm.js 终端，支持直接本地文件系统同步，并集成侧边栏 agent 以执行命令和编辑文件。核心亮点在于零安装、极速运行，以及将终端与文件操作 agent 结合，适用于需要快速搭建交互式开发环境或演示 UI 的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "agent",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-13T02:07:47.049669+00:00"
+    },
+    {
+      "title": "PaperGuru-AI/PaperGuru-Benchmark",
+      "source": "github-trending",
+      "url": "https://github.com/PaperGuru-AI/PaperGuru-Benchmark",
+      "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
+      "stars": 118,
+      "language": "TeX",
+      "topics": [],
+      "collected_at": "2026-05-13T02:06:57.969193+00:00",
+      "published_at": "2026-05-08T16:02:23Z",
+      "summary": "PaperGuru-Benchmark 是一个面向长周期 LLM agent 的基准测试，解决现有评估缺乏生命周期感知记忆的问题。核心技术亮点包括生命周期感知记忆机制，在 PaperBench 达 66.05%、SurveyBench 达 94.66% 准确率，已被 FSE/ICML/TOSEM/AEI/ICoGB 等 10 个同行评审会议接收。适用场景为评估和提升 LLM agent 在长期任务中的记忆与推理能力。",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-13T02:07:49.781891+00:00"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-13-012",
+  "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "source": "hackernews-top",
+  "url": "https://github.com/cactus-compute/needle",
+  "summary": "Needle 是一个 26M 参数的小模型，通过蒸馏 Gemini 的工具调用能力实现高效 tool-use。它解决了大模型在工具调用场景中推理成本高、延迟大的问题，核心技术是知识蒸馏将 Gemini 的 tool-calling 能力压缩到极小模型。适用于资源受限环境下的 agent 工具调用、边缘设备或实时交互场景。",
+  "tags": [
+    "tool-use",
+    "fine-tuning",
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-13T02:06:58.275992+00:00",
+  "analyzed_at": "2026-05-13T02:08:00.620091+00:00",
+  "organized_at": "2026-05-13T02:08:49.939109+00:00",
+  "status": "published"
+}
