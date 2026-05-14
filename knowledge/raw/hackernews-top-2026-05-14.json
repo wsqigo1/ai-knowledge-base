@@ -1,0 +1,384 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-14T02:09:13.462816+00:00",
+  "date": "2026-05-14",
+  "count": 20,
+  "items": [
+    {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "source": "hackernews-top",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "hn_url": "https://news.ycombinator.com/item?id=48087887",
+      "description": "",
+      "hn_score": 533,
+      "comments": 350,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "该文章指出Linux游戏性能提升的关键在于Windows API（如DXVK、VKD3D）正被转化为Linux内核特性（如NT同步机制、内核级GPU调度），从而减少翻译层开销。核心亮点是内核原生支持替代用户态兼容层，解决性能损耗问题。适用场景为Linux游戏开发与性能优化，但非AI/LLM领域。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-14T02:10:01.026166+00:00"
+    },
+    {
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "source": "hackernews-top",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "hn_url": "https://news.ycombinator.com/item?id=48122635",
+      "description": "",
+      "hn_score": 497,
+      "comments": 157,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "介绍如何免费申请 *.city.state.us 格式的 locality 域名（2025年方法）。解决个人或小团队获取地理标识域名的成本问题。核心技术亮点是利用美国某些州政府提供的免费子域名服务，通过自动化脚本批量注册。适用场景：本地化项目、社区网站、个人品牌建设。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-05-14T02:10:03.291502+00:00"
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "source": "hackernews-top",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "hn_url": "https://news.ycombinator.com/item?id=48073979",
+      "description": "",
+      "hn_score": 278,
+      "comments": 201,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "Google内部IDE发展史，从早期基于Eclipse的定制化工具到现代基于Web的云端IDE（如Cloud Shell Editor）的演进。解决大规模代码库下开发效率、协作与基础设施集成问题。核心技术亮点包括：基于Bazel的构建系统深度集成、远程执行与缓存、代码搜索与导航、以及基于TypeScript的插件架构。适用于理解大型科技公司如何构建内部开发者工具生态，以及云端IDE的设计思路。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-14T02:10:06.263518+00:00"
+    },
+    {
+      "title": "The Emacsification of Software",
+      "source": "hackernews-top",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "hn_url": "https://news.ycombinator.com/item?id=48118727",
+      "description": "",
+      "hn_score": 197,
+      "comments": 132,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "本文探讨了软件工具逐渐向Emacs模式演变的趋势，即通过高度可扩展、可编程的界面来满足用户个性化需求。核心问题是现代软件缺乏灵活性和用户控制权，导致效率低下。技术亮点在于借鉴Emacs的插件架构和Lisp扩展机制，实现深度定制。适用场景包括开发者工具、文本编辑器、IDE及任何需要工作流自动化的领域。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-14T02:10:08.943142+00:00"
+    },
+    {
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "source": "hackernews-top",
+      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "hn_url": "https://news.ycombinator.com/item?id=48126848",
+      "description": "",
+      "hn_score": 251,
+      "comments": 360,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "普林斯顿大学在133年后首次规定线下考试必须使用监考软件，引发关于学术诚信与技术监控的讨论。该事件核心是解决传统线下考试中监考人力不足与作弊风险问题，技术亮点在于监考软件通过摄像头、屏幕录制和AI行为分析实现远程监控。适用场景为高校考试管理，但引发隐私与公平性争议。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-14T02:10:11.311134+00:00"
+    },
+    {
+      "title": "The Other Half of AI Safety",
+      "source": "hackernews-top",
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "hn_url": "https://news.ycombinator.com/item?id=48129561",
+      "description": "",
+      "hn_score": 45,
+      "comments": 52,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "文章探讨AI安全中常被忽视的“另一半”——即除模型对齐外的系统级安全挑战，如部署环境、数据管道、用户交互等环节的漏洞。核心亮点是提出需将安全视为全生命周期问题，而非仅关注训练阶段。适用场景为AI系统设计、部署与运维的安全评估。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-14T02:10:13.582714+00:00"
+    },
+    {
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "hn_url": "https://news.ycombinator.com/item?id=48115438",
+      "description": "",
+      "hn_score": 308,
+      "comments": 236,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "事件报道：两名双胞胎兄弟在被解雇后数分钟内，远程清除了96个政府数据库。核心问题是内部人员恶意删除数据的安全漏洞。技术亮点在于利用系统权限和自动化脚本快速执行大规模破坏。适用场景：警示企业需加强离职员工的权限回收与数据备份机制。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-14T02:10:16.010985+00:00"
+    },
+    {
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "source": "hackernews-top",
+      "url": "https://github.com/nooga/xsofy",
+      "hn_url": "https://news.ycombinator.com/item?id=48080755",
+      "description": "",
+      "hn_score": 161,
+      "comments": 70,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "Xs of Y 是一个每次运行都会自动生成新名称的 roguelike 游戏，仅用 4k 行代码（4kLoC）实现。它解决的是如何用极简代码量构建具有高度可重玩性和程序化生成内容的游戏。核心技术亮点包括紧凑的代码架构、程序化名称生成和游戏逻辑的轻量实现。适用于游戏开发技术研究、代码精简实践和独立游戏原型验证。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-14T02:10:18.490199+00:00"
+    },
+    {
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "source": "hackernews-top",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48121929",
+      "description": "",
+      "hn_score": 165,
+      "comments": 470,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "文章讨论美国在AI商业化竞赛中的领先地位，核心论点在于美国企业（如OpenAI、Google）在将AI技术转化为可盈利产品和服务方面占据优势。解决的是AI技术从研究到市场落地的效率问题。亮点在于强调商业化生态（资本、基础设施、人才）对AI发展的驱动作用。适用场景为AI产业政策分析、投资决策参考。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-05-14T02:10:20.693026+00:00"
+    },
+    {
+      "title": "S-100 Virtual Workbench",
+      "source": "hackernews-top",
+      "url": "https://grantmestrength.github.io/S100/",
+      "hn_url": "https://news.ycombinator.com/item?id=48123546",
+      "description": "",
+      "hn_score": 103,
+      "comments": 20,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "S-100 Virtual Workbench 是一个基于 S-100 标准的虚拟工作台项目，旨在解决海事地理空间数据（如海图、水文数据）的标准化处理与可视化问题。其核心技术亮点是采用 S-100 框架（IHO 新一代数据标准）实现多源异构数据的统一建模与交互式分析，支持 3D 场景渲染与实时数据集成。适用场景包括海洋测绘、航海安全系统开发及海事数字孪生应用。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-14T02:10:23.375135+00:00"
+    },
+    {
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "source": "hackernews-top",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "hn_url": "https://news.ycombinator.com/item?id=48077924",
+      "description": "",
+      "hn_score": 203,
+      "comments": 79,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "Python 3.14和3.15版本决定撤销增量垃圾回收（incremental GC）机制，该机制原本旨在减少GC暂停时间，但引入后导致性能退化与复杂bug。核心亮点是回归更简单、稳定的非增量GC策略，以换取可预测的运行时行为。适用于对Python运行时稳定性要求高的生产环境，尤其是延迟敏感型应用。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-14T02:10:25.689637+00:00"
+    },
+    {
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "hn_url": "https://news.ycombinator.com/item?id=48128003",
+      "description": "",
+      "hn_score": 172,
+      "comments": 60,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "Hacker News 用户报告称，取消订阅 Claude Design 后，其项目数据被完全删除且无法恢复。该问题揭示了 AI 服务中数据所有权与订阅绑定的风险，核心在于用户对云端项目的控制权不足。技术亮点在于提醒开发者关注服务条款与数据备份机制。适用场景为使用 AI 设计工具或订阅制 AI 服务的个人与团队。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-14T02:10:28.142534+00:00"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "source": "hackernews-top",
+      "url": "https://github.com/cactus-compute/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=48111896",
+      "description": "",
+      "hn_score": 639,
+      "comments": 184,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "Needle 是一个 26M 参数的小模型，通过蒸馏 Gemini 的工具调用能力实现高效函数调用。核心创新在于将大模型工具调用能力压缩至极小规模，保持高准确率的同时大幅降低推理成本。适用于资源受限场景下的 agent 工具调用、自动化工作流等任务。",
+      "tags": [
+        "tool-use",
+        "fine-tuning",
+        "open-source",
+        "agent",
+        "developer-tools"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-05-14T02:10:30.211601+00:00"
+    },
+    {
+      "title": "Meta won't let you block its AI account on Threads",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "hn_url": "https://news.ycombinator.com/item?id=48126981",
+      "description": "",
+      "hn_score": 113,
+      "comments": 45,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "Meta 在 Threads 平台推出 AI 账户（如 @MetaAI），但用户无法通过常规屏蔽功能阻止其互动，引发隐私与用户控制权争议。该问题核心在于平台设计未提供针对 AI 账户的独立屏蔽机制，用户需通过静音或限制账户间接管理。技术亮点在于 Meta 将 AI 助手深度集成至社交平台，实现自然语言交互与信息检索。适用场景为社交平台 AI 助手部署与用户权限管理设计。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-14T02:10:32.974856+00:00"
+    },
+    {
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "source": "hackernews-top",
+      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=48093578",
+      "description": "",
+      "hn_score": 140,
+      "comments": 16,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "这是一篇面向非专业人士的蛋白质先导化合物优化指南。它解决了药物发现中如何系统改进候选分子（先导化合物）以提升其药效、选择性和安全性的问题。核心技术亮点包括：用通俗语言解释结构-活性关系（SAR）、ADMET性质优化策略，以及迭代设计循环。适用场景：生物信息学、计算化学和AI辅助药物设计入门教学。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-14T02:10:35.419647+00:00"
+    },
+    {
+      "title": "Leaving GitHub for Forgejo",
+      "source": "hackernews-top",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "hn_url": "https://news.ycombinator.com/item?id=48121266",
+      "description": "",
+      "hn_score": 530,
+      "comments": 282,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "这是一篇关于从GitHub迁移到Forgejo（一个开源的、自托管的Git服务）的实践分享。Forgejo解决了开发者对GitHub平台控制权、隐私和去中心化的需求，核心亮点包括轻量级部署、兼容GitHub Actions的CI/CD、以及社区驱动的开发模式。适用场景为注重数据主权、希望减少对商业平台依赖的团队或个人开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-14T02:10:37.949080+00:00"
+    },
+    {
+      "title": "Preserving Fisher-Price Pixter",
+      "source": "hackernews-top",
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "hn_url": "https://news.ycombinator.com/item?id=48091812",
+      "description": "",
+      "hn_score": 209,
+      "comments": 44,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "该项目是关于如何修复和保存Fisher-Price Pixter儿童电子玩具的技术记录。它解决了老式玩具因硬件老化、固件损坏或电池漏液而无法使用的问题。核心技术包括拆解分析、电路板维修、固件备份与恢复、以及使用现代工具（如Arduino）进行数据读取。适用场景为怀旧硬件修复、儿童玩具数字化保存及嵌入式系统逆向工程学习。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-14T02:10:40.482241+00:00"
+    },
+    {
+      "title": "I moved my digital stack to Europe",
+      "source": "hackernews-top",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "hn_url": "https://news.ycombinator.com/item?id=48120629",
+      "description": "",
+      "hn_score": 889,
+      "comments": 539,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "这是一篇关于将个人数字服务栈迁移至欧洲的实践分享。作者详细描述了从美国云服务（如AWS、Google）迁移到欧洲本地提供商（如Hetzner、Scaleway）的过程，解决了数据主权、隐私合规（GDPR）和减少对美国科技巨头依赖的问题。核心技术亮点包括使用开源工具（如Nextcloud、Bitwarden）自托管关键服务，以及通过Terraform实现基础设施即代码的自动化部署。适用场景为关注数据隐私、希望降低云服务成本或满足欧洲法规要求的个人开发者及小型团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-14T02:10:43.908010+00:00"
+    },
+    {
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "hn_url": "https://news.ycombinator.com/item?id=48127815",
+      "description": "",
+      "hn_score": 57,
+      "comments": 34,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "文章讨论了美国医疗保险（Medicare）新推出的支付模式，该模式专为AI应用设计，但科技界对此知之甚少。核心是：新支付模型允许AI辅助诊断和决策支持工具在医疗场景中获得报销，解决了传统医保支付体系无法覆盖AI医疗服务的痛点。技术亮点在于支付规则与AI临床决策支持系统的集成，适用场景包括医院、诊所的AI辅助诊疗和远程医疗。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-14T02:10:46.446017+00:00"
+    },
+    {
+      "title": "Making the news available at no cost is a victory",
+      "source": "hackernews-top",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "hn_url": "https://news.ycombinator.com/item?id=48126156",
+      "description": "",
+      "hn_score": 111,
+      "comments": 112,
+      "collected_at": "2026-05-14T02:09:12.402923+00:00",
+      "published_at": "2026-05-14T02:09:12.402923+00:00",
+      "summary": "该条目讨论新闻免费获取的胜利，但未涉及具体AI/LLM技术。核心是新闻自由与公共知识获取，非技术解决方案。无技术亮点或适用场景。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-14T02:10:48.331046+00:00"
+    }
+  ]
+}

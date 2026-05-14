@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-05-14-008",
+  "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+  "source": "hackernews-top",
+  "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+  "summary": "Python 3.14和3.15版本决定撤销增量垃圾回收（incremental GC）机制，该机制原本旨在减少GC暂停时间，但引入后导致性能退化与复杂bug。核心亮点是回归更简单、稳定的非增量GC策略，以换取可预测的运行时行为。适用于对Python运行时稳定性要求高的生产环境，尤其是延迟敏感型应用。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-05-14T02:09:12.402923+00:00",
+  "analyzed_at": "2026-05-14T02:10:25.689637+00:00",
+  "organized_at": "2026-05-14T02:10:48.338235+00:00",
+  "status": "published"
+}

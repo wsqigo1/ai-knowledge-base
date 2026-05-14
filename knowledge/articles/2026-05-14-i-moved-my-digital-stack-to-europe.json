@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-14-011",
+  "title": "I moved my digital stack to Europe",
+  "source": "hackernews-top",
+  "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+  "summary": "这是一篇关于将个人数字服务栈迁移至欧洲的实践分享。作者详细描述了从美国云服务（如AWS、Google）迁移到欧洲本地提供商（如Hetzner、Scaleway）的过程，解决了数据主权、隐私合规（GDPR）和减少对美国科技巨头依赖的问题。核心技术亮点包括使用开源工具（如Nextcloud、Bitwarden）自托管关键服务，以及通过Terraform实现基础设施即代码的自动化部署。适用场景为关注数据隐私、希望降低云服务成本或满足欧洲法规要求的个人开发者及小型团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-14T02:09:12.402923+00:00",
+  "analyzed_at": "2026-05-14T02:10:43.908010+00:00",
+  "organized_at": "2026-05-14T02:10:48.338235+00:00",
+  "status": "published"
+}
