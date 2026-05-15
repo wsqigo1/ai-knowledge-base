@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-05-15-009",
+  "title": "First public macOS kernel memory corruption exploit on Apple M5",
+  "source": "hackernews-top",
+  "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+  "summary": "首个公开的 macOS 内核内存破坏漏洞利用，针对 Apple M5 芯片。该漏洞利用通过绕过系统内存保护机制，实现内核级代码执行。核心技术亮点在于利用 M5 芯片的硬件特性与 macOS 内核内存管理缺陷，结合特定内存布局操纵。适用场景为安全研究、漏洞挖掘与系统防御测试。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-15T02:07:36.923313+00:00",
+  "analyzed_at": "2026-05-15T02:08:32.859027+00:00",
+  "organized_at": "2026-05-15T02:09:11.694987+00:00",
+  "status": "published"
+}

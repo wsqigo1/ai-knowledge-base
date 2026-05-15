@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-15-014",
+  "title": "Amazonbot is finally respecting robots.txt",
+  "source": "hackernews-top",
+  "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+  "summary": "Amazonbot是亚马逊的网络爬虫，用于抓取网站内容以训练AI模型。此前它无视robots.txt协议，导致网站管理员无法控制其访问。现在Amazonbot终于开始遵守robots.txt，解决了网站控制权问题。核心是爬虫行为合规性改进，适用于网站管理、AI数据采集合规场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-15T02:07:36.923313+00:00",
+  "analyzed_at": "2026-05-15T02:08:57.781095+00:00",
+  "organized_at": "2026-05-15T02:09:11.694987+00:00",
+  "status": "published"
+}

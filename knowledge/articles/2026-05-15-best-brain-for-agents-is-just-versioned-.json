@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-15-016",
+  "title": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
+  "source": "hackernews-top",
+  "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
+  "summary": "提出一种极简的AI Agent记忆与知识管理方案：使用版本化Markdown文件夹作为Agent的“大脑”。解决传统Agent依赖复杂向量数据库或微调带来的高成本与维护难题。核心技术亮点在于利用文件系统的版本控制（如Git）实现状态回溯、协作与可审计性，Markdown格式确保人类可读与易编辑。适用场景包括个人AI助手、轻量级自动化工作流及需要透明、可解释知识管理的Agent系统。",
+  "tags": [
+    "agent",
+    "open-source",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-15T02:07:36.923313+00:00",
+  "analyzed_at": "2026-05-15T02:09:07.376206+00:00",
+  "organized_at": "2026-05-15T02:09:11.694987+00:00",
+  "status": "published"
+}

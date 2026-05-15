@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-15-007",
+  "title": "sno-ai/llmix",
+  "source": "github-trending",
+  "url": "https://github.com/sno-ai/llmix",
+  "summary": "llmix 是一个生产级 LLM 调用层，为 AI agent 和工具提供统一接口。它解决多模型切换、调用可靠性及跨语言一致性问题。核心亮点包括：支持 OpenAI/Anthropic/AI SDK/LiteLLM 等主流后端，通过 MDA 预设实现热切换模型；内置缓存、重试、断路器、密钥轮换、singleflight 等弹性模式；提供 Python/TypeScript/Rust 三语言同构实现。适用于构建高可用、可观测的 AI agent 系统及工具链。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "large-language-model",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-15T02:07:36.772198+00:00",
+  "analyzed_at": "2026-05-15T02:08:25.795436+00:00",
+  "organized_at": "2026-05-15T02:09:11.694987+00:00",
+  "status": "published"
+}

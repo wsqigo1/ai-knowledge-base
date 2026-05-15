@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-15-017",
+  "title": "Leaving the Physical World",
+  "source": "hackernews-top",
+  "url": "https://www.eff.org/pages/leaving-physical-world",
+  "summary": "《Leaving the Physical World》探讨了如何将物理世界中的实体（如传感器、设备）数据抽象为数字孪生，并利用LLM驱动的Agent进行自主决策与控制。核心亮点在于提出一种将物理设备状态映射到LLM可理解的语义空间的方法，结合工具调用（tool-use）实现闭环控制。适用于工业自动化、智能家居、机器人远程操控等需要AI从虚拟世界干预物理实体的场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "multimodal",
+    "reasoning",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-15T02:07:36.923313+00:00",
+  "analyzed_at": "2026-05-15T02:09:11.687564+00:00",
+  "organized_at": "2026-05-15T02:09:11.694987+00:00",
+  "status": "published"
+}

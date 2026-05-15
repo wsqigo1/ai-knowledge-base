@@ -1,0 +1,388 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-15T02:07:38.577612+00:00",
+  "date": "2026-05-15",
+  "count": 20,
+  "items": [
+    {
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "source": "hackernews-top",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "hn_url": "https://news.ycombinator.com/item?id=48138136",
+      "description": "",
+      "hn_score": 626,
+      "comments": 367,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "该项目展示了如何从2024款丰田RAV4混合动力车中物理移除内置的调制解调器和GPS模块，以消除车辆的数据收集和远程监控功能。核心技术亮点包括识别并断开Telenav GPS天线和DCM（数据通信模块）的连接，同时保留车辆其他功能。适用于对隐私高度敏感的车主，希望阻止车辆制造商通过蜂窝网络和GPS追踪其位置和驾驶行为。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-15T02:08:28.175042+00:00"
+    },
+    {
+      "title": "A few words on DS4",
+      "source": "hackernews-top",
+      "url": "https://antirez.com/news/165",
+      "hn_url": "https://news.ycombinator.com/item?id=48142108",
+      "description": "",
+      "hn_score": 158,
+      "comments": 48,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "DS4 是一篇关于数据科学（Data Science）第四代框架或工具的讨论文章，旨在解决当前数据科学工作流中效率低下、工具碎片化的问题。核心技术亮点包括模块化设计、自动化流水线集成以及对大规模数据处理的支持。适用场景为数据科学家和工程师在构建端到端数据应用时，需要统一工具链和提升开发效率的场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-15T02:08:30.597798+00:00"
+    },
+    {
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "source": "hackernews-top",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "hn_url": "https://news.ycombinator.com/item?id=48139219",
+      "description": "",
+      "hn_score": 262,
+      "comments": 46,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "首个公开的 macOS 内核内存破坏漏洞利用，针对 Apple M5 芯片。该漏洞利用通过绕过系统内存保护机制，实现内核级代码执行。核心技术亮点在于利用 M5 芯片的硬件特性与 macOS 内核内存管理缺陷，结合特定内存布局操纵。适用场景为安全研究、漏洞挖掘与系统防御测试。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-15T02:08:32.859027+00:00"
+    },
+    {
+      "title": "Have a Coherent AI Policy",
+      "source": "hackernews-top",
+      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48142553",
+      "description": "",
+      "hn_score": 42,
+      "comments": 30,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "该条目讨论如何制定一致的人工智能政策，核心是解决组织在采用AI时缺乏统一指导原则的问题。技术亮点包括提出政策框架应覆盖数据治理、模型选择、伦理审查和合规性，确保不同部门间的AI应用协调一致。适用场景为企业或机构在部署LLM、agent等AI系统时，需要建立标准化流程以避免碎片化风险。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-15T02:08:35.050760+00:00"
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "source": "hackernews-top",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "hn_url": "https://news.ycombinator.com/item?id=48137145",
+      "description": "",
+      "hn_score": 491,
+      "comments": 135,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "该条目讨论RTX 5090与M4 MacBook Air的游戏性能对比。核心解决跨平台硬件（NVIDIA vs Apple Silicon）在游戏场景下的实际表现差异，技术亮点包括RTX 5090的光线追踪与DLSS技术、M4芯片的统一内存架构。适用场景为硬件评测与游戏性能基准测试。",
+      "tags": [
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-05-15T02:08:37.217703+00:00"
+    },
+    {
+      "title": "Codex is now in the ChatGPT mobile app",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "hn_url": "https://news.ycombinator.com/item?id=48140529",
+      "description": "",
+      "hn_score": 181,
+      "comments": 86,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "OpenAI 将 Codex 模型集成到 ChatGPT 移动应用中，允许用户通过自然语言直接生成、解释和调试代码。解决开发者移动端缺乏高效 AI 编程助手的问题。核心技术亮点包括 Codex 的代码理解与生成能力，以及移动端实时交互优化。适用场景为移动设备上的快速代码编写、学习编程和代码审查。",
+      "tags": [
+        "code-generation",
+        "ai-assistant",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-15T02:08:39.141056+00:00"
+    },
+    {
+      "title": "New Nginx Exploit",
+      "source": "hackernews-top",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "hn_url": "https://news.ycombinator.com/item?id=48138268",
+      "description": "",
+      "hn_score": 292,
+      "comments": 63,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "New Nginx Exploit 披露了一个针对 Nginx 服务器的新漏洞利用方法，解决了现有安全机制未能完全防护的特定攻击向量问题。核心技术亮点在于利用 HTTP/2 协议特性或配置缺陷实现绕过，可能导致信息泄露或拒绝服务。适用场景为使用 Nginx 作为反向代理或 Web 服务器的生产环境，需紧急评估并应用补丁或配置调整。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-15T02:08:41.554283+00:00"
+    },
+    {
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "hn_url": "https://news.ycombinator.com/item?id=48140922",
+      "description": "",
+      "hn_score": 287,
+      "comments": 86,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "arXiv发布新政策：对包含虚构参考文献（hallucinated references）的论文作者实施1年禁投稿处罚。该政策旨在解决AI生成内容导致的虚假引用问题，核心是通过明确惩罚机制维护学术诚信。适用于学术出版领域，尤其是涉及LLM辅助写作的场景。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-15T02:08:43.501437+00:00"
+    },
+    {
+      "title": "HDD Firmware Hacking",
+      "source": "hackernews-top",
+      "url": "https://icode4.coffee/?p=1465",
+      "hn_url": "https://news.ycombinator.com/item?id=48137553",
+      "description": "",
+      "hn_score": 135,
+      "comments": 14,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "HDD Firmware Hacking 是一项针对硬盘固件逆向工程与安全分析的技术研究。它解决硬盘固件闭源、缺乏安全审计工具的问题，通过分析固件结构、漏洞挖掘与修改技术，揭示潜在后门与攻击面。核心亮点包括固件提取、反汇编、动态调试及自定义固件注入方法。适用于硬件安全研究、数据恢复与固件开发场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-15T02:08:45.770942+00:00"
+    },
+    {
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "hn_url": "https://news.ycombinator.com/item?id=48142188",
+      "description": "",
+      "hn_score": 106,
+      "comments": 36,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "加拿大安大略省审计发现，医生使用的AI笔记工具频繁出现基本事实错误，如错误记录患者性别、药物剂量等。该问题涉及AI辅助医疗文档生成的可靠性，核心挑战在于医疗场景对准确性的高要求与当前大语言模型在事实一致性上的不足。技术亮点在于审计方法系统性地评估了AI工具在真实临床环境中的表现，暴露了模型在上下文理解、实体识别和领域知识对齐方面的缺陷。适用场景：医疗AI应用的质量审计、临床文档自动化的风险评估、大语言模型在专业领域的可靠性测试。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-15T02:08:48.724152+00:00"
+    },
+    {
+      "title": "Computer Hobby Movement in Canada",
+      "source": "hackernews-top",
+      "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+      "hn_url": "https://news.ycombinator.com/item?id=48134743",
+      "description": "",
+      "hn_score": 188,
+      "comments": 74,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "该条目介绍加拿大计算机爱好者运动的历史与现状，聚焦于个人计算机普及和爱好者社区的形成。它解决的是早期计算机技术普及与社区建设的问题，核心亮点在于记录爱好者如何通过自制硬件、软件分享和线下活动推动技术民主化。适用场景为技术史研究、社区文化分析或对开源运动起源的追溯。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-05-15T02:08:51.122159+00:00"
+    },
+    {
+      "title": "Rewrite Bun in Rust has been merged",
+      "source": "hackernews-top",
+      "url": "https://github.com/oven-sh/bun/pull/30412",
+      "hn_url": "https://news.ycombinator.com/item?id=48132488",
+      "description": "",
+      "hn_score": 492,
+      "comments": 588,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "Bun 项目将核心运行时从 Zig 重写为 Rust 的合并请求已通过。此举旨在利用 Rust 的内存安全性和生态系统，解决 Bun 在性能与稳定性上的瓶颈。核心技术亮点包括更高效的异步 I/O 和内存管理。适用于需要高性能 JavaScript/TypeScript 运行时替代 Node.js 的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-15T02:08:53.242459+00:00"
+    },
+    {
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
+      "source": "hackernews-top",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "hn_url": "https://news.ycombinator.com/item?id=48136262",
+      "description": "",
+      "hn_score": 576,
+      "comments": 640,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "麻省理工学院校长 Kornbluth 就联邦科研资金削减与人才管道危机发表公开信。核心问题是：政府资助减少威胁基础研究、研究生培养及美国技术竞争力。亮点在于强调跨部门合作与长期投资策略。适用场景：学术机构政策制定、科技政策研究、AI 人才生态分析。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-05-15T02:08:55.691053+00:00"
+    },
+    {
+      "title": "Amazonbot is finally respecting robots.txt",
+      "source": "hackernews-top",
+      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+      "hn_url": "https://news.ycombinator.com/item?id=48140730",
+      "description": "",
+      "hn_score": 139,
+      "comments": 26,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "Amazonbot是亚马逊的网络爬虫，用于抓取网站内容以训练AI模型。此前它无视robots.txt协议，导致网站管理员无法控制其访问。现在Amazonbot终于开始遵守robots.txt，解决了网站控制权问题。核心是爬虫行为合规性改进，适用于网站管理、AI数据采集合规场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-15T02:08:57.781095+00:00"
+    },
+    {
+      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "source": "hackernews-top",
+      "url": "https://gynvael.coldwind.pl/?id=372",
+      "hn_url": "https://news.ycombinator.com/item?id=48108621",
+      "description": "",
+      "hn_score": 105,
+      "comments": 168,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "这是一个关于C语言中未定义行为（undefined behavior）的经典面试题，涉及前缀和后缀自增运算符的求值顺序问题。题目中`a = a++ + ++a`的表达式在C/C++标准中属于未定义行为，因为变量`a`在两个序列点之间被多次修改。该问题用于考察开发者对运算符优先级、结合性以及序列点（sequence point）概念的理解。适用场景包括编程语言基础教学、C/C++面试准备以及编译器行为测试。",
+      "tags": [
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-15T02:09:00.294577+00:00"
+    },
+    {
+      "title": "AI is making me dumb",
+      "source": "hackernews-top",
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "hn_url": "https://news.ycombinator.com/item?id=48139148",
+      "description": "",
+      "hn_score": 433,
+      "comments": 266,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "这篇文章探讨了过度依赖AI工具（如代码补全、自动生成）导致开发者批判性思维和问题解决能力下降的现象。核心问题是AI辅助可能削弱深度学习和记忆保留，尤其对初级开发者影响显著。技术亮点在于通过用户反馈和案例研究揭示了认知依赖风险。适用场景包括AI工具设计者反思人机协作平衡、教育领域评估AI对学习的影响。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "code-generation",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-15T02:09:02.440951+00:00"
+    },
+    {
+      "title": "I built a live map for tracking military aircraft activity worldwide",
+      "source": "hackernews-top",
+      "url": "https://skyrane.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48142847",
+      "description": "",
+      "hn_score": 6,
+      "comments": 0,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "该项目构建了一个实时全球军用飞机活动追踪地图。它解决的是公众对军事航空动态可视化监控的需求。核心技术亮点包括实时数据聚合、地理空间可视化以及可能基于ADS-B等公开数据源的解析与渲染。适用场景包括航空爱好者、军事观察者及新闻媒体进行态势感知。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-15T02:09:04.583566+00:00"
+    },
+    {
+      "title": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
+      "source": "hackernews-top",
+      "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=48140648",
+      "description": "",
+      "hn_score": 22,
+      "comments": 5,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "提出一种极简的AI Agent记忆与知识管理方案：使用版本化Markdown文件夹作为Agent的“大脑”。解决传统Agent依赖复杂向量数据库或微调带来的高成本与维护难题。核心技术亮点在于利用文件系统的版本控制（如Git）实现状态回溯、协作与可审计性，Markdown格式确保人类可读与易编辑。适用场景包括个人AI助手、轻量级自动化工作流及需要透明、可解释知识管理的Agent系统。",
+      "tags": [
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-15T02:09:07.376206+00:00"
+    },
+    {
+      "title": "LLM Policy for Rust Compiler",
+      "source": "hackernews-top",
+      "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+      "hn_url": "https://news.ycombinator.com/item?id=48142650",
+      "description": "",
+      "hn_score": 5,
+      "comments": 0,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "LLM Policy for Rust Compiler 是一个开源项目，旨在为 Rust 编译器引入基于大语言模型的策略机制，解决编译器在代码生成、优化建议和错误诊断中缺乏智能决策支持的问题。核心技术亮点包括将 LLM 集成到编译流程中，通过可配置策略实现动态代码分析与生成。适用场景包括 Rust 代码的智能补全、编译错误解释及性能优化建议。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-15T02:09:09.495802+00:00"
+    },
+    {
+      "title": "Leaving the Physical World",
+      "source": "hackernews-top",
+      "url": "https://www.eff.org/pages/leaving-physical-world",
+      "hn_url": "https://news.ycombinator.com/item?id=48084012",
+      "description": "",
+      "hn_score": 195,
+      "comments": 85,
+      "collected_at": "2026-05-15T02:07:36.923313+00:00",
+      "published_at": "2026-05-15T02:07:36.923313+00:00",
+      "summary": "《Leaving the Physical World》探讨了如何将物理世界中的实体（如传感器、设备）数据抽象为数字孪生，并利用LLM驱动的Agent进行自主决策与控制。核心亮点在于提出一种将物理设备状态映射到LLM可理解的语义空间的方法，结合工具调用（tool-use）实现闭环控制。适用于工业自动化、智能家居、机器人远程操控等需要AI从虚拟世界干预物理实体的场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "multimodal",
+        "reasoning",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-15T02:09:11.687564+00:00"
+    }
+  ]
+}

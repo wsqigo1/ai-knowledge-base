@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-05-15-013",
+  "title": "Rewrite Bun in Rust has been merged",
+  "source": "hackernews-top",
+  "url": "https://github.com/oven-sh/bun/pull/30412",
+  "summary": "Bun 项目将核心运行时从 Zig 重写为 Rust 的合并请求已通过。此举旨在利用 Rust 的内存安全性和生态系统，解决 Bun 在性能与稳定性上的瓶颈。核心技术亮点包括更高效的异步 I/O 和内存管理。适用于需要高性能 JavaScript/TypeScript 运行时替代 Node.js 的场景。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-15T02:07:36.923313+00:00",
+  "analyzed_at": "2026-05-15T02:08:53.242459+00:00",
+  "organized_at": "2026-05-15T02:09:11.694987+00:00",
+  "status": "published"
+}
