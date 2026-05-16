@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-16-001",
+  "title": "Evokoa/pgGraph",
+  "source": "github-trending",
+  "url": "https://github.com/Evokoa/pgGraph",
+  "summary": "pgGraph 是一个开源 Rust 库，为现有 PostgreSQL 数据库添加图数据库能力，无需迁移数据。它通过扩展 Postgres 的 SQL 语法支持图遍历、路径查询和属性图模型，核心利用 Postgres 的索引和 JSONB 实现高效图操作。适用于 AI 代理框架中需要图结构的知识图谱构建、关系推理和上下文关联查询场景。",
+  "tags": [
+    "graph-database",
+    "open-source",
+    "agent",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-05-16T01:59:29.836281+00:00",
+  "analyzed_at": "2026-05-16T02:00:01.391364+00:00",
+  "organized_at": "2026-05-16T02:00:58.717051+00:00",
+  "status": "published"
+}

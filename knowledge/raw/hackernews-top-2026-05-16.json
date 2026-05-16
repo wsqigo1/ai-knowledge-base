@@ -1,0 +1,382 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-16T01:59:31.279665+00:00",
+  "date": "2026-05-16",
+  "count": 20,
+  "items": [
+    {
+      "title": "Erlang/OTP 29.0",
+      "source": "hackernews-top",
+      "url": "https://www.erlang.org/news/188",
+      "hn_url": "https://news.ycombinator.com/item?id=48155297",
+      "description": "",
+      "hn_score": 100,
+      "comments": 4,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "Erlang/OTP 29.0 是 Erlang 编程语言及 OTP 框架的重大版本更新。它主要解决并发系统开发中的性能、可靠性和开发者体验问题。核心技术亮点包括 JIT 编译器的改进、新的类型系统增强、以及更高效的进程调度。适用于构建高并发、低延迟、容错性强的分布式系统，如电信、即时通讯和金融交易平台。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-16T02:00:15.196742+00:00"
+    },
+    {
+      "title": "Project Gutenberg – keeps getting better",
+      "source": "hackernews-top",
+      "url": "https://www.gutenberg.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48150431",
+      "description": "",
+      "hn_score": 720,
+      "comments": 175,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "Project Gutenberg是一个数字图书馆项目，提供大量免费电子书。它解决的是公共领域文学作品数字化和免费访问的问题。核心技术亮点包括持续改进的文本质量、多格式支持（如HTML、EPUB、Kindle）以及API接口。适用场景包括学术研究、文学阅读、数据挖掘和自然语言处理训练数据获取。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-05-16T02:00:17.209700+00:00"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "hn_url": "https://news.ycombinator.com/item?id=48153379",
+      "description": "",
+      "hn_score": 816,
+      "comments": 353,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "这是一篇对当前AI行业过度狂热现象的批判性评论，指出许多公司陷入“AI精神病”状态，盲目追逐大语言模型（LLM）而忽视实际业务价值和理性决策。核心观点是AI应作为工具而非目的，解决企业因技术焦虑导致的资源浪费和方向迷失问题。文章通过分析行业案例，强调回归务实、聚焦可落地的AI应用场景，如自动化工作流和开发者工具。适用场景包括技术战略制定、创业方向评估及AI投资决策。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-16T02:00:19.905871+00:00"
+    },
+    {
+      "title": "The Zulip Foundation",
+      "source": "hackernews-top",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "hn_url": "https://news.ycombinator.com/item?id=48152168",
+      "description": "",
+      "hn_score": 221,
+      "comments": 53,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "The Zulip Foundation 是开源团队协作平台 Zulip 背后的组织，解决企业级实时通信中消息组织混乱、异步协作效率低的问题。核心技术亮点包括基于话题的线程模型、高效的消息搜索与通知机制，以及完全开源的自托管能力。适用场景为需要结构化沟通的工程团队、开源社区及远程协作组织。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-16T02:00:21.943723+00:00"
+    },
+    {
+      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "source": "hackernews-top",
+      "url": "https://dynomight.net/p2p-meth/",
+      "hn_url": "https://news.ycombinator.com/item?id=48155324",
+      "description": "",
+      "hn_score": 46,
+      "comments": 23,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "文章探讨P2P（点对点）网络中的甲基苯丙胺（meth）泛滥现象，指出其供应量极大且难以控制。核心问题在于P2P技术被用于非法药物交易，挑战执法与监管。技术亮点是分析P2P网络的去中心化特性如何助长毒品流通。适用场景：研究P2P网络在非法活动中的应用及反制策略。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-16T02:00:24.362527+00:00"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "source": "hackernews-top",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48148460",
+      "description": "",
+      "hn_score": 340,
+      "comments": 157,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "该条目描述了一个针对Pixel 10设备的零点击漏洞利用链，无需用户交互即可远程攻破设备。核心技术亮点在于利用多个系统级漏洞组合，实现从初始访问到持久控制的完整攻击流程。适用场景为移动安全研究、漏洞挖掘与防御测试，对Android安全防护体系具有警示意义。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-16T02:00:26.683452+00:00"
+    },
+    {
+      "title": "California bill would require patches or refunds when online games shut down",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "hn_url": "https://news.ycombinator.com/item?id=48152994",
+      "description": "",
+      "hn_score": 325,
+      "comments": 196,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "加州提出一项法案，要求在线游戏停服时，开发者必须提供补丁或退款。该法案解决玩家在游戏停服后失去已购数字内容的问题，核心是强制开发者发布离线补丁或退还剩余价值。适用于数字内容消费者保护、游戏行业合规及数字版权管理场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-05-16T02:00:28.594603+00:00"
+    },
+    {
+      "title": "The sigmoids won't save you",
+      "source": "hackernews-top",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "hn_url": "https://news.ycombinator.com/item?id=48147021",
+      "description": "",
+      "hn_score": 150,
+      "comments": 162,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "文章探讨了sigmoid激活函数在深度学习中的局限性，指出其梯度饱和问题导致深层网络训练困难。核心亮点是分析ReLU等替代方案如何缓解梯度消失，并对比不同激活函数的适用场景。适用于神经网络架构设计、模型优化及AI研究中的激活函数选择。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-16T02:00:30.630009+00:00"
+    },
+    {
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "source": "hackernews-top",
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "hn_url": "https://news.ycombinator.com/item?id=48150069",
+      "description": "",
+      "hn_score": 131,
+      "comments": 26,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "Image-blaster 是一个开源工具，能从单张图像生成3D环境、特效和网格。它解决从2D图像快速创建3D内容的问题，核心技术利用深度学习进行单视图3D重建和纹理映射。适用场景包括游戏开发、虚拟现实和快速原型设计。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-16T02:00:32.387541+00:00"
+    },
+    {
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "source": "hackernews-top",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "hn_url": "https://news.ycombinator.com/item?id=48151383",
+      "description": "",
+      "hn_score": 367,
+      "comments": 240,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "美国司法部要求苹果和谷歌披露超过10万名汽车改装应用用户的身份信息，涉及数字隐私与执法权限的冲突。核心问题是政府能否强制科技公司交出用户数据以协助刑事调查。技术亮点在于该案可能影响端到端加密和匿名化技术的法律边界。适用场景为隐私保护技术、法律合规及数字权利研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-16T02:00:34.946803+00:00"
+    },
+    {
+      "title": "O(x)Caml in Space",
+      "source": "hackernews-top",
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48147058",
+      "description": "",
+      "hn_score": 229,
+      "comments": 51,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "O(x)Caml in Space 是一篇关于将 OCaml 语言应用于太空探索领域的文章。它解决的是在资源受限、高可靠性和实时性要求极高的太空系统中，如何利用 OCaml 的强类型系统、函数式编程特性和高效运行时来构建安全、可验证的软件。核心技术亮点包括 OCaml 的类型安全减少运行时错误、垃圾回收机制适应长期任务、以及与现有嵌入式系统的集成能力。适用场景包括卫星控制软件、航天器自主决策系统、以及需要形式化验证的太空任务关键组件。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-16T02:00:37.712274+00:00"
+    },
+    {
+      "title": "Show HN: Watch a neural net learn to play Snake",
+      "source": "hackernews-top",
+      "url": "https://ppo.gradexp.xyz/",
+      "hn_url": "https://news.ycombinator.com/item?id=48136981",
+      "description": "",
+      "hn_score": 122,
+      "comments": 31,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "该项目展示了一个神经网络通过强化学习从零开始学习玩贪吃蛇游戏的完整过程。它解决了如何直观演示神经网络训练动态和决策机制的问题。核心技术亮点包括使用简单的全连接网络或卷积网络，结合Q-learning算法，在浏览器中实时可视化神经网络的权重变化、游戏得分和决策过程。适用场景为AI教育、强化学习入门教学、以及神经网络可视化研究。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-16T02:00:40.052511+00:00"
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "source": "hackernews-top",
+      "url": "https://ascii.textfiles.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48148726",
+      "description": "",
+      "hn_score": 153,
+      "comments": 21,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "ASCII by Jason Scott 是一个专注于 ASCII 艺术与数字文化遗产的在线项目，旨在保存和展示早期计算机文化中的文本图形。核心亮点是系统化归档大量历史 ASCII 艺术作品，提供可搜索的数据库。适用场景包括数字人文研究、复古计算文化教育及艺术创作参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-16T02:00:42.147916+00:00"
+    },
+    {
+      "title": "ABC News has taken all FiveThirtyEight articles offline",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/baseballot/status/2055309076209492208",
+      "hn_url": "https://news.ycombinator.com/item?id=48152553",
+      "description": "",
+      "hn_score": 245,
+      "comments": 122,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "ABC News 将 FiveThirtyEight 的所有文章从网站下线。此举解决了内容整合与品牌定位问题，核心是媒体公司对数据新闻资产的处置决策。技术亮点在于大规模内容迁移与归档的工程挑战，但无直接 AI 技术应用。适用场景为媒体内容管理、数据新闻平台运营。",
+      "tags": [
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-16T02:00:44.483742+00:00"
+    },
+    {
+      "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
+      "source": "hackernews-top",
+      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48151767",
+      "description": "",
+      "hn_score": 159,
+      "comments": 154,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "Waymo对其3800辆自动驾驶出租车进行软件更新，解决车辆在暴雨后驶入积水导致停运或损坏的问题。核心改进涉及感知系统对积水区域的识别与路径规划算法，通过增强传感器融合和动态避障逻辑，避免车辆误入深水区。适用于自动驾驶运营中极端天气场景的可靠性提升。",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-16T02:00:46.593453+00:00"
+    },
+    {
+      "title": "Steve Jobs in Exile – New book on Steve Jobs’s years at NeXT Computer",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "hn_url": "https://news.ycombinator.com/item?id=48146908",
+      "description": "",
+      "hn_score": 185,
+      "comments": 150,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "《Steve Jobs in Exile》是一本关于乔布斯在NeXT Computer时期的新书。它探讨了乔布斯被苹果驱逐后，如何通过NeXT重塑个人计算生态，解决企业级工作站市场痛点。核心技术亮点包括NeXTSTEP操作系统（基于Unix，支持面向对象编程和Display PostScript）以及NeXTcube硬件设计。适用场景：科技史研究、产品战略分析、创业失败案例学习。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-16T02:00:48.997348+00:00"
+    },
+    {
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "source": "hackernews-top",
+      "url": "https://radicle.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48147603",
+      "description": "",
+      "hn_score": 216,
+      "comments": 74,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "Radicle 是一个基于 Git 的去中心化代码协作平台，旨在解决传统代码托管平台（如 GitHub）的中心化依赖和单点控制问题。其核心技术亮点包括：利用 Git 的底层数据结构实现完全点对点的代码分发，通过公钥加密和智能合约管理身份与权限，无需中央服务器即可进行代码审查、问题跟踪和仓库托管。适用于追求代码主权、抗审查或需要离线协作的开发者团队，以及希望摆脱平台锁定的开源项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-05-16T02:00:51.652812+00:00"
+    },
+    {
+      "title": "London Police Deploy Facial Recognition at Protest for First Time",
+      "source": "hackernews-top",
+      "url": "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time",
+      "hn_url": "https://news.ycombinator.com/item?id=48153400",
+      "description": "",
+      "hn_score": 112,
+      "comments": 77,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "伦敦警方首次在抗议活动中部署面部识别技术，用于实时监控和识别被通缉人员。该技术解决大规模人群中的身份识别与安全监控问题，核心亮点包括基于AI的实时人脸匹配算法与边缘计算部署。适用场景为公共安全与执法监控，但引发隐私与公民自由争议。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-16T02:00:53.585683+00:00"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "source": "hackernews-top",
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "hn_url": "https://news.ycombinator.com/item?id=48148337",
+      "description": "",
+      "hn_score": 317,
+      "comments": 346,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "报道指出亚马逊员工在管理层施压下被迫增加AI使用量，甚至编造任务以满足指标。核心问题在于企业强制推行AI工具导致形式主义，而非解决实际效率需求。技术亮点在于揭示了AI部署中的人机协作失衡与绩效评估缺陷。适用场景为企业AI落地策略评估与员工体验优化。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-16T02:00:55.984073+00:00"
+    },
+    {
+      "title": "WinCE64 – Windows CE 2.11 for N64",
+      "source": "hackernews-top",
+      "url": "https://github.com/ThroatyMumbo/WinCE64",
+      "hn_url": "https://news.ycombinator.com/item?id=48152729",
+      "description": "",
+      "hn_score": 123,
+      "comments": 52,
+      "collected_at": "2026-05-16T01:59:29.948715+00:00",
+      "published_at": "2026-05-16T01:59:29.948715+00:00",
+      "summary": "WinCE64 是一个将 Windows CE 2.11 移植到任天堂 N64 游戏机的开源项目。它解决了在非标准硬件（N64）上运行嵌入式 Windows 系统的问题，核心亮点包括对 N64 硬件（如 RSP 协处理器、内存映射）的底层适配、精简的 WinCE 内核编译与驱动支持。适用场景为复古硬件爱好者、嵌入式系统移植研究及游戏机逆向工程学习。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-16T02:00:58.709063+00:00"
+    }
+  ]
+}

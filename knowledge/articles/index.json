@@ -1,7 +1,171 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 192,
+  "total_count": 203,
   "entries": [
+    {
+      "id": "kb-2026-05-16-001",
+      "title": "Evokoa/pgGraph",
+      "source": "github-trending",
+      "url": "https://github.com/Evokoa/pgGraph",
+      "file": "2026-05-16-evokoapggraph.json",
+      "tags": [
+        "graph-database",
+        "open-source",
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-002",
+      "title": "Callous-0923/agent-study",
+      "source": "github-trending",
+      "url": "https://github.com/Callous-0923/agent-study",
+      "file": "2026-05-16-callous-0923agent-study.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "rag",
+        "mcp",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-003",
+      "title": "DenisSergeevitch/agents-best-practices",
+      "source": "github-trending",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "file": "2026-05-16-denissergeevitchagents-best-practices.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-004",
+      "title": "LocoreMind/locoagent",
+      "source": "github-trending",
+      "url": "https://github.com/LocoreMind/locoagent",
+      "file": "2026-05-16-locoremindlocoagent.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-005",
+      "title": "Isoform/yansu-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Isoform/yansu-skill",
+      "file": "2026-05-16-isoformyansu-skill.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-006",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "file": "2026-05-16-i-believe-there-are-entire-companies-rig.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-007",
+      "title": "The Zulip Foundation",
+      "source": "hackernews-top",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "file": "2026-05-16-the-zulip-foundation.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-008",
+      "title": "The sigmoids won't save you",
+      "source": "hackernews-top",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "file": "2026-05-16-the-sigmoids-wont-save-you.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-009",
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "source": "hackernews-top",
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "file": "2026-05-16-image-blaster-creates-3d-environments-sf.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-010",
+      "title": "O(x)Caml in Space",
+      "source": "hackernews-top",
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "file": "2026-05-16-oxcaml-in-space.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
+    {
+      "id": "kb-2026-05-16-011",
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "source": "hackernews-top",
+      "url": "https://radicle.dev/",
+      "file": "2026-05-16-radicle-sovereign-code-forge-built-on-gi.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-05-16T02:00:58.717051+00:00"
+    },
     {
       "id": "kb-2026-05-15-001",
       "title": "nexu-io/html-anything",
@@ -2849,5 +3013,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-15T02:09:11.709198+00:00"
+  "last_updated": "2026-05-16T02:00:58.728900+00:00"
 }
