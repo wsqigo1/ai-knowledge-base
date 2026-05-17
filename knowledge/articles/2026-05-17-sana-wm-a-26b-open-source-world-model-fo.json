@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-17-008",
+  "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+  "source": "hackernews-top",
+  "url": "https://nvlabs.github.io/Sana/WM/",
+  "summary": "SANA-WM 是一个 2.6B 参数的开源世界模型，能够生成 1 分钟 720p 视频。它解决了现有世界模型在长视频生成中分辨率低、时长短的问题。核心技术包括高效时空压缩和扩散 Transformer 架构，在保持高保真度的同时实现长时域一致性。适用于自动驾驶仿真、机器人训练、游戏内容生成等需要长期物理世界模拟的场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-05-17T02:01:48.954143+00:00",
+  "analyzed_at": "2026-05-17T02:02:43.961197+00:00",
+  "organized_at": "2026-05-17T02:03:23.681944+00:00",
+  "status": "published"
+}

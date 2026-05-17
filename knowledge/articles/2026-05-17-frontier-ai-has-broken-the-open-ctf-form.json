@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-17-009",
+  "title": "Frontier AI has broken the open CTF format",
+  "source": "hackernews-top",
+  "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "summary": "本文指出前沿AI（如GPT-4、Claude等）已能轻松破解传统CTF（Capture The Flag）竞赛题目，导致开放式CTF格式失效。核心问题是AI的代码生成与推理能力使原本需要人工挖掘的漏洞和解题步骤自动化，降低了竞赛的挑战性和公平性。技术亮点在于揭示了AI在代码审计、漏洞利用和逆向工程上的突破性能力。适用场景为网络安全竞赛组织者、AI安全研究者及CTF社区，需重新设计竞赛形式以对抗AI辅助解题。",
+  "tags": [
+    "code-generation",
+    "benchmark",
+    "reasoning",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-17T02:01:48.954143+00:00",
+  "analyzed_at": "2026-05-17T02:02:53.131677+00:00",
+  "organized_at": "2026-05-17T02:03:23.681944+00:00",
+  "status": "published"
+}

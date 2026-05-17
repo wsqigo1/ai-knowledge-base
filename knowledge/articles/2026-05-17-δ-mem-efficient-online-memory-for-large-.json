@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-17-010",
+  "title": "δ-mem: Efficient Online Memory for Large Language Models",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2605.12357",
+  "summary": "δ-mem 是一种针对大型语言模型的高效在线记忆方法，通过增量式记忆更新机制解决长上下文处理中的计算和存储瓶颈。核心技术亮点包括基于差异（delta）的压缩存储和选择性检索，显著降低记忆维护成本。适用于需要持续对话、实时知识更新的场景，如 AI 助手和在线问答系统。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "rag"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-17T02:01:48.954143+00:00",
+  "analyzed_at": "2026-05-17T02:02:55.274299+00:00",
+  "organized_at": "2026-05-17T02:03:23.681944+00:00",
+  "status": "published"
+}

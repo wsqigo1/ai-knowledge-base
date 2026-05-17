@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-17-006",
+  "title": "chiennv2000/orthrus",
+  "source": "github-trending",
+  "url": "https://github.com/chiennv2000/orthrus",
+  "summary": "Orthrus 是一个基于扩散语言模型（diffusion-language-models）的 LLM 推理加速框架，通过双视角扩散解码（dual-view diffusion decoding）实现无损加速。它解决传统自回归解码效率低下的问题，核心创新在于同时从两个视角进行扩散解码，利用一致性约束减少迭代步数，同时保持生成质量。适用于需要低延迟、高吞吐量的 LLM 推理场景，如实时对话系统、代码生成等。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "efficient-inference",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-17T02:01:48.807589+00:00",
+  "analyzed_at": "2026-05-17T02:02:35.818264+00:00",
+  "organized_at": "2026-05-17T02:03:23.681944+00:00",
+  "status": "published"
+}

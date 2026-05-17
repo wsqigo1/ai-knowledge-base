@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-17-013",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "source": "hackernews-top",
+  "url": "https://www.seangoedecke.com/steering-vectors/",
+  "summary": "DeepSeek-V4-Flash 是一个新发布的 LLM 版本，通过改进的架构重新激发了模型“转向”（steering）技术的兴趣。它解决了传统 LLM 在推理过程中难以精确控制输出方向的问题，核心亮点在于引入了更高效的注意力机制和可调节的潜在空间干预方法，使得开发者能够更灵活地引导模型行为。适用于需要动态调整模型输出风格、内容或逻辑的 AI 应用场景，如个性化对话、内容生成和任务导向的推理。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "reasoning"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-05-17T02:01:48.954143+00:00",
+  "analyzed_at": "2026-05-17T02:03:11.000323+00:00",
+  "organized_at": "2026-05-17T02:03:23.681944+00:00",
+  "status": "published"
+}

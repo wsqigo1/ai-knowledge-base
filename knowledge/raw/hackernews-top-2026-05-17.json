@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-17T02:01:50.163417+00:00",
+  "date": "2026-05-17",
+  "count": 20,
+  "items": [
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "source": "hackernews-top",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "hn_url": "https://news.ycombinator.com/item?id=48164287",
+      "description": "",
+      "hn_score": 167,
+      "comments": 46,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "Zerostack 是一个受 Unix 哲学启发的编码代理，完全用 Rust 实现。它解决 AI 辅助编程中工具链复杂、依赖重的问题，通过模块化管道和轻量级设计提供高效代码生成与执行。核心技术亮点包括 Rust 的高性能与内存安全、Unix 风格的组合式架构，以及内置的代码理解与自动修复能力。适用场景为开发者本地环境中的快速原型开发、代码重构与自动化任务。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-17T02:02:41.747793+00:00"
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "source": "hackernews-top",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "hn_url": "https://news.ycombinator.com/item?id=48159445",
+      "description": "",
+      "hn_score": 300,
+      "comments": 126,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "SANA-WM 是一个 2.6B 参数的开源世界模型，能够生成 1 分钟 720p 视频。它解决了现有世界模型在长视频生成中分辨率低、时长短的问题。核心技术包括高效时空压缩和扩散 Transformer 架构，在保持高保真度的同时实现长时域一致性。适用于自动驾驶仿真、机器人训练、游戏内容生成等需要长期物理世界模拟的场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-05-17T02:02:43.961197+00:00"
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "source": "hackernews-top",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "hn_url": "https://news.ycombinator.com/item?id=48158400",
+      "description": "",
+      "hn_score": 437,
+      "comments": 282,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "作者反思从Tailwind迁移回传统CSS结构化的过程，探讨CSS架构设计原则。核心问题是Tailwind的原子化类名导致样式难以维护和复用，解决方案是采用BEM命名规范、CSS自定义属性和组件化样式组织。技术亮点包括：使用CSS层叠（@layer）管理优先级、通过自定义属性实现主题切换、以及利用PostCSS工具链优化构建。适用场景为需要长期维护的中大型前端项目，或对样式可读性和团队协作要求较高的团队。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-17T02:02:46.497358+00:00"
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "hn_url": "https://news.ycombinator.com/item?id=48163392",
+      "description": "",
+      "hn_score": 64,
+      "comments": 69,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "OpenAI与马耳他政府合作，向所有公民提供ChatGPT Plus订阅。该合作旨在通过AI助手提升公共服务效率与公民数字素养，核心技术为GPT-4大语言模型。适用于政府服务自动化、教育辅助及日常信息查询场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-17T02:02:48.311562+00:00"
+    },
+    {
+      "title": "Accelerando (2005)",
+      "source": "hackernews-top",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48159241",
+      "description": "",
+      "hn_score": 242,
+      "comments": 140,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "《Accelerando》是2005年出版的科幻小说，描绘了技术奇点临近时人类社会、经济与意识的剧烈变革。核心亮点在于其前瞻性地探讨了AI、上传意识、后人类经济等概念，通过多个角色家族史展现技术加速对个体与文明的冲击。适用场景：启发对AI长期影响、技术伦理及未来社会形态的思考，适合技术研究者与科幻爱好者。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-17T02:02:50.763561+00:00"
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "source": "hackernews-top",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "hn_url": "https://news.ycombinator.com/item?id=48157559",
+      "description": "",
+      "hn_score": 339,
+      "comments": 331,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "本文指出前沿AI（如GPT-4、Claude等）已能轻松破解传统CTF（Capture The Flag）竞赛题目，导致开放式CTF格式失效。核心问题是AI的代码生成与推理能力使原本需要人工挖掘的漏洞和解题步骤自动化，降低了竞赛的挑战性和公平性。技术亮点在于揭示了AI在代码审计、漏洞利用和逆向工程上的突破性能力。适用场景为网络安全竞赛组织者、AI安全研究者及CTF社区，需重新设计竞赛形式以对抗AI辅助解题。",
+      "tags": [
+        "code-generation",
+        "benchmark",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-17T02:02:53.131677+00:00"
+    },
+    {
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "hn_url": "https://news.ycombinator.com/item?id=48158506",
+      "description": "",
+      "hn_score": 194,
+      "comments": 53,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "δ-mem 是一种针对大型语言模型的高效在线记忆方法，通过增量式记忆更新机制解决长上下文处理中的计算和存储瓶颈。核心技术亮点包括基于差异（delta）的压缩存储和选择性检索，显著降低记忆维护成本。适用于需要持续对话、实时知识更新的场景，如 AI 助手和在线问答系统。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "rag"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-17T02:02:55.274299+00:00"
+    },
+    {
+      "title": "We've made the world too complicated",
+      "source": "hackernews-top",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "hn_url": "https://news.ycombinator.com/item?id=48158065",
+      "description": "",
+      "hn_score": 192,
+      "comments": 184,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "文章指出当前技术系统（如软件、AI工具链）因过度复杂化而难以维护和使用，核心问题是缺乏对简洁性的追求。作者主张通过模块化设计、减少依赖和回归基础原则来降低复杂性。适用于开发者反思架构设计、团队优化技术栈的场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-17T02:02:57.265668+00:00"
+    },
+    {
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "source": "hackernews-top",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "hn_url": "https://news.ycombinator.com/item?id=48161997",
+      "description": "",
+      "hn_score": 112,
+      "comments": 74,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "Kioxia与Dell合作，在2RU（机架单位）的紧凑服务器中实现了10PB（拍字节）的存储容量。该技术通过高密度闪存存储和优化的服务器架构，解决了数据中心在有限空间内对海量数据存储的需求。核心亮点包括采用Kioxia的先进NAND闪存技术和Dell的服务器设计，实现了超高存储密度。适用场景包括大规模数据归档、AI训练数据存储、云存储基础设施等需要高容量、高密度存储的环境。",
+      "tags": [
+        "large-language-model",
+        "vector-database",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-17T02:02:59.803359+00:00"
+    },
+    {
+      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "source": "hackernews-top",
+      "url": "https://parttelescopes.web.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48160914",
+      "description": "",
+      "hn_score": 106,
+      "comments": 28,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "PART Telescopes 是一个开源项目，旨在将射电天文学引入农村学校。它通过低成本、易于组装的硬件套件和配套软件，解决农村教育资源匮乏问题。核心技术亮点是使用简易天线和软件定义无线电（SDR）接收宇宙信号，并集成数据分析工具。适用场景包括STEM教育、科普活动和农村学校的天文学实践课程。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-17T02:03:01.891160+00:00"
+    },
+    {
+      "title": "Futhark by example (2020)",
+      "source": "hackernews-top",
+      "url": "https://futhark-lang.org/examples.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48158606",
+      "description": "",
+      "hn_score": 109,
+      "comments": 27,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "Futhark是一种纯函数式、数据并行的编程语言，专为高性能计算设计。它通过编译时优化和自动并行化，解决GPU/CPU上数值计算效率低、代码可移植性差的问题。核心技术亮点包括：类似ML的简洁语法、自动内存管理、以及通过编译生成高效CUDA/OpenCL代码。适用场景：科学计算、图像处理、机器学习中的矩阵运算等需要大规模并行加速的领域。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-17T02:03:04.339203+00:00"
+    },
+    {
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "source": "hackernews-top",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48110804",
+      "description": "",
+      "hn_score": 108,
+      "comments": 64,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "WKRP in Cincinnati 这部1970年代经典情景喜剧中的虚构广播电台，在近50年后被一家真实广播公司收购并实际运营。该项目解决的是将虚构IP转化为实体商业的创意落地问题。核心技术亮点在于利用现代广播技术和社交媒体运营，将怀旧文化资产变现。适用场景包括文化IP商业化、怀旧营销及广播行业创新。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-17T02:03:06.738983+00:00"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "hn_url": "https://news.ycombinator.com/item?id=48153379",
+      "description": "",
+      "hn_score": 1886,
+      "comments": 1074,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "文章指出当前AI行业存在过度狂热现象，许多公司盲目跟风AI，缺乏实际业务需求和技术可行性评估。核心观点是AI应用应回归理性，聚焦解决真实问题而非追逐概念。适用于AI战略规划、企业技术决策场景，提醒工程师避免技术泡沫。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-17T02:03:08.660842+00:00"
+    },
+    {
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "source": "hackernews-top",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "hn_url": "https://news.ycombinator.com/item?id=48160807",
+      "description": "",
+      "hn_score": 213,
+      "comments": 70,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "DeepSeek-V4-Flash 是一个新发布的 LLM 版本，通过改进的架构重新激发了模型“转向”（steering）技术的兴趣。它解决了传统 LLM 在推理过程中难以精确控制输出方向的问题，核心亮点在于引入了更高效的注意力机制和可调节的潜在空间干预方法，使得开发者能够更灵活地引导模型行为。适用于需要动态调整模型输出风格、内容或逻辑的 AI 应用场景，如个性化对话、内容生成和任务导向的推理。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-17T02:03:11.000323+00:00"
+    },
+    {
+      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "source": "hackernews-top",
+      "url": "https://github.com/chiennv2000/orthrus",
+      "hn_url": "https://news.ycombinator.com/item?id=48154865",
+      "description": "",
+      "hn_score": 217,
+      "comments": 43,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "Orthrus-Qwen3 是一个针对 Qwen3 模型的开源推理加速方案，通过优化前向传播实现最高 7.8 倍的 tokens/forward 提升，且保持输出分布完全一致。核心技术亮点包括：利用稀疏激活和计算图重写，在不改变模型权重或输出质量的前提下大幅减少冗余计算。适用于需要高吞吐量、低延迟的大模型推理场景，如实时对话、批量文本生成和边缘部署。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-17T02:03:13.099797+00:00"
+    },
+    {
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "hn_url": "https://news.ycombinator.com/item?id=48132106",
+      "description": "",
+      "hn_score": 207,
+      "comments": 71,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "探讨鸟类视觉系统（如鹰眼）在进化中达到的极端适应性，分析其光学结构、视网膜细胞密度及神经处理机制如何实现超远距离精准捕猎。核心亮点在于对比人类视觉局限，揭示生物视觉的物理极限与工程启示。适用于仿生光学设计、计算机视觉算法优化及生物学教育场景。",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-17T02:03:15.256415+00:00"
+    },
+    {
+      "title": "HTML Lists",
+      "source": "hackernews-top",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "hn_url": "https://news.ycombinator.com/item?id=48161861",
+      "description": "",
+      "hn_score": 291,
+      "comments": 67,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "HTML Lists 是一个关于 HTML 列表元素（如 ul、ol、dl）的深度技术文章，解决开发者对列表语义化、可访问性及样式控制的常见误解。核心亮点包括详细解析列表嵌套规则、CSS 计数器应用、以及 ARIA 角色优化。适用于前端开发、文档编写及无障碍设计场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-17T02:03:17.593051+00:00"
+    },
+    {
+      "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+      "source": "hackernews-top",
+      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+      "hn_url": "https://news.ycombinator.com/item?id=48158494",
+      "description": "",
+      "hn_score": 286,
+      "comments": 204,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "2019年临床试验显示粪便移植（FMT）对自闭症谱系障碍（ASD）患者具有显著疗效，通过调节肠道微生物群改善行为症状。核心亮点：随机双盲对照试验证实FMT可减少胃肠道问题和自闭症相关行为，效果持续至治疗后2年。适用场景：自闭症辅助治疗、肠道-脑轴研究、微生物组疗法开发。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-17T02:03:19.789588+00:00"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "source": "hackernews-top",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48148460",
+      "description": "",
+      "hn_score": 430,
+      "comments": 228,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "该条目披露了针对Pixel 10手机的一个零点击漏洞利用链，攻击者无需用户交互即可远程控制设备。核心技术亮点在于利用多个系统级漏洞（如蓝牙、基带或内核漏洞）串联实现完全提权，无需用户点击链接或安装应用。适用于移动安全研究、漏洞挖掘及Android系统防御加固场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-17T02:03:21.827536+00:00"
+    },
+    {
+      "title": "The sigmoids won't save you",
+      "source": "hackernews-top",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "hn_url": "https://news.ycombinator.com/item?id=48147021",
+      "description": "",
+      "hn_score": 291,
+      "comments": 270,
+      "collected_at": "2026-05-17T02:01:48.954143+00:00",
+      "published_at": "2026-05-17T02:01:48.954143+00:00",
+      "summary": "文章批判了当前AI社区对sigmoid激活函数的过度依赖，指出其在深层网络中的梯度消失问题限制了模型性能。核心亮点是提出替代激活函数（如ReLU变体）和归一化技术的组合策略，以缓解训练不稳定性。适用于深度学习模型架构设计、激活函数选型及训练优化场景。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-17T02:03:23.673529+00:00"
+    }
+  ]
+}
