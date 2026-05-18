@@ -1,0 +1,380 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-18T02:13:58.638047+00:00",
+  "date": "2026-05-18",
+  "count": 20,
+  "items": [
+    {
+      "title": "GenCAD",
+      "source": "hackernews-top",
+      "url": "https://gencad.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48173429",
+      "description": "",
+      "hn_score": 114,
+      "comments": 23,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "GenCAD是一个开源项目，旨在通过生成式AI技术自动化计算机辅助设计（CAD）流程。它解决了传统CAD设计耗时长、重复劳动多的问题，核心亮点是利用大型语言模型（LLM）理解自然语言设计需求，并生成对应的CAD模型代码或参数化设计。适用场景包括机械设计、建筑建模和快速原型开发，尤其适合需要快速迭代的设计团队。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-18T02:14:46.229597+00:00"
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "source": "hackernews-top",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "hn_url": "https://news.ycombinator.com/item?id=48168668",
+      "description": "",
+      "hn_score": 257,
+      "comments": 120,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "将80美元的RK3562 Android平板改装为Debian Linux工作站。解决低成本硬件运行桌面Linux的问题。核心亮点：利用RK3562芯片的ARM架构兼容性，通过定制内核和引导加载程序替换Android系统，实现完整的Debian环境。适用场景：嵌入式开发、轻量级桌面计算、低成本Linux学习平台。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-18T02:14:48.442739+00:00"
+    },
+    {
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "source": "hackernews-top",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "hn_url": "https://news.ycombinator.com/item?id=48173468",
+      "description": "",
+      "hn_score": 98,
+      "comments": 82,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "Two EA-18G Growler fighter jets collided during an airshow at Mountain Home Air Force Base, with both pilots ejecting safely. The incident highlights risks in low-altitude aerial demonstrations. No AI/LLM relevance; purely aviation safety news.",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-05-18T02:14:49.892569+00:00"
+    },
+    {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "source": "hackernews-top",
+      "url": "https://github.com/MinishLab/semble",
+      "hn_url": "https://news.ycombinator.com/item?id=48169874",
+      "description": "",
+      "hn_score": 178,
+      "comments": 44,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "Semble 是一个面向 AI 代理的代码搜索工具，通过创新的索引和检索方法，相比传统 grep 减少 98% 的 token 消耗。核心技术亮点包括语义理解与高效 token 压缩，解决代理在代码库中搜索时的高成本与低效问题。适用于 AI 辅助编程、自动化代码审查等场景。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-18T02:14:51.879532+00:00"
+    },
+    {
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "source": "hackernews-top",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=48147351",
+      "description": "",
+      "hn_score": 162,
+      "comments": 152,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "Mercurial 版本控制系统在 Git 主导的 20 年后仍活跃，通过分布式架构、高效分支与合并、Python 可扩展性解决大型代码库管理问题。核心技术亮点包括内置的 revlog 存储格式、轻量级分支和钩子系统。适用场景为需要严格变更追踪、合规审计或对 Git 复杂性敏感的企业团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-18T02:14:54.152967+00:00"
+    },
+    {
+      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/payphone-voip",
+      "hn_url": "https://news.ycombinator.com/item?id=48172505",
+      "description": "",
+      "hn_score": 115,
+      "comments": 34,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "该项目在佛蒙特州农村地区利用VoIP技术重建传统付费电话系统。解决偏远地区通信基础设施不足的问题。核心亮点是通过VoIP协议将老旧电话硬件与现代IP网络集成，实现低成本、易维护的通信方案。适用场景为农村或偏远地区的公共通信服务恢复。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-18T02:14:56.114985+00:00"
+    },
+    {
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "source": "hackernews-top",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "hn_url": "https://news.ycombinator.com/item?id=48173547",
+      "description": "",
+      "hn_score": 56,
+      "comments": 28,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "回顾ThinkPad从IBM的Bento Box设计到联想AI工作站的演进历史，突出其作为硬件平台在AI计算中的角色演变。核心亮点包括ThinkPad的耐用性、键盘体验及联想在AI工作站中集成GPU加速、优化散热等技术，适用于需要高性能移动计算的数据科学、机器学习模型训练与推理场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-18T02:14:58.627079+00:00"
+    },
+    {
+      "title": "CUDA Books",
+      "source": "hackernews-top",
+      "url": "https://github.com/alternbits/awesome-cuda-books",
+      "hn_url": "https://news.ycombinator.com/item?id=48168485",
+      "description": "",
+      "hn_score": 126,
+      "comments": 26,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "CUDA Books 是一个开源项目，提供系统学习 CUDA 编程的书籍资源集合，解决 GPU 编程入门与进阶缺乏权威教材的问题。核心技术亮点包括覆盖从基础并行计算到高级优化技巧的完整知识体系，并附带实战代码示例。适用于 AI 工程师、高性能计算开发者及需要利用 GPU 加速深度学习模型训练或推理的从业者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-18T02:15:00.565866+00:00"
+    },
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "source": "hackernews-top",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168221",
+      "description": "",
+      "hn_score": 497,
+      "comments": 352,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "本文探讨AI并非万能加速器，指出将AI简单嵌入现有流程可能不会显著提升效率。核心观点是AI更适合重新设计流程而非加速旧流程，解决企业盲目部署AI导致效果不佳的问题。技术亮点在于强调流程重构与AI的协同设计，而非单纯技术堆叠。适用场景为需要优化工作流的企业或团队，尤其是那些正在评估AI落地效果的决策者。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-18T02:15:02.662323+00:00"
+    },
+    {
+      "title": "Hindenburg’s Smoking Room",
+      "source": "hackernews-top",
+      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "hn_url": "https://news.ycombinator.com/item?id=48140556",
+      "description": "",
+      "hn_score": 157,
+      "comments": 115,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "Hindenburg's Smoking Room 是一篇关于兴登堡号飞艇上吸烟室的技术文章，探讨了其独特的防火设计。核心亮点在于使用负压系统和特殊材料隔离吸烟区，解决飞艇内明火安全隐患。适用于历史工程案例分析和安全设计研究。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-05-18T02:15:04.519946+00:00"
+    },
+    {
+      "title": "Prolog Basics Explained with Pokémon",
+      "source": "hackernews-top",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "hn_url": "https://news.ycombinator.com/item?id=48147091",
+      "description": "",
+      "hn_score": 209,
+      "comments": 33,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "该文章通过宝可梦（Pokémon）示例解释Prolog逻辑编程基础，解决逻辑编程入门难的问题。核心亮点包括：用具体游戏角色和规则（如属性克制）演示事实、规则、递归查询等Prolog核心概念，降低学习曲线。适用场景：编程教育、逻辑推理入门、AI知识表示教学。",
+      "tags": [
+        "reasoning",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-18T02:15:06.541713+00:00"
+    },
+    {
+      "title": "High-Entropy Alloy",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+      "hn_url": "https://news.ycombinator.com/item?id=48133293",
+      "description": "",
+      "hn_score": 110,
+      "comments": 23,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "High-Entropy Alloy（高熵合金）是一种由五种或更多主元素以等摩尔或近等摩尔比例组成的合金材料，旨在突破传统单一主元合金的性能极限。其核心亮点在于利用高熵效应、晶格畸变效应、迟滞扩散效应和鸡尾酒效应，实现高强度、高韧性、耐腐蚀、抗辐照等综合性能。适用于极端环境下的结构材料、航空航天、核能及催化领域。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-18T02:15:08.990150+00:00"
+    },
+    {
+      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "hn_url": "https://news.ycombinator.com/item?id=48168159",
+      "description": "",
+      "hn_score": 81,
+      "comments": 89,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "该条目报道了一项针对退伍军人的临床试验，表明伊博格碱（ibogaine）可能成为治疗创伤后应激障碍（PTSD）的新方法。核心亮点是伊博格碱作为一种 psychedelic 化合物，在初步试验中显示出显著缓解 PTSD 症状的潜力，可能通过促进神经可塑性来重置恐惧记忆。适用场景为精神健康治疗领域，尤其是对传统疗法无效的 PTSD 患者。",
+      "tags": [
+        "ai-assistant"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-18T02:15:10.965468+00:00"
+    },
+    {
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "source": "hackernews-top",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "hn_url": "https://news.ycombinator.com/item?id=48165980",
+      "description": "",
+      "hn_score": 168,
+      "comments": 171,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "特斯拉太阳能屋顶业务因成本过高和安装复杂而转向传统太阳能电池板。该技术旨在通过集成光伏瓦片替代传统屋顶，解决美观与能源自给问题。核心亮点是瓦片式光伏设计，但面临制造和安装挑战。适用场景为高端住宅市场，但当前经济性不足。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-18T02:15:12.904350+00:00"
+    },
+    {
+      "title": "Colossus: The Forbin Project",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "hn_url": "https://news.ycombinator.com/item?id=48142115",
+      "description": "",
+      "hn_score": 215,
+      "comments": 84,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "Colossus: The Forbin Project 是一部1970年的科幻电影，探讨超级AI控制人类防御系统的风险。核心亮点在于其前瞻性地描绘了AI系统失控、与人类博弈的经典场景，以及技术伦理困境。适用于AI安全、对齐问题及人机交互的案例研究。",
+      "tags": [
+        "reasoning",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-18T02:15:14.977349+00:00"
+    },
+    {
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "source": "hackernews-top",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "hn_url": "https://news.ycombinator.com/item?id=48166459",
+      "description": "",
+      "hn_score": 648,
+      "comments": 271,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "Mozilla向英国监管机构声明VPN是必要的隐私和安全工具。该条目讨论VPN在保护用户数据免受监控和网络威胁中的核心作用，强调其加密技术和匿名化功能。适用场景包括个人隐私保护、公共Wi-Fi安全及绕过地理限制。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-18T02:15:16.754521+00:00"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "source": "hackernews-top",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "hn_url": "https://news.ycombinator.com/item?id=48164432",
+      "description": "",
+      "hn_score": 312,
+      "comments": 42,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "该项目是一个基于电压表（voltmeter）改装的创意时钟，通过将电压表表盘重新标定为时间刻度，利用微控制器驱动指针显示当前时间。它解决了传统数字时钟缺乏机械美感的问题，核心技术亮点在于使用PWM信号精确控制指针角度，并实现低功耗运行。适用于DIY电子爱好者、创客空间及复古风格家居装饰场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-18T02:15:19.009899+00:00"
+    },
+    {
+      "title": "Native all the way, until you need text",
+      "source": "hackernews-top",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168058",
+      "description": "",
+      "hn_score": 390,
+      "comments": 261,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "文章探讨了在原生应用开发中，当需要处理文本时，如何从原生技术栈转向使用大型语言模型（LLM）的实践。核心问题是原生应用在文本理解、生成或复杂语义处理上的局限性，LLM 提供了解决方案。技术亮点在于混合架构设计，将原生代码的高性能与 LLM 的文本能力结合。适用场景包括需要自然语言交互、文本分析或内容生成的移动或桌面应用。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-18T02:15:21.184262+00:00"
+    },
+    {
+      "title": "AI is a technology not a product",
+      "source": "hackernews-top",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "hn_url": "https://news.ycombinator.com/item?id=48168626",
+      "description": "",
+      "hn_score": 335,
+      "comments": 136,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "本文探讨AI作为一种基础技术而非成品产品的本质，指出当前市场过度包装AI为独立产品导致用户期望错位。核心观点是AI需嵌入具体应用场景（如搜索、编程、客服）才能发挥价值，解决技术落地与商业变现间的认知鸿沟。亮点在于区分技术能力与产品体验，强调开发者应聚焦于将AI作为组件集成到现有工作流中。适用场景包括AI产品经理、技术战略规划及初创公司定位。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-05-18T02:15:23.992287+00:00"
+    },
+    {
+      "title": "Apple Silicon costs more than OpenRouter",
+      "source": "hackernews-top",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48168198",
+      "description": "",
+      "hn_score": 298,
+      "comments": 254,
+      "collected_at": "2026-05-18T02:13:58.202420+00:00",
+      "published_at": "2026-05-18T02:13:58.202420+00:00",
+      "summary": "该条目对比Apple Silicon与OpenRouter的成本，指出Apple Silicon硬件成本高于使用OpenRouter等云API服务。核心解决AI开发者在本地部署与云端调用之间的成本权衡问题。技术亮点在于揭示本地推理硬件（Apple Silicon）的隐性成本（如购机、电费、维护）与按需API服务的性价比差异。适用场景为AI工程师选择推理基础设施时的成本效益分析。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-18T02:15:26.500656+00:00"
+    }
+  ]
+}
