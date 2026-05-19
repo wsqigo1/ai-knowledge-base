@@ -1,7 +1,197 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 226,
+  "total_count": 239,
   "entries": [
+    {
+      "id": "kb-2026-05-19-001",
+      "title": "Doorman11991/smallcode",
+      "source": "github-trending",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "file": "2026-05-19-doorman11991smallcode.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-002",
+      "title": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "source": "github-trending",
+      "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "file": "2026-05-19-abhishekk130804claude-mythos-ai-anthropi.json",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-003",
+      "title": "dex-original/okx-agent-trade-kit",
+      "source": "github-trending",
+      "url": "https://github.com/dex-original/okx-agent-trade-kit",
+      "file": "2026-05-19-dex-originalokx-agent-trade-kit.json",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-004",
+      "title": "Anthropic acquires Stainless",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "file": "2026-05-19-anthropic-acquires-stainless.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "api"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-005",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "source": "hackernews-top",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "file": "2026-05-19-we-stopped-ai-bot-spam-in-our-github-rep.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-006",
+      "title": "We let AIs run radio stations",
+      "source": "hackernews-top",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "file": "2026-05-19-we-let-ais-run-radio-stations.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-007",
+      "title": "The Quiet Renovation at Bitwarden",
+      "source": "hackernews-top",
+      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "file": "2026-05-19-the-quiet-renovation-at-bitwarden.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-008",
+      "title": "Project Glasswing: what Mythos showed us",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "file": "2026-05-19-project-glasswing-what-mythos-showed-us.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-009",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "source": "hackernews-top",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "file": "2026-05-19-agora-1-the-multi-agent-world-model.json",
+      "tags": [
+        "multi-agent",
+        "reasoning",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-010",
+      "title": "The Fil-C Optimized Calling Convention",
+      "source": "hackernews-top",
+      "url": "https://fil-c.org/calling_convention",
+      "file": "2026-05-19-the-fil-c-optimized-calling-convention.json",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-011",
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/InsForge/InsForge",
+      "file": "2026-05-19-show-hn-insforge-open-source-heroku-for-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "agent"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-012",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "file": "2026-05-19-alignment-pretraining-ai-discourse-creat.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
+    {
+      "id": "kb-2026-05-19-013",
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "file": "2026-05-19-voice-ai-systems-are-vulnerable-to-hidde.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-19T02:14:47.461309+00:00"
+    },
     {
       "id": "kb-2026-05-18-001",
       "title": "gi-dellav/zerostack",
@@ -3354,5 +3544,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-18T02:15:26.519486+00:00"
+  "last_updated": "2026-05-19T02:14:47.474959+00:00"
 }

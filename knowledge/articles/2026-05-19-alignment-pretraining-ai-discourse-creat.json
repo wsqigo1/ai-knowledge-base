@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-19-012",
+  "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2601.10160",
+  "summary": "该文章探讨AI对齐训练中的自我实现预言现象：当AI系统被训练以符合人类预设的对话模式时，可能强化而非纠正对齐偏差。核心观点是，对齐预训练（alignment pretraining）通过语言建模过程，使模型学会模仿训练数据中的对齐假设，从而在推理时产生自我强化的（mis）alignment。技术亮点在于揭示训练数据中的隐性偏见如何通过自回归生成被放大。适用场景包括AI对齐研究、模型安全评估和训练数据设计。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-19T02:12:59.380381+00:00",
+  "analyzed_at": "2026-05-19T02:14:39.605612+00:00",
+  "organized_at": "2026-05-19T02:14:47.461309+00:00",
+  "status": "published"
+}

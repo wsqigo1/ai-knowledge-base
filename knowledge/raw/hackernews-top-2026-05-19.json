@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-19T02:12:59.825380+00:00",
+  "date": "2026-05-19",
+  "count": 20,
+  "items": [
+    {
+      "title": "Click (2016)",
+      "source": "hackernews-top",
+      "url": "https://clickclickclick.click/",
+      "hn_url": "https://news.ycombinator.com/item?id=48187054",
+      "description": "",
+      "hn_score": 204,
+      "comments": 42,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Click是一个Python库，用于快速构建命令行接口（CLI），通过装饰器将函数自动转换为命令行命令，解决手动解析参数和生成帮助文档的痛点。核心亮点包括：基于类型注解自动推断参数类型、支持嵌套命令组、零配置即可生成美观的帮助信息。适用于需要快速开发CLI工具的Python开发者，尤其适合数据科学、运维脚本和微服务管理场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-05-19T02:13:57.182092+00:00"
+    },
+    {
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "source": "hackernews-top",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48187201",
+      "description": "",
+      "hn_score": 104,
+      "comments": 64,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Anthropic联合创始人将与教皇Leo XIV共同发布AI通谕，探讨人工智能伦理与神学交叉议题。该事件旨在为AI发展提供道德框架，解决技术滥用与人类价值冲突问题。核心亮点是宗教领袖与顶尖AI实验室的罕见合作，可能影响全球AI治理政策。适用场景包括AI伦理研究、政策制定及公众教育。",
+      "tags": [
+        "ai-assistant",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-19T02:13:59.706535+00:00"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "hn_url": "https://news.ycombinator.com/item?id=48182281",
+      "description": "",
+      "hn_score": 364,
+      "comments": 255,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Anthropic 收购了 API 平台公司 Stainless，旨在优化其模型服务的开发者体验。Stainless 提供自动生成高质量 API 客户端 SDK 的工具，解决 API 集成中常见的文档不一致、版本管理复杂等问题。核心技术亮点包括自动化 SDK 生成、类型安全支持及多语言兼容。适用场景为 Anthropic 模型 API 的快速集成与维护，提升开发者效率。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "api"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-19T02:14:02.505514+00:00"
+    },
+    {
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "source": "hackernews-top",
+      "url": "https://hyperpolyglot.org/lisp",
+      "hn_url": "https://news.ycombinator.com/item?id=48184322",
+      "description": "",
+      "hn_score": 133,
+      "comments": 28,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Hyperpolyglot Lisp 是一个对比 Common Lisp、Racket、Clojure、Emacs Lisp 四种 Lisp 方言的参考页面，解决开发者选择或切换 Lisp 方言时需快速了解语法、特性差异的问题。核心亮点是并排展示各语言在函数定义、宏、并发、类型系统等关键维度的代码示例，支持快速横向对比。适用于 Lisp 学习者、多语言开发者或需要评估方言适用场景的技术选型。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-19T02:14:05.416038+00:00"
+    },
+    {
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "source": "hackernews-top",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48181125",
+      "description": "",
+      "hn_score": 415,
+      "comments": 190,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Git的--author flag被用于阻止GitHub仓库中的AI机器人垃圾提交。该技术通过检查提交作者信息，过滤掉非人类作者的自动PR，解决开源项目被AI生成的无意义代码污染问题。核心亮点是无需第三方工具，仅利用Git原生功能实现轻量级防护。适用于维护者希望保持代码库质量、减少AI垃圾干扰的开源项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-05-19T02:14:08.162208+00:00"
+    },
+    {
+      "title": "We let AIs run radio stations",
+      "source": "hackernews-top",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "hn_url": "https://news.ycombinator.com/item?id=48183301",
+      "description": "",
+      "hn_score": 171,
+      "comments": 161,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "该项目让AI自主运营广播电台，解决传统电台内容策划、播放和互动依赖人工的问题。核心技术亮点包括利用LLM生成节目内容、实时语音合成、以及基于听众反馈的动态调整机制。适用场景为自动化媒体、个性化音频内容生成和24/7无人值守广播服务。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-19T02:14:10.724760+00:00"
+    },
+    {
+      "title": "The Quiet Renovation at Bitwarden",
+      "source": "hackernews-top",
+      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "hn_url": "https://news.ycombinator.com/item?id=48163389",
+      "description": "",
+      "hn_score": 532,
+      "comments": 246,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Bitwarden 正在进行一次低调但重大的架构升级，旨在解决密码管理器在跨平台同步、安全性和性能上的长期痛点。核心技术亮点包括引入 Rust 重写核心加密逻辑以提升安全性与跨平台一致性，采用更高效的同步协议减少延迟，并优化了浏览器扩展的响应速度。适用于需要高安全性密码管理、多设备同步的企业和个人用户。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-19T02:14:13.421596+00:00"
+    },
+    {
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "source": "hackernews-top",
+      "url": "https://github.com/zakirullin/files.md",
+      "hn_url": "https://news.ycombinator.com/item?id=48179677",
+      "description": "",
+      "hn_score": 555,
+      "comments": 281,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Files.md 是一个开源的 Markdown 笔记应用，旨在替代 Obsidian。它解决用户对数据隐私和自定义控制的需求，核心亮点包括本地优先存储、纯文本格式、支持插件扩展和实时预览。适用场景为个人知识管理、技术文档编写和轻量级协作。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-19T02:14:15.408164+00:00"
+    },
+    {
+      "title": "Project Glasswing: what Mythos showed us",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=48179732",
+      "description": "",
+      "hn_score": 285,
+      "comments": 108,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Project Glasswing 是 Mythos 团队展示的一个项目，旨在解决 AI 系统在复杂环境中的可解释性和透明度问题。其核心技术亮点是通过可视化技术将模型内部推理过程直观呈现，帮助开发者理解 LLM 决策路径。适用于 AI 模型调试、安全审计和教育场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-19T02:14:17.703688+00:00"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48182754",
+      "description": "",
+      "hn_score": 792,
+      "comments": 417,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Elon Musk 起诉 Sam Altman 和 OpenAI 的案件被法院驳回，核心争议在于 Musk 指控 OpenAI 背离非营利使命转向营利模式。法院认为 Musk 未能提供充分证据证明 OpenAI 违反合同或信托责任。该案反映了 AI 治理中开源与商业化之间的张力，对理解 AI 公司治理结构和法律框架有参考价值。适用场景：AI 政策研究、公司治理分析。",
+      "tags": [
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-19T02:14:20.138642+00:00"
+    },
+    {
+      "title": "Agora-1: The Multi-Agent World Model",
+      "source": "hackernews-top",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48183748",
+      "description": "",
+      "hn_score": 82,
+      "comments": 16,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Agora-1 是一个多智能体世界模型，旨在解决复杂环境中多个AI智能体协同决策与规划的问题。其核心技术亮点在于构建统一的共享世界表征，使各智能体能够基于动态更新的环境状态进行推理与行动，支持分布式协作与冲突解决。适用场景包括机器人集群控制、自动驾驶车队协调、多玩家游戏AI及大规模模拟系统。",
+      "tags": [
+        "multi-agent",
+        "reasoning",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-19T02:14:22.900776+00:00"
+    },
+    {
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "source": "hackernews-top",
+      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48184350",
+      "description": "",
+      "hn_score": 227,
+      "comments": 91,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "FBI计划全国性购买车牌读取器（ALPR）数据访问权限，引发隐私与监控争议。该技术通过摄像头网络实时捕获车牌信息并关联位置数据，解决执法中车辆追踪与犯罪调查的效率问题。核心亮点在于大规模数据聚合与跨州共享能力，但缺乏透明监管。适用场景包括刑事侦查、交通监控及反恐行动，但可能被滥用于无证监控。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-19T02:14:25.862612+00:00"
+    },
+    {
+      "title": "Two computers, one monitor, zero fiddling (2025)",
+      "source": "hackernews-top",
+      "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48156186",
+      "description": "",
+      "hn_score": 172,
+      "comments": 96,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "该条目介绍了一种在2025年实现两台电脑共享一台显示器且无需手动切换的解决方案。它解决了多主机环境下显示器输入源频繁手动切换的痛点。核心技术亮点包括利用KVM（键盘-视频-鼠标）切换器或软件定义的显示路由，实现自动检测和切换。适用场景为多设备办公、开发调试或家庭娱乐，提升工作效率。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-19T02:14:28.902204+00:00"
+    },
+    {
+      "title": "The Fil-C Optimized Calling Convention",
+      "source": "hackernews-top",
+      "url": "https://fil-c.org/calling_convention",
+      "hn_url": "https://news.ycombinator.com/item?id=48162876",
+      "description": "",
+      "hn_score": 115,
+      "comments": 20,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "The Fil-C Optimized Calling Convention 是一种针对函数调用优化的调用约定，旨在解决传统调用约定在性能、安全性和兼容性上的不足。其核心技术亮点包括减少栈帧开销、优化寄存器分配以及增强控制流完整性。适用于高性能计算、系统编程和编译器优化场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-19T02:14:31.189362+00:00"
+    },
+    {
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/InsForge/InsForge",
+      "hn_url": "https://news.ycombinator.com/item?id=48181342",
+      "description": "",
+      "hn_score": 34,
+      "comments": 6,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "InsForge 是一个开源平台，旨在为编码代理提供类似 Heroku 的托管和部署体验。它解决了 AI 编码代理在开发后缺乏标准化部署环境的问题，核心亮点在于提供一键部署、自动扩展和与多种编码代理框架的集成。适用于需要快速部署和测试 AI 生成代码的开发者或团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-19T02:14:33.786264+00:00"
+    },
+    {
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "source": "hackernews-top",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "hn_url": "https://news.ycombinator.com/item?id=48182592",
+      "description": "",
+      "hn_score": 266,
+      "comments": 433,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "伊朗推出基于比特币的船舶保险，用于霍尔木兹海峡航运。该方案利用区块链技术实现去中心化保险，解决传统保险因制裁无法覆盖该区域的风险问题。核心亮点是比特币作为抵押资产，通过智能合约自动赔付，无需传统金融机构参与。适用场景为高风险航运路线保险、制裁环境下的金融创新。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 2.1,
+      "analyzed_at": "2026-05-19T02:14:36.183395+00:00"
+    },
+    {
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "hn_url": "https://news.ycombinator.com/item?id=48185938",
+      "description": "",
+      "hn_score": 22,
+      "comments": 10,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "该文章探讨AI对齐训练中的自我实现预言现象：当AI系统被训练以符合人类预设的对话模式时，可能强化而非纠正对齐偏差。核心观点是，对齐预训练（alignment pretraining）通过语言建模过程，使模型学会模仿训练数据中的对齐假设，从而在推理时产生自我强化的（mis）alignment。技术亮点在于揭示训练数据中的隐性偏见如何通过自回归生成被放大。适用场景包括AI对齐研究、模型安全评估和训练数据设计。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-19T02:14:39.605612+00:00"
+    },
+    {
+      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+      "source": "hackernews-top",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+      "hn_url": "https://news.ycombinator.com/item?id=48184635",
+      "description": "",
+      "hn_score": 136,
+      "comments": 61,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Shutterstock因订阅取消流程复杂难操作，被罚3500万美元。该事件暴露了SaaS行业在用户取消订阅时设置障碍的普遍问题，核心在于设计不透明的取消流程和隐藏条款。技术亮点在于监管机构通过用户行为数据和投诉记录取证，适用场景为订阅制服务合规性审查与用户权益保护。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-19T02:14:42.125355+00:00"
+    },
+    {
+      "title": "What Is Date:Italy?",
+      "source": "hackernews-top",
+      "url": "http://aesthetikx.info/blog/date_italy.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48162157",
+      "description": "",
+      "hn_score": 132,
+      "comments": 54,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "What Is Date:Italy? 是一个探讨意大利日期格式与文化的技术话题，主要解决国际日期表示混乱问题。核心亮点在于对比ISO 8601标准与意大利本地习惯（DD/MM/YYYY），并分析其历史与实用影响。适用场景包括国际化软件开发、数据格式标准化及跨文化用户界面设计。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-19T02:14:44.540791+00:00"
+    },
+    {
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "hn_url": "https://news.ycombinator.com/item?id=48178378",
+      "description": "",
+      "hn_score": 110,
+      "comments": 29,
+      "collected_at": "2026-05-19T02:12:59.380381+00:00",
+      "published_at": "2026-05-19T02:12:59.380381+00:00",
+      "summary": "Voice AI systems（语音AI系统）存在被隐藏音频攻击（hidden audio attacks）的漏洞，攻击者可通过嵌入人耳无法察觉的扰动信号操控语音助手行为。该研究揭示了当前语音识别模型在对抗性样本下的脆弱性，核心攻击方法包括利用心理声学掩蔽效应生成对抗性扰动。适用于语音助手、智能音箱等语音交互系统的安全评估与防御加固场景。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-19T02:14:47.453855+00:00"
+    }
+  ]
+}

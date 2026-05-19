@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-19-013",
+  "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+  "source": "hackernews-top",
+  "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+  "summary": "Voice AI systems（语音AI系统）存在被隐藏音频攻击（hidden audio attacks）的漏洞，攻击者可通过嵌入人耳无法察觉的扰动信号操控语音助手行为。该研究揭示了当前语音识别模型在对抗性样本下的脆弱性，核心攻击方法包括利用心理声学掩蔽效应生成对抗性扰动。适用于语音助手、智能音箱等语音交互系统的安全评估与防御加固场景。",
+  "tags": [
+    "multimodal",
+    "benchmark",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-19T02:12:59.380381+00:00",
+  "analyzed_at": "2026-05-19T02:14:47.453855+00:00",
+  "organized_at": "2026-05-19T02:14:47.461309+00:00",
+  "status": "published"
+}
