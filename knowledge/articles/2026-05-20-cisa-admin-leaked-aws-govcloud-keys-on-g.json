@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-20-014",
+  "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+  "source": "hackernews-top",
+  "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+  "summary": "美国网络安全和基础设施安全局（CISA）一名管理员在GitHub上泄露了AWS GovCloud密钥，导致敏感政府云环境面临安全风险。该事件暴露了密钥管理流程的漏洞，核心问题是缺乏自动化密钥扫描和访问控制机制。技术亮点涉及密钥泄露检测、云安全策略审计及GitHub凭据监控。适用场景包括政府云安全、DevSecOps实践和敏感数据泄露防护。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-20T02:11:55.988058+00:00",
+  "analyzed_at": "2026-05-20T02:13:24.421807+00:00",
+  "organized_at": "2026-05-20T02:13:32.027414+00:00",
+  "status": "published"
+}

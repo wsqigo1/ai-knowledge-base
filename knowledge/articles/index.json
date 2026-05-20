@@ -1,7 +1,213 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 239,
+  "total_count": 253,
   "entries": [
+    {
+      "id": "kb-2026-05-20-001",
+      "title": "vercel-labs/zerolang",
+      "source": "github-trending",
+      "url": "https://github.com/vercel-labs/zerolang",
+      "file": "2026-05-20-vercel-labszerolang.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-002",
+      "title": "husu/loom",
+      "source": "github-trending",
+      "url": "https://github.com/husu/loom",
+      "file": "2026-05-20-husuloom.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-003",
+      "title": "evilsocket/audit",
+      "source": "github-trending",
+      "url": "https://github.com/evilsocket/audit",
+      "file": "2026-05-20-evilsocketaudit.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-004",
+      "title": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
+      "source": "github-trending",
+      "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
+      "file": "2026-05-20-dangerous-holepumpfun-ai-trading-bot.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-005",
+      "title": "SalhaNabil/CloakBrowser",
+      "source": "github-trending",
+      "url": "https://github.com/SalhaNabil/CloakBrowser",
+      "file": "2026-05-20-salhanabilcloakbrowser.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.1,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-006",
+      "title": "LiuMengxuan04/shushu-internship-tool",
+      "source": "github-trending",
+      "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+      "file": "2026-05-20-liumengxuan04shushu-internship-tool.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-007",
+      "title": "haidang1810/md2html",
+      "source": "github-trending",
+      "url": "https://github.com/haidang1810/md2html",
+      "file": "2026-05-20-haidang1810md2html.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-008",
+      "title": "Gemini 3.5 Flash",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "file": "2026-05-20-gemini-35-flash.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-009",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "source": "hackernews-top",
+      "url": "https://virtualosmuseum.org/",
+      "file": "2026-05-20-ive-built-a-virtual-museum-with-nearly-e.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-010",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "file": "2026-05-20-openai-adopts-googles-synthid-watermark-.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-011",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "source": "hackernews-top",
+      "url": "https://github.com/antoinezambelli/forge",
+      "file": "2026-05-20-show-hn-forge-guardrails-take-an-8b-mode.json",
+      "tags": [
+        "agent",
+        "guardrails",
+        "large-language-model",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 8.6,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-012",
+      "title": "Mistral AI acquires Emmi AI",
+      "source": "hackernews-top",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "file": "2026-05-20-mistral-ai-acquires-emmi-ai.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-013",
+      "title": "Growing Neural Cellular Automata",
+      "source": "hackernews-top",
+      "url": "https://distill.pub/2020/growing-ca/",
+      "file": "2026-05-20-growing-neural-cellular-automata.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
+    {
+      "id": "kb-2026-05-20-014",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "source": "hackernews-top",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "file": "2026-05-20-cisa-admin-leaked-aws-govcloud-keys-on-g.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-20T02:13:32.027414+00:00"
+    },
     {
       "id": "kb-2026-05-19-001",
       "title": "Doorman11991/smallcode",
@@ -3544,5 +3750,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-19T02:14:47.474959+00:00"
+  "last_updated": "2026-05-20T02:13:32.041806+00:00"
 }

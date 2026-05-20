@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-20-010",
+  "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/advancing-content-provenance/",
+  "summary": "OpenAI 采用 Google 的 SynthID 水印技术为 AI 生成图像添加不可见数字水印，并推出配套验证工具。该技术通过在图像像素中嵌入不可感知的标识，解决 AI 图像溯源与防伪问题。核心亮点是水印抗裁剪、压缩等常见编辑操作，且不依赖外部元数据。适用于需要验证 AI 图像真实性的内容平台、新闻机构及社交媒体场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-20T02:11:55.988058+00:00",
+  "analyzed_at": "2026-05-20T02:12:55.764729+00:00",
+  "organized_at": "2026-05-20T02:13:32.027414+00:00",
+  "status": "published"
+}

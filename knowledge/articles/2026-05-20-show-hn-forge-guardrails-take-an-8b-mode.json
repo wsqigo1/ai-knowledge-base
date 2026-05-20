@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-20-011",
+  "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+  "source": "hackernews-top",
+  "url": "https://github.com/antoinezambelli/forge",
+  "summary": "Forge 是一个为 agentic 任务设计的 guardrails 框架，通过规则约束和验证机制，将 8B 参数模型在 agentic 任务上的成功率从 53% 提升至 99%。核心亮点在于结合了输入输出验证、行为约束和错误恢复策略，确保 LLM 在复杂多步任务中不偏离目标。适用于需要高可靠性的自动化 agent 系统，如代码生成、工具调用和多 agent 协作场景。",
+  "tags": [
+    "agent",
+    "guardrails",
+    "large-language-model",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 8.6,
+  "collected_at": "2026-05-20T02:11:55.988058+00:00",
+  "analyzed_at": "2026-05-20T02:13:00.631242+00:00",
+  "organized_at": "2026-05-20T02:13:32.027414+00:00",
+  "status": "published"
+}
