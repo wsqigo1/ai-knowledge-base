@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-21-013",
+  "title": "How fast is N tokens per second really?",
+  "source": "hackernews-top",
+  "url": "https://mikeveerman.github.io/tokenspeed/",
+  "summary": "该文章探讨了LLM推理速度指标“N tokens per second”的实际感知差异，解决用户对抽象速度数值缺乏直观理解的问题。核心亮点在于通过对比人类阅读速度、实时交互延迟等场景，量化不同token速率对用户体验的影响，并分析模型架构、硬件配置等因素。适用场景包括模型选型评估、推理部署优化及用户界面设计。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-21T02:11:08.353369+00:00",
+  "analyzed_at": "2026-05-21T02:11:58.765890+00:00",
+  "organized_at": "2026-05-21T02:12:30.214198+00:00",
+  "status": "published"
+}

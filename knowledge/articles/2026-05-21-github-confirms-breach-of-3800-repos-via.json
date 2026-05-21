@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-21-010",
+  "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+  "source": "hackernews-top",
+  "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+  "summary": "GitHub确认3800个仓库因恶意VSCode扩展被入侵，攻击者通过伪装成合法扩展窃取开发者凭证和令牌。该事件暴露了IDE扩展生态的安全漏洞，尤其是缺乏对第三方扩展的严格审核机制。核心问题在于扩展权限过大且用户难以验证其行为。适用场景包括企业安全审计、开发者工具供应链安全加固。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "security"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-21T02:11:08.353369+00:00",
+  "analyzed_at": "2026-05-21T02:11:52.186948+00:00",
+  "organized_at": "2026-05-21T02:12:30.214198+00:00",
+  "status": "published"
+}

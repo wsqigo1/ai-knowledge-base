@@ -1,0 +1,539 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-21T02:11:10.073126+00:00",
+  "date": "2026-05-21",
+  "count": 19,
+  "items": [
+    {
+      "title": "vercel-labs/zerolang",
+      "source": "github-trending",
+      "url": "https://github.com/vercel-labs/zerolang",
+      "description": "The programming language for agents",
+      "stars": 3989,
+      "language": "C",
+      "topics": [],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-21T02:07:30Z",
+      "summary": "Zerolang 是 Vercel Labs 开发的专为 AI 智能体设计的编程语言，旨在解决现有语言在智能体任务中表达力不足、工具调用复杂的问题。核心亮点包括原生支持异步协作、工具链集成和上下文管理，采用 C 语言实现以追求高性能。适用于构建需要复杂交互和工具编排的智能体系统，如自动化工作流和自主决策代理。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-21T02:11:12.306788+00:00"
+    },
+    {
+      "title": "DenisSergeevitch/agents-best-practices",
+      "source": "github-trending",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+      "stars": 903,
+      "language": null,
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "agentic-workflows",
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-skill",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-15T23:01:42Z",
+      "summary": "这是一个提供与供应商无关的 Agent Skill 的开源项目，旨在解决 AI 编码助手（如 Codex、Claude Code）在 agentic 工作流中技能复用和设计不一致的问题。核心技术亮点是抽象出通用的 agent skill 接口和 agentic harness 设计模式，允许开发者跨不同 AI 平台使用相同的技能定义。适用场景包括构建可移植的 AI 代理工作流、自动化编码任务以及多平台 agent 系统开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-05-21T02:11:14.437102+00:00"
+    },
+    {
+      "title": "Doorman11991/smallcode",
+      "source": "github-trending",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "stars": 843,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T20:33:37Z",
+      "summary": "Doorman11991/smallcode 是一个针对小型LLM优化的AI编码代理，旨在解决资源受限场景下的代码生成问题。其核心技术亮点是通过4B活跃参数的模型实现87%的基准测试得分，显著提升了小模型的编码能力。适用于边缘设备或低算力环境下的自动化代码生成与辅助编程。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-21T02:11:16.083975+00:00"
+    },
+    {
+      "title": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "source": "github-trending",
+      "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
+      "stars": 577,
+      "language": "C#",
+      "topics": [
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-cli",
+        "claude-code-hooks",
+        "claude-code-marketplace",
+        "claude-code-plugin",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "claude-code-skills",
+        "claude-code-subagents",
+        "claude-cowork-free",
+        "claude-design-ai",
+        "claude-design-alternative",
+        "claude-design-download",
+        "claude-design-free",
+        "claude-mythos",
+        "claude-opus",
+        "claude-opus-4-6",
+        "mythos"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-18T17:08:14Z",
+      "summary": "Claude-Mythos-AI-Anthropic-App 是一个基于 C# 的开源 LLM 前端，旨在提供免费访问 Claude 模型（包括 Opus、Sonnet）的桌面与移动端应用。它解决 Claude API 付费门槛高、缺乏灵活客户端的问题，核心亮点包括 Mythos 角色扮演设计、SillyTavern 提示词格式化、自定义系统提示 jailbreak 以及反向代理支持。适用场景为创意写作、角色扮演和低成本 Claude API 调用。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-21T02:11:17.978469+00:00"
+    },
+    {
+      "title": "SalhaNabil/CloakBrowser",
+      "source": "github-trending",
+      "url": "https://github.com/SalhaNabil/CloakBrowser",
+      "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github ",
+      "stars": 467,
+      "language": "TypeScript",
+      "topics": [
+        "anti-detect",
+        "anti-detect-browser",
+        "antidetect-browser",
+        "chromium",
+        "cloak-browser",
+        "cloak-browser-github",
+        "cloakbrowser",
+        "cloakbrowser-download",
+        "cloakbrowser-downloader",
+        "cloakbrowser-install",
+        "cloakbrowser-installer",
+        "stealth-browser"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-19T17:31:51Z",
+      "summary": "CloakBrowser 是一个基于 Chromium 源码级修改的反检测浏览器，通过打补丁实现浏览器指纹欺骗、Canvas/WebGL 修改、User-Agent 切换、Cookie 隔离与代理管理，支持 Puppeteer/Playwright 自动化 API 和多账户管理。核心亮点是源码级 Chromium 补丁而非插件方案，提供更底层的指纹伪装能力。适用于需要多账户运营、网页抓取、反爬虫规避的场景，如社交媒体管理、广告验证、数据采集。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-05-21T02:11:19.973291+00:00"
+    },
+    {
+      "title": "shannhk/hermes-agent-control-room",
+      "source": "github-trending",
+      "url": "https://github.com/shannhk/hermes-agent-control-room",
+      "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
+      "stars": 389,
+      "language": "Shell",
+      "topics": [
+        "agent-control-room",
+        "ai-agents",
+        "hermes-agent",
+        "multi-agent",
+        "vps"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-16T19:30:12Z",
+      "summary": "Hermes Agent Control Room 是一个基于 Control Room 模板的开源项目，旨在通过单一 VPS 代理管理多个 Hermes 智能体，支持从单个代理到专家团队及编排工作流的扩展。核心亮点包括 Shell 脚本实现的轻量级多代理协调机制、VPS 环境下的高效资源利用，以及可定制的团队协作工作流。适用于需要低成本部署多代理系统、自动化任务编排或构建 AI 助手集群的场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-21T02:11:22.201253+00:00"
+    },
+    {
+      "title": "evilsocket/audit",
+      "source": "github-trending",
+      "url": "https://github.com/evilsocket/audit",
+      "description": "An 8-stage vulnerability-discovery agent.",
+      "stars": 374,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-19T12:01:54Z",
+      "summary": "evilsocket/audit 是一个基于 Python 的 8 阶段漏洞发现代理，旨在自动化渗透测试中的漏洞识别流程。它通过分阶段逐步深入的方式，结合多种安全检测技术，解决传统手动漏洞挖掘效率低、覆盖不全的问题。核心技术亮点包括模块化设计、多阶段推理与自动化决策，适用于安全研究人员、红队工程师的自动化漏洞扫描与评估场景。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-21T02:11:24.090420+00:00"
+    },
+    {
+      "title": "agentic-in/elephant-agent",
+      "source": "github-trending",
+      "url": "https://github.com/agentic-in/elephant-agent",
+      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "stars": 367,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "context",
+        "llm",
+        "memory",
+        "models",
+        "personal-ai",
+        "self-evolution"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T17:16:10Z",
+      "summary": "Elephant-agent 是一个以个人模型优先的自我进化 AI 智能体框架，旨在解决传统 LLM 应用缺乏持续学习和个性化适应能力的问题。其核心技术亮点包括：基于 agentic 架构实现自主上下文管理，支持模型自我迭代进化，以及通过 Python 实现轻量级部署。适用场景包括需要长期记忆和个性化交互的个人助理、自动化工作流以及持续学习型 AI 应用。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "multi-agent",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-21T02:11:25.986842+00:00"
+    },
+    {
+      "title": "CylinderChairman/aida64",
+      "source": "github-trending",
+      "url": "https://github.com/CylinderChairman/aida64",
+      "description": "aida64 unlocker extreme edition",
+      "stars": 334,
+      "language": "PowerShell",
+      "topics": [
+        "aida64",
+        "aida64-extreme-patch",
+        "aida64-unlocker"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T11:25:31Z",
+      "summary": "A PowerShell-based tool for unlocking AIDA64 Extreme Edition, removing license restrictions to enable full hardware diagnostics and monitoring features. It solves the problem of accessing premium features without purchasing a license. Core technical highlight is a scripted patch mechanism that modifies software licensing checks. Applicable for enthusiasts and technicians needing free access to advanced system benchmarking and sensor data.",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-21T02:11:28.078322+00:00"
+    },
+    {
+      "title": "husu/loom",
+      "source": "github-trending",
+      "url": "https://github.com/husu/loom",
+      "description": "一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具",
+      "stars": 329,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-19T02:43:49Z",
+      "summary": "husu/loom 是一个基于 AI Agent 的接口文档编写工具，支持 Vibe coding 方式生成文档，并集成文档查看与接口 Mock 功能。它解决传统接口文档编写繁琐、维护困难的问题，通过自然语言交互降低开发者的文档编写成本。核心技术亮点包括 AI 驱动的文档生成、内置 Mock 服务以及友好的文档展示界面。适用于需要快速生成高质量 API 文档的团队或个人开发者，尤其在敏捷开发或原型验证阶段。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-21T02:11:30.285331+00:00"
+    },
+    {
+      "title": "MFS9628/Deepseek-v4-pro-app",
+      "source": "github-trending",
+      "url": "https://github.com/MFS9628/Deepseek-v4-pro-app",
+      "description": "DeepSeek v4 Pro github Flash chat: API flash gemma 4 gemini qwen claude chatgpt 4  key pricing tier, open source weights, huggingface model repository, local execution ollama setup. context window token limit, coding benchmark leaderboard ranking, reasoning model architecture v4,  .visual studio code extension integration, cursor ai ",
+      "stars": 299,
+      "language": null,
+      "topics": [
+        "ai-app",
+        "ai-powered-applications",
+        "artificial-intelligence-projects",
+        "deep-seek",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-free-api",
+        "deepseek-integration",
+        "deepseek-ocr-2",
+        "deepseek-r1",
+        "deepseek-r1-zero",
+        "deepseek-v3",
+        "deepseek-v4",
+        "deepseek-v4-api",
+        "deepseek-v4-app",
+        "deepseek-v4-free",
+        "deepseek-v4-pro",
+        "deepseekv4",
+        "deepseekv4-flash",
+        "free-api"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T14:34:29Z",
+      "summary": "MFS9628/Deepseek-v4-pro-app 是一个集成 DeepSeek v4 Pro 的 AI 应用，提供 API 调用、模型权重、HuggingFace 仓库及本地 Ollama 部署支持。它解决多模型（如 Gemini、Qwen、Claude、ChatGPT）统一访问与定价层级对比问题，核心亮点包括 context window 限制、coding benchmark 排名、推理架构 v4 及 VS Code 扩展集成。适用场景为开发者快速搭建多模型 AI 助手、代码生成与本地推理实验。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-21T02:11:32.418530+00:00"
+    },
+    {
+      "title": "LiuMengxuan04/shushu-internship-tool",
+      "source": "github-trending",
+      "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+      "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+      "stars": 280,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "skills"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-18T13:08:37Z",
+      "summary": "Shushu-internship-tool 是一个基于 AI 的求职辅助工具链，通过 Python 和 AI Agents 技术，将岗位描述转化为项目经验，再将项目经验转化为简历内容，最后将简历转化为面试准备材料。核心亮点是利用 LLM 和 agent 自动化处理文本转换与匹配，解决求职者从岗位匹配到面试准备的流程痛点。适用于求职者快速生成定制化简历和面试问题，提升求职效率。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "workflow-automation",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-21T02:11:34.840073+00:00"
+    },
+    {
+      "title": "basketikun/infinite-canvas",
+      "source": "github-trending",
+      "url": "https://github.com/basketikun/infinite-canvas",
+      "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。",
+      "stars": 254,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T09:53:28Z",
+      "summary": "basketikun/infinite-canvas 是一个基于 TypeScript 的开源无限画布工作台，专为 AI 创作设计。它解决 AI 生成内容缺乏统一编辑与组织环境的问题，核心亮点包括集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能，提供一站式创作工作流。适用场景包括 AI 艺术创作、设计原型迭代、多模态内容编排和创意项目管理。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-21T02:11:36.766230+00:00"
+    },
+    {
+      "title": "agent-quality-controls/slopless",
+      "source": "github-trending",
+      "url": "https://github.com/agent-quality-controls/slopless",
+      "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
+      "stars": 249,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cli",
+        "lint",
+        "linter",
+        "llm",
+        "markdown",
+        "nodejs",
+        "prose",
+        "quality",
+        "slop",
+        "static-analysis",
+        "style-guide",
+        "textlint",
+        "typescript",
+        "writing"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T17:42:39Z",
+      "summary": "Slopless 是一个确定性 textlint 规则集与 CLI 工具，用于检测 Markdown 文本中的模糊、冗余或低质量表达（即“prose slop”）。核心亮点在于提供可编程的确定性规则，而非依赖 LLM 概率判断，从而在文档、博客、技术写作等场景中实现一致且可重复的文本质量检查。适用于需要严格把控文档质量的 AI 项目或开源仓库。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-21T02:11:38.662746+00:00"
+    },
+    {
+      "title": "lynote-ai/humanize-text",
+      "source": "github-trending",
+      "url": "https://github.com/lynote-ai/humanize-text",
+      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "stars": 241,
+      "language": "Python",
+      "topics": [
+        "ai-humanize",
+        "ai-humanizer",
+        "gptzero-bypass",
+        "humanization",
+        "humanize-ai",
+        "humanize-ai-text",
+        "humanize-text",
+        "humanizer",
+        "undetectable-ai-alternative"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T03:20:42Z",
+      "summary": "lynote-ai/humanize-text 是一个开源 AI 文本人性化工具，旨在将 AI 生成内容转化为难以被检测的类人写作。解决 AI 内容绕过 Turnitin、GPTZero 等检测器的问题。核心技术基于 Python 实现，无需注册即可无限使用。适用场景包括学术写作、内容创作中需要规避 AI 检测的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-21T02:11:40.283245+00:00"
+    },
+    {
+      "title": "luoling8192/technical-writing",
+      "source": "github-trending",
+      "url": "https://github.com/luoling8192/technical-writing",
+      "description": "中文内部技术写作的 agent skill，约束设计文档 / 评审稿 / postmortem / 分享稿场景的语气、句法、结构",
+      "stars": 175,
+      "language": null,
+      "topics": [
+        "agent-skill",
+        "chinese",
+        "claude-code",
+        "codex",
+        "documentation",
+        "technical-writing"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-16T08:41:43Z",
+      "summary": "这是一个面向中文技术写作的 agent skill 项目，定义了约束设计文档、评审稿、postmortem、分享稿等场景的语气、句法和结构规则。它解决了技术团队内部文档质量参差不齐、风格不统一的问题，通过可配置的 agent skill 实现自动化写作规范。核心技术亮点是将写作规范编码为 agent 可执行的约束规则，支持 Claude Code 和 Codex 等工具。适用于需要提升技术文档质量和一致性的开发团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-21T02:11:42.368664+00:00"
+    },
+    {
+      "title": "basionwang-bot/HermesPet",
+      "source": "github-trending",
+      "url": "https://github.com/basionwang-bot/HermesPet",
+      "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
+      "stars": 167,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "chatgpt",
+        "chinese",
+        "claude",
+        "deepseek",
+        "desktop-app",
+        "dynamic-island",
+        "llm",
+        "macos",
+        "menu-bar-app",
+        "swift",
+        "swiftui"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-20T16:34:32Z",
+      "summary": "HermesPet 是一个基于 Swift 6 和 SwiftUI 构建的 macOS 桌面 AI 伴侣应用，零依赖、开箱即用，支持 ChatGPT、Claude、DeepSeek 等多引擎并行。它解决用户在 MacBook 上缺乏轻量、原生 AI 交互伴侣的问题，核心亮点包括多模型切换、本地化中文支持、刘海屏集成。适用于日常 AI 对话、快速查询、桌面陪伴等场景。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-21T02:11:44.180496+00:00"
+    },
+    {
+      "title": "japp-fi/polymarket-mcp-server",
+      "source": "github-trending",
+      "url": "https://github.com/japp-fi/polymarket-mcp-server",
+      "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2",
+      "stars": 152,
+      "language": "TypeScript",
+      "topics": [
+        "mcp-server",
+        "mcp-servers",
+        "polymarket",
+        "polymarket-mcp-server"
+      ],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-16T04:14:45Z",
+      "summary": "polymarket-mcp-server 是一个基于 MCP 协议的服务，通过公共 API 提供 Polymarket 市场发现与分析功能，可选支持钱包派生的 CLOB L2 凭证进行认证交易和投资组合管理。核心亮点在于将预测市场数据与 MCP 工具链集成，实现市场查询、交易执行和资产监控的标准化接口。适用场景包括 AI 驱动的预测市场分析、自动化交易策略开发及去中心化金融数据接入。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-21T02:11:46.208351+00:00"
+    },
+    {
+      "title": "datawhalechina/Agent-Learning-Hub",
+      "source": "github-trending",
+      "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+      "description": "AI Agent 学习路线与资料库收集",
+      "stars": 148,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-05-21T02:11:08.133060+00:00",
+      "published_at": "2026-05-18T15:47:50Z",
+      "summary": "datawhalechina/Agent-Learning-Hub 是一个 AI Agent 学习路线与资料库收集项目，旨在为开发者提供系统化的 Agent 学习路径和资源。它解决了 Agent 领域知识分散、学习门槛高的问题，通过整理教程、论文、代码示例等资料，帮助用户快速掌握 Agent 构建、multi-agent 协作、tool-use 等核心技术。亮点包括社区驱动的持续更新、结构化学习路线和实战导向。适用场景包括 AI 工程师入门 Agent 开发、团队技术培训、以及探索 multi-agent 系统应用。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-21T02:11:48.482836+00:00"
+    }
+  ]
+}

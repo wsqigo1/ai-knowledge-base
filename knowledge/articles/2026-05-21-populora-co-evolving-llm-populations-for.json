@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-21-019",
+  "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+  "source": "hackernews-top",
+  "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+  "summary": "PopuLoRA是一种通过群体协同进化实现LLM推理自我对弈的方法。它解决单一模型自我对弈中多样性不足和性能瓶颈问题。核心技术包括：使用LoRA参数化多个模型实例形成群体，通过交叉验证和进化策略迭代优化，使不同模型在推理任务中相互竞争与合作。适用场景包括数学推理、逻辑推理等需要多步推理能力的任务。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "multi-agent"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-21T02:11:08.353369+00:00",
+  "analyzed_at": "2026-05-21T02:12:26.134030+00:00",
+  "organized_at": "2026-05-21T02:12:30.214198+00:00",
+  "status": "published"
+}

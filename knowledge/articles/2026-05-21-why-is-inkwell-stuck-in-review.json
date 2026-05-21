@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-21-015",
+  "title": "Why is Inkwell stuck in review",
+  "source": "hackernews-top",
+  "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+  "summary": "Inkwell是一个用于LLM应用开发的Rust库，当前因代码审查流程卡在合并阶段。该库旨在提供高性能、类型安全的LLM调用接口，解决Rust生态中缺乏成熟LLM工具的问题。核心技术亮点包括基于Rust的零成本抽象、异步支持及与主流LLM API的集成。适用于需要低延迟、高可靠性的LLM应用场景，如实时推理服务或嵌入式AI系统。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "large-language-model"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-05-21T02:11:08.353369+00:00",
+  "analyzed_at": "2026-05-21T02:12:02.780978+00:00",
+  "organized_at": "2026-05-21T02:12:30.214198+00:00",
+  "status": "published"
+}
