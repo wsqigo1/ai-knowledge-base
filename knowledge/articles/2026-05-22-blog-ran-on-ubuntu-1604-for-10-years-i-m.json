@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-22-009",
+  "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+  "source": "hackernews-top",
+  "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+  "summary": "一篇关于将运行了10年的Ubuntu 16.04博客迁移到FreeBSD的技术经验分享。核心解决长期维护老旧Linux系统时遇到的软件包过时、安全更新停止等问题。技术亮点包括迁移过程中对FreeBSD的ZFS文件系统、jail隔离、以及pkg包管理器的实际使用评估，并对比了Linux与FreeBSD在稳定性、资源占用和社区支持上的差异。适用场景为个人或小型项目从Linux向FreeBSD的迁移决策参考，以及系统管理员评估替代OS的长期运维方案。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-22T02:13:56.452072+00:00",
+  "analyzed_at": "2026-05-22T02:14:41.131229+00:00",
+  "organized_at": "2026-05-22T02:15:18.423275+00:00",
+  "status": "published"
+}

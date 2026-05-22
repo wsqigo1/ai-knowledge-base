@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-22-010",
+  "title": "Was my $48K GPU server worth it?",
+  "source": "hackernews-top",
+  "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+  "summary": "作者分享购买价值$48K的GPU服务器（含8张A6000）用于AI/LLM训练和推理的个人经验。核心问题是评估自建服务器相比云服务的性价比与实用性。技术亮点包括硬件选型、功耗管理、软件栈配置（CUDA、PyTorch等）及实际工作负载测试。适用场景为需要长期、大规模GPU计算资源的AI研究团队或独立开发者，尤其适合对数据隐私和成本敏感的项目。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-22T02:13:56.452072+00:00",
+  "analyzed_at": "2026-05-22T02:14:43.637599+00:00",
+  "organized_at": "2026-05-22T02:15:18.423275+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-22-015",
+  "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2605.12460",
+  "summary": "Multi-Stream LLMs 是一篇关于并行化/分离提示、思考与I/O的论文，旨在解决LLM在处理复杂任务时因串行化流程导致的效率瓶颈和资源浪费。核心技术亮点包括将提示处理、推理过程和输入输出流拆分为独立并行流，通过动态调度优化资源利用。适用场景为高并发推理、实时交互系统及需要多任务并行处理的LLM应用。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-22T02:13:56.452072+00:00",
+  "analyzed_at": "2026-05-22T02:15:05.943323+00:00",
+  "organized_at": "2026-05-22T02:15:18.423275+00:00",
+  "status": "published"
+}

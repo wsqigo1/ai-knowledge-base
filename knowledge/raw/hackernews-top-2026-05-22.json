@@ -1,0 +1,386 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-22T02:13:57.509475+00:00",
+  "date": "2026-05-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "source": "hackernews-top",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "hn_url": "https://news.ycombinator.com/item?id=48225297",
+      "description": "",
+      "hn_score": 586,
+      "comments": 137,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Project Hail Mary – Stellar Navigation Chart 是一个基于同名科幻小说构建的星际导航图开源项目，旨在将小说中的虚构星系坐标系统转化为可交互的可视化地图。核心技术亮点包括使用真实天文数据映射小说中的恒星位置，并通过WebGL渲染3D星图，支持缩放、旋转和路径追踪。适用场景为科幻爱好者、教育演示及天文学数据可视化参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-22T02:14:36.472394+00:00"
+    },
+    {
+      "title": "Using Kagi Search with Low Vision",
+      "source": "hackernews-top",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "hn_url": "https://news.ycombinator.com/item?id=48227860",
+      "description": "",
+      "hn_score": 136,
+      "comments": 26,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "本文介绍低视力用户如何通过自定义Kagi Search的视觉设置（如高对比度主题、字体放大、减少动画）来改善搜索体验。核心亮点是Kagi作为付费搜索引擎提供了无障碍定制选项，解决了主流搜索引擎对低视力用户支持不足的问题。适用于需要优化搜索界面可访问性的场景。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-22T02:14:38.460933+00:00"
+    },
+    {
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "source": "hackernews-top",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "hn_url": "https://news.ycombinator.com/item?id=48227397",
+      "description": "",
+      "hn_score": 168,
+      "comments": 94,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "一篇关于将运行了10年的Ubuntu 16.04博客迁移到FreeBSD的技术经验分享。核心解决长期维护老旧Linux系统时遇到的软件包过时、安全更新停止等问题。技术亮点包括迁移过程中对FreeBSD的ZFS文件系统、jail隔离、以及pkg包管理器的实际使用评估，并对比了Linux与FreeBSD在稳定性、资源占用和社区支持上的差异。适用场景为个人或小型项目从Linux向FreeBSD的迁移决策参考，以及系统管理员评估替代OS的长期运维方案。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-22T02:14:41.131229+00:00"
+    },
+    {
+      "title": "Was my $48K GPU server worth it?",
+      "source": "hackernews-top",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=48184402",
+      "description": "",
+      "hn_score": 292,
+      "comments": 216,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "作者分享购买价值$48K的GPU服务器（含8张A6000）用于AI/LLM训练和推理的个人经验。核心问题是评估自建服务器相比云服务的性价比与实用性。技术亮点包括硬件选型、功耗管理、软件栈配置（CUDA、PyTorch等）及实际工作负载测试。适用场景为需要长期、大规模GPU计算资源的AI研究团队或独立开发者，尤其适合对数据隐私和成本敏感的项目。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-22T02:14:43.637599+00:00"
+    },
+    {
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "source": "hackernews-top",
+      "url": "https://freenet.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48223362",
+      "description": "",
+      "hn_score": 197,
+      "comments": 104,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Freenet是一个用于去中心化应用的点对点平台。它解决传统中心化服务器依赖问题，通过P2P网络实现数据存储、通信和应用托管。核心技术亮点包括分布式哈希表(DHT)路由、端到端加密和抗审查设计。适用场景包括去中心化社交网络、文件共享和隐私敏感应用。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-22T02:14:45.405486+00:00"
+    },
+    {
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "source": "hackernews-top",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "hn_url": "https://news.ycombinator.com/item?id=48222733",
+      "description": "",
+      "hn_score": 296,
+      "comments": 91,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "在2021款MacBook上使用Gemma4-31B模型对一年视频进行本地索引，通过50GB交换空间解决内存限制。核心亮点是无需高端GPU即可运行大型多模态模型，实现视频内容的语义搜索与摘要。适用于个人视频归档、内容创作者本地检索场景，展示边缘设备上部署LLM的可行性。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-22T02:14:47.385358+00:00"
+    },
+    {
+      "title": "Python 3.15: features that didn't make the headlines",
+      "source": "hackernews-top",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48220696",
+      "description": "",
+      "hn_score": 331,
+      "comments": 159,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Python 3.15 引入多项未受广泛关注但实用的新特性，旨在提升开发者效率与代码可读性。核心亮点包括：改进的异常分组（ExceptionGroup）语法、更灵活的字典合并操作符、以及性能优化的内置函数。这些特性解决了复杂错误处理、数据合并冗余及运行时效率问题。适用场景涵盖日常脚本开发、大型项目维护及性能敏感型应用，尤其适合需要精细错误管理和高效数据操作的 Python 开发者。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-05-22T02:14:50.054247+00:00"
+    },
+    {
+      "title": "Spotify will start reserving concert tickets for fans",
+      "source": "hackernews-top",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "hn_url": "https://news.ycombinator.com/item?id=48225357",
+      "description": "",
+      "hn_score": 107,
+      "comments": 211,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Spotify宣布将为粉丝预留演唱会门票，解决热门演出票务难获取问题。核心技术亮点是利用用户听歌历史与偏好数据，通过算法预测高意向用户并优先分配购票资格，减少黄牛抢票。适用场景为音乐流媒体平台与现场演出票务的整合，提升粉丝体验。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-22T02:14:52.245015+00:00"
+    },
+    {
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "source": "hackernews-top",
+      "url": "https://www.runtm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48225040",
+      "description": "",
+      "hn_score": 68,
+      "comments": 21,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Runtime (YC P26) 是一个为团队提供沙盒化编码代理的平台，解决多用户协作中代码执行的安全隔离问题。核心技术亮点包括沙盒环境隔离、支持多种编程语言和集成开发工具，确保代码运行安全且可审计。适用场景为团队协作开发、代码审查和自动化测试。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-22T02:14:54.273559+00:00"
+    },
+    {
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "hn_url": "https://news.ycombinator.com/item?id=48220639",
+      "description": "",
+      "hn_score": 288,
+      "comments": 94,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "该项目通过现代图像处理技术修复了1945年三位一体核试验中丢失的原始胶片影像。解决历史核试验影像资料因胶片老化、损坏而难以清晰呈现的问题。核心技术亮点包括使用AI驱动的图像增强算法、去噪与超分辨率重建技术。适用场景为历史影像档案数字化修复、核试验研究及科学可视化领域。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-22T02:14:56.923416+00:00"
+    },
+    {
+      "title": "Flipper One – we need your help",
+      "source": "hackernews-top",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "hn_url": "https://news.ycombinator.com/item?id=48220647",
+      "description": "",
+      "hn_score": 1049,
+      "comments": 417,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Flipper One 是一款开源的多功能渗透测试工具，旨在解决安全研究人员和爱好者对便携式硬件攻击设备的需求。其核心技术亮点包括支持多种无线协议（如RFID、NFC、蓝牙、红外）的硬件模块化设计，以及开源固件和社区驱动的扩展能力。适用场景涵盖物联网设备安全评估、门禁系统测试、无线电信号分析等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-22T02:14:59.145327+00:00"
+    },
+    {
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "source": "hackernews-top",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "hn_url": "https://news.ycombinator.com/item?id=48226588",
+      "description": "",
+      "hn_score": 416,
+      "comments": 168,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Seattle Shield 是由西雅图警方运营的智能情报共享网络，旨在解决执法机构间信息孤岛问题，提升犯罪预防与响应效率。核心技术亮点包括实时数据聚合、跨机构协作分析及基于威胁情报的自动化预警。适用场景为公共安全领域的多部门协同情报分析。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "agent"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-22T02:15:01.145554+00:00"
+    },
+    {
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "hn_url": "https://news.ycombinator.com/item?id=48225426",
+      "description": "",
+      "hn_score": 256,
+      "comments": 321,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Waymo暂停亚特兰大无人驾驶出租车服务，因其车辆在暴雨中反复驶入积水区域导致故障。该问题暴露了自动驾驶系统在极端天气下的感知与决策短板，核心挑战在于传感器（如激光雷达、摄像头）在积水反射和雨滴干扰下的环境理解能力不足，以及路径规划算法对动态水文风险的规避机制缺失。适用于自动驾驶安全研究、恶劣天气感知算法优化及城市级自动驾驶部署风险评估场景。",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-22T02:15:03.574051+00:00"
+    },
+    {
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "hn_url": "https://news.ycombinator.com/item?id=48227923",
+      "description": "",
+      "hn_score": 64,
+      "comments": 5,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Multi-Stream LLMs 是一篇关于并行化/分离提示、思考与I/O的论文，旨在解决LLM在处理复杂任务时因串行化流程导致的效率瓶颈和资源浪费。核心技术亮点包括将提示处理、推理过程和输入输出流拆分为独立并行流，通过动态调度优化资源利用。适用场景为高并发推理、实时交互系统及需要多任务并行处理的LLM应用。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-22T02:15:05.943323+00:00"
+    },
+    {
+      "title": "BBEdit 16",
+      "source": "hackernews-top",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48226944",
+      "description": "",
+      "hn_score": 270,
+      "comments": 83,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "BBEdit 16 是 macOS 平台一款老牌文本编辑器的最新版本，主要解决开发者和文字工作者对高效、可扩展文本编辑工具的需求。其核心技术亮点包括增强的代码折叠、多光标编辑、改进的 Git 集成以及更快的文件搜索性能。适用场景为日常代码编写、脚本编辑、日志分析和文本处理。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-22T02:15:08.083457+00:00"
+    },
+    {
+      "title": "Google's Antigravity bait and switch",
+      "source": "hackernews-top",
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "hn_url": "https://news.ycombinator.com/item?id=48222529",
+      "description": "",
+      "hn_score": 540,
+      "comments": 267,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "文章揭露Google在AI领域宣传的‘反重力’技术实为营销策略，实际产品与承诺存在差距。核心问题在于技术炒作与实际交付不符，影响开发者信任。文章通过分析具体案例（如Bard演示错误）指出技术透明度不足。适用场景为AI行业观察与开发者决策参考。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-22T02:15:10.183611+00:00"
+    },
+    {
+      "title": "Vivaldi 8.0",
+      "source": "hackernews-top",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48219060",
+      "description": "",
+      "hn_score": 351,
+      "comments": 232,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "Vivaldi 8.0 是 Vivaldi 浏览器的最新版本，主要解决用户对浏览器隐私控制、自定义界面和内置工具集成的需求。核心技术亮点包括增强的隐私保护功能（如跟踪器拦截）、更灵活的标签页管理、内置邮件客户端和日历的改进，以及基于 Chromium 引擎的性能优化。适用场景为注重隐私、高度自定义工作流的桌面浏览器用户。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-22T02:15:12.337336+00:00"
+    },
+    {
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "source": "hackernews-top",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "hn_url": "https://news.ycombinator.com/item?id=48229319",
+      "description": "",
+      "hn_score": 104,
+      "comments": 79,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "文章讨论内存短缺导致消费电子产品重新定价。核心问题是DRAM和NAND闪存供应紧张，推高成本，影响智能手机、PC等设备价格。技术亮点在于分析供需失衡对硬件市场的影响，而非AI/LLM领域。适用场景为硬件行业市场分析。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-22T02:15:14.247310+00:00"
+    },
+    {
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "source": "hackernews-top",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "hn_url": "https://news.ycombinator.com/item?id=48225838",
+      "description": "",
+      "hn_score": 218,
+      "comments": 80,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "多家新闻机构限制互联网档案馆对其新闻报道的访问权限，这影响了Archive.org保存数字新闻的能力。核心问题是版权与公共访问权的冲突，新闻机构通过技术手段（如robots.txt）阻止抓取。该事件凸显了数字保存面临的挑战，适用于研究互联网历史、版权法律及数据归档技术的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-22T02:15:16.329728+00:00"
+    },
+    {
+      "title": "Throwing AI-generated walls of text into conversations",
+      "source": "hackernews-top",
+      "url": "https://noslopgrenade.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48219992",
+      "description": "",
+      "hn_score": 504,
+      "comments": 305,
+      "collected_at": "2026-05-22T02:13:56.452072+00:00",
+      "published_at": "2026-05-22T02:13:56.452072+00:00",
+      "summary": "该条目讨论在对话中直接插入AI生成的长文本墙（walls of text）的现象，旨在解决AI回复缺乏结构、信息密度低的问题。核心技术亮点是强调通过结构化输出（如摘要、列表）替代冗长文本，提升对话效率。适用场景包括聊天机器人、客服系统等需要高效信息传递的交互环境。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-22T02:15:18.412964+00:00"
+    }
+  ]
+}

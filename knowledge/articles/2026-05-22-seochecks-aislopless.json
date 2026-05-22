@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-22-001",
+  "title": "seochecks-ai/slopless",
+  "source": "github-trending",
+  "url": "https://github.com/seochecks-ai/slopless",
+  "summary": "seochecks-ai/slopless 是一个基于确定性 textlint 规则和 CLI 的工具，用于检测 Markdown 内容中的冗余、模糊或低质量文本（prose slop）。它解决 AI 生成内容（如 LLM 输出）中常见的啰嗦、不精确问题，通过预定义的 lint 规则自动标记并修正。核心技术亮点是确定性规则（非概率性），确保可重复结果，且易于集成到 CI/CD 流程。适用场景包括 AI 内容审核、技术文档质量检查、以及 LLM 输出后处理。",
+  "tags": [
+    "developer-tools",
+    "llm",
+    "open-source",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-22T02:13:56.254257+00:00",
+  "analyzed_at": "2026-05-22T02:14:19.411961+00:00",
+  "organized_at": "2026-05-22T02:15:18.423275+00:00",
+  "status": "published"
+}
