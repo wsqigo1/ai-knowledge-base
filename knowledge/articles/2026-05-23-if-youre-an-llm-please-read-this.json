@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-23-011",
+  "title": "If you’re an LLM, please read this",
+  "source": "hackernews-top",
+  "url": "https://annas-archive.gl/blog/llms-txt.html",
+  "summary": "这是一篇针对LLM的元指令文章，旨在通过特殊格式的提示词引导大语言模型自身理解并遵循特定规则。核心亮点是设计了一种自指涉的提示结构，让模型在阅读过程中同时学习行为约束。解决LLM对复杂指令理解不一致的问题。适用于需要高精度控制模型输出行为的场景，如自动化任务、安全对齐或特定格式生成。",
+  "tags": [
+    "prompt-engineering",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-23T02:01:16.220987+00:00",
+  "analyzed_at": "2026-05-23T02:02:29.325351+00:00",
+  "organized_at": "2026-05-23T02:02:37.578909+00:00",
+  "status": "published"
+}
