@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-24-006",
+  "title": "Making deep learning go brrrr from first principles (2022)",
+  "source": "hackernews-top",
+  "url": "https://horace.io/brrr_intro.html",
+  "summary": "从第一性原理出发，深入剖析深度学习推理加速的核心技术，包括算子融合、内存布局优化、并行计算等底层实现。解决深度学习模型在实际部署中计算效率低、延迟高的问题。核心技术亮点：通过逐层拆解矩阵乘法、卷积等运算的硬件执行细节，揭示编译器优化与手动调优的权衡。适用场景：AI系统优化工程师、高性能计算研究者、深度学习框架开发者。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-05-24T02:10:32.867931+00:00",
+  "analyzed_at": "2026-05-24T02:11:32.807530+00:00",
+  "organized_at": "2026-05-24T02:11:51.820008+00:00",
+  "status": "published"
+}

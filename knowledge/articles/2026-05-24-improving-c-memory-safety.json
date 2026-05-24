@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-24-009",
+  "title": "Improving C# Memory Safety",
+  "source": "hackernews-top",
+  "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+  "summary": "Improving C# Memory Safety 探讨了在 C# 中通过静态分析、Span<T> 和 Memory<T> 等特性来增强内存安全性的方法。它解决了 C# 中因不安全代码或误用引用类型导致的内存泄漏、缓冲区溢出和悬挂指针问题。核心技术亮点包括利用 Roslyn 分析器检测潜在风险，以及推广安全内存抽象来替代原始指针操作。适用场景为需要高性能但要求内存安全的 C# 系统编程、游戏开发和底层库实现。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-24T02:10:32.867931+00:00",
+  "analyzed_at": "2026-05-24T02:11:50.132059+00:00",
+  "organized_at": "2026-05-24T02:11:51.820008+00:00",
+  "status": "published"
+}

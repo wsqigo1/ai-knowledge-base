@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-05-24-008",
+  "title": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+  "source": "hackernews-top",
+  "url": "https://spader.zone/sp/",
+  "summary": "sp.h 是一个为 C 语言提供高质量、超可移植标准库的头文件。它解决 C 标准库功能不足、跨平台兼容性差的问题，通过单一头文件实现内存分配、字符串处理、数据结构等核心功能。核心技术亮点是零依赖、高度可移植（支持多种编译器和平台），以及简洁的 API 设计。适用于嵌入式开发、系统编程和需要轻量级依赖的 C 项目。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-24T02:10:32.867931+00:00",
+  "analyzed_at": "2026-05-24T02:11:39.876391+00:00",
+  "organized_at": "2026-05-24T02:11:51.820008+00:00",
+  "status": "published"
+}
