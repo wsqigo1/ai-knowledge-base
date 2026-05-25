@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-25-012",
+  "title": "Defeating Git Rigour Fatigue with Jujutsu",
+  "source": "hackernews-top",
+  "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+  "summary": "Jujutsu (jj) 是一个新兴的版本控制系统，旨在解决 Git 的复杂性和认知负担导致的“Git Rigour Fatigue”。其核心技术亮点包括：自动变基、工作副本即提交、以及内置冲突解决机制，无需手动处理复杂的 rebase 或 merge 操作。适用于需要频繁协作、追求简化 Git 工作流的开发者团队，尤其适合大型项目或对版本控制效率有高要求的场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-25T02:29:12.788491+00:00",
+  "analyzed_at": "2026-05-25T02:30:07.713557+00:00",
+  "organized_at": "2026-05-25T02:30:38.993810+00:00",
+  "status": "published"
+}

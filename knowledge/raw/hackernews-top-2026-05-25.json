@@ -1,0 +1,384 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-25T02:29:13.731195+00:00",
+  "date": "2026-05-25",
+  "count": 20,
+  "items": [
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "source": "hackernews-top",
+      "url": "https://audiomass.co/?multitrack=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48258015",
+      "description": "",
+      "hn_score": 173,
+      "comments": 43,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Audiomass 是一个免费、开源的多轨音频编辑器，运行于浏览器中，无需安装。它解决了用户对便捷、跨平台音频编辑工具的需求，尤其是那些不愿付费或受限于桌面软件的用户。核心技术亮点包括基于 Web Audio API 的实时音频处理、多轨混音、支持常见音频格式导入导出，以及完全开源（MIT 许可）。适用场景包括播客制作、音乐混音、音频修复和教学演示。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-25T02:29:57.082673+00:00"
+    },
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "source": "hackernews-top",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "hn_url": "https://news.ycombinator.com/item?id=48256953",
+      "description": "",
+      "hn_score": 450,
+      "comments": 199,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "DeepSeek reasonix 是 DeepSeek 推出的原生编码 agent，通过高缓存机制降低推理成本，解决 LLM 在代码生成中重复计算和延迟问题。核心技术包括高效缓存策略和低成本推理优化，适用于持续集成、代码审查和自动化编程场景。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-05-25T02:29:58.948402+00:00"
+    },
+    {
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "source": "hackernews-top",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "hn_url": "https://news.ycombinator.com/item?id=48258684",
+      "description": "",
+      "hn_score": 304,
+      "comments": 324,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "该条目指出，在AI芯片组件成本中，内存成本已增长至近三分之二。它揭示了随着大模型规模扩大，内存带宽和容量成为性能瓶颈，导致硬件成本结构发生显著变化。核心亮点是量化了内存对AI芯片总成本的主导地位，并暗示了优化内存层次结构（如HBM、近存计算）的紧迫性。适用场景包括AI芯片设计、数据中心成本分析及大模型推理优化。",
+      "tags": [
+        "large-language-model",
+        "hardware",
+        "cost-analysis"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-25T02:30:01.034594+00:00"
+    },
+    {
+      "title": "I spent 50 hours drawing a line graph",
+      "source": "hackernews-top",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48223997",
+      "description": "",
+      "hn_score": 448,
+      "comments": 74,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "作者花费50小时绘制一张折线图，反思数据可视化中细节与精度的极端追求。核心问题：过度优化图表美观与精确性是否值得？技术亮点：手动调整坐标轴、网格线、标签等每一像素，对比自动化工具与人工精力的投入产出比。适用场景：数据可视化设计、工程效率反思、开发者时间管理。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-25T02:30:03.221015+00:00"
+    },
+    {
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "hn_url": "https://news.ycombinator.com/item?id=48256912",
+      "description": "",
+      "hn_score": 179,
+      "comments": 87,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "该研究揭示LLM智能体在后端代码生成中的脆弱性，提出“约束衰减”现象：随着代码生成步骤增加，模型对初始约束的遵循度逐渐下降。核心亮点是通过实验量化了衰减曲线，并分析了上下文长度、任务复杂度等因素的影响。适用场景包括自动化代码生成系统的鲁棒性评估与改进。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-25T02:30:05.325553+00:00"
+    },
+    {
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "source": "hackernews-top",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48259861",
+      "description": "",
+      "hn_score": 100,
+      "comments": 89,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Jujutsu (jj) 是一个新兴的版本控制系统，旨在解决 Git 的复杂性和认知负担导致的“Git Rigour Fatigue”。其核心技术亮点包括：自动变基、工作副本即提交、以及内置冲突解决机制，无需手动处理复杂的 rebase 或 merge 操作。适用于需要频繁协作、追求简化 Git 工作流的开发者团队，尤其适合大型项目或对版本控制效率有高要求的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-25T02:30:07.713557+00:00"
+    },
+    {
+      "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "hn_url": "https://news.ycombinator.com/item?id=48253386",
+      "description": "",
+      "hn_score": 429,
+      "comments": 151,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "微软开源了迄今为止发现的最早的DOS源代码，该代码是MS-DOS 1.25和2.0的早期版本。此举旨在为开发者、历史学家和爱好者提供研究早期操作系统架构和设计决策的机会。核心技术亮点是公开了原始汇编语言源码，展示了文件系统、内存管理和命令行接口的早期实现。适用场景包括操作系统历史研究、复古计算教育以及理解现代操作系统的演进基础。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-05-25T02:30:10.096146+00:00"
+    },
+    {
+      "title": "Mastering Dyalog APL",
+      "source": "hackernews-top",
+      "url": "https://mastering.dyalog.com/README.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48256475",
+      "description": "",
+      "hn_score": 127,
+      "comments": 36,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "《Mastering Dyalog APL》是一本系统学习APL编程语言的书籍。APL是一种以符号化、数组操作为核心的古老语言，擅长处理高维数据与复杂数学运算。该书解决的是APL语言学习资源稀缺、入门门槛高的问题。核心技术亮点包括：通过大量实例演示APL的简洁语法与强大数组运算能力，覆盖从基础到高级的并行计算与函数式编程范式。适用场景为需要快速原型开发、金融建模、数据密集型计算的工程师，以及希望拓展编程思维的语言爱好者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-25T02:30:12.925168+00:00"
+    },
+    {
+      "title": "Build Adafruit projects right from Firefox",
+      "source": "hackernews-top",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "hn_url": "https://news.ycombinator.com/item?id=48231547",
+      "description": "",
+      "hn_score": 117,
+      "comments": 34,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "该项目允许用户直接在Firefox浏览器中构建Adafruit硬件项目，无需安装额外软件。它解决了硬件开发环境配置复杂的问题，通过WebUSB和WebBluetooth API实现浏览器与微控制器的直接通信。核心技术亮点包括在浏览器中集成代码编辑器、编译器和固件烧录功能。适用场景为教育、快速原型开发和远程硬件实验。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-25T02:30:15.222508+00:00"
+    },
+    {
+      "title": "Greg Brockman interview [video]",
+      "source": "hackernews-top",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "hn_url": "https://news.ycombinator.com/item?id=48255593",
+      "description": "",
+      "hn_score": 179,
+      "comments": 178,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Greg Brockman（OpenAI联合创始人）的访谈视频，探讨AI发展、LLM能力边界及未来方向。核心亮点包括对AGI路径的见解、模型推理能力提升策略、以及OpenAI在安全与部署上的实践。适用于AI研究者、工程师了解前沿观点与行业趋势。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-25T02:30:17.329020+00:00"
+    },
+    {
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "hn_url": "https://news.ycombinator.com/item?id=48253186",
+      "description": "",
+      "hn_score": 270,
+      "comments": 150,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "攻击者滥用微软内部账户发送垃圾链接，利用内部系统信任机制绕过常规安全过滤。该问题暴露了企业级身份验证与邮件安全策略的漏洞，核心在于未对内部账户的异常行为进行充分监控。适用场景包括企业安全运维、邮件系统防护及内部威胁检测。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-05-25T02:30:19.140844+00:00"
+    },
+    {
+      "title": "Childhood Computing",
+      "source": "hackernews-top",
+      "url": "https://susam.net/childhood-computing.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48256597",
+      "description": "",
+      "hn_score": 163,
+      "comments": 87,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Childhood Computing 是一个探讨儿童早期计算教育的开源项目，旨在解决儿童编程启蒙缺乏趣味性和可及性的问题。其核心技术亮点包括基于图形化编程界面、互动游戏化学习模块以及低门槛的硬件集成支持，适用于家庭、学校及课后编程教育场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-25T02:30:20.953551+00:00"
+    },
+    {
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "source": "hackernews-top",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "hn_url": "https://news.ycombinator.com/item?id=48254309",
+      "description": "",
+      "hn_score": 302,
+      "comments": 182,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Vivado 2026.1 宣布其免费层级（WebPACK）将不再支持 Linux 操作系统。这主要影响使用免费版 Vivado 进行 FPGA 开发的个人开发者、学生和小型团队，迫使他们转向 Windows 或付费版本。核心技术亮点是 Vivado 作为 Xilinx 的 FPGA 设计套件，其免费版原本是 Linux 上低成本 FPGA 开发的关键工具。此变更适用于需要 Linux 环境进行自动化、集成或远程开发的场景，可能迫使开发者重新评估工具链或增加成本。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.1,
+      "analyzed_at": "2026-05-25T02:30:23.653561+00:00"
+    },
+    {
+      "title": "Migrating from Go to Rust",
+      "source": "hackernews-top",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "hn_url": "https://news.ycombinator.com/item?id=48259808",
+      "description": "",
+      "hn_score": 140,
+      "comments": 136,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "文章探讨从Go语言迁移到Rust的实践经验，解决Go在内存安全、并发控制及系统级编程中的局限性。核心技术亮点包括Rust的所有权模型、零成本抽象和异步运行时，适用于对性能与安全性要求极高的基础设施、网络服务及嵌入式系统开发。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-25T02:30:25.392060+00:00"
+    },
+    {
+      "title": "Ruby for Good",
+      "source": "hackernews-top",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "hn_url": "https://news.ycombinator.com/item?id=48258254",
+      "description": "",
+      "hn_score": 121,
+      "comments": 52,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Ruby for Good 是一个开源社区项目，旨在利用 Ruby 编程语言解决社会公益问题。它通过组织 hackathon 和协作开发，解决非营利组织、教育机构等面临的实际挑战。核心技术亮点是 Ruby 生态的快速原型能力和社区驱动的开发模式。适用场景包括公益软件开发、社区协作项目及 Ruby 技术实践。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-25T02:30:27.430154+00:00"
+    },
+    {
+      "title": "I keep bouncing off the Scheme language",
+      "source": "hackernews-top",
+      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "hn_url": "https://news.ycombinator.com/item?id=48233398",
+      "description": "",
+      "hn_score": 131,
+      "comments": 54,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "这是一篇关于Scheme语言学习体验的讨论帖，源自Hacker News社区。文章探讨了Scheme语言（Lisp方言）在编程教育、函数式编程范式中的独特地位，以及初学者常遇到的语法和思维模式挑战。核心亮点在于社区对Scheme简洁性、宏系统及递归思维的深度讨论，同时对比了现代语言（如Python、Clojure）的实用性。适用场景：编程语言研究者、函数式编程爱好者、教育者评估Scheme的教学价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-25T02:30:30.002268+00:00"
+    },
+    {
+      "title": "The C64 Dead Test Font",
+      "source": "hackernews-top",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "hn_url": "https://news.ycombinator.com/item?id=48254236",
+      "description": "",
+      "hn_score": 127,
+      "comments": 25,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "The C64 Dead Test Font 是一个为 Commodore 64 设计的诊断字体，用于在硬件故障时通过字符显示错误代码。它解决了 C64 维修中无法正常显示文本的问题，通过将错误码映射到特定字形实现快速诊断。核心技术亮点是极简的位图字体设计和与死机测试程序的兼容性。适用于复古计算机维修和爱好者社区。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-25T02:30:32.507259+00:00"
+    },
+    {
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "source": "hackernews-top",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "hn_url": "https://news.ycombinator.com/item?id=48237663",
+      "description": "",
+      "hn_score": 537,
+      "comments": 485,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "DeepSeek 宣布 V4 Pro 价格折扣永久化，这是一个 API 定价策略调整。解决 AI 开发者长期使用成本高的问题。核心亮点是永久折扣而非限时促销，降低企业部署大模型的门槛。适用场景为需要持续调用 LLM API 的 AI 应用开发与生产环境。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-25T02:30:34.471388+00:00"
+    },
+    {
+      "title": "Time to talk about my writerdeck",
+      "source": "hackernews-top",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "hn_url": "https://news.ycombinator.com/item?id=48250144",
+      "description": "",
+      "hn_score": 456,
+      "comments": 277,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "这是一篇关于作者构建个人专用写作设备（writerdeck）的经验分享。它解决的是在充满干扰的数字环境中，如何通过定制化硬件和软件配置，创造一个专注、低延迟的写作环境。核心技术亮点包括使用树莓派或类似单板计算机、电子墨水屏或低功耗显示器、以及精简的文本编辑器和同步方案。适用场景为需要长时间、无干扰写作的创作者、程序员或作家。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-25T02:30:36.708394+00:00"
+    },
+    {
+      "title": "Usborne 1980s Computer Books",
+      "source": "hackernews-top",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "hn_url": "https://news.ycombinator.com/item?id=48258194",
+      "description": "",
+      "hn_score": 160,
+      "comments": 48,
+      "collected_at": "2026-05-25T02:29:12.788491+00:00",
+      "published_at": "2026-05-25T02:29:12.788491+00:00",
+      "summary": "Usborne 1980s Computer Books 是上世纪80年代出版的计算机教育书籍系列，以生动插图和易懂方式讲解编程、计算机原理等知识。其核心亮点在于将复杂概念通过趣味化、视觉化方式呈现，适合初学者入门。当前被重新发掘，用于怀旧教育或作为编程启蒙资源，尤其适合儿童和编程新手。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-25T02:30:38.980826+00:00"
+    }
+  ]
+}
