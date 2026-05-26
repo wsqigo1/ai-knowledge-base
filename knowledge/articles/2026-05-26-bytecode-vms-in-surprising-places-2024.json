@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-26-018",
+  "title": "Bytecode VMs in surprising places (2024)",
+  "source": "hackernews-top",
+  "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+  "summary": "本文探讨了字节码虚拟机（Bytecode VMs）在非传统场景中的广泛应用，如游戏脚本、嵌入式系统和浏览器引擎。它解决了开发者对VM实现复杂性的误解，通过展示Lua、WebAssembly等实例，说明如何利用轻量级VM提升跨平台兼容性和执行效率。核心技术亮点包括指令集设计、垃圾回收优化和即时编译（JIT）的权衡。适用场景包括游戏开发、物联网设备及沙箱环境。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-05-26T02:09:05.627465+00:00",
+  "analyzed_at": "2026-05-26T02:10:29.646134+00:00",
+  "organized_at": "2026-05-26T02:10:29.658406+00:00",
+  "status": "published"
+}

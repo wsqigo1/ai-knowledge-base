@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-26-005",
+  "title": "NanoFlow-io/engram",
+  "source": "github-trending",
+  "url": "https://github.com/NanoFlow-io/engram",
+  "summary": "NanoFlow-io/engram 是一个为 OpenClaw 智能体设计的混合长期记忆插件，解决 AI 代理在持久化结构化事实与语义回忆间的割裂问题。核心技术结合 SQLite+FTS5 管理结构化事实，LanceDB 处理语义向量检索，实现双通道记忆存储。适用于需要长期上下文记忆的 AI 代理应用，如对话系统、任务规划代理。",
+  "tags": [
+    "agent",
+    "vector-database",
+    "open-source",
+    "ai-assistant",
+    "rag"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-26T02:09:05.440004+00:00",
+  "analyzed_at": "2026-05-26T02:09:46.741731+00:00",
+  "organized_at": "2026-05-26T02:10:29.658406+00:00",
+  "status": "published"
+}

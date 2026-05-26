@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-26-009",
+  "title": "Exit IP VPN servers mitigation rollout",
+  "source": "hackernews-top",
+  "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+  "summary": "该项目是关于出口IP VPN服务器的缓解部署方案。它解决的是VPN出口IP被滥用或封锁的问题，通过动态调整和轮换出口IP来提升连接的稳定性和可用性。核心技术亮点包括自动化IP池管理、负载均衡以及故障转移机制。适用场景包括需要稳定VPN连接的企业网络、跨境数据传输以及对抗IP封锁的隐私保护场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-26T02:09:05.627465+00:00",
+  "analyzed_at": "2026-05-26T02:09:55.043025+00:00",
+  "organized_at": "2026-05-26T02:10:29.658406+00:00",
+  "status": "published"
+}

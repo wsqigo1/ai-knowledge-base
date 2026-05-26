@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-26-012",
+  "title": "Microsoft Copilot Cowork Exfiltrates Files",
+  "source": "hackernews-top",
+  "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+  "summary": "Microsoft Copilot 存在数据泄露风险，攻击者可通过“协同工作”功能诱骗 AI 助手读取并外泄敏感文件。该问题暴露了 AI 助手在权限控制与上下文隔离上的缺陷，核心在于缺乏对用户指令的严格安全边界验证。适用于企业级 AI 助手的安全审计与防护设计场景。",
+  "tags": [
+    "ai-assistant",
+    "security",
+    "large-language-model"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-05-26T02:09:05.627465+00:00",
+  "analyzed_at": "2026-05-26T02:10:06.435709+00:00",
+  "organized_at": "2026-05-26T02:10:29.658406+00:00",
+  "status": "published"
+}

@@ -1,7 +1,274 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 324,
+  "total_count": 342,
   "entries": [
+    {
+      "id": "kb-2026-05-26-001",
+      "title": "bryanyzhu/agentic-ai-system-course",
+      "source": "github-trending",
+      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "file": "2026-05-26-bryanyzhuagentic-ai-system-course.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "course",
+        "system-design"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-002",
+      "title": "realrossmanngroup/no_ai_slop_writing_rules",
+      "source": "github-trending",
+      "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "file": "2026-05-26-realrossmanngroupno-ai-slop-writing-rule.json",
+      "tags": [
+        "prompt-engineering",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-003",
+      "title": "workos/auth.md",
+      "source": "github-trending",
+      "url": "https://github.com/workos/auth.md",
+      "file": "2026-05-26-workosauthmd.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-004",
+      "title": "chefkannofriend-source/mbbb-baker-agent",
+      "source": "github-trending",
+      "url": "https://github.com/chefkannofriend-source/mbbb-baker-agent",
+      "file": "2026-05-26-chefkannofriend-sourcembbb-baker-agent.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-005",
+      "title": "NanoFlow-io/engram",
+      "source": "github-trending",
+      "url": "https://github.com/NanoFlow-io/engram",
+      "file": "2026-05-26-nanoflow-ioengram.json",
+      "tags": [
+        "agent",
+        "vector-database",
+        "open-source",
+        "ai-assistant",
+        "rag"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-006",
+      "title": "zhongweiv/hermes-edu-skills",
+      "source": "github-trending",
+      "url": "https://github.com/zhongweiv/hermes-edu-skills",
+      "file": "2026-05-26-zhongweivhermes-edu-skills.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-007",
+      "title": "Using AI to write better code more slowly",
+      "source": "hackernews-top",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "file": "2026-05-26-using-ai-to-write-better-code-more-slowl.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-008",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "source": "hackernews-top",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "file": "2026-05-26-norways-2-petabytes-of-huawei-flash-stor.json",
+      "tags": [
+        "large-language-model",
+        "infrastructure",
+        "storage"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-009",
+      "title": "Exit IP VPN servers mitigation rollout",
+      "source": "hackernews-top",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "file": "2026-05-26-exit-ip-vpn-servers-mitigation-rollout.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-010",
+      "title": "Magnifica Humanitas",
+      "source": "hackernews-top",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "file": "2026-05-26-magnifica-humanitas.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "prompt-engineering",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-011",
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "source": "hackernews-top",
+      "url": "https://support.apple.com/en-us/127115",
+      "file": "2026-05-26-cve-2026-28952-apple-macos-265-kernel-vu.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-012",
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "source": "hackernews-top",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "file": "2026-05-26-microsoft-copilot-cowork-exfiltrates-fil.json",
+      "tags": [
+        "ai-assistant",
+        "security",
+        "large-language-model"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-013",
+      "title": "Agentic Patterns",
+      "source": "hackernews-top",
+      "url": "https://veso.ai/research/agentic-patterns/",
+      "file": "2026-05-26-agentic-patterns.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-014",
+      "title": "C extensions, portability, and alternative compilers",
+      "source": "hackernews-top",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "file": "2026-05-26-c-extensions-portability-and-alternative.json",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-015",
+      "title": "Everyone Against Us (2023)",
+      "source": "hackernews-top",
+      "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+      "file": "2026-05-26-everyone-against-us-2023.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-016",
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "source": "hackernews-top",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "file": "2026-05-26-ibm-spins-off-the-first-pure-play-quantu.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-017",
+      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+      "source": "hackernews-top",
+      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+      "file": "2026-05-26-ubers-coo-says-its-getting-harder-to-jus.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
+    {
+      "id": "kb-2026-05-26-018",
+      "title": "Bytecode VMs in surprising places (2024)",
+      "source": "hackernews-top",
+      "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+      "file": "2026-05-26-bytecode-vms-in-surprising-places-2024.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-05-26T02:10:29.658406+00:00"
+    },
     {
       "id": "kb-2026-05-25-001",
       "title": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
@@ -4810,5 +5077,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-25T02:30:39.013492+00:00"
+  "last_updated": "2026-05-26T02:10:29.681065+00:00"
 }

@@ -1,0 +1,499 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-05-26T02:09:07.145422+00:00",
+  "date": "2026-05-26",
+  "count": 19,
+  "items": [
+    {
+      "title": "MoonshotAI/kimi-code",
+      "source": "github-trending",
+      "url": "https://github.com/MoonshotAI/kimi-code",
+      "description": "The Starting Point for Next-Gen Agents",
+      "stars": 515,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-26T02:08:49Z",
+      "summary": "MoonshotAI/kimi-code 是一个基于 TypeScript 构建的下一代智能体起点框架，旨在简化 AI 代理的开发流程。它解决了从零构建复杂代理系统的高门槛问题，提供模块化工具链和可扩展架构。核心技术亮点包括内置工具调用、多代理协作支持及灵活的上下文管理。适用场景涵盖自动化工作流、代码生成助手及多步骤推理任务。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:09.510696+00:00"
+    },
+    {
+      "title": "jianshuo/ccglass",
+      "source": "github-trending",
+      "url": "https://github.com/jianshuo/ccglass",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "stars": 291,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T16:04:19Z",
+      "summary": "ccglass 是一个本地代理 + Web 仪表盘工具，用于监控和查看编码代理（如 Claude Code、Codex、Kimi）发送给模型的请求内容。它解决了开发者无法直观了解 AI 编码助手与模型交互细节的问题，核心亮点是轻量级本地代理捕获 HTTP 请求并可视化展示。适用于调试 AI 编码工具行为、优化 prompt 或分析 token 消耗场景。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "code-generation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-26T02:09:11.417354+00:00"
+    },
+    {
+      "title": "VILA-Lab/FigMirror",
+      "source": "github-trending",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "stars": 282,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "llm-agents",
+        "matplotlib",
+        "paper-figures",
+        "plotting",
+        "python",
+        "research-tools",
+        "scientific-visualization",
+        "skill"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T15:13:25Z",
+      "summary": "FigMirror 是一个基于 AI Agent 的数据可视化工具，能够自动将用户数据以任意论文中的图表风格进行绘制。它解决了科研与工程场景中复现论文图表样式耗时且需手动调整的问题。核心技术亮点包括：利用 agent 技能解析论文图表样式、结合 codex 或 claude-code 等 LLM 生成对应绘图代码，并支持灵活的数据输入。适用场景为需要快速生成符合特定论文风格图表的科研人员、数据科学家及 AI 工程师。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "data-visualization",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-26T02:09:13.723353+00:00"
+    },
+    {
+      "title": "XingYu-Zhong/DeepSeek-GUI",
+      "source": "github-trending",
+      "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+      "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
+      "stars": 262,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T15:48:07Z",
+      "summary": "XingYu-Zhong/DeepSeek-GUI 是一个为 DeepSeek 模型打造的 AI agent 工作空间，集成 Code 和 Claw 模式于应用中。它解决 DeepSeek 模型缺乏专用图形界面和 agent 能力的问题，提供代码执行与工具调用（Claw）功能。核心技术亮点包括 TypeScript 实现、模块化 agent 架构、内置代码沙箱和工具使用接口。适用场景为开发者快速构建基于 DeepSeek 的智能助手、代码生成工具或自动化工作流。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:16.045362+00:00"
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "source": "github-trending",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 238,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T23:21:32Z",
+      "summary": "ai-memory 是一个用 Rust 实现的长期记忆解决方案，专为代理编码 CLI 设计，支持不同代理供应商之间的任务交接。它通过持久化存储代理的上下文、状态和历史交互，解决多代理协作中记忆丢失和上下文碎片化问题。核心技术亮点包括高效的内存序列化与检索机制，以及跨代理会话的上下文重建能力。适用于需要长期任务跟踪的 AI 编码助手、多代理工作流编排及跨平台代理协作场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-26T02:09:18.294930+00:00"
+    },
+    {
+      "title": "CylinderChairman/aida64",
+      "source": "github-trending",
+      "url": "https://github.com/CylinderChairman/aida64",
+      "description": "aida64 unlocker extreme edition",
+      "stars": 223,
+      "language": "PowerShell",
+      "topics": [
+        "aida64",
+        "aida64-extreme-patch",
+        "aida64-unlocker"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-20T11:25:31Z",
+      "summary": "AIDA64 Unlocker Extreme Edition 是一个基于 PowerShell 的开源工具，用于解锁 AIDA64 Extreme 版本的全部功能。它解决了用户无法免费获取完整版 AIDA64 的问题，通过补丁或激活方式绕过限制。核心技术亮点是自动化脚本执行解锁操作，无需手动修改。适用场景包括硬件检测、系统诊断和性能测试爱好者，但存在法律风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-26T02:09:20.195274+00:00"
+    },
+    {
+      "title": "bryanyzhu/agentic-ai-system-course",
+      "source": "github-trending",
+      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "stars": 204,
+      "language": "Shell",
+      "topics": [
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-agents",
+        "course",
+        "system-design",
+        "tutorial"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-23T21:23:04Z",
+      "summary": "bryanyzhu/agentic-ai-system-course 是一个开源课程，旨在通过构建AI代理来学习代理系统设计。它解决如何设计、构建和运维生产级AI代理的核心问题。核心技术亮点包括agentic-ai工作流、系统设计方法及Shell脚本实践。适用场景为AI工程师学习代理系统架构与部署。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "course",
+        "system-design"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:22.196377+00:00"
+    },
+    {
+      "title": "open-gsd/gsd-pi",
+      "source": "github-trending",
+      "url": "https://github.com/open-gsd/gsd-pi",
+      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+      "stars": 201,
+      "language": "TypeScript",
+      "topics": [
+        "context-engineering",
+        "meta-prompting",
+        "spec-driven-development"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-26T01:38:29Z",
+      "summary": "open-gsd/gsd-pi 是一个基于 TypeScript 的元提示（meta-prompting）与上下文工程系统，通过 spec-driven development 方法使 AI agent 能长时间自主工作而不丢失全局目标。核心亮点在于结合上下文工程与规范驱动开发，确保 agent 在复杂任务中保持一致性。适用于需要长期自主执行多步骤任务的场景，如自动化工作流、复杂推理任务。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:24.278586+00:00"
+    },
+    {
+      "title": "scheidydude/codeindex",
+      "source": "github-trending",
+      "url": "https://github.com/scheidydude/codeindex",
+      "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
+      "stars": 192,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T03:30:20Z",
+      "summary": "scheidydude/codeindex 是一个 Python 编写的仓库依赖分析器，核心亮点是引入 blast-radius impact scoring 机制，用于评估代码变更对依赖链的影响范围。它解决 AI 辅助开发中理解代码库依赖关系、预测修改风险的痛点。适用于大型代码库重构、AI 代码生成工具集成、开发者工作流自动化等场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:26.543694+00:00"
+    },
+    {
+      "title": "Eynzof/hermes-agent-cn-desktop",
+      "source": "github-trending",
+      "url": "https://github.com/Eynzof/hermes-agent-cn-desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 178,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "desktop-app",
+        "hermes-agent",
+        "react",
+        "rust",
+        "tauri",
+        "typescript"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-24T15:15:03Z",
+      "summary": "Hermes Agent CN Desktop 是一个基于 Tauri、TypeScript 和 Rust 构建的 Windows 优先桌面应用，核心功能是封装 Hermes Agent 的独立运行环境。它解决了 AI Agent 在桌面端隔离部署与原生交互的问题，通过 Rust 后端实现高性能与安全性，React 前端提供跨平台 UI。适用于需要本地化、低延迟的 AI 助手或自动化工作流场景。",
+      "tags": [
+        "agent",
+        "desktop-app",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-26T02:09:28.569325+00:00"
+    },
+    {
+      "title": "testerlingcodo/gemini-antigravity-cli",
+      "source": "github-trending",
+      "url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
+      "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
+      "stars": 167,
+      "language": "TypeScript",
+      "topics": [
+        "antigravity-ai",
+        "antigravity-cli",
+        "antigravity-cli-extensions",
+        "antigravity-ide",
+        "antigravity-skills",
+        "cli-tooling",
+        "command-line",
+        "command-line-interface",
+        "command-line-tool",
+        "free-gemini-api",
+        "gemini-",
+        "gemini-api-free",
+        "gemini-cli",
+        "gog-galaxy",
+        "gogcli",
+        "google-ai",
+        "google-gemini",
+        "google-workspace-cli"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-23T15:28:05Z",
+      "summary": "testerlingcodo/gemini-antigravity-cli 是一个基于 Google Gemini 模型的 CLI 终端 AI 代理工具，旨在解决开发者通过命令行与 AI 交互的效率和集成问题。核心技术亮点包括 MCP 服务器插件、斜杠命令系统、以及 Gemini 3.5 Flash 编码代理，支持迁移指南和免费使用。适用场景为开发者日常终端操作、代码生成、工作流自动化及 AI 辅助编程。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:31.112340+00:00"
+    },
+    {
+      "title": "simonlin1212/global-stock-data",
+      "source": "github-trending",
+      "url": "https://github.com/simonlin1212/global-stock-data",
+      "description": "美股港股全栈数据工具包 (AI Skill) — 7层架构 · 17端点 · 5数据源 · 零鉴权 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
+      "stars": 161,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-20T12:52:40Z",
+      "summary": "simonlin1212/global-stock-data 是一个为 AI 编程助手设计的全栈美股港股数据工具包。它通过7层架构、17个API端点和5个数据源，提供零鉴权的金融数据访问，解决了AI模型在获取实时股票数据时的高门槛和鉴权复杂问题。核心技术亮点包括多层数据缓存、多源数据融合和标准化接口，适用于AI agent的金融分析、量化交易策略回测和投资研究自动化场景。",
+      "tags": [
+        "tool-use",
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:33.562118+00:00"
+    },
+    {
+      "title": "DEEIX-AI/DEEIX-Chat",
+      "source": "github-trending",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "stars": 154,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-26T01:53:49Z",
+      "summary": "DEEIX-Chat 是一个企业级 AI 工作空间，基于 Go 语言构建，解决企业多模型路由、多模态对话、文件处理、工具集成、计费、身份认证和运维管理问题。核心技术亮点包括模型路由、多模态交互、文件与工具集成、以及完整的计费和身份管理。适用场景为企业内部 AI 助手、多模型统一管理平台、以及需要集成多种 AI 工具和服务的业务系统。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-26T02:09:35.812330+00:00"
+    },
+    {
+      "title": "realrossmanngroup/no_ai_slop_writing_rules",
+      "source": "github-trending",
+      "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+      "stars": 149,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T00:40:22Z",
+      "summary": "这是一个GitHub仓库，提供Claude Code的参考配置，旨在让AI写作模仿Louis Rossmann的独特风格，避免生成千篇一律的AI内容。它通过一个便携的CLAUDE.md文件和技能集，解决AI输出缺乏个性、过于模板化的问题。核心技术亮点是prompt-engineering，通过定制化指令引导LLM生成特定风格文本。适用场景包括需要个性化AI写作的开发者、内容创作者，以及希望提升AI输出自然度和辨识度的团队。",
+      "tags": [
+        "prompt-engineering",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:38.086009+00:00"
+    },
+    {
+      "title": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "source": "github-trending",
+      "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+      "stars": 141,
+      "language": "TypeScript",
+      "topics": [
+        "ai-app",
+        "ai-application",
+        "ai-powered-applications",
+        "deep-seek",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-api",
+        "deepseek-app",
+        "deepseek-chat",
+        "deepseek-cli",
+        "deepseek-desktop",
+        "deepseek-download",
+        "deepseek-ocr-2",
+        "deepseek-pro",
+        "deepseek-r1",
+        "deepseek-v3",
+        "deepseek-v4",
+        "deepseek-v4-pro",
+        "deepseekv4"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-23T17:13:12Z",
+      "summary": "mikaeldengale-cloud/Deepseek-v4-Pro-App 是一个基于 DeepSeek V4 Flash Pro Chat API 的 Windows 11 桌面客户端，提供免费 API 设置指南和本地部署方案。核心亮点包括支持推理最大模式（Reasoning Max Mode）、MoE 模型架构（1.6T 参数）以及 AI 助手与编码代理功能。适用场景为开发者快速搭建本地 AI 聊天与代码生成工具，降低 API 使用门槛。",
+      "tags": [
+        "ai-assistant",
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-26T02:09:40.191629+00:00"
+    },
+    {
+      "title": "workos/auth.md",
+      "source": "github-trending",
+      "url": "https://github.com/workos/auth.md",
+      "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.",
+      "stars": 128,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-21T21:15:33Z",
+      "summary": "WorkOS Auth 是一个开放协议，允许 AI 代理代表用户在服务上注册，并通过域名下的 Markdown 文件实现服务发现。它解决了代理在用户授权下自主访问第三方服务时的身份注册与发现难题。核心技术亮点包括基于 Markdown 的轻量级服务注册表、去中心化授权机制以及用户可控的代理权限管理。适用场景为需要代理自主操作 SaaS 工具、自动化工作流或跨平台服务集成的 AI 应用开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-26T02:09:42.365464+00:00"
+    },
+    {
+      "title": "chefkannofriend-source/mbbb-baker-agent",
+      "source": "github-trending",
+      "url": "https://github.com/chefkannofriend-source/mbbb-baker-agent",
+      "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation",
+      "stars": 126,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-25T13:43:51Z",
+      "summary": "这是一个基于Claude Code的subagent项目，专门用于烘焙食谱查询和烘焙百分比计算。它解决了烘焙师在配方调整和百分比换算中的手动计算痛点，通过AI代理自动解析食谱并执行Baker's Percentage计算。核心技术亮点是作为Claude Code的subagent，利用LLM进行自然语言食谱理解与数学计算结合。适用于烘焙行业从业者、食谱开发者及AI agent在垂直领域应用的参考案例。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-26T02:09:44.841768+00:00"
+    },
+    {
+      "title": "NanoFlow-io/engram",
+      "source": "github-trending",
+      "url": "https://github.com/NanoFlow-io/engram",
+      "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall",
+      "stars": 119,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "embeddings",
+        "lancedb",
+        "memory",
+        "openclaw",
+        "rag",
+        "sqlite",
+        "typescript"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-22T06:06:14Z",
+      "summary": "NanoFlow-io/engram 是一个为 OpenClaw 智能体设计的混合长期记忆插件，解决 AI 代理在持久化结构化事实与语义回忆间的割裂问题。核心技术结合 SQLite+FTS5 管理结构化事实，LanceDB 处理语义向量检索，实现双通道记忆存储。适用于需要长期上下文记忆的 AI 代理应用，如对话系统、任务规划代理。",
+      "tags": [
+        "agent",
+        "vector-database",
+        "open-source",
+        "ai-assistant",
+        "rag"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:09:46.741731+00:00"
+    },
+    {
+      "title": "zhongweiv/hermes-edu-skills",
+      "source": "github-trending",
+      "url": "https://github.com/zhongweiv/hermes-edu-skills",
+      "description": "中文教育 Agent Skill Pack：教材同步、备考复习、拍照答疑、错题复盘、亲子陪学、阅读写作和教师工具，Hermes Agent 可直接使用，也可导出到 OpenClaw/Codex/Cursor/Claude Code。",
+      "stars": 113,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-education",
+        "china-education",
+        "edtech",
+        "education",
+        "hermes-agent",
+        "k12",
+        "learning",
+        "open-source",
+        "shineway",
+        "skill-pack",
+        "skills",
+        "teacher-tools",
+        "teaching"
+      ],
+      "collected_at": "2026-05-26T02:09:05.440004+00:00",
+      "published_at": "2026-05-22T16:13:09Z",
+      "summary": "Hermes-Edu-Skills 是一个面向中文教育场景的 Agent Skill Pack，提供教材同步、备考复习、拍照答疑、错题复盘、亲子陪学、阅读写作和教师工具等技能模块。它解决通用 AI Agent 在教育领域缺乏领域知识和交互流程适配的问题，核心亮点是技能包可直接在 Hermes Agent 中使用，也可导出到 OpenClaw/Codex/Cursor/Claude Code 等平台，实现跨 Agent 框架的复用。适用于 K12 教育、家庭辅导和教师备课等场景。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-26T02:09:48.947714+00:00"
+    }
+  ]
+}

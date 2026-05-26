@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-26T02:09:07.146043+00:00",
+  "date": "2026-05-26",
+  "count": 20,
+  "items": [
+    {
+      "title": "Using AI to write better code more slowly",
+      "source": "hackernews-top",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "hn_url": "https://news.ycombinator.com/item?id=48272984",
+      "description": "",
+      "hn_score": 153,
+      "comments": 46,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "文章探讨如何利用AI辅助编程时，通过放慢速度、增加思考与审查环节来提升代码质量，而非追求速度。核心解决AI生成代码常见的高错误率与低可维护性问题。技术亮点在于强调“慢工出细活”的协作流程：先由AI生成草案，再人工逐步审查、重构、测试。适用场景为需要高可靠性与长期维护的复杂项目开发。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-26T02:09:51.083134+00:00"
+    },
+    {
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "source": "hackernews-top",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "hn_url": "https://news.ycombinator.com/item?id=48270770",
+      "description": "",
+      "hn_score": 164,
+      "comments": 76,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "挪威政府部署2PB华为闪存存储，用于支撑大规模LLM训练。核心解决AI训练中高吞吐、低延迟的数据存储瓶颈，华为闪存方案提供高密度、低功耗的存储架构，适用于需要频繁读写海量训练数据的场景。",
+      "tags": [
+        "large-language-model",
+        "infrastructure",
+        "storage"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-26T02:09:53.067497+00:00"
+    },
+    {
+      "title": "Exit IP VPN servers mitigation rollout",
+      "source": "hackernews-top",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "hn_url": "https://news.ycombinator.com/item?id=48269580",
+      "description": "",
+      "hn_score": 269,
+      "comments": 43,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "该项目是关于出口IP VPN服务器的缓解部署方案。它解决的是VPN出口IP被滥用或封锁的问题，通过动态调整和轮换出口IP来提升连接的稳定性和可用性。核心技术亮点包括自动化IP池管理、负载均衡以及故障转移机制。适用场景包括需要稳定VPN连接的企业网络、跨境数据传输以及对抗IP封锁的隐私保护场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-26T02:09:55.043025+00:00"
+    },
+    {
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "hn_url": "https://news.ycombinator.com/item?id=48269961",
+      "description": "",
+      "hn_score": 661,
+      "comments": 294,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "加州因公众强烈反对，拟豁免Linux系统免受其年龄验证法律约束。该法律原要求平台验证用户年龄，引发对开源社区和开发者自由的担忧。核心亮点是立法者响应技术社区反馈，调整政策以保护开源生态。适用场景：开源项目法律合规、技术政策制定。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-26T02:09:57.022029+00:00"
+    },
+    {
+      "title": "Hacker News front page as a site",
+      "source": "hackernews-top",
+      "url": "https://thefrontpage.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48271127",
+      "description": "",
+      "hn_score": 120,
+      "comments": 44,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Hacker News front page as a site 是一个将 Hacker News 首页内容静态化展示的网站。它解决了用户需要频繁访问 HN 首页获取最新技术新闻和讨论的需求，通过抓取并渲染首页条目，提供简洁、快速的浏览体验。核心技术亮点是自动化抓取与静态页面生成，无需数据库或后端服务。适用场景包括技术爱好者、开发者快速浏览每日 HN 热门内容。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-26T02:09:59.129010+00:00"
+    },
+    {
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "source": "hackernews-top",
+      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48268609",
+      "description": "",
+      "hn_score": 128,
+      "comments": 54,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "该条目报道了日本7-Eleven创始人铃木敏文去世的消息，属于商业新闻而非技术内容。它不涉及任何AI/LLM技术问题，无法提供技术摘要。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-05-26T02:10:00.502335+00:00"
+    },
+    {
+      "title": "Magnifica Humanitas",
+      "source": "hackernews-top",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48265206",
+      "description": "",
+      "hn_score": 1345,
+      "comments": 758,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Magnifica Humanitas 是一个开源项目，旨在通过结合大型语言模型与人类反馈机制，解决 AI 生成内容缺乏人文深度与伦理考量的问题。其核心技术亮点在于引入多轮对话中的情感感知与价值观对齐模块，利用 fine-tuning 和 prompt-engineering 优化输出质量。适用场景包括教育辅导、心理咨询辅助及文化内容创作，强调 AI 的共情能力与道德边界。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "prompt-engineering",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-26T02:10:02.447620+00:00"
+    },
+    {
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "source": "hackernews-top",
+      "url": "https://support.apple.com/en-us/127115",
+      "hn_url": "https://news.ycombinator.com/item?id=48273169",
+      "description": "",
+      "hn_score": 67,
+      "comments": 23,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "CVE-2026-28952 是 Apple macOS 26.5 内核漏洞，由 Claude AI 发现。该漏洞解决了内核内存损坏导致权限提升的安全问题，核心亮点在于利用 LLM 进行自动化漏洞挖掘，展示了 AI 在系统安全领域的应用。适用于安全研究人员、macOS 开发者及 AI 辅助漏洞检测场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-26T02:10:04.390426+00:00"
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "source": "hackernews-top",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "hn_url": "https://news.ycombinator.com/item?id=48272354",
+      "description": "",
+      "hn_score": 189,
+      "comments": 38,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Microsoft Copilot 存在数据泄露风险，攻击者可通过“协同工作”功能诱骗 AI 助手读取并外泄敏感文件。该问题暴露了 AI 助手在权限控制与上下文隔离上的缺陷，核心在于缺乏对用户指令的严格安全边界验证。适用于企业级 AI 助手的安全审计与防护设计场景。",
+      "tags": [
+        "ai-assistant",
+        "security",
+        "large-language-model"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-05-26T02:10:06.435709+00:00"
+    },
+    {
+      "title": "Agentic Patterns",
+      "source": "hackernews-top",
+      "url": "https://veso.ai/research/agentic-patterns/",
+      "hn_url": "https://news.ycombinator.com/item?id=48272694",
+      "description": "",
+      "hn_score": 15,
+      "comments": 4,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Agentic Patterns 是一套描述AI代理系统设计模式的框架，解决多步骤任务中代理自主决策、工具调用和状态管理的问题。核心技术包括任务分解、记忆回溯、工具编排和错误恢复机制，适用于复杂工作流自动化、多代理协作场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-26T02:10:08.283637+00:00"
+    },
+    {
+      "title": "C extensions, portability, and alternative compilers",
+      "source": "hackernews-top",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48267126",
+      "description": "",
+      "hn_score": 139,
+      "comments": 48,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "本文探讨Python C扩展的跨平台兼容性问题，以及替代编译器（如Cython、PyPy）的解决方案。核心亮点在于分析不同编译器对扩展性能与可移植性的影响，并给出迁移建议。适用于需要优化Python性能或维护跨平台C扩展的开发者。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-26T02:10:09.961301+00:00"
+    },
+    {
+      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "source": "hackernews-top",
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "hn_url": "https://news.ycombinator.com/item?id=48270812",
+      "description": "",
+      "hn_score": 101,
+      "comments": 88,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "日本成功测试了一款为马赫5级飞行器设计的冲压发动机。该技术旨在解决高超音速飞行的动力问题，核心亮点在于实现了超燃冲压发动机在极端速度下的稳定燃烧与推力输出。适用于高超音速巡航导弹、高速侦察机及未来空天飞机等场景。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-26T02:10:11.664632+00:00"
+    },
+    {
+      "title": "Yoti age checks share facial photos and device fingerprints with third parties",
+      "source": "hackernews-top",
+      "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48271327",
+      "description": "",
+      "hn_score": 120,
+      "comments": 25,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Yoti 年龄验证服务在验证用户年龄时，会将面部照片和设备指纹等敏感数据共享给第三方合作伙伴。该技术旨在解决在线年龄验证的合规性与隐私风险，核心亮点在于结合面部识别与设备指纹技术实现非接触式验证，但引发了数据共享范围与用户隐私保护的争议。适用场景包括需要年龄限制的在线平台（如游戏、社交、电商）的合规验证流程。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-26T02:10:13.746543+00:00"
+    },
+    {
+      "title": "Everyone Against Us (2023)",
+      "source": "hackernews-top",
+      "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+      "hn_url": "https://news.ycombinator.com/item?id=48212461",
+      "description": "",
+      "hn_score": 55,
+      "comments": 8,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Everyone Against Us (2023) 是一篇探讨AI系统在对抗性环境中生存与发展的技术文章。它解决了AI模型在面对恶意攻击、数据污染或对抗性样本时的鲁棒性问题。核心技术亮点包括提出一种基于博弈论的防御框架，通过动态策略调整和异常检测增强模型韧性。适用场景为安全敏感型AI应用，如金融风控、自动驾驶或内容审核系统。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-26T02:10:15.701240+00:00"
+    },
+    {
+      "title": "Gnutella: A Protocol Outliving the World That Created It",
+      "source": "hackernews-top",
+      "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48231247",
+      "description": "",
+      "hn_score": 212,
+      "comments": 68,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Gnutella 是一种去中心化的 P2P 文件共享协议，旨在解决传统中心化文件共享系统的单点故障和审查问题。其核心技术亮点包括完全分布式网络架构、基于 TTL 的查询洪泛路由机制，以及动态节点发现协议。适用于构建抗审查、高容错的分布式文件共享系统，或作为研究 P2P 网络演进的参考案例。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-26T02:10:18.043945+00:00"
+    },
+    {
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "source": "hackernews-top",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "hn_url": "https://news.ycombinator.com/item?id=48265056",
+      "description": "",
+      "hn_score": 144,
+      "comments": 61,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "IBM 将量子芯片制造业务分拆为独立纯晶圆代工厂，解决量子计算硬件从实验室研发到商业化量产的关键瓶颈。核心技术亮点包括超导量子比特工艺、高精度多层布线及低温封装集成，适用于量子处理器原型验证、小批量定制化芯片生产及量子-经典异构计算硬件开发。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-05-26T02:10:20.393318+00:00"
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "source": "hackernews-top",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "hn_url": "https://news.ycombinator.com/item?id=48266906",
+      "description": "",
+      "hn_score": 266,
+      "comments": 69,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "荷兰警方扣押800台服务器并逮捕2人，这些服务器被用于提供DDoS-for-hire服务，攻击者通过租用这些服务器发起大规模网络攻击。该行动打击了犯罪基础设施，核心技术亮点是执法机构通过追踪服务器租赁记录和日志分析锁定嫌疑人。适用场景包括网络安全执法和打击网络犯罪。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-26T02:10:22.377224+00:00"
+    },
+    {
+      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+      "source": "hackernews-top",
+      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48268871",
+      "description": "",
+      "hn_score": 194,
+      "comments": 266,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "Uber COO指出，随着tokenmaxxing（最大化代币使用）策略的边际效益递减，企业越来越难证明其高昂投入的合理性。该问题源于AI模型推理成本与收益的不匹配，核心在于需要更精准的成本效益分析框架。技术亮点包括引入ROI导向的token预算管理、动态调整模型调用策略。适用场景为企业级AI部署的成本优化与资源分配决策。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-26T02:10:24.741127+00:00"
+    },
+    {
+      "title": "Every Frontier AI Is INTJ",
+      "source": "hackernews-top",
+      "url": "https://zonted.com/posts/every-ai-is-intj/",
+      "hn_url": "https://news.ycombinator.com/item?id=48272755",
+      "description": "",
+      "hn_score": 18,
+      "comments": 7,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "文章将前沿AI系统的行为模式类比为MBTI人格类型中的INTJ（建筑师型），探讨其战略规划、独立决策和系统化思维特征。核心观点是AI的理性、目标导向和低情感依赖特性与INTJ高度吻合，但未提供实证或技术细节。主要解决如何从人格心理学角度理解AI行为模式的问题，但缺乏技术深度。适用场景为AI文化讨论或科普，对工程实践无直接指导价值。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-26T02:10:27.006958+00:00"
+    },
+    {
+      "title": "Bytecode VMs in surprising places (2024)",
+      "source": "hackernews-top",
+      "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+      "hn_url": "https://news.ycombinator.com/item?id=48236122",
+      "description": "",
+      "hn_score": 141,
+      "comments": 54,
+      "collected_at": "2026-05-26T02:09:05.627465+00:00",
+      "published_at": "2026-05-26T02:09:05.627465+00:00",
+      "summary": "本文探讨了字节码虚拟机（Bytecode VMs）在非传统场景中的广泛应用，如游戏脚本、嵌入式系统和浏览器引擎。它解决了开发者对VM实现复杂性的误解，通过展示Lua、WebAssembly等实例，说明如何利用轻量级VM提升跨平台兼容性和执行效率。核心技术亮点包括指令集设计、垃圾回收优化和即时编译（JIT）的权衡。适用场景包括游戏开发、物联网设备及沙箱环境。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-05-26T02:10:29.646134+00:00"
+    }
+  ]
+}
