@@ -1,0 +1,378 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-27T02:29:19.724386+00:00",
+  "date": "2026-05-27",
+  "count": 20,
+  "items": [
+    {
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "hn_url": "https://news.ycombinator.com/item?id=48284712",
+      "description": "",
+      "hn_score": 231,
+      "comments": 86,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "该条目讨论Garden Grove化工厂储罐泄漏的化学原理，分析反应机制与安全风险。解决工业事故预防与应急响应问题。核心技术亮点包括反应动力学建模与泄漏扩散模拟。适用场景为化工安全评估与事故调查。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-27T02:30:10.096767+00:00"
+    },
+    {
+      "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+      "source": "hackernews-top",
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48287649",
+      "description": "",
+      "hn_score": 35,
+      "comments": 16,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "文章探讨AI工具的有效性取决于使用者的判断力，而非工具本身。核心观点是：AI工具（如LLM）的输出质量依赖于人类在输入、筛选、解释和决策中的判断。解决的是过度依赖AI自动化而忽视人类监督的问题。技术亮点在于强调判断力作为AI应用的关键技能，而非具体算法。适用场景：AI工程师、产品经理在设计和部署AI系统时需注重人机协作与评估机制。",
+      "tags": [
+        "ai-assistant",
+        "prompt-engineering",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-27T02:30:12.501678+00:00"
+    },
+    {
+      "title": "A few interesting modern pixel fonts",
+      "source": "hackernews-top",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "hn_url": "https://news.ycombinator.com/item?id=48271448",
+      "description": "",
+      "hn_score": 260,
+      "comments": 54,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "介绍一系列现代像素字体，解决复古风格与高分辨率显示兼容性问题。核心技术亮点包括优化字形清晰度、支持多种字重和字符集，适用于游戏开发、像素艺术和复古UI设计。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-05-27T02:30:14.606153+00:00"
+    },
+    {
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "source": "hackernews-top",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "hn_url": "https://news.ycombinator.com/item?id=48238703",
+      "description": "",
+      "hn_score": 171,
+      "comments": 42,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "作者构建了一个基于Git的书籍生产流水线，绕过Adobe InDesign和Microsoft Word等传统工具，解决版本控制与协作难题。核心技术亮点：使用Markdown写作、Git追踪变更、通过自定义脚本自动生成PDF/EPUB等格式，并集成CI/CD实现持续发布。适用场景：技术文档、开源书籍、需要多人协作的出版项目。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-27T02:30:16.823163+00:00"
+    },
+    {
+      "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+      "source": "hackernews-top",
+      "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+      "hn_url": "https://news.ycombinator.com/item?id=48287220",
+      "description": "",
+      "hn_score": 22,
+      "comments": 8,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "小米发布MiMo-v2.5模型，价格骤降99%，引发AI定价战。该模型旨在降低大模型调用成本，核心技术亮点包括高效推理优化和成本压缩策略，适用于对成本敏感的AI应用场景，如大规模推理、边缘计算或预算受限的部署。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-27T02:30:18.678802+00:00"
+    },
+    {
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "source": "hackernews-top",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "hn_url": "https://news.ycombinator.com/item?id=48285592",
+      "description": "",
+      "hn_score": 312,
+      "comments": 164,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "本文探讨大型科技公司反劳工策略在维基百科的体现，分析其如何通过操纵编辑规则、压制志愿者贡献来维护企业利益。核心问题是平台治理中权力不对等与劳工权益缺失。技术亮点在于揭示算法与社区规则如何被利用为控制工具。适用场景：AI伦理、平台治理、开源社区管理研究。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-27T02:30:20.905422+00:00"
+    },
+    {
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "hn_url": "https://news.ycombinator.com/item?id=48279316",
+      "description": "",
+      "hn_score": 787,
+      "comments": 360,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "西班牙监管机构以缺乏赌博牌照为由，禁止了预测市场平台Polymarket和Kalshi的运营。该事件涉及区块链预测市场与金融监管的冲突，核心是预测合约是否属于赌博产品的法律界定。技术层面，Polymarket依赖Polygon链上智能合约实现去中心化交易，Kalshi则采用中心化订单簿模型。该案例适用于研究DeFi合规性、预测市场机制设计及监管科技（RegTech）的边界问题。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-27T02:30:23.285362+00:00"
+    },
+    {
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "source": "hackernews-top",
+      "url": "https://github.com/logannye/rosalind",
+      "hn_url": "https://news.ycombinator.com/item?id=48222600",
+      "description": "",
+      "hn_score": 129,
+      "comments": 34,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "Rosalind 是一个基于 Rust 的基因组学工具包，旨在解决全基因组分析流程在笔记本电脑上运行时的性能瓶颈。其核心技术亮点包括利用 Rust 的内存安全性和零成本抽象实现高效计算，支持并行处理大规模基因组数据，并优化了 I/O 和内存使用。适用于生物信息学研究人员在资源受限环境下进行快速基因组分析、变异检测和序列比对。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-27T02:30:25.503424+00:00"
+    },
+    {
+      "title": "Scientists say they've reversed brain aging with a simple nasal spray",
+      "source": "hackernews-top",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=48288478",
+      "description": "",
+      "hn_score": 12,
+      "comments": 6,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "该条目报道科学家通过一种简单的鼻腔喷雾剂逆转了大脑衰老。它解决的是神经退行性疾病和认知衰退问题。核心技术亮点在于利用鼻腔喷雾递送特定分子（可能涉及抗炎或再生因子）直接作用于中枢神经系统，绕过血脑屏障。适用场景包括老年痴呆症、帕金森病等年龄相关脑部疾病的潜在治疗，以及健康老龄化研究。",
+      "tags": [
+        "ai-assistant"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-27T02:30:28.097724+00:00"
+    },
+    {
+      "title": "Dropbox CEO Drew Houston to step down",
+      "source": "hackernews-top",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48279453",
+      "description": "",
+      "hn_score": 300,
+      "comments": 330,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "Dropbox CEO Drew Houston 宣布将卸任，标志着公司领导层重大变动。该事件主要解决公司战略转型与长期发展问题，核心在于领导力交接与未来方向调整。适用场景为企业管理、科技行业动态分析。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-05-27T02:30:30.091390+00:00"
+    },
+    {
+      "title": "Use boring languages with LLMs",
+      "source": "hackernews-top",
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=48237012",
+      "description": "",
+      "hn_score": 178,
+      "comments": 143,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "文章主张在与LLM交互时，优先使用成熟、稳定的编程语言（如Python、Java、Go），而非追求新颖或小众语言。核心观点是：LLM对主流语言的训练数据更充分，能更准确理解和生成代码，减少幻觉和错误。解决开发者在LLM辅助编程中因语言选择不当导致的效率低下问题。技术亮点在于强调语言生态成熟度对LLM输出质量的影响，而非模型本身。适用场景包括AI辅助代码生成、自动化脚本编写及企业级LLM应用开发。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-27T02:30:32.954793+00:00"
+    },
+    {
+      "title": "Liverpool and Manchester Railway",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+      "hn_url": "https://news.ycombinator.com/item?id=48258314",
+      "description": "",
+      "hn_score": 13,
+      "comments": 2,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "利物浦和曼彻斯特铁路是1830年开通的世界首条城际客运铁路，解决了工业革命时期货物与人员运输效率低下的问题。核心技术亮点包括全程蒸汽机车牵引、双轨设计及信号系统雏形。适用场景为早期铁路技术史研究或交通工程教育案例。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-05-27T02:30:35.126405+00:00"
+    },
+    {
+      "title": "The real cost of owning a home",
+      "source": "hackernews-top",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "hn_url": "https://news.ycombinator.com/item?id=48281611",
+      "description": "",
+      "hn_score": 294,
+      "comments": 643,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "这是一篇关于购房实际成本的讨论文章，而非AI技术内容。它分析了购房过程中隐藏的费用，如维修、税收、保险等，并对比了租房与购房的长期财务影响。核心亮点是提供了全面的成本计算框架，帮助读者做出更明智的决策。适用场景为个人财务规划或房地产投资分析。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-05-27T02:30:37.022577+00:00"
+    },
+    {
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "source": "hackernews-top",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48278610",
+      "description": "",
+      "hn_score": 251,
+      "comments": 276,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "本文讨论外包结合本地AI部署的经济性将很快超越依赖前沿实验室（如OpenAI）的纯云端方案。核心观点是，随着开源模型性能提升和本地推理成本下降，企业可通过混合策略（部分任务外包+本地运行小模型）实现更低总成本与更高数据隐私。技术亮点在于成本模型对比与本地化部署的可行性分析。适用场景为预算敏感、数据安全要求高的企业AI应用开发。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-27T02:30:39.761505+00:00"
+    },
+    {
+      "title": "Opaque Types in Python",
+      "source": "hackernews-top",
+      "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48247416",
+      "description": "",
+      "hn_score": 113,
+      "comments": 53,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "Opaque Types in Python 是一种通过类型系统隐藏内部实现细节的编程模式，解决类型安全与封装性问题。核心亮点是利用 Python 的 `NewType` 或自定义类创建不透明类型，防止原始类型误用，适用于 API 设计、依赖注入等场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-27T02:30:41.869286+00:00"
+    },
+    {
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "source": "hackernews-top",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "hn_url": "https://news.ycombinator.com/item?id=48278406",
+      "description": "",
+      "hn_score": 532,
+      "comments": 209,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "荷兰政府阻止美国公司收购一家关键数字供应商，该事件涉及国家安全审查机制对数字基础设施供应链的控制。核心问题是防止关键数字服务（如云基础设施、数据存储）落入外国实体手中，以保障数据主权和运营安全。技术亮点在于荷兰援引《外国直接投资筛选法》进行干预，凸显了数字主权在AI和云服务依赖中的战略重要性。适用场景包括国家层面的数字供应链风险评估、跨境技术并购合规审查，以及AI基础设施供应商的国际化部署策略。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-27T02:30:44.887461+00:00"
+    },
+    {
+      "title": "Phantasy Star IV – 1993 Developer Interviews",
+      "source": "hackernews-top",
+      "url": "https://shmuplations.com/phantasystariv/",
+      "hn_url": "https://news.ycombinator.com/item?id=48235812",
+      "description": "",
+      "hn_score": 134,
+      "comments": 57,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "这是一篇1993年《梦幻之星IV》开发者访谈的存档文章，内容涉及游戏设计理念、剧情创作和编程技术。它解决的是对经典JRPG开发历史感兴趣的研究者或怀旧玩家的信息需求。核心亮点在于提供了第一手的开发幕后细节，如角色设计、战斗系统创新和故事创作过程。适用场景为游戏开发历史研究、复古游戏文化分析或怀旧内容阅读。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-27T02:30:47.851672+00:00"
+    },
+    {
+      "title": "The user is visibly frustrated",
+      "source": "hackernews-top",
+      "url": "https://pscanf.com/s/354/",
+      "hn_url": "https://news.ycombinator.com/item?id=48275059",
+      "description": "",
+      "hn_score": 279,
+      "comments": 245,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "This is a Hacker News post titled 'The user is visibly frustrated' with a high score of 279, likely discussing user experience (UX) design or AI interaction patterns where systems fail to detect or respond to user frustration. It addresses the problem of AI/LLM systems ignoring emotional cues, leading to poor user satisfaction. Core insight: integrating sentiment analysis or frustration detection into AI assistants to improve responsiveness. Applicable to designing empathetic AI agents, customer support chatbots, and user feedback loops.",
+      "tags": [
+        "ai-assistant",
+        "prompt-engineering",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-27T02:30:50.217572+00:00"
+    },
+    {
+      "title": "Using AI to write better code more slowly",
+      "source": "hackernews-top",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "hn_url": "https://news.ycombinator.com/item?id=48272984",
+      "description": "",
+      "hn_score": 1145,
+      "comments": 418,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "文章探讨如何利用AI辅助编程时，通过刻意放慢编码速度来提升代码质量。核心问题是AI生成代码虽快但常缺乏可维护性与正确性。技术亮点在于提出“慢速编码”方法论：先详细设计、再逐步生成、最后人工审查与重构。适用场景为需要高代码质量的生产环境与复杂系统开发。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-27T02:30:52.576297+00:00"
+    },
+    {
+      "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "source": "hackernews-top",
+      "url": "https://deepswe.datacurve.ai/blog",
+      "hn_url": "https://news.ycombinator.com/item?id=48284939",
+      "description": "",
+      "hn_score": 29,
+      "comments": 9,
+      "collected_at": "2026-05-27T02:29:19.103683+00:00",
+      "published_at": "2026-05-27T02:29:19.103683+00:00",
+      "summary": "DeepSWE是一个无污染基准测试，用于评估长周期编码智能体。它通过构建全新、未公开的软件工程任务，避免数据泄露，解决现有基准测试中模型记忆导致评分虚高的问题。核心技术亮点包括任务设计模拟真实开发流程、自动化验证机制。适用场景为评估LLM驱动的编码智能体在复杂、多步骤软件工程任务中的实际能力。",
+      "tags": [
+        "benchmark",
+        "code-generation",
+        "agent",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.7,
+      "analyzed_at": "2026-05-27T02:30:54.830699+00:00"
+    }
+  ]
+}

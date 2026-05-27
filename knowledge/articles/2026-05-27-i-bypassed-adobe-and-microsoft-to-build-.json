@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-27-007",
+  "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+  "source": "hackernews-top",
+  "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+  "summary": "作者构建了一个基于Git的书籍生产流水线，绕过Adobe InDesign和Microsoft Word等传统工具，解决版本控制与协作难题。核心技术亮点：使用Markdown写作、Git追踪变更、通过自定义脚本自动生成PDF/EPUB等格式，并集成CI/CD实现持续发布。适用场景：技术文档、开源书籍、需要多人协作的出版项目。",
+  "tags": [
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-05-27T02:29:19.103683+00:00",
+  "analyzed_at": "2026-05-27T02:30:16.823163+00:00",
+  "organized_at": "2026-05-27T02:30:54.844930+00:00",
+  "status": "published"
+}

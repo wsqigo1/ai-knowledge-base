@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-27-014",
+  "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+  "source": "hackernews-top",
+  "url": "https://deepswe.datacurve.ai/blog",
+  "summary": "DeepSWE是一个无污染基准测试，用于评估长周期编码智能体。它通过构建全新、未公开的软件工程任务，避免数据泄露，解决现有基准测试中模型记忆导致评分虚高的问题。核心技术亮点包括任务设计模拟真实开发流程、自动化验证机制。适用场景为评估LLM驱动的编码智能体在复杂、多步骤软件工程任务中的实际能力。",
+  "tags": [
+    "benchmark",
+    "code-generation",
+    "agent",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.7,
+  "collected_at": "2026-05-27T02:29:19.103683+00:00",
+  "analyzed_at": "2026-05-27T02:30:54.830699+00:00",
+  "organized_at": "2026-05-27T02:30:54.844930+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-27-009",
+  "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+  "source": "hackernews-top",
+  "url": "https://github.com/logannye/rosalind",
+  "summary": "Rosalind 是一个基于 Rust 的基因组学工具包，旨在解决全基因组分析流程在笔记本电脑上运行时的性能瓶颈。其核心技术亮点包括利用 Rust 的内存安全性和零成本抽象实现高效计算，支持并行处理大规模基因组数据，并优化了 I/O 和内存使用。适用于生物信息学研究人员在资源受限环境下进行快速基因组分析、变异检测和序列比对。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-27T02:29:19.103683+00:00",
+  "analyzed_at": "2026-05-27T02:30:25.503424+00:00",
+  "organized_at": "2026-05-27T02:30:54.844930+00:00",
+  "status": "published"
+}

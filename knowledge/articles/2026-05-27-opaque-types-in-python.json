@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-05-27-012",
+  "title": "Opaque Types in Python",
+  "source": "hackernews-top",
+  "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+  "summary": "Opaque Types in Python 是一种通过类型系统隐藏内部实现细节的编程模式，解决类型安全与封装性问题。核心亮点是利用 Python 的 `NewType` 或自定义类创建不透明类型，防止原始类型误用，适用于 API 设计、依赖注入等场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-27T02:29:19.103683+00:00",
+  "analyzed_at": "2026-05-27T02:30:41.869286+00:00",
+  "organized_at": "2026-05-27T02:30:54.844930+00:00",
+  "status": "published"
+}
