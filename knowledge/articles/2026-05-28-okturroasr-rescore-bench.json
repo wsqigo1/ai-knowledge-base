@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-28-005",
+  "title": "okturro/asr-rescore-bench",
+  "source": "github-trending",
+  "url": "https://github.com/okturro/asr-rescore-bench",
+  "summary": "okturro/asr-rescore-bench 是一个用于评估基于 LLM 的 ASR n-best 重打分策略的基准测试框架。它解决的是语音识别后处理中如何利用语言模型（ngram、neural-LM、MLM-PLL、LLM-prompt）从多个候选结果中选出最优转录的问题。核心技术亮点包括支持多种重打分策略的统一评估接口、可复现的基准数据集和标准化指标。适用场景为语音识别系统优化、LLM 在 ASR 后处理中的应用研究。",
+  "tags": [
+    "benchmark",
+    "large-language-model",
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-28T02:01:25.183203+00:00",
+  "analyzed_at": "2026-05-28T02:02:07.198555+00:00",
+  "organized_at": "2026-05-28T02:03:05.934398+00:00",
+  "status": "published"
+}

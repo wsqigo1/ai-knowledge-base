@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-28-006",
+  "title": "kppox/video-frame-sampler",
+  "source": "github-trending",
+  "url": "https://github.com/kppox/video-frame-sampler",
+  "summary": "kppox/video-frame-sampler 是一个基于内容感知的视频帧采样工具，专为视频-LLM 设计。它解决视频大模型处理长视频时帧冗余与关键信息丢失的矛盾，通过分析帧间内容变化（如运动、场景切换）智能选择代表性帧，而非均匀采样。核心技术包括动态阈值检测和注意力权重引导，支持自定义采样策略。适用于视频问答、摘要生成、事件检测等视频理解场景，可显著降低计算开销并提升模型输入质量。",
+  "tags": [
+    "multimodal",
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-28T02:01:25.183203+00:00",
+  "analyzed_at": "2026-05-28T02:02:12.978538+00:00",
+  "organized_at": "2026-05-28T02:03:05.934398+00:00",
+  "status": "published"
+}

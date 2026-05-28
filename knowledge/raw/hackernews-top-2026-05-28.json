@@ -1,0 +1,387 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-28T02:01:28.406169+00:00",
+  "date": "2026-05-28",
+  "count": 20,
+  "items": [
+    {
+      "title": "Can we have the day off?",
+      "source": "hackernews-top",
+      "url": "https://mlsu.io/posts/day-off/",
+      "hn_url": "https://news.ycombinator.com/item?id=48302745",
+      "description": "",
+      "hn_score": 298,
+      "comments": 189,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "该条目标题“Can we have the day off?”可能指向一篇关于AI/LLM系统可靠性或工作负载管理的讨论，核心是解决AI服务持续运行中的资源调度与维护问题。技术亮点可能涉及自动化运维、负载均衡或容错机制。适用场景包括AI服务部署、企业级LLM应用运维。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-28T02:02:20.262466+00:00"
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "source": "hackernews-top",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "hn_url": "https://news.ycombinator.com/item?id=48299753",
+      "description": "",
+      "hn_score": 544,
+      "comments": 325,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "YouTube将自动为AI生成视频添加标签，以应对深度伪造和虚假信息问题。核心技术亮点是使用机器学习模型检测视频是否由AI生成，并强制标注。解决用户对AI生成内容真实性的信任问题。适用场景包括新闻、教育、娱乐等视频平台的内容审核与透明度提升。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-28T02:02:22.312711+00:00"
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "hn_url": "https://news.ycombinator.com/item?id=48296794",
+      "description": "",
+      "hn_score": 656,
+      "comments": 801,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "该文讨论Anthropic和OpenAI已找到产品-市场契合点（PMF），核心是两家公司的大语言模型（large-language-model）在商业应用中达到稳定需求匹配。解决AI产品从技术演示到实际部署的落地难题。技术亮点在于模型推理能力（reasoning）和工具使用（tool-use）的成熟，支撑了AI助手（ai-assistant）和代码生成（code-generation）等场景。适用场景包括企业级AI集成、开发者工具链和自动化工作流。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "reasoning",
+        "tool-use",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-28T02:02:24.949562+00:00"
+    },
+    {
+      "title": "What Apple and Google are doing to push notifications",
+      "source": "hackernews-top",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "hn_url": "https://news.ycombinator.com/item?id=48299220",
+      "description": "",
+      "hn_score": 179,
+      "comments": 183,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "文章探讨苹果与谷歌在推送通知技术上的最新进展，解决跨平台通知延迟、隐私保护及用户体验不一致的问题。核心技术亮点包括苹果的私有中继机制与谷歌的FCM增强版，通过端到端加密和智能优先级调度优化通知投递。适用场景为移动应用开发者需优化推送效率与合规性，以及终端用户对通知实时性与隐私的需求。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-28T02:02:27.321295+00:00"
+    },
+    {
+      "title": "SimCity 3k in 4k (2025)",
+      "source": "hackernews-top",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48297645",
+      "description": "",
+      "hn_score": 287,
+      "comments": 107,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "该项目将经典游戏《模拟城市3000》以4K分辨率重制，解决老游戏在现代高分辨率显示器上画面模糊的问题。核心技术包括逆向工程游戏渲染管线、重写纹理缩放算法、适配高DPI界面。适用于怀旧游戏玩家、复古游戏技术研究、图形渲染优化学习场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-28T02:02:29.747377+00:00"
+    },
+    {
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "source": "hackernews-top",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "hn_url": "https://news.ycombinator.com/item?id=48299623",
+      "description": "",
+      "hn_score": 105,
+      "comments": 11,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "该项目展示了在越狱的Kindle设备上运行Rust和Slint UI框架。解决在低功耗、非标准硬件上部署现代GUI应用的问题。核心技术亮点包括利用Rust的内存安全性和性能优势，以及Slint的轻量级声明式UI设计，实现嵌入式系统的高效交互。适用场景为物联网设备、电子阅读器改造及资源受限平台的GUI开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-05-28T02:02:32.417296+00:00"
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "source": "hackernews-top",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "hn_url": "https://news.ycombinator.com/item?id=48296649",
+      "description": "",
+      "hn_score": 675,
+      "comments": 337,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "DuckDuckGo在Google宣称用户喜爱AI搜索模式后，其搜索访问量增长28%。该事件反映用户对隐私保护型AI搜索的需求，以及市场对主流AI搜索模式的差异化反应。核心亮点是隐私优先的搜索策略在AI时代获得用户认可，适用于隐私敏感型搜索场景。",
+      "tags": [
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-28T02:02:34.701938+00:00"
+    },
+    {
+      "title": "Go: Support for Generic Methods",
+      "source": "hackernews-top",
+      "url": "https://github.com/golang/go/issues/77273",
+      "hn_url": "https://news.ycombinator.com/item?id=48291575",
+      "description": "",
+      "hn_score": 192,
+      "comments": 145,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "Go 语言提案支持泛型方法（Generic Methods），允许在方法级别定义类型参数，解决当前仅函数支持泛型的限制。核心亮点是扩展 Go 1.18 引入的泛型能力，使方法能独立于结构体定义类型约束，提升代码复用性与类型安全。适用于需要强类型抽象的场景，如集合操作、算法库或 API 设计。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-05-28T02:02:37.347533+00:00"
+    },
+    {
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "source": "hackernews-top",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "hn_url": "https://news.ycombinator.com/item?id=48293080",
+      "description": "",
+      "hn_score": 261,
+      "comments": 193,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "GitHub 遭遇大规模服务中断，影响 Pull Requests、Issues、Git 操作和 API 请求。核心问题是基础设施故障导致多项核心功能不可用。技术亮点在于快速定位并修复了底层存储或网络瓶颈。适用于 DevOps 团队学习高可用架构设计及故障排查流程。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-05-28T02:02:39.504012+00:00"
+    },
+    {
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "hn_url": "https://news.ycombinator.com/item?id=48296994",
+      "description": "",
+      "hn_score": 415,
+      "comments": 304,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "加拿大决定从瑞典采购军用飞机队，替代传统美国供应商，反映地缘政治与供应链多元化趋势。该决策涉及国防采购策略调整，核心是减少对单一国家依赖，增强自主性。技术层面无直接AI/LLM关联，但体现国家层面技术供应链风险管理思路。适用场景：国防政策分析、国际关系研究、供应链战略规划。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-28T02:02:41.686506+00:00"
+    },
+    {
+      "title": "Last.fm is now independent",
+      "source": "hackernews-top",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "hn_url": "https://news.ycombinator.com/item?id=48295892",
+      "description": "",
+      "hn_score": 631,
+      "comments": 178,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "Last.fm宣布从CBS剥离，重新成为独立公司。该平台专注于音乐发现与个性化推荐，核心亮点在于其基于用户收听数据的协同过滤算法和社交功能。适用场景包括音乐流媒体服务、用户行为分析与推荐系统研究。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-05-28T02:02:43.493649+00:00"
+    },
+    {
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "source": "hackernews-top",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "hn_url": "https://news.ycombinator.com/item?id=48297467",
+      "description": "",
+      "hn_score": 92,
+      "comments": 47,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "本文探讨了除HTTPS之外的替代互联网协议，如Gemini（非Google AI）、Gopher和Finger等，这些协议旨在提供更轻量、去中心化的网络访问方式。核心亮点在于对比了现代HTTPS的臃肿与隐私问题，并展示了替代方案在简化通信、减少追踪方面的优势。适用场景包括对隐私敏感、资源受限或希望探索非主流网络技术的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-28T02:02:45.894736+00:00"
+    },
+    {
+      "title": "Mini Micro Fantasy Computer",
+      "source": "hackernews-top",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "hn_url": "https://news.ycombinator.com/item?id=48291947",
+      "description": "",
+      "hn_score": 233,
+      "comments": 80,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "Mini Micro Fantasy Computer 是一个轻量级的虚拟计算机模拟器，旨在提供一个极简的编程和游戏开发环境。它解决了在受限硬件上学习编程和创建复古风格应用的痛点，核心技术亮点包括内置的 BASIC 语言解释器、图形和音频支持，以及跨平台运行能力。适用场景包括教育、复古游戏开发和创意编程入门。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-28T02:02:48.532164+00:00"
+    },
+    {
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "source": "hackernews-top",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=48300280",
+      "description": "",
+      "hn_score": 16,
+      "comments": 4,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "Open-Source AI Racing Harness 是一个开源项目，旨在为AI模型提供赛车模拟环境中的性能评估与训练框架。它解决了在动态、实时场景下测试AI决策能力（如强化学习）缺乏标准化平台的问题。核心技术亮点包括：支持多智能体竞争、可自定义赛道与物理参数、集成实时数据可视化与日志记录。适用场景为AI研究中的强化学习算法开发、自动驾驶决策模拟、以及多智能体协作/对抗实验。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "multi-agent",
+        "reinforcement-learning",
+        "simulation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-28T02:02:51.377149+00:00"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48295679",
+      "description": "",
+      "hn_score": 574,
+      "comments": 289,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "文章讨论科技CEO们因过度投入AI竞赛而表现出类似精神错乱的行为，如忽视实际用户需求、盲目追逐炒作。核心问题在于AI行业缺乏理性评估，导致资源错配。技术亮点在于揭示AI产品开发中的认知偏差。适用场景为AI战略决策与行业批判分析。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-28T02:02:53.468576+00:00"
+    },
+    {
+      "title": "Private equity bought America's essential services",
+      "source": "hackernews-top",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "hn_url": "https://news.ycombinator.com/item?id=48292941",
+      "description": "",
+      "hn_score": 440,
+      "comments": 493,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "本文探讨私募股权收购美国基础服务（如医疗、能源、水务）的现象，分析其通过杠杆收购和成本削减获取利润的模式。核心问题在于私有化导致服务透明度下降、维护不足和价格上升。技术亮点在于揭示金融资本如何利用法律和财务工具控制关键基础设施。适用场景为政策制定者、投资者和公众理解经济结构变化。",
+      "tags": [
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-05-28T02:02:56.024831+00:00"
+    },
+    {
+      "title": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
+      "source": "hackernews-top",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "hn_url": "https://news.ycombinator.com/item?id=48247005",
+      "description": "",
+      "hn_score": 155,
+      "comments": 45,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "该研究揭示GPU矩阵乘法在输入数据具有可预测模式时性能显著提升，通过分析数据分布规律优化内存访问模式与计算调度，解决传统GPU计算中因数据随机性导致的缓存未命中与线程束发散问题。核心技术亮点包括基于数据熵的预排序算法与动态内核调整策略，适用于深度学习推理加速、科学计算及实时图形处理等场景。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-28T02:02:58.540974+00:00"
+    },
+    {
+      "title": "All of human cooking compressed into 2 megabytes",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "hn_url": "https://news.ycombinator.com/item?id=48291225",
+      "description": "",
+      "hn_score": 363,
+      "comments": 149,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "该项目将人类烹饪知识压缩至2MB，解决大规模烹饪数据存储与检索效率问题。核心技术采用极致的文本压缩算法与结构化知识编码，将海量菜谱、技巧、原理浓缩为极小体积，适用于离线设备、低带宽环境或嵌入式系统中的烹饪辅助应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-28T02:03:00.669398+00:00"
+    },
+    {
+      "title": "Fully in-browser container builds",
+      "source": "hackernews-top",
+      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+      "hn_url": "https://news.ycombinator.com/item?id=48266323",
+      "description": "",
+      "hn_score": 45,
+      "comments": 26,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "Fully in-browser container builds 是一个开源项目，实现在浏览器内完成容器镜像的构建，无需服务器或本地Docker环境。它解决传统容器构建依赖外部基础设施的问题，核心技术利用WebAssembly和浏览器沙箱机制模拟构建环境，支持Dockerfile解析和层缓存。适用于边缘计算、在线IDE、教育演示等场景，降低容器技术使用门槛。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-28T02:03:03.413176+00:00"
+    },
+    {
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "hn_url": "https://news.ycombinator.com/item?id=48297723",
+      "description": "",
+      "hn_score": 40,
+      "comments": 4,
+      "collected_at": "2026-05-28T02:01:25.404367+00:00",
+      "published_at": "2026-05-28T02:01:25.404367+00:00",
+      "summary": "提出一个多智能体LLM系统，用于自动化漏洞发现与复现。解决安全研究中手动漏洞挖掘效率低、复现困难的问题。核心亮点包括：多智能体协作框架（如规划、执行、验证智能体分工）、基于LLM的代码分析与漏洞模式匹配、自动化复现流水线。适用场景：软件安全测试、DevSecOps中的持续漏洞扫描、开源项目安全审计。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-05-28T02:03:05.920169+00:00"
+    }
+  ]
+}

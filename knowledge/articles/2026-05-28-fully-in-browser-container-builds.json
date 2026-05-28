@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-28-016",
+  "title": "Fully in-browser container builds",
+  "source": "hackernews-top",
+  "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+  "summary": "Fully in-browser container builds 是一个开源项目，实现在浏览器内完成容器镜像的构建，无需服务器或本地Docker环境。它解决传统容器构建依赖外部基础设施的问题，核心技术利用WebAssembly和浏览器沙箱机制模拟构建环境，支持Dockerfile解析和层缓存。适用于边缘计算、在线IDE、教育演示等场景，降低容器技术使用门槛。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-28T02:01:25.404367+00:00",
+  "analyzed_at": "2026-05-28T02:03:03.413176+00:00",
+  "organized_at": "2026-05-28T02:03:05.934398+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-28-014",
+  "title": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
+  "source": "hackernews-top",
+  "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+  "summary": "该研究揭示GPU矩阵乘法在输入数据具有可预测模式时性能显著提升，通过分析数据分布规律优化内存访问模式与计算调度，解决传统GPU计算中因数据随机性导致的缓存未命中与线程束发散问题。核心技术亮点包括基于数据熵的预排序算法与动态内核调整策略，适用于深度学习推理加速、科学计算及实时图形处理等场景。",
+  "tags": [
+    "benchmark",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-28T02:01:25.404367+00:00",
+  "analyzed_at": "2026-05-28T02:02:58.540974+00:00",
+  "organized_at": "2026-05-28T02:03:05.934398+00:00",
+  "status": "published"
+}

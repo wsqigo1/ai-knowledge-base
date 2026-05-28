@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-28-017",
+  "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2605.21779",
+  "summary": "提出一个多智能体LLM系统，用于自动化漏洞发现与复现。解决安全研究中手动漏洞挖掘效率低、复现困难的问题。核心亮点包括：多智能体协作框架（如规划、执行、验证智能体分工）、基于LLM的代码分析与漏洞模式匹配、自动化复现流水线。适用场景：软件安全测试、DevSecOps中的持续漏洞扫描、开源项目安全审计。",
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-05-28T02:01:25.404367+00:00",
+  "analyzed_at": "2026-05-28T02:03:05.920169+00:00",
+  "organized_at": "2026-05-28T02:03:05.934398+00:00",
+  "status": "published"
+}

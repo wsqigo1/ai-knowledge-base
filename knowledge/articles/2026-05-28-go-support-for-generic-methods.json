@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-28-012",
+  "title": "Go: Support for Generic Methods",
+  "source": "hackernews-top",
+  "url": "https://github.com/golang/go/issues/77273",
+  "summary": "Go 语言提案支持泛型方法（Generic Methods），允许在方法级别定义类型参数，解决当前仅函数支持泛型的限制。核心亮点是扩展 Go 1.18 引入的泛型能力，使方法能独立于结构体定义类型约束，提升代码复用性与类型安全。适用于需要强类型抽象的场景，如集合操作、算法库或 API 设计。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-05-28T02:01:25.404367+00:00",
+  "analyzed_at": "2026-05-28T02:02:37.347533+00:00",
+  "organized_at": "2026-05-28T02:03:05.934398+00:00",
+  "status": "published"
+}
