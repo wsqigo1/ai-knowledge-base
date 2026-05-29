@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-29-009",
+  "title": "Building durable workflows on Postgres",
+  "source": "hackernews-top",
+  "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+  "summary": "Building durable workflows on Postgres 是一篇技术文章，介绍如何利用 PostgreSQL 数据库构建可靠、持久的工作流引擎。它解决的是传统工作流系统依赖外部消息队列或状态存储带来的复杂性和一致性问题。核心亮点是使用 Postgres 的 LISTEN/NOTIFY、事务性队列和幂等性设计，在数据库内实现工作流的状态管理和任务调度，避免分布式事务。适用场景包括需要高可靠性、低运维成本的内部工作流自动化、数据处理管道和后台任务编排。",
+  "tags": [
+    "workflow-automation",
+    "open-source",
+    "developer-tools",
+    "database"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-29T02:07:58.524155+00:00",
+  "analyzed_at": "2026-05-29T02:08:57.942819+00:00",
+  "organized_at": "2026-05-29T02:09:25.327868+00:00",
+  "status": "published"
+}

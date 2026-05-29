@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-29-012",
+  "title": "Various LLM Smells",
+  "source": "hackernews-top",
+  "url": "https://shvbsle.in/various-llm-smells/",
+  "summary": "该条目列出LLM开发中的常见“代码坏味”（smells），如过度依赖单一模型、忽略上下文长度限制、未处理边缘案例等。旨在帮助开发者识别并规避低效或错误的LLM使用模式，提升应用健壮性。核心亮点是提供可操作的检查清单，覆盖提示设计、模型选择、错误处理等环节。适用于LLM应用开发、代码审查及教学场景。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "prompt-engineering",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-29T02:07:58.524155+00:00",
+  "analyzed_at": "2026-05-29T02:09:11.279614+00:00",
+  "organized_at": "2026-05-29T02:09:25.327868+00:00",
+  "status": "published"
+}
