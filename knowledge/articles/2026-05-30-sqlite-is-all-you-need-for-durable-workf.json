@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-30-006",
+  "title": "SQLite is all you need for durable workflows",
+  "source": "hackernews-top",
+  "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+  "summary": "SQLite is all you need for durable workflows 提出使用 SQLite 作为持久化工作流引擎的轻量级方案，解决传统工作流系统依赖外部数据库或消息队列导致的复杂性和运维负担。核心技术亮点是利用 SQLite 的单文件事务特性实现工作流状态持久化与原子性更新，结合触发器实现任务调度。适用场景包括边缘设备、嵌入式系统或需要最小化依赖的本地工作流自动化。",
+  "tags": [
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-30T02:02:35.135302+00:00",
+  "analyzed_at": "2026-05-30T02:03:18.973375+00:00",
+  "organized_at": "2026-05-30T02:03:56.592870+00:00",
+  "status": "published"
+}

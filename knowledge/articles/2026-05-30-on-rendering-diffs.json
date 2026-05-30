@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-30-013",
+  "title": "On Rendering Diffs",
+  "source": "hackernews-top",
+  "url": "https://pierre.computer/writing/on-rendering-diffs",
+  "summary": "On Rendering Diffs 探讨了在软件开发和文档版本控制中，如何高效计算和可视化文本差异（diffs）的渲染技术。它解决了传统diff算法在大型文件或复杂变更中性能低下、可读性差的问题。核心技术亮点包括基于语法树的差异检测、增量渲染算法以及交互式差异浏览界面。适用于代码审查、版本控制系统、协作编辑平台等需要清晰展示变更内容的场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-05-30T02:02:35.135302+00:00",
+  "analyzed_at": "2026-05-30T02:03:36.802747+00:00",
+  "organized_at": "2026-05-30T02:03:56.592870+00:00",
+  "status": "published"
+}

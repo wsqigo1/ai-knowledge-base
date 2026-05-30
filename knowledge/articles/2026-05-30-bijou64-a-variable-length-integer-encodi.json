@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-30-011",
+  "title": "Bijou64: A variable-length integer encoding",
+  "source": "hackernews-top",
+  "url": "https://www.inkandswitch.com/tangents/bijou64/",
+  "summary": "Bijou64 是一种可变长整数编码方案，旨在解决传统编码（如 Varint）在压缩效率和解码速度上的平衡问题。其核心技术亮点是采用 64 位对齐的编码结构，通过每 6 位数据位加 2 位控制位的方式，实现更紧凑的表示和更快的 SIMD 友好解码。适用于需要高效存储和传输大量整数的场景，如数据库索引、序列化协议或日志压缩。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-30T02:02:35.135302+00:00",
+  "analyzed_at": "2026-05-30T02:03:33.123401+00:00",
+  "organized_at": "2026-05-30T02:03:56.592870+00:00",
+  "status": "published"
+}

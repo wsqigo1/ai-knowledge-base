@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-30-012",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "source": "hackernews-top",
+  "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "summary": "Liquid AI 发布 8B-A1B MoE 模型，在 38T tokens 上训练，旨在以更少参数实现高效推理。核心亮点是混合专家架构（MoE）中仅激活 1B 参数，降低计算成本。适用于资源受限的部署场景，如边缘设备或实时应用。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-05-30T02:02:35.135302+00:00",
+  "analyzed_at": "2026-05-30T02:03:34.757730+00:00",
+  "organized_at": "2026-05-30T02:03:56.592870+00:00",
+  "status": "published"
+}

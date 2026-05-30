@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-30-010",
+  "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+  "source": "hackernews-top",
+  "url": "https://github.com/jmaczan/tiny-vllm",
+  "summary": "Tiny-vLLM 是一个基于 C++ 和 CUDA 的高性能 LLM 推理引擎，旨在解决现有推理框架（如 vLLM）在资源受限环境下的部署难题。其核心技术包括优化的内存管理、高效的 CUDA kernel 实现以及轻量级架构，显著降低显存占用和推理延迟。适用于边缘设备、实时应用及对性能敏感的生产环境。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-05-30T02:02:35.135302+00:00",
+  "analyzed_at": "2026-05-30T02:03:30.720331+00:00",
+  "organized_at": "2026-05-30T02:03:56.592870+00:00",
+  "status": "published"
+}

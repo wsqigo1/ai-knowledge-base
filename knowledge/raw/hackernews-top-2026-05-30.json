@@ -1,0 +1,384 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-05-30T02:02:36.231800+00:00",
+  "date": "2026-05-30",
+  "count": 20,
+  "items": [
+    {
+      "title": "SQLite is all you need for durable workflows",
+      "source": "hackernews-top",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "hn_url": "https://news.ycombinator.com/item?id=48326802",
+      "description": "",
+      "hn_score": 358,
+      "comments": 205,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "SQLite is all you need for durable workflows 提出使用 SQLite 作为持久化工作流引擎的轻量级方案，解决传统工作流系统依赖外部数据库或消息队列导致的复杂性和运维负担。核心技术亮点是利用 SQLite 的单文件事务特性实现工作流状态持久化与原子性更新，结合触发器实现任务调度。适用场景包括边缘设备、嵌入式系统或需要最小化依赖的本地工作流自动化。",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-30T02:03:18.973375+00:00"
+    },
+    {
+      "title": "The dead economy theory",
+      "source": "hackernews-top",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "hn_url": "https://news.ycombinator.com/item?id=48324712",
+      "description": "",
+      "hn_score": 707,
+      "comments": 886,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "The dead economy theory 是一篇探讨经济停滞现象的理论文章，核心观点是经济可能因结构性因素（如技术停滞、需求不足）陷入长期低迷。它不直接解决具体技术问题，而是提供宏观分析框架，适用于经济学研究或政策讨论。技术亮点在于结合历史数据与模型论证，但缺乏可操作的技术方案。适用场景为学术讨论或经济趋势分析。",
+      "tags": [
+        "reasoning"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-05-30T02:03:21.183129+00:00"
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "source": "hackernews-top",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "hn_url": "https://news.ycombinator.com/item?id=48325340",
+      "description": "",
+      "hn_score": 311,
+      "comments": 110,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Mistral AI Now Summit 的会议笔记，涵盖最新 LLM 进展。解决企业级 AI 部署中的效率与成本问题。核心技术亮点包括 Mistral 的稀疏混合专家模型架构、高效推理优化及多模态能力。适用场景为需要高性能、低成本 LLM 的企业应用与开发者社区。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-30T02:03:23.054305+00:00"
+    },
+    {
+      "title": "Shift will clean homes for free to train future robots",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "hn_url": "https://news.ycombinator.com/item?id=48327962",
+      "description": "",
+      "hn_score": 85,
+      "comments": 118,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Shift公司通过免费清洁服务收集真实家庭环境数据，用于训练机器人完成家务任务。解决机器人训练数据稀缺且缺乏真实场景多样性的问题。核心技术亮点包括利用人类演示数据、多模态感知和模仿学习。适用场景为家庭服务机器人研发，特别是清洁、整理等日常任务。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-30T02:03:24.755138+00:00"
+    },
+    {
+      "title": "It's hard to justify buying a Framework 12",
+      "source": "hackernews-top",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "hn_url": "https://news.ycombinator.com/item?id=48323869",
+      "description": "",
+      "hn_score": 226,
+      "comments": 385,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "文章讨论Framework 12笔记本电脑的购买价值，指出其模块化设计虽具创新性，但性能、价格和生态支持不足，难以与主流产品竞争。核心亮点是可维修性和升级性，但面临性能瓶颈和成本问题。适用场景为追求环保和长期使用的技术爱好者。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-30T02:03:26.598922+00:00"
+    },
+    {
+      "title": "You can just say it",
+      "source": "hackernews-top",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=48324853",
+      "description": "",
+      "hn_score": 219,
+      "comments": 101,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "“You can just say it” 是一篇探讨如何通过直接、明确的自然语言指令与 LLM 交互，以提升输出质量的文章。它解决的是用户因过度复杂化 prompt 或隐含意图而导致模型理解偏差的问题。核心亮点在于强调“直说”原则：用最简洁、无歧义的句子表达需求，避免角色扮演或冗余上下文。适用于日常 AI 助手使用、快速原型开发及 prompt 调试场景。",
+      "tags": [
+        "prompt-engineering",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-30T02:03:28.694587+00:00"
+    },
+    {
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "source": "hackernews-top",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "hn_url": "https://news.ycombinator.com/item?id=48328184",
+      "description": "",
+      "hn_score": 84,
+      "comments": 7,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Tiny-vLLM 是一个基于 C++ 和 CUDA 的高性能 LLM 推理引擎，旨在解决现有推理框架（如 vLLM）在资源受限环境下的部署难题。其核心技术包括优化的内存管理、高效的 CUDA kernel 实现以及轻量级架构，显著降低显存占用和推理延迟。适用于边缘设备、实时应用及对性能敏感的生产环境。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-05-30T02:03:30.720331+00:00"
+    },
+    {
+      "title": "Bijou64: A variable-length integer encoding",
+      "source": "hackernews-top",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "hn_url": "https://news.ycombinator.com/item?id=48323992",
+      "description": "",
+      "hn_score": 208,
+      "comments": 74,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Bijou64 是一种可变长整数编码方案，旨在解决传统编码（如 Varint）在压缩效率和解码速度上的平衡问题。其核心技术亮点是采用 64 位对齐的编码结构，通过每 6 位数据位加 2 位控制位的方式，实现更紧凑的表示和更快的 SIMD 友好解码。适用于需要高效存储和传输大量整数的场景，如数据库索引、序列化协议或日志压缩。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-05-30T02:03:33.123401+00:00"
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "source": "hackernews-top",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "hn_url": "https://news.ycombinator.com/item?id=48325306",
+      "description": "",
+      "hn_score": 152,
+      "comments": 52,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Liquid AI 发布 8B-A1B MoE 模型，在 38T tokens 上训练，旨在以更少参数实现高效推理。核心亮点是混合专家架构（MoE）中仅激活 1B 参数，降低计算成本。适用于资源受限的部署场景，如边缘设备或实时应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-05-30T02:03:34.757730+00:00"
+    },
+    {
+      "title": "On Rendering Diffs",
+      "source": "hackernews-top",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "hn_url": "https://news.ycombinator.com/item?id=48327809",
+      "description": "",
+      "hn_score": 141,
+      "comments": 43,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "On Rendering Diffs 探讨了在软件开发和文档版本控制中，如何高效计算和可视化文本差异（diffs）的渲染技术。它解决了传统diff算法在大型文件或复杂变更中性能低下、可读性差的问题。核心技术亮点包括基于语法树的差异检测、增量渲染算法以及交互式差异浏览界面。适用于代码审查、版本控制系统、协作编辑平台等需要清晰展示变更内容的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-05-30T02:03:36.802747+00:00"
+    },
+    {
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "source": "hackernews-top",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "hn_url": "https://news.ycombinator.com/item?id=48309233",
+      "description": "",
+      "hn_score": 475,
+      "comments": 670,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "加州大学教师因发现STEM新生数学能力严重不足，要求恢复SAT考试作为录取标准。该事件反映当前教育评估体系在筛选具备STEM所需数学基础的学生时存在缺陷，SAT数学部分被视作更可靠的预测指标。核心争议在于标准化测试与多元化录取政策的平衡，以及如何确保STEM领域学生的数学准备度。适用场景为高等教育政策讨论、教育评估方法研究及STEM教育质量分析。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-05-30T02:03:38.877308+00:00"
+    },
+    {
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "source": "hackernews-top",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "hn_url": "https://news.ycombinator.com/item?id=48321631",
+      "description": "",
+      "hn_score": 294,
+      "comments": 247,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "文章探讨AI是否正在导致前端开发重蹈“失去的十年”覆辙，即因过度依赖AI生成代码而削弱开发者对底层技术的理解与调试能力。核心问题在于AI工具（如代码生成模型）可能降低学习动力，但解决方式是通过平衡自动化与基础技能培养。技术亮点包括分析AI辅助编码的局限性，适用场景为前端团队评估AI工具引入策略。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-05-30T02:03:40.870132+00:00"
+    },
+    {
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "source": "hackernews-top",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "hn_url": "https://news.ycombinator.com/item?id=48328365",
+      "description": "",
+      "hn_score": 185,
+      "comments": 188,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "加州州议会通过了《保护我们的游戏法案》，旨在解决游戏行业中使用AI生成内容可能导致的版权和劳工问题。该法案要求游戏开发者在使用AI生成内容时进行透明披露，并保护人类艺术家的权益。核心技术亮点包括对AI生成内容的标注要求和版权归属的明确界定。适用场景为游戏开发、数字内容创作及AI监管政策制定。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-05-30T02:03:42.984789+00:00"
+    },
+    {
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "source": "hackernews-top",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "hn_url": "https://news.ycombinator.com/item?id=48317294",
+      "description": "",
+      "hn_score": 106,
+      "comments": 94,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Hy3是一个神秘的开源LLM，在OpenRouter模型排行榜上以显著优势领先。它解决了当前开源模型在推理、代码生成和通用任务上性能不足的问题。核心技术亮点包括高效的训练架构和优化的推理策略，使其在多个基准测试中表现优异。适用场景包括代码生成、复杂推理任务和AI助手开发。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "code-generation",
+        "reasoning"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-05-30T02:03:44.812233+00:00"
+    },
+    {
+      "title": "GTA 6 Developers Unionize",
+      "source": "hackernews-top",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "hn_url": "https://news.ycombinator.com/item?id=48324499",
+      "description": "",
+      "hn_score": 569,
+      "comments": 394,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "《GTA 6》开发者成立工会，旨在改善游戏行业工作条件，解决长期加班、低薪和职业倦怠问题。核心亮点是工会通过集体谈判争取权益，可能影响行业劳动标准。适用于游戏开发、科技行业劳工权益研究及组织管理场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-05-30T02:03:46.492613+00:00"
+    },
+    {
+      "title": "Rothko for your current weather conditions",
+      "source": "hackernews-top",
+      "url": "https://rothko.joonas.wtf/",
+      "hn_url": "https://news.ycombinator.com/item?id=48327367",
+      "description": "",
+      "hn_score": 121,
+      "comments": 12,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Rothko 是一个根据当前天气条件生成抽象艺术风格图像的项目，旨在将实时天气数据转化为视觉艺术体验。它通过获取天气参数（如温度、湿度、风速等）映射到颜色和纹理，利用生成算法或预训练模型创建类似 Mark Rothko 风格的色块画作。核心技术包括天气数据 API 集成、色彩映射逻辑和图像生成管线。适用场景包括创意编程、数字艺术展示或个性化天气可视化应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-05-30T02:03:48.588673+00:00"
+    },
+    {
+      "title": "CAPTCHAs can still detect AI agents",
+      "source": "hackernews-top",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48324910",
+      "description": "",
+      "hn_score": 64,
+      "comments": 52,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "CAPTCHAs can still detect AI agents 探讨了当前验证码系统在区分人类与AI代理方面的有效性。它解决了AI代理日益复杂化后，传统验证码可能失效的问题。核心技术亮点在于分析了AI在图像识别、推理等任务上的局限性，以及验证码利用这些弱点进行检测的机制。适用场景包括网站安全、反爬虫及AI系统鲁棒性测试。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-05-30T02:03:50.685657+00:00"
+    },
+    {
+      "title": "What Did the Hudson River School Painters See?",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48296834",
+      "description": "",
+      "hn_score": 6,
+      "comments": 3,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "探讨哈德逊河画派艺术家所见的自然景观，分析其艺术视角与19世纪美国风景画的关系。该条目不涉及AI/LLM技术，而是艺术史内容。核心在于通过画作理解当时美国人对荒野的认知与审美。适用场景为艺术史研究或文化教育。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-05-30T02:03:52.544682+00:00"
+    },
+    {
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "hn_url": "https://news.ycombinator.com/item?id=48328175",
+      "description": "",
+      "hn_score": 184,
+      "comments": 58,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "Microsoft 与安全研究员之间的0-day漏洞争端升级，研究员威胁将再次公开披露更多漏洞利用代码。该事件源于微软对已报告漏洞的修复缓慢或争议，研究员通过公开漏洞利用代码施压。核心亮点在于展示了安全社区与厂商之间的博弈机制，以及漏洞披露策略对软件安全生态的影响。适用场景：安全研究人员、软件厂商漏洞管理、网络安全政策制定者关注漏洞披露流程与风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-05-30T02:03:54.657682+00:00"
+    },
+    {
+      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "source": "hackernews-top",
+      "url": "https://tvexplorer.live",
+      "hn_url": "https://news.ycombinator.com/item?id=48325624",
+      "description": "",
+      "hn_score": 104,
+      "comments": 29,
+      "collected_at": "2026-05-30T02:02:35.135302+00:00",
+      "published_at": "2026-05-30T02:02:35.135302+00:00",
+      "summary": "TV Explorer 是一个为免费在线电视添加高级用户界面的开源项目。它解决了传统在线电视平台界面简陋、交互体验差的问题，通过提供频道分类、节目指南、搜索和收藏等增强功能，提升用户观看体验。核心技术亮点包括基于Web的响应式UI设计、实时数据抓取与解析、以及轻量级前端框架的应用。适用于希望改善免费在线电视平台用户体验的开发者或爱好者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-05-30T02:03:56.578450+00:00"
+    }
+  ]
+}

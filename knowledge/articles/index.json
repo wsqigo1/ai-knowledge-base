@@ -1,7 +1,227 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 389,
+  "total_count": 404,
   "entries": [
+    {
+      "id": "kb-2026-05-30-001",
+      "title": "2aronS/Duel-Agents",
+      "source": "github-trending",
+      "url": "https://github.com/2aronS/Duel-Agents",
+      "file": "2026-05-30-2aronsduel-agents.json",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "ai-assistant",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-002",
+      "title": "nv-tlabs/Gamma-World",
+      "source": "github-trending",
+      "url": "https://github.com/nv-tlabs/Gamma-World",
+      "file": "2026-05-30-nv-tlabsgamma-world.json",
+      "tags": [
+        "multi-agent",
+        "worldmodel",
+        "aigc",
+        "robotics"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-003",
+      "title": "Harkirat1462/claude-code-cli",
+      "source": "github-trending",
+      "url": "https://github.com/Harkirat1462/claude-code-cli",
+      "file": "2026-05-30-harkirat1462claude-code-cli.json",
+      "tags": [
+        "developer-tools",
+        "mcp",
+        "agent",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-004",
+      "title": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+      "source": "github-trending",
+      "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+      "file": "2026-05-30-anthropic-claude-code-aifree-claude-code.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-005",
+      "title": "JasonLam08/cursor_agent_status_light",
+      "source": "github-trending",
+      "url": "https://github.com/JasonLam08/cursor_agent_status_light",
+      "file": "2026-05-30-jasonlam08cursor-agent-status-light.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-006",
+      "title": "SQLite is all you need for durable workflows",
+      "source": "hackernews-top",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "file": "2026-05-30-sqlite-is-all-you-need-for-durable-workf.json",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-007",
+      "title": "Notes from the Mistral AI Now Summit",
+      "source": "hackernews-top",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "file": "2026-05-30-notes-from-the-mistral-ai-now-summit.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-008",
+      "title": "Shift will clean homes for free to train future robots",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "file": "2026-05-30-shift-will-clean-homes-for-free-to-train.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-009",
+      "title": "You can just say it",
+      "source": "hackernews-top",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "file": "2026-05-30-you-can-just-say-it.json",
+      "tags": [
+        "prompt-engineering",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-010",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "source": "hackernews-top",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "file": "2026-05-30-show-hn-tiny-vllm-high-performance-llm-i.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-011",
+      "title": "Bijou64: A variable-length integer encoding",
+      "source": "hackernews-top",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "file": "2026-05-30-bijou64-a-variable-length-integer-encodi.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-012",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "source": "hackernews-top",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "file": "2026-05-30-liquid-ai-reveals-8b-a1b-moe-trained-on-.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-013",
+      "title": "On Rendering Diffs",
+      "source": "hackernews-top",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "file": "2026-05-30-on-rendering-diffs.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-014",
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "source": "hackernews-top",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "file": "2026-05-30-is-ai-causing-a-repeat-of-frontends-lost.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
+    {
+      "id": "kb-2026-05-30-015",
+      "title": "CAPTCHAs can still detect AI agents",
+      "source": "hackernews-top",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "file": "2026-05-30-captchas-can-still-detect-ai-agents.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-05-30T02:03:56.592870+00:00"
+    },
     {
       "id": "kb-2026-05-29-001",
       "title": "withkynam/vibecode-pro-max-kit",
@@ -5782,5 +6002,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-05-29T02:09:25.349346+00:00"
+  "last_updated": "2026-05-30T02:03:56.619795+00:00"
 }
