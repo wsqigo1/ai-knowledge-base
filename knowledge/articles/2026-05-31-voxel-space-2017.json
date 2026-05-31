@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-05-31-009",
+  "title": "Voxel Space (2017)",
+  "source": "hackernews-top",
+  "url": "https://s-macke.github.io/VoxelSpace/",
+  "summary": "Voxel Space 是一个基于体素的空间渲染技术，通过将三维空间离散化为立方体单元（体素）来构建和渲染场景。它解决了传统多边形网格在复杂地形、体积云或可破坏环境等场景中计算开销大、细节表现不足的问题。核心技术亮点包括高效的光线步进算法、动态LOD（细节层次）管理以及基于GPU的并行计算优化。适用于游戏开发（如《我的世界》风格）、地理信息系统（GIS）可视化、医学影像三维重建等领域。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-05-31T02:29:49.030941+00:00",
+  "analyzed_at": "2026-05-31T02:30:35.742328+00:00",
+  "organized_at": "2026-05-31T02:30:58.194076+00:00",
+  "status": "published"
+}
