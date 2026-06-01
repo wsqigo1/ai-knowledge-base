@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-01-010",
+  "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+  "source": "hackernews-top",
+  "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+  "summary": "Cloudflare Turnstile 验证码服务被发现要求 WebGL 指纹识别，引发隐私争议。该问题在于 Turnstile 通过 WebGL 渲染差异生成设备指纹，替代传统 CAPTCHA 以提升用户体验，但可能侵犯用户隐私。核心技术是利用 WebGL 的硬件加速特性创建唯一标识，适用于反爬虫和机器人检测场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-01T02:39:19.222484+00:00",
+  "analyzed_at": "2026-06-01T02:40:03.102532+00:00",
+  "organized_at": "2026-06-01T02:40:40.862129+00:00",
+  "status": "published"
+}

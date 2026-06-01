@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-01-019",
+  "title": "Backpressure is all you need",
+  "source": "hackernews-top",
+  "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+  "summary": "Backpressure is all you need 探讨了背压（backpressure）机制在分布式系统和AI工作流中的核心作用。它解决的是系统在负载波动时如何防止过载、保证稳定性的问题。核心技术亮点包括将背压作为系统设计的首要原则，而非事后补救，通过流控和反压信号实现弹性扩展。适用场景包括实时数据处理、微服务架构、以及AI推理管道的负载管理。",
+  "tags": [
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-01T02:39:19.222484+00:00",
+  "analyzed_at": "2026-06-01T02:40:34.937919+00:00",
+  "organized_at": "2026-06-01T02:40:40.862129+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-01-017",
+  "title": "Restartable Sequences",
+  "source": "hackernews-top",
+  "url": "https://justine.lol/rseq/",
+  "summary": "Restartable Sequences (rseq) 是一种 Linux 内核机制，允许用户空间线程执行无锁的原子操作序列，并在被抢占或迁移时自动回滚重试。它解决了多核环境下并发访问共享数据时的性能瓶颈，核心亮点是结合了用户空间快速路径与内核回退路径，避免了传统锁或 CAS 循环的高开销。适用场景包括高性能计算、实时系统、数据库和网络栈中的无锁数据结构实现。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-01T02:39:19.222484+00:00",
+  "analyzed_at": "2026-06-01T02:40:25.618903+00:00",
+  "organized_at": "2026-06-01T02:40:40.862129+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-01-013",
+  "title": "Dav2d",
+  "source": "hackernews-top",
+  "url": "https://jbkempf.com/blog/2026/dav2d/",
+  "summary": "Dav2d 是一个开源视频解码器，专注于高效解码 AV1 编码的视频流。它解决现有解码器在性能与兼容性上的不足，通过多线程优化和 SIMD 指令集加速，实现低延迟、高吞吐量的解码。核心技术包括基于 dav1d 的改进架构、自适应帧级并行处理以及跨平台硬件加速支持。适用于需要实时视频播放的浏览器、流媒体服务、嵌入式设备及高性能计算场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-01T02:39:19.222484+00:00",
+  "analyzed_at": "2026-06-01T02:40:11.313428+00:00",
+  "organized_at": "2026-06-01T02:40:40.862129+00:00",
+  "status": "published"
+}
