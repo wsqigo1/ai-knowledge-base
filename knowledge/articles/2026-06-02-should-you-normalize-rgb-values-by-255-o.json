@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-02-012",
+  "title": "Should you normalize RGB values by 255 or 256?",
+  "source": "hackernews-top",
+  "url": "https://30fps.net/pages/255-vs-256-division/",
+  "summary": "探讨图像预处理中RGB值归一化应除以255还是256的经典问题。核心解决数值精度与计算效率的权衡：除以255将[0,255]映射到[0,1]浮点区间，保留完整精度但引入轻微偏差；除以256则映射到[0,1)左闭右开区间，便于整数运算但损失最低值。技术亮点在于分析两种方法对模型训练收敛性的影响，并给出实际建议：深度学习框架默认使用255，而传统计算机视觉库（如OpenCV）采用256。适用场景包括图像分类、目标检测等需要标准化输入的CV任务。",
+  "tags": [
+    "fine-tuning",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-02T02:37:30.001059+00:00",
+  "analyzed_at": "2026-06-02T02:38:30.623617+00:00",
+  "organized_at": "2026-06-02T02:38:51.254084+00:00",
+  "status": "published"
+}

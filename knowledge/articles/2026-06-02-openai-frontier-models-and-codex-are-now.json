@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-02-006",
+  "title": "OpenAI frontier models and Codex are now available on AWS",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+  "summary": "OpenAI 的 frontier 模型（如 GPT-4o）和 Codex 代码生成模型现已在 AWS 上通过 Amazon Bedrock 和 SageMaker 提供。这解决了企业用户在 AWS 生态中直接集成 OpenAI 最新模型的需求，无需额外管理 API 密钥或基础设施。核心技术亮点包括通过 AWS 私有网络访问、与现有云服务（如 Lambda、S3）无缝集成，以及支持代码生成和复杂推理任务。适用场景包括企业级 AI 应用开发、自动化代码生成、以及需要高安全性和合规性的云端部署。",
+  "tags": [
+    "code-generation",
+    "large-language-model",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-02T02:37:30.001059+00:00",
+  "analyzed_at": "2026-06-02T02:38:18.194112+00:00",
+  "organized_at": "2026-06-02T02:38:51.254084+00:00",
+  "status": "published"
+}

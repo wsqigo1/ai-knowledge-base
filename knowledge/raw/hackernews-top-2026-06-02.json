@@ -1,0 +1,386 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-02T02:37:31.149570+00:00",
+  "date": "2026-06-02",
+  "count": 20,
+  "items": [
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "source": "hackernews-top",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "hn_url": "https://news.ycombinator.com/item?id=48359102",
+      "description": "",
+      "hn_score": 1379,
+      "comments": 332,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "该条目标题提及Instagram“exploit”，但内容本质是社交媒体平台上的一个搞笑漏洞或用户行为技巧，而非技术性安全漏洞。它不解决AI或LLM领域的实际问题，核心技术亮点为零，适用场景仅限于娱乐或社交媒体讨论。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-06-02T02:38:13.713789+00:00"
+    },
+    {
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "hn_url": "https://news.ycombinator.com/item?id=48364055",
+      "description": "",
+      "hn_score": 99,
+      "comments": 191,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "本文探讨股票市场是否能够容纳Anthropic、SpaceX和OpenAI等非上市科技巨头。核心问题是这些高估值、高资本需求的AI与航天公司，在传统IPO框架下面临的流动性、估值和监管挑战。技术亮点在于分析这些公司如何通过特殊目的收购公司（SPAC）或直接上市等创新金融工具寻求资本化。适用场景为AI/LLM行业从业者、投资者及政策制定者，关注科技公司融资路径与市场结构演变。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-02T02:38:15.970525+00:00"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "hn_url": "https://news.ycombinator.com/item?id=48363132",
+      "description": "",
+      "hn_score": 149,
+      "comments": 50,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "OpenAI 的 frontier 模型（如 GPT-4o）和 Codex 代码生成模型现已在 AWS 上通过 Amazon Bedrock 和 SageMaker 提供。这解决了企业用户在 AWS 生态中直接集成 OpenAI 最新模型的需求，无需额外管理 API 密钥或基础设施。核心技术亮点包括通过 AWS 私有网络访问、与现有云服务（如 Lambda、S3）无缝集成，以及支持代码生成和复杂推理任务。适用场景包括企业级 AI 应用开发、自动化代码生成、以及需要高安全性和合规性的云端部署。",
+      "tags": [
+        "code-generation",
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-02T02:38:18.194112+00:00"
+    },
+    {
+      "title": "Debug Project",
+      "source": "hackernews-top",
+      "url": "https://debug.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48362347",
+      "description": "",
+      "hn_score": 156,
+      "comments": 71,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Debug Project 是一个开源工具，旨在帮助开发者高效调试和排查 AI/LLM 应用中的问题。它通过提供可视化调试界面、日志追踪和错误分析功能，解决模型输出异常、推理链路不透明等痛点。核心技术亮点包括实时捕获 LLM 调用栈、支持多轮对话上下文回溯，以及集成常见框架（如 LangChain、LlamaIndex）的适配器。适用于 AI 应用开发、模型集成测试和生产环境监控场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-02T02:38:20.268045+00:00"
+    },
+    {
+      "title": "How is Groq raising more money?",
+      "source": "hackernews-top",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "hn_url": "https://news.ycombinator.com/item?id=48364620",
+      "description": "",
+      "hn_score": 14,
+      "comments": 3,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Groq 是一家专注于 AI 推理加速的初创公司，正在筹集更多资金以扩展其 LPU（Language Processing Unit）硬件和云服务。该技术通过定制化芯片解决大模型推理延迟高、成本高的问题，核心亮点是极低延迟的实时推理能力，适用于需要快速响应的 LLM 应用场景，如实时对话、代码生成和 AI 助手。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-02T02:38:22.329254+00:00"
+    },
+    {
+      "title": "Chipotlai Max",
+      "source": "hackernews-top",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "hn_url": "https://news.ycombinator.com/item?id=48363765",
+      "description": "",
+      "hn_score": 54,
+      "comments": 9,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Chipotlai Max 是一个开源项目，旨在通过优化 LLM 推理过程中的 token 生成效率来降低延迟。其核心亮点是采用动态批处理与缓存机制，结合模型剪枝技术，在不显著牺牲准确性的前提下提升吞吐量。适用于需要高并发、低延迟响应的 AI 助手或实时对话系统场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-02T02:38:24.243544+00:00"
+    },
+    {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "source": "hackernews-top",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "hn_url": "https://news.ycombinator.com/item?id=48359232",
+      "description": "",
+      "hn_score": 332,
+      "comments": 118,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "斯坦福CS336课程发布的AI Agent指南，系统化定义Agent架构、工具使用、规划与记忆等核心概念。解决AI Agent开发中缺乏标准化设计原则的问题。核心技术亮点包括模块化Agent设计模式、工具调用接口规范、多步推理与记忆管理策略。适用场景为AI Agent课程教学、研究项目及工业级Agent系统开发参考。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.9,
+      "analyzed_at": "2026-06-02T02:38:26.333196+00:00"
+    },
+    {
+      "title": "CS336: Language Modeling from Scratch",
+      "source": "hackernews-top",
+      "url": "https://cs336.stanford.edu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48357075",
+      "description": "",
+      "hn_score": 368,
+      "comments": 43,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "CS336是斯坦福大学推出的从零开始构建语言模型的课程，解决LLM入门者缺乏系统实践指导的问题。核心技术亮点包括完整覆盖数据预处理、模型架构设计、分布式训练和推理优化，提供可复现的代码实现。适用场景为希望深入理解LLM底层原理的AI工程师和研究者。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-02T02:38:28.157114+00:00"
+    },
+    {
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "source": "hackernews-top",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "hn_url": "https://news.ycombinator.com/item?id=48360054",
+      "description": "",
+      "hn_score": 199,
+      "comments": 85,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "探讨图像预处理中RGB值归一化应除以255还是256的经典问题。核心解决数值精度与计算效率的权衡：除以255将[0,255]映射到[0,1]浮点区间，保留完整精度但引入轻微偏差；除以256则映射到[0,1)左闭右开区间，便于整数运算但损失最低值。技术亮点在于分析两种方法对模型训练收敛性的影响，并给出实际建议：深度学习框架默认使用255，而传统计算机视觉库（如OpenCV）采用256。适用场景包括图像分类、目标检测等需要标准化输入的CV任务。",
+      "tags": [
+        "fine-tuning",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-02T02:38:30.623617+00:00"
+    },
+    {
+      "title": "GrapheneOS Speech Services version 2 released",
+      "source": "hackernews-top",
+      "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+      "hn_url": "https://news.ycombinator.com/item?id=48360871",
+      "description": "",
+      "hn_score": 100,
+      "comments": 16,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "GrapheneOS 发布 Speech Services 2 版本，旨在解决 Android 平台语音服务的隐私与性能问题。核心亮点包括：完全离线处理、基于本地神经网络模型实现语音识别与合成、无网络依赖且数据不离开设备。适用于注重隐私的移动端语音交互场景，如安全通讯、离线导航等。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-02T02:38:32.433291+00:00"
+    },
+    {
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "hn_url": "https://news.ycombinator.com/item?id=48357905",
+      "description": "",
+      "hn_score": 197,
+      "comments": 65,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "该条目探讨了原本被认为是生物化学过程的现象，可能实际上是地质学的自然特征。核心观点是挑战传统认知，提出某些看似由生命活动驱动的化学反应，可能源于地质环境中的非生物机制。技术亮点在于跨学科整合地质学与生物化学，重新解释地球化学循环。适用场景包括地质学、天体生物学及早期生命起源研究。",
+      "tags": [
+        "reasoning",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-02T02:38:34.380970+00:00"
+    },
+    {
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "source": "hackernews-top",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "hn_url": "https://news.ycombinator.com/item?id=48355720",
+      "description": "",
+      "hn_score": 151,
+      "comments": 357,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "微软发布搭载NVIDIA GPU的Surface Laptop Ultra，直接对标MacBook Pro。解决Windows平台高端笔记本在AI计算和图形性能上的短板。核心技术亮点是集成NVIDIA RTX GPU，支持本地AI推理和加速。适用场景：AI开发、内容创作、高性能计算。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-02T02:38:35.954349+00:00"
+    },
+    {
+      "title": "Nvidia RTX Spark",
+      "source": "hackernews-top",
+      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "hn_url": "https://news.ycombinator.com/item?id=48352939",
+      "description": "",
+      "hn_score": 339,
+      "comments": 333,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Nvidia RTX Spark 是 Nvidia 推出的面向 AI 推理与边缘计算的紧凑型 GPU 平台。它解决传统数据中心 GPU 功耗高、部署复杂的问题，通过集成 RTX 架构与 Tensor Core 实现低延迟推理。核心技术亮点包括支持 FP8/INT4 量化、多实例 GPU 分区及与 Nvidia AI Enterprise 软件栈的深度集成。适用场景包括实时 AI 推理、边缘端大模型部署、工业视觉检测与机器人本地化决策。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-02T02:38:38.101022+00:00"
+    },
+    {
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "source": "hackernews-top",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "hn_url": "https://news.ycombinator.com/item?id=48363882",
+      "description": "",
+      "hn_score": 101,
+      "comments": 55,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "该条目讨论社交媒体实施年龄验证对互联网自由的影响。核心问题是平衡未成年人保护与言论自由，技术层面涉及身份验证、隐私保护与合规性。适用于政策制定、平台治理与数字权利讨论。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-06-02T02:38:39.718298+00:00"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (June 2026)",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "hn_url": "https://news.ycombinator.com/item?id=48357725",
+      "description": "",
+      "hn_score": 165,
+      "comments": 235,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Hacker News 2026年6月招聘帖，汇总各公司AI/LLM相关岗位需求。解决AI工程师寻找对口工作机会的信息不对称问题。核心亮点是社区高活跃度（165分）和实时性，覆盖从大模型训练到应用开发的多种角色。适用场景：求职者浏览当前市场对LLM工程师、AI研究员等职位的技能要求与薪资范围。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-02T02:38:41.435358+00:00"
+    },
+    {
+      "title": "I made my phone slow on purpose",
+      "source": "hackernews-top",
+      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+      "hn_url": "https://news.ycombinator.com/item?id=48312443",
+      "description": "",
+      "hn_score": 169,
+      "comments": 158,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "这是一篇关于主动降低手机运行速度以提升专注力和减少数字干扰的实践分享。作者通过限制应用后台活动、降低动画速度、禁用通知等方式，刻意让手机变得“慢”和“无聊”，从而减少无意识刷手机的行为。核心技术亮点在于通过系统设置和第三方工具（如Tasker）实现精细化的速度控制，而非依赖硬件降级。适用场景包括希望减少手机依赖、提升工作学习效率的普通用户，以及探索数字极简主义的开发者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-02T02:38:43.974651+00:00"
+    },
+    {
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "source": "hackernews-top",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "hn_url": "https://news.ycombinator.com/item?id=48362515",
+      "description": "",
+      "hn_score": 112,
+      "comments": 114,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Alphabet宣布800亿美元股权融资，用于扩展AI基础设施和计算能力。此举旨在解决大规模AI模型训练和推理所需的算力瓶颈，核心亮点是巨额资本投入以加速数据中心和硬件部署。适用场景包括大型语言模型训练、云端AI服务和企业级AI应用部署。",
+      "tags": [
+        "large-language-model",
+        "infrastructure",
+        "compute"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-02T02:38:45.560161+00:00"
+    },
+    {
+      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+      "source": "hackernews-top",
+      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48311003",
+      "description": "",
+      "hn_score": 205,
+      "comments": 94,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "该研究探讨了64位整数中仅有17%可表示为两个32位整数的乘积，揭示了整数分解的稀疏性。核心通过数学证明与统计验证，量化了乘积空间的密度限制。适用于密码学、随机数生成及算法优化场景，帮助理解整数运算的边界条件。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-02T02:38:47.496078+00:00"
+    },
+    {
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "source": "hackernews-top",
+      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48356603",
+      "description": "",
+      "hn_score": 141,
+      "comments": 82,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "该项目旨在让Windows GOG游戏在M系列Mac上运行，解决Apple Silicon Mac无法原生运行旧版Windows游戏的问题。核心技术亮点包括利用DOSBox-X、Wine和虚拟化技术，结合GOG游戏的无DRM特性，实现跨平台兼容。适用场景为怀旧游戏玩家和需要在Mac上运行经典Windows游戏的用户。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-02T02:38:49.351730+00:00"
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "hn_url": "https://news.ycombinator.com/item?id=48358646",
+      "description": "",
+      "hn_score": 457,
+      "comments": 375,
+      "collected_at": "2026-06-02T02:37:30.001059+00:00",
+      "published_at": "2026-06-02T02:37:30.001059+00:00",
+      "summary": "Anthropic 向 SEC 秘密提交了 S-1 草案，为首次公开募股做准备。这解决了 AI 公司从私营转向公开市场的合规与融资需求。核心亮点在于 Anthropic 作为领先的 AI 安全研究公司，其 IPO 将影响行业资本流向与监管框架。适用场景包括投资者评估 AI 赛道、竞品分析及市场趋势研究。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-02T02:38:51.241682+00:00"
+    }
+  ]
+}
