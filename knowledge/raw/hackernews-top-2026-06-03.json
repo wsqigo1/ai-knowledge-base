@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-03T02:45:43.753281+00:00",
+  "date": "2026-06-03",
+  "count": 20,
+  "items": [
+    {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "source": "hackernews-top",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "hn_url": "https://news.ycombinator.com/item?id=48377404",
+      "description": "",
+      "hn_score": 147,
+      "comments": 43,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "该项目介绍如何在Linux系统中将Nvidia GPU的显存用作交换空间（swap），以缓解系统内存不足的问题。核心是通过配置zram或zswap等机制，利用GPU显存作为低速但容量较大的交换设备，适用于内存受限但拥有Nvidia GPU的Linux工作站或服务器场景。技术亮点在于无需额外硬件，利用现有GPU资源扩展虚拟内存，但需注意显存带宽和延迟对性能的影响。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-06-03T02:46:29.506431+00:00"
+    },
+    {
+      "title": "MAI-Code-1-Flash",
+      "source": "hackernews-top",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=48374466",
+      "description": "",
+      "hn_score": 396,
+      "comments": 178,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "MAI-Code-1-Flash 是一个开源代码生成模型，旨在解决现有模型在复杂编程任务中的效率与准确性不足问题。其核心技术亮点包括采用 Flash Attention 机制优化推理速度、支持长上下文代码理解，以及通过混合训练数据增强多语言代码生成能力。适用场景包括自动化代码补全、bug 修复、代码重构及教育辅助。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-03T02:46:31.392515+00:00"
+    },
+    {
+      "title": "CT scans of BYD car parts",
+      "source": "hackernews-top",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "hn_url": "https://news.ycombinator.com/item?id=48375824",
+      "description": "",
+      "hn_score": 245,
+      "comments": 92,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "该项目通过CT扫描比亚迪汽车零部件，生成高精度三维模型，用于逆向工程和质量分析。核心解决传统拆解分析破坏性强、效率低的问题，利用工业CT技术实现非破坏性内部结构检测。技术亮点包括高分辨率扫描、三维重建算法及材料缺陷识别。适用于汽车制造、零部件质量控制和竞品分析场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-03T02:46:33.480227+00:00"
+    },
+    {
+      "title": "My thoughts after using Clojure for about a month",
+      "source": "hackernews-top",
+      "url": "https://www.acdw.net/clojure/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375393",
+      "description": "",
+      "hn_score": 117,
+      "comments": 72,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "这是一篇关于Clojure语言使用一个月的个人体验文章。Clojure是一种运行在JVM上的Lisp方言，强调函数式编程和不可变数据结构。文章主要解决开发者对Clojure学习曲线和实际生产力的疑问，核心亮点包括其简洁的语法、强大的宏系统、与Java生态的无缝互操作，以及REPL驱动的开发体验。适用场景为需要高并发、数据密集型或快速原型开发的团队，尤其适合对函数式编程感兴趣的工程师。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-03T02:46:35.643783+00:00"
+    },
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "source": "hackernews-top",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "hn_url": "https://news.ycombinator.com/item?id=48375016",
+      "description": "",
+      "hn_score": 647,
+      "comments": 401,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "作者因Gmail智能回复功能频繁推荐不相关选项（如对工作邮件回复“哈哈”），认为AI过度简化沟通体验，决定弃用Gmail。核心问题：当前AI助手缺乏对用户意图和上下文的深度理解，仅依赖浅层模式匹配。技术亮点：批判性分析现有AI系统的局限性，强调需要更精准的意图识别和个性化建模。适用场景：AI产品设计、用户体验优化、智能助手开发中的上下文感知改进。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-03T02:46:38.281912+00:00"
+    },
+    {
+      "title": "AI outperforms law professors in Stanford Law study",
+      "source": "hackernews-top",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "hn_url": "https://news.ycombinator.com/item?id=48377761",
+      "description": "",
+      "hn_score": 106,
+      "comments": 106,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "斯坦福法学院研究显示，AI在特定法律任务上表现优于法学教授。该研究旨在评估AI在法律推理、文书起草等领域的实际能力，核心亮点是AI在案例分析和法律写作中达到或超过专家水平。适用场景包括法律研究辅助、合同审查、法律教育等，但需注意AI在复杂伦理判断上的局限。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-06-03T02:46:40.260183+00:00"
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "source": "hackernews-top",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "hn_url": "https://news.ycombinator.com/item?id=48369980",
+      "description": "",
+      "hn_score": 379,
+      "comments": 251,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "这是一篇关于西雅图公共监控基础设施的实地考察报告，通过步行路线展示城市中部署的摄像头、传感器等监控设备。解决公众对城市监控范围与隐私边界的认知缺失问题。核心技术亮点是系统化记录监控设备的位置、类型及数据流向，结合地图可视化呈现。适用场景包括隐私权倡导者、城市规划研究者及关注公民自由的公众。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-03T02:46:42.490080+00:00"
+    },
+    {
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "source": "hackernews-top",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "hn_url": "https://news.ycombinator.com/item?id=48374685",
+      "description": "",
+      "hn_score": 128,
+      "comments": 79,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "惠普重新发布经典计算机科学计算器HP-16C，专为程序员设计，支持十六进制、八进制、二进制等进制转换与位运算。核心亮点是复刻原版硬件与操作逻辑，保留RPN输入和编程功能，适合嵌入式开发、逆向工程等场景中的快速进制计算。",
+      "tags": [
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-03T02:46:44.425941+00:00"
+    },
+    {
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "source": "hackernews-top",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375150",
+      "description": "",
+      "hn_score": 100,
+      "comments": 3,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "Open Repair Data Standard (ORD) 是 Open Repair Alliance 制定的开放维修数据标准，旨在解决维修行业数据碎片化、难以共享和分析的问题。核心亮点包括统一的字段定义（如设备类型、故障原因、维修结果）和 JSON/CSV 格式规范，支持跨组织数据聚合。适用于可持续技术、循环经济领域的维修数据标准化与政策研究，但对 AI 工程师的直接技术价值较低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-03T02:46:46.752732+00:00"
+    },
+    {
+      "title": "More than 6 out of 10 people turn to AI for psychological support",
+      "source": "hackernews-top",
+      "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+      "hn_url": "https://news.ycombinator.com/item?id=48377854",
+      "description": "",
+      "hn_score": 60,
+      "comments": 52,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "该条目报道了超过60%的人转向AI寻求心理支持的现象，反映了AI在心理健康领域的应用趋势。核心是AI作为心理支持工具，解决传统心理咨询可及性低、成本高的问题。技术亮点可能涉及大语言模型（large-language-model）的情感识别与对话生成能力，以及通过fine-tuning和prompt-engineering优化支持效果。适用场景包括轻度心理压力缓解、日常情绪管理及初步心理筛查。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "prompt-engineering",
+        "fine-tuning"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-03T02:46:48.783736+00:00"
+    },
+    {
+      "title": "How we index images for RAG",
+      "source": "hackernews-top",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "hn_url": "https://news.ycombinator.com/item?id=48372239",
+      "description": "",
+      "hn_score": 92,
+      "comments": 14,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "本文介绍了一种为RAG系统索引图像的方法。核心问题是传统RAG仅处理文本，无法检索图像信息。技术亮点包括：将图像转换为文本描述（如使用caption模型），或提取图像嵌入向量并与文本混合索引，实现多模态检索。适用场景：需要结合图像和文本信息的知识库问答、电商产品搜索、医疗影像辅助诊断等。",
+      "tags": [
+        "rag",
+        "multimodal",
+        "vector-database"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-03T02:46:50.808736+00:00"
+    },
+    {
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "source": "hackernews-top",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "hn_url": "https://news.ycombinator.com/item?id=48372628",
+      "description": "",
+      "hn_score": 179,
+      "comments": 127,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "特朗普签署缩减版AI行政令，此前数周政策反复。该行政令旨在简化联邦AI监管框架，解决此前政策不确定性带来的行业合规负担。核心亮点是取消部分强制性报告要求，转向自愿性行业标准，并设立跨部门协调机制。适用于美国AI企业合规策略调整及政策研究场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-03T02:46:52.989488+00:00"
+    },
+    {
+      "title": "Love systemd timers",
+      "source": "hackernews-top",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "hn_url": "https://news.ycombinator.com/item?id=48367904",
+      "description": "",
+      "hn_score": 354,
+      "comments": 229,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "文章推崇 systemd timers 作为 Linux 系统定时任务的现代替代方案，解决 cron 在日志、依赖管理、调试等方面的不足。核心技术亮点包括：支持日历事件和单调时间表达式、集成 journald 日志、可定义服务依赖与资源限制、支持随机延迟和持久化触发。适用场景为需要可靠、可审计、与 systemd 生态深度整合的定时任务管理，如系统维护、备份、应用调度。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-03T02:46:55.593314+00:00"
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "hn_url": "https://news.ycombinator.com/item?id=48369863",
+      "description": "",
+      "hn_score": 160,
+      "comments": 211,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "Project Glasswing 是一个开源项目，旨在解决 AI 系统在复杂环境中的透明性和可解释性问题。其核心技术亮点包括模块化架构和可视化推理路径，允许开发者实时追踪模型决策过程。适用场景包括需要高可靠性的 AI 应用，如医疗诊断和金融风控。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-03T02:46:57.311541+00:00"
+    },
+    {
+      "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+      "source": "hackernews-top",
+      "url": "https://blog.davidedmundson.co.uk/blog/596/",
+      "hn_url": "https://news.ycombinator.com/item?id=48370588",
+      "description": "",
+      "hn_score": 149,
+      "comments": 184,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "KDE Plasma 桌面环境即将发布最后一个支持 X11 显示服务器的版本，标志着其全面转向 Wayland。该条目解决 X11 遗留兼容性问题，核心是 Plasma 6 的 Wayland 集成已成熟，未来版本将移除 X11 支持。适用于需要稳定桌面环境的 Linux 用户和开发者，尤其是关注显示服务器迁移的团队。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-03T02:46:59.407301+00:00"
+    },
+    {
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "source": "hackernews-top",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "hn_url": "https://news.ycombinator.com/item?id=48370291",
+      "description": "",
+      "hn_score": 150,
+      "comments": 63,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "Fidonet 是一个基于拨号调制解调器的早期分布式网络系统，用于解决无互联网环境下BBS间的消息交换问题。核心技术包括存储转发机制、节点分层路由和Fido/Opus协议，支持邮件、文件传输和网络新闻组。适用于1990年代业余计算机用户社区，对现代离线消息传递和延迟容忍网络有历史参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-06-03T02:47:01.891879+00:00"
+    },
+    {
+      "title": "The advertising cartel coming to your web browser",
+      "source": "hackernews-top",
+      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375175",
+      "description": "",
+      "hn_score": 137,
+      "comments": 39,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "本文揭露广告行业正通过浏览器技术（如Google的Privacy Sandbox和替代ID方案）构建新的广告追踪联盟，旨在取代第三方cookie。核心问题是隐私法规与广告利益冲突下的用户追踪技术演进。亮点在于分析浏览器厂商与广告技术公司的博弈，以及FLoC、Topics API等提案的隐私与商业权衡。适用场景：关注浏览器隐私、广告技术、Web标准演进的开发者与政策研究者。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-03T02:47:04.426009+00:00"
+    },
+    {
+      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+      "source": "hackernews-top",
+      "url": "https://github.com/getpaseo/paseo",
+      "hn_url": "https://news.ycombinator.com/item?id=48377250",
+      "description": "",
+      "hn_score": 25,
+      "comments": 14,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "Paseo 是一个开源的编码代理界面，旨在为 AI 驱动的代码生成提供美观且可交互的前端。它解决了现有编码代理工具界面简陋、缺乏可视化反馈的问题。核心技术亮点包括模块化 UI 设计、实时流式输出支持以及与多种 LLM 后端（如 OpenAI、Anthropic）的集成。适用于开发者构建或定制自己的 AI 编程助手，提升代码生成与审查的交互体验。",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "agent"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-03T02:47:06.583648+00:00"
+    },
+    {
+      "title": "Stop Ruining It",
+      "source": "hackernews-top",
+      "url": "https://seths.blog/2026/06/stop-ruining-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=48368059",
+      "description": "",
+      "hn_score": 245,
+      "comments": 117,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "《Stop Ruining It》是一篇针对AI社区过度优化和滥用技术趋势的批评文章。它解决的是开发者盲目追求指标、忽视用户体验和伦理的问题。核心亮点在于呼吁回归技术本质，强调简单、可靠和用户导向的设计。适用场景包括AI产品开发、社区讨论和技术伦理反思。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-03T02:47:08.805126+00:00"
+    },
+    {
+      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48374528",
+      "hn_url": "https://news.ycombinator.com/item?id=48374528",
+      "description": "",
+      "hn_score": 32,
+      "comments": 16,
+      "collected_at": "2026-06-03T02:45:42.519644+00:00",
+      "published_at": "2026-06-03T02:45:42.519644+00:00",
+      "summary": "Rudus 是一款面向混凝土承包商的 AI 工具，解决施工管理中估算、排程和文档处理的低效问题。核心技术亮点包括基于 large-language-model 的合同与图纸理解、workflow-automation 自动生成报价和进度表。适用场景为中小型混凝土工程项目的数字化管理。",
+      "tags": [
+        "large-language-model",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-06-03T02:47:11.072485+00:00"
+    }
+  ]
+}

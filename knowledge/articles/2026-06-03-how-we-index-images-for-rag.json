@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-03-009",
+  "title": "How we index images for RAG",
+  "source": "hackernews-top",
+  "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+  "summary": "本文介绍了一种为RAG系统索引图像的方法。核心问题是传统RAG仅处理文本，无法检索图像信息。技术亮点包括：将图像转换为文本描述（如使用caption模型），或提取图像嵌入向量并与文本混合索引，实现多模态检索。适用场景：需要结合图像和文本信息的知识库问答、电商产品搜索、医疗影像辅助诊断等。",
+  "tags": [
+    "rag",
+    "multimodal",
+    "vector-database"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-03T02:45:42.519644+00:00",
+  "analyzed_at": "2026-06-03T02:46:50.808736+00:00",
+  "organized_at": "2026-06-03T02:47:11.088929+00:00",
+  "status": "published"
+}

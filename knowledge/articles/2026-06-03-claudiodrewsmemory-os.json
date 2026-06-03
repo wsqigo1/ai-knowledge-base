@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-03-001",
+  "title": "ClaudioDrews/memory-os",
+  "source": "github-trending",
+  "url": "https://github.com/ClaudioDrews/memory-os",
+  "summary": "memory-os 是一个为 Hermes Agent 设计的 7 层记忆操作系统，解决 LLM 代理缺乏持久化记忆和上下文管理的问题。核心亮点包括：使用 Qdrant 向量数据库实现持久记忆，结构化事实存储，自动策展维基，以及外科手术式上下文注入。支持本地运行和任意 LLM 提供商，适用于需要长时记忆和复杂上下文管理的 AI 代理场景。",
+  "tags": [
+    "agent",
+    "rag",
+    "vector-database",
+    "large-language-model",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-03T02:45:42.307020+00:00",
+  "analyzed_at": "2026-06-03T02:45:53.093820+00:00",
+  "organized_at": "2026-06-03T02:47:11.088929+00:00",
+  "status": "published"
+}
