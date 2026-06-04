@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-04T02:40:02.081628+00:00",
+  "date": "2026-06-04",
+  "count": 20,
+  "items": [
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "source": "hackernews-top",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "hn_url": "https://news.ycombinator.com/item?id=48388324",
+      "description": "",
+      "hn_score": 571,
+      "comments": 216,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Elixir v1.20 引入渐进类型系统，允许开发者逐步为代码添加类型注解，解决动态语言在大型项目中缺乏类型安全的问题。核心技术亮点包括类型推断、与现有代码的兼容性以及编译时类型检查。适用于需要提升代码可靠性和可维护性的 Elixir 项目，尤其是中大型生产系统。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-04T02:40:44.200341+00:00"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "source": "hackernews-top",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48392343",
+      "description": "",
+      "hn_score": 58,
+      "comments": 27,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "作者构建了一个故意存在漏洞的Web应用，并花费1500美元测试多个LLM（如GPT-4、Claude）能否自主发现并利用漏洞。核心问题是评估当前LLM在真实渗透测试场景中的能力与局限性。技术亮点包括设计多类型漏洞（SQL注入、XSS等）、对比不同模型成功率、分析模型推理与工具调用表现。适用场景：安全研究、LLM能力基准测试、红队自动化评估。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "tool-use",
+        "security",
+        "large-language-model"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-04T02:40:46.298160+00:00"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "hn_url": "https://news.ycombinator.com/item?id=48385906",
+      "description": "",
+      "hn_score": 708,
+      "comments": 293,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Gemma 4 12B 是一个统一的无编码器多模态模型，旨在解决传统多模态模型依赖独立视觉编码器导致的计算冗余和性能瓶颈。其核心技术亮点包括：采用统一架构直接处理文本与图像输入，无需预训练视觉编码器；通过跨模态注意力机制实现高效融合；在12B参数规模下达到领先的多模态理解与生成能力。适用场景包括实时图像描述、视觉问答、文档理解等低延迟多模态应用。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-04T02:40:48.237642+00:00"
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "hn_url": "https://news.ycombinator.com/item?id=48392082",
+      "description": "",
+      "hn_score": 48,
+      "comments": 17,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "本文探讨了Anthropic在其产品中如何对Claude模型进行安全约束和内容管控。核心问题是确保大语言模型在多产品部署中保持行为一致性和安全性。技术亮点包括多层次内容过滤、上下文敏感的限制机制以及跨产品统一的安全策略。适用于需要部署LLM并管理其输出风险的企业场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-04T02:40:50.328463+00:00"
+    },
+    {
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "source": "hackernews-top",
+      "url": "https://burntsushi.net/encephalitis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48384355",
+      "description": "",
+      "hn_score": 514,
+      "comments": 157,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "这是一篇个人经历分享，作者被诊断出抗NMDA受体脑炎（一种自身免疫性脑炎）。文章主要描述了症状、诊断过程和治疗经历，而非技术内容。它解决的是提高公众对罕见疾病认知的问题，核心亮点是详细记录罕见病的临床表现和康复过程。适用场景为医学教育、患者支持及公众健康意识提升。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-04T02:40:52.235893+00:00"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "source": "hackernews-top",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "hn_url": "https://news.ycombinator.com/item?id=48387270",
+      "description": "",
+      "hn_score": 258,
+      "comments": 461,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Ted Chiang 撰文探讨人工智能是否具备意识，核心论点是目前的大语言模型（如 ChatGPT）缺乏主观体验和感知能力，仅是统计模式匹配系统。文章解决公众对 AI 意识误解的问题，通过哲学与认知科学视角澄清 AI 本质。技术亮点在于区分智能与意识，强调当前 AI 的局限性。适用场景为 AI 伦理讨论、技术科普与开发者反思。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-04T02:40:54.349385+00:00"
+    },
+    {
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "hn_url": "https://news.ycombinator.com/item?id=48383056",
+      "description": "",
+      "hn_score": 375,
+      "comments": 486,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Uber 将 AI 工具使用限制在每月 1500 美元，这一举措为 AI 工具定价提供了市场信号。它解决了企业如何合理控制 AI 成本、避免资源浪费的问题。核心技术亮点在于通过设定明确的预算上限，平衡员工使用 AI 的灵活性与企业成本管控。适用场景为企业级 AI 工具采购与管理决策。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-04T02:40:56.111876+00:00"
+    },
+    {
+      "title": "DaVinci Resolve 21",
+      "source": "hackernews-top",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "hn_url": "https://news.ycombinator.com/item?id=48384482",
+      "description": "",
+      "hn_score": 398,
+      "comments": 188,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "DaVinci Resolve 21 是 Blackmagic Design 发布的专业视频编辑、调色、音频后期和视觉特效软件。它解决影视制作全流程中多工具协同效率低的问题，核心亮点包括新增的 AI 驱动的语音转字幕、基于深度学习的自动调色、以及改进的 Fairlight 音频引擎。适用于专业影视后期、独立电影制作、视频内容创作等场景。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-04T02:40:58.098954+00:00"
+    },
+    {
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "source": "hackernews-top",
+      "url": "https://github.com/duanebester/gooey",
+      "hn_url": "https://news.ycombinator.com/item?id=48386725",
+      "description": "",
+      "hn_score": 138,
+      "comments": 49,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Gooey 是一个为 Zig 语言设计的 GPU 加速 UI 框架，旨在解决 Zig 生态中缺乏高性能、跨平台 GUI 库的问题。其核心技术亮点是利用 GPU 渲染实现流畅的界面，同时保持 Zig 的低级控制和高性能特性。适用于需要实时图形界面、游戏工具或嵌入式系统的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-04T02:41:00.030218+00:00"
+    },
+    {
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48387095",
+      "hn_url": "https://news.ycombinator.com/item?id=48387095",
+      "description": "",
+      "hn_score": 54,
+      "comments": 55,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Hyper 是一个 YC P26 创业项目，定位为“公司大脑”，旨在为 agentic 开发提供动力。它解决企业级 AI 代理开发中缺乏统一知识中枢和协调能力的问题。核心技术亮点包括集成 LLM 推理、RAG 检索和 workflow 编排，支持多 agent 协作和 tool-use。适用场景为需要复杂决策和自动化流程的企业应用开发。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "rag",
+        "multi-agent",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-04T02:41:02.306612+00:00"
+    },
+    {
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "source": "hackernews-top",
+      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "hn_url": "https://news.ycombinator.com/item?id=48385114",
+      "description": "",
+      "hn_score": 219,
+      "comments": 132,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Let's Encrypt 宣布后量子密码学迁移计划，以应对量子计算机对现有 RSA/ECC 证书体系的威胁。核心是采用 CRYSTALS-Kyber 和 CRYSTALS-Dilithium 混合密钥封装与签名方案，通过 X.509 证书扩展实现向后兼容。适用于需要长期安全性的 HTTPS 证书签发场景，确保未来量子攻击下 TLS 握手仍安全。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-04T02:41:04.240014+00:00"
+    },
+    {
+      "title": "ESP32-S31",
+      "source": "hackernews-top",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "hn_url": "https://news.ycombinator.com/item?id=48385965",
+      "description": "",
+      "hn_score": 255,
+      "comments": 143,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "ESP32-S3是一款由乐鑫科技推出的低功耗物联网微控制器，集成Wi-Fi和蓝牙LE 5.0，并新增向量扩展指令集以加速AI推理。它解决了边缘设备上运行轻量级机器学习模型（如TensorFlow Lite Micro）的算力瓶颈，支持语音识别、图像分类等任务。核心亮点包括双核Xtensa LX7处理器、内置安全加密引擎及丰富的外设接口。适用场景包括智能家居、工业传感器节点和可穿戴设备。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-04T02:41:06.555834+00:00"
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "source": "hackernews-top",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48392004",
+      "description": "",
+      "hn_score": 8,
+      "comments": 0,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "该条目报道了加州大学伯克利分校计算机科学课程中，学生因使用AI工具导致数学能力下降和不及格率飙升的现象。它揭示了AI辅助学习对基础技能培养的负面影响，核心问题是过度依赖AI可能削弱学生的独立思考和问题解决能力。适用场景为教育政策制定、课程设计及AI伦理讨论。",
+      "tags": [
+        "ai-assistant",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-04T02:41:08.609888+00:00"
+    },
+    {
+      "title": "Stop Killing Games",
+      "source": "hackernews-top",
+      "url": "https://jxself.org/stop-killing-games.shtml",
+      "hn_url": "https://news.ycombinator.com/item?id=48356449",
+      "description": "",
+      "hn_score": 196,
+      "comments": 187,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Stop Killing Games 是一项呼吁保护游戏可玩性的倡议，针对游戏公司停服导致已购游戏无法运行的问题。其核心是推动立法或行业规范，要求游戏在停服前提供离线模式或开源代码。技术亮点在于通过社区协作和开源方案保留游戏遗产，适用场景包括数字游戏存档、消费者权益保护及游戏历史研究。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-06-04T02:41:10.374982+00:00"
+    },
+    {
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "hn_url": "https://news.ycombinator.com/item?id=48382052",
+      "description": "",
+      "hn_score": 180,
+      "comments": 229,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "数学家群体发出警告，指出AI在数学推理领域快速进步可能削弱人类对数学严谨性的追求。核心问题是AI生成看似合理但逻辑有缺陷的证明，威胁数学验证的可靠性。技术亮点在于AI系统（如LLM）在符号推理与模式识别上的突破，但缺乏形式化验证能力。适用场景包括辅助数学研究、教育工具，但需警惕过度依赖。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-04T02:41:12.521057+00:00"
+    },
+    {
+      "title": "PlayStation Architecture",
+      "source": "hackernews-top",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382142",
+      "description": "",
+      "hn_score": 259,
+      "comments": 50,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "PlayStation Architecture 是一篇深度解析 PlayStation 主机硬件架构的技术文章，涵盖 CPU、GPU、内存、存储及系统设计。它解决开发者对游戏主机底层设计理解不足的问题，核心亮点包括详细拆解各代 PlayStation 的硬件演进、性能瓶颈及优化策略。适用于游戏开发、嵌入式系统及硬件架构研究场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-04T02:41:14.354984+00:00"
+    },
+    {
+      "title": "Every Byte Matters",
+      "source": "hackernews-top",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "hn_url": "https://news.ycombinator.com/item?id=48382382",
+      "description": "",
+      "hn_score": 231,
+      "comments": 114,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "《Every Byte Matters》是一篇关于优化数据存储与传输的技术文章，核心解决在资源受限环境下减少字节开销的问题。通过分析压缩算法、数据结构精简及协议优化等具体技术，展示如何在不牺牲功能的前提下降低内存与带宽占用。适用于嵌入式系统、物联网设备及高并发服务场景，强调极致性能调优的工程实践。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-04T02:41:16.343367+00:00"
+    },
+    {
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "source": "hackernews-top",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "hn_url": "https://news.ycombinator.com/item?id=48389586",
+      "description": "",
+      "hn_score": 29,
+      "comments": 16,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Mnemo 是一个为任意 LLM 提供本地优先 AI 记忆层的开源项目，基于 Rust、SQLite 和 petgraph 构建。它解决 LLM 会话缺乏长期上下文和结构化记忆的问题，通过图数据库（petgraph）组织实体关系，支持持久化存储与快速检索。核心技术亮点包括：本地运行无外部依赖、使用 SQLite 实现轻量级持久化、图结构记忆支持复杂关联推理。适用场景包括个人 AI 助手、本地知识管理、离线对话系统等需要持续记忆的 LLM 应用。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-04T02:41:18.743191+00:00"
+    },
+    {
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "hn_url": "https://news.ycombinator.com/item?id=48383220",
+      "description": "",
+      "hn_score": 695,
+      "comments": 666,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "Meta允许员工选择退出工作场所追踪，最长30分钟。该政策解决员工隐私与监控平衡问题。核心亮点是提供有限时间窗口的自主选择权，适用于科技公司内部隐私管理场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-04T02:41:20.274351+00:00"
+    },
+    {
+      "title": "MacBook Neo is so popular that Apple doubled production",
+      "source": "hackernews-top",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "hn_url": "https://news.ycombinator.com/item?id=48386238",
+      "description": "",
+      "hn_score": 325,
+      "comments": 376,
+      "collected_at": "2026-06-04T02:40:00.881442+00:00",
+      "published_at": "2026-06-04T02:40:00.881442+00:00",
+      "summary": "MacBook Neo因市场需求旺盛，苹果已将其产量翻倍。该产品解决高性能便携计算需求，核心亮点在于其轻薄设计与强大性能的结合，适用于专业创作、开发及日常办公场景。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-06-04T02:41:21.785264+00:00"
+    }
+  ]
+}

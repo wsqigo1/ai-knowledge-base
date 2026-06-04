@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-04-006",
+  "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+  "source": "hackernews-top",
+  "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+  "summary": "作者构建了一个故意存在漏洞的Web应用，并花费1500美元测试多个LLM（如GPT-4、Claude）能否自主发现并利用漏洞。核心问题是评估当前LLM在真实渗透测试场景中的能力与局限性。技术亮点包括设计多类型漏洞（SQL注入、XSS等）、对比不同模型成功率、分析模型推理与工具调用表现。适用场景：安全研究、LLM能力基准测试、红队自动化评估。",
+  "tags": [
+    "benchmark",
+    "agent",
+    "tool-use",
+    "security",
+    "large-language-model"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-04T02:40:00.881442+00:00",
+  "analyzed_at": "2026-06-04T02:40:46.298160+00:00",
+  "organized_at": "2026-06-04T02:41:21.801994+00:00",
+  "status": "published"
+}

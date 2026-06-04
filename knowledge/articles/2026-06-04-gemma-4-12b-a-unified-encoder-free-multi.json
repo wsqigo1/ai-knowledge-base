@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-04-007",
+  "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+  "summary": "Gemma 4 12B 是一个统一的无编码器多模态模型，旨在解决传统多模态模型依赖独立视觉编码器导致的计算冗余和性能瓶颈。其核心技术亮点包括：采用统一架构直接处理文本与图像输入，无需预训练视觉编码器；通过跨模态注意力机制实现高效融合；在12B参数规模下达到领先的多模态理解与生成能力。适用场景包括实时图像描述、视觉问答、文档理解等低延迟多模态应用。",
+  "tags": [
+    "multimodal",
+    "large-language-model",
+    "open-source"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-04T02:40:00.881442+00:00",
+  "analyzed_at": "2026-06-04T02:40:48.237642+00:00",
+  "organized_at": "2026-06-04T02:41:21.801994+00:00",
+  "status": "published"
+}

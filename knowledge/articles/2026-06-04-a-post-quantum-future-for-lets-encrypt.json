@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-04-013",
+  "title": "A Post-Quantum Future for Let's Encrypt",
+  "source": "hackernews-top",
+  "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+  "summary": "Let's Encrypt 宣布后量子密码学迁移计划，以应对量子计算机对现有 RSA/ECC 证书体系的威胁。核心是采用 CRYSTALS-Kyber 和 CRYSTALS-Dilithium 混合密钥封装与签名方案，通过 X.509 证书扩展实现向后兼容。适用于需要长期安全性的 HTTPS 证书签发场景，确保未来量子攻击下 TLS 握手仍安全。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "security"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-04T02:40:00.881442+00:00",
+  "analyzed_at": "2026-06-04T02:41:04.240014+00:00",
+  "organized_at": "2026-06-04T02:41:21.801994+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-04-008",
+  "title": "The ways we contain Claude across products",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "summary": "本文探讨了Anthropic在其产品中如何对Claude模型进行安全约束和内容管控。核心问题是确保大语言模型在多产品部署中保持行为一致性和安全性。技术亮点包括多层次内容过滤、上下文敏感的限制机制以及跨产品统一的安全策略。适用于需要部署LLM并管理其输出风险的企业场景。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-04T02:40:00.881442+00:00",
+  "analyzed_at": "2026-06-04T02:40:50.328463+00:00",
+  "organized_at": "2026-06-04T02:41:21.801994+00:00",
+  "status": "published"
+}

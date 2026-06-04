@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-04-016",
+  "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+  "source": "hackernews-top",
+  "url": "https://github.com/zaydmulani09/mnemo",
+  "summary": "Mnemo 是一个为任意 LLM 提供本地优先 AI 记忆层的开源项目，基于 Rust、SQLite 和 petgraph 构建。它解决 LLM 会话缺乏长期上下文和结构化记忆的问题，通过图数据库（petgraph）组织实体关系，支持持久化存储与快速检索。核心技术亮点包括：本地运行无外部依赖、使用 SQLite 实现轻量级持久化、图结构记忆支持复杂关联推理。适用场景包括个人 AI 助手、本地知识管理、离线对话系统等需要持续记忆的 LLM 应用。",
+  "tags": [
+    "open-source",
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-04T02:40:00.881442+00:00",
+  "analyzed_at": "2026-06-04T02:41:18.743191+00:00",
+  "organized_at": "2026-06-04T02:41:21.801994+00:00",
+  "status": "published"
+}
