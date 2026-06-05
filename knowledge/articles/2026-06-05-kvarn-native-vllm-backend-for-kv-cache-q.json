@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-05-009",
+  "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+  "source": "hackernews-top",
+  "url": "https://github.com/huawei-csl/KVarN",
+  "summary": "KVarN 是华为开源的 vLLM 后端，专用于 KV-cache 量化。它解决大语言模型推理时 KV-cache 内存占用过高导致的吞吐瓶颈。核心技术亮点包括：原生集成 vLLM 推理框架，支持多种量化策略（如 INT8/FP8），通过硬件感知优化减少精度损失并提升解码速度。适用场景为需要高吞吐、低延迟的 LLM 服务部署，尤其适合长序列推理和资源受限环境。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-05T02:15:19.131199+00:00",
+  "analyzed_at": "2026-06-05T02:16:25.814851+00:00",
+  "organized_at": "2026-06-05T02:16:55.705539+00:00",
+  "status": "published"
+}

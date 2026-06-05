@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-05-011",
+  "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2604.24881",
+  "summary": "Latent Agents 是一种后训练流程，通过内部化多智能体辩论来提升 LLM 推理能力。它解决传统多智能体系统需要外部交互、推理成本高的问题。核心技术亮点是在模型内部模拟多个智能体的辩论过程，无需外部调用，从而在保持推理质量的同时降低延迟。适用场景包括需要复杂推理的问答、数学问题求解和逻辑推理任务。",
+  "tags": [
+    "large-language-model",
+    "multi-agent",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-05T02:15:19.131199+00:00",
+  "analyzed_at": "2026-06-05T02:16:34.813305+00:00",
+  "organized_at": "2026-06-05T02:16:55.705539+00:00",
+  "status": "published"
+}

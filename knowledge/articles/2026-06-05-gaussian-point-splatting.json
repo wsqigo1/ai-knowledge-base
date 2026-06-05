@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-05-013",
+  "title": "Gaussian Point Splatting",
+  "source": "hackernews-top",
+  "url": "https://momentsingraphics.de/Siggraph2026.html",
+  "summary": "Gaussian Point Splatting是一种基于3D高斯分布的点云渲染技术，解决传统点云渲染中表面不连续和空洞问题。核心亮点在于将每个点表示为各向异性高斯分布，通过可微分渲染实现高质量实时重建与渲染。适用于3D场景重建、虚拟现实和数字孪生等需要高保真视觉效果的场景。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-05T02:15:19.131199+00:00",
+  "analyzed_at": "2026-06-05T02:16:46.250728+00:00",
+  "organized_at": "2026-06-05T02:16:55.705539+00:00",
+  "status": "published"
+}

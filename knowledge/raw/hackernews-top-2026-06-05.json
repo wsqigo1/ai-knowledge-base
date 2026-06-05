@@ -1,0 +1,392 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-05T02:15:20.425820+00:00",
+  "date": "2026-06-05",
+  "count": 20,
+  "items": [
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "hn_url": "https://news.ycombinator.com/item?id=48405931",
+      "description": "",
+      "hn_score": 97,
+      "comments": 15,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "论文系统研究Transformer中QKV投影的必要性，通过实验分析移除或简化QKV投影对模型性能的影响。核心发现是部分投影可被共享或移除而不显著降低效果，挑战了传统三投影设计。技术亮点包括对多种变体的消融实验和效率分析。适用场景为模型压缩、高效Transformer架构设计及资源受限环境下的部署。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-05T02:16:12.076722+00:00"
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "source": "hackernews-top",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=48403980",
+      "description": "",
+      "hn_score": 273,
+      "comments": 94,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Anthropic 发布开源框架，用于 AI 驱动的漏洞发现。该框架解决传统安全审计中人工效率低、覆盖面有限的问题。核心技术亮点包括利用 LLM 进行代码分析、自动生成测试用例并利用 agent 执行漏洞验证。适用场景为软件安全测试、DevSecOps 流程中的自动化漏洞扫描。",
+      "tags": [
+        "open-source",
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-05T02:16:14.146632+00:00"
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "source": "hackernews-top",
+      "url": "https://github.com/alibaba/open-code-review",
+      "hn_url": "https://news.ycombinator.com/item?id=48406358",
+      "description": "",
+      "hn_score": 43,
+      "comments": 7,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Open Code Review 是一个基于 AI 的代码审查 CLI 工具，旨在自动化代码审查流程，减少人工审查负担。其核心技术亮点在于利用大型语言模型（LLM）对代码变更进行智能分析，提供改进建议、检测潜在错误和代码异味。适用于开发团队在 CI/CD 管道中集成，以提升代码质量和审查效率。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-05T02:16:16.246875+00:00"
+    },
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "hn_url": "https://news.ycombinator.com/item?id=48398055",
+      "description": "",
+      "hn_score": 578,
+      "comments": 258,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "VoidZero 宣布加入 Cloudflare，旨在解决现代 Web 应用构建与部署中的性能与安全瓶颈。其核心技术亮点包括零信任架构、边缘计算集成以及自动化安全策略管理。适用场景为需要高安全性和低延迟的全球分布式 Web 服务。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-06-05T02:16:18.342315+00:00"
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "hn_url": "https://news.ycombinator.com/item?id=48400842",
+      "description": "",
+      "hn_score": 337,
+      "comments": 447,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "本文探讨了AI实现递归自我改进（Recursive Self-Improvement）的进展，即AI系统能够自主优化自身代码、架构或训练流程，无需人类干预。核心解决的是如何突破当前AI能力天花板，实现持续自主进化。技术亮点包括自我监督学习、元学习（Meta-Learning）和自动化架构搜索（NAS），以及通过强化学习反馈循环提升模型性能。适用场景为AI研发实验室、自动化机器学习（AutoML）系统及长期AI安全研究。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-05T02:16:20.976915+00:00"
+    },
+    {
+      "title": "Ian's Secure Shoelace Knot",
+      "source": "hackernews-top",
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=48397028",
+      "description": "",
+      "hn_score": 511,
+      "comments": 195,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Ian's Secure Shoelace Knot 是一种系鞋带方法，解决传统鞋带容易松脱的问题。其核心技术亮点在于通过特殊的交叉和环绕步骤，使结扣在受力时自动锁紧而非松开，同时保持易于解开的特性。适用场景包括运动、户外活动及日常需要牢固鞋带的场合。",
+      "tags": [
+        "workflow-automation"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-05T02:16:23.162480+00:00"
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "source": "hackernews-top",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "hn_url": "https://news.ycombinator.com/item?id=48399974",
+      "description": "",
+      "hn_score": 115,
+      "comments": 12,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "KVarN 是华为开源的 vLLM 后端，专用于 KV-cache 量化。它解决大语言模型推理时 KV-cache 内存占用过高导致的吞吐瓶颈。核心技术亮点包括：原生集成 vLLM 推理框架，支持多种量化策略（如 INT8/FP8），通过硬件感知优化减少精度损失并提升解码速度。适用场景为需要高吞吐、低延迟的 LLM 服务部署，尤其适合长序列推理和资源受限环境。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-05T02:16:25.814851+00:00"
+    },
+    {
+      "title": "Retro-Tech Parenting",
+      "source": "hackernews-top",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48400588",
+      "description": "",
+      "hn_score": 254,
+      "comments": 173,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Retro-Tech Parenting 探讨如何利用过时技术（如功能手机、单色显示器）进行育儿，解决儿童过度依赖现代智能设备的问题。核心亮点在于通过限制技术复杂度，培养孩子的专注力与创造力。适用场景包括家庭教育、儿童科技素养培养及数字极简主义实践。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.6,
+      "analyzed_at": "2026-06-05T02:16:27.884454+00:00"
+    },
+    {
+      "title": "Samurai City",
+      "source": "hackernews-top",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "hn_url": "https://news.ycombinator.com/item?id=48366090",
+      "description": "",
+      "hn_score": 102,
+      "comments": 15,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Samurai City 是一个基于大型语言模型构建的交互式叙事模拟游戏，解决传统游戏叙事线性、缺乏动态响应的问题。其核心技术亮点包括使用 LLM 驱动角色对话与行为决策、动态生成剧情分支，以及结合状态机管理游戏逻辑。适用于游戏开发、交互式故事创作及 AI 叙事研究场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-05T02:16:30.297590+00:00"
+    },
+    {
+      "title": "Castor: CERN Advanced STORage Manager",
+      "source": "hackernews-top",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48403753",
+      "description": "",
+      "hn_score": 43,
+      "comments": 18,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Castor 是 CERN 开发的大规模分级存储管理器，用于管理高能物理实验产生的 PB 级数据。它通过自动化数据迁移、磁带库管理和磁盘缓存策略，解决海量科研数据的长期存储与高效访问问题。核心技术包括基于策略的分层存储、分布式文件系统集成和故障恢复机制。适用于需要高吞吐、低成本存储的科学计算、大数据归档及冷热数据分离场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.7,
+      "analyzed_at": "2026-06-05T02:16:32.755421+00:00"
+    },
+    {
+      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2604.24881",
+      "hn_url": "https://news.ycombinator.com/item?id=48405841",
+      "description": "",
+      "hn_score": 13,
+      "comments": 0,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Latent Agents 是一种后训练流程，通过内部化多智能体辩论来提升 LLM 推理能力。它解决传统多智能体系统需要外部交互、推理成本高的问题。核心技术亮点是在模型内部模拟多个智能体的辩论过程，无需外部调用，从而在保持推理质量的同时降低延迟。适用场景包括需要复杂推理的问答、数学问题求解和逻辑推理任务。",
+      "tags": [
+        "large-language-model",
+        "multi-agent",
+        "reasoning",
+        "fine-tuning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-05T02:16:34.813305+00:00"
+    },
+    {
+      "title": "Meta's ships facial recognition on smart glasses",
+      "source": "hackernews-top",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "hn_url": "https://news.ycombinator.com/item?id=48403588",
+      "description": "",
+      "hn_score": 229,
+      "comments": 204,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Meta在智能眼镜中部署面部识别功能，解决用户实时身份识别需求。核心技术亮点包括轻量化人脸检测模型与隐私保护设计（如本地处理、用户选择加入）。适用场景为社交辅助、会议记录及无障碍交互。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-05T02:16:36.995075+00:00"
+    },
+    {
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "source": "hackernews-top",
+      "url": "https://uruky.com/?il=en",
+      "hn_url": "https://news.ycombinator.com/item?id=48396004",
+      "description": "",
+      "hn_score": 207,
+      "comments": 194,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Uruky 是一个基于欧盟的 Kagi 替代搜索引擎，新增图像搜索和 URL 重写功能。它解决用户对隐私友好、非美国搜索引擎的需求，核心亮点包括 EU 托管、无追踪、图像搜索与 URL 重写优化搜索体验。适用于注重隐私的开发者、研究人员及欧盟用户。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-06-05T02:16:39.252290+00:00"
+    },
+    {
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "source": "hackernews-top",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "hn_url": "https://news.ycombinator.com/item?id=48406198",
+      "description": "",
+      "hn_score": 6,
+      "comments": 1,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "韩国论坛将强制使用AI审查工具扫描所有上传图片，以检测违法内容。该政策旨在解决网络内容监管中的人工审核效率低、覆盖面不足问题。核心技术亮点包括基于深度学习的图像识别模型，能够实时识别色情、暴力等违规内容。适用场景为大型在线社区和社交平台的内容审核系统。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-05T02:16:41.788333+00:00"
+    },
+    {
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "hn_url": "https://news.ycombinator.com/item?id=48373642",
+      "description": "",
+      "hn_score": 214,
+      "comments": 53,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "美国陆军工程兵团湾模型是一个物理水文模型，用于模拟旧金山湾区的潮汐、水流和泥沙运动，以解决防洪、生态修复和基础设施规划问题。核心技术亮点包括大比例尺物理模拟和实时数据校准，适用于水利工程、环境管理和灾害预防场景。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-06-05T02:16:43.924933+00:00"
+    },
+    {
+      "title": "Gaussian Point Splatting",
+      "source": "hackernews-top",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48396792",
+      "description": "",
+      "hn_score": 176,
+      "comments": 65,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Gaussian Point Splatting是一种基于3D高斯分布的点云渲染技术，解决传统点云渲染中表面不连续和空洞问题。核心亮点在于将每个点表示为各向异性高斯分布，通过可微分渲染实现高质量实时重建与渲染。适用于3D场景重建、虚拟现实和数字孪生等需要高保真视觉效果的场景。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-05T02:16:46.250728+00:00"
+    },
+    {
+      "title": "AI, Ashby Engineering, and the future",
+      "source": "hackernews-top",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "hn_url": "https://news.ycombinator.com/item?id=48399528",
+      "description": "",
+      "hn_score": 56,
+      "comments": 38,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "Ashby Engineering 探讨 AI 如何重塑软件工程未来，核心解决传统开发流程中重复性高、效率低的问题。技术亮点包括将 LLM 集成到代码审查、自动化测试和文档生成中，强调通过 prompt-engineering 和 tool-use 提升开发工具智能性。适用场景为现代软件团队寻求 AI 辅助开发流程优化。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "code-generation",
+        "prompt-engineering",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-05T02:16:48.436821+00:00"
+    },
+    {
+      "title": "3D-printed book turns its own G-code into raised lettering",
+      "source": "hackernews-top",
+      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+      "hn_url": "https://news.ycombinator.com/item?id=48370558",
+      "description": "",
+      "hn_score": 77,
+      "comments": 28,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "该项目通过3D打印技术将G-code（3D打印机控制指令）直接转化为凸起的盲文或浮雕文字，使书籍内容以物理形式呈现。核心创新在于利用G-code的路径信息生成可触摸的立体字母，无需额外软件转换。适用于教育、无障碍阅读及创客领域，将数字制造与触觉交互结合。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-05T02:16:50.836224+00:00"
+    },
+    {
+      "title": "They’re made out of weights",
+      "source": "hackernews-top",
+      "url": "https://maxleiter.com/blog/weights",
+      "hn_url": "https://news.ycombinator.com/item?id=48391611",
+      "description": "",
+      "hn_score": 1403,
+      "comments": 628,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "文章探讨神经网络权重作为信息存储的物理介质，核心观点是权重不仅是参数，更是模型知识的具体化表示。解决传统上对权重作为黑盒理解的问题，通过可视化与数学分析揭示权重与训练数据的关联。技术亮点包括权重矩阵的稀疏性分析、梯度与知识映射关系。适用于模型可解释性研究、安全审计及压缩优化场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-05T02:16:53.686007+00:00"
+    },
+    {
+      "title": "Mornings and nights no longer exist at 47C: A day in the hottest place in India",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
+      "hn_url": "https://news.ycombinator.com/item?id=48369416",
+      "description": "",
+      "hn_score": 124,
+      "comments": 96,
+      "collected_at": "2026-06-05T02:15:19.131199+00:00",
+      "published_at": "2026-06-05T02:15:19.131199+00:00",
+      "summary": "本文报道印度最热地区47°C高温下的日常生活，描述极端气候如何消除昼夜界限。核心是揭示气候变化对人类社会结构的冲击，通过实地观察展现热浪对作息、健康、经济活动的系统性影响。适用场景为气候研究、城市规划、公共卫生政策制定。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-05T02:16:55.688701+00:00"
+    }
+  ]
+}

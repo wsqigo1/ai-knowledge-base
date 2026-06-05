@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-05-004",
+  "title": "Do transformers need three projections? Systematic study of QKV variants",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2606.04032",
+  "summary": "论文系统研究Transformer中QKV投影的必要性，通过实验分析移除或简化QKV投影对模型性能的影响。核心发现是部分投影可被共享或移除而不显著降低效果，挑战了传统三投影设计。技术亮点包括对多种变体的消融实验和效率分析。适用场景为模型压缩、高效Transformer架构设计及资源受限环境下的部署。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-05T02:15:19.131199+00:00",
+  "analyzed_at": "2026-06-05T02:16:12.076722+00:00",
+  "organized_at": "2026-06-05T02:16:55.705539+00:00",
+  "status": "published"
+}
