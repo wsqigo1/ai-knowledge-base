@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-06-010",
+  "title": "Transformers are inherently succinct",
+  "source": "hackernews-top",
+  "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+  "summary": "论文证明Transformer架构在表示简洁性上具有内在优势，即任何可被多项式大小电路计算的函数都能被Transformer以更少的参数高效表示。解决了深度学习模型表达能力与参数效率的理论问题。核心亮点是通过电路复杂度理论建立Transformer的简洁性上界。适用场景包括模型设计理论分析、架构优化及可解释性研究。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-06-06T02:06:41.613633+00:00",
+  "analyzed_at": "2026-06-06T02:07:52.327364+00:00",
+  "organized_at": "2026-06-06T02:08:09.111381+00:00",
+  "status": "published"
+}

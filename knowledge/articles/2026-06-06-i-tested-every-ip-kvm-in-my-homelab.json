@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-06-011",
+  "title": "I tested every IP KVM in my Homelab",
+  "source": "hackernews-top",
+  "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+  "summary": "这是一篇对家庭实验室中多种IP KVM（键盘、视频、鼠标切换器）设备的实测对比文章。它解决了远程管理多台无头服务器时，如何选择可靠、低延迟的KVM硬件的问题。核心技术亮点包括对PiKVM、JetKVM等开源方案的性能、延迟、视频编码质量及网络功能的详细测试。适用场景为自建服务器、网络设备远程运维的AI工程师或DevOps人员。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-06T02:06:41.613633+00:00",
+  "analyzed_at": "2026-06-06T02:07:54.642275+00:00",
+  "organized_at": "2026-06-06T02:08:09.111381+00:00",
+  "status": "published"
+}

@@ -1,0 +1,530 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-06T02:06:42.540729+00:00",
+  "date": "2026-06-06",
+  "count": 20,
+  "items": [
+    {
+      "title": "pewdiepie-archdaemon/odysseus",
+      "source": "github-trending",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "description": "Self-hosted AI workspace. ",
+      "stars": 55841,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-06T00:08:44Z",
+      "summary": "Odysseus 是一个自托管的 AI 工作空间，旨在为个人或团队提供私有的 AI 协作环境。它解决数据隐私和外部 AI 服务依赖问题，核心亮点包括基于 Python 构建、支持多种 AI 模型集成、提供可扩展的插件架构。适用场景包括企业内部知识管理、个人 AI 助手部署及敏感数据处理。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-06T02:06:44.942459+00:00"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus",
+      "source": "github-trending",
+      "url": "https://github.com/asz798838958/aBaiAutoplus",
+      "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "stars": 1533,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T07:44:52Z",
+      "summary": "aBaiAutoplus 是一个基于 Python 的多平台 AI 账号自动注册与管理工具，核心解决 ChatGPT Plus 等付费 AI 服务的账号获取与续费难题。通过协议化付款（如虚拟信用卡）实现一键开通，并支持多平台自动化注册流程。技术亮点包括模拟浏览器行为、验证码识别与多账号池管理。适用于需要批量管理 AI 账号的个人开发者或小型团队，降低手动操作成本。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-06T02:06:47.191326+00:00"
+    },
+    {
+      "title": "ClaudioDrews/memory-os",
+      "source": "github-trending",
+      "url": "https://github.com/ClaudioDrews/memory-os",
+      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "stars": 882,
+      "language": "Python",
+      "topics": [
+        "ai-memory",
+        "context-injection",
+        "docker",
+        "ground-truth",
+        "hermes-agent",
+        "local-first",
+        "open-source",
+        "persistent-memory",
+        "qdrant",
+        "rag",
+        "self-hosted",
+        "vector-database"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T04:51:37Z",
+      "summary": "memory-os 是一个为 Hermes Agent 设计的 7 层记忆操作系统，解决 AI Agent 缺乏持久化记忆和上下文管理的问题。核心亮点包括：使用 Qdrant 向量数据库实现持久记忆，结构化事实存储，自动策展 Wiki，以及手术刀式上下文注入。支持本地运行和任意 LLM 提供商，通过 Docker 部署。适用于需要长期记忆和精准上下文管理的 AI 助手、Agent 系统。",
+      "tags": [
+        "agent",
+        "rag",
+        "vector-database",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-06-06T02:06:49.298367+00:00"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo",
+      "source": "github-trending",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "stars": 575,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T16:41:52Z",
+      "summary": "JoyAI-Echo 是一个专注于长音频-视觉生成的开源项目，旨在突破现有模型在长时间、多模态内容生成上的局限。其核心技术亮点包括高效的时序建模与跨模态对齐机制，支持生成连贯的长视频与同步音频。适用于影视制作、虚拟主播、教育内容生成等需要长序列多模态输出的场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:06:51.351905+00:00"
+    },
+    {
+      "title": "tastyeffectco/sandboxes",
+      "source": "github-trending",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 440,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "dev-environment",
+        "docker",
+        "isolation",
+        "preview",
+        "preview-environment",
+        "sandbox",
+        "self-hosted"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-04T17:03:14Z",
+      "summary": "tastyeffectco/sandboxes 是一个自托管的开发沙箱工具，通过一条命令即可创建带预览 URL 的隔离环境，无需 Kubernetes。它解决了 AI 编码代理和 SaaS 工厂在开发、测试中需要快速、轻量级隔离环境的问题。核心技术亮点包括基于 Docker 的容器隔离、自动生成预览 URL 以及零 Kubernetes 依赖的简化部署。适用场景为 AI 代理开发、多租户 SaaS 应用测试和快速原型验证。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-06T02:06:53.523938+00:00"
+    },
+    {
+      "title": "Mochocyang/QMAI",
+      "source": "github-trending",
+      "url": "https://github.com/Mochocyang/QMAI",
+      "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
+      "stars": 358,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T09:06:51Z",
+      "summary": "QMAI 是一个基于 TypeScript 的开源 AI 写作工具，专为解决长篇小说创作中角色性格不统一、人设崩坏的问题。核心亮点在于利用 large-language-model 进行角色一致性维护，通过 prompt-engineering 实现角色对话和行为的逻辑约束，防止角色偏离设定。适用场景包括网络文学创作、剧本编写及需要长期角色管理的叙事项目。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-06T02:06:55.459176+00:00"
+    },
+    {
+      "title": "chaitanyagiri/munder-difflin",
+      "source": "github-trending",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "stars": 333,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "free",
+        "harness",
+        "harness-engineering",
+        "memory"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T20:44:21Z",
+      "summary": "Munder Difflin 是一个本地多智能体协调框架（harness），旨在解决多个 AI 智能体在本地环境中协同工作时的编排与通信问题。其核心亮点包括支持 agents 自由组合、兼容 Claude Code 等模型、完全免费开源，并专注于 harness 工程化设计，降低多智能体系统搭建门槛。适用于需要本地部署多智能体协作的开发者，如自动化工作流、代码生成与审查等场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:06:57.630916+00:00"
+    },
+    {
+      "title": "PentesterFlow/agent",
+      "source": "github-trending",
+      "url": "https://github.com/PentesterFlow/agent",
+      "description": "Agentic offensive-security in your terminal",
+      "stars": 294,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "bugbounty",
+        "penetration-testing",
+        "security-audit",
+        "security-automation"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T10:11:15Z",
+      "summary": "PentesterFlow/agent 是一个基于 TypeScript 的开源终端工具，将 AI agent 引入渗透测试流程，解决安全审计中手动操作繁琐、效率低下的问题。核心亮点在于通过 agent 自主执行漏洞扫描、信息收集等攻击性安全任务，支持 AI 驱动的决策与工具调用。适用于红队演练、漏洞赏金及安全审计场景，提升自动化渗透测试的灵活性与效率。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:00.068555+00:00"
+    },
+    {
+      "title": "Fullive-AI/Anima",
+      "source": "github-trending",
+      "url": "https://github.com/Fullive-AI/Anima",
+      "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "stars": 282,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-03T16:00:26Z",
+      "summary": "Anima 是一个开源 Agent OS，旨在让任何硬件具备智能。它解决传统硬件缺乏统一智能层的问题，核心亮点包括硬件抽象层、多模态感知与推理、以及轻量级运行时。适用场景包括 IoT 设备、边缘计算和嵌入式系统。",
+      "tags": [
+        "agent",
+        "open-source",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:01.845077+00:00"
+    },
+    {
+      "title": "duncatzat/vigils",
+      "source": "github-trending",
+      "url": "https://github.com/duncatzat/vigils",
+      "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+      "stars": 281,
+      "language": "Rust",
+      "topics": [
+        "agent-security",
+        "ai-agents",
+        "audit-log",
+        "desktop",
+        "llm",
+        "local-first",
+        "pii",
+        "rust",
+        "sandbox",
+        "tauri"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T16:35:42Z",
+      "summary": "Vigils 是一个面向 AI 代理的本地控制平面，解决代理行为不可见、敏感信息泄露及操作审批缺失的问题。核心基于 Rust 构建高性能后端，Tauri 提供桌面 UI，Chrome MV3 扩展实现浏览器内拦截与审计。适用于需要安全管控 AI 代理行为的开发环境，如自动化工作流中的权限审批与日志记录。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-06-06T02:07:03.916996+00:00"
+    },
+    {
+      "title": "johnbean393/KeyType",
+      "source": "github-trending",
+      "url": "https://github.com/johnbean393/KeyType",
+      "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+      "stars": 266,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "ai-autocomplete",
+        "autocomplete",
+        "completions",
+        "cotabby",
+        "cotypist",
+        "gemma4",
+        "llm",
+        "macos",
+        "qwen3-5"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T14:47:12Z",
+      "summary": "KeyType 是一个开源的 macOS 系统级 AI 自动补全工具，类似 Cotypist。它解决用户在全局输入场景下缺乏智能补全的问题，核心亮点是系统级集成与 AI 驱动的实时补全。适用于 macOS 上的文本输入加速场景，如代码编写、文档编辑等。",
+      "tags": [
+        "ai-assistant",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-06T02:07:06.113565+00:00"
+    },
+    {
+      "title": "CWS6206/ai-coding-starter-kit",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stars": 237,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T08:56:11Z",
+      "summary": "CWS6206/ai-coding-starter-kit 是一个面向瑞士开发团队的 AI 编码入门工具包，整合了博客文章中的 agent skills、checklist、模板和指南。它解决团队在采用 AI 辅助开发时缺乏标准化流程和最佳实践的问题，核心亮点是提供可直接复用的 agent 技能定义和项目模板。适用于希望快速落地 AI 编码工作流的瑞士或类似背景的开发团队。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-06-06T02:07:08.208772+00:00"
+    },
+    {
+      "title": "zonghaoyuan/infiplot",
+      "source": "github-trending",
+      "url": "https://github.com/zonghaoyuan/infiplot",
+      "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
+      "stars": 206,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-04T16:28:14Z",
+      "summary": "InfiPlot 是一个基于 AI 实时生成图文内容的交互式剧情游戏平台，解决传统剧情游戏内容固定、缺乏动态生成能力的问题。核心技术亮点在于利用大型语言模型与图像生成模型协同工作，实现文本与图像的同步实时生成，支持用户驱动的动态叙事。适用场景包括互动娱乐、AI 驱动的故事创作、游戏原型开发及教育模拟。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "code-generation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:10.357081+00:00"
+    },
+    {
+      "title": "zarazhangrui/beautiful-feishu-whiteboard",
+      "source": "github-trending",
+      "url": "https://github.com/zarazhangrui/beautiful-feishu-whiteboard",
+      "description": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.",
+      "stars": 200,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T03:36:07Z",
+      "summary": "该项目提供35种精心设计的配色方案，用于构建美观且可编辑的飞书白板。核心是作为AI代理技能，通过Shell脚本实现配色方案的集成与调用。解决了飞书白板视觉风格单一、缺乏专业配色的问题。技术亮点在于将设计资源与代理技能结合，简化了白板自定义流程。适用于需要快速美化飞书白板的团队或个人，尤其适合AI代理驱动的自动化工作流。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-06T02:07:12.625891+00:00"
+    },
+    {
+      "title": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+      "source": "github-trending",
+      "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+      "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+      "stars": 187,
+      "language": "C#",
+      "topics": [
+        "adult-ai",
+        "nsfw",
+        "nsfw-classifier",
+        "nsfw-data",
+        "nsfw-detection",
+        "nsfw-image",
+        "nsfw-project",
+        "nsfw-prompt",
+        "nsfw-recognition",
+        "nsfw-video-ai-gen",
+        "nudity",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator",
+        "uncensored-ai-video-generator-2026",
+        "undress-ai-gen",
+        "video-generator",
+        "xvideos-api",
+        "z-image-turbo-uncensored"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-05-31T12:50:49Z",
+      "summary": "NS-FW-AI-Image-and-Video-Generator-Uncens 是一个基于 C# 构建的 AI 图像生成基础工具包，专注于无审查的创意表达和内容生成。它解决了现有 AI 图像生成工具在 NSFW（成人内容）领域受限的问题，提供了一套用于训练和部署 NSFW 分类器、处理相关数据集的工具链。核心技术亮点包括集成的 NSFW 检测与分类模块，以及针对成人内容优化的生成管线。适用场景包括成人内容创作、艺术实验、以及需要绕过内容过滤的 AI 研究项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-06T02:07:14.977168+00:00"
+    },
+    {
+      "title": "Soul-AILab/SoulX-Transcriber",
+      "source": "github-trending",
+      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+      "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+      "stars": 187,
+      "language": "Python",
+      "topics": [
+        "asr",
+        "llm",
+        "sd",
+        "sdr",
+        "speech-recognition"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-04T08:04:43Z",
+      "summary": "SoulX-Transcriber 是一个端到端的多说话人转录框架，联合建模谁在说话、何时说话以及说了什么。它解决了传统语音识别中无法区分说话人身份和时间戳的问题。核心技术亮点包括结合 ASR、LLM 和说话人日志（SD/SDR）的联合建模，实现高精度多说话人转录。适用场景包括会议记录、对话分析、多说话人语音搜索等。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:17.145659+00:00"
+    },
+    {
+      "title": "zaydmulani09/mnemo",
+      "source": "github-trending",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+      "stars": 186,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-04T01:52:41Z",
+      "summary": "Mnemo 是一个本地优先的 AI 记忆层，为任意 LLM 提供持久化知识图谱、实体抽取与语义检索。它解决 LLM 缺乏长期记忆与上下文关联的问题，核心亮点在于支持 Ollama、OpenAI、Anthropic 等后端，并基于 Rust 实现高性能。适用于构建具备记忆能力的 AI 助手、知识管理工具或对话系统。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "vector-database",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:19.050400+00:00"
+    },
+    {
+      "title": "stormneonnightraven4640692/DeepFake-AI-RealTime",
+      "source": "github-trending",
+      "url": "https://github.com/stormneonnightraven4640692/DeepFake-AI-RealTime",
+      "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
+      "stars": 182,
+      "language": "C#",
+      "topics": [
+        "ai-deep-fake",
+        "audio-deepfake-detection",
+        "deep-ai",
+        "deep-fake-ai",
+        "deepfake",
+        "deepfake-ai",
+        "deepfake-detection",
+        "deepfake-generation",
+        "deepfake-software",
+        "deepfake-videos",
+        "face-swap",
+        "faceswap",
+        "fake-image-detection",
+        "llm",
+        "neural-voice-synthesis",
+        "real-time-deepfake",
+        "realtime-face-changer",
+        "video-deepfake"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-05-31T12:53:54Z",
+      "summary": "这是一个基于C#开发的LLM驱动工具包，专注于深度伪造合成媒体的伦理检测、分析与负责任内容生成。它解决深度伪造内容泛滥导致的虚假信息识别难题，核心技术亮点包括实时音频/视频深度伪造检测、多模态分析能力以及LLM驱动的智能判别。适用场景包括媒体真实性验证、内容审核、安全监控及学术研究。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-06-06T02:07:21.094527+00:00"
+    },
+    {
+      "title": "gerardapennant96075336582/CapC-Pro-2",
+      "source": "github-trending",
+      "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
+      "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+      "stars": 181,
+      "language": "C++",
+      "topics": [
+        "4k-export",
+        "4k-video-editor",
+        "activation-tools",
+        "ai-video-editor",
+        "capcut-2026",
+        "capcut-automation",
+        "capcut-effects",
+        "capcut-plugin",
+        "capcut-scripts",
+        "capcut-workflow",
+        "cinematic-editing",
+        "pro-cap-cut",
+        "reels-editor"
+      ],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-05-31T10:33:50Z",
+      "summary": "CapC-Pro-2 是一个基于 C++ 的 CapCut Pro Studio 2026 解锁工具，声称解锁 4K HDR 导出、AI 驱动转场及专业素材库等付费功能。解决视频编辑软件付费限制问题。核心技术亮点包括 AI 视频编辑集成与高性能渲染。适用场景为需要免费使用高级视频编辑功能的用户。",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-06T02:07:23.502315+00:00"
+    },
+    {
+      "title": "233i/ore-code",
+      "source": "github-trending",
+      "url": "https://github.com/233i/ore-code",
+      "description": "DeepSeek-first desktop coding agent workbench",
+      "stars": 162,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-06T02:06:41.443203+00:00",
+      "published_at": "2026-06-05T14:20:55Z",
+      "summary": "233i/ore-code 是一个基于 DeepSeek 的桌面端编码智能体工作台。它解决开发者在使用 AI 辅助编程时缺乏专用集成环境的问题，核心亮点是深度集成 DeepSeek 模型，提供代码生成、解释、调试等 agent 能力。适用场景为需要本地化、高效 AI 编码辅助的软件开发工作流。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-06-06T02:07:25.440640+00:00"
+    }
+  ]
+}

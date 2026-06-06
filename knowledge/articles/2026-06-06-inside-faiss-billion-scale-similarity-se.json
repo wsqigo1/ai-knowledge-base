@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-06-013",
+  "title": "Inside FAISS: Billion-Scale Similarity Search",
+  "source": "hackernews-top",
+  "url": "https://fremaconsulting.ch/blog/faiss",
+  "summary": "FAISS是Meta开源的向量相似性搜索库，解决十亿级规模下近似最近邻搜索的性能瓶颈。核心技术包括IVF（倒排文件）与PQ（乘积量化）结合的索引结构、GPU加速的k-selection算法以及HNSW图索引的集成。适用于推荐系统、语义检索、大规模向量数据库等需要实时高召回率搜索的场景。",
+  "tags": [
+    "vector-database",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-06T02:06:41.613633+00:00",
+  "analyzed_at": "2026-06-06T02:08:04.703467+00:00",
+  "organized_at": "2026-06-06T02:08:09.111381+00:00",
+  "status": "published"
+}

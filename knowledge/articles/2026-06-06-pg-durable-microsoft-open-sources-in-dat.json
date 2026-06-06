@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-06-003",
+  "title": "pg_durable: Microsoft open sources in-database durable execution",
+  "source": "hackernews-top",
+  "url": "https://github.com/microsoft/pg_durable",
+  "summary": "pg_durable 是微软开源的 PostgreSQL 扩展，实现数据库内持久化执行（durable execution），解决分布式系统中工作流状态持久化与恢复的复杂性。核心技术亮点包括：利用 PostgreSQL 的 WAL 日志和事务机制保证工作流步骤的原子性与持久性，支持任意代码执行与状态回滚，无需外部协调服务。适用场景：需要高可靠性工作流编排的微服务、事件驱动架构、数据管道等，尤其适合已使用 PostgreSQL 的团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-06-06T02:06:41.613633+00:00",
+  "analyzed_at": "2026-06-06T02:07:31.720961+00:00",
+  "organized_at": "2026-06-06T02:08:09.111381+00:00",
+  "status": "published"
+}

@@ -1,0 +1,384 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-06T02:06:42.541366+00:00",
+  "date": "2026-06-06",
+  "count": 20,
+  "items": [
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "source": "hackernews-top",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48420148",
+      "description": "",
+      "hn_score": 44,
+      "comments": 3,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "这是一篇关于现代相机镜头维修技术的深度文章，发布于2024年。它解决了相机镜头因复杂电子和光学结构而难以维修的问题。核心技术亮点包括拆解现代镜头中的自动对焦马达、防抖组件和密封结构，以及使用专用工具进行校准。适用场景为摄影爱好者、维修技师和硬件工程师。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-06T02:07:27.573254+00:00"
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "hn_url": "https://news.ycombinator.com/item?id=48413464",
+      "description": "",
+      "hn_score": 360,
+      "comments": 235,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "这是一则关于国际空间站（ISS）宇航员因空气泄漏修复工作而短暂避难后返回的新闻。该事件涉及空间站舱段密封性维护与应急安全流程。核心技术亮点在于泄漏检测与隔离修复的工程实践。适用场景为航天器生命支持系统维护与应急响应。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-06T02:07:29.456745+00:00"
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "source": "hackernews-top",
+      "url": "https://github.com/microsoft/pg_durable",
+      "hn_url": "https://news.ycombinator.com/item?id=48414367",
+      "description": "",
+      "hn_score": 329,
+      "comments": 78,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "pg_durable 是微软开源的 PostgreSQL 扩展，实现数据库内持久化执行（durable execution），解决分布式系统中工作流状态持久化与恢复的复杂性。核心技术亮点包括：利用 PostgreSQL 的 WAL 日志和事务机制保证工作流步骤的原子性与持久性，支持任意代码执行与状态回滚，无需外部协调服务。适用场景：需要高可靠性工作流编排的微服务、事件驱动架构、数据管道等，尤其适合已使用 PostgreSQL 的团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-06-06T02:07:31.720961+00:00"
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414653",
+      "description": "",
+      "hn_score": 271,
+      "comments": 86,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "Gemma 4 QAT models 是 Google 推出的量化感知训练模型，旨在通过压缩技术优化 AI 模型在移动设备和笔记本电脑上的部署效率。核心解决大模型在资源受限设备上的推理速度慢、内存占用高问题。技术亮点包括结合 QAT（量化感知训练）与模型剪枝，在保持精度的同时显著减少模型体积和计算需求。适用场景为移动端 AI 应用、边缘计算及离线推理任务。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:33.894721+00:00"
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "source": "hackernews-top",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "hn_url": "https://news.ycombinator.com/item?id=48413500",
+      "description": "",
+      "hn_score": 258,
+      "comments": 116,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "该技术提出一种将海水转化为饮用水的新方法，解决传统海水淡化产生高盐废水的问题。核心亮点在于利用特殊材料或工艺实现零废物排放，同时提高能效。适用于水资源短缺的沿海地区、岛屿及紧急救援场景。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-06T02:07:35.680137+00:00"
+    },
+    {
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "source": "hackernews-top",
+      "url": "https://mouseless.click",
+      "hn_url": "https://news.ycombinator.com/item?id=48383667",
+      "description": "",
+      "hn_score": 456,
+      "comments": 191,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "Mouseless 是一款跨平台（macOS/Linux/Windows）的开源键盘驱动工具，解决用户过度依赖鼠标操作导致效率低下的问题。核心技术亮点包括：通过自定义快捷键实现窗口管理、应用启动、文本编辑等全键盘控制，支持脚本扩展和配置热重载。适用场景为开发者、写作者等追求极致效率的桌面用户，尤其适合多任务处理和重复性操作优化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-06T02:07:38.147315+00:00"
+    },
+    {
+      "title": "Did Claude increase bugs in rsync?",
+      "source": "hackernews-top",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48411635",
+      "description": "",
+      "hn_score": 307,
+      "comments": 317,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "讨论Claude生成的代码是否导致rsync工具引入更多bug。核心问题是评估AI生成代码的质量与安全性，特别是对rsync这类底层系统工具的影响。技术亮点在于分析Claude代码的bug率与人工编写代码的对比，以及AI在复杂系统编程中的局限性。适用场景为AI代码生成工具在关键基础设施项目中的风险评估。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:07:40.262328+00:00"
+    },
+    {
+      "title": "My Agent Skill for Test-Driven Development",
+      "source": "hackernews-top",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48398925",
+      "description": "",
+      "hn_score": 133,
+      "comments": 53,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "该项目介绍了一种用于测试驱动开发（TDD）的AI Agent技能。它通过将TDD流程（红-绿-重构）自动化，解决开发者在编写测试用例和代码迭代中的效率问题。核心技术亮点包括：利用大语言模型理解测试需求、自动生成测试代码、以及基于测试结果动态调整实现代码。适用场景为需要严格遵循TDD实践的软件开发团队，尤其适合快速迭代和代码质量要求高的项目。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-06T02:07:42.804554+00:00"
+    },
+    {
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "hn_url": "https://news.ycombinator.com/item?id=48415217",
+      "description": "",
+      "hn_score": 359,
+      "comments": 126,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "英国政府网站GOV.UK将支付服务从Stripe更换为荷兰提供商Adyen，以优化支付处理。核心亮点是Adyen提供统一支付平台，支持多种支付方式并降低交易成本，解决政府支付场景下的合规性与效率问题。适用于高交易量、需多币种处理的公共服务支付系统。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-06T02:07:45.029937+00:00"
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "source": "hackernews-top",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414027",
+      "description": "",
+      "hn_score": 267,
+      "comments": 209,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "Conventional Commits 是一种约定式提交规范，旨在通过标准化提交信息格式来提升项目协作效率。该文章批判其过度关注提交信息的格式而非代码变更的实际内容，导致开发者陷入形式主义。核心观点是：提交规范应服务于清晰传达变更意图，而非成为束缚。适用场景包括团队协作、代码审查和自动化发布流程，但需警惕过度规范化带来的反效果。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-06T02:07:47.501585+00:00"
+    },
+    {
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "hn_url": "https://news.ycombinator.com/item?id=48406174",
+      "description": "",
+      "hn_score": 170,
+      "comments": 401,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "Hacker News 上关于 GenAI 使用中“翻车”时刻的讨论帖，热度 170 分。核心问题：开发者在使用大语言模型时遭遇的意外失败，如生成错误代码、逻辑漏洞、幻觉导致生产事故。技术亮点：社区分享了 prompt 设计缺陷、模型边界认知不足、缺乏验证机制等教训。适用场景：AI 工程师反思 GenAI 应用风险，改进开发流程与测试策略。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-06T02:07:49.990236+00:00"
+    },
+    {
+      "title": "Transformers are inherently succinct",
+      "source": "hackernews-top",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "hn_url": "https://news.ycombinator.com/item?id=48416635",
+      "description": "",
+      "hn_score": 90,
+      "comments": 31,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "论文证明Transformer架构在表示简洁性上具有内在优势，即任何可被多项式大小电路计算的函数都能被Transformer以更少的参数高效表示。解决了深度学习模型表达能力与参数效率的理论问题。核心亮点是通过电路复杂度理论建立Transformer的简洁性上界。适用场景包括模型设计理论分析、架构优化及可解释性研究。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-06-06T02:07:52.327364+00:00"
+    },
+    {
+      "title": "I tested every IP KVM in my Homelab",
+      "source": "hackernews-top",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48413072",
+      "description": "",
+      "hn_score": 242,
+      "comments": 66,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "这是一篇对家庭实验室中多种IP KVM（键盘、视频、鼠标切换器）设备的实测对比文章。它解决了远程管理多台无头服务器时，如何选择可靠、低延迟的KVM硬件的问题。核心技术亮点包括对PiKVM、JetKVM等开源方案的性能、延迟、视频编码质量及网络功能的详细测试。适用场景为自建服务器、网络设备远程运维的AI工程师或DevOps人员。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-06T02:07:54.642275+00:00"
+    },
+    {
+      "title": "India's surprise baby bust",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+      "hn_url": "https://news.ycombinator.com/item?id=48413254",
+      "description": "",
+      "hn_score": 135,
+      "comments": 595,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "文章讨论印度意外出现的生育率下降现象，分析其社会经济影响。核心问题：印度人口增长放缓可能改变劳动力结构和经济预期。技术亮点：无，属于人口统计学分析。适用场景：人口政策研究、经济趋势预测。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-06T02:07:56.290681+00:00"
+    },
+    {
+      "title": "Cooldown Support for Ruby Bundler",
+      "source": "hackernews-top",
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48380174",
+      "description": "",
+      "hn_score": 144,
+      "comments": 39,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "Cooldown Support for Ruby Bundler 是为 Ruby 依赖管理工具 Bundler 添加的冷却机制功能，解决频繁依赖解析导致性能瓶颈的问题。核心亮点是引入缓存与延迟重试策略，减少重复计算和网络请求。适用于大型 Ruby 项目的持续集成与部署场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-06T02:07:58.191502+00:00"
+    },
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "hn_url": "https://news.ycombinator.com/item?id=48409664",
+      "description": "",
+      "hn_score": 363,
+      "comments": 197,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "文章追踪了欧洲上空一个强大的GNSS干扰源，通过分析干扰信号特征和地理分布，定位到可能的干扰源位置。它解决了GNSS信号干扰导致定位失效的问题，核心技术包括信号频谱分析、多站点三角定位和干扰模式识别。适用于航空、海事等依赖GNSS的领域，以及无线电频谱管理场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-06-06T02:08:00.256385+00:00"
+    },
+    {
+      "title": "C++: The Documentary",
+      "source": "hackernews-top",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "hn_url": "https://news.ycombinator.com/item?id=48408016",
+      "description": "",
+      "hn_score": 377,
+      "comments": 271,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "C++: The Documentary 是一部关于 C++ 编程语言历史与演进的纪录片，旨在为开发者提供语言设计哲学、关键特性演进及社区生态的深度回顾。核心技术亮点包括对 C++98 到 C++20 标准变迁的剖析、模板元编程与 RAII 等核心机制的解读，以及 Bjarne Stroustrup 等关键人物的访谈。适用场景为 C++ 开发者、编程语言爱好者及技术历史研究者，帮助理解语言底层逻辑与设计决策。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-06T02:08:02.601207+00:00"
+    },
+    {
+      "title": "Inside FAISS: Billion-Scale Similarity Search",
+      "source": "hackernews-top",
+      "url": "https://fremaconsulting.ch/blog/faiss",
+      "hn_url": "https://news.ycombinator.com/item?id=48398689",
+      "description": "",
+      "hn_score": 46,
+      "comments": 3,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "FAISS是Meta开源的向量相似性搜索库，解决十亿级规模下近似最近邻搜索的性能瓶颈。核心技术包括IVF（倒排文件）与PQ（乘积量化）结合的索引结构、GPU加速的k-selection算法以及HNSW图索引的集成。适用于推荐系统、语义检索、大规模向量数据库等需要实时高召回率搜索的场景。",
+      "tags": [
+        "vector-database",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-06T02:08:04.703467+00:00"
+    },
+    {
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "source": "hackernews-top",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382047",
+      "description": "",
+      "hn_score": 203,
+      "comments": 92,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "Redis 8.8 引入新数组数据结构、速率限制器和性能改进。新数组数据结构优化了内存存储和访问效率，解决传统数据结构在特定场景下的性能瓶颈；速率限制器提供内置的限流功能，减少外部依赖；性能改进提升整体吞吐量。核心技术亮点包括新数组的高效内存布局和速率限制器的原子操作。适用场景为需要高性能缓存、实时限流和数据结构优化的分布式系统。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-06T02:08:06.989534+00:00"
+    },
+    {
+      "title": "South Korean forums will need to scan every images with AI censorship tools",
+      "source": "hackernews-top",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "hn_url": "https://news.ycombinator.com/item?id=48406198",
+      "description": "",
+      "hn_score": 224,
+      "comments": 134,
+      "collected_at": "2026-06-06T02:06:41.613633+00:00",
+      "published_at": "2026-06-06T02:06:41.613633+00:00",
+      "summary": "韩国要求论坛对所有上传图片使用AI审查工具进行扫描，旨在解决网络内容监管中的有害信息过滤问题。核心技术亮点是AI图像识别与分类，结合现有内容审核系统。适用场景为社交媒体、论坛等用户生成内容平台，需遵守政府法规进行实时图像审查。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-06T02:08:09.093936+00:00"
+    }
+  ]
+}
