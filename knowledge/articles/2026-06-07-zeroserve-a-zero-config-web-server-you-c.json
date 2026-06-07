@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-07-015",
+  "title": "Zeroserve: A zero-config web server you can script with eBPF",
+  "source": "hackernews-top",
+  "url": "https://su3.io/posts/introducing-zeroserve",
+  "summary": "Zeroserve 是一个零配置的 Web 服务器，允许用户通过 eBPF 程序编写脚本以自定义网络行为。它解决了传统 Web 服务器配置复杂、扩展性受限的问题，核心亮点在于利用 eBPF 在内核态动态注入处理逻辑，实现高性能、低开销的请求处理。适用于需要极低延迟、自定义网络策略或安全监控的场景，如微服务网关、边缘计算或实时流量分析。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-07T02:33:13.624834+00:00",
+  "analyzed_at": "2026-06-07T02:34:05.439442+00:00",
+  "organized_at": "2026-06-07T02:34:29.886205+00:00",
+  "status": "published"
+}

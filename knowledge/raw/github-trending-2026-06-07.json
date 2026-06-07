@@ -1,0 +1,496 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-07T02:33:14.657128+00:00",
+  "date": "2026-06-07",
+  "count": 19,
+  "items": [
+    {
+      "title": "jd-opensource/JoyAI-Echo",
+      "source": "github-trending",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "stars": 721,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-06T13:22:30Z",
+      "summary": "JoyAI-Echo 是一个开源项目，旨在推动长音频-视觉生成的前沿。它解决长序列多模态内容生成中的一致性与质量挑战，核心技术亮点包括高效的长序列建模与跨模态对齐。适用于视频配音、虚拟主播、影视后期等需要同步音视频生成的场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-07T02:33:16.495234+00:00"
+    },
+    {
+      "title": "tastyeffectco/sandboxes",
+      "source": "github-trending",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 471,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "dev-environment",
+        "docker",
+        "isolation",
+        "preview",
+        "preview-environment",
+        "sandbox",
+        "self-hosted"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-06T03:57:49Z",
+      "summary": "tastyeffectco/sandboxes 是一个自托管的开发沙箱工具，通过一条命令即可创建带预览 URL 的隔离环境，无需 Kubernetes。它解决了 AI 编码代理和 SaaS 工厂在开发测试中需要快速、轻量级隔离环境的问题。核心技术基于 Docker 实现进程级隔离，支持 AI 代理自动部署和预览。适用场景包括 AI 代理开发、SaaS 快速原型测试、以及需要频繁创建临时开发环境的团队。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-06-07T02:33:18.634289+00:00"
+    },
+    {
+      "title": "Fullive-AI/Anima",
+      "source": "github-trending",
+      "url": "https://github.com/Fullive-AI/Anima",
+      "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "stars": 392,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-03T16:00:26Z",
+      "summary": "Fullive-AI/Anima 是一个开源 Agent OS，旨在让任何硬件具备智能。它解决传统硬件缺乏统一智能层、难以集成 AI 能力的问题。核心技术亮点包括硬件抽象层、模块化 Agent 架构和实时推理引擎，支持多种传感器与执行器。适用场景涵盖智能家居、工业自动化、边缘计算等需要本地化智能决策的硬件系统。",
+      "tags": [
+        "agent",
+        "open-source",
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:33:20.438952+00:00"
+    },
+    {
+      "title": "CWS6206/ai-coding-starter-kit",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stars": 260,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-05T08:56:11Z",
+      "summary": "CWS6206/ai-coding-starter-kit 是一个面向瑞士开发团队的 AI 编码入门工具包，整合了 agent skills、checklists、templates 和 guidelines。它解决团队在采用 AI 辅助开发时缺乏标准化流程和最佳实践的问题。核心技术亮点是将博客文章中的经验提炼为可直接使用的模板和 checklist，覆盖 code-generation、workflow-automation 等场景。适用于希望快速落地 AI 编码工作流的开发团队。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-07T02:33:22.495330+00:00"
+    },
+    {
+      "title": "best-spicy-ai/ai-naughty-tools",
+      "source": "github-trending",
+      "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+      "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
+      "stars": 215,
+      "language": null,
+      "topics": [
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-04T17:54:57Z",
+      "summary": "这是一个GitHub上的AI图像与视频工具集合，旨在提供无审查的、高度逼真的生成结果。核心亮点是突破内容限制，专注于真实感与创作自由，适用于需要生成成人内容或敏感场景的AI艺术创作。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-07T02:33:24.175368+00:00"
+    },
+    {
+      "title": "zonghaoyuan/infiplot",
+      "source": "github-trending",
+      "url": "https://github.com/zonghaoyuan/infiplot",
+      "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
+      "stars": 213,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-06T16:35:52Z",
+      "summary": "InfiPlot 是一个基于 AI 实时生成图文内容的交互式剧情游戏，解决传统剧情游戏内容固定、缺乏动态生成的问题。核心技术亮点在于利用大型语言模型（LLM）实时生成文本和图像，实现动态剧情推进。适用场景包括游戏开发、互动叙事和 AI 驱动的娱乐应用。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-06-07T02:33:25.967588+00:00"
+    },
+    {
+      "title": "zarazhangrui/beautiful-feishu-whiteboard",
+      "source": "github-trending",
+      "url": "https://github.com/zarazhangrui/beautiful-feishu-whiteboard",
+      "description": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.",
+      "stars": 211,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-05T03:36:07Z",
+      "summary": "该项目提供35种精心设计的配色方案，用于构建美观且可编辑的飞书白板。核心亮点是预定义的色彩调色板集合，可直接应用于飞书白板组件，提升视觉一致性与用户体验。适用场景包括团队协作白板设计、飞书/Lark插件开发及Agent技能中的UI美化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-07T02:33:27.765290+00:00"
+    },
+    {
+      "title": "zaydmulani09/mnemo",
+      "source": "github-trending",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+      "stars": 193,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-04T01:52:41Z",
+      "summary": "Mnemo 是一个本地优先的 AI 记忆层，为任意 LLM 提供持久化知识图谱、实体抽取和语义检索能力。它解决 LLM 缺乏长期记忆和上下文持久化的问题，通过构建本地知识图谱实现跨会话记忆。核心技术亮点包括 Rust 实现的高性能、支持 Ollama/OpenAI/Anthropic 等后端、以及本地优先架构保障数据隐私。适用场景包括个人 AI 助手、知识管理、对话系统等需要长期记忆的应用。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "vector-database",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-07T02:33:29.717463+00:00"
+    },
+    {
+      "title": "Soul-AILab/SoulX-Transcriber",
+      "source": "github-trending",
+      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+      "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+      "stars": 192,
+      "language": "Python",
+      "topics": [
+        "asr",
+        "llm",
+        "sd",
+        "sdr",
+        "speech-recognition"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-04T08:04:43Z",
+      "summary": "SoulX-Transcriber 是一个端到端的多说话人转录框架，解决“谁在何时说了什么”的联合建模问题。核心技术亮点包括将 ASR、说话人日志（SD）与说话人分离（SDR）整合，并利用 LLM 增强语义理解与说话人识别。适用于会议记录、访谈分析、多角色语音内容处理等场景。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-07T02:33:31.629108+00:00"
+    },
+    {
+      "title": "razr001/align-dev",
+      "source": "github-trending",
+      "url": "https://github.com/razr001/align-dev",
+      "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+      "stars": 177,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor",
+        "fronted",
+        "nextjs",
+        "skills"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-05T08:10:33Z",
+      "summary": "AlignDev 是一个 TypeScript 开源工具，帮助 AI 辅助前端团队生成共享编码规范和 SKILL.md 文件，使 Claude Code、Codex、Cursor、Copilot 等 AI 编码代理保持一致的代码风格。核心亮点是通过自动化规则生成解决多代理协作中的代码一致性痛点，适用于需要统一 AI 编码行为的前端开发团队。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:33:33.325372+00:00"
+    },
+    {
+      "title": "krispuckett/SwiftUIShaders",
+      "source": "github-trending",
+      "url": "https://github.com/krispuckett/SwiftUIShaders",
+      "description": "41 hand-curated drop-in SwiftUI Metal shader effects — holographic foil, kaleidoscope, magnetic fields, glitch, neon edges and more. Typed View modifiers, agent-friendly docs.",
+      "stars": 164,
+      "language": "Metal",
+      "topics": [
+        "ios",
+        "metal",
+        "metal-shaders",
+        "shaders",
+        "swift",
+        "swift-package",
+        "swiftui"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-01T22:53:44Z",
+      "summary": "krispuckett/SwiftUIShaders 是一个开源项目，提供 41 个手选 SwiftUI Metal 着色器效果，如全息箔、万花筒、磁场、故障、霓虹边缘等。它解决 iOS 开发者快速集成复杂 GPU 着色器到 SwiftUI 界面的问题，核心亮点是类型安全的 View 修饰器和面向 AI 代理的文档，降低 Metal 着色器使用门槛。适用场景包括 iOS 应用动态视觉效果、交互式 UI 增强和创意原型开发。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-07T02:33:35.463878+00:00"
+    },
+    {
+      "title": "cellebrite-labs/ghidra-rpc",
+      "source": "github-trending",
+      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "description": "A Ghidra agentic reverse engineering skill.",
+      "stars": 158,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-04T18:42:36Z",
+      "summary": "cellebrite-labs/ghidra-rpc 是一个将 Ghidra 逆向工程框架封装为 RPC 服务的 Python 项目，解决 Ghidra 脚本化与外部 AI/LLM 集成困难的问题。核心亮点是提供 agentic 接口，允许 LLM 通过 RPC 调用 Ghidra 的分析、反编译、符号执行等能力，实现自动化逆向分析。适用于安全研究中的恶意软件分析、漏洞挖掘等场景，使 AI 能直接操作 Ghidra 进行代码理解与推理。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-07T02:33:37.598549+00:00"
+    },
+    {
+      "title": "couragec/LLMInternSkill",
+      "source": "github-trending",
+      "url": "https://github.com/couragec/LLMInternSkill",
+      "description": "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. 大模型实习简历与求职工具箱。",
+      "stars": 150,
+      "language": "Markdown",
+      "topics": [
+        "agent",
+        "ai-career",
+        "aigc",
+        "chinese",
+        "codex-skill",
+        "interview-prep",
+        "jd-tailoring",
+        "job-search",
+        "latex-resume",
+        "llm",
+        "llm-internship",
+        "multimodal",
+        "openai-codex",
+        "post-training",
+        "pretraining",
+        "project-scout",
+        "rag",
+        "resume",
+        "resume-polish",
+        "search-ranking"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-04T15:38:34Z",
+      "summary": "LLMInternSkill 是一个面向大模型实习求职的 Codex Skill 工具箱，解决简历优化、JD 匹配、证据审查、面试模拟和项目搜索等求职痛点。核心技术基于 agent 架构与 prompt engineering，通过自动化流程提升求职效率。适用场景包括 AI 岗位求职者、实习生及职业规划者。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-07T02:33:39.488497+00:00"
+    },
+    {
+      "title": "Forlives/21-day-self-interview",
+      "source": "github-trending",
+      "url": "https://github.com/Forlives/21-day-self-interview",
+      "description": "🪞 An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days — and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. 每晚三个问题，一面慢慢显影的镜子。",
+      "stars": 147,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "cron",
+        "existentialism",
+        "hermes-agent",
+        "journaling",
+        "mental-health",
+        "mirror",
+        "psychology",
+        "self-improvement",
+        "self-reflection"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-04T09:53:57Z",
+      "summary": "一个基于Hermes Agent的AI存在主义心理学工具，每晚向用户提出3个有意义的问题，持续21天，并记录用户回答以形成自我反思的镜子。核心亮点是结合存在主义心理学与AI对话，通过cron定时任务实现每日交互，支持中英双语。适用于个人心理成长、自我探索场景，或作为Hermes Agent的技能扩展。",
+      "tags": [
+        "ai-agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-06-07T02:33:41.381662+00:00"
+    },
+    {
+      "title": "enderzcx/pi-docs-playbook",
+      "source": "github-trending",
+      "url": "https://github.com/enderzcx/pi-docs-playbook",
+      "description": "A docs navigator and agent-readable playbook for building on earendil-works/pi",
+      "stars": 119,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-02T11:50:53Z",
+      "summary": "pi-docs-playbook 是一个为 earendil-works/pi 项目构建的文档导航器和代理可读操作手册。它解决 AI 代理在复杂项目中缺乏结构化文档指引的问题，核心亮点在于将文档格式化为 agent 可直接解析的 playbook，提升自动化工作流的执行效率。适用于需要 AI 代理自主操作或集成 pi 项目的开发场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-07T02:33:43.212959+00:00"
+    },
+    {
+      "title": "FerroxLabs/wayland",
+      "source": "github-trending",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "stars": 112,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-07T02:19:18Z",
+      "summary": "FerroxLabs/wayland 是一个基于 TypeScript 构建的 AI Agent 框架，旨在实现感知、推理、行动与进化的完整智能循环。它解决了传统 AI 系统缺乏自主决策与持续学习能力的问题，核心亮点在于将感知模块、推理引擎、行动接口与进化机制整合为统一架构，支持多步骤任务分解与动态策略调整。适用场景包括自动化工作流、复杂决策支持、自适应系统开发等。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-06-07T02:33:44.991238+00:00"
+    },
+    {
+      "title": "PanisHandsome/ai-rules-sync",
+      "source": "github-trending",
+      "url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "stars": 112,
+      "language": "JavaScript",
+      "topics": [
+        "agents-md",
+        "ai",
+        "claude",
+        "cli",
+        "codex",
+        "coding-agent",
+        "copilot",
+        "cursor",
+        "developer-tools",
+        "llm"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-03T06:32:29Z",
+      "summary": "ai-rules-sync 是一个零依赖的 CLI 工具，用于统一管理 AI 编码助手的规则文件，解决多工具（如 AGENTS.md、CLAUDE.md、.cursorrules、Copilot、Windsurf、Cline、Aider、Gemini）间规则碎片化问题。核心亮点：支持双向同步与格式转换，可从任意格式生成 AGENTS.md 模板，确保单一事实源。适用场景：使用多个 AI 编码助手的开发者或团队，需维护一致的行为规则。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:33:47.208859+00:00"
+    },
+    {
+      "title": "pfwjrfp5hh-byte/WorkMesh",
+      "source": "github-trending",
+      "url": "https://github.com/pfwjrfp5hh-byte/WorkMesh",
+      "description": "Open-source AI-era employment platform connecting skills, jobs, enterprises, governance, and AI agents.",
+      "stars": 102,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-platform",
+        "employment",
+        "future-of-work",
+        "governance",
+        "job-matching",
+        "nestjs",
+        "nextjs",
+        "open-source",
+        "postgresql",
+        "public-service",
+        "rag",
+        "react",
+        "skill-matching",
+        "workforce-management"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-02T12:58:42Z",
+      "summary": "WorkMesh是一个基于AI代理的开源就业平台，旨在连接技能、工作、企业、治理与AI代理。它解决传统招聘平台信息不对称、匹配效率低的问题，核心亮点是采用TypeScript构建的AI代理架构，支持多代理协作与治理机制。适用于未来工作场景中的智能招聘、人才匹配与自动化就业服务。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-07T02:33:49.203563+00:00"
+    },
+    {
+      "title": "Rimagination/good-question",
+      "source": "github-trending",
+      "url": "https://github.com/Rimagination/good-question",
+      "description": "A portable agent skill for sharpening research questions.",
+      "stars": 91,
+      "language": "PowerShell",
+      "topics": [
+        "agent-skill",
+        "ai-agents",
+        "research-ideation",
+        "research-questions",
+        "scientific-method"
+      ],
+      "collected_at": "2026-06-07T02:33:13.480309+00:00",
+      "published_at": "2026-06-02T07:51:44Z",
+      "summary": "good-question 是一个便携式 agent 技能，旨在帮助 AI 代理自动优化研究问题。它解决科研初期问题模糊、缺乏聚焦的痛点，通过结构化提示和迭代精炼，提升问题质量。核心技术亮点是基于 PowerShell 的轻量级实现，支持与多种 AI 代理框架集成，利用科学方法引导问题分解。适用场景包括学术研究、产品需求分析和用户调研中的问题生成与评估。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-07T02:33:51.150306+00:00"
+    }
+  ]
+}

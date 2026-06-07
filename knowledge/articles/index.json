@@ -1,7 +1,322 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 512,
+  "total_count": 533,
   "entries": [
+    {
+      "id": "kb-2026-06-07-001",
+      "title": "razr001/align-dev",
+      "source": "github-trending",
+      "url": "https://github.com/razr001/align-dev",
+      "file": "2026-06-07-razr001align-dev.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-002",
+      "title": "cellebrite-labs/ghidra-rpc",
+      "source": "github-trending",
+      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "file": "2026-06-07-cellebrite-labsghidra-rpc.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-003",
+      "title": "couragec/LLMInternSkill",
+      "source": "github-trending",
+      "url": "https://github.com/couragec/LLMInternSkill",
+      "file": "2026-06-07-couragecllminternskill.json",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-004",
+      "title": "Forlives/21-day-self-interview",
+      "source": "github-trending",
+      "url": "https://github.com/Forlives/21-day-self-interview",
+      "file": "2026-06-07-forlives21-day-self-interview.json",
+      "tags": [
+        "ai-agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-005",
+      "title": "enderzcx/pi-docs-playbook",
+      "source": "github-trending",
+      "url": "https://github.com/enderzcx/pi-docs-playbook",
+      "file": "2026-06-07-enderzcxpi-docs-playbook.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-006",
+      "title": "FerroxLabs/wayland",
+      "source": "github-trending",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "file": "2026-06-07-ferroxlabswayland.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-007",
+      "title": "PanisHandsome/ai-rules-sync",
+      "source": "github-trending",
+      "url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "file": "2026-06-07-panishandsomeai-rules-sync.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-008",
+      "title": "pfwjrfp5hh-byte/WorkMesh",
+      "source": "github-trending",
+      "url": "https://github.com/pfwjrfp5hh-byte/WorkMesh",
+      "file": "2026-06-07-pfwjrfp5hh-byteworkmesh.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-009",
+      "title": "Rimagination/good-question",
+      "source": "github-trending",
+      "url": "https://github.com/Rimagination/good-question",
+      "file": "2026-06-07-rimaginationgood-question.json",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-010",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "source": "hackernews-top",
+      "url": "https://ntsc.rs/",
+      "file": "2026-06-07-ntsc-rs-open-source-video-emulation-of-a.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-011",
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/harness-engineering/",
+      "file": "2026-06-07-harness-engineering-leveraging-codex-in-.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-012",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "file": "2026-06-07-tokenomics-quantifying-where-tokens-are-.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-013",
+      "title": "Moving beyond fork() + exec()",
+      "source": "hackernews-top",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "file": "2026-06-07-moving-beyond-fork-exec.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-014",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "source": "hackernews-top",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "file": "2026-06-07-meta-confirms-1000s-of-instagram-account.json",
+      "tags": [
+        "ai-assistant",
+        "prompt-engineering",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-015",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "source": "hackernews-top",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "file": "2026-06-07-zeroserve-a-zero-config-web-server-you-c.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-016",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "file": "2026-06-07-nvidia-is-proposing-a-beast-of-a-cpu-sys.json",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-017",
+      "title": "You Can Run",
+      "source": "hackernews-top",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "file": "2026-06-07-you-can-run.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-018",
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "source": "hackernews-top",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "file": "2026-06-07-google-to-pay-spacex-920m-a-month-for-co.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-019",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "source": "hackernews-top",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "file": "2026-06-07-computex-2026-are-we-heading-for-the-age.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-020",
+      "title": "Benchmarks in Leipzig",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "file": "2026-06-07-benchmarks-in-leipzig.json",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
+    {
+      "id": "kb-2026-06-07-021",
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "file": "2026-06-07-trees-to-flows-and-back-unifying-decisio.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-07T02:34:29.886205+00:00"
+    },
     {
       "id": "kb-2026-06-06-001",
       "title": "CWS6206/ai-coding-starter-kit",
@@ -7595,5 +7910,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-06T02:08:09.143161+00:00"
+  "last_updated": "2026-06-07T02:34:29.924228+00:00"
 }

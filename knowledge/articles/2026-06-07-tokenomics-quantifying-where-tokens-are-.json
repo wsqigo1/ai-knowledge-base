@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-07-012",
+  "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2601.14470",
+  "summary": "本文提出一种量化方法，用于追踪和分析token在自主软件工程（Agentic Software Engineering）中的使用分布。核心问题是当前缺乏对token消耗的细粒度理解，导致难以优化成本与效率。技术亮点包括构建token使用图谱、按任务类型（如代码生成、调试、文档编写）分类统计，并引入效率指标。适用场景为AI辅助开发工具的成本审计、Agent工作流优化及LLM资源分配策略设计。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-07T02:33:13.624834+00:00",
+  "analyzed_at": "2026-06-07T02:33:59.460776+00:00",
+  "organized_at": "2026-06-07T02:34:29.886205+00:00",
+  "status": "published"
+}

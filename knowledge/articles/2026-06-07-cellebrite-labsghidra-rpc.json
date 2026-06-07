@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-07-002",
+  "title": "cellebrite-labs/ghidra-rpc",
+  "source": "github-trending",
+  "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+  "summary": "cellebrite-labs/ghidra-rpc 是一个将 Ghidra 逆向工程框架封装为 RPC 服务的 Python 项目，解决 Ghidra 脚本化与外部 AI/LLM 集成困难的问题。核心亮点是提供 agentic 接口，允许 LLM 通过 RPC 调用 Ghidra 的分析、反编译、符号执行等能力，实现自动化逆向分析。适用于安全研究中的恶意软件分析、漏洞挖掘等场景，使 AI 能直接操作 Ghidra 进行代码理解与推理。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-07T02:33:13.480309+00:00",
+  "analyzed_at": "2026-06-07T02:33:37.598549+00:00",
+  "organized_at": "2026-06-07T02:34:29.886205+00:00",
+  "status": "published"
+}

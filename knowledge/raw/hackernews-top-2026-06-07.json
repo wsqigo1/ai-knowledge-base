@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-07T02:33:14.657713+00:00",
+  "date": "2026-06-07",
+  "count": 20,
+  "items": [
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "source": "hackernews-top",
+      "url": "https://ntsc.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428025",
+      "description": "",
+      "hn_score": 279,
+      "comments": 67,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Ntsc-rs是一个开源视频仿真工具，用于模拟模拟电视和VHS录像带的视觉伪影。它解决数字视频缺乏复古模拟设备特有失真（如扫描线、色彩串扰、噪声）的问题。核心技术基于实时信号处理算法，模拟NTSC制式的编码/解码过程及磁带退化效果。适用场景包括复古游戏开发、影视后期特效、数字艺术创作及怀旧视频制作。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-06-07T02:33:53.229507+00:00"
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/harness-engineering/",
+      "hn_url": "https://news.ycombinator.com/item?id=48416264",
+      "description": "",
+      "hn_score": 78,
+      "comments": 39,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "探讨在AI Agent优先的架构下，如何利用Codex（即OpenAI Codex）进行工程化实践。核心解决传统软件开发中Agent与代码生成工具集成度低、缺乏系统性编排的问题。技术亮点在于提出“Harness Engineering”概念，将Codex作为Agent的代码执行与生成引擎，实现从自然语言到可执行代码的闭环。适用场景包括自动化工作流、智能编程助手及多步骤任务编排。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-07T02:33:55.362894+00:00"
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "source": "hackernews-top",
+      "url": "https://pdimagearchive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48430539",
+      "description": "",
+      "hn_score": 28,
+      "comments": 4,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Public Domain Image Archive 是一个收集并整理公有领域图像资源的在线平台，解决用户寻找高质量、无版权限制图像素材的难题。其核心技术亮点在于系统化归档来自不同来源的公有领域图像，提供分类浏览与搜索功能，并确保每张图像均明确标注为公有领域。适用场景包括设计师、开发者、教育工作者及内容创作者在项目、演示或出版物中免费使用图像素材。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-07T02:33:57.394397+00:00"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "hn_url": "https://news.ycombinator.com/item?id=48430923",
+      "description": "",
+      "hn_score": 11,
+      "comments": 0,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "本文提出一种量化方法，用于追踪和分析token在自主软件工程（Agentic Software Engineering）中的使用分布。核心问题是当前缺乏对token消耗的细粒度理解，导致难以优化成本与效率。技术亮点包括构建token使用图谱、按任务类型（如代码生成、调试、文档编写）分类统计，并引入效率指标。适用场景为AI辅助开发工具的成本审计、Agent工作流优化及LLM资源分配策略设计。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-07T02:33:59.460776+00:00"
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "source": "hackernews-top",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48425528",
+      "description": "",
+      "hn_score": 259,
+      "comments": 264,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "本文探讨了传统Unix进程创建模式fork()+exec()在现代容器化和微服务架构中的局限性，提出替代方案如posix_spawn()、vfork()、clone()及更轻量的进程创建机制。核心亮点是分析这些替代方案在性能、内存开销和安全性上的优势，尤其适用于高并发、资源受限的容器环境。适用场景包括云原生基础设施、边缘计算和需要快速启动大量短生命周期进程的服务。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:34:01.643893+00:00"
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "source": "hackernews-top",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "hn_url": "https://news.ycombinator.com/item?id=48427643",
+      "description": "",
+      "hn_score": 447,
+      "comments": 160,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Meta确认数千Instagram账户因滥用其AI聊天机器人功能而被黑客入侵。攻击者利用AI聊天机器人中的漏洞，绕过安全验证，获取用户账户访问权限。核心问题在于AI系统未充分验证用户身份与请求合法性，导致账户劫持。此事件凸显AI助手在身份验证与安全防护方面的薄弱环节，适用于社交平台、AI客服等场景的安全审计与加固。",
+      "tags": [
+        "ai-assistant",
+        "prompt-engineering",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:34:03.525081+00:00"
+    },
+    {
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "source": "hackernews-top",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "hn_url": "https://news.ycombinator.com/item?id=48425723",
+      "description": "",
+      "hn_score": 195,
+      "comments": 51,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Zeroserve 是一个零配置的 Web 服务器，允许用户通过 eBPF 程序编写脚本以自定义网络行为。它解决了传统 Web 服务器配置复杂、扩展性受限的问题，核心亮点在于利用 eBPF 在内核态动态注入处理逻辑，实现高性能、低开销的请求处理。适用于需要极低延迟、自定义网络策略或安全监控的场景，如微服务网关、边缘计算或实时流量分析。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-07T02:34:05.439442+00:00"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "hn_url": "https://news.ycombinator.com/item?id=48424605",
+      "description": "",
+      "hn_score": 235,
+      "comments": 435,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Nvidia提出为Windows PC设计一款高性能CPU系统，旨在解决当前PC平台在AI推理和复杂计算任务中的性能瓶颈。核心技术亮点包括集成专用AI加速单元、高带宽内存架构以及优化的异构计算调度。适用场景为本地AI推理、实时渲染和科学计算，尤其适合需要低延迟和高吞吐量的AI应用。",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-07T02:34:07.298212+00:00"
+    },
+    {
+      "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+      "source": "hackernews-top",
+      "url": "https://domaintasker.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48430693",
+      "description": "",
+      "hn_score": 10,
+      "comments": 6,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "DomainTasker 是一个开源域名管理工具，解决域名过期和意外续费问题。核心亮点包括自动扫描域名到期时间、发送提醒通知、支持自定义续费策略。适用于个人或企业批量管理域名，避免因遗忘导致域名丢失或额外费用。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-07T02:34:08.756898+00:00"
+    },
+    {
+      "title": "You Can Run",
+      "source": "hackernews-top",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "hn_url": "https://news.ycombinator.com/item?id=48426202",
+      "description": "",
+      "hn_score": 106,
+      "comments": 58,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "You Can Run 是一个开源项目，旨在解决用户无法在本地高效运行大型语言模型的问题。其核心技术亮点包括轻量级推理引擎、支持多种模型格式（如GGUF）以及跨平台兼容性。适用场景为个人开发者或小团队在离线环境或低资源设备上部署和测试LLM，无需依赖云服务。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:34:10.591087+00:00"
+    },
+    {
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "source": "hackernews-top",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48417490",
+      "description": "",
+      "hn_score": 160,
+      "comments": 721,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Google 与 SpaceX 达成协议，每月支付 9.2 亿美元租用 xAI 数据中心的计算容量，用于支撑其 AI 训练和推理需求。该合作解决 Google 自有算力不足、xAI 数据中心利用率提升的问题，核心亮点是 SpaceX 的卫星通信技术可能用于优化数据中心间数据传输。适用场景为大规模 AI 模型训练、云算力租赁及跨企业基础设施协作。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-07T02:34:12.521461+00:00"
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "source": "hackernews-top",
+      "url": "https://pokeemerald.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48423762",
+      "description": "",
+      "hn_score": 281,
+      "comments": 80,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "将《宝可梦 绿宝石》游戏移植到 WebAssembly 平台，实现 100k FPS 的惊人性能。解决原生游戏在浏览器中运行效率低下的问题，核心技术亮点包括利用 WebAssembly 的高效执行能力、优化渲染和模拟逻辑。适用场景为展示 WebAssembly 在游戏模拟、高性能计算和浏览器端复杂应用中的潜力，对 AI 工程师而言，可借鉴其优化思路用于模型推理或数据处理。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-07T02:34:14.613992+00:00"
+    },
+    {
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "source": "hackernews-top",
+      "url": "https://uonr.github.io/poincake/",
+      "hn_url": "https://news.ycombinator.com/item?id=48372138",
+      "description": "",
+      "hn_score": 126,
+      "comments": 23,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "该项目在非欧几里得庞加莱圆盘上实现无限画布笔记，解决传统线性笔记在复杂概念关联上的空间限制。核心亮点是利用双曲几何的指数级空间增长特性，使节点可无限密集排列而不重叠，支持非线性思维导图与知识图谱构建。适用场景包括创意构思、复杂系统建模及数学可视化。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-07T02:34:16.630749+00:00"
+    },
+    {
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "source": "hackernews-top",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428647",
+      "description": "",
+      "hn_score": 26,
+      "comments": 28,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Computex 2026 探讨了从传统PC向Agentic PC（自主智能PC）的演进趋势，旨在解决当前AI助手缺乏自主性和环境感知能力的问题。核心技术亮点包括本地化大模型推理、实时多模态感知（摄像头/麦克风）以及自主任务规划与执行（如自动管理日程、文件操作）。适用场景为个人生产力提升、边缘AI计算和隐私敏感型任务。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:34:18.628266+00:00"
+    },
+    {
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "hn_url": "https://news.ycombinator.com/item?id=48406174",
+      "description": "",
+      "hn_score": 553,
+      "comments": 948,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "Hacker News 上关于 GenAI 的“糟糕时刻”讨论，收集了开发者在使用生成式 AI 时遇到的意外失败或严重错误。核心问题在于揭示 GenAI 在现实应用中的不可靠性、幻觉、安全漏洞或业务风险。技术亮点包括用户分享的具体案例，如代码生成引入隐蔽 bug、对话模型泄露敏感信息、或自动化流程导致数据损坏。适用场景为 AI 工程师反思 GenAI 的局限性，改进测试与监控策略。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-07T02:34:20.810280+00:00"
+    },
+    {
+      "title": "Benchmarks in Leipzig",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "hn_url": "https://news.ycombinator.com/item?id=48425247",
+      "description": "",
+      "hn_score": 124,
+      "comments": 44,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "该项目名为 Benchmarks in Leipzig，是一个针对大型语言模型（LLM）的基准测试集合，旨在解决当前LLM评估标准不统一、缺乏实际场景验证的问题。其核心技术亮点在于提供多样化、可复现的测试任务，覆盖推理、代码生成、工具使用等能力，并支持社区贡献。适用场景包括模型选型、性能对比和研发迭代验证。",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-07T02:34:22.507778+00:00"
+    },
+    {
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "hn_url": "https://news.ycombinator.com/item?id=48428356",
+      "description": "",
+      "hn_score": 129,
+      "comments": 122,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "这是一篇关于远程工作与心理健康的研究文章，探讨了远程工作导致的社交隔离及其对心理健康的负面影响。核心亮点在于通过大规模调查数据，量化了远程工作与孤独感、抑郁症状之间的关联，并分析了不同工作类型、性别和年龄段的差异。适用场景为企业人力资源政策制定、远程团队管理以及心理健康干预设计。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-07T02:34:24.277018+00:00"
+    },
+    {
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "source": "hackernews-top",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "hn_url": "https://news.ycombinator.com/item?id=48427523",
+      "description": "",
+      "hn_score": 426,
+      "comments": 320,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "该条目报道了美国五角大楼将以色列间谍威胁等级提升至最高，来源为匿名情报官员。它揭示了美以之间在情报监控领域的紧张关系，核心在于国家间安全信任的脆弱性。技术亮点涉及高级别威胁评估机制与情报共享协议的执行。适用场景为地缘政治分析、网络安全政策研究及国际关系监控。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-07T02:34:26.210061+00:00"
+    },
+    {
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "hn_url": "https://news.ycombinator.com/item?id=48424674",
+      "description": "",
+      "hn_score": 44,
+      "comments": 8,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "该论文提出了一种将决策树与扩散模型统一的理论框架，通过将决策树视为离散概率路径的集合，并设计可逆的树-流映射，解决了传统扩散模型在离散数据生成中结构不明确的问题。核心技术包括基于树结构的概率流建模和双向转换算法，适用于表格数据生成、可解释性机器学习及混合型数据建模场景。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-07T02:34:28.265638+00:00"
+    },
+    {
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "source": "hackernews-top",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428763",
+      "description": "",
+      "hn_score": 163,
+      "comments": 166,
+      "collected_at": "2026-06-07T02:33:13.624834+00:00",
+      "published_at": "2026-06-07T02:33:13.624834+00:00",
+      "summary": "这是一篇关于美国大学毕业生失业率高于全国平均水平的新闻报道，来自Hacker News社区。它揭示了当前就业市场的结构性矛盾，即高学历人才面临更大的就业压力。核心信息是经济趋势和劳动力市场分析，而非技术解决方案。适用场景为社会经济研究、政策讨论或职业规划参考。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-07T02:34:29.866097+00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-07-013",
+  "title": "Moving beyond fork() + exec()",
+  "source": "hackernews-top",
+  "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+  "summary": "本文探讨了传统Unix进程创建模式fork()+exec()在现代容器化和微服务架构中的局限性，提出替代方案如posix_spawn()、vfork()、clone()及更轻量的进程创建机制。核心亮点是分析这些替代方案在性能、内存开销和安全性上的优势，尤其适用于高并发、资源受限的容器环境。适用场景包括云原生基础设施、边缘计算和需要快速启动大量短生命周期进程的服务。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-07T02:33:13.624834+00:00",
+  "analyzed_at": "2026-06-07T02:34:01.643893+00:00",
+  "organized_at": "2026-06-07T02:34:29.886205+00:00",
+  "status": "published"
+}

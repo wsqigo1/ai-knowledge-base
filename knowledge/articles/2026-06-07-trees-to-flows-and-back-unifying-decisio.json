@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-07-021",
+  "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2605.00414",
+  "summary": "该论文提出了一种将决策树与扩散模型统一的理论框架，通过将决策树视为离散概率路径的集合，并设计可逆的树-流映射，解决了传统扩散模型在离散数据生成中结构不明确的问题。核心技术包括基于树结构的概率流建模和双向转换算法，适用于表格数据生成、可解释性机器学习及混合型数据建模场景。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-07T02:33:13.624834+00:00",
+  "analyzed_at": "2026-06-07T02:34:28.265638+00:00",
+  "organized_at": "2026-06-07T02:34:29.886205+00:00",
+  "status": "published"
+}
