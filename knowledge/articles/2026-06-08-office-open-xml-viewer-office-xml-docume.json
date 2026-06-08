@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-08-011",
+  "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
+  "source": "hackernews-top",
+  "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+  "summary": "Office-open-xml-viewer 是一个开源工具，将 Office Open XML 文档（如 .docx、.pptx）渲染为 HTML Canvas。它解决了浏览器中无需依赖 Office 软件即可查看复杂文档格式的问题。核心技术亮点包括直接解析 XML 结构并映射到 Canvas 绘制，支持文本、表格、图像等元素。适用于在线文档预览、协作编辑平台等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-08T02:37:55.409008+00:00",
+  "analyzed_at": "2026-06-08T02:39:01.894817+00:00",
+  "organized_at": "2026-06-08T02:39:15.234756+00:00",
+  "status": "published"
+}

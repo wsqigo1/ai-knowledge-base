@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-08-008",
+  "title": "How's Linear so fast? A technical breakdown",
+  "source": "hackernews-top",
+  "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+  "summary": "文章深度解析了项目管理工具Linear实现极速性能的技术架构，解决大型团队协作中响应延迟与数据一致性问题。核心亮点包括：使用Rust重写后端核心路径、基于SQLite的本地优先架构实现离线秒级操作、增量同步协议减少网络传输、以及基于CRDT的冲突解决机制。适用场景为需要高实时性与低延迟的协作型SaaS产品设计。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-08T02:37:55.409008+00:00",
+  "analyzed_at": "2026-06-08T02:38:46.900431+00:00",
+  "organized_at": "2026-06-08T02:39:15.234756+00:00",
+  "status": "published"
+}
