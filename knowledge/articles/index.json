@@ -1,7 +1,256 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 547,
+  "total_count": 564,
   "entries": [
+    {
+      "id": "kb-2026-06-09-001",
+      "title": "GordenSun/GordenSuperPPTSkills",
+      "source": "github-trending",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "file": "2026-06-09-gordensungordensuperpptskills.json",
+      "tags": [
+        "large-language-model",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-002",
+      "title": "adamallcock/codex-chatgpt-control",
+      "source": "github-trending",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "file": "2026-06-09-adamallcockcodex-chatgpt-control.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-003",
+      "title": "12britz/awesome-free-models",
+      "source": "github-trending",
+      "url": "https://github.com/12britz/awesome-free-models",
+      "file": "2026-06-09-12britzawesome-free-models.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-004",
+      "title": "xiaohuailabs/xiaohu-video-translate",
+      "source": "github-trending",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "file": "2026-06-09-xiaohuailabsxiaohu-video-translate.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-005",
+      "title": "louisfb01/start-ai-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/louisfb01/start-ai-engineering",
+      "file": "2026-06-09-louisfb01start-ai-engineering.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "rag",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-006",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "source": "hackernews-top",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "file": "2026-06-09-apple-reveals-new-ai-architecture-built-.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-007",
+      "title": "Siri AI",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "file": "2026-06-09-siri-ai.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-008",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "source": "hackernews-top",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "file": "2026-06-09-show-hn-performative-ui-a-react-componen.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-009",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "source": "hackernews-top",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "file": "2026-06-09-mimo-v25-pro-ultraspeed-1t-model-with-10.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 8.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-010",
+      "title": "Hermes Agent – Open-source AI agent with persistent memory",
+      "source": "hackernews-top",
+      "url": "https://hermes-agent.org/",
+      "file": "2026-06-09-hermes-agent-open-source-ai-agent-with-p.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "vector-database",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-011",
+      "title": "Apple Core AI Framework",
+      "source": "hackernews-top",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "file": "2026-06-09-apple-core-ai-framework.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-012",
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "source": "hackernews-top",
+      "url": "https://gitdot.io/",
+      "file": "2026-06-09-show-hn-gitdot-a-better-github-open-sour.json",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-013",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "source": "hackernews-top",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "file": "2026-06-09-xai-is-looking-more-like-a-datacentre-re.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-014",
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "file": "2026-06-09-ask-hn-what-are-tools-you-have-made-for-.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-015",
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "source": "hackernews-top",
+      "url": "https://intunedhq.com",
+      "file": "2026-06-09-launch-hn-intuned-yc-s22-build-and-run-r.json",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "agent"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-016",
+      "title": "AI is slowing down",
+      "source": "hackernews-top",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "file": "2026-06-09-ai-is-slowing-down.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
+    {
+      "id": "kb-2026-06-09-017",
+      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "source": "hackernews-top",
+      "url": "https://www.cc.dev/",
+      "file": "2026-06-09-show-hn-command-center-the-ai-coding-env.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-09T02:04:43.604587+00:00"
+    },
     {
       "id": "kb-2026-06-08-001",
       "title": "tastyeffectco/sandboxd",
@@ -8119,5 +8368,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-08T02:39:15.265434+00:00"
+  "last_updated": "2026-06-09T02:04:43.638898+00:00"
 }

@@ -1,0 +1,489 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-09T02:03:11.346880+00:00",
+  "date": "2026-06-09",
+  "count": 19,
+  "items": [
+    {
+      "title": "JimLiu/baoyu-design",
+      "source": "github-trending",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "stars": 526,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T23:21:44Z",
+      "summary": "Baoyu Design 是一个开源项目，将 Claude Design 的 UI 设计能力作为 Agent Skill 本地化运行，支持 Cursor、Claude Code 等工具。它解决用户无法在 claude.ai/design 之外使用 Claude 设计能力的问题，核心亮点是生成自包含 HTML 格式的高质量 UI 模型、原型、演示文稿和线框图，无需依赖云端服务。最佳搭配 Opus 4.8 模型，适用于前端开发、产品设计快速原型制作和演示场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:14.295301+00:00"
+    },
+    {
+      "title": "tastyeffectco/sandboxd",
+      "source": "github-trending",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 514,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "dev-environment",
+        "docker",
+        "isolation",
+        "pinokio",
+        "preview",
+        "preview-environment",
+        "sandbox",
+        "self-hosted"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-07T23:14:33Z",
+      "summary": "Sandboxd 是一个自托管的开发沙箱工具，提供预览 URL，一条命令即可启动，无需 Kubernetes。它解决了 AI 编码代理和 SaaS 工厂需要隔离、轻量级开发环境的问题。核心技术亮点包括基于 Docker 的隔离、自托管部署和零 Kubernetes 依赖。适用场景为 AI 代理开发、快速原型测试和多环境管理。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-09T02:03:16.687857+00:00"
+    },
+    {
+      "title": "amElnagdy/guard-skills",
+      "source": "github-trending",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "stars": 470,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "code-review",
+        "codex",
+        "skills-sh",
+        "woocommerce",
+        "wordpress"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-07T11:46:54Z",
+      "summary": "Guard Skills 是一套为编码代理设计的质量门控系统，专门捕获 AI 生成代码、测试和文档中的常见失败模式。核心亮点在于提供可插拔的验证规则，在代码审查阶段自动检测幻觉、逻辑错误、安全漏洞等 AI 特有缺陷，而非传统 lint 或静态分析。适用于集成到 Claude Code 等 AI 编码工具的 CI/CD 流程，提升 AI 生成代码的可靠性和安全性。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-09T02:03:19.230885+00:00"
+    },
+    {
+      "title": "GordenSun/GordenSuperPPTSkills",
+      "source": "github-trending",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stars": 423,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-07T16:26:51Z",
+      "summary": "GordenSun/GordenSuperPPTSkills 是一个基于GPT的PPT生成工具，解决从零创建高质量可编辑PPT的痛点。核心技术亮点：利用GPT生成豪华图片格式PPT，再转换为完全可编辑的PPTX文件，实现AI辅助演示文稿制作。适用场景：需要快速生成专业PPT的商务、教育、汇报等场景。",
+      "tags": [
+        "large-language-model",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-09T02:03:21.633042+00:00"
+    },
+    {
+      "title": "razr001/align-dev",
+      "source": "github-trending",
+      "url": "https://github.com/razr001/align-dev",
+      "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+      "stars": 320,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor",
+        "fronted",
+        "nextjs",
+        "skills"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-05T08:10:33Z",
+      "summary": "AlignDev 是一个 TypeScript 开源工具，帮助 AI 辅助前端团队生成共享编码规范和 SKILL.md 文件，使 Claude Code、Codex、Cursor、Copilot 等 AI 代理保持一致的代码风格。核心亮点是通过自动化规范生成减少多代理协作时的输出差异，适用于团队使用多个 AI 编程助手的前端开发场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-09T02:03:23.541755+00:00"
+    },
+    {
+      "title": "CWS6206/ai-coding-starter-kit",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stars": 262,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-05T08:56:11Z",
+      "summary": "CWS6206/ai-coding-starter-kit 是一个面向瑞士开发团队的 AI 编码入门工具包，整合了博客文章中的 agent skills、checklists、templates 和 guidelines。它解决了团队在采用 AI 辅助开发时缺乏标准化流程和最佳实践的问题。核心技术亮点是提供了可直接复用的 agent 技能模板和开发 checklist，降低 AI 编码的入门门槛。适用场景为需要快速上手 AI 编码的团队或个人开发者。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:25.887112+00:00"
+    },
+    {
+      "title": "FerroxLabs/wayland",
+      "source": "github-trending",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "stars": 250,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-07T23:17:31Z",
+      "summary": "FerroxLabs/wayland 是一个基于 TypeScript 构建的 AI Agent 框架，旨在解决自主智能体在感知、推理、行动和进化方面的核心挑战。其核心技术亮点包括模块化的感知层、基于大语言模型的推理引擎、可扩展的行动接口以及自我进化机制，支持动态环境适应。适用于需要长期自主决策的复杂任务场景，如自动化工作流、智能助手和持续学习系统。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "reasoning",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:28.192902+00:00"
+    },
+    {
+      "title": "cellebrite-labs/ghidra-rpc",
+      "source": "github-trending",
+      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "description": "A Ghidra agentic reverse engineering skill.",
+      "stars": 185,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-04T18:42:36Z",
+      "summary": "cellebrite-labs/ghidra-rpc 是一个基于 Ghidra 的反向工程代理技能，通过 RPC 接口将 Ghidra 的静态分析能力暴露给 AI 代理。它解决了 Ghidra 自动化脚本与 AI 模型集成困难的问题，核心亮点是提供可编程的 RPC 端点，使 LLM 能直接调用 Ghidra 的逆向分析功能。适用于自动化恶意软件分析、漏洞挖掘等需要 AI 辅助逆向的场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-09T02:03:30.682959+00:00"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control",
+      "source": "github-trending",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "stars": 157,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-09T00:38:24Z",
+      "summary": "一个非官方 JavaScript SDK，用于通过 Codex 代理控制可见的 ChatGPT 网页会话。解决开发者无法直接以编程方式操作 ChatGPT Web 界面的问题。核心亮点是模拟用户交互、绕过官方 API 限制，实现自动化对话管理。适用于构建基于 ChatGPT 的自动化工作流、测试工具或辅助代理。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-09T02:03:33.084821+00:00"
+    },
+    {
+      "title": "AI272/speaker",
+      "source": "github-trending",
+      "url": "https://github.com/AI272/speaker",
+      "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
+      "stars": 155,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude-code",
+        "claude-code-skill",
+        "codex",
+        "codex-skill",
+        "skill"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T17:49:42Z",
+      "summary": "Speaker 是一个基于 Codex 技能的项目，用于学术演示：读取真实 .pptx 文件，结合文本提取、PPTX 结构解析、逐页渲染、OCR 和视觉审查，生成逐页演讲者笔记，并将干净版本的讲稿写入 PowerPoint 注释区。核心技术亮点包括多模态处理（文本+视觉）、OCR 与结构解析的融合、以及自动化工作流。适用场景为学术演讲准备、教学材料优化和自动化讲稿生成。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-09T02:03:35.675313+00:00"
+    },
+    {
+      "title": "techjarves/Local-AI-Image-Generator",
+      "source": "github-trending",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "stars": 151,
+      "language": "JavaScript",
+      "topics": [
+        "image-generation",
+        "local-ai",
+        "stable-diffusion"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T06:45:46Z",
+      "summary": "Local-AI-Image-Generator 是一个面向 Windows 的完全离线 AI 图像生成工具，解决 Stable Diffusion 本地部署中依赖配置复杂、手动设置繁琐的问题。核心亮点包括：自动配置 CUDA（Nvidia GPU）和 Vulkan（AMD/Intel Arc），支持 Safetensors/GGUF 模型格式，零系统级依赖。适用于需要隐私保护、无网络环境或简化部署流程的本地图像生成场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:38.472200+00:00"
+    },
+    {
+      "title": "Forlives/21-day-self-interview",
+      "source": "github-trending",
+      "url": "https://github.com/Forlives/21-day-self-interview",
+      "description": "🪞 An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days — and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. 每晚三个问题，一面慢慢显影的镜子。",
+      "stars": 148,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "cron",
+        "existentialism",
+        "hermes-agent",
+        "journaling",
+        "mental-health",
+        "mirror",
+        "psychology",
+        "self-improvement",
+        "self-reflection"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T11:39:03Z",
+      "summary": "一个基于Hermes Agent的21天存在主义心理学AI咨询工具，每晚向用户提出3个有意义的问题，并记录和反思用户的回答。核心亮点是结合cron定时任务实现每日交互，支持中英双语，通过长期对话构建自我认知镜像。适用于个人心理探索、自我反思场景，技术栈包括Python、Hermes Agent框架和定时任务调度。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-09T02:03:40.940344+00:00"
+    },
+    {
+      "title": "TwoSevenOneT/EDRChoker",
+      "source": "github-trending",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker",
+      "description": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "stars": 143,
+      "language": "C#",
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-07T09:44:53Z",
+      "summary": "EDRChoker 是一个利用 Windows QoS 策略（Pacer.sys）限制端点检测与响应（EDR）代理与服务器通信的工具。它通过操纵网络流量调度机制，在不触发 EDR 自身防御的情况下实现连接抑制。核心技术亮点是使用系统级 QoS 策略而非传统防火墙或进程终止，具有隐蔽性。适用场景包括红队渗透测试、EDR 绕过评估及安全研究中的对抗性测试。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-06-09T02:03:43.420303+00:00"
+    },
+    {
+      "title": "12britz/awesome-free-models",
+      "source": "github-trending",
+      "url": "https://github.com/12britz/awesome-free-models",
+      "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+      "stars": 139,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T07:50:34Z",
+      "summary": "12britz/awesome-free-models 是一个精选的免费 AI 模型、API 和工具列表，旨在帮助开发者在不付费的情况下获取和使用 AI 资源。它解决了寻找高质量免费 AI 模型和服务的痛点，通过分类整理（如文本、图像、代码生成等）降低了搜索成本。核心技术亮点是提供了经过筛选的、可立即使用的免费资源集合，涵盖 OpenAI 替代品、开源模型等。适用场景包括个人项目原型开发、学习实验、预算有限的 AI 应用构建。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-09T02:03:46.204319+00:00"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate",
+      "source": "github-trending",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stars": 121,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T10:24:52Z",
+      "summary": "xiaohuailabs/xiaohu-video-translate 是一个开源 Python 工具，实现从视频下载、语音转写（Whisper 本地模型，零 API 费用）、翻译、字幕润色到最终烧录的完整本地化流程。用户只需输入一句话指令即可自动处理外语视频并添加中文字幕。核心技术亮点在于全流程本地运行，转写阶段利用 Whisper 模型避免 API 调用成本，翻译与润色阶段可集成本地或云端 LLM。适用于需要批量处理外语视频内容、追求数据隐私与低成本的字幕制作场景。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:49.143044+00:00"
+    },
+    {
+      "title": "louisfb01/start-ai-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/louisfb01/start-ai-engineering",
+      "description": "A complete guide to start and improve in AI engineering in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+      "stars": 112,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-06T15:45:01Z",
+      "summary": "这是一个面向2026年AI工程师的完整入门与进阶指南，旨在帮助零基础学习者系统掌握AI工程技能并跟踪最新技术动态。核心亮点包括结构化学习路径、前沿技术解读（如LLM、RAG、Agent）及持续更新的资源整合。适用于希望转型AI工程或提升实战能力的开发者、学生及从业者。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "rag",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:51.287288+00:00"
+    },
+    {
+      "title": "Forsy-AI/forsy-trace-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Forsy-AI/forsy-trace-skill",
+      "description": "Open skill for capturing AI agent work as structured traces.",
+      "stars": 102,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-traces",
+        "agent-workflows",
+        "ai-agents",
+        "llm-agents",
+        "post-training",
+        "process-supervision",
+        "reinforcement-learning",
+        "tool-use",
+        "trajectory-data"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-06T14:43:15Z",
+      "summary": "Forsy-AI/forsy-trace-skill 是一个开源 Python 库，用于将 AI agent 的工作过程捕获为结构化 traces。它解决了 agent 行为难以记录、调试和评估的问题，核心亮点是提供标准化 trace 格式以支持 agent 工作流的可观测性与可复现性。适用于 agent 开发调试、性能评估及工作流审计场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-09T02:03:53.443720+00:00"
+    },
+    {
+      "title": "mythicguruforge/CapC-Pro",
+      "source": "github-trending",
+      "url": "https://github.com/mythicguruforge/CapC-Pro",
+      "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+      "stars": 102,
+      "language": null,
+      "topics": [
+        "4k-export",
+        "4k-video-editor",
+        "activation-tools",
+        "ai-video-editor",
+        "capcut-2026",
+        "capcut-automation",
+        "capcut-effects",
+        "capcut-plugin",
+        "capcut-scripts",
+        "capcut-workflow",
+        "cinematic-editing",
+        "pro-cap-cut",
+        "reels-editor"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-08T20:50:40Z",
+      "summary": "CapC-Pro 是一个声称解锁 CapCut Pro Studio (2026) 所有高级功能的工具，包括 4K HDR 导出、AI 驱动转场和完整专业素材库。它解决的是视频编辑软件付费限制问题，核心通过激活工具实现功能解锁。适用场景为需要专业视频编辑能力但不愿付费的用户。注意：该项目涉及软件破解，存在法律和安全隐患。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-09T02:03:55.602862+00:00"
+    },
+    {
+      "title": "Happy-Chen-CH/text_classification",
+      "source": "github-trending",
+      "url": "https://github.com/Happy-Chen-CH/text_classification",
+      "description": "This is a text classification project based on the \"Category News\" feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them.",
+      "stars": 101,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "bert",
+        "distilbert",
+        "fasttext-python",
+        "python",
+        "random-forest-classifier",
+        "tensorflow",
+        "text-classification"
+      ],
+      "collected_at": "2026-06-09T02:03:09.223296+00:00",
+      "published_at": "2026-06-04T02:21:27Z",
+      "summary": "基于头条新闻分类的文本分类项目，从随机森林升级到FastText，最终采用BERT预训练模型加全连接层构建分类模型。解决新闻文本多分类问题，核心技术为BERT微调与特征提取。适用于新闻分类、内容审核等NLP场景，代码含bug需社区协作修复。",
+      "tags": [
+        "fine-tuning",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-06-09T02:03:57.734205+00:00"
+    }
+  ]
+}

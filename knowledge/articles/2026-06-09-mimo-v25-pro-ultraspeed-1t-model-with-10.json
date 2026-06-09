@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-09-009",
+  "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+  "source": "hackernews-top",
+  "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+  "summary": "MiMo-v2.5-Pro-UltraSpeed 是一个1T参数的大语言模型，实现了每秒1000 tokens的推理速度。它解决了大规模模型部署时推理延迟高、吞吐量低的痛点。核心技术亮点包括极致的模型架构优化和推理加速技术，可能涉及稀疏化、量化或并行计算。适用场景为需要高实时性的AI应用，如在线对话、实时内容生成和交互式AI助手。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 8.5,
+  "collected_at": "2026-06-09T02:03:09.368515+00:00",
+  "analyzed_at": "2026-06-09T02:04:07.404862+00:00",
+  "organized_at": "2026-06-09T02:04:43.604587+00:00",
+  "status": "published"
+}

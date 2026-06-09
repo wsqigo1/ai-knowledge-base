@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-09-004",
+  "title": "xiaohuailabs/xiaohu-video-translate",
+  "source": "github-trending",
+  "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+  "summary": "xiaohuailabs/xiaohu-video-translate 是一个开源 Python 工具，实现从视频下载、语音转写（Whisper 本地模型，零 API 费用）、翻译、字幕润色到最终烧录的完整本地化流程。用户只需输入一句话指令即可自动处理外语视频并添加中文字幕。核心技术亮点在于全流程本地运行，转写阶段利用 Whisper 模型避免 API 调用成本，翻译与润色阶段可集成本地或云端 LLM。适用于需要批量处理外语视频内容、追求数据隐私与低成本的字幕制作场景。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "workflow-automation",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-09T02:03:09.223296+00:00",
+  "analyzed_at": "2026-06-09T02:03:49.143044+00:00",
+  "organized_at": "2026-06-09T02:04:43.604587+00:00",
+  "status": "published"
+}
