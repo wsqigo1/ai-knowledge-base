@@ -1,7 +1,242 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 564,
+  "total_count": 580,
   "entries": [
+    {
+      "id": "kb-2026-06-10-001",
+      "title": "apple/coreai-models",
+      "source": "github-trending",
+      "url": "https://github.com/apple/coreai-models",
+      "file": "2026-06-10-applecoreai-models.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-002",
+      "title": "thisishowen-spec/eatlah",
+      "source": "github-trending",
+      "url": "https://github.com/thisishowen-spec/eatlah",
+      "file": "2026-06-10-thisishowen-speceatlah.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-003",
+      "title": "Zafer-Liu/Agent_Manager",
+      "source": "github-trending",
+      "url": "https://github.com/Zafer-Liu/Agent_Manager",
+      "file": "2026-06-10-zafer-liuagent-manager.json",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-004",
+      "title": "ferdinandobons/brand-docs",
+      "source": "github-trending",
+      "url": "https://github.com/ferdinandobons/brand-docs",
+      "file": "2026-06-10-ferdinandobonsbrand-docs.json",
+      "tags": [
+        "agent",
+        "document-automation",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-005",
+      "title": "macOS Container Machines",
+      "source": "hackernews-top",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "file": "2026-06-10-macos-container-machines.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-006",
+      "title": "Claude Fable 5",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "file": "2026-06-10-claude-fable-5.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 8.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-007",
+      "title": "Upcoming breaking changes for npm v12",
+      "source": "hackernews-top",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "file": "2026-06-10-upcoming-breaking-changes-for-npm-v12.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-008",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "source": "hackernews-top",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "file": "2026-06-10-ultrafast-machine-learning-on-fpgas-via-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-009",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "source": "hackernews-top",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "file": "2026-06-10-if-claude-fable-stops-helping-you-youll-.json",
+      "tags": [
+        "code-generation",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-010",
+      "title": "What it feels like to work with Mythos",
+      "source": "hackernews-top",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "file": "2026-06-10-what-it-feels-like-to-work-with-mythos.json",
+      "tags": [
+        "large-language-model",
+        "multi-agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-011",
+      "title": "Grit: Rewriting Git in Rust with agents",
+      "source": "hackernews-top",
+      "url": "https://blog.gitbutler.com/true-grit",
+      "file": "2026-06-10-grit-rewriting-git-in-rust-with-agents.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.7,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-012",
+      "title": "It's death",
+      "source": "hackernews-top",
+      "url": "https://jesseduffield.com/ITS-DEATH/",
+      "file": "2026-06-10-its-death.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-013",
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "source": "hackernews-top",
+      "url": "https://opencv.org/opencv-5/",
+      "file": "2026-06-10-opencv-5-is-here-the-biggest-leap-in-yea.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-014",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "source": "hackernews-top",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "file": "2026-06-10-german-ruling-declares-google-liable-for.json",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-015",
+      "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+      "source": "hackernews-top",
+      "url": "https://github.com/sig-id/nucleus",
+      "file": "2026-06-10-show-hn-nucleus-a-security-hardened-nix-.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
+    {
+      "id": "kb-2026-06-10-016",
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.15184",
+      "file": "2026-06-10-is-grep-all-you-need-how-agent-harnesses.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-10T02:17:04.687772+00:00"
+    },
     {
       "id": "kb-2026-06-09-001",
       "title": "GordenSun/GordenSuperPPTSkills",
@@ -8368,5 +8603,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-09T02:04:43.638898+00:00"
+  "last_updated": "2026-06-10T02:17:04.726528+00:00"
 }

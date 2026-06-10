@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-10-007",
+  "title": "Upcoming breaking changes for npm v12",
+  "source": "hackernews-top",
+  "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+  "summary": "npm v12 即将引入多项破坏性变更，包括移除对 Node.js 16 的支持、默认启用严格包解析模式、废弃旧版 lockfile 格式等。这些变更旨在提升包管理安全性、减少依赖冲突并简化工作流。核心亮点是强制包签名验证和更严格的依赖树解析算法。适用场景为 Node.js 生态下的前端或全栈项目维护者，需提前适配以避免 CI/CD 中断。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-10T02:15:27.527342+00:00",
+  "analyzed_at": "2026-06-10T02:16:23.578472+00:00",
+  "organized_at": "2026-06-10T02:17:04.687772+00:00",
+  "status": "published"
+}

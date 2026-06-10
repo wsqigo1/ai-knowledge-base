@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-10-008",
+  "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+  "source": "hackernews-top",
+  "url": "https://aarushgupta.io/posts/kan-fpga/",
+  "summary": "Kolmogorov-Arnold Networks (KAN) 被部署于 FPGA 以实现超快速机器学习推理。该工作解决传统神经网络在 FPGA 上计算效率低、延迟高的问题，核心亮点是利用 KAN 的可学习激活函数与稀疏结构，在 FPGA 上通过并行化与流水线设计达到微秒级推理延迟。适用于边缘计算、实时信号处理、高能物理实验等低延迟场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-10T02:15:27.527342+00:00",
+  "analyzed_at": "2026-06-10T02:16:25.927638+00:00",
+  "organized_at": "2026-06-10T02:17:04.687772+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-10-011",
+  "title": "Grit: Rewriting Git in Rust with agents",
+  "source": "hackernews-top",
+  "url": "https://blog.gitbutler.com/true-grit",
+  "summary": "Grit 是一个用 Rust 重写 Git 的项目，并集成 AI 代理以自动化代码库维护任务。它解决 Git 操作性能瓶颈和复杂工作流自动化问题。核心技术亮点：Rust 实现高性能 Git 操作，结合 LLM 代理理解代码语义并执行重构、迁移等任务。适用场景：大型代码库的自动化重构、依赖升级、代码风格统一等开发者工具场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.7,
+  "collected_at": "2026-06-10T02:15:27.527342+00:00",
+  "analyzed_at": "2026-06-10T02:16:35.869793+00:00",
+  "organized_at": "2026-06-10T02:17:04.687772+00:00",
+  "status": "published"
+}

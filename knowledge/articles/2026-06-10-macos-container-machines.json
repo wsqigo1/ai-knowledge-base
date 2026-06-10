@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-10-005",
+  "title": "macOS Container Machines",
+  "source": "hackernews-top",
+  "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+  "summary": "macOS Container Machines 是一个开源项目，旨在解决在 macOS 上运行容器时性能与兼容性不足的问题。其核心技术亮点包括利用 macOS 的 Hypervisor.framework 实现轻量级虚拟化，支持 Docker 和 Kubernetes 原生集成，并提供接近 Linux 的容器运行体验。适用于需要在 macOS 上进行容器化开发、测试或本地 CI/CD 的开发者场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-10T02:15:27.527342+00:00",
+  "analyzed_at": "2026-06-10T02:16:18.235370+00:00",
+  "organized_at": "2026-06-10T02:17:04.687772+00:00",
+  "status": "published"
+}

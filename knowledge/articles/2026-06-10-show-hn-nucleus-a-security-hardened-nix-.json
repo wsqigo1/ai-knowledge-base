@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-10-015",
+  "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+  "source": "hackernews-top",
+  "url": "https://github.com/sig-id/nucleus",
+  "summary": "Nucleus 是一个基于 Nix 的安全加固容器运行时，解决传统容器运行时（如 Docker）在安全隔离和依赖管理上的不足。核心亮点包括利用 Nix 的纯函数式包管理实现不可变基础设施、细粒度权限控制（如 seccomp、AppArmor 集成）以及声明式配置。适用于对安全性要求高的生产环境，如多租户服务或 CI/CD 流水线。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-10T02:15:27.527342+00:00",
+  "analyzed_at": "2026-06-10T02:16:52.728721+00:00",
+  "organized_at": "2026-06-10T02:17:04.687772+00:00",
+  "status": "published"
+}
