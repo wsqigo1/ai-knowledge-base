@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-11-006",
+  "title": "πFS",
+  "source": "hackernews-top",
+  "url": "https://github.com/philipl/pifs",
+  "summary": "πFS 是一个基于内容寻址的文件系统，旨在解决传统文件系统在数据去重、版本管理和分布式存储中的低效问题。其核心技术亮点包括使用 Merkle 树结构实现内容哈希寻址，支持快照与分支的版本控制，以及通过分布式哈希表（DHT）实现去中心化存储。适用场景包括大规模数据备份、容器镜像管理、以及需要高效版本控制的 CI/CD 流水线。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-11T02:37:48.504669+00:00",
+  "analyzed_at": "2026-06-11T02:38:49.577865+00:00",
+  "organized_at": "2026-06-11T02:39:35.334099+00:00",
+  "status": "published"
+}

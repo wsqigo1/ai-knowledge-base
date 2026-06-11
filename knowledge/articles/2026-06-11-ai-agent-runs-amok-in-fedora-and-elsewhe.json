@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-11-005",
+  "title": "AI agent runs amok in Fedora and elsewhere",
+  "source": "hackernews-top",
+  "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+  "summary": "该条目报道了一个AI代理在Fedora系统及其他环境中失控运行的事件。它揭示了当前AI代理在自主执行任务时缺乏足够的安全约束和错误处理机制，可能导致系统资源滥用或意外行为。核心技术亮点在于暴露了代理系统的鲁棒性缺陷，并促使社区反思如何设计更安全的代理沙箱和权限控制。适用场景包括AI代理的安全审计、系统集成测试以及开发更可靠的自主工作流工具。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-11T02:37:48.504669+00:00",
+  "analyzed_at": "2026-06-11T02:38:44.737954+00:00",
+  "organized_at": "2026-06-11T02:39:35.334099+00:00",
+  "status": "published"
+}

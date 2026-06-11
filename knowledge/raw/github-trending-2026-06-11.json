@@ -1,0 +1,460 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-11T02:37:50.338153+00:00",
+  "date": "2026-06-11",
+  "count": 19,
+  "items": [
+    {
+      "title": "GordenSun/GordenSuperPPTSkills",
+      "source": "github-trending",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stars": 732,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-07T16:26:51Z",
+      "summary": "GordenSun/GordenSuperPPTSkills 是一个基于GPT的PPT生成工具，解决传统AI生成PPT不可编辑的问题。核心技术亮点包括：使用GPT生成高质量图片格式PPT，再转换为完全可编辑的PPTX文件，实现视觉与编辑性的统一。适用场景：需要快速生成精美PPT的商务、教育、汇报等场景。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-11T02:37:52.743762+00:00"
+    },
+    {
+      "title": "JimLiu/baoyu-design",
+      "source": "github-trending",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "stars": 697,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-11T01:28:26Z",
+      "summary": "baoyu-design 是一个开源项目，将 Claude Design 的 UI 设计能力本地化为 Agent Skill，支持在 Cursor、Claude Code 等工具中直接生成自包含 HTML 的 UI 原型、线框图、演示文稿，无需依赖 claude.ai/design。核心技术亮点是作为 Agent Skill 集成到开发环境，利用 Opus 4.8 模型生成高质量设计输出。适用场景包括快速原型设计、前端开发中的 UI 迭代、以及 AI 辅助设计工作流。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-11T02:37:55.795765+00:00"
+    },
+    {
+      "title": "apple/coreai-models",
+      "source": "github-trending",
+      "url": "https://github.com/apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "stars": 620,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T22:20:05Z",
+      "summary": "Apple 开源的 Core AI Models 项目，提供模型导出配方、Python 原语和 Swift 运行时工具，旨在简化在 Apple 设备上部署和运行 AI 模型。核心技术亮点包括：支持将 PyTorch 等框架训练的模型转换为 Core ML 格式，提供高效的 on-device 推理优化，以及 Swift 端轻量级运行时库。适用场景为 iOS/macOS 等 Apple 生态下的本地 AI 应用开发，如实时图像分类、自然语言处理等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "fine-tuning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-11T02:37:58.615858+00:00"
+    },
+    {
+      "title": "amElnagdy/guard-skills",
+      "source": "github-trending",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "stars": 555,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "code-review",
+        "codex",
+        "skills-sh",
+        "woocommerce",
+        "wordpress"
+      ],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-07T11:46:54Z",
+      "summary": "Guard-skills 是一套专为编码代理设计的质量门控系统，用于捕捉 AI 生成代码、测试和文档中的常见失败模式。核心亮点包括预定义规则集、可扩展的技能库，以及与 Claude Code 等工具的集成，确保 AI 输出符合质量标准。适用场景包括代码审查、自动化测试和文档验证，特别适合依赖 AI 辅助开发的团队。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-11T02:38:01.056405+00:00"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate",
+      "source": "github-trending",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stars": 442,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-08T10:24:52Z",
+      "summary": "xiaohuailabs/xiaohu-video-translate 是一个开源 Python 工具，实现从视频下载、语音转写、翻译、字幕润色到最终烧录的全流程自动化。核心解决外语视频无中文字幕的痛点，全程本地运行，转写阶段无需 API 费用，仅翻译环节可选调用 LLM。技术亮点包括集成 whisper 本地转写、支持多种翻译引擎、自动字幕时间轴对齐。适用于个人学习、内容二次创作等场景，降低视频翻译门槛。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-11T02:38:04.195023+00:00"
+    },
+    {
+      "title": "FerroxLabs/wayland",
+      "source": "github-trending",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "stars": 369,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T10:15:03Z",
+      "summary": "FerroxLabs/wayland 是一个基于 TypeScript 构建的 AI Agent 框架，旨在实现感知、推理、行动与进化的完整智能循环。它解决了传统 Agent 缺乏长期自主进化能力的问题，核心亮点在于集成持续学习机制与模块化推理引擎，支持动态工具调用与记忆管理。适用于需要自适应决策的自动化工作流、复杂任务分解及多步骤推理场景，如智能客服、研究助手或 DevOps 自动化。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-11T02:38:07.048776+00:00"
+    },
+    {
+      "title": "ziqihe10-droid/xuefeng-agent",
+      "source": "github-trending",
+      "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+      "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+      "stars": 273,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T11:52:17Z",
+      "summary": "ziqihe10-droid/xuefeng-agent 是一个基于 Python 的 AI 高考志愿顾问项目。它通过多轮追问收集考生信息，结合数据分析提供个性化志愿建议，并敢于给出真实评价。核心技术亮点包括 agent 架构实现对话式交互、推理引擎进行信息整合与决策、以及 prompt-engineering 确保回答的诚实性。适用场景为高考考生填报志愿时的智能辅助咨询。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-11T02:38:09.902359+00:00"
+    },
+    {
+      "title": "CWS6206/ai-coding-starter-kit",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stars": 263,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-05T08:56:11Z",
+      "summary": "CWS6206/ai-coding-starter-kit 是一个面向瑞士开发团队的 AI 编码入门工具包，整合了博客文章中的 Agent Skills、Checklist、Template 和 Leitfäden。它解决团队在采用 AI 辅助开发时缺乏标准化流程和最佳实践的问题。核心技术亮点是提供可复用的 Agent 技能模板和检查清单，降低 AI 编码工具的学习曲线。适用场景为希望快速上手 AI 编码工具的开发团队，尤其是需要结构化指南的瑞士企业。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-11T02:38:12.713227+00:00"
+    },
+    {
+      "title": "valkor-ai/loom",
+      "source": "github-trending",
+      "url": "https://github.com/valkor-ai/loom",
+      "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+      "stars": 199,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T03:25:12Z",
+      "summary": "Loom 是一个开源交付工具，将 Claude Code、Codex、OpenCode 等编码 Agent 转化为可重复的软件交付系统。核心亮点在于提供标准化的 harness 层，统一管理不同 Agent 的代码生成、测试与部署流程，解决多 Agent 协作时输出不一致、难以集成的问题。适用于需要将 AI 编码助手纳入 CI/CD 管道的工程团队，尤其适合多 Agent 混合使用的场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-11T02:38:15.309262+00:00"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control",
+      "source": "github-trending",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "stars": 194,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T23:25:59Z",
+      "summary": "adamallcock/codex-chatgpt-control 是一个非官方 SDK，用于通过 Codex 代理控制可见的 ChatGPT 网页会话。它解决了 AI 代理与 ChatGPT 前端交互的自动化问题，核心亮点是直接操作浏览器 DOM 实现会话控制，无需 API 依赖。适用于构建自动化工作流、测试 ChatGPT 行为或集成多代理系统。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-06-11T02:38:17.666356+00:00"
+    },
+    {
+      "title": "TwoSevenOneT/EDRChoker",
+      "source": "github-trending",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker",
+      "description": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "stars": 194,
+      "language": "C#",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-07T09:44:53Z",
+      "summary": "EDRChoker 是一个利用 Windows QoS 策略（Pacer.sys）限制端点检测与响应（EDR）代理连接服务器的工具。核心通过操控网络流量整形机制，阻断或降级 EDR 与云端通信，实现绕过安全监控。适用于红队渗透测试、EDR 规避研究场景，需管理员权限运行。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-11T02:38:19.952600+00:00"
+    },
+    {
+      "title": "12britz/awesome-free-models",
+      "source": "github-trending",
+      "url": "https://github.com/12britz/awesome-free-models",
+      "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+      "stars": 174,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T19:54:23Z",
+      "summary": "12britz/awesome-free-models 是一个精选免费AI模型、API和工具的资源列表，解决开发者寻找零成本AI资源的需求。核心技术亮点是系统化整理无需付费即可使用的模型（如LLaMA、Mistral）和API（如OpenAI免费层），覆盖文本、图像、音频等多模态。适用场景包括个人项目原型开发、学习实验、低成本部署，尤其适合预算有限的AI工程师和学生。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "multimodal"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-11T02:38:22.740796+00:00"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-money",
+      "source": "github-trending",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "stars": 170,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-08T13:30:40Z",
+      "summary": "XBuilderLAB/cheat-on-money 是一个基于 AI 的兼职信息反诈验证工具，核心解决 AI 时代兼职场景中的信息真实性与时效性核查问题。技术亮点包括：需求信号反推（从用户意图逆向分析兼职可信度）、实时时效核查（动态验证信息有效性）、反诈 rubric（结构化评估规则）以及个性化校准环（根据用户反馈持续优化模型）。适用场景为个人用户寻找靠谱兼职、平台方进行内容审核。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-11T02:38:25.545953+00:00"
+    },
+    {
+      "title": "thisishowen-spec/eatlah",
+      "source": "github-trending",
+      "url": "https://github.com/thisishowen-spec/eatlah",
+      "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. 五分钟上线点餐系统",
+      "stars": 166,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-05T14:06:11Z",
+      "summary": "Eatlah 是一个基于 AI 的二维码点餐系统开源项目，专为小贩摊位、小型餐厅和独立餐饮商家设计，宣称五分钟即可上线点餐系统。核心功能包括 Snap menu（快照菜单）和 Start QR orders（启动二维码点餐），利用 AI 技术简化传统点餐流程，降低商家数字化门槛。技术亮点在于快速部署和易用性，使用 TypeScript 构建。适用场景为餐饮行业的数字化升级，特别是资源有限的小型餐饮商户。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-11T02:38:28.615093+00:00"
+    },
+    {
+      "title": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
+      "source": "github-trending",
+      "url": "https://github.com/alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
+      "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+      "stars": 141,
+      "language": "C#",
+      "topics": [
+        "adult-ai",
+        "nsfw",
+        "nsfw-data",
+        "nsfw-detection",
+        "nsfw-image",
+        "nsfw-project",
+        "nsfw-prompt",
+        "nsfw-recognition",
+        "nsfw-video-ai-gen",
+        "nude-ai-generator-list",
+        "uncensored",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-image-generatornsfw-video-ai-gen",
+        "uncensored-ai-video-generator",
+        "uncensored-ai-video-generator-2026",
+        "uncensored-ai-video-generatornudity"
+      ],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-05T09:59:58Z",
+      "summary": "一个基于C#的AI图像与视频生成工具包，专注于无审查的创意内容生成。解决NSFW内容生成领域缺乏开源基础工具的问题。核心技术采用C#实现底层生成管线，支持图像与视频输出，集成NSFW检测与数据处理模块。适用于成人内容创作、艺术实验及需要绕过内容过滤的AI生成场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-06-11T02:38:31.116505+00:00"
+    },
+    {
+      "title": "ferdinandobons/brand-docs",
+      "source": "github-trending",
+      "url": "https://github.com/ferdinandobons/brand-docs",
+      "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
+      "stars": 139,
+      "language": "Python",
+      "topics": [
+        "ai-document-generation",
+        "claude-code-plugin",
+        "codex",
+        "document-automation",
+        "document-generation",
+        "docx",
+        "excel",
+        "microsoft-office",
+        "office-automation",
+        "office-documents",
+        "ooxml",
+        "openpyxl",
+        "powerpoint",
+        "pptx",
+        "python-docx",
+        "python-pptx",
+        "template-automation",
+        "template-engine",
+        "word",
+        "xlsx"
+      ],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T10:54:46Z",
+      "summary": "BrandDocs 是一套 AI agent 技能，通过学习用户现有的 Word、PowerPoint 和 Excel 模板，生成符合品牌规范的新文档。它解决了通用 AI 文档生成器无法保留品牌、结构、样式和公式的问题，核心亮点在于通过构造方式而非后处理来保证一致性。专为 Claude Code、Codex 及兼容 AI agent 设计，适用于企业文档自动化场景。",
+      "tags": [
+        "agent",
+        "document-automation",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-11T02:38:33.700582+00:00"
+    },
+    {
+      "title": "Zafer-Liu/Agent_Manager",
+      "source": "github-trending",
+      "url": "https://github.com/Zafer-Liu/Agent_Manager",
+      "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。",
+      "stars": 137,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-09T05:46:59Z",
+      "summary": "Zafer-Liu/Agent_Manager 是一个基于 TypeScript 的跨平台桌面应用，用于管理 AI Agent 和 MCP 服务器。它解决了 AI 开发者在本地环境中配置、启动和监控多个 Agent 及 MCP 服务实例的繁琐问题。核心技术亮点包括图形化界面管理 Agent 生命周期、集成 MCP 协议支持、以及跨平台兼容性（Windows/macOS/Linux）。适用场景包括 AI 原型开发、多 Agent 协作测试、以及本地 MCP 服务部署与运维。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "multi-agent",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-11T02:38:36.355778+00:00"
+    },
+    {
+      "title": "emollick/concord",
+      "source": "github-trending",
+      "url": "https://github.com/emollick/concord",
+      "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "stars": 137,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-10T01:06:05Z",
+      "summary": "emollick/concord 是一个用于定性文本分析的 JavaScript 工具，提供 AI 编码语料库、金标准校准、DSL/PPI 校正统计和证据阶梯功能。它解决传统定性分析中主观性强、可重复性差的问题，通过引入 AI 辅助编码和统计校正提升分析的严谨性和可复现性。核心技术亮点包括 DSL（领域特定语言）和 PPI（预测后推断）校正，以及证据阶梯框架。适用于社会科学研究、市场调研、内容分析等需要结构化文本分析的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-11T02:38:39.133204+00:00"
+    },
+    {
+      "title": "Forsy-AI/forsy-trace-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Forsy-AI/forsy-trace-skill",
+      "description": "Open skill for capturing AI agent work as structured traces.",
+      "stars": 116,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-traces",
+        "agent-workflows",
+        "ai-agents",
+        "llm-agents",
+        "post-training",
+        "process-supervision",
+        "reinforcement-learning",
+        "tool-use",
+        "trajectory-data"
+      ],
+      "collected_at": "2026-06-11T02:37:48.285745+00:00",
+      "published_at": "2026-06-06T14:43:15Z",
+      "summary": "Forsy-AI/forsy-trace-skill 是一个开源 Python 库，用于将 AI agent 的工作过程捕获为结构化 traces。它解决 agent 行为可观测性差、难以调试和评估的问题。核心亮点是提供轻量级 instrumentation 接口，自动记录 agent 的决策、工具调用和中间结果，生成可复现的 trace 数据。适用于 agent 开发调试、性能评估和 workflow 审计场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-11T02:38:41.646977+00:00"
+    }
+  ]
+}

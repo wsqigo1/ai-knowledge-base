@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-11-013",
+  "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+  "source": "hackernews-top",
+  "url": "https://github.com/anthropics/claude-code/issues/29045",
+  "summary": "Claude Desktop每次启动时都会创建一个1.8GB的Hyper-V虚拟机，即使仅用于聊天模式。该问题暴露了其架构设计：为隔离和安全而采用虚拟化技术，但导致资源开销巨大，影响用户体验。核心亮点是揭示了AI桌面应用在安全与性能之间的权衡。适用场景：评估AI桌面应用架构设计、资源优化及虚拟化策略。",
+  "tags": [
+    "ai-assistant",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-11T02:37:48.504669+00:00",
+  "analyzed_at": "2026-06-11T02:39:30.485716+00:00",
+  "organized_at": "2026-06-11T02:39:35.334099+00:00",
+  "status": "published"
+}

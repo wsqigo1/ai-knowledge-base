@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-11-012",
+  "title": "Show HN: HelixDB – A graph database built on object storage",
+  "source": "hackernews-top",
+  "url": "https://github.com/HelixDB/helix-db/tree/main",
+  "summary": "HelixDB 是一个构建于对象存储之上的图数据库，旨在解决传统图数据库在云原生环境下的存储成本高、扩展性差的问题。其核心技术亮点包括：利用对象存储（如S3）作为持久化层，实现近乎无限的存储容量和低成本；采用分层架构，将计算与存储分离，支持独立扩缩容；通过优化的图遍历算法和缓存机制，在对象存储延迟较高的场景下仍能保持良好查询性能。适用场景包括大规模知识图谱、社交网络分析、推荐系统等需要处理复杂关系且对存储成本敏感的云原生应用。",
+  "tags": [
+    "open-source",
+    "vector-database",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-11T02:37:48.504669+00:00",
+  "analyzed_at": "2026-06-11T02:39:27.764057+00:00",
+  "organized_at": "2026-06-11T02:39:35.334099+00:00",
+  "status": "published"
+}
