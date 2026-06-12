@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-12-016",
+  "title": "The RCE that AMD wouldn't fix",
+  "source": "hackernews-top",
+  "url": "https://mrbruh.com/amd2/",
+  "summary": "该条目披露了AMD处理器中一个拒绝修复的远程代码执行漏洞（RCE），涉及SMM（系统管理模式）权限提升。核心问题在于AMD认为该漏洞利用难度高且需物理访问，因此不予修复，但研究者展示了通过特定攻击链实现远程利用的可能性。技术亮点在于详细分析了SMM内存保护机制的绕过方法。适用场景为安全研究人员评估AMD平台风险及企业制定硬件安全策略。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-12T02:33:15.855060+00:00",
+  "analyzed_at": "2026-06-12T02:34:46.815698+00:00",
+  "organized_at": "2026-06-12T02:34:59.351665+00:00",
+  "status": "published"
+}

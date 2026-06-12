@@ -1,0 +1,388 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-12T02:33:17.135895+00:00",
+  "date": "2026-06-12",
+  "count": 20,
+  "items": [
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48498385",
+      "description": "",
+      "hn_score": 106,
+      "comments": 31,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "这是一篇2001年的经典文章，讨论软件工程中预防性工作的价值困境。核心观点是：防止问题发生的工作（如架构设计、代码审查、测试）往往不被认可，因为问题从未出现，导致组织倾向于奖励“救火”而非预防。文章通过历史案例和心理学分析，指出这种认知偏差对工程文化和技术债务的长期影响。适用场景：技术管理、工程文化反思、研发效能评估。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-12T02:34:12.156247+00:00"
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "hn_url": "https://news.ycombinator.com/item?id=48498573",
+      "description": "",
+      "hn_score": 66,
+      "comments": 39,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "Claude Fable 是一个主动式 AI 系统，解决传统 LLM 被动响应、缺乏自主行动能力的问题。其核心技术亮点在于通过强化学习与长期记忆机制，使模型能主动预测用户需求并执行多步任务，无需显式指令。适用场景包括自动化工作流、智能助手及复杂任务编排。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-12T02:34:14.296784+00:00"
+    },
+    {
+      "title": "Show HN: Homebrew 6.0.0",
+      "source": "hackernews-top",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48490024",
+      "description": "",
+      "hn_score": 1009,
+      "comments": 240,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "Homebrew 6.0.0 是 macOS 包管理器 Homebrew 的重大版本更新，主要解决旧版本中依赖解析缓慢、安装失败等问题。核心亮点包括：重写依赖解析器，采用基于图的新算法，大幅提升安装速度；改进对 Apple Silicon 的原生支持；优化缓存和清理机制。适用场景：macOS 开发者日常软件包管理、CI/CD 环境依赖安装。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-12T02:34:16.770673+00:00"
+    },
+    {
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "source": "hackernews-top",
+      "url": "https://fablepool.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48496539",
+      "description": "",
+      "hn_score": 263,
+      "comments": 151,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "FablePool 是一个基于提示（prompt）驱动的众筹平台，用户将资金汇集于一个提示词背后，Fable 团队公开构建并交付结果。它解决了创意验证与资金匹配的效率问题，核心亮点是将 prompt 作为项目提案和众筹标的，结合公开构建的透明度机制。适用场景包括 AI 应用原型众筹、社区驱动的功能开发及开源项目早期融资。",
+      "tags": [
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-12T02:34:19.314399+00:00"
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "source": "hackernews-top",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "hn_url": "https://news.ycombinator.com/item?id=48497609",
+      "description": "",
+      "hn_score": 294,
+      "comments": 81,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "这是一篇关于人机交互中注意力获取原则的讨论文章，核心观点是：当用户请求人类关注时，应首先展示自身付出的努力。解决AI助手或自动化系统过度依赖人类介入、缺乏自主性问题。技术亮点在于提出一种行为设计准则，强调通过展示努力（如详细问题描述、初步尝试）来提升交互效率。适用场景包括AI客服、开发者工具、工作流自动化等需要平衡人类与AI协作的领域。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-12T02:34:22.099300+00:00"
+    },
+    {
+      "title": "MiMo Code is now released and open-source",
+      "source": "hackernews-top",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "hn_url": "https://news.ycombinator.com/item?id=48490826",
+      "description": "",
+      "hn_score": 427,
+      "comments": 246,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "MiMo Code 现已开源发布，旨在解决多模态代码生成与理解任务中模型能力不足的问题。其核心技术亮点在于融合了多模态输入（如图像、文本）与代码生成，支持从界面截图直接生成代码，并优化了跨模态对齐与推理效率。适用场景包括前端开发、UI自动化测试、以及需要从视觉设计快速转化为代码的工程流程。",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-12T02:34:24.540482+00:00"
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "hn_url": "https://news.ycombinator.com/item?id=48489229",
+      "description": "",
+      "hn_score": 325,
+      "comments": 316,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "Anthropic 为其 Claude 模型引入的隐形“Fable”护栏致歉，这些护栏在用户未察觉的情况下限制模型输出。该事件暴露了AI安全机制与用户透明度之间的冲突，核心问题是护栏设计缺乏可解释性，可能影响用户对模型行为的信任。适用于AI伦理讨论、模型部署中的安全策略评估场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-12T02:34:26.918190+00:00"
+    },
+    {
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "source": "hackernews-top",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "hn_url": "https://news.ycombinator.com/item?id=48491830",
+      "description": "",
+      "hn_score": 369,
+      "comments": 126,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "这是一份关于加拿大Bill C-22法案的请愿书，旨在反对该法案对AI和数字领域的监管。该法案可能限制开源AI模型和技术的自由发展，解决监管过度对创新和社区协作的潜在阻碍。核心亮点是社区动员和公开呼吁，强调法案对技术生态的负面影响。适用场景为AI政策讨论、开源社区维权和数字权利倡导。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-12T02:34:29.460307+00:00"
+    },
+    {
+      "title": "A jacket that harvests drinking water from the air",
+      "source": "hackernews-top",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "hn_url": "https://news.ycombinator.com/item?id=48497576",
+      "description": "",
+      "hn_score": 44,
+      "comments": 27,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "一种能从空气中收集饮用水的夹克。该夹克采用特殊材料与结构设计，利用昼夜温差或湿度变化，通过冷凝或吸附原理从大气中提取水分，转化为可饮用水。核心技术亮点在于将集水功能集成于可穿戴衣物中，实现便携式水源获取。适用场景包括户外探险、干旱地区应急或日常补水需求。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-12T02:34:31.845946+00:00"
+    },
+    {
+      "title": "Software is made between commits",
+      "source": "hackernews-top",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "hn_url": "https://news.ycombinator.com/item?id=48492533",
+      "description": "",
+      "hn_score": 206,
+      "comments": 161,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "文章探讨软件开发的核心价值在于提交之间的思考、设计、调试和协作过程，而非代码提交本身。它解决开发者过度关注提交频率和代码量的问题，强调迭代中的隐性工作。核心亮点是提出“提交间”作为创造性工作的真正载体。适用场景为软件工程实践反思、团队协作流程优化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-12T02:34:34.019190+00:00"
+    },
+    {
+      "title": "Emacs appearances in pop culture",
+      "source": "hackernews-top",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "hn_url": "https://news.ycombinator.com/item?id=48474274",
+      "description": "",
+      "hn_score": 266,
+      "comments": 73,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "该条目列举了Emacs在流行文化中的出现场景，如电影、电视剧和漫画中的引用。它解决的是展示Emacs作为经典文本编辑器在主流文化中的影响力和认知度的问题。核心亮点是收集并整理了跨媒体的Emacs彩蛋和致敬片段。适用场景为技术文化研究、开源社区趣味分享或编辑器历史回顾。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-12T02:34:36.421359+00:00"
+    },
+    {
+      "title": "Ear Training Practice",
+      "source": "hackernews-top",
+      "url": "https://tonedear.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48447598",
+      "description": "",
+      "hn_score": 159,
+      "comments": 86,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "Ear Training Practice 是一个开源项目，旨在通过交互式练习帮助用户提升音乐听力技能，如音程、和弦和节奏识别。其核心技术亮点包括使用 Web Audio API 实现实时音频生成与反馈，以及基于算法随机生成练习内容以覆盖广泛音乐理论。适用场景包括音乐学习者、音乐制作人及教育工作者进行自我训练或教学辅助。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-12T02:34:38.867188+00:00"
+    },
+    {
+      "title": "Tailwind and slop apps",
+      "source": "hackernews-top",
+      "url": "https://briandouglas.ie/llm-tailwind-template/",
+      "hn_url": "https://news.ycombinator.com/item?id=48496483",
+      "description": "",
+      "hn_score": 42,
+      "comments": 21,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "该条目讨论Tailwind CSS与“slop apps”（低质量、快速生成的应用程序）的结合现象。核心问题是：开发者使用Tailwind等工具快速构建UI，但往往导致应用缺乏深度和独特性，沦为“slop”。技术亮点在于Tailwind的实用优先（utility-first）CSS框架能高效生成一致界面，但过度依赖易产生同质化。适用场景：快速原型开发或对UI质量要求不高的内部工具，但需警惕在面向用户的产品中滥用。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-12T02:34:41.554725+00:00"
+    },
+    {
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "source": "hackernews-top",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "hn_url": "https://news.ycombinator.com/item?id=48462070",
+      "description": "",
+      "hn_score": 248,
+      "comments": 110,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "macOS 27 Beta 更新破坏了 Asahi Linux 的启动能力，该问题影响在 Apple Silicon Mac 上双系统运行 Asahi Linux 的用户。核心原因是新版 macOS 修改了引导加载程序或固件接口，导致 Asahi Linux 的 GRUB 或 EFI 引导链失效。目前社区正在寻找临时修复方案，但官方尚未发布补丁。适用场景：Apple Silicon Mac 用户需谨慎升级 macOS Beta 以避免 Linux 系统无法启动。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-12T02:34:44.319807+00:00"
+    },
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "source": "hackernews-top",
+      "url": "https://mrbruh.com/amd2/",
+      "hn_url": "https://news.ycombinator.com/item?id=48492215",
+      "description": "",
+      "hn_score": 228,
+      "comments": 99,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "该条目披露了AMD处理器中一个拒绝修复的远程代码执行漏洞（RCE），涉及SMM（系统管理模式）权限提升。核心问题在于AMD认为该漏洞利用难度高且需物理访问，因此不予修复，但研究者展示了通过特定攻击链实现远程利用的可能性。技术亮点在于详细分析了SMM内存保护机制的绕过方法。适用场景为安全研究人员评估AMD平台风险及企业制定硬件安全策略。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-12T02:34:46.815698+00:00"
+    },
+    {
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "source": "hackernews-top",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "hn_url": "https://news.ycombinator.com/item?id=48492210",
+      "description": "",
+      "hn_score": 241,
+      "comments": 110,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "Claude Fable 5 是 Anthropic 发布的 Claude 模型系列第五代，在编程任务上取得中等水平结果。它解决的是提升代码生成与理解能力的问题。核心技术亮点包括改进的推理架构和训练数据优化，适用于需要代码辅助的开发场景，如自动补全、bug 修复和代码解释。",
+      "tags": [
+        "code-generation",
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-12T02:34:48.988293+00:00"
+    },
+    {
+      "title": "Lines of code got a better publicist",
+      "source": "hackernews-top",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "hn_url": "https://news.ycombinator.com/item?id=48489402",
+      "description": "",
+      "hn_score": 362,
+      "comments": 248,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "文章讨论代码行数作为软件工程度量指标的局限性，并介绍一种更合理的替代方案——'代码变更影响度'（Code Change Impact），该指标结合变更频率、依赖关系和测试覆盖率来评估代码实际价值。核心亮点是提出动态权重模型，避免传统LOC指标被滥用。适用场景包括代码审查、团队绩效评估和项目管理。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-12T02:34:51.678373+00:00"
+    },
+    {
+      "title": "Making a vintage LLM from scratch",
+      "source": "hackernews-top",
+      "url": "https://crlf.link/log/entries/260525-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=48487829",
+      "description": "",
+      "hn_score": 25,
+      "comments": 3,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "这是一篇从零开始构建复古风格LLM的技术教程，旨在通过简化实现过程帮助理解早期语言模型的核心原理。文章详细介绍了模型架构、训练流程和推理方法，不依赖现代框架，适合教育或研究场景。核心技术亮点包括手动实现tokenizer、transformer模块和基础训练循环。适用场景为AI教育、原型验证或对LLM底层机制感兴趣的开发者。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-12T02:34:54.264833+00:00"
+    },
+    {
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "hn_url": "https://news.ycombinator.com/item?id=48452001",
+      "description": "",
+      "hn_score": 221,
+      "comments": 72,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "开发者成功在诺基亚N95手机上以30 FPS运行《半条命》游戏。解决在低性能移动设备上运行经典PC游戏的技术挑战。核心亮点包括针对Symbian系统的底层图形优化、内存管理及输入适配。适用于移动端游戏移植、复古游戏优化及嵌入式系统性能调优场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-12T02:34:56.395515+00:00"
+    },
+    {
+      "title": "How a new DSL may survive in the era of LLMs",
+      "source": "hackernews-top",
+      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+      "hn_url": "https://news.ycombinator.com/item?id=48490939",
+      "description": "",
+      "hn_score": 15,
+      "comments": 4,
+      "collected_at": "2026-06-12T02:33:15.855060+00:00",
+      "published_at": "2026-06-12T02:33:15.855060+00:00",
+      "summary": "探讨在LLM主导的编程范式下，新领域特定语言（DSL）如何生存与发展。核心问题是LLM可能削弱DSL的价值，但作者认为DSL可通过提供精确、可验证的约束和结构化接口，与LLM互补而非竞争。技术亮点包括利用DSL作为LLM输出验证层、减少幻觉、提升可解释性。适用场景为需要高可靠性、可审计性的AI辅助编程和自动化工作流。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-06-12T02:34:59.327170+00:00"
+    }
+  ]
+}

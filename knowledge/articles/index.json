@@ -1,7 +1,303 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 595,
+  "total_count": 615,
   "entries": [
+    {
+      "id": "kb-2026-06-12-001",
+      "title": "BuilderIO/skills",
+      "source": "github-trending",
+      "url": "https://github.com/BuilderIO/skills",
+      "file": "2026-06-12-builderioskills.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-002",
+      "title": "SkyBlue997/enableMacosAI",
+      "source": "github-trending",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "file": "2026-06-12-skyblue997enablemacosai.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-003",
+      "title": "khrisat/text-humanizer",
+      "source": "github-trending",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "file": "2026-06-12-khrisattext-humanizer.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "fine-tuning"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-004",
+      "title": "worenbudaoni/rag-study-helper",
+      "source": "github-trending",
+      "url": "https://github.com/worenbudaoni/rag-study-helper",
+      "file": "2026-06-12-worenbudaonirag-study-helper.json",
+      "tags": [
+        "rag",
+        "vector-database",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-005",
+      "title": "ApodexAI/AgentHarness",
+      "source": "github-trending",
+      "url": "https://github.com/ApodexAI/AgentHarness",
+      "file": "2026-06-12-apodexaiagentharness.json",
+      "tags": [
+        "benchmark",
+        "agent",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-006",
+      "title": "chubbyguan/chubbyskills",
+      "source": "github-trending",
+      "url": "https://github.com/chubbyguan/chubbyskills",
+      "file": "2026-06-12-chubbyguanchubbyskills.json",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "rag",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-007",
+      "title": "taisly/agent",
+      "source": "github-trending",
+      "url": "https://github.com/taisly/agent",
+      "file": "2026-06-12-taislyagent.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-008",
+      "title": "B1lli/remove-ai-flavor-writing-skill",
+      "source": "github-trending",
+      "url": "https://github.com/B1lli/remove-ai-flavor-writing-skill",
+      "file": "2026-06-12-b1lliremove-ai-flavor-writing-skill.json",
+      "tags": [
+        "ai-assistant",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-009",
+      "title": "Claude Fable is relentlessly proactive",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "file": "2026-06-12-claude-fable-is-relentlessly-proactive.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-010",
+      "title": "Show HN: Homebrew 6.0.0",
+      "source": "hackernews-top",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "file": "2026-06-12-show-hn-homebrew-600.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-011",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "source": "hackernews-top",
+      "url": "https://fablepool.com",
+      "file": "2026-06-12-show-hn-fablepool-pool-money-behind-a-pr.json",
+      "tags": [
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-012",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "source": "hackernews-top",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "file": "2026-06-12-if-you-are-asking-for-human-attention-de.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-013",
+      "title": "MiMo Code is now released and open-source",
+      "source": "hackernews-top",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "file": "2026-06-12-mimo-code-is-now-released-and-open-sourc.json",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-014",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "file": "2026-06-12-anthropic-apologizes-for-invisible-claud.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-015",
+      "title": "Software is made between commits",
+      "source": "hackernews-top",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "file": "2026-06-12-software-is-made-between-commits.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-016",
+      "title": "The RCE that AMD wouldn't fix",
+      "source": "hackernews-top",
+      "url": "https://mrbruh.com/amd2/",
+      "file": "2026-06-12-the-rce-that-amd-wouldnt-fix.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-017",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "source": "hackernews-top",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "file": "2026-06-12-claude-fable-5-mid-tier-results-on-codin.json",
+      "tags": [
+        "code-generation",
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-018",
+      "title": "Lines of code got a better publicist",
+      "source": "hackernews-top",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "file": "2026-06-12-lines-of-code-got-a-better-publicist.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-019",
+      "title": "Making a vintage LLM from scratch",
+      "source": "hackernews-top",
+      "url": "https://crlf.link/log/entries/260525-1/",
+      "file": "2026-06-12-making-a-vintage-llm-from-scratch.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
+    {
+      "id": "kb-2026-06-12-020",
+      "title": "How a new DSL may survive in the era of LLMs",
+      "source": "hackernews-top",
+      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+      "file": "2026-06-12-how-a-new-dsl-may-survive-in-the-era-of-.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-06-12T02:34:59.351665+00:00"
+    },
     {
       "id": "kb-2026-06-11-001",
       "title": "ziqihe10-droid/xuefeng-agent",
@@ -8819,5 +9115,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-11T02:39:35.370973+00:00"
+  "last_updated": "2026-06-12T02:34:59.396609+00:00"
 }
