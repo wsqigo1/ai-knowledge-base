@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-13-011",
+  "title": "Slightly reducing the sloppiness of AI generated front end",
+  "source": "hackernews-top",
+  "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+  "summary": "该项目针对AI生成前端代码的“松散”问题，通过引入更严格的类型约束、组件化模板和样式规范，减少AI输出中的不一致性和冗余代码。核心亮点是提供一套可插拔的规则引擎，自动修正AI生成的HTML/CSS/JS，提升代码质量。适用于需要快速原型开发但要求代码可维护性的场景，如内部工具或MVP构建。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-13T02:14:27.266131+00:00",
+  "analyzed_at": "2026-06-13T02:15:37.928527+00:00",
+  "organized_at": "2026-06-13T02:15:51.867848+00:00",
+  "status": "published"
+}

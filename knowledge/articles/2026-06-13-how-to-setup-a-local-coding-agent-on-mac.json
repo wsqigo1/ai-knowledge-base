@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-13-010",
+  "title": "How to setup a local coding agent on macOS",
+  "source": "hackernews-top",
+  "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+  "summary": "该文章介绍如何在 macOS 上搭建本地 coding agent，解决开发者对私有、离线代码辅助工具的需求。核心技术亮点包括利用 local LLM（如 Ollama）与开源 agent 框架（如 LangChain）集成，实现代码生成、解释和调试。适用场景为需要保护代码隐私或离线工作的个人开发者。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-13T02:14:27.266131+00:00",
+  "analyzed_at": "2026-06-13T02:15:23.628374+00:00",
+  "organized_at": "2026-06-13T02:15:51.867848+00:00",
+  "status": "published"
+}

@@ -1,0 +1,468 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-13T02:14:29.204740+00:00",
+  "date": "2026-06-13",
+  "count": 20,
+  "items": [
+    {
+      "title": "DietrichGebert/ponytail",
+      "source": "github-trending",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 946,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-13T01:43:34Z",
+      "summary": "Ponytail 是一个 Claude Code 插件，通过注入特定系统提示词，让 AI 代理模拟资深开发者的思维模式——优先选择不写代码的解决方案。核心亮点在于利用 prompt-engineering 改变 agent 的决策倾向，减少不必要的代码生成，提升效率。适用于需要 AI 辅助但希望避免过度工程化的开发场景，尤其适合代码审查、重构建议或简单任务自动化。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-13T02:14:31.650468+00:00"
+    },
+    {
+      "title": "GordenSun/GordenSuperPPTSkills",
+      "source": "github-trending",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stars": 846,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-07T16:26:51Z",
+      "summary": "GordenSun/GordenSuperPPTSkills 是一个基于GPT生成豪华图片格式PPT并转换为完全可编辑PPTX文件的Python工具。它解决了传统AI生成PPT格式不兼容、不可编辑的问题，核心技术亮点包括利用GPT生成高质量图片内容，再通过转换算法实现PPTX格式的完整还原。适用场景包括快速制作演示文稿、自动化报告生成等。",
+      "tags": [
+        "code-generation",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-13T02:14:33.532840+00:00"
+    },
+    {
+      "title": "apple/coreai-models",
+      "source": "github-trending",
+      "url": "https://github.com/apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "stars": 834,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-13T01:19:11Z",
+      "summary": "Apple 开源的 CoreAI 模型项目，提供模型导出配方、Python 原语和 Swift 运行时工具，用于在 Apple 设备上高效运行 AI 模型。核心技术亮点包括：支持模型格式转换与优化（如 Core ML 导出）、Python 端模型预处理与后处理原语、以及 Swift 端轻量级推理运行时。适用于 iOS/macOS 等 Apple 生态下的设备端 AI 推理场景，如实时图像分类、自然语言处理等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-13T02:14:35.736031+00:00"
+    },
+    {
+      "title": "JimLiu/baoyu-design",
+      "source": "github-trending",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "stars": 830,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-11T17:09:14Z",
+      "summary": "Baoyu Design 是一个开源项目，将 Claude Design 的 UI 设计能力作为 Agent Skill 本地化运行，支持 Cursor、Claude Code 等工具。它解决用户无法在 claude.ai 外使用 Claude 设计功能的问题，核心亮点是生成自包含 HTML 的 UI 模型、原型、演示文稿和线框图，无需依赖云端服务。最佳搭配 Opus 4.8 模型，适用于需要快速产出高质量 UI 原型的开发者和设计师。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-13T02:14:37.820294+00:00"
+    },
+    {
+      "title": "SkyBlue997/enableMacosAI",
+      "source": "github-trending",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "stars": 577,
+      "language": "Shell",
+      "topics": [
+        "apple-intelligence"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T11:53:30Z",
+      "summary": "国行 Mac 一键开启完整 Apple Intelligence（端侧 + Private Cloud Compute 云端）的工具，解决国行设备因区域限制无法使用 Apple AI 功能的问题。核心技术亮点为自动化脚本，通过修改系统配置和启用云端推理端点，无需越狱或复杂操作。适用场景：国行 Apple Silicon Mac 用户需本地化使用 Apple 智能功能，如写作辅助、图像生成等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-13T02:14:40.055853+00:00"
+    },
+    {
+      "title": "plannotator/effective-html",
+      "source": "github-trending",
+      "url": "https://github.com/plannotator/effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "stars": 488,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "skills"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T18:35:54Z",
+      "summary": "plannotator/effective-html 是一个为 AI 代理设计的技能（skill），用于生成优雅简洁的 HTML 计划、架构图或其他可视化内容。它解决了 AI 代理在生成结构化 HTML 输出时缺乏一致性和美观性的问题。核心技术亮点是提供了一套轻量级的 HTML 模板和指令，使代理能快速输出清晰、可读的 HTML 文档。适用场景包括 AI 辅助的文档生成、架构设计、以及需要代理生成可视化内容的自动化工作流。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-13T02:14:42.237939+00:00"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate",
+      "source": "github-trending",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stars": 481,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-08T10:24:52Z",
+      "summary": "xiaohuailabs/xiaohu-video-translate 是一个开源 Python 工具，通过一句话指令自动完成外语视频的下载、语音转写、翻译、润色和字幕烧录，全程本地运行，转写阶段无需 API 费用。核心技术亮点包括集成 whisper 进行本地语音识别、调用本地或云端 LLM 进行翻译润色、以及 ffmpeg 实现字幕嵌入。适用于个人用户快速制作外语视频的中文字幕，尤其适合隐私敏感或需要离线处理的场景。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-13T02:14:44.469616+00:00"
+    },
+    {
+      "title": "khrisat/text-humanizer",
+      "source": "github-trending",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "stars": 436,
+      "language": "Python",
+      "topics": [
+        "ai-detection",
+        "ai-detection-bypasser",
+        "ai-humanizer",
+        "humanizer",
+        "humanizer-ai",
+        "humanizer-de",
+        "text-humanizer"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-11T12:56:14Z",
+      "summary": "khrisat/text-humanizer 是一个开源AI文本人性化工具，旨在将AI生成内容改写为难以被Turnitin、GPTZero等检测服务识别的形式。核心技术基于Python实现，通过调整文本的统计特征、句法结构和词汇多样性，模拟人类写作模式。适用于需要规避AI检测的学术写作、内容创作等场景，但需注意伦理边界。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-06-13T02:14:46.375828+00:00"
+    },
+    {
+      "title": "ziqihe10-droid/xuefeng-agent",
+      "source": "github-trending",
+      "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+      "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+      "stars": 395,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-11T19:21:39Z",
+      "summary": "ziqihe10-droid/xuefeng-agent 是一个基于 AI 的高考志愿顾问项目，通过追问式对话分析用户需求，提供真实、直接的志愿填报建议。核心技术亮点在于利用 large-language-model 进行多轮交互推理，结合 agent 架构实现动态追问与信息整合，解决传统志愿填报工具缺乏个性化分析和坦诚反馈的问题。适用场景为高考考生及家长在志愿填报时获取深度、可信的决策支持。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-13T02:14:48.544055+00:00"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-money",
+      "source": "github-trending",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "stars": 275,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T01:21:53Z",
+      "summary": "XBuilderLAB/cheat-on-money 是一个基于 AI 的兼职信息反诈验证工具，核心解决 AI 时代兼职信息真伪难辨的问题。技术亮点包括：需求信号反推（从招聘描述逆向推断真实意图）、实时时效核查（动态验证信息有效性）、反诈 rubric（结构化评估规则）以及个性化校准环（根据用户反馈持续优化模型）。适用场景为求职者、自由职业者及平台运营方，用于快速过滤虚假兼职信息。",
+      "tags": [
+        "ai-assistant",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-06-13T02:14:50.509489+00:00"
+    },
+    {
+      "title": "coder/boo",
+      "source": "github-trending",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "stars": 273,
+      "language": "Zig",
+      "topics": [
+        "ai",
+        "coding",
+        "ghostty",
+        "multiplexer",
+        "screen",
+        "terminal"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-13T00:58:10Z",
+      "summary": "coder/boo 是一个基于 libghostty 构建的 GNU screen 风格终端复用器，使用 Zig 语言开发。它解决了终端会话管理中的多任务并行与持久化问题，核心亮点在于利用 libghostty 实现高性能终端渲染，同时保持轻量级和跨平台兼容性。适用于需要高效终端工作流的开发者，尤其在 AI 编码和 Ghostty 生态中。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-13T02:14:52.414390+00:00"
+    },
+    {
+      "title": "BuilderIO/skills",
+      "source": "github-trending",
+      "url": "https://github.com/BuilderIO/skills",
+      "description": "Skills for coding agents",
+      "stars": 266,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T20:58:02Z",
+      "summary": "BuilderIO/skills 是一个开源项目，旨在为编码智能体（coding agents）提供预定义的技能集合。它解决了智能体在代码生成任务中缺乏标准化、可复用能力模块的问题。核心技术亮点是将常见编码操作（如代码审查、测试生成、重构等）封装为可组合的技能模块，基于 JavaScript 实现，便于集成到现有工作流。适用场景包括自动化代码审查、持续集成中的智能辅助、以及开发者工具链的增强。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-13T02:14:54.453095+00:00"
+    },
+    {
+      "title": "valkor-ai/loom",
+      "source": "github-trending",
+      "url": "https://github.com/valkor-ai/loom",
+      "description": "Loop engineering for agentic software delivery.",
+      "stars": 248,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T11:21:56Z",
+      "summary": "valkor-ai/loom 是一个基于 TypeScript 的开源项目，专注于为智能体软件交付提供循环工程（Loop engineering）能力。它解决的是在复杂 AI 工作流中，如何通过循环迭代机制优化智能体决策与执行效率的问题。核心技术亮点包括可配置的循环控制逻辑、状态管理以及与 LLM 的深度集成，支持动态调整智能体行为。适用场景包括自动化软件交付流水线、多步骤推理任务以及需要持续反馈优化的 AI 代理系统。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-13T02:14:56.535662+00:00"
+    },
+    {
+      "title": "TwoSevenOneT/EDRChoker",
+      "source": "github-trending",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker",
+      "description": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "stars": 218,
+      "language": "C#",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-07T09:44:53Z",
+      "summary": "EDRChoker 利用 Windows QoS 策略（Pacer.sys）限制端点检测与响应（EDR）代理与服务器的连接，实现绕过安全监控。核心通过流量整形技术干扰 EDR 通信，适用于红队渗透测试或安全研究场景，验证 EDR 网络依赖的脆弱性。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-13T02:14:58.248456+00:00"
+    },
+    {
+      "title": "alchaincyf/fanbox",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "stars": 212,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "codex",
+        "electron",
+        "file-manager",
+        "local-first",
+        "macos",
+        "terminal",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T16:25:17Z",
+      "summary": "fanbox 是一个基于 Electron 构建的 vibe coding 驾驶舱工具，提供左侧文件浏览、右侧/下方终端代理控制、中间实时变更预览的集成界面。它解决了 AI 辅助编程（如 Claude、Codex）中缺乏统一工作流视图的问题，让开发者能同时管理文件、执行命令并观察每次代码修改。核心技术亮点是采用 Electron 实现跨平台桌面应用，通过 agent 机制连接 AI 模型与终端。适用场景包括 AI 驱动的代码生成、调试和迭代开发。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-13T02:15:00.732365+00:00"
+    },
+    {
+      "title": "s0912758806p/agentic-sop-to-work",
+      "source": "github-trending",
+      "url": "https://github.com/s0912758806p/agentic-sop-to-work",
+      "description": "Turn human SOPs into deterministic, gated agentic workflows — a Claude Code plugin.",
+      "stars": 159,
+      "language": "Python",
+      "topics": [
+        "agentic-workflow",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-plugin-agenticsop",
+        "sop"
+      ],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-12T08:55:24Z",
+      "summary": "agentic-sop-to-work 是一个 Claude Code 插件，将人类标准操作流程（SOP）转化为确定性的、带门控机制的 agentic 工作流。它解决传统 AI 工作流不可控、难以复现的问题，核心通过解析 SOP 步骤并映射为带条件判断的自动化流程，确保执行结果一致。适用于需要严格遵循流程的企业级任务自动化场景，如运维、数据处理等。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "claude-code",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-13T02:15:02.805740+00:00"
+    },
+    {
+      "title": "emollick/concord",
+      "source": "github-trending",
+      "url": "https://github.com/emollick/concord",
+      "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "stars": 157,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-10T01:06:05Z",
+      "summary": "emollick/concord 是一个用于定性文本分析的 JavaScript 工具，旨在解决传统人工编码分析效率低、一致性差的问题。其核心技术亮点包括：利用 AI 模型自动编码语料库、提供黄金标准校准功能、采用 DSL/PPI 校正统计方法提升结果可靠性，并引入 Evidence Ladder 框架辅助论证。适用于社会科学研究、市场调研、用户反馈分析等需要结构化文本分析的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-06-13T02:15:04.910490+00:00"
+    },
+    {
+      "title": "taisly/agent",
+      "source": "github-trending",
+      "url": "https://github.com/taisly/agent",
+      "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "stars": 153,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-11T07:08:07Z",
+      "summary": "Taisly Agent Kit 是一个开源SDK和CLI工具集，用于构建能通过Taisly平台自动发布视频的AI agent。它解决了AI生成内容从创作到分发的自动化衔接问题，核心亮点在于将agent能力与视频发布工作流深度集成，提供JavaScript/TypeScript接口。适用于需要批量生成并自动发布视频的社交媒体运营、内容营销等场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-13T02:15:06.989480+00:00"
+    },
+    {
+      "title": "DanMcInerney/architect-loop",
+      "source": "github-trending",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "stars": 149,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-13T01:53:20Z",
+      "summary": "architect-loop 是一个跨供应商 AI 代理循环系统，利用 Claude Fable 5 作为架构师、GPT-5.5 Codex 作为构建者，结合仓库作为记忆模块，实现研究驱动的 Claude Code 技能。核心亮点在于通过多模型协作（架构设计+代码生成）和持久化记忆机制，解决单一模型在复杂软件开发中的局限性。适用场景包括需要长期维护的代码项目、多步骤推理任务以及跨模型能力整合的自动化工作流。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-13T02:15:09.283138+00:00"
+    },
+    {
+      "title": "ApodexAI/AgentHarness",
+      "source": "github-trending",
+      "url": "https://github.com/ApodexAI/AgentHarness",
+      "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks.",
+      "stars": 132,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-13T02:14:27.089400+00:00",
+      "published_at": "2026-06-08T15:56:45Z",
+      "summary": "AgentHarness是ApodexAI开发的评估框架，用于在公开深度研究基准上测试Apodex-1.0模型。它解决AI代理在复杂研究任务中缺乏标准化评估的问题，核心亮点包括支持多步骤推理、工具调用和长上下文场景的自动化评测。适用于LLM代理性能对比、研究型AI系统开发及基准测试。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-13T02:15:11.488497+00:00"
+    }
+  ]
+}

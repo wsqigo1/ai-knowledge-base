@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-13-009",
+  "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+  "source": "hackernews-top",
+  "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+  "summary": "本文介绍苹果公司如何将TrueType字体提示解释器从C++迁移到Swift，解决原有代码维护困难与性能瓶颈问题。核心技术亮点包括利用Swift的内存安全特性消除缓冲区溢出风险，通过值类型和协议导向编程重构解释器状态机，以及使用Swift的编译时优化提升解释执行效率。适用场景为需要高安全性字体渲染的苹果操作系统，以及大型遗留系统向现代语言迁移的工程实践。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-06-13T02:14:27.266131+00:00",
+  "analyzed_at": "2026-06-13T02:15:21.752266+00:00",
+  "organized_at": "2026-06-13T02:15:51.867848+00:00",
+  "status": "published"
+}

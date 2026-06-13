@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-13-008",
+  "title": "Twenty One Zero-Days in FFmpeg",
+  "source": "hackernews-top",
+  "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+  "summary": "FFmpeg 中发现 21 个零日漏洞，涉及内存损坏、越界读取等问题。解决 FFmpeg 作为广泛使用的多媒体处理库存在的安全风险。核心技术亮点包括漏洞类型覆盖解析器、解码器及复用器，部分可导致远程代码执行。适用场景为安全审计、漏洞挖掘及多媒体软件供应链防护。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-06-13T02:14:27.266131+00:00",
+  "analyzed_at": "2026-06-13T02:15:19.183654+00:00",
+  "organized_at": "2026-06-13T02:15:51.867848+00:00",
+  "status": "published"
+}

@@ -1,7 +1,232 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 615,
+  "total_count": 630,
   "entries": [
+    {
+      "id": "kb-2026-06-13-001",
+      "title": "DietrichGebert/ponytail",
+      "source": "github-trending",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "file": "2026-06-13-dietrichgebertponytail.json",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-002",
+      "title": "plannotator/effective-html",
+      "source": "github-trending",
+      "url": "https://github.com/plannotator/effective-html",
+      "file": "2026-06-13-plannotatoreffective-html.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-003",
+      "title": "coder/boo",
+      "source": "github-trending",
+      "url": "https://github.com/coder/boo",
+      "file": "2026-06-13-coderboo.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-004",
+      "title": "alchaincyf/fanbox",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "file": "2026-06-13-alchaincyffanbox.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-005",
+      "title": "s0912758806p/agentic-sop-to-work",
+      "source": "github-trending",
+      "url": "https://github.com/s0912758806p/agentic-sop-to-work",
+      "file": "2026-06-13-s0912758806pagentic-sop-to-work.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "claude-code",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-006",
+      "title": "DanMcInerney/architect-loop",
+      "source": "github-trending",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "file": "2026-06-13-danmcinerneyarchitect-loop.json",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-007",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "source": "hackernews-top",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "file": "2026-06-13-crispr-tech-selectively-shreds-cancer-ce.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-008",
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "source": "hackernews-top",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "file": "2026-06-13-twenty-one-zero-days-in-ffmpeg.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-009",
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "source": "hackernews-top",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "file": "2026-06-13-swift-at-apple-migrating-the-truetype-hi.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-010",
+      "title": "How to setup a local coding agent on macOS",
+      "source": "hackernews-top",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "file": "2026-06-13-how-to-setup-a-local-coding-agent-on-mac.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-011",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "source": "hackernews-top",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "file": "2026-06-13-slightly-reducing-the-sloppiness-of-ai-g.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-012",
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "source": "hackernews-top",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "file": "2026-06-13-dont-you-just-upload-it-to-chatgpt.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-013",
+      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+      "source": "hackernews-top",
+      "url": "https://bitboard.work/",
+      "file": "2026-06-13-launch-hn-bitboard-yc-p25-analytics-work.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-014",
+      "title": "Adaptive PDFs",
+      "source": "hackernews-top",
+      "url": "https://sgaud.com/texts/pdf",
+      "file": "2026-06-13-adaptive-pdfs.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
+    {
+      "id": "kb-2026-06-13-015",
+      "title": "Maxproof",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "file": "2026-06-13-maxproof.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-13T02:15:51.867848+00:00"
+    },
     {
       "id": "kb-2026-06-12-001",
       "title": "BuilderIO/skills",
@@ -9115,5 +9340,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-12T02:34:59.396609+00:00"
+  "last_updated": "2026-06-13T02:15:51.906946+00:00"
 }
