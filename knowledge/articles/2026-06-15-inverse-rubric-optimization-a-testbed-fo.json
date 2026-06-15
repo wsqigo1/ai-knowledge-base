@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-15-015",
+  "title": "Inverse Rubric Optimization: A testbed for agent science",
+  "source": "hackernews-top",
+  "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+  "summary": "Inverse Rubric Optimization 是一个用于 agent 科学研究的测试平台，旨在解决评估和优化多步骤 agent 行为时缺乏标准化基准的问题。其核心技术亮点是通过反向评分规则优化，自动推导 agent 决策的潜在评估标准，从而改进 agent 的推理和工具使用策略。适用场景包括 multi-agent 系统的性能调优、benchmark 设计以及 agent 行为可解释性研究。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "benchmark",
+    "reasoning",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-15T02:42:51.755441+00:00",
+  "analyzed_at": "2026-06-15T02:44:35.627322+00:00",
+  "organized_at": "2026-06-15T02:44:38.536729+00:00",
+  "status": "published"
+}

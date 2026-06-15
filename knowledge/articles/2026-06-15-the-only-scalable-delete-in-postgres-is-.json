@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-15-010",
+  "title": "The only scalable delete in Postgres is DROP TABLE",
+  "source": "hackernews-top",
+  "url": "https://planetscale.com/blog/the-only-scalable-delete",
+  "summary": "文章指出在Postgres中，唯一真正可扩展的删除操作是DROP TABLE，因为其他删除方式（如DELETE或TRUNCATE）在数据量巨大时会导致性能问题或无法有效回收空间。核心亮点是揭示了Postgres中删除操作的可扩展性瓶颈，并提供了架构设计上的启示。适用场景是Postgres数据库架构设计、数据清理策略优化以及大规模数据管理。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-15T02:42:51.755441+00:00",
+  "analyzed_at": "2026-06-15T02:44:10.351950+00:00",
+  "organized_at": "2026-06-15T02:44:38.536729+00:00",
+  "status": "published"
+}

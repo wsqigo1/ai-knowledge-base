@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-15T02:42:54.521565+00:00",
+  "date": "2026-06-15",
+  "count": 20,
+  "items": [
+    {
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "source": "hackernews-top",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "hn_url": "https://news.ycombinator.com/item?id=48533848",
+      "description": "",
+      "hn_score": 210,
+      "comments": 82,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "本文讨论Kobo电子阅读器与Adobe DRM（数字版权管理）之间的兼容性问题，导致用户无法正常阅读ePub格式电子书。核心问题在于Kobo设备对Adobe DRM的解析存在缺陷，而非ePub文件本身。技术亮点是揭示了DRM实现差异对跨平台阅读体验的影响。适用场景：电子书格式兼容性调试、数字版权管理技术分析。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-06-15T02:43:49.954583+00:00"
+    },
+    {
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "source": "hackernews-top",
+      "url": "https://github.com/tamnd/kage",
+      "hn_url": "https://news.ycombinator.com/item?id=48529990",
+      "description": "",
+      "hn_score": 416,
+      "comments": 92,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "Kage 是一个开源工具，能将任何网站快照为单个二进制文件以实现离线查看。它解决的是网站内容离线访问困难的问题，核心技术亮点包括将整个网站（包括资源、交互逻辑）打包进一个可执行文件，无需依赖浏览器或网络。适用场景包括文档存档、技术手册离线阅读、演示环境等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-06-15T02:43:52.269376+00:00"
+    },
+    {
+      "title": "Firewood Splitting Simulator",
+      "source": "hackernews-top",
+      "url": "https://screen.toys/firewood/",
+      "hn_url": "https://news.ycombinator.com/item?id=48471638",
+      "description": "",
+      "hn_score": 661,
+      "comments": 217,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "Firewood Splitting Simulator 是一个模拟劈柴过程的物理交互项目，旨在通过逼真的物理引擎模拟劈柴的力学反馈和碎片飞溅效果。其核心技术亮点包括基于刚体动力学和碰撞检测的实时模拟，以及可调节的木材纹理和工具参数。适用于游戏开发、物理教学演示或虚拟现实训练场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-15T02:43:54.603623+00:00"
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "source": "hackernews-top",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "hn_url": "https://news.ycombinator.com/item?id=48528371",
+      "description": "",
+      "hn_score": 290,
+      "comments": 154,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "里约热内卢声称自主研发的LLM被揭露为现有模型的合并版本，引发开源社区对模型原创性和透明度的讨论。该事件暴露了当前LLM开发中模型溯源和合规性问题，核心争议在于如何定义和验证“自研”模型。技术亮点在于社区通过分析模型权重和架构快速识别合并痕迹。适用场景：开源模型审计、AI治理政策制定、学术诚信评估。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-15T02:43:57.153817+00:00"
+    },
+    {
+      "title": "AI is code – and can't be prompted into being smarter",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "hn_url": "https://news.ycombinator.com/item?id=48532178",
+      "description": "",
+      "hn_score": 87,
+      "comments": 51,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "文章指出AI本质是代码系统，不能仅通过提示工程（prompt engineering）变得更智能。它解决的是当前过度依赖提示优化而忽视底层模型架构和训练数据质量的问题。核心亮点是强调AI能力提升需要改进代码、算法和训练流程，而非单纯调整提示。适用场景包括AI系统设计、模型开发与优化讨论。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-15T02:43:59.535280+00:00"
+    },
+    {
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "source": "hackernews-top",
+      "url": "https://traceapp.info",
+      "hn_url": "https://news.ycombinator.com/item?id=48521236",
+      "description": "",
+      "hn_score": 105,
+      "comments": 44,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "Trace 是一款 macOS 离线会议转录工具，支持在通话中实时标记关键片段。解决在线会议记录依赖网络、隐私风险及事后回溯效率低的问题。核心技术亮点：完全本地运行，无需联网；提供实时标记功能，允许用户在会议进行中即时标注重要时刻。适用场景：注重隐私的团队会议、需要快速回顾关键讨论点的远程工作场景。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-15T02:44:02.091435+00:00"
+    },
+    {
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "description": "",
+      "hn_score": 164,
+      "comments": 614,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "这是Hacker News上2026年6月的月度讨论帖，邀请开发者分享当前正在进行的项目。核心是社区驱动的项目展示与交流，涵盖各种技术方向。亮点在于汇集了众多实际开发中的创意和工具，包括AI应用、Web开发、开源库等。适用场景：开发者寻找灵感、发现新工具、参与技术讨论或推广自己的项目。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-15T02:44:04.816003+00:00"
+    },
+    {
+      "title": "Formal methods and the future of programming",
+      "source": "hackernews-top",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48526633",
+      "description": "",
+      "hn_score": 203,
+      "comments": 74,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "形式化方法（Formal methods）是一种基于数学严格性来规范、设计和验证软件系统的方法论。它解决传统编程中因模糊需求和不完整测试导致的隐蔽缺陷问题，尤其在高可靠性场景（如航空航天、自动驾驶、金融系统）中至关重要。核心技术亮点包括使用逻辑推理、模型检验和定理证明来确保程序行为与规范一致，从而在开发早期发现错误。适用场景包括安全关键系统、协议验证和复杂算法实现。",
+      "tags": [
+        "code-generation",
+        "reasoning",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-15T02:44:07.826914+00:00"
+    },
+    {
+      "title": "The only scalable delete in Postgres is DROP TABLE",
+      "source": "hackernews-top",
+      "url": "https://planetscale.com/blog/the-only-scalable-delete",
+      "hn_url": "https://news.ycombinator.com/item?id=48492822",
+      "description": "",
+      "hn_score": 138,
+      "comments": 49,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "文章指出在Postgres中，唯一真正可扩展的删除操作是DROP TABLE，因为其他删除方式（如DELETE或TRUNCATE）在数据量巨大时会导致性能问题或无法有效回收空间。核心亮点是揭示了Postgres中删除操作的可扩展性瓶颈，并提供了架构设计上的启示。适用场景是Postgres数据库架构设计、数据清理策略优化以及大规模数据管理。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-15T02:44:10.351950+00:00"
+    },
+    {
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "source": "hackernews-top",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "hn_url": "https://news.ycombinator.com/item?id=48535215",
+      "description": "",
+      "hn_score": 30,
+      "comments": 11,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "本文介绍了一种不含已知致幻成分的致幻蘑菇，其致幻机制尚未明确，可能涉及新型神经递质或受体相互作用。核心亮点在于挑战了传统致幻剂定义，为神经科学和药物研发提供新方向。适用场景包括基础神经生物学研究、新型精神活性物质探索及药物安全性评估。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-15T02:44:12.496112+00:00"
+    },
+    {
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "source": "hackernews-top",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "hn_url": "https://news.ycombinator.com/item?id=48527145",
+      "description": "",
+      "hn_score": 158,
+      "comments": 49,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "Zeroserve 项目通过集成 Caddy 兼容性，实现了 3 倍吞吐量提升和 70% 延迟降低。该项目旨在解决 AI 推理服务中 HTTP 代理与负载均衡的性能瓶颈，核心亮点是利用 Caddy 的高效路由和 TLS 终止能力优化请求处理。适用于需要高性能 AI 模型部署、低延迟推理服务的场景，如实时聊天、代码生成等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-15T02:44:14.914372+00:00"
+    },
+    {
+      "title": "FarOutCompany",
+      "source": "hackernews-top",
+      "url": "https://faroutcompany.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48527360",
+      "description": "",
+      "hn_score": 106,
+      "comments": 16,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "FarOutCompany 是一个开源项目，旨在解决远程团队协作中的沟通与任务管理碎片化问题。其核心技术亮点包括集成 AI 助手以自动总结讨论、生成会议纪要，并支持自定义工作流自动化。适用于分布式团队、自由职业者及小型企业，提升协作效率。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-15T02:44:17.017602+00:00"
+    },
+    {
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "hn_url": "https://news.ycombinator.com/item?id=48528029",
+      "description": "",
+      "hn_score": 294,
+      "comments": 70,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "作者使用M1 Max MacBook Pro，通过本地ML模型（如CLIP、Whisper）对669GB GoPro视频进行索引，实现内容搜索。解决海量视频手动查找困难的问题。核心技术亮点：利用本地运行的开源模型进行视频帧和音频的语义嵌入，无需云端API，保护隐私。适用场景：个人媒体库管理、户外运动视频检索、本地化AI应用开发。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-15T02:44:19.621927+00:00"
+    },
+    {
+      "title": "The Birth and Death of JavaScript (2014)",
+      "source": "hackernews-top",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "hn_url": "https://news.ycombinator.com/item?id=48526661",
+      "description": "",
+      "hn_score": 215,
+      "comments": 123,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "这是一篇2014年的历史回顾文章，探讨JavaScript语言的诞生背景、设计哲学及其潜在消亡趋势。核心解决开发者对JavaScript长期可行性的认知问题，通过分析语言从原型继承、事件驱动到异步编程的演进，揭示其作为浏览器唯一脚本语言的统治地位与性能瓶颈。技术亮点在于对JavaScript动态类型、函数式特性及原型链的深度剖析，并预言WebAssembly等替代技术的崛起。适用场景为编程语言历史研究、前端技术演进分析或语言设计对比讨论。",
+      "tags": [
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-15T02:44:22.892407+00:00"
+    },
+    {
+      "title": "Lisp's Influence on Ruby",
+      "source": "hackernews-top",
+      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+      "hn_url": "https://news.ycombinator.com/item?id=48491048",
+      "description": "",
+      "hn_score": 222,
+      "comments": 62,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "本文探讨了Lisp编程语言对Ruby语言设计的深远影响，重点分析了Ruby如何借鉴Lisp的闭包、代码块、动态类型和元编程等核心特性。解决了函数式编程思想在面向对象语言中的融合问题，核心技术亮点包括Ruby的块（block）与Lisp的lambda表达式对应、开放类与元编程能力。适用场景：编程语言设计研究、Ruby与Lisp开发者理解语言哲学、函数式编程爱好者。",
+      "tags": [
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-06-15T02:44:25.342964+00:00"
+    },
+    {
+      "title": "How to earn a billion dollars",
+      "source": "hackernews-top",
+      "url": "https://paulgraham.com/earn.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48526360",
+      "description": "",
+      "hn_score": 472,
+      "comments": 1431,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "这是一个关于如何赚取十亿美元的商业策略文章，而非技术内容。它探讨了通过规模化、市场定位和资本运作实现财富积累的通用原则。核心亮点在于分析高增长行业的商业模式和杠杆效应。适用场景为创业者或投资者寻求财富增长策略。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-15T02:44:27.300973+00:00"
+    },
+    {
+      "title": "Not everyone is using AI for everything",
+      "source": "hackernews-top",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "hn_url": "https://news.ycombinator.com/item?id=48527700",
+      "description": "",
+      "hn_score": 431,
+      "comments": 469,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "这是一篇反思AI过度炒作的文章，指出并非所有场景都需要AI介入。核心观点是：许多传统软件或简单规则系统在特定任务中比AI更高效、可靠且成本更低。文章通过案例说明，盲目追求AI可能导致过度工程化和资源浪费。技术亮点在于强调问题定义和解决方案匹配的重要性，而非技术本身。适用场景包括：低风险决策、数据稀缺或解释性要求高的领域，以及资源受限的团队。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-15T02:44:30.557206+00:00"
+    },
+    {
+      "title": "Linux 7.1",
+      "source": "hackernews-top",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "hn_url": "https://news.ycombinator.com/item?id=48528729",
+      "description": "",
+      "hn_score": 246,
+      "comments": 94,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "Linux 7.1 是 Linux 内核的次要版本更新，主要解决安全漏洞、驱动兼容性和性能回归问题。核心技术亮点包括改进的内存管理、文件系统优化（如 Btrfs 和 ext4 的稳定性修复）以及网络栈的增强。适用于需要稳定内核的生产环境、服务器部署和嵌入式系统升级场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-15T02:44:32.942462+00:00"
+    },
+    {
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "source": "hackernews-top",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48485277",
+      "description": "",
+      "hn_score": 26,
+      "comments": 0,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "Inverse Rubric Optimization 是一个用于 agent 科学研究的测试平台，旨在解决评估和优化多步骤 agent 行为时缺乏标准化基准的问题。其核心技术亮点是通过反向评分规则优化，自动推导 agent 决策的潜在评估标准，从而改进 agent 的推理和工具使用策略。适用场景包括 multi-agent 系统的性能调优、benchmark 设计以及 agent 行为可解释性研究。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "benchmark",
+        "reasoning",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-15T02:44:35.627322+00:00"
+    },
+    {
+      "title": "Bacteria can learn and form memories without a brain (Carnegie Mellon)",
+      "source": "hackernews-top",
+      "url": "https://phys.org/news/2026-06-bacteria-memories-brain.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48533339",
+      "description": "",
+      "hn_score": 23,
+      "comments": 3,
+      "collected_at": "2026-06-15T02:42:51.755441+00:00",
+      "published_at": "2026-06-15T02:42:51.755441+00:00",
+      "summary": "卡内基梅隆大学研究发现，细菌虽无大脑，却能通过类似神经元的信号传导机制形成记忆并学习。该研究通过观察细菌群体对刺激的响应模式，揭示了基于离子通道和化学信号传递的原始记忆形成过程。核心技术亮点在于发现细菌利用钙离子震荡编码信息，并能在无中枢神经系统的情况下实现长期行为适应。适用场景包括合成生物学、微生物智能控制及基础认知科学研究。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-06-15T02:44:38.512200+00:00"
+    }
+  ]
+}

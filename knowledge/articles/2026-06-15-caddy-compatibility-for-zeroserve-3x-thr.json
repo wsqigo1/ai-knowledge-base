@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-15-011",
+  "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+  "source": "hackernews-top",
+  "url": "https://su3.io/posts/zeroserve-caddy-compat",
+  "summary": "Zeroserve 项目通过集成 Caddy 兼容性，实现了 3 倍吞吐量提升和 70% 延迟降低。该项目旨在解决 AI 推理服务中 HTTP 代理与负载均衡的性能瓶颈，核心亮点是利用 Caddy 的高效路由和 TLS 终止能力优化请求处理。适用于需要高性能 AI 模型部署、低延迟推理服务的场景，如实时聊天、代码生成等。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-15T02:42:51.755441+00:00",
+  "analyzed_at": "2026-06-15T02:44:14.914372+00:00",
+  "organized_at": "2026-06-15T02:44:38.536729+00:00",
+  "status": "published"
+}

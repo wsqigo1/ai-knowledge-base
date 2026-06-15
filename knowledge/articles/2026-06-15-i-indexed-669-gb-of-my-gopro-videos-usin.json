@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-15-013",
+  "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=48528029",
+  "summary": "作者使用M1 Max MacBook Pro，通过本地ML模型（如CLIP、Whisper）对669GB GoPro视频进行索引，实现内容搜索。解决海量视频手动查找困难的问题。核心技术亮点：利用本地运行的开源模型进行视频帧和音频的语义嵌入，无需云端API，保护隐私。适用场景：个人媒体库管理、户外运动视频检索、本地化AI应用开发。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-15T02:42:51.755441+00:00",
+  "analyzed_at": "2026-06-15T02:44:19.621927+00:00",
+  "organized_at": "2026-06-15T02:44:38.536729+00:00",
+  "status": "published"
+}
