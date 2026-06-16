@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-16-010",
+  "title": "How TimescaleDB compresses time-series data",
+  "source": "hackernews-top",
+  "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+  "summary": "TimescaleDB 压缩时间序列数据的核心机制：通过列式存储、分段聚合（chunk-based compression）和类型特定编码（如 delta-delta、gorilla 算法）实现高压缩比。解决时序数据存储成本高、查询效率低的问题。亮点包括自动选择压缩策略、支持实时查询与压缩数据无缝混合。适用于 IoT、监控、金融等高频写入场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-16T02:45:01.957006+00:00",
+  "analyzed_at": "2026-06-16T02:46:30.300844+00:00",
+  "organized_at": "2026-06-16T02:46:41.209249+00:00",
+  "status": "published"
+}
