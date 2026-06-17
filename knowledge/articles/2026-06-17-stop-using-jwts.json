@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-17-010",
+  "title": "Stop Using JWTs",
+  "source": "hackernews-top",
+  "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+  "summary": "文章质疑JWT在Web认证中的过度使用，指出其无状态特性带来的令牌撤销、过期管理、签名算法漏洞等实际问题。核心观点是推荐使用基于数据库的会话令牌（如Redis）替代JWT，以简化安全性和可维护性。适用场景包括传统Web应用和API认证，尤其适合对令牌生命周期控制要求高的系统。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-17T02:41:45.727932+00:00",
+  "analyzed_at": "2026-06-17T02:42:50.934568+00:00",
+  "organized_at": "2026-06-17T02:43:11.536877+00:00",
+  "status": "published"
+}
