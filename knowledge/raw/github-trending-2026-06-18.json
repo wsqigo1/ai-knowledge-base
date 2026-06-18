@@ -1,0 +1,522 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-18T02:38:30.230308+00:00",
+  "date": "2026-06-18",
+  "count": 20,
+  "items": [
+    {
+      "title": "DietrichGebert/ponytail",
+      "source": "github-trending",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 32110,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T02:35:22Z",
+      "summary": "Ponytail 是一个 JavaScript 项目，通过注入特定 prompt 让 AI 代理（如 Claude）模仿“最懒资深开发者”的思维模式，核心是减少不必要的代码生成，优先考虑不写代码或复用现有方案。它解决 AI 过度生成代码、增加维护负担的问题，技术亮点在于通过 prompt engineering 改变 agent 行为，适用于代码审查、重构建议、架构决策等场景，提升开发效率。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-18T02:38:32.794350+00:00"
+    },
+    {
+      "title": "orange2ai/renwei-writing",
+      "source": "github-trending",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "stars": 774,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-13T07:49:49Z",
+      "summary": "renwei-writing 是一个 AI agent 技能，专注于编辑人类文本时保留其个人风格和“人味儿”。它解决 AI 写作常导致文本同质化、丧失作者个性与情感的问题。核心技术亮点包括基于 prompt-engineering 的精细控制，以及可能结合 large-language-model 的推理能力来识别并保留原文的独特表达。适用场景包括内容创作辅助、个人博客润色、社交媒体文案优化等需要保持作者原声的领域。",
+      "tags": [
+        "prompt-engineering",
+        "large-language-model",
+        "agent",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-18T02:38:35.217043+00:00"
+    },
+    {
+      "title": "vercel/eve",
+      "source": "github-trending",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "stars": 733,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "framework",
+        "harness",
+        "javascript",
+        "markdown",
+        "sandbox",
+        "typescript",
+        "vercel",
+        "workflows"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-18T02:09:19Z",
+      "summary": "vercel/eve 是一个基于 TypeScript 的 Agent 构建框架，旨在简化 AI 代理的开发流程。它通过提供统一的 harness 和 markdown 驱动的配置，解决 Agent 开发中状态管理、工具集成和部署复杂性的问题。核心技术亮点包括模块化架构、JavaScript 原生支持以及轻量级运行时，适用于快速构建可扩展的 AI 助手、自动化工作流和交互式代理应用。",
+      "tags": [
+        "agent",
+        "framework",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-18T02:38:37.587514+00:00"
+    },
+    {
+      "title": "nolangz/pixel2motion",
+      "source": "github-trending",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "stars": 721,
+      "language": "Python",
+      "topics": [
+        "ai-design-tools",
+        "animated-logo",
+        "brand-motion",
+        "claude-skill",
+        "codex-skill",
+        "html-animation",
+        "logo-animation",
+        "logo-motion",
+        "logo-reveal",
+        "motion-design",
+        "pixel-to-svg",
+        "raster-to-svg",
+        "svg-animation",
+        "svg-motion",
+        "vector-animation"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-18T02:29:56Z",
+      "summary": "pixel2motion 是一个将光栅 logo 转化为流畅 SVG 动画的 AI 工具，解决品牌 logo 从静态到动态的自动化设计问题。核心技术基于 Claude/Codex skill 实现矢量路径提取与动画参数生成，输出 HTML 演示、GIF/视频预览及运动质量证据。适用于品牌设计师、营销团队快速生成 logo 动画素材，降低手动逐帧制作成本。",
+      "tags": [
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-18T02:38:39.920960+00:00"
+    },
+    {
+      "title": "Plaer1/junction",
+      "source": "github-trending",
+      "url": "https://github.com/Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "stars": 500,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T16:39:19Z",
+      "summary": "Plaer1/junction 是一个 VS Code 聊天侧边栏扩展，用于集成本地 AI 编码代理。它解决开发者需在 IDE 内直接与本地 LLM 交互进行代码生成、审查和调试的问题。核心亮点是轻量级 TypeScript 实现，支持自定义代理配置，无需依赖云端 API。适用场景包括本地开发环境中的代码辅助、自动化任务和隐私敏感项目。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-18T02:38:42.313136+00:00"
+    },
+    {
+      "title": "DanMcInerney/architect-loop",
+      "source": "github-trending",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "stars": 500,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-13T01:53:20Z",
+      "summary": "architect-loop 是一个跨供应商 AI 代理循环系统，利用 Claude Fable 5 作为架构师、GPT-5.5 Codex 作为构建者，并以 GitHub 仓库作为记忆存储。核心亮点在于通过研究支持的方法实现多模型协作：一个模型负责高层设计，另一个负责代码生成，形成闭环迭代。适用场景包括复杂软件开发中的自动化架构设计与代码实现，尤其适合需要跨模型协同的 AI 辅助编程工作流。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-18T02:38:44.743621+00:00"
+    },
+    {
+      "title": "mrtooher/fable-mode",
+      "source": "github-trending",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "stars": 472,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T02:59:06Z",
+      "summary": "mrtooher/fable-mode 是一个为 Claude 设计的技能包，旨在激活类似 Fable 的智能体行为模式。它解决的是大语言模型在复杂任务中缺乏结构化规划和自我验证的问题。核心技术亮点包括显式多阶段规划、子智能体任务委派以及自我验证机制，从而提升任务执行的可靠性和可解释性。适用场景为需要复杂推理、多步骤执行和结果验证的 AI 辅助工作流，如自动化研究、代码生成和项目管理。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "reasoning",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-18T02:38:47.054153+00:00"
+    },
+    {
+      "title": "Nanako0129/coralline",
+      "source": "github-trending",
+      "url": "https://github.com/Nanako0129/coralline",
+      "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "stars": 357,
+      "language": "Shell",
+      "topics": [
+        "bash",
+        "claude",
+        "claude-code",
+        "nerd-fonts",
+        "powerlevel10k",
+        "statusline",
+        "terminal",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T17:35:24Z",
+      "summary": "Coralline 是一个受 Powerlevel10k 启发的 Claude Code 状态行工具，通过粘贴一个提示词让 AI 交互式安装并配置终端提示符。它解决 Claude Code 缺乏直观状态显示的问题，核心亮点是自动化安装流程和类似 Powerlevel10k 的视觉风格。适用场景为需要增强 Claude Code 终端体验的开发者。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-18T02:38:48.956203+00:00"
+    },
+    {
+      "title": "buynao/aipath",
+      "source": "github-trending",
+      "url": "https://github.com/buynao/aipath",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "stars": 306,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "machine-learning"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-16T13:35:12Z",
+      "summary": "buynao/aipath 是一个交互式 AI 通识教育课程，包含 30 课、零数学门槛。它解决非技术背景学习者入门 AI 的痛点，通过 JavaScript 实现交互式教学，核心亮点是无需数学基础即可理解机器学习与 AI 概念。适用场景包括初学者自学、教育机构入门课程、开发者快速了解 AI 基础。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-06-18T02:38:51.149914+00:00"
+    },
+    {
+      "title": "eli-labz/Third-Eye",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "stars": 294,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "geospatial",
+        "maven-smart-system",
+        "palantir"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-13T06:29:56Z",
+      "summary": "Third-Eye 是一个生产级 OSINT 平台，提供跨多情报域的情境感知能力。核心解决安全分析师在复杂威胁环境中整合多源情报的痛点。技术亮点包括基于 TypeScript 的模块化架构、AI Agent 驱动的自动化情报收集与关联分析、地理空间数据可视化。适用场景包括网络安全威胁监控、地缘政治态势感知、企业安全运营中心（SOC）的辅助决策。",
+      "tags": [
+        "ai-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-06-18T02:38:53.476444+00:00"
+    },
+    {
+      "title": "dongshuyan/compass-skills",
+      "source": "github-trending",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "stars": 281,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai-agents",
+        "ai-coding-agent",
+        "claude-code",
+        "claude-skills",
+        "codex-skills",
+        "developer-tools",
+        "local-first",
+        "openai-codex",
+        "personal-ai",
+        "prompt-engineering",
+        "skill-md",
+        "task-management",
+        "workflow-automation"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T13:15:45Z",
+      "summary": "COMPASS (司南) 是一个为 AI Agent 提供个性化技能编排与任务总控的开源系统，核心解决 Agent 技能碎片化与任务执行缺乏上下文对齐的问题。其技术亮点包括基于 agent-memory 的长期上下文管理、可组合的 agent-skills 模块化设计，以及针对 AI coding agent 的专用优化，支持 Claude Code 等工具。适用场景为需要复杂任务分解、多步骤工作流自动化的个人或企业级 AI 助手开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-18T02:38:56.086906+00:00"
+    },
+    {
+      "title": "baskduf/FableCodex",
+      "source": "github-trending",
+      "url": "https://github.com/baskduf/FableCodex",
+      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "stars": 272,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "context-engineering",
+        "fable-5",
+        "prompt-engineering",
+        "skills",
+        "workflow"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-15T21:41:28Z",
+      "summary": "FableCodex 是一个基于 Codex 风格的编码代理工作流，模仿 Fable 系统的规划能力。它解决的是如何通过结构化提示工程和上下文管理，提升 LLM 在复杂编程任务中的自主规划与执行效率。核心技术亮点包括：结合 Fable 5 的规划模式、上下文工程（context-engineering）和技能（skills）模块化设计。适用场景为需要多步骤、高精度代码生成的开发任务，如自动化重构、测试生成或复杂算法实现。",
+      "tags": [
+        "code-generation",
+        "prompt-engineering",
+        "agent",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-18T02:38:58.345087+00:00"
+    },
+    {
+      "title": "rebel0789/codexpro",
+      "source": "github-trending",
+      "url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "stars": 263,
+      "language": "JavaScript",
+      "topics": [
+        "apps-sdk",
+        "chatgpt",
+        "cloudflare-tunnel",
+        "codex",
+        "local-development",
+        "mcp",
+        "ngrok"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T22:55:35Z",
+      "summary": "codexpro 是一个开源项目，通过 MCP 协议将 ChatGPT Developer Mode 集成到本地开发环境中，作为编码代理直接操作代码仓库。它解决了开发者无法在本地利用 ChatGPT 高级模式进行代码交互的问题，核心亮点在于利用 Cloudflare Tunnel 实现安全隧道连接，并通过 apps-sdk 与本地文件系统交互。适用场景包括本地代码审查、自动补全、调试辅助及仓库级代码操作。",
+      "tags": [
+        "code-generation",
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "agent"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-06-18T02:39:00.473185+00:00"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills",
+      "source": "github-trending",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "stars": 245,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-16T11:18:44Z",
+      "summary": "majidmanzarpour/threejs-game-skills 是一个开源项目，提供构建可玩、精致的 Three.js 浏览器游戏的 Agent 技能集。它解决游戏开发中从玩法、AAA级图形、UI、QA到AI生成3D、图像和音频资产的全流程问题。核心技术亮点包括集成AI生成资产（3D/图像/音频）、AAA级图形渲染、内置QA工具。适用场景为快速原型开发、独立游戏制作、AI辅助游戏内容生成。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-18T02:39:02.811929+00:00"
+    },
+    {
+      "title": "gykim80/perfectpixel-studio",
+      "source": "github-trending",
+      "url": "https://github.com/gykim80/perfectpixel-studio",
+      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "stars": 230,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "game-development",
+        "golang",
+        "pixel-art",
+        "sprite",
+        "spritesheet",
+        "wails"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-16T12:52:56Z",
+      "summary": "PerfectPixel Studio 是一个 AI 驱动的动画精灵工作室，通过单一文本提示生成具有 8 个方向和 100+ 动作的角色精灵表。它解决了游戏开发中像素艺术动画制作耗时且需要专业技能的问题。核心技术亮点包括：使用 AI 模型从文本生成像素艺术，结合 Wails (Go) 和 React 构建跨平台桌面应用。适用场景：独立游戏开发、快速原型制作、像素风格动画资源生成。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-18T02:39:05.160640+00:00"
+    },
+    {
+      "title": "Jeidoban/Ironsmith",
+      "source": "github-trending",
+      "url": "https://github.com/Jeidoban/Ironsmith",
+      "description": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+      "stars": 220,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-18T00:36:14Z",
+      "summary": "Ironsmith 是一个基于 Swift 的 macOS 应用生成工具，用户通过自然语言提示即可即时创建个人 Mac 应用。它解决非开发者快速构建桌面工具的需求，核心亮点是支持本地设备端和云端 LLM 双模式推理，无需编写代码即可生成原生应用。适用场景包括个人自动化工具、快速原型开发及 Mac 专属小工具创建。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-18T02:39:07.361765+00:00"
+    },
+    {
+      "title": "fendouai/best-humanizer-handbook",
+      "source": "github-trending",
+      "url": "https://github.com/fendouai/best-humanizer-handbook",
+      "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "stars": 210,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-16T13:27:57Z",
+      "summary": "这是一个名为“Best AI Humanizer Handbook”的开源指南，旨在帮助用户将AI辅助写作的内容变得更自然、可信且更具人性化。核心解决AI生成文本常有的机械感、重复性和缺乏情感的问题。技术亮点包括提供具体改写策略、风格调整技巧和上下文优化方法，而非依赖复杂模型。适用场景包括内容创作、学术写作、商业文案和日常沟通中需要提升AI文本质量的情况。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-18T02:39:09.534443+00:00"
+    },
+    {
+      "title": "bingook/bingo",
+      "source": "github-trending",
+      "url": "https://github.com/bingook/bingo",
+      "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-17T16:01:09Z",
+      "summary": "Bingo 是一个基于 AI 的红队终端工具，集成 DeepSeek/Claude/GPT/GLM 等大模型，用于自动化渗透测试与安全评估。核心亮点在于将 LLM 的推理能力与命令行工具结合，实现智能化的漏洞发现、攻击模拟与报告生成。适用场景包括网络安全红蓝对抗、渗透测试自动化及安全研究。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-18T02:39:11.648157+00:00"
+    },
+    {
+      "title": "liuluhaixiu/DaVinci-AutoEdit-Agent",
+      "source": "github-trending",
+      "url": "https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent",
+      "description": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill",
+      "stars": 184,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-12T04:11:09Z",
+      "summary": "DaVinci-AutoEdit-Agent 是一个基于 DaVinci MCP 协议的全自动自媒体视频剪辑工具，解决视频创作者手动剪辑效率低下的问题。核心技术亮点包括利用 MCP 协议实现 AI 驱动的自动化剪辑流程，支持素材智能识别、场景分割和自动合成。适用于自媒体视频制作、短视频批量生产等场景。",
+      "tags": [
+        "mcp",
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-18T02:39:13.676632+00:00"
+    },
+    {
+      "title": "newideas99/open-dungeon",
+      "source": "github-trending",
+      "url": "https://github.com/newideas99/open-dungeon",
+      "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud.",
+      "stars": 178,
+      "language": "TypeScript",
+      "topics": [
+        "gemma",
+        "image-generation",
+        "interactive-fiction",
+        "local-llm",
+        "nextjs",
+        "ollama",
+        "on-device-ai",
+        "roleplay"
+      ],
+      "collected_at": "2026-06-18T02:38:29.077474+00:00",
+      "published_at": "2026-06-15T12:41:13Z",
+      "summary": "Open Dungeon 是一个完全本地的 AI 角色扮演应用，通过 Ollama 集成 Gemma 4 QAT 等本地 LLM 生成故事，并利用 FLUX 模型在本地生成场景图像。它解决了传统 AI 角色扮演依赖云端 API、需要账户和 API Key 的问题，核心亮点是 100% 本地运行、无需网络、保护隐私。适用于追求数据安全、离线体验的交互式小说创作和角色扮演场景。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-18T02:39:15.903757+00:00"
+    }
+  ]
+}

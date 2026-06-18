@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-18-009",
+  "title": "RFC 10008: The new HTTP Query Method",
+  "source": "hackernews-top",
+  "url": "https://www.rfc-editor.org/info/rfc10008/",
+  "summary": "RFC 10008 提出一种新的 HTTP 查询方法（Query Method），旨在解决现有 HTTP 方法（如 GET、POST）在复杂查询场景下的语义模糊、缓存效率低和安全性不足问题。核心技术亮点是定义了一种幂等、可缓存的查询语义，支持请求体携带查询参数，同时保持方法语义与 GET 类似但避免 URL 长度限制和敏感数据暴露。适用场景包括 RESTful API 中的复杂过滤、搜索和报告生成，尤其适合需要精确缓存控制和安全查询的 Web 服务。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-18T02:38:29.198553+00:00",
+  "analyzed_at": "2026-06-18T02:39:34.979691+00:00",
+  "organized_at": "2026-06-18T02:39:58.821369+00:00",
+  "status": "published"
+}

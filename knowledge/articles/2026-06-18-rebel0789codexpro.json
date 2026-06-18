@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-18-004",
+  "title": "rebel0789/codexpro",
+  "source": "github-trending",
+  "url": "https://github.com/rebel0789/codexpro",
+  "summary": "codexpro 是一个开源项目，通过 MCP 协议将 ChatGPT Developer Mode 集成到本地开发环境中，作为编码代理直接操作代码仓库。它解决了开发者无法在本地利用 ChatGPT 高级模式进行代码交互的问题，核心亮点在于利用 Cloudflare Tunnel 实现安全隧道连接，并通过 apps-sdk 与本地文件系统交互。适用场景包括本地代码审查、自动补全、调试辅助及仓库级代码操作。",
+  "tags": [
+    "code-generation",
+    "mcp",
+    "developer-tools",
+    "ai-assistant",
+    "agent"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-06-18T02:38:29.077474+00:00",
+  "analyzed_at": "2026-06-18T02:39:00.473185+00:00",
+  "organized_at": "2026-06-18T02:39:58.821369+00:00",
+  "status": "published"
+}

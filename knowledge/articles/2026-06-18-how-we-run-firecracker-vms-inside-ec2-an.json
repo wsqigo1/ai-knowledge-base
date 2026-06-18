@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-18-007",
+  "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+  "source": "hackernews-top",
+  "url": "https://browser-use.com/posts/firecracker-browser-infra",
+  "summary": "该文章介绍如何在EC2内部运行Firecracker微虚拟机，并在1秒内启动浏览器。解决传统虚拟机启动慢、资源开销大的问题。核心技术包括：利用Firecracker的轻量级VMM（基于KVM）、精简内核与用户态、预配置快照恢复。适用场景为无服务器浏览器自动化、短生命周期隔离任务。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-18T02:38:29.198553+00:00",
+  "analyzed_at": "2026-06-18T02:39:28.318134+00:00",
+  "organized_at": "2026-06-18T02:39:58.821369+00:00",
+  "status": "published"
+}

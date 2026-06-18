@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-18-006",
+  "title": "Lore – Open source version control system designed for scalability",
+  "source": "hackernews-top",
+  "url": "https://lore.org/",
+  "summary": "Lore 是一个为可扩展性设计的开源版本控制系统，旨在解决传统 VCS（如 Git）在处理大型仓库和二进制文件时的性能瓶颈。其核心技术亮点包括基于内容寻址的存储模型、分布式架构支持水平扩展，以及增量快照机制以优化存储和传输效率。适用于需要管理海量数据或大型二进制文件的开发团队，如游戏开发、机器学习数据集管理或大型软件项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-18T02:38:29.198553+00:00",
+  "analyzed_at": "2026-06-18T02:39:18.386967+00:00",
+  "organized_at": "2026-06-18T02:39:58.821369+00:00",
+  "status": "published"
+}
