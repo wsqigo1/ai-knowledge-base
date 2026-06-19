@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-19-013",
+  "title": ".gitignore Isn't the only way to ignore files in Git",
+  "source": "hackernews-top",
+  "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+  "summary": "文章介绍了Git中除.gitignore之外的其他忽略文件方法，包括.git/info/exclude、core.excludesFile配置、以及通过.gitattributes的export-ignore属性。核心亮点是揭示.gitignore并非唯一方案，.git/info/exclude适用于本地忽略而不影响团队，core.excludesFile可全局配置个人忽略规则，export-ignore用于控制归档文件内容。适用场景包括个人开发环境配置、团队协作中避免修改共享.gitignore、以及自动化部署时过滤文件。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-19T02:54:26.184405+00:00",
+  "analyzed_at": "2026-06-19T02:55:44.502023+00:00",
+  "organized_at": "2026-06-19T02:56:06.208965+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-19-004",
+  "title": "aresyn/codex-control-plane-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/aresyn/codex-control-plane-mcp",
+  "summary": "aresyn/codex-control-plane-mcp 是一个基于 MCP 协议的控制平面，用于管理 Codex Desktop 中的长期运行任务。它解决了 AI agent 工作流中任务持久化与状态管理难题，核心采用 durable execution 模式确保任务在中断后恢复。适用于需要稳定后台 agent 的自动化场景。",
+  "tags": [
+    "mcp",
+    "agent",
+    "workflow-automation",
+    "developer-tools",
+    "tool-use"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-19T02:54:26.012690+00:00",
+  "analyzed_at": "2026-06-19T02:55:02.874048+00:00",
+  "organized_at": "2026-06-19T02:56:06.208965+00:00",
+  "status": "published"
+}
