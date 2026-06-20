@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-20-002",
+  "title": "Happy-Chen-CH/Educational_RAG_System",
+  "source": "github-trending",
+  "url": "https://github.com/Happy-Chen-CH/Educational_RAG_System",
+  "summary": "Educational_RAG_System 是一个面向教育场景的 RAG 智能问答系统，融合关键词匹配与语义检索双引擎。它先通过 MySQL 数据库检索（辅以 Redis 缓存），若无匹配结果则调用基于 Milvus 向量数据库的 RAG 系统。核心亮点是结合结构化数据库与向量检索，提升问答准确性和效率。适用于教育领域的知识问答、课程辅导等场景。",
+  "tags": [
+    "rag",
+    "vector-database",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-20T02:27:33.119108+00:00",
+  "analyzed_at": "2026-06-20T02:28:07.404860+00:00",
+  "organized_at": "2026-06-20T02:29:00.728487+00:00",
+  "status": "published"
+}

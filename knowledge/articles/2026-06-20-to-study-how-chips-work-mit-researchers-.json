@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-20-015",
+  "title": "To study how chips work, MIT researchers built their own operating system",
+  "source": "hackernews-top",
+  "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+  "summary": "MIT研究人员为研究芯片工作原理，自主构建了一个操作系统。该系统旨在解决现有操作系统对芯片底层机制抽象过多、难以深入探究硬件行为的问题。核心技术亮点包括：从零开始设计轻量级内核，提供对芯片寄存器、缓存、流水线等底层资源的直接访问接口，并集成硬件模拟与性能分析工具。适用场景：计算机体系结构教学、芯片设计验证、以及需要精确控制硬件行为的底层系统研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-06-20T02:27:33.244716+00:00",
+  "analyzed_at": "2026-06-20T02:29:00.705205+00:00",
+  "organized_at": "2026-06-20T02:29:00.728487+00:00",
+  "status": "published"
+}

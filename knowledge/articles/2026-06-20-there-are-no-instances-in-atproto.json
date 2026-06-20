@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-20-007",
+  "title": "There are no instances in ATProto",
+  "source": "hackernews-top",
+  "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+  "summary": "ATProto（AT Protocol）中不存在“实例”（instances）概念，其核心是使用分布式账本（DAG）和CRDT（无冲突复制数据类型）实现去中心化社交网络。该协议通过“仓库”（Repository）和“提交”（Commit）管理数据，每个用户拥有独立的仓库，数据变更通过签名广播，无需中心化实例。解决传统社交平台数据孤岛和单点控制问题。核心技术亮点：基于Merkle树的数据结构、无实例的P2P网络、可组合的“馈送”（Feed）算法。适用场景：去中心化社交应用（如Bluesky）、开放数据生态、抗审查通信。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-20T02:27:33.244716+00:00",
+  "analyzed_at": "2026-06-20T02:28:25.844396+00:00",
+  "organized_at": "2026-06-20T02:29:00.728487+00:00",
+  "status": "published"
+}

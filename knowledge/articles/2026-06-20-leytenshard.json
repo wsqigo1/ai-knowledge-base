@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-20-001",
+  "title": "leyten/shard",
+  "source": "github-trending",
+  "url": "https://github.com/leyten/shard",
+  "summary": "leyten/shard 是一个开源 Python 库，实现跨多台机器的 pipeline-parallel LLM 推理。它解决单机 GPU 显存不足导致无法部署大模型的问题，通过将模型层分割到不同机器上并行执行，降低延迟并支持更大模型。核心技术亮点是自动化的 pipeline 调度与通信优化，无需手动配置分布式环境。适用场景包括多 GPU 集群上的大模型推理、边缘计算或资源受限环境下的模型部署。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-20T02:27:33.119108+00:00",
+  "analyzed_at": "2026-06-20T02:28:00.975566+00:00",
+  "organized_at": "2026-06-20T02:29:00.728487+00:00",
+  "status": "published"
+}

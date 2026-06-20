@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-20-010",
+  "title": "DuckDB Internals Part 1",
+  "source": "hackernews-top",
+  "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+  "summary": "DuckDB Internals Part 1 深入解析 DuckDB 的架构设计，包括其列式存储、向量化执行引擎和查询优化器。它解决了传统 OLAP 数据库在嵌入式场景中的性能与资源效率问题。核心技术亮点在于利用向量化执行提升 CPU 缓存利用率，以及轻量级进程内运行模式。适用场景包括数据分析、ETL 管道和嵌入式分析应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-20T02:27:33.244716+00:00",
+  "analyzed_at": "2026-06-20T02:28:46.875919+00:00",
+  "organized_at": "2026-06-20T02:29:00.728487+00:00",
+  "status": "published"
+}
