@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-21-012",
+  "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+  "source": "hackernews-top",
+  "url": "https://github.com/oven-sh/WebKit/pull/249",
+  "summary": "Bun 提交了一个开放 PR，为 JavaScriptCore 引擎添加共享内存线程支持。该 PR 解决了 JavaScript 单线程模型在高性能计算中的瓶颈，通过引入 SharedArrayBuffer 和 Atomics 实现多线程并行处理。核心技术亮点是直接在 JavaScriptCore 层面集成线程安全的内存共享机制，无需依赖 Web Workers 的额外开销。适用场景包括需要密集计算的服务器端应用、实时数据处理和游戏引擎等。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-21T02:40:57.786359+00:00",
+  "analyzed_at": "2026-06-21T02:42:19.232142+00:00",
+  "organized_at": "2026-06-21T02:42:30.044870+00:00",
+  "status": "published"
+}

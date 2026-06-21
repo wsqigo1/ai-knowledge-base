@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-21-011",
+  "title": "Temporary Cloudflare accounts for AI agents",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/temporary-accounts/",
+  "summary": "该项目为AI代理提供临时Cloudflare账户，解决AI代理在自动化任务中需要临时网络身份的问题。核心亮点是自动创建和销毁Cloudflare账户，支持API集成，适用于需要临时网络访问的AI工作流自动化场景。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-21T02:40:57.786359+00:00",
+  "analyzed_at": "2026-06-21T02:42:12.941345+00:00",
+  "organized_at": "2026-06-21T02:42:30.044870+00:00",
+  "status": "published"
+}

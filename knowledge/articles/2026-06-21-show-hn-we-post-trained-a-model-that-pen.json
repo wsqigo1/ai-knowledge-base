@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-21-013",
+  "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+  "source": "hackernews-top",
+  "url": "https://www.argusred.com/cli",
+  "summary": "该项目通过后训练（post-training）一个LLM，使其能够执行渗透测试（pen test）而非拒绝请求。核心亮点在于将安全测试任务转化为模型的能力，利用微调技术让模型理解并执行复杂的攻击模拟指令。适用场景包括自动化安全审计、红队演练和漏洞发现，为AI在网络安全领域的实用化提供了新路径。",
+  "tags": [
+    "fine-tuning",
+    "agent",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-21T02:40:57.786359+00:00",
+  "analyzed_at": "2026-06-21T02:42:23.872183+00:00",
+  "organized_at": "2026-06-21T02:42:30.044870+00:00",
+  "status": "published"
+}

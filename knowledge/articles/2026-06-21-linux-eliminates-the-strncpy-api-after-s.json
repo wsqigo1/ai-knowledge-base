@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-21-009",
+  "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+  "source": "hackernews-top",
+  "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+  "summary": "Linux内核经过六年开发，通过360个补丁彻底移除strncpy API，改用更安全的strlcpy/strscpy等函数。解决strncpy因不自动添加null终止符导致的缓冲区溢出安全漏洞。核心亮点是强制编译时检查字符串拷贝安全性，减少内存错误。适用场景：内核开发、系统编程、安全关键型软件维护。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-21T02:40:57.786359+00:00",
+  "analyzed_at": "2026-06-21T02:42:09.234770+00:00",
+  "organized_at": "2026-06-21T02:42:30.044870+00:00",
+  "status": "published"
+}

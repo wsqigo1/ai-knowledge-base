@@ -1,0 +1,378 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-21T02:41:00.193025+00:00",
+  "date": "2026-06-21",
+  "count": 20,
+  "items": [
+    {
+      "title": "Renting a sewing machine from the library",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "hn_url": "https://news.ycombinator.com/item?id=48613755",
+      "description": "",
+      "hn_score": 112,
+      "comments": 52,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该项目介绍从图书馆租借缝纫机的服务，解决个人或小团体临时使用缝纫设备的需求，无需购买昂贵机器。核心亮点是图书馆提供低成本、便捷的租赁渠道，并可能附带基础使用指导。适用场景包括家庭缝补、DIY项目、服装修改等非专业缝纫任务。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-21T02:41:48.960969+00:00"
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "source": "hackernews-top",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "hn_url": "https://news.ycombinator.com/item?id=48613555",
+      "description": "",
+      "hn_score": 68,
+      "comments": 6,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该研究探讨缓慢呼吸如何调节大脑功能并影响风险行为，通过神经影像学实验发现特定呼吸模式可改变前额叶皮层活动，降低冒险倾向。核心亮点在于揭示了呼吸-脑功能-行为决策的因果通路，为认知增强和情绪调节提供非侵入性干预手段。适用场景包括神经科学基础研究、焦虑治疗及行为经济学实验设计。",
+      "tags": [
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-06-21T02:41:51.073158+00:00"
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "source": "hackernews-top",
+      "url": "https://github.com/mysk-research/loupe",
+      "hn_url": "https://news.ycombinator.com/item?id=48608645",
+      "description": "",
+      "hn_score": 76,
+      "comments": 18,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "Loupe 是一款 iOS 应用，旨在揭示原生应用对用户设备数据的访问能力，提升隐私意识。它通过可视化展示应用读取的传感器、文件系统、网络状态等敏感信息，解决用户对应用数据收集行为认知不足的问题。核心技术包括 iOS 沙盒机制逆向分析、实时数据捕获与可视化。适用于隐私安全研究、应用行为审计及用户教育场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-21T02:41:53.338525+00:00"
+    },
+    {
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "source": "hackernews-top",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "hn_url": "https://news.ycombinator.com/item?id=48610827",
+      "description": "",
+      "hn_score": 235,
+      "comments": 65,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "SMPTE（电影电视工程师协会）宣布将其所有标准文档免费开放访问，旨在降低行业准入门槛并促进媒体技术领域的创新。该举措解决了以往标准获取成本高、限制多的问题，核心亮点是消除了版权和付费壁垒，使开发者、研究人员和中小企业能直接参考专业规范。适用于影视制作、流媒体技术、广播系统等需要遵循行业标准的开发与合规场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-21T02:41:55.990125+00:00"
+    },
+    {
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "source": "hackernews-top",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "hn_url": "https://news.ycombinator.com/item?id=48610853",
+      "description": "",
+      "hn_score": 172,
+      "comments": 30,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "UHF X11 是一个为 VisionOS 和 Apple Vision Pro 构建的 X11 窗口系统实现，解决在空间计算环境中运行传统 X11 应用的问题。核心技术亮点包括利用 Metal 渲染加速、支持多点触控和空间交互，以及适配 VisionOS 的窗口管理。适用场景包括在 Apple Vision Pro 上运行 Linux 桌面应用、远程桌面和开发工具。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-21T02:41:58.440033+00:00"
+    },
+    {
+      "title": "When I reject AI code even if it works",
+      "source": "hackernews-top",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "hn_url": "https://news.ycombinator.com/item?id=48614631",
+      "description": "",
+      "hn_score": 33,
+      "comments": 13,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "文章探讨开发者拒绝使用AI生成代码的场景，即使代码功能正确。核心问题在于AI代码缺乏可维护性、可解释性和团队一致性。技术亮点是提出代码质量评估标准（如可读性、测试覆盖、上下文适配）。适用场景为团队协作开发、长期维护项目及需要严格代码规范的工程环境。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-21T02:42:00.491576+00:00"
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "source": "hackernews-top",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48609766",
+      "description": "",
+      "hn_score": 210,
+      "comments": 58,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该项目是对经典DOS游戏《F-15 Strike Eagle II》进行逆向工程，旨在通过分析其代码和资源，实现现代系统兼容或复刻。核心亮点是采用静态分析和动态调试技术，结合社区众包测试（需DOS测试飞行员）来验证逆向结果。适用场景包括游戏保存、复古计算研究及逆向工程技术实践。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-21T02:42:02.929285+00:00"
+    },
+    {
+      "title": "CSSQuake",
+      "source": "hackernews-top",
+      "url": "https://cssquake.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48608223",
+      "description": "",
+      "hn_score": 466,
+      "comments": 101,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "CSSQuake 是一个基于纯 CSS 实现的游戏引擎，利用 CSS 的 3D 变换、动画和选择器模拟游戏逻辑。它解决了在无 JavaScript 环境下创建交互式 3D 游戏的技术挑战，核心亮点包括通过 CSS 变量和关键帧实现碰撞检测与渲染循环。适用于前端技术演示、CSS 能力极限探索及教学场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-06-21T02:42:05.000677+00:00"
+    },
+    {
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+      "hn_url": "https://news.ycombinator.com/item?id=48554206",
+      "description": "",
+      "hn_score": 41,
+      "comments": 11,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "本文探讨半导体供应链对战斗机维护的关键作用。核心问题是芯片短缺如何影响军事装备的持续作战能力。技术亮点包括分析专用芯片的供应链韧性、替代方案及库存管理策略。适用场景为国防工业与关键基础设施的供应链风险管理。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-21T02:42:07.151950+00:00"
+    },
+    {
+      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+      "source": "hackernews-top",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "hn_url": "https://news.ycombinator.com/item?id=48612943",
+      "description": "",
+      "hn_score": 102,
+      "comments": 77,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "Linux内核经过六年开发，通过360个补丁彻底移除strncpy API，改用更安全的strlcpy/strscpy等函数。解决strncpy因不自动添加null终止符导致的缓冲区溢出安全漏洞。核心亮点是强制编译时检查字符串拷贝安全性，减少内存错误。适用场景：内核开发、系统编程、安全关键型软件维护。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-21T02:42:09.234770+00:00"
+    },
+    {
+      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "source": "hackernews-top",
+      "url": "https://startupwiki.tech/",
+      "hn_url": "https://news.ycombinator.com/item?id=48610224",
+      "description": "",
+      "hn_score": 162,
+      "comments": 55,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "StartupWiki 是一个免费的开源初创公司数据库，旨在替代 Crunchbase 等付费服务。它通过众包方式收集和整理初创公司信息，解决数据访问成本高、信息不透明的问题。核心技术亮点包括开源架构、社区驱动的数据更新机制和简单的搜索功能。适用于创业者、投资者和研究人员进行市场调研和竞品分析。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-21T02:42:11.216000+00:00"
+    },
+    {
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "hn_url": "https://news.ycombinator.com/item?id=48608394",
+      "description": "",
+      "hn_score": 177,
+      "comments": 97,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该项目为AI代理提供临时Cloudflare账户，解决AI代理在自动化任务中需要临时网络身份的问题。核心亮点是自动创建和销毁Cloudflare账户，支持API集成，适用于需要临时网络访问的AI工作流自动化场景。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-21T02:42:12.941345+00:00"
+    },
+    {
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "source": "hackernews-top",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "hn_url": "https://news.ycombinator.com/item?id=48611411",
+      "description": "",
+      "hn_score": 324,
+      "comments": 136,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该条目讨论《Obscure Sorrows》一词的广泛抄袭现象，揭示互联网内容创作中缺乏原创性的问题。核心是分析如何通过算法检测和人工审核识别抄袭行为，并探讨对知识共享生态的负面影响。适用于内容审核、版权保护及AI生成内容质量评估场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-21T02:42:15.038688+00:00"
+    },
+    {
+      "title": "The rise of South Korea’s weapons business",
+      "source": "hackernews-top",
+      "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
+      "hn_url": "https://news.ycombinator.com/item?id=48608515",
+      "description": "",
+      "hn_score": 118,
+      "comments": 42,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该条目讨论韩国武器工业的崛起，涉及国防技术出口增长。核心是分析韩国如何通过技术升级和成本优势进入全球武器市场，解决国防自主性和经济多元化问题。技术亮点包括导弹、雷达等系统的本地化研发。适用场景为国防政策研究或地缘政治分析，与AI/LLM技术无直接关联。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-21T02:42:17.012397+00:00"
+    },
+    {
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "source": "hackernews-top",
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "hn_url": "https://news.ycombinator.com/item?id=48610841",
+      "description": "",
+      "hn_score": 116,
+      "comments": 218,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "Bun 提交了一个开放 PR，为 JavaScriptCore 引擎添加共享内存线程支持。该 PR 解决了 JavaScript 单线程模型在高性能计算中的瓶颈，通过引入 SharedArrayBuffer 和 Atomics 实现多线程并行处理。核心技术亮点是直接在 JavaScriptCore 层面集成线程安全的内存共享机制，无需依赖 Web Workers 的额外开销。适用场景包括需要密集计算的服务器端应用、实时数据处理和游戏引擎等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-21T02:42:19.232142+00:00"
+    },
+    {
+      "title": "Pre-2022 Books",
+      "source": "hackernews-top",
+      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+      "hn_url": "https://news.ycombinator.com/item?id=48613631",
+      "description": "",
+      "hn_score": 161,
+      "comments": 101,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该条目指向2022年之前出版的书籍列表，主要解决AI/LLM领域从业者需要系统学习基础理论（如Transformer架构、预训练方法）的需求。核心技术亮点是涵盖经典教材（如《深度学习》《统计自然语言处理基础》）和早期LLM相关著作（如《Attention Is All You Need》论文解读）。适用场景为AI工程师构建知识体系、理解LLM发展脉络，但缺乏2022年后最新技术（如RLHF、多模态对齐）的覆盖。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-21T02:42:21.635117+00:00"
+    },
+    {
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "source": "hackernews-top",
+      "url": "https://www.argusred.com/cli",
+      "hn_url": "https://news.ycombinator.com/item?id=48609231",
+      "description": "",
+      "hn_score": 76,
+      "comments": 35,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该项目通过后训练（post-training）一个LLM，使其能够执行渗透测试（pen test）而非拒绝请求。核心亮点在于将安全测试任务转化为模型的能力，利用微调技术让模型理解并执行复杂的攻击模拟指令。适用场景包括自动化安全审计、红队演练和漏洞发现，为AI在网络安全领域的实用化提供了新路径。",
+      "tags": [
+        "fine-tuning",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-21T02:42:23.872183+00:00"
+    },
+    {
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "source": "hackernews-top",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=48600167",
+      "description": "",
+      "hn_score": 503,
+      "comments": 247,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该条目对比GPT-5.5与MIT许可的GLM-5.2在幻觉率上的表现，指出GPT-5.5幻觉率高出3倍。核心是揭示闭源模型在可靠性上的潜在劣势，强调开源模型GLM-5.2在减少错误生成方面的优势。技术亮点在于通过基准测试量化幻觉差异，适用场景为模型选型评估，尤其对可靠性要求高的应用（如医疗、法律）具有参考价值。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-21T02:42:25.708767+00:00"
+    },
+    {
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "source": "hackernews-top",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=48611083",
+      "description": "",
+      "hn_score": 156,
+      "comments": 55,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "该条目探讨哺乳动物体内休眠的肢体再生能力，而非完全丧失。研究通过激活特定基因或信号通路（如p21、Lin28a）在老鼠等模型中实现部分组织再生，挑战了传统认知。核心技术亮点在于识别并唤醒休眠的再生机制，而非引入外来基因。适用场景包括再生医学、创伤修复及抗衰老研究。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-21T02:42:27.762785+00:00"
+    },
+    {
+      "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
+      "hn_url": "https://news.ycombinator.com/item?id=48612098",
+      "description": "",
+      "hn_score": 129,
+      "comments": 31,
+      "collected_at": "2026-06-21T02:40:57.786359+00:00",
+      "published_at": "2026-06-21T02:40:57.786359+00:00",
+      "summary": "AMD 将通过 7 月 BIOS 更新恢复 Ryzen 9000 CPU 的内存加密功能。该功能此前因兼容性问题被禁用，更新将重新启用 Secure Memory Encryption (SME) 和 Transparent Secure Memory Encryption (TSME)，解决数据安全漏洞。核心技术亮点是无需硬件改动，仅通过固件升级恢复硬件级内存加密。适用场景：需要保护敏感数据的企业工作站、云服务器及高安全性要求的个人计算环境。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-21T02:42:30.015496+00:00"
+    }
+  ]
+}
