@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-22-011",
+  "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+  "source": "hackernews-top",
+  "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+  "summary": "该条目介绍如何对Qwen 3:0.6B这样的小型本地LLM进行微调，以解决问题分类任务。核心亮点是使用LoRA等参数高效微调技术，在低资源环境下实现高精度分类，无需依赖大型云端模型。适用场景包括本地部署、隐私敏感或资源受限的文本分类应用。",
+  "tags": [
+    "fine-tuning",
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-22T02:43:59.216172+00:00",
+  "analyzed_at": "2026-06-22T02:45:09.996232+00:00",
+  "organized_at": "2026-06-22T02:45:38.833324+00:00",
+  "status": "published"
+}

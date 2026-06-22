@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-22-015",
+  "title": "You're probably using Agent Skills wrong",
+  "source": "hackernews-top",
+  "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+  "summary": "文章指出开发者常错误地将Agent Skills视为独立功能模块，而非动态组合工具。核心问题在于缺乏对技能间依赖关系和上下文感知的建模，导致Agent在复杂任务中表现不佳。技术亮点是提出基于图结构的技能编排框架，通过依赖解析和状态共享提升任务完成率。适用场景包括多步骤工作流自动化、需要工具链协同的AI助手开发。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "workflow-automation",
+    "tool-use",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-06-22T02:43:59.216172+00:00",
+  "analyzed_at": "2026-06-22T02:45:29.403501+00:00",
+  "organized_at": "2026-06-22T02:45:38.833324+00:00",
+  "status": "published"
+}

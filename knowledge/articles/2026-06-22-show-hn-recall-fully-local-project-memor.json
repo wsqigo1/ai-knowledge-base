@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-22-014",
+  "title": "Show HN: Recall – fully-local project memory for Claude Code",
+  "source": "hackernews-top",
+  "url": "https://github.com/raiyanyahya/recall",
+  "summary": "Recall 是一个为 Claude Code 提供完全本地化项目记忆的开源工具。它解决 AI 编码助手在大型项目中缺乏持久上下文、无法跨会话保持记忆的问题。核心技术亮点包括：基于本地向量数据库存储项目文件嵌入，支持语义检索与自动上下文注入，无需外部 API 或云服务。适用场景：开发者使用 Claude Code 进行长期、复杂项目开发时，需要保持对话连续性和项目知识积累。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "rag",
+    "vector-database",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-22T02:43:59.216172+00:00",
+  "analyzed_at": "2026-06-22T02:45:21.754711+00:00",
+  "organized_at": "2026-06-22T02:45:38.833324+00:00",
+  "status": "published"
+}

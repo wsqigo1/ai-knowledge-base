@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-22-012",
+  "title": "Prefer duplication over the wrong abstraction (2016)",
+  "source": "hackernews-top",
+  "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+  "summary": "文章主张在软件开发中优先选择代码重复而非过早或不恰当的抽象，认为错误的抽象比重复更危险。它解决的是开发者过度追求DRY原则导致抽象层混乱、难以维护的问题。核心亮点是提出“重复是重构的起点”，强调在理解真实需求前应容忍重复，待模式清晰后再提取抽象。适用场景包括代码重构、架构设计及团队协作中的抽象决策。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-22T02:43:59.216172+00:00",
+  "analyzed_at": "2026-06-22T02:45:12.747556+00:00",
+  "organized_at": "2026-06-22T02:45:38.833324+00:00",
+  "status": "published"
+}

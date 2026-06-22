@@ -1,0 +1,382 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-22T02:43:59.776930+00:00",
+  "date": "2026-06-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "source": "hackernews-top",
+      "url": "https://apertvs.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48622778",
+      "description": "",
+      "hn_score": 216,
+      "comments": 80,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "Apertus 是一个主权AI开源基础模型项目，旨在解决对非开源、受控于少数公司的AI模型的依赖问题。其核心技术亮点包括完全开放的数据集、训练代码和模型权重，支持多语言和领域自适应性，适用于需要数据隐私、合规性及自主可控的政府、企业及研究机构场景。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "fine-tuning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-22T02:44:52.278727+00:00"
+    },
+    {
+      "title": "Did my old job only exist because of fraud?",
+      "source": "hackernews-top",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "hn_url": "https://news.ycombinator.com/item?id=48622867",
+      "description": "",
+      "hn_score": 253,
+      "comments": 114,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "这篇文章探讨了一个现象：某些传统工作岗位可能因行业欺诈行为而存在，而非真实需求。它通过分析具体案例，揭示了欺诈如何扭曲就业市场，并讨论了技术（如AI）在检测和减少此类欺诈中的作用。核心亮点在于将欺诈识别与工作价值评估结合，适用于企业审计、合规审查及AI驱动的反欺诈系统设计。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-22T02:44:54.803866+00:00"
+    },
+    {
+      "title": "Everything is logarithms",
+      "source": "hackernews-top",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48622626",
+      "description": "",
+      "hn_score": 127,
+      "comments": 19,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "文章探讨对数在计算机科学中的广泛应用，从算法复杂度分析到概率模型，强调对数思维如何简化问题。核心亮点在于揭示对数在优化搜索、数据压缩和机器学习中的底层作用，解决性能瓶颈与规模扩展问题。适用场景包括系统设计、算法优化及AI模型效率提升。",
+      "tags": [
+        "developer-tools",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-22T02:44:57.406487+00:00"
+    },
+    {
+      "title": "JSON-LD explained for personal websites",
+      "source": "hackernews-top",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "hn_url": "https://news.ycombinator.com/item?id=48621517",
+      "description": "",
+      "hn_score": 173,
+      "comments": 47,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "JSON-LD是一种基于JSON的轻量级语义数据格式，用于在个人网站上结构化表示实体关系。它解决搜索引擎和AI代理无法理解网页内容语义的问题，通过嵌入`<script type=\"application/ld+json\">`标签，以键值对描述人物、文章、事件等实体。核心技术亮点是使用Schema.org词汇表定义类型和属性，支持嵌套和引用。适用于个人简历、博客、作品集等场景，提升SEO和AI可解析性。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-22T02:45:00.262942+00:00"
+    },
+    {
+      "title": "Identity verification on Claude",
+      "source": "hackernews-top",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "hn_url": "https://news.ycombinator.com/item?id=48618455",
+      "description": "",
+      "hn_score": 592,
+      "comments": 526,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "该项目探讨在Claude等大型语言模型（LLM）中实现身份验证的方法，解决AI助手无法确认用户身份、导致个性化服务和安全风险的问题。核心技术亮点包括利用会话上下文、外部身份提供者集成以及加密签名机制来验证用户身份。适用场景为企业级AI助手、客户支持系统及需要用户身份绑定的个性化应用。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-22T02:45:02.724543+00:00"
+    },
+    {
+      "title": "Petition against Meta's employee training data collection for ML models",
+      "source": "hackernews-top",
+      "url": "https://mcipetition.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48623721",
+      "description": "",
+      "hn_score": 51,
+      "comments": 34,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "这是一份针对Meta公司收集员工培训数据用于机器学习模型训练的请愿书。该请愿旨在解决员工数据隐私与公司AI模型训练之间的伦理冲突，核心关注点在于未经充分知情同意的数据收集可能侵犯员工权利。技术亮点在于引发了对企业AI训练数据合规性的讨论，但本身不涉及具体技术方案。适用场景为企业AI伦理政策制定与数据治理讨论。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-22T02:45:05.251948+00:00"
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "source": "hackernews-top",
+      "url": "https://www.beyondallreason.info",
+      "hn_url": "https://news.ycombinator.com/item?id=48617990",
+      "description": "",
+      "hn_score": 439,
+      "comments": 261,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "Beyond All Reason 是一款受《横扫千军》启发的免费开源即时战略游戏，解决传统RTS游戏闭源、付费及社区扩展受限的问题。核心技术亮点包括基于Spring RTS引擎的高性能渲染、大规模单位物理模拟、模块化AI系统及社区驱动的平衡性调整。适用场景为游戏开发研究、AI对战算法测试及开源游戏社区贡献。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-22T02:45:07.695915+00:00"
+    },
+    {
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "source": "hackernews-top",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "hn_url": "https://news.ycombinator.com/item?id=48623434",
+      "description": "",
+      "hn_score": 26,
+      "comments": 3,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "该条目介绍如何对Qwen 3:0.6B这样的小型本地LLM进行微调，以解决问题分类任务。核心亮点是使用LoRA等参数高效微调技术，在低资源环境下实现高精度分类，无需依赖大型云端模型。适用场景包括本地部署、隐私敏感或资源受限的文本分类应用。",
+      "tags": [
+        "fine-tuning",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-22T02:45:09.996232+00:00"
+    },
+    {
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "source": "hackernews-top",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "hn_url": "https://news.ycombinator.com/item?id=48620090",
+      "description": "",
+      "hn_score": 430,
+      "comments": 296,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "文章主张在软件开发中优先选择代码重复而非过早或不恰当的抽象，认为错误的抽象比重复更危险。它解决的是开发者过度追求DRY原则导致抽象层混乱、难以维护的问题。核心亮点是提出“重复是重构的起点”，强调在理解真实需求前应容忍重复，待模式清晰后再提取抽象。适用场景包括代码重构、架构设计及团队协作中的抽象决策。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-22T02:45:12.747556+00:00"
+    },
+    {
+      "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+      "hn_url": "https://news.ycombinator.com/item?id=48579013",
+      "description": "",
+      "hn_score": 173,
+      "comments": 96,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "该条目报道了一项关于HPV疫苗的医学研究，显示在30岁前接种HPV疫苗可将宫颈癌死亡风险降至几乎为零。核心亮点是疫苗对年轻女性的高效保护，适用场景为公共卫生政策与个人健康决策。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-22T02:45:14.493344+00:00"
+    },
+    {
+      "title": "The minimum viable unit of saleable software",
+      "source": "hackernews-top",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "hn_url": "https://news.ycombinator.com/item?id=48620342",
+      "description": "",
+      "hn_score": 134,
+      "comments": 52,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "该文章探讨了可销售软件的最小可行单元（MVU）概念，旨在解决软件产品化过程中功能冗余与市场匹配度低的问题。核心亮点在于提出以单一核心价值功能作为销售起点，通过模块化架构实现快速迭代与客户验证。适用场景包括初创公司产品定义、SaaS功能裁剪及最小可行产品（MVP）的销售策略优化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-22T02:45:16.921619+00:00"
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "hn_url": "https://news.ycombinator.com/item?id=48622788",
+      "description": "",
+      "hn_score": 116,
+      "comments": 55,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "FDA顾问委员会一致投票推荐批准Moderna的mRNA疫苗，此前该机构内部出现争议。该事件解决了mRNA技术监管审批的关键节点，核心亮点在于mRNA疫苗的高效研发与安全性验证，适用于公共卫生紧急情况下的疫苗快速部署。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-22T02:45:18.970196+00:00"
+    },
+    {
+      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "source": "hackernews-top",
+      "url": "https://github.com/raiyanyahya/recall",
+      "hn_url": "https://news.ycombinator.com/item?id=48622590",
+      "description": "",
+      "hn_score": 77,
+      "comments": 58,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "Recall 是一个为 Claude Code 提供完全本地化项目记忆的开源工具。它解决 AI 编码助手在大型项目中缺乏持久上下文、无法跨会话保持记忆的问题。核心技术亮点包括：基于本地向量数据库存储项目文件嵌入，支持语义检索与自动上下文注入，无需外部 API 或云服务。适用场景：开发者使用 Claude Code 进行长期、复杂项目开发时，需要保持对话连续性和项目知识积累。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "rag",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-22T02:45:21.754711+00:00"
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "source": "hackernews-top",
+      "url": "https://norvig.com/lispy.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48619831",
+      "description": "",
+      "hn_score": 166,
+      "comments": 55,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "2010年发布的教程，用Python逐步实现一个Lisp解释器。解决如何从零构建一个编程语言解释器的核心问题。核心技术亮点包括词法分析、语法分析（递归下降解析）、环境与作用域管理、函数调用与闭包实现。适用场景：理解解释器原理、编译器入门教学、Python高级编程实践。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-22T02:45:24.042760+00:00"
+    },
+    {
+      "title": "Ask for no, don't ask for yes (2022)",
+      "source": "hackernews-top",
+      "url": "https://www.mooreds.com/wordpress/archives/3518",
+      "hn_url": "https://news.ycombinator.com/item?id=48622234",
+      "description": "",
+      "hn_score": 117,
+      "comments": 59,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "这是一篇关于交互设计中“默认拒绝”原则的文章，解决用户倾向于同意默认选项而忽略风险的问题。核心亮点是提出在询问用户时，将“否”设为默认选项，以降低用户因惯性同意带来的隐私或安全风险。适用场景包括软件权限请求、隐私设置、数据共享等需要用户明确同意的交互设计。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-22T02:45:26.781244+00:00"
+    },
+    {
+      "title": "You're probably using Agent Skills wrong",
+      "source": "hackernews-top",
+      "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+      "hn_url": "https://news.ycombinator.com/item?id=48624327",
+      "description": "",
+      "hn_score": 9,
+      "comments": 2,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "文章指出开发者常错误地将Agent Skills视为独立功能模块，而非动态组合工具。核心问题在于缺乏对技能间依赖关系和上下文感知的建模，导致Agent在复杂任务中表现不佳。技术亮点是提出基于图结构的技能编排框架，通过依赖解析和状态共享提升任务完成率。适用场景包括多步骤工作流自动化、需要工具链协同的AI助手开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-22T02:45:29.403501+00:00"
+    },
+    {
+      "title": "Tell HN: Happy Fathers Day",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48620502",
+      "hn_url": "https://news.ycombinator.com/item?id=48620502",
+      "description": "",
+      "hn_score": 279,
+      "comments": 40,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "这是一条来自Hacker News的节日祝福帖子，标题为“Tell HN: Happy Fathers Day”，内容为庆祝父亲节。它不涉及任何技术问题或解决方案，无核心技术亮点，也不适用于AI/LLM技术场景。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-06-22T02:45:30.986591+00:00"
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "source": "hackernews-top",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48617782",
+      "description": "",
+      "hn_score": 120,
+      "comments": 115,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "该文章对几何代数（Geometric Algebra）在计算机图形学、机器人学等领域的应用提出质疑，指出其学习曲线陡峭、实际性能优势有限，且现有线性代数框架已足够高效。核心论点是几何代数的数学优雅性未转化为工程实践中的显著收益，尤其在实时渲染和物理模拟中，传统方法更易优化。适用场景为评估技术选型的研究者或工程师，避免盲目采用新兴数学工具。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-22T02:45:33.959479+00:00"
+    },
+    {
+      "title": "Proportional-Integral-Derivative (PID) controllers",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/PID_controller",
+      "hn_url": "https://news.ycombinator.com/item?id=48600311",
+      "description": "",
+      "hn_score": 100,
+      "comments": 53,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "PID控制器是一种经典反馈控制算法，通过比例(P)、积分(I)、微分(D)三个环节的组合来调节系统输出，使其接近目标值。它解决工业控制中系统稳定性、响应速度和消除稳态误差的核心问题。技术亮点在于无需精确数学模型即可实现有效控制，且参数调整直观。适用场景包括温度控制、电机速度调节、无人机姿态稳定等连续动态系统。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-06-22T02:45:36.399501+00:00"
+    },
+    {
+      "title": "The Commodore Callback 8020 smart flip phone",
+      "source": "hackernews-top",
+      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "hn_url": "https://news.ycombinator.com/item?id=48587619",
+      "description": "",
+      "hn_score": 113,
+      "comments": 115,
+      "collected_at": "2026-06-22T02:43:59.216172+00:00",
+      "published_at": "2026-06-22T02:43:59.216172+00:00",
+      "summary": "The Commodore Callback 8020 是一款翻盖智能手机，旨在解决现代智能手机过度复杂和分散注意力的问题，提供极简通信体验。其核心技术亮点包括物理键盘、长续航电池、以及限制应用生态以聚焦电话和短信功能。适用场景为希望减少屏幕时间、专注核心通信的用户。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-22T02:45:38.804710+00:00"
+    }
+  ]
+}

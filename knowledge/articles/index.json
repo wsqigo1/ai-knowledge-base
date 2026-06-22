@@ -1,7 +1,227 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 747,
+  "total_count": 762,
   "entries": [
+    {
+      "id": "kb-2026-06-22-001",
+      "title": "lyra81604/zhengxi-views",
+      "source": "github-trending",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "file": "2026-06-22-lyra81604zhengxi-views.json",
+      "tags": [
+        "agent",
+        "rag",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-002",
+      "title": "sums001/Windows-Copilot-API",
+      "source": "github-trending",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "file": "2026-06-22-sums001windows-copilot-api.json",
+      "tags": [
+        "open-source",
+        "api",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-003",
+      "title": "shadcn-labs/agentcn",
+      "source": "github-trending",
+      "url": "https://github.com/shadcn-labs/agentcn",
+      "file": "2026-06-22-shadcn-labsagentcn.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-004",
+      "title": "tongxuluo/gamecraft-bench",
+      "source": "github-trending",
+      "url": "https://github.com/tongxuluo/gamecraft-bench",
+      "file": "2026-06-22-tongxuluogamecraft-bench.json",
+      "tags": [
+        "benchmark",
+        "agent",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-005",
+      "title": "Manavarya09/public-apis-live",
+      "source": "github-trending",
+      "url": "https://github.com/Manavarya09/public-apis-live",
+      "file": "2026-06-22-manavarya09public-apis-live.json",
+      "tags": [
+        "developer-tools",
+        "api",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-006",
+      "title": "frtghyujkiolsas-lab/ai-sdd",
+      "source": "github-trending",
+      "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
+      "file": "2026-06-22-frtghyujkiolsas-labai-sdd.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-007",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "source": "hackernews-top",
+      "url": "https://apertvs.ai/",
+      "file": "2026-06-22-apertus-open-foundation-model-for-sovere.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "fine-tuning"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-008",
+      "title": "Everything is logarithms",
+      "source": "hackernews-top",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "file": "2026-06-22-everything-is-logarithms.json",
+      "tags": [
+        "developer-tools",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-009",
+      "title": "JSON-LD explained for personal websites",
+      "source": "hackernews-top",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "file": "2026-06-22-json-ld-explained-for-personal-websites.json",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-010",
+      "title": "Identity verification on Claude",
+      "source": "hackernews-top",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "file": "2026-06-22-identity-verification-on-claude.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-011",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "source": "hackernews-top",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "file": "2026-06-22-good-results-fine-tuning-a-local-llm-lik.json",
+      "tags": [
+        "fine-tuning",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-012",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "source": "hackernews-top",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "file": "2026-06-22-prefer-duplication-over-the-wrong-abstra.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-013",
+      "title": "The minimum viable unit of saleable software",
+      "source": "hackernews-top",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "file": "2026-06-22-the-minimum-viable-unit-of-saleable-soft.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-014",
+      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "source": "hackernews-top",
+      "url": "https://github.com/raiyanyahya/recall",
+      "file": "2026-06-22-show-hn-recall-fully-local-project-memor.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "rag",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
+    {
+      "id": "kb-2026-06-22-015",
+      "title": "You're probably using Agent Skills wrong",
+      "source": "hackernews-top",
+      "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+      "file": "2026-06-22-youre-probably-using-agent-skills-wrong.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-06-22T02:45:38.833324+00:00"
+    },
     {
       "id": "kb-2026-06-21-001",
       "title": "Forsy-AI/agent-apprenticeship",
@@ -11074,5 +11294,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-21T02:42:30.087624+00:00"
+  "last_updated": "2026-06-22T02:45:38.879208+00:00"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-22-009",
+  "title": "JSON-LD explained for personal websites",
+  "source": "hackernews-top",
+  "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+  "summary": "JSON-LD是一种基于JSON的轻量级语义数据格式，用于在个人网站上结构化表示实体关系。它解决搜索引擎和AI代理无法理解网页内容语义的问题，通过嵌入`<script type=\"application/ld+json\">`标签，以键值对描述人物、文章、事件等实体。核心技术亮点是使用Schema.org词汇表定义类型和属性，支持嵌套和引用。适用于个人简历、博客、作品集等场景，提升SEO和AI可解析性。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-22T02:43:59.216172+00:00",
+  "analyzed_at": "2026-06-22T02:45:00.262942+00:00",
+  "organized_at": "2026-06-22T02:45:38.833324+00:00",
+  "status": "published"
+}
