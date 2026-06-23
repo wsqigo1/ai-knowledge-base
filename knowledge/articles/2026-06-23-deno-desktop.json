@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-23-013",
+  "title": "Deno Desktop",
+  "source": "hackernews-top",
+  "url": "https://docs.deno.com/runtime/desktop/",
+  "summary": "Deno Desktop 是一个基于 Deno 运行时构建桌面应用的开源框架。它解决的是使用 JavaScript/TypeScript 构建跨平台桌面应用时，需要依赖 Electron 或 Tauri 等重量级方案的问题。核心技术亮点包括：利用 Deno 的安全沙箱和原生 TypeScript 支持，通过 WebView 渲染 UI，并提供系统 API 绑定。适用场景为需要快速开发轻量级、安全且跨平台的桌面工具或应用，尤其适合前端开发者。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-06-23T02:10:18.291420+00:00",
+  "analyzed_at": "2026-06-23T02:11:39.255637+00:00",
+  "organized_at": "2026-06-23T02:11:45.756028+00:00",
+  "status": "published"
+}

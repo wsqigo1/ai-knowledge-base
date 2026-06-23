@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-23-008",
+  "title": "British Columbia, Time Zones, and Postgres",
+  "source": "hackernews-top",
+  "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+  "summary": "文章探讨了在不列颠哥伦比亚省（BC省）的时区处理中，使用PostgreSQL数据库时遇到的复杂性和解决方案。核心问题在于BC省部分地区采用山区时区（MST），而其他地区使用太平洋时区（PST），且时区规则因立法变化而动态调整。技术亮点是利用PostgreSQL的时区感知类型（如timestamptz）和pg_timezone_names视图，结合自定义时区规则表来管理历史与当前时区偏移。适用场景包括地理分布式应用、跨时区调度系统及需要精确时间戳的金融或日志系统。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-23T02:10:18.291420+00:00",
+  "analyzed_at": "2026-06-23T02:11:13.136222+00:00",
+  "organized_at": "2026-06-23T02:11:45.756028+00:00",
+  "status": "published"
+}

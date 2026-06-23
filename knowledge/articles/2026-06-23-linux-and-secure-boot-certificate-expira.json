@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-23-014",
+  "title": "Linux and Secure Boot certificate expiration (2025)",
+  "source": "hackernews-top",
+  "url": "https://lwn.net/Articles/1029767/",
+  "summary": "Linux 系统在 2025 年面临 Secure Boot 证书过期问题，导致部分旧硬件无法正常引导。该问题源于微软签名的 Secure Boot 证书（如 Microsoft Corporation UEFI CA 2023）到期，影响使用预装证书的 Linux 发行版。核心解决方法是更新固件或手动导入新证书，但需用户具备一定技术能力。适用于需要维护 Secure Boot 兼容性的 Linux 用户，特别是企业服务器和双系统环境。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-23T02:10:18.291420+00:00",
+  "analyzed_at": "2026-06-23T02:11:41.997830+00:00",
+  "organized_at": "2026-06-23T02:11:45.756028+00:00",
+  "status": "published"
+}

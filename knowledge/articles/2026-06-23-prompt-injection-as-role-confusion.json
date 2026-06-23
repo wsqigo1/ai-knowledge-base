@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-23-011",
+  "title": "Prompt Injection as Role Confusion",
+  "source": "hackernews-top",
+  "url": "https://role-confusion.github.io",
+  "summary": "Prompt Injection as Role Confusion 探讨了提示注入攻击的一种新视角：将角色混淆视为攻击向量。该问题指模型因无法区分用户指令与外部注入内容，导致角色设定被覆盖。核心亮点是提出通过强化角色边界、使用结构化输入和上下文隔离来防御。适用场景包括聊天机器人、AI助手等需要明确角色约束的LLM应用。",
+  "tags": [
+    "prompt-engineering",
+    "large-language-model",
+    "ai-assistant",
+    "security"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-23T02:10:18.291420+00:00",
+  "analyzed_at": "2026-06-23T02:11:28.398071+00:00",
+  "organized_at": "2026-06-23T02:11:45.756028+00:00",
+  "status": "published"
+}
