@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-24-016",
+  "title": "Don't verify email addresses by sending spam to them",
+  "source": "hackernews-top",
+  "url": "https://milek7.pl/mailverifyspam/",
+  "summary": "该文章指出通过发送垃圾邮件来验证邮箱地址是一种低效且不尊重用户的做法。核心问题是传统邮箱验证方法可能滥用用户信任并导致垃圾邮件问题。技术亮点在于提出更优雅的验证方式，如使用确认链接或一次性验证码，避免发送未经请求的邮件。适用场景包括用户注册、密码重置等需要邮箱验证的Web应用开发。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-24T02:11:52.924865+00:00",
+  "analyzed_at": "2026-06-24T02:13:09.346286+00:00",
+  "organized_at": "2026-06-24T02:13:21.067372+00:00",
+  "status": "published"
+}

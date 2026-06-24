@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-24-010",
+  "title": "Printing Gaussian Splats",
+  "source": "hackernews-top",
+  "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+  "summary": "Printing Gaussian Splats 是一种将3D高斯泼溅（Gaussian Splatting）技术应用于物理打印的方法。它解决了传统3D打印中高精度、高细节场景重建与渲染的难题，通过将场景表示为高斯椭球体集合，实现快速渲染与高质量输出。核心技术亮点包括：基于3D高斯分布的稀疏表示、可微分渲染优化、以及端到端的场景重建与打印适配。适用场景包括：3D扫描与打印、虚拟现实内容制作、文化遗产数字化保存。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "multimodal"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-24T02:11:52.924865+00:00",
+  "analyzed_at": "2026-06-24T02:12:43.064526+00:00",
+  "organized_at": "2026-06-24T02:13:21.067372+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-24-017",
+  "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+  "source": "hackernews-top",
+  "url": "https://lift4d.github.io/",
+  "summary": "Lift4D 是一种从单张视图进行 4D 动态场景重建的方法，解决野外环境下缺乏多视角数据导致的动态重建困难。核心技术包括单视图 3D 估计与时间一致性融合，利用隐式神经表示和运动先验实现时空连贯的 4D 输出。适用于 AR/VR、影视特效和机器人感知等需要从单视角视频重建动态 3D 场景的场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-24T02:11:52.924865+00:00",
+  "analyzed_at": "2026-06-24T02:13:13.983919+00:00",
+  "organized_at": "2026-06-24T02:13:21.067372+00:00",
+  "status": "published"
+}

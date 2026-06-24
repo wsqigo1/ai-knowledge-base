@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-24-013",
+  "title": "The Coming Loop",
+  "source": "hackernews-top",
+  "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+  "summary": "《The Coming Loop》是一篇探讨AI系统自我强化循环（self-reinforcing loops）的技术文章，核心关注当AI生成内容大量充斥互联网后，模型训练数据被污染导致的退化风险。它解决的是数据闭环中模型性能下降、多样性丧失的问题。核心技术亮点在于分析了数据反馈循环（data feedback loop）如何导致模型崩溃（model collapse），并提出了通过数据溯源、合成数据质量控制和混合训练策略来缓解。适用场景包括大规模语言模型持续训练、数据管道设计及AI内容生态治理。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-24T02:11:52.924865+00:00",
+  "analyzed_at": "2026-06-24T02:12:57.794498+00:00",
+  "organized_at": "2026-06-24T02:13:21.067372+00:00",
+  "status": "published"
+}

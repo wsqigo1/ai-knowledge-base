@@ -1,0 +1,381 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-24T02:11:54.534898+00:00",
+  "date": "2026-06-24",
+  "count": 20,
+  "items": [
+    {
+      "title": "Jerry's Map",
+      "source": "hackernews-top",
+      "url": "http://www.jerrysmap.com/the-map",
+      "hn_url": "https://news.ycombinator.com/item?id=48649435",
+      "description": "",
+      "hn_score": 334,
+      "comments": 48,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "Jerry's Map 是一个持续多年的手工绘制地图项目，并非AI/LLM技术工具。它解决的是个人艺术表达与地理空间探索的融合问题，核心亮点在于通过手绘方式逐步构建一个虚构世界的详细地图，展现创造力和耐心。适用场景为艺术创作、地理教学或休闲娱乐，与AI工程师的技术需求无关。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-24T02:12:36.312381+00:00"
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "source": "hackernews-top",
+      "url": "https://swipe.futo.tech/",
+      "hn_url": "https://news.ycombinator.com/item?id=48648619",
+      "description": "",
+      "hn_score": 287,
+      "comments": 89,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "FUTO Swipe 是一个开源滑动输入模型，旨在解决传统滑动输入法在准确性和隐私方面的不足。其核心技术亮点是采用自监督学习训练的轻量级神经网络，无需联网即可在设备端实时预测用户滑动轨迹对应的单词，同时支持自定义词库。适用场景包括移动设备上的高效文本输入，尤其适合注重隐私和离线使用的用户。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-24T02:12:38.247001+00:00"
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "source": "hackernews-top",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "hn_url": "https://news.ycombinator.com/item?id=48648959",
+      "description": "",
+      "hn_score": 163,
+      "comments": 15,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "这是一篇纪念性文章，缅怀拼写和语法检查功能（红色和绿色波浪线）的发明者。该技术解决了文本编辑中的拼写和语法错误检测问题，核心亮点是实时、可视化的错误标记机制，显著提升了写作效率和准确性。适用场景包括文字处理软件、代码编辑器及任何需要文本输入的用户界面。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-24T02:12:40.134545+00:00"
+    },
+    {
+      "title": "Printing Gaussian Splats",
+      "source": "hackernews-top",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "hn_url": "https://news.ycombinator.com/item?id=48618481",
+      "description": "",
+      "hn_score": 178,
+      "comments": 16,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "Printing Gaussian Splats 是一种将3D高斯泼溅（Gaussian Splatting）技术应用于物理打印的方法。它解决了传统3D打印中高精度、高细节场景重建与渲染的难题，通过将场景表示为高斯椭球体集合，实现快速渲染与高质量输出。核心技术亮点包括：基于3D高斯分布的稀疏表示、可微分渲染优化、以及端到端的场景重建与打印适配。适用场景包括：3D扫描与打印、虚拟现实内容制作、文化遗产数字化保存。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-24T02:12:43.064526+00:00"
+    },
+    {
+      "title": "Swift Package Index joins Apple",
+      "source": "hackernews-top",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "hn_url": "https://news.ycombinator.com/item?id=48648779",
+      "description": "",
+      "hn_score": 173,
+      "comments": 53,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "Swift Package Index (SPI) 加入 Apple，成为官方支持的 Swift 包索引服务。解决 Swift 开发者发现、评估和集成第三方库时缺乏统一可信来源的问题。核心技术亮点包括自动包元数据解析、兼容性检查、文档生成和与 Xcode 深度集成。适用于 Swift 生态中的包管理、库发现和项目依赖管理场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-24T02:12:45.362088+00:00"
+    },
+    {
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "source": "hackernews-top",
+      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=48653060",
+      "description": "",
+      "hn_score": 152,
+      "comments": 61,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "该条目报道了“Extreme Heat”会议因极端高温警告而取消的事件。核心问题是会议组织者未能有效应对极端天气风险，导致活动无法正常进行。技术亮点在于事件本身揭示了气候数据预警系统与活动管理流程的脱节，需改进实时天气数据集成与应急决策支持。适用场景包括活动策划、气候风险管理及应急响应系统设计。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-24T02:12:47.623570+00:00"
+    },
+    {
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "source": "hackernews-top",
+      "url": "https://tikz.dev/editor/",
+      "hn_url": "https://news.ycombinator.com/item?id=48645437",
+      "description": "",
+      "hn_score": 334,
+      "comments": 62,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "TikZ Editor 是一个所见即所得的 LaTeX 图形编辑器，解决 LaTeX 用户手动编写 TikZ 代码绘制图形效率低、调试困难的问题。核心技术亮点包括实时预览、可视化拖拽操作和自动生成 TikZ 代码，支持复杂图形如流程图、电路图等。适用于学术论文写作、技术文档制作和 LaTeX 教学场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-24T02:12:49.689391+00:00"
+    },
+    {
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "source": "hackernews-top",
+      "url": "https://dynomight.net/vitamin-d/",
+      "hn_url": "https://news.ycombinator.com/item?id=48647486",
+      "description": "",
+      "hn_score": 211,
+      "comments": 152,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "该条目讨论维生素D补充剂的实际效果，质疑其普遍被宣称的健康益处（如预防心血管疾病、癌症）的证据强度。核心问题是：维生素D缺乏被过度渲染为广泛健康问题的根源，而大规模临床试验显示补充剂对多数人群的益处有限。技术亮点在于对流行病学研究和随机对照试验的对比分析，揭示观察性研究与干预性研究结果之间的差异。适用场景为营养学、公共卫生领域的证据评估，以及普通公众对健康补剂的理性认知。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-24T02:12:52.738233+00:00"
+    },
+    {
+      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "source": "hackernews-top",
+      "url": "https://github.com/y-times-y/y",
+      "hn_url": "https://news.ycombinator.com/item?id=48653476",
+      "description": "",
+      "hn_score": 17,
+      "comments": 10,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "Y 是一个基于 Electron 构建的可塑编码代理桌面应用，旨在解决开发者对灵活、可定制 AI 编程助手的需求。其核心技术亮点在于提供可塑的交互界面和代理能力，允许用户调整工作流和工具链。适用场景包括日常代码编写、调试和项目维护，尤其适合需要高度自定义 AI 辅助流程的开发者。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-24T02:12:54.864256+00:00"
+    },
+    {
+      "title": "The Coming Loop",
+      "source": "hackernews-top",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48643180",
+      "description": "",
+      "hn_score": 327,
+      "comments": 234,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "《The Coming Loop》是一篇探讨AI系统自我强化循环（self-reinforcing loops）的技术文章，核心关注当AI生成内容大量充斥互联网后，模型训练数据被污染导致的退化风险。它解决的是数据闭环中模型性能下降、多样性丧失的问题。核心技术亮点在于分析了数据反馈循环（data feedback loop）如何导致模型崩溃（model collapse），并提出了通过数据溯源、合成数据质量控制和混合训练策略来缓解。适用场景包括大规模语言模型持续训练、数据管道设计及AI内容生态治理。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-24T02:12:57.794498+00:00"
+    },
+    {
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "source": "hackernews-top",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "hn_url": "https://news.ycombinator.com/item?id=48643426",
+      "description": "",
+      "hn_score": 441,
+      "comments": 101,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "Unlimited OCR 是一种一次性长视野解析技术，解决传统 OCR 在长文档、多页扫描或复杂布局中因分页处理导致的上下文断裂和效率低下问题。核心亮点在于采用单次推理处理整个文档，通过改进的视觉编码器和序列建模实现高精度文本提取，无需分块或后处理拼接。适用于大规模文档数字化、发票/合同批量处理、历史档案解析等场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-24T02:13:00.199120+00:00"
+    },
+    {
+      "title": "Five monitors on a Commodore 128 [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "hn_url": "https://news.ycombinator.com/item?id=48634187",
+      "description": "",
+      "hn_score": 107,
+      "comments": 19,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "该项目展示如何在Commodore 128复古计算机上连接五台显示器，实现多屏输出。解决复古硬件扩展显示能力的技术挑战，核心亮点包括利用C128的VIC-II和VDC双视频芯片特性，通过硬件修改和软件驱动实现多显示器同步。适用于复古计算爱好者、硬件黑客及多屏显示技术研究场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-24T02:13:02.443448+00:00"
+    },
+    {
+      "title": "The Low-Tech AI of Elden Ring",
+      "source": "hackernews-top",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48643489",
+      "description": "",
+      "hn_score": 108,
+      "comments": 55,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "分析《艾尔登法环》中AI的设计哲学：通过有限状态机、行为树和简单规则系统实现低技术复杂度但高游戏体验的NPC行为。解决现代游戏AI过度依赖复杂计算导致性能与设计成本问题。核心亮点是“少即是多”的设计原则，用可预测的规则创造挑战性。适用场景：游戏AI设计、低成本交互系统开发。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-24T02:13:04.797829+00:00"
+    },
+    {
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+      "hn_url": "https://news.ycombinator.com/item?id=48649011",
+      "description": "",
+      "hn_score": 299,
+      "comments": 192,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "该项目是一个被Google解雇的员工开发的Google Workspace CLI工具，旨在通过命令行高效管理Google Workspace（如Gmail、Calendar、Drive等）。核心技术亮点是提供统一的CLI接口，自动化常见工作流（如批量邮件处理、日历事件创建），无需手动操作Web界面。适用场景包括开发者、运维人员需要快速集成Google Workspace到自动化脚本或CI/CD管道中。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-06-24T02:13:07.183253+00:00"
+    },
+    {
+      "title": "Don't verify email addresses by sending spam to them",
+      "source": "hackernews-top",
+      "url": "https://milek7.pl/mailverifyspam/",
+      "hn_url": "https://news.ycombinator.com/item?id=48650837",
+      "description": "",
+      "hn_score": 145,
+      "comments": 46,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "该文章指出通过发送垃圾邮件来验证邮箱地址是一种低效且不尊重用户的做法。核心问题是传统邮箱验证方法可能滥用用户信任并导致垃圾邮件问题。技术亮点在于提出更优雅的验证方式，如使用确认链接或一次性验证码，避免发送未经请求的邮件。适用场景包括用户注册、密码重置等需要邮箱验证的Web应用开发。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-24T02:13:09.346286+00:00"
+    },
+    {
+      "title": "Trains halted across Germany because of communication system problem",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+      "hn_url": "https://news.ycombinator.com/item?id=48651613",
+      "description": "",
+      "hn_score": 143,
+      "comments": 140,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "德国全国铁路因通信系统故障导致列车停运。该问题源于铁路专用通信网络（GSM-R）的故障，影响了列车调度与控制。核心亮点是揭示了关键基础设施对专用通信系统的依赖，以及故障对交通系统的连锁影响。适用场景为关键基础设施的通信系统可靠性分析与应急响应研究。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-24T02:13:11.324298+00:00"
+    },
+    {
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "source": "hackernews-top",
+      "url": "https://lift4d.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48645721",
+      "description": "",
+      "hn_score": 105,
+      "comments": 12,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "Lift4D 是一种从单张视图进行 4D 动态场景重建的方法，解决野外环境下缺乏多视角数据导致的动态重建困难。核心技术包括单视图 3D 估计与时间一致性融合，利用隐式神经表示和运动先验实现时空连贯的 4D 输出。适用于 AR/VR、影视特效和机器人感知等需要从单视角视频重建动态 3D 场景的场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-24T02:13:13.983919+00:00"
+    },
+    {
+      "title": "The deadly rise of giant trucks and SUVs",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48623347",
+      "description": "",
+      "hn_score": 388,
+      "comments": 655,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "该文章讨论大型卡车和SUV在美国道路上的致命性增长，指出车辆尺寸增大导致行人死亡风险显著上升。它通过分析车辆设计趋势、安全法规漏洞和消费者偏好，揭示车辆重量与碰撞致死率之间的关联。核心亮点是引用研究数据证明大型车辆对弱势道路用户（如行人、骑行者）的威胁。适用场景包括交通安全政策制定、车辆设计伦理讨论及公众安全意识提升。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-24T02:13:16.346097+00:00"
+    },
+    {
+      "title": "AI's Affordability Crisis",
+      "source": "hackernews-top",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48646276",
+      "description": "",
+      "hn_score": 257,
+      "comments": 344,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "《AI's Affordability Crisis》探讨了当前AI技术（尤其是大型语言模型）的高昂成本正成为其广泛普及的核心障碍。文章指出，训练和推理的巨额计算开销、专有模型的授权费用以及基础设施投入，导致AI应用对中小企业和个人开发者而言越来越难以负担。核心亮点在于揭示了成本结构中的关键瓶颈（如GPU稀缺、能源消耗），并呼吁通过开源模型、模型压缩、高效推理算法及社区协作来降低门槛。适用场景包括AI创业公司成本优化、企业AI部署决策、以及开源社区推动的普惠AI运动。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-24T02:13:19.194679+00:00"
+    },
+    {
+      "title": "San Diego photologs from the 1970s",
+      "source": "hackernews-top",
+      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+      "hn_url": "https://news.ycombinator.com/item?id=48647823",
+      "description": "",
+      "hn_score": 144,
+      "comments": 47,
+      "collected_at": "2026-06-24T02:11:52.924865+00:00",
+      "published_at": "2026-06-24T02:11:52.924865+00:00",
+      "summary": "这是一个1970年代圣地亚哥的摄影日志集合，属于历史影像资料。它不解决任何AI/LLM技术问题，核心内容是城市风貌和人文记录，无技术亮点。适用场景为历史研究、摄影爱好或怀旧参考。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-06-24T02:13:21.038474+00:00"
+    }
+  ]
+}

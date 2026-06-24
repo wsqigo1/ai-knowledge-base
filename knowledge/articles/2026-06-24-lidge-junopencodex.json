@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-24-007",
+  "title": "lidge-jun/opencodex",
+  "source": "github-trending",
+  "url": "https://github.com/lidge-jun/opencodex",
+  "summary": "opencodex 是一个通用提供商代理，允许 OpenAI Codex 使用任何 LLM（如 Claude、Gemini 等）替代原生模型。它通过实现 Codex CLI、App 和 SDK 的接口，透明地路由请求到不同后端，解决 Codex 对特定模型的锁定问题。核心技术亮点是轻量级代理层和统一 API 转换，无需修改现有 Codex 工作流。适用于需要灵活切换 LLM 的代码生成、AI 辅助编程场景。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "large-language-model",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-24T02:11:52.755870+00:00",
+  "analyzed_at": "2026-06-24T02:12:32.212580+00:00",
+  "organized_at": "2026-06-24T02:13:21.067372+00:00",
+  "status": "published"
+}

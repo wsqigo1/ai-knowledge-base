@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-24-014",
+  "title": "Unlimited OCR: One-shot long-horizon parsing",
+  "source": "hackernews-top",
+  "url": "https://github.com/baidu/Unlimited-OCR",
+  "summary": "Unlimited OCR 是一种一次性长视野解析技术，解决传统 OCR 在长文档、多页扫描或复杂布局中因分页处理导致的上下文断裂和效率低下问题。核心亮点在于采用单次推理处理整个文档，通过改进的视觉编码器和序列建模实现高精度文本提取，无需分块或后处理拼接。适用于大规模文档数字化、发票/合同批量处理、历史档案解析等场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-24T02:11:52.924865+00:00",
+  "analyzed_at": "2026-06-24T02:13:00.199120+00:00",
+  "organized_at": "2026-06-24T02:13:21.067372+00:00",
+  "status": "published"
+}
