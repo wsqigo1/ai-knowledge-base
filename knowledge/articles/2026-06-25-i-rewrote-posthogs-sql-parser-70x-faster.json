@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-25-018",
+  "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+  "source": "hackernews-top",
+  "url": "https://posthog.com/blog/sql-parser",
+  "summary": "PostHog 团队重写了其 SQL 解析器，性能提升 70 倍，且几乎未改动原有代码。核心方法是用 Rust 重写解析逻辑，利用 Rust 的内存安全和高性能特性，替换了原 Python 实现的解析器。解决了 PostHog 产品中 SQL 解析成为性能瓶颈的问题。适用于需要高性能 SQL 解析的数据分析平台、数据库中间件等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-06-25T02:11:54.691168+00:00",
+  "analyzed_at": "2026-06-25T02:13:15.062214+00:00",
+  "organized_at": "2026-06-25T02:13:19.812371+00:00",
+  "status": "published"
+}

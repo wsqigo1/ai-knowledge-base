@@ -1,0 +1,392 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-25T02:11:55.762796+00:00",
+  "date": "2026-06-25",
+  "count": 20,
+  "items": [
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "hn_url": "https://news.ycombinator.com/item?id=48663324",
+      "description": "",
+      "hn_score": 541,
+      "comments": 335,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "OpenAI与Broadcom合作推出首款定制芯片，旨在解决大模型训练和推理中的算力瓶颈与成本问题。核心技术亮点包括针对Transformer架构优化的专用加速单元和高效内存带宽设计，适用于大规模AI模型训练、实时推理及云端AI服务部署。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-06-25T02:12:38.232413+00:00"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "hn_url": "https://news.ycombinator.com/item?id=48664814",
+      "description": "",
+      "hn_score": 57,
+      "comments": 94,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Anthropic指控阿里巴巴未经授权提取其Claude AI模型能力，涉及模型蒸馏或复制行为。该事件解决AI模型安全与知识产权保护问题，核心亮点是揭示模型能力被非法提取的技术可能性与法律风险。适用场景包括AI安全研究、模型防护策略制定及企业知识产权管理。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-25T02:12:39.962826+00:00"
+    },
+    {
+      "title": "Bible as RAG Database",
+      "source": "hackernews-top",
+      "url": "https://www.crosscanon.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48667807",
+      "description": "",
+      "hn_score": 16,
+      "comments": 8,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "该项目将圣经文本作为RAG（检索增强生成）数据库，通过向量化圣经内容并构建检索系统，使LLM能够基于圣经文本进行问答。核心亮点是利用圣经的权威性和结构化文本作为知识源，展示RAG在特定领域（如宗教、历史研究）的应用。适用场景包括宗教教育、神学研究和基于文本的问答系统。",
+      "tags": [
+        "rag",
+        "vector-database",
+        "large-language-model"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-25T02:12:42.099098+00:00"
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "hn_url": "https://news.ycombinator.com/item?id=48659798",
+      "description": "",
+      "hn_score": 148,
+      "comments": 37,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Qualcomm宣布收购Modular，后者是AI基础设施公司，核心产品为Mojo编程语言和MAX引擎，旨在简化AI模型部署并提升性能。该收购解决AI工程师在异构计算（CPU/GPU/NPU）上高效运行模型的痛点，核心技术亮点包括Mojo的Python兼容性与高性能编译、MAX引擎的自动化硬件优化。适用场景：边缘AI推理、移动端模型加速、跨平台AI应用开发。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-25T02:12:44.525701+00:00"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "source": "hackernews-top",
+      "url": "https://rubyllm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48660711",
+      "description": "",
+      "hn_score": 347,
+      "comments": 55,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "RubyLLM是一个为Ruby语言设计的统一框架，旨在解决Ruby生态中缺乏多AI提供商集成工具的问题。其核心技术亮点是提供一致的API接口，支持OpenAI、Anthropic、Google等主流AI服务，并内置错误重试、流式响应和工具调用功能。适用场景包括Ruby on Rails应用快速集成AI能力、构建聊天机器人或自动化工作流。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-25T02:12:46.889353+00:00"
+    },
+    {
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "source": "hackernews-top",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "hn_url": "https://news.ycombinator.com/item?id=48660579",
+      "description": "",
+      "hn_score": 181,
+      "comments": 102,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "本文讨论PR（Pull Request）垃圾信息泛滥现象，类比早期2000年代的电子邮件垃圾。核心问题是开源项目维护者面临大量低质量、自动化生成的PR，消耗审查精力。技术亮点在于识别模式：自动化工具生成的无意义代码变更、虚假贡献。适用场景为开源社区治理与开发者工具优化。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-25T02:12:48.949101+00:00"
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=48662999",
+      "description": "",
+      "hn_score": 175,
+      "comments": 105,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Gemini 3.5 Flash 引入“Computer use”能力，解决 AI 模型无法直接操作图形界面（GUI）的问题。核心技术亮点：通过视觉理解屏幕截图并生成鼠标/键盘操作指令，实现端到端的 GUI 自动化。适用场景：自动化测试、RPA、无障碍辅助、远程桌面控制等需要模拟人类操作计算机的任务。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-25T02:12:51.120929+00:00"
+    },
+    {
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "source": "hackernews-top",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "hn_url": "https://news.ycombinator.com/item?id=48660178",
+      "description": "",
+      "hn_score": 197,
+      "comments": 154,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "该条目介绍了一种45°C冷却设计，旨在将数据中心水耗降至接近零。它解决数据中心高水耗和冷却效率问题，核心技术亮点是采用更高温冷却液（45°C）替代传统低温冷却，减少或消除蒸发和补水需求。适用场景为新建或改造数据中心，尤其适合水资源紧张地区。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-25T02:12:53.132124+00:00"
+    },
+    {
+      "title": "GLM-5.2 is a step change for open agents",
+      "source": "hackernews-top",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "hn_url": "https://news.ycombinator.com/item?id=48639840",
+      "description": "",
+      "hn_score": 131,
+      "comments": 69,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "GLM-5.2 是智谱AI发布的开源大模型，旨在提升开放智能体的自主任务执行能力。核心亮点包括更强的工具调用、多步推理和指令遵循能力，显著降低幻觉率。适用于构建复杂工作流、自动化代理和需要高可靠性的AI助手场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source",
+        "tool-use",
+        "reasoning"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-06-25T02:12:55.277285+00:00"
+    },
+    {
+      "title": "The Xteink X4 E-Ink Reader",
+      "source": "hackernews-top",
+      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "hn_url": "https://news.ycombinator.com/item?id=48662381",
+      "description": "",
+      "hn_score": 175,
+      "comments": 109,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "The Xteink X4 是一款新型 E-Ink 阅读器，旨在解决传统电子墨水屏刷新率低、响应慢的问题。其核心技术亮点在于采用了定制的低功耗处理器和优化的刷新算法，实现了接近液晶屏的流畅翻页体验，同时保持超长续航。适用场景包括长时间阅读、户外使用及需要护眼的文档浏览。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-06-25T02:12:57.226753+00:00"
+    },
+    {
+      "title": "Elastic lays off 7% of employees",
+      "source": "hackernews-top",
+      "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+      "hn_url": "https://news.ycombinator.com/item?id=48666100",
+      "description": "",
+      "hn_score": 134,
+      "comments": 129,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Elastic 宣布裁员 7%，约 700 名员工，作为公司重组计划的一部分。此举旨在优化运营效率并重新聚焦于核心业务领域，包括搜索、可观测性和安全解决方案。Elastic 强调将继续投资于 AI 和机器学习能力，以增强其 Elasticsearch 平台。该事件反映了科技行业在宏观经济压力下持续进行成本削减的趋势，同时保持对 AI 相关创新的投入。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-25T02:12:59.515757+00:00"
+    },
+    {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "hn_url": "https://news.ycombinator.com/item?id=48661825",
+      "description": "",
+      "hn_score": 495,
+      "comments": 244,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "这是一篇反思早期AI/LLM开发常见错误的经验分享文章，旨在帮助开发者避免重复踩坑。核心亮点包括：过度依赖单一模型、忽视数据质量、过早优化系统架构、以及低估评估与监控的重要性。适用场景为AI工程师在项目初期规划或复盘时参考，以提升开发效率和模型可靠性。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-06-25T02:13:01.705851+00:00"
+    },
+    {
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "source": "hackernews-top",
+      "url": "https://github.com/nubjs/nub",
+      "hn_url": "https://news.ycombinator.com/item?id=48660267",
+      "description": "",
+      "hn_score": 202,
+      "comments": 57,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Nub 是一个面向 Node.js 的全能工具包，类似 Bun 的集成化设计，旨在解决 Node.js 生态中工具碎片化问题。核心亮点包括内置打包器、测试运行器、任务执行器和 TypeScript 原生支持，无需额外配置。适用于需要简化开发流程、减少依赖的 Node.js 项目，尤其适合快速原型和中小型应用开发。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-25T02:13:03.763718+00:00"
+    },
+    {
+      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+      "source": "hackernews-top",
+      "url": "https://victorribeiro.com/wordit/",
+      "hn_url": "https://news.ycombinator.com/item?id=48649697",
+      "description": "",
+      "hn_score": 8,
+      "comments": 10,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Wordit 是一个基于字母替换的文字链游戏，用户通过每次改变一个字母来生成新单词，保持链条延续。解决的是语言趣味互动与词汇联想问题。核心技术是简单的字符串操作和字典验证，无复杂AI模型。适用场景为休闲娱乐或语言学习。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-25T02:13:05.950574+00:00"
+    },
+    {
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "source": "hackernews-top",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "hn_url": "https://news.ycombinator.com/item?id=48646659",
+      "description": "",
+      "hn_score": 341,
+      "comments": 37,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Krea 2 是一个开源权重 12B 参数的图像生成模型，旨在解决现有闭源模型权重不可用、社区难以复现和定制的问题。其核心技术亮点包括采用扩散 Transformer 架构、在 12B 规模下实现 SOTA 质量，并开放权重供研究使用。适用场景包括图像生成研究、模型微调、以及需要高质量图像生成的创意应用。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-25T02:13:08.091995+00:00"
+    },
+    {
+      "title": "Stealing Is a Skill",
+      "source": "hackernews-top",
+      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+      "hn_url": "https://news.ycombinator.com/item?id=48659165",
+      "description": "",
+      "hn_score": 214,
+      "comments": 130,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "文章探讨了在AI开发中“借鉴”他人代码与思路作为一种关键技能，而非道德瑕疵。它解决的是工程师如何高效利用开源资源、避免重复造轮子的问题。核心亮点在于提出系统化的代码复用方法论，包括理解、改编与归因。适用场景为AI工程师日常开发、快速原型构建与学习最佳实践。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-25T02:13:10.347492+00:00"
+    },
+    {
+      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+      "source": "hackernews-top",
+      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+      "hn_url": "https://news.ycombinator.com/item?id=48606222",
+      "description": "",
+      "hn_score": 279,
+      "comments": 56,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "SSH隧道（SSH Tunnels）是一种通过加密SSH连接实现网络端口转发（Port Forwarding）的技术，解决远程访问内网服务、绕过防火墙限制、安全传输数据等问题。核心技术包括本地端口转发（Local Port Forwarding）和远程端口转发（Remote Port Forwarding），前者将远程服务映射到本地端口，后者将本地服务暴露到远程。适用场景：安全访问数据库、代理上网、穿透NAT访问内网服务器。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.4,
+      "analyzed_at": "2026-06-25T02:13:12.675513+00:00"
+    },
+    {
+      "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+      "source": "hackernews-top",
+      "url": "https://posthog.com/blog/sql-parser",
+      "hn_url": "https://news.ycombinator.com/item?id=48663544",
+      "description": "",
+      "hn_score": 119,
+      "comments": 59,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "PostHog 团队重写了其 SQL 解析器，性能提升 70 倍，且几乎未改动原有代码。核心方法是用 Rust 重写解析逻辑，利用 Rust 的内存安全和高性能特性，替换了原 Python 实现的解析器。解决了 PostHog 产品中 SQL 解析成为性能瓶颈的问题。适用于需要高性能 SQL 解析的数据分析平台、数据库中间件等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-06-25T02:13:15.062214+00:00"
+    },
+    {
+      "title": "We’re making Bunny DNS free",
+      "source": "hackernews-top",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "hn_url": "https://news.ycombinator.com/item?id=48657030",
+      "description": "",
+      "hn_score": 853,
+      "comments": 256,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "Bunny DNS 宣布其 DNS 服务免费。这是一个内容分发网络（CDN）和 DNS 提供商，解决开发者/网站运营者需要低成本、高性能 DNS 解析的问题。核心技术亮点包括全球节点、低延迟解析和免费套餐。适用场景：个人网站、小型项目、需要可靠 DNS 但预算有限的开发者。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-25T02:13:17.107902+00:00"
+    },
+    {
+      "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+      "source": "hackernews-top",
+      "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+      "hn_url": "https://news.ycombinator.com/item?id=48664733",
+      "description": "",
+      "hn_score": 154,
+      "comments": 56,
+      "collected_at": "2026-06-25T02:11:54.691168+00:00",
+      "published_at": "2026-06-25T02:11:54.691168+00:00",
+      "summary": "该条目讨论Rust包管理器crates.io不应依赖GitHub作为发布流程的必要环节。核心问题是当前crates.io的发布机制与GitHub深度绑定，导致开发者必须使用GitHub账号或CI/CD流程，限制了非GitHub用户或私有仓库的发布灵活性。技术亮点在于提出去中心化的发布方案，如支持本地签名、独立令牌认证或替代托管平台。适用场景为Rust生态的包管理优化，尤其适合企业级或隐私敏感项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-06-25T02:13:19.782534+00:00"
+    }
+  ]
+}

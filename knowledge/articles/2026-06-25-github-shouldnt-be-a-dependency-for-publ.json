@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-25-019",
+  "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+  "source": "hackernews-top",
+  "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+  "summary": "该条目讨论Rust包管理器crates.io不应依赖GitHub作为发布流程的必要环节。核心问题是当前crates.io的发布机制与GitHub深度绑定，导致开发者必须使用GitHub账号或CI/CD流程，限制了非GitHub用户或私有仓库的发布灵活性。技术亮点在于提出去中心化的发布方案，如支持本地签名、独立令牌认证或替代托管平台。适用场景为Rust生态的包管理优化，尤其适合企业级或隐私敏感项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-06-25T02:11:54.691168+00:00",
+  "analyzed_at": "2026-06-25T02:13:19.782534+00:00",
+  "organized_at": "2026-06-25T02:13:19.812371+00:00",
+  "status": "published"
+}

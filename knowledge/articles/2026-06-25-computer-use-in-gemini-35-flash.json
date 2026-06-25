@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-25-012",
+  "title": "Computer use in Gemini 3.5 Flash",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+  "summary": "Gemini 3.5 Flash 引入“Computer use”能力，解决 AI 模型无法直接操作图形界面（GUI）的问题。核心技术亮点：通过视觉理解屏幕截图并生成鼠标/键盘操作指令，实现端到端的 GUI 自动化。适用场景：自动化测试、RPA、无障碍辅助、远程桌面控制等需要模拟人类操作计算机的任务。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "tool-use",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-25T02:11:54.691168+00:00",
+  "analyzed_at": "2026-06-25T02:12:51.120929+00:00",
+  "organized_at": "2026-06-25T02:13:19.812371+00:00",
+  "status": "published"
+}

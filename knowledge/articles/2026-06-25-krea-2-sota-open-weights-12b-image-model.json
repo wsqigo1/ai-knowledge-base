@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-25-016",
+  "title": "Krea 2: SOTA open-weights 12B image model",
+  "source": "hackernews-top",
+  "url": "https://www.krea.ai/blog/krea-2-technical-report",
+  "summary": "Krea 2 是一个开源权重 12B 参数的图像生成模型，旨在解决现有闭源模型权重不可用、社区难以复现和定制的问题。其核心技术亮点包括采用扩散 Transformer 架构、在 12B 规模下实现 SOTA 质量，并开放权重供研究使用。适用场景包括图像生成研究、模型微调、以及需要高质量图像生成的创意应用。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "benchmark"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-25T02:11:54.691168+00:00",
+  "analyzed_at": "2026-06-25T02:13:08.091995+00:00",
+  "organized_at": "2026-06-25T02:13:19.812371+00:00",
+  "status": "published"
+}
