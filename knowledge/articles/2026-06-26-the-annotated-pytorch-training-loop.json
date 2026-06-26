@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-06-26-009",
+  "title": "The annotated PyTorch training loop",
+  "source": "hackernews-top",
+  "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+  "summary": "The annotated PyTorch training loop 是一篇详细解析 PyTorch 训练循环代码的教程，通过逐行注释和解释，帮助开发者理解训练循环中的关键步骤（如数据加载、前向传播、损失计算、反向传播和参数更新）。它解决了新手在实现自定义训练循环时容易出错或忽略细节的问题，核心亮点是提供了可运行的代码示例和清晰的注释，适合用于学习 PyTorch 基础、调试自定义模型或作为教学参考。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-26T02:13:42.622539+00:00",
+  "analyzed_at": "2026-06-26T02:15:01.112402+00:00",
+  "organized_at": "2026-06-26T02:15:10.671370+00:00",
+  "status": "published"
+}

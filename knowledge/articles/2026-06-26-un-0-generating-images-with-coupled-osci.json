@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-26-007",
+  "title": "Un-0: Generating Images with Coupled Oscillators",
+  "source": "hackernews-top",
+  "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+  "summary": "Un-0 是一种利用耦合振荡器生成图像的方法，将图像生成问题转化为振荡器系统的同步与模式形成。它解决了传统生成模型（如扩散模型）计算成本高、依赖大规模训练数据的问题。核心技术亮点在于通过物理振荡器网络的动力学行为（如相位耦合）直接产生图像，无需反向传播或大量参数。适用场景包括低资源环境下的图像生成、物理计算与AI交叉研究。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-26T02:13:42.622539+00:00",
+  "analyzed_at": "2026-06-26T02:14:39.231263+00:00",
+  "organized_at": "2026-06-26T02:15:10.671370+00:00",
+  "status": "published"
+}

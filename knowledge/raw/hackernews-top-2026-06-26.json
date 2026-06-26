@@ -1,0 +1,377 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-26T02:13:43.139278+00:00",
+  "date": "2026-06-26",
+  "count": 20,
+  "items": [
+    {
+      "title": "Om Malik has died",
+      "source": "hackernews-top",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=48678852",
+      "description": "",
+      "hn_score": 482,
+      "comments": 48,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "Om Malik 去世的消息在 Hacker News 上引发广泛关注，HN 评分 482。该条目本身并非技术项目或工具，而是对科技界知名人物逝世的报道。它不解决具体技术问题，也无核心技术亮点。适用场景：科技社区对行业人物的纪念与讨论。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-26T02:14:29.047858+00:00"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "source": "hackernews-top",
+      "url": "https://scrollprize.org/firstscroll",
+      "hn_url": "https://news.ycombinator.com/item?id=48675179",
+      "description": "",
+      "hn_score": 996,
+      "comments": 220,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "首次完整读取赫库兰尼姆古卷，利用X射线显微成像和AI文本识别技术，解决碳化卷轴无法物理展开的难题。核心亮点是深度学习模型从高分辨率CT扫描中检测墨水痕迹并重建文字，适用于考古学、历史文献数字化及极端损坏文本的恢复。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-26T02:14:31.032222+00:00"
+    },
+    {
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "source": "hackernews-top",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "hn_url": "https://news.ycombinator.com/item?id=48676795",
+      "description": "",
+      "hn_score": 54,
+      "comments": 32,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "Apple计划跳过高端M6 Mac芯片，直接开发专注于AI的M7系列。该决策解决现有芯片在AI工作负载上的性能瓶颈，核心亮点是M7将集成专用神经网络加速单元，优化大模型推理与训练效率。适用场景包括本地AI推理、边缘计算及开发者工具链。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-26T02:14:32.832110+00:00"
+    },
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "source": "hackernews-top",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "hn_url": "https://news.ycombinator.com/item?id=48679608",
+      "description": "",
+      "hn_score": 425,
+      "comments": 195,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "文章讨论互联网进入'证件检查'时代，即网站和服务要求用户提供大量身份信息以访问内容，严重侵蚀隐私。核心问题是数据收集与监控的扩大化，技术亮点在于揭示这种模式如何通过强制身份验证、追踪和数据分析来削弱匿名性。适用场景为隐私保护、网络安全政策讨论及用户意识提升。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-26T02:14:35.048751+00:00"
+    },
+    {
+      "title": "AI children's books, body horror edition",
+      "source": "hackernews-top",
+      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "hn_url": "https://news.ycombinator.com/item?id=48681250",
+      "description": "",
+      "hn_score": 17,
+      "comments": 0,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "该项目利用AI生成儿童书籍，但主题为身体恐怖（body horror），结合文本与图像生成技术。解决传统儿童书籍内容单一问题，通过大语言模型生成故事文本，多模态模型生成配图，实现个性化创作。核心技术包括LLM叙事生成与扩散模型图像合成。适用场景为实验性儿童内容创作或AI艺术探索。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "code-generation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-26T02:14:36.953060+00:00"
+    },
+    {
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "source": "hackernews-top",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "hn_url": "https://news.ycombinator.com/item?id=48679007",
+      "description": "",
+      "hn_score": 116,
+      "comments": 28,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "Un-0 是一种利用耦合振荡器生成图像的方法，将图像生成问题转化为振荡器系统的同步与模式形成。它解决了传统生成模型（如扩散模型）计算成本高、依赖大规模训练数据的问题。核心技术亮点在于通过物理振荡器网络的动力学行为（如相位耦合）直接产生图像，无需反向传播或大量参数。适用场景包括低资源环境下的图像生成、物理计算与AI交叉研究。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-26T02:14:39.231263+00:00"
+    },
+    {
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "source": "hackernews-top",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "hn_url": "https://news.ycombinator.com/item?id=48642474",
+      "description": "",
+      "hn_score": 103,
+      "comments": 22,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "该项目是一个游戏化的操作系统模拟器，玩家扮演操作系统角色，需管理进程调度、内存分配和I/O事件处理。核心通过模拟中断、分页、调度算法等底层机制，将抽象概念具象化。适用于计算机教育、OS原理教学或系统编程入门场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-26T02:14:41.206289+00:00"
+    },
+    {
+      "title": "Oxide computer 3D rack guided tour",
+      "source": "hackernews-top",
+      "url": "https://explorer.oxide.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48631450",
+      "description": "",
+      "hn_score": 298,
+      "comments": 121,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "Oxide computer 3D rack guided tour 展示了 Oxide 公司设计的开源硬件机架式计算机的 3D 交互式导览。该产品旨在解决传统数据中心硬件供应商锁定、固件封闭及管理复杂的问题，通过完全开源硬件设计、固件和软件栈，提供可定制、透明且高性能的服务器基础设施。核心技术亮点包括模块化机架设计、集成网络与存储、基于 Rust 的底层固件以及 3D 可视化配置工具。适用场景为需要高度可控、安全且可审计的数据中心部署，尤其适合云原生、边缘计算及研究机构。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-26T02:14:43.862509+00:00"
+    },
+    {
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "source": "hackernews-top",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "hn_url": "https://news.ycombinator.com/item?id=48674967",
+      "description": "",
+      "hn_score": 266,
+      "comments": 148,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "IBM 宣布突破亚 1 纳米芯片制造技术，旨在解决传统硅基半导体在 1 纳米以下节点面临的量子隧穿效应和功耗失控问题。核心技术亮点包括利用纳米片晶体管架构和新型材料（如二维材料或碳纳米管）实现更小的栅极间距，提升能效比。该技术适用于高性能计算、AI 训练芯片及边缘设备，有望延续摩尔定律。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-26T02:14:45.994879+00:00"
+    },
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "source": "hackernews-top",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "hn_url": "https://news.ycombinator.com/item?id=48675435",
+      "description": "",
+      "hn_score": 211,
+      "comments": 99,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "OpenKnowledge 是一个开源、AI-first 的知识管理工具，旨在替代 Obsidian/Notion。它解决传统笔记软件缺乏智能关联与自动化的问题，核心亮点在于集成 LLM 实现语义搜索、自动标签和内容生成，支持本地优先与插件扩展。适用于个人知识库构建、研究笔记整理及团队协作场景。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-06-26T02:14:48.094093+00:00"
+    },
+    {
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "source": "hackernews-top",
+      "url": "https://princechazz.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48616304",
+      "description": "",
+      "hn_score": 219,
+      "comments": 75,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "一个受国际象棋启发的Roguelike游戏，将象棋的回合制策略与Roguelike的随机生成、永久死亡机制结合。解决传统Roguelike缺乏深度战术决策的问题，核心亮点是使用象棋棋子移动规则（如车、马、象）作为角色技能，并引入棋盘格战斗系统。适用场景：游戏开发者的设计灵感参考、AI游戏代理的测试环境。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-26T02:14:50.270101+00:00"
+    },
+    {
+      "title": "OS9Map",
+      "source": "hackernews-top",
+      "url": "https://yllan.org/software/OS9Map/",
+      "hn_url": "https://news.ycombinator.com/item?id=48674484",
+      "description": "",
+      "hn_score": 188,
+      "comments": 30,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "OS9Map 是一个开源项目，旨在提供类似 macOS 9 风格的经典地图导航体验。它解决了现代地图应用界面复杂、资源占用高的问题，通过复古 UI 设计和轻量级渲染引擎实现高效地图浏览。核心技术亮点包括基于 Canvas 的 2D 地图绘制、离线瓦片缓存机制以及键盘快捷键导航。适用于怀旧用户、极简主义开发者或需要低性能设备上运行地图应用的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-26T02:14:52.497900+00:00"
+    },
+    {
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "source": "hackernews-top",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "hn_url": "https://news.ycombinator.com/item?id=48673825",
+      "description": "",
+      "hn_score": 214,
+      "comments": 87,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "Zig 语言引入新的 bitCast 语义，提供更安全、可预测的类型转换，同时 LLVM 后端优化提升编译效率和生成代码性能。解决旧版 bitCast 在类型转换中的未定义行为和性能瓶颈。核心技术包括严格类型检查的 bitCast 实现和 LLVM 后端改进。适用于系统编程、嵌入式开发、高性能计算等需要精确内存操作和编译优化的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-06-26T02:14:54.648977+00:00"
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "hn_url": "https://news.ycombinator.com/item?id=48672732",
+      "description": "",
+      "hn_score": 631,
+      "comments": 906,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "苹果宣布上调MacBook和iPad价格，主要受汇率波动和供应链成本影响。该事件不涉及AI/LLM技术，而是硬件定价策略调整。核心亮点为苹果维持高端定位，但可能影响消费者购买决策。适用场景为关注消费电子市场动态的行业观察者。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-26T02:14:56.634558+00:00"
+    },
+    {
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "hn_url": "https://news.ycombinator.com/item?id=48679934",
+      "description": "",
+      "hn_score": 138,
+      "comments": 55,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "该条目报道美国军事分支在流感病毒席卷基地后恢复强制接种流感疫苗的要求。核心是公共卫生干预措施，通过恢复疫苗强制令应对病毒传播，解决军营等高密度环境中传染病防控问题。技术亮点在于利用流行病学数据和疫苗接种策略降低感染率。适用场景为军事基地、集体宿舍等封闭人群环境。",
+      "tags": [
+        "workflow-automation"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-26T02:14:58.960519+00:00"
+    },
+    {
+      "title": "The annotated PyTorch training loop",
+      "source": "hackernews-top",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "hn_url": "https://news.ycombinator.com/item?id=48638120",
+      "description": "",
+      "hn_score": 63,
+      "comments": 12,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "The annotated PyTorch training loop 是一篇详细解析 PyTorch 训练循环代码的教程，通过逐行注释和解释，帮助开发者理解训练循环中的关键步骤（如数据加载、前向传播、损失计算、反向传播和参数更新）。它解决了新手在实现自定义训练循环时容易出错或忽略细节的问题，核心亮点是提供了可运行的代码示例和清晰的注释，适合用于学习 PyTorch 基础、调试自定义模型或作为教学参考。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-26T02:15:01.112402+00:00"
+    },
+    {
+      "title": "You can't unit test for taste",
+      "source": "hackernews-top",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "hn_url": "https://news.ycombinator.com/item?id=48657049",
+      "description": "",
+      "hn_score": 245,
+      "comments": 117,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "这是一篇关于软件测试哲学的文章，讨论为何“品味”（如UI设计、用户体验）无法通过单元测试来验证。核心观点是单元测试适用于逻辑和功能正确性，但无法评估主观审美或设计质量。文章指出，开发者常误用单元测试来覆盖不可测试的方面，导致测试无效或维护成本高。技术亮点在于清晰区分了可测试与不可测试的边界，并提倡使用人工审查、用户测试等替代方法。适用场景包括软件工程团队在制定测试策略时，需明确单元测试的局限性，避免过度依赖自动化测试来评估非功能性需求。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-26T02:15:03.835519+00:00"
+    },
+    {
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "source": "hackernews-top",
+      "url": "https://github.com/decrazyo/anes",
+      "hn_url": "https://news.ycombinator.com/item?id=48652997",
+      "description": "",
+      "hn_score": 104,
+      "comments": 34,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "ANES 是对经典 NES 主机的硬件改造项目，通过添加第二颗 PPU（图像处理单元）实现双 PPU 并行渲染。解决原版 NES 因单 PPU 性能限制导致的画面闪烁、颜色限制和分辨率不足问题。核心技术包括双 PPU 同步机制、自定义视频混合电路以及 FPGA 辅助逻辑。适用于复古游戏硬件改造、嵌入式系统研究及 FPGA 教学场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-06-26T02:15:06.027363+00:00"
+    },
+    {
+      "title": "The disappearance of Japan's animators",
+      "source": "hackernews-top",
+      "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+      "hn_url": "https://news.ycombinator.com/item?id=48620422",
+      "description": "",
+      "hn_score": 150,
+      "comments": 117,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "这是一篇关于日本动画师行业现状的报道，探讨了动画师数量减少、工作条件恶劣以及行业可持续发展面临的挑战。核心亮点在于揭示了动画制作中劳动密集性与技术替代之间的张力，以及AI/LLM在辅助动画制作（如自动补帧、角色生成）中的潜在应用场景。适用于关注创意产业与AI技术交叉领域的研究者和从业者。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-26T02:15:08.408176+00:00"
+    },
+    {
+      "title": "Political bias in AI: Where the AI models stand",
+      "source": "hackernews-top",
+      "url": "https://trakkr.ai/bias",
+      "hn_url": "https://news.ycombinator.com/item?id=48672779",
+      "description": "",
+      "hn_score": 120,
+      "comments": 238,
+      "collected_at": "2026-06-26T02:13:42.622539+00:00",
+      "published_at": "2026-06-26T02:13:42.622539+00:00",
+      "summary": "本文评估主流AI模型（如GPT-4、Claude、Gemini）在政治议题上的偏见倾向，通过标准化测试揭示模型在敏感话题上的立场差异。核心问题在于训练数据中的隐性偏见导致模型输出不中立，影响AI在新闻、教育等场景的可靠性。技术亮点包括设计多维度政治倾向测试集和量化分析框架。适用场景为AI伦理研究、模型部署前的偏见审计及政策制定参考。",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-26T02:15:10.645634+00:00"
+    }
+  ]
+}

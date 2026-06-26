@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-26-003",
+  "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
+  "source": "github-trending",
+  "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+  "summary": "NVIDIA-BioNeMo/bionemo-agent-toolkit 是一个开源 Python 工具包，将 NVIDIA BioNeMo 的生命科学 AI 能力封装为可调用的 skills，使任何 agent 框架（如 LangChain、AutoGPT）能直接执行蛋白质结构预测、分子生成、序列分析等任务。核心技术亮点包括预构建的 BioNeMo 模型 API 接口、标准化 skill 注册与调用机制、以及支持多模态生物数据输入。解决通用 agent 缺乏领域专业知识的问题，适用于药物研发、生物信息学自动化、科研工作流编排等场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-26T02:13:42.417649+00:00",
+  "analyzed_at": "2026-06-26T02:14:13.002645+00:00",
+  "organized_at": "2026-06-26T02:15:10.671370+00:00",
+  "status": "published"
+}
