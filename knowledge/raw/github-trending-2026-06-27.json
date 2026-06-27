@@ -1,0 +1,502 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-27T02:08:55.935274+00:00",
+  "date": "2026-06-27",
+  "count": 19,
+  "items": [
+    {
+      "title": "QwenLM/Qwen-AgentWorld",
+      "source": "github-trending",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "stars": 568,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-25T06:57:43Z",
+      "summary": "Qwen-AgentWorld 是一个基于通义千问构建的语言世界模型框架，旨在为通用智能体提供环境模拟与交互能力。它解决了当前智能体在复杂、动态环境中缺乏通用世界模型支持的问题，核心亮点在于利用大语言模型生成可交互的虚拟世界，使智能体能够进行规划、推理和行动。适用场景包括智能体训练、多智能体协作模拟以及具身智能研究。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "multi-agent",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-27T02:08:57.713093+00:00"
+    },
+    {
+      "title": "benchflow-ai/awesome-evals",
+      "source": "github-trending",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stars": 465,
+      "language": null,
+      "topics": [
+        "agent-evaluation",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "benchmarks",
+        "evals",
+        "llm",
+        "llm-evaluation",
+        "rl-environments"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T22:19:57Z",
+      "summary": "benchflow-ai/awesome-evals 是一个精选的 AI Agent 评估资源列表，解决开发者缺乏系统化评估指南的问题。核心亮点包括：收录论文、博客、演讲、工具和基准测试等非冗余资源，由 BenchFlow 维护，聚焦 agent-evaluation 和 ai-agents 领域。适用场景：AI Agent 开发中的效果评估、基准测试选择及最佳实践参考。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:08:59.748864+00:00"
+    },
+    {
+      "title": "winsznx/theeleven",
+      "source": "github-trending",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "stars": 458,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "defi",
+        "eip-3009",
+        "erc-8257",
+        "football",
+        "foundry",
+        "gasless",
+        "mcp",
+        "nextjs",
+        "okx",
+        "prediction-markets",
+        "solidity",
+        "uniswap-hooks",
+        "uniswap-v4",
+        "usdt0",
+        "web3",
+        "x-layer"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-25T08:33:06Z",
+      "summary": "TheEleven 是一个基于 X Layer 的足球体育预测市场，由 11 个自主 AI agent 驱动，利用自定义 Uniswap v4 hook 实现流动性管理，并通过 EIP-3009 和 ERC-8257 标准支持 gasless USDT0 质押。它解决了传统体育预测市场缺乏自动化做市和低 Gas 成本的问题，核心亮点是 AI agent 与 DeFi 基础设施的深度集成。适用于去中心化体育博彩和预测市场场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-06-27T02:09:01.836791+00:00"
+    },
+    {
+      "title": "HKUDS/AgentSpace",
+      "source": "github-trending",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "stars": 454,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T11:29:49Z",
+      "summary": "AgentSpace是一个开源项目，旨在构建人类与AI代理协同工作的统一工作空间。它解决多代理协作中的人类监督与交互难题，核心亮点包括TypeScript实现、支持多代理编排与人类实时介入。适用场景为需要人类参与决策的复杂任务自动化，如软件开发、数据分析等。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:09:03.631487+00:00"
+    },
+    {
+      "title": "amplifthq/opentag",
+      "source": "github-trending",
+      "url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "stars": 297,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "codex",
+        "github",
+        "slack"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T18:28:54Z",
+      "summary": "OpenTag 是一个开源工具，用于在 Slack 和 GitHub 中实现 @agent 提及功能。它解决 AI 代理与团队协作平台集成的问题，核心亮点是自动将标记请求路由到 Codex 或 Claude Code 等 AI 模型，并在线程中返回结果。适用场景包括开发团队利用 AI 助手处理代码审查、问题解答或任务自动化。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:09:05.345027+00:00"
+    },
+    {
+      "title": "trotsky1997/OpenFugu",
+      "source": "github-trending",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stars": 251,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-22T19:31:43Z",
+      "summary": "OpenFugu 是 Sakana Fugu 的开源复现，一个用于协调多个 LLM 的“单一模型指挥所有模型”编排器。它解决多模型协作中的调度与集成难题，核心通过轻量级编排层实现任务分发、结果聚合与模型切换。技术亮点包括模块化设计、支持读取/运行/训练/服务全流程。适用场景为需要组合多个 LLM 优势的复杂任务，如多步推理、混合专家系统。",
+      "tags": [
+        "multi-agent",
+        "open-source",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:09:07.659492+00:00"
+    },
+    {
+      "title": "Pluviobyte/video-production-skills",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": 215,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T09:45:56Z",
+      "summary": "Pluviobyte/video-production-skills 是一个基于 Python 的 AI 视频制作技能库，旨在解决视频创作、重制、动态设计、开场及质量评估中的重复性工作。核心技术亮点包括模块化技能封装、可复用工作流，以及集成 AI 模型实现自动化视频生成与编辑。适用场景为视频内容创作者、AI 工程师及需要批量处理视频素材的团队，可显著提升生产效率。",
+      "tags": [
+        "workflow-automation",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-27T02:09:09.583842+00:00"
+    },
+    {
+      "title": "iart-ai/motion-skills",
+      "source": "github-trending",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "stars": 213,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "motion-graphics",
+        "remotion",
+        "skills"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-22T13:24:19Z",
+      "summary": "iart-ai/motion-skills 是一个开源项目，提供50个预构建技能包，用于训练AI编码代理生成动态图形、动画和视频内容。它解决了AI代理在运动设计领域缺乏专业知识和工具集成的问题。核心技术亮点包括基于Remotion的HTML/JavaScript实现、14个可安装技能包覆盖动态排版、数据可视化、解释性视频、TikTok/Reels短视频、WebGL和Manim动画。适用场景为AI驱动的自动化视频制作、社交媒体内容生成和动态数据展示。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:09:11.907292+00:00"
+    },
+    {
+      "title": "Johell1NS/browser-search",
+      "source": "github-trending",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stars": 178,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-tools",
+        "browser-automation",
+        "camoufox",
+        "cloakbrowser",
+        "deep-research",
+        "opencode",
+        "searxng",
+        "web-scraping",
+        "web-search"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T07:25:47Z",
+      "summary": "Johell1NS/browser-search 是一个为 AI 代理设计的开源技能包，通过集成 SearXNG 搜索引擎、Camofox 浏览器和 CloakBrowser 反检测工具，实现自托管、无限制的网页搜索与浏览。核心解决 AI 代理在访问受限网站时的反爬虫绕过和幻觉抑制问题，通过设计上的反幻觉机制确保结果可靠性。技术亮点包括多工具协同的浏览器自动化、隐私保护与无限配额。适用于需要实时、准确网络信息的 AI 代理场景，如自动化研究、数据采集和智能助手。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-27T02:09:14.210490+00:00"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension",
+      "source": "github-trending",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "stars": 169,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "edge-extension",
+        "hermes-agent",
+        "local-first",
+        "nous-research",
+        "sidepanel"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-27T01:50:29Z",
+      "summary": "Hermes Browser Extension 是一个浏览器侧边栏扩展，用于连接 Hermes Agent 与本地运行时，解决 AI 代理无法直接访问浏览器上下文的问题。核心亮点包括原生侧边栏集成、支持 Chrome/Edge 扩展、实时传递网页上下文。适用场景为需要 AI 代理辅助浏览、自动化网页操作或本地 Agent 交互的开发与测试。",
+      "tags": [
+        "agent",
+        "browser-extension",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-27T02:09:16.235456+00:00"
+    },
+    {
+      "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+      "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+      "stars": 155,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-24T21:09:15Z",
+      "summary": "NVIDIA-BioNeMo/bionemo-agent-toolkit 是一个开源 Python 工具包，通过 NVIDIA BioNeMo 技能将任意 AI agent 转化为生命科学专家。它解决生物医药领域 AI agent 缺乏领域专业知识的问题，核心技术亮点包括预集成的 BioNeMo 生物分子技能（如蛋白质结构预测、分子生成）、模块化 agent 接口，以及可扩展的技能注册机制。适用场景包括药物发现、蛋白质工程、基因组分析等生命科学研发中的自动化 agent 工作流。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-27T02:09:18.448245+00:00"
+    },
+    {
+      "title": "tutusagi/ai-fishing-game",
+      "source": "github-trending",
+      "url": "https://github.com/tutusagi/ai-fishing-game",
+      "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": 145,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T04:13:16Z",
+      "summary": "tutusagi/ai-fishing-game 是一个专为 AI 设计的确定性文字钓鱼游戏，单文件零依赖，旨在为 AI 伴侣提供可交互的娱乐场景。核心亮点在于通过确定性规则生成游戏状态，使 AI 能基于文本输入进行钓鱼决策，无需复杂环境。技术实现基于 Python，利用有限状态机模拟钓鱼过程，适合测试 AI 的规划与决策能力。适用场景包括 AI 行为评估、游戏化交互实验及轻量级 AI 伴侣功能扩展。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-27T02:09:20.851102+00:00"
+    },
+    {
+      "title": "NotASithLord/peerd",
+      "source": "github-trending",
+      "url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+      "stars": 143,
+      "language": "JavaScript",
+      "topics": [
+        "agentic",
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-extension",
+        "llm",
+        "manifest-v3",
+        "p2p",
+        "webassembly",
+        "webrtc"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-27T01:13:47Z",
+      "summary": "NotASithLord/peerd 是首个原生运行于浏览器的 AI agent 框架，作为 Chrome/Firefox 扩展，在浏览器内执行 agent 循环，驱动标签页、启动沙盒计算（JS notebook、WASM Linux VM、客户端应用）并支持 P2P 共享构建成果。它解决传统 AI agent 依赖后端服务器、存在遥测和隐私问题，实现 BYOK（自带密钥）、无后端、无遥测。核心技术亮点包括浏览器内 agent 循环、沙盒计算环境、P2P 共享。适用场景为隐私敏感、去中心化或离线环境下的自动化任务与协作开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:09:23.230890+00:00"
+    },
+    {
+      "title": "fancydirty/mediary-scout",
+      "source": "github-trending",
+      "url": "https://github.com/fancydirty/mediary-scout",
+      "description": "Agent-driven media library for your cloud drives (115 / Quark).",
+      "stars": 140,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-27T02:07:32Z",
+      "summary": "mediary-scout 是一个基于 Agent 的媒体库管理工具，专为 115 网盘和夸克网盘设计。它利用 AI 代理自动扫描、分类和索引云盘中的媒体文件，解决云盘内容杂乱、难以检索的问题。核心技术亮点包括 TypeScript 实现的 Agent 驱动架构、智能文件解析与元数据提取。适用于个人或团队管理大规模云盘媒体资源，提升内容发现效率。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-27T02:09:25.184909+00:00"
+    },
+    {
+      "title": "humation-labs/humation",
+      "source": "github-trending",
+      "url": "https://github.com/humation-labs/humation",
+      "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
+      "stars": 136,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-24T08:28:32Z",
+      "summary": "Humation 是一个手绘风格可爱头像引擎，专为应用集成设计。它不依赖 AI 或 API 调用，通过纯前端 TypeScript 实现头像生成。核心技术亮点包括轻量级渲染、可定制化组件和离线运行。适用于需要个性化头像但避免 AI 成本或延迟的场景，如社交应用、游戏或用户界面。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-27T02:09:26.902588+00:00"
+    },
+    {
+      "title": "Reyzowter/Hello-Agents",
+      "source": "github-trending",
+      "url": "https://github.com/Reyzowter/Hello-Agents",
+      "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
+      "stars": 132,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deep-learning",
+        "langchain",
+        "llm",
+        "machine-learning",
+        "multi-agent",
+        "openai",
+        "rag",
+        "tutorial"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-23T17:34:47Z",
+      "summary": "Hello-Agents 是一个从零构建 AI Agent 系统的实战教程项目，覆盖从基础到生产级多智能体应用。它解决开发者缺乏系统化 Agent 开发指南的问题，核心技术亮点包括基于 Python 和 LangChain 的逐步实现、多智能体协作模式、以及深度学习的集成。适用场景为希望掌握 Agent 开发全流程的 AI 工程师和学生。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "large-language-model",
+        "langchain",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-27T02:09:29.031164+00:00"
+    },
+    {
+      "title": "lemma-work/lemma-platform",
+      "source": "github-trending",
+      "url": "https://github.com/lemma-work/lemma-platform",
+      "description": "The open-source workspace where humans and AI agents work as one team.",
+      "stars": 132,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "harness",
+        "harness-ai"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-26T18:45:05Z",
+      "summary": "lemma-work/lemma-platform 是一个开源工作空间，旨在实现人类与AI代理作为统一团队协作。它解决AI代理在复杂任务中缺乏人类监督与协作的问题，核心亮点包括多代理协调、任务分配与实时交互机制。适用场景涵盖软件开发、自动化工作流及需要人机协同的复杂项目。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-27T02:09:30.696492+00:00"
+    },
+    {
+      "title": "win4r/codebase-memory-mcp-pro",
+      "source": "github-trending",
+      "url": "https://github.com/win4r/codebase-memory-mcp-pro",
+      "description": "Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server.",
+      "stars": 132,
+      "language": "C",
+      "topics": [],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-22T01:39:49Z",
+      "summary": "win4r/codebase-memory-mcp-pro 是一个基于 MCP 协议的知识图谱服务器，使用纯 C 语言实现。它 fork 自 DeusData/codebase-memory-mcp，修复了增量重索引的 CALLS-edge 问题，并集成了 9 个上游 PR。核心功能是为代码库构建知识图谱，支持增量更新，适用于需要高效代码理解与导航的 AI 辅助开发场景。",
+      "tags": [
+        "mcp",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-27T02:09:32.436405+00:00"
+    },
+    {
+      "title": "GraeLefix/GITVERSE",
+      "source": "github-trending",
+      "url": "https://github.com/GraeLefix/GITVERSE",
+      "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+      "stars": 132,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "build-prompt",
+        "claude",
+        "code-analysis",
+        "codebase-analysis",
+        "cursor",
+        "developer-tools",
+        "github-api",
+        "llm",
+        "nextjs",
+        "openai",
+        "prompt-engineering",
+        "reverse-engineering",
+        "tailwindcss",
+        "typescript"
+      ],
+      "collected_at": "2026-06-27T02:08:53.324148+00:00",
+      "published_at": "2026-06-25T17:12:12Z",
+      "summary": "GITVERSE 是一个将任意代码库逆向工程为构建提示（build prompt）的工具，输出架构分解、ASCII 蓝图和 AI 可读的重构提示。它解决开发者理解遗留或复杂代码库时的高认知负担问题，核心亮点是自动化生成结构化的代码分析摘要，直接适配 Claude 等 LLM 的上下文窗口。适用于代码迁移、文档生成、AI 辅助重构等场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-27T02:09:34.327935+00:00"
+    }
+  ]
+}

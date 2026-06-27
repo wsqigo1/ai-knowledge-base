@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-27-010",
+  "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+  "source": "hackernews-top",
+  "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+  "summary": "MicroVMs是一种轻量级虚拟机技术，通过最小化硬件模拟和快速启动（毫秒级）解决传统虚拟机资源开销大、启动慢的问题，同时提供比容器更强的隔离性。核心技术包括精简内核（如Firecracker）、内存气球和快照恢复，支持精细化的生命周期管理（创建、暂停、恢复、销毁）。适用于无服务器计算、多租户沙箱、CI/CD隔离环境及安全敏感的边缘计算场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-27T02:08:53.546032+00:00",
+  "analyzed_at": "2026-06-27T02:09:38.374808+00:00",
+  "organized_at": "2026-06-27T02:10:14.481611+00:00",
+  "status": "published"
+}

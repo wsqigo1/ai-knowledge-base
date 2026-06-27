@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-27-015",
+  "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+  "source": "hackernews-top",
+  "url": "https://github.com/workweave/router",
+  "summary": "该项目在Claude、Codex和Cursor等AI编程工具中实现了智能模型路由功能。核心解决不同模型（如GPT-4、Claude 3.5等）在代码生成、推理、成本上的差异问题，通过自动选择最优模型来提升响应质量和效率。技术亮点包括基于任务类型和上下文的动态路由算法、低延迟切换机制。适用于需要多模型协作的代码生成、复杂推理和成本敏感的开发场景。",
+  "tags": [
+    "code-generation",
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-27T02:08:53.546032+00:00",
+  "analyzed_at": "2026-06-27T02:09:54.511770+00:00",
+  "organized_at": "2026-06-27T02:10:14.481611+00:00",
+  "status": "published"
+}
