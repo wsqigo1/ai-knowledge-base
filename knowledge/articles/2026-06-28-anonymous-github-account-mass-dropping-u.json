@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-28-002",
+  "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+  "source": "hackernews-top",
+  "url": "https://github.com/bikini/exploitarium",
+  "summary": "匿名GitHub账号批量发布未公开0-day漏洞，涉及多个项目。该事件暴露了开源供应链的安全风险，即恶意行为者通过大量账号同时释放漏洞，可能用于大规模攻击或勒索。核心技术亮点在于利用GitHub的匿名性和分布式账号进行协同漏洞披露，增加了追踪和防御难度。适用场景为安全研究人员和开发者需警惕开源依赖的潜在威胁，加强漏洞监控和应急响应。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-28T02:30:27.188103+00:00",
+  "analyzed_at": "2026-06-28T02:31:18.007821+00:00",
+  "organized_at": "2026-06-28T02:32:05.400751+00:00",
+  "status": "published"
+}

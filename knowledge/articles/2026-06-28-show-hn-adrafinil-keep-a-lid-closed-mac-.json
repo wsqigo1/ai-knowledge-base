@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-28-008",
+  "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+  "source": "hackernews-top",
+  "url": "https://github.com/kageroumado/adrafinil",
+  "summary": "Adrafinil 是一款 macOS 工具，在 AI agents 执行任务期间保持合盖 Mac 唤醒，解决 lid-closed 模式下系统休眠导致 agent 中断的问题。核心亮点是监控 agent 进程活动并动态阻止休眠，无需修改系统电源设置。适用于本地运行 LLM agent、自动化工作流或长时间推理任务，确保合盖后持续运行。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-28T02:30:27.188103+00:00",
+  "analyzed_at": "2026-06-28T02:31:46.105065+00:00",
+  "organized_at": "2026-06-28T02:32:05.400751+00:00",
+  "status": "published"
+}

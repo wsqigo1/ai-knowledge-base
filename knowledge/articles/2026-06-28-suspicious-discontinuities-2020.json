@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-28-005",
+  "title": "Suspicious Discontinuities (2020)",
+  "source": "hackernews-top",
+  "url": "https://danluu.com/discontinuities/",
+  "summary": "Suspicious Discontinuities (2020) 是一篇探讨机器学习模型在训练数据分布边缘表现异常的技术文章。它解决的核心问题是：模型在遇到与训练数据存在细微不连续或分布外样本时，预测结果可能不可靠甚至错误。核心技术亮点在于通过分析模型对输入微小扰动的敏感性，识别这些“可疑不连续点”，并提出了改进模型鲁棒性的方法。适用场景包括模型部署前的安全测试、异常检测以及提高AI系统在真实世界中的可靠性。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-06-28T02:30:27.188103+00:00",
+  "analyzed_at": "2026-06-28T02:31:36.413391+00:00",
+  "organized_at": "2026-06-28T02:32:05.400751+00:00",
+  "status": "published"
+}

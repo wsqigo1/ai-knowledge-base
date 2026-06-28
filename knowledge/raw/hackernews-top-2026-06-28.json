@@ -1,0 +1,376 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-28T02:30:28.389560+00:00",
+  "date": "2026-06-28",
+  "count": 20,
+  "items": [
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "source": "hackernews-top",
+      "url": "https://github.com/bikini/exploitarium",
+      "hn_url": "https://news.ycombinator.com/item?id=48698617",
+      "description": "",
+      "hn_score": 682,
+      "comments": 268,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "匿名GitHub账号批量发布未公开0-day漏洞，涉及多个项目。该事件暴露了开源供应链的安全风险，即恶意行为者通过大量账号同时释放漏洞，可能用于大规模攻击或勒索。核心技术亮点在于利用GitHub的匿名性和分布式账号进行协同漏洞披露，增加了追踪和防御难度。适用场景为安全研究人员和开发者需警惕开源依赖的潜在威胁，加强漏洞监控和应急响应。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-28T02:31:18.007821+00:00"
+    },
+    {
+      "title": "OpenRA",
+      "source": "hackernews-top",
+      "url": "https://www.openra.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697560",
+      "description": "",
+      "hn_score": 591,
+      "comments": 117,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "OpenRA是一个开源即时战略游戏引擎重实现项目，旨在通过逆向工程重建经典游戏《命令与征服》等作品的现代兼容版本。其核心技术包括跨平台渲染引擎、自定义模组系统、网络同步优化及AI对手逻辑。适用于游戏开发学习、经典游戏复刻及RTS算法研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-28T02:31:20.476277+00:00"
+    },
+    {
+      "title": "AI learns the “dark art” of RFIC design",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "hn_url": "https://news.ycombinator.com/item?id=48660021",
+      "description": "",
+      "hn_score": 193,
+      "comments": 127,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "本文介绍AI（特别是强化学习）应用于射频集成电路（RFIC）设计，解决传统手工设计耗时且依赖专家经验的问题。核心技术亮点是AI通过试错学习优化RFIC布局与参数，实现自动化设计。适用场景为高频通信芯片的快速原型开发与性能优化。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-28T02:31:22.788965+00:00"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "source": "hackernews-top",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "hn_url": "https://news.ycombinator.com/item?id=48696982",
+      "description": "",
+      "hn_score": 485,
+      "comments": 161,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "Fintech Engineering Handbook 是一本面向金融科技工程师的开源指南，系统性地覆盖了金融系统设计、合规、安全、数据工程等核心主题。它解决了金融领域工程实践缺乏统一参考的问题，通过模块化章节提供从支付处理到风险建模的实战知识。核心技术亮点包括对分布式账本、实时交易处理、反欺诈算法及监管技术（RegTech）的深入讲解。适用场景为金融科技初创公司、传统金融机构数字化转型团队，以及希望进入金融领域的软件工程师。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:31:25.809764+00:00"
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "source": "hackernews-top",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "hn_url": "https://news.ycombinator.com/item?id=48703452",
+      "description": "",
+      "hn_score": 24,
+      "comments": 3,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "该条目引用罗宾·威廉姆斯对AI生成低质内容（AI slop）的回应，核心是批评当前AI内容泛滥、缺乏人类创造性和情感深度的问题。它并非技术方案，而是文化反思，提醒AI工程师关注内容质量与伦理。适用场景：AI内容生成、人机交互设计中的质量评估与伦理讨论。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "prompt-engineering"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-06-28T02:31:28.368107+00:00"
+    },
+    {
+      "title": "The case for physical media ownership",
+      "source": "hackernews-top",
+      "url": "https://dervis.de/physical/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697335",
+      "description": "",
+      "hn_score": 375,
+      "comments": 248,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "文章讨论物理媒体所有权案例，核心是论证数字时代下物理媒体（如光盘、磁带）在数据持久性、隐私保护和用户控制权方面的优势。它解决数字媒体依赖云服务、易被撤销访问权限的问题。技术亮点在于对比数字版权管理（DRM）与物理媒体的不可篡改性，并引用法律案例说明所有权转移。适用场景为数据备份、长期存档及对隐私敏感的用户。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-28T02:31:31.168084+00:00"
+    },
+    {
+      "title": "Turn your site into a place people can bump into each other",
+      "source": "hackernews-top",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "hn_url": "https://news.ycombinator.com/item?id=48699928",
+      "description": "",
+      "hn_score": 162,
+      "comments": 77,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "该项目将网站转化为用户可随机相遇的社交空间，解决传统网站缺乏自发社交互动的问题。核心亮点是通过实时连接和轻量级交互设计，模拟线下偶遇体验，无需用户注册或主动发起。适用场景包括社区网站、在线课程平台或虚拟活动，以增强用户粘性和社区感。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-28T02:31:33.575445+00:00"
+    },
+    {
+      "title": "Suspicious Discontinuities (2020)",
+      "source": "hackernews-top",
+      "url": "https://danluu.com/discontinuities/",
+      "hn_url": "https://news.ycombinator.com/item?id=48698151",
+      "description": "",
+      "hn_score": 214,
+      "comments": 62,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "Suspicious Discontinuities (2020) 是一篇探讨机器学习模型在训练数据分布边缘表现异常的技术文章。它解决的核心问题是：模型在遇到与训练数据存在细微不连续或分布外样本时，预测结果可能不可靠甚至错误。核心技术亮点在于通过分析模型对输入微小扰动的敏感性，识别这些“可疑不连续点”，并提出了改进模型鲁棒性的方法。适用场景包括模型部署前的安全测试、异常检测以及提高AI系统在真实世界中的可靠性。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-28T02:31:36.413391+00:00"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697958",
+      "description": "",
+      "hn_score": 151,
+      "comments": 136,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "亚洲AI初创公司发布类似Mythos的模型，旨在提供高性能开源替代方案。解决大模型部署成本高、依赖西方技术的问题。核心技术亮点包括高效训练架构、多语言支持及推理优化。适用场景为需要本地化部署、低延迟推理的亚洲市场企业应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:31:38.470826+00:00"
+    },
+    {
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "source": "hackernews-top",
+      "url": "https://ipcrawl.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48700834",
+      "description": "",
+      "hn_score": 248,
+      "comments": 128,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "IP Crawl 是一个开源项目，通过扫描公共互联网发现并索引全球开放网络摄像头。它解决了网络摄像头资源分散、难以发现和利用的问题。核心技术亮点包括使用大规模IP扫描、实时流媒体抓取和地理定位，构建了一个动态更新的网络摄像头地图。适用场景包括安防监控、交通监测、环境研究及公共数据可视化。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-28T02:31:40.734377+00:00"
+    },
+    {
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "source": "hackernews-top",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "hn_url": "https://news.ycombinator.com/item?id=48664063",
+      "description": "",
+      "hn_score": 161,
+      "comments": 90,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "该研究针对渥太华休闲步道蜱虫密度过高问题，通过实地采样与统计建模，评估了环境管理措施（如修剪植被、增加光照）对降低蜱虫密度的效果。核心亮点是结合地理信息系统（GIS）与负二项回归模型，量化了步道边缘微生境特征（如湿度、落叶层厚度）对蜱虫分布的影响。适用于城市生态管理、公共卫生规划及户外活动风险评估场景。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-28T02:31:43.529654+00:00"
+    },
+    {
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "source": "hackernews-top",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "hn_url": "https://news.ycombinator.com/item?id=48701512",
+      "description": "",
+      "hn_score": 92,
+      "comments": 55,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "Adrafinil 是一款 macOS 工具，在 AI agents 执行任务期间保持合盖 Mac 唤醒，解决 lid-closed 模式下系统休眠导致 agent 中断的问题。核心亮点是监控 agent 进程活动并动态阻止休眠，无需修改系统电源设置。适用于本地运行 LLM agent、自动化工作流或长时间推理任务，确保合盖后持续运行。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-28T02:31:46.105065+00:00"
+    },
+    {
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "source": "hackernews-top",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "hn_url": "https://news.ycombinator.com/item?id=48698559",
+      "description": "",
+      "hn_score": 135,
+      "comments": 40,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "这是一篇关于后神话时代（Post-Mythos）网络安全策略的文章，核心是解决过度炒作和恐慌导致的非理性安全决策问题。技术亮点在于提出“保持冷静，继续前行”的务实方法论，强调基于风险管理的持续运营而非追逐热点。适用场景为企业安全团队在技术泡沫破裂后，需要回归基础安全实践、优化防御体系时参考。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-28T02:31:48.699513+00:00"
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "source": "hackernews-top",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48696585",
+      "description": "",
+      "hn_score": 729,
+      "comments": 305,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "DSpark 是一种投机性解码（speculative decoding）技术，旨在加速大型语言模型（LLM）的推理过程。它通过使用一个轻量级的草稿模型快速生成多个候选 token，再由目标模型并行验证，从而减少串行解码步骤，提升吞吐量并降低延迟。核心技术亮点包括高效的候选生成策略和验证机制，适用于需要低延迟、高吞吐的 LLM 推理场景，如实时对话系统和在线服务。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-06-28T02:31:50.915604+00:00"
+    },
+    {
+      "title": "What Ozempic does to the gut-brain axis",
+      "source": "hackernews-top",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "hn_url": "https://news.ycombinator.com/item?id=48701984",
+      "description": "",
+      "hn_score": 83,
+      "comments": 166,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "该文章探讨了Ozempic（司美格鲁肽）对肠-脑轴的影响机制。它解决的核心问题是揭示GLP-1受体激动剂如何通过肠道激素信号调节食欲和代谢。核心技术亮点是阐明药物作用于迷走神经和中枢神经系统的分子通路。适用场景为代谢疾病药物研发与神经生物学交叉研究。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-28T02:31:53.244305+00:00"
+    },
+    {
+      "title": "Michigan spent $1.8B and only created 602 jobs",
+      "source": "hackernews-top",
+      "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+      "hn_url": "https://news.ycombinator.com/item?id=48702060",
+      "description": "",
+      "hn_score": 123,
+      "comments": 53,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "密歇根州政府投入18亿美元用于经济发展项目，仅创造602个就业岗位，引发对政府投资效率的质疑。该条目本身不涉及AI技术，但可作为政策分析案例，警示AI项目投资需注重实际产出与成本效益。适用于评估公共资金在科技领域的分配合理性。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-28T02:31:55.400223+00:00"
+    },
+    {
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "source": "hackernews-top",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "hn_url": "https://news.ycombinator.com/item?id=48692946",
+      "description": "",
+      "hn_score": 354,
+      "comments": 195,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "文章解释动能与速度平方成正比（E_k = 1/2 mv²）而非线性关系的物理原因，通过动量守恒和能量守恒推导，揭示动能本质上是速度变化时动量转移的累积效应。核心亮点在于用直观的动量-能量关系替代微积分推导，解决初学者对二次关系的直觉困惑。适用场景包括物理教育、科普解释及AI物理模拟中的能量计算基础。",
+      "tags": [
+        "reasoning",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-28T02:31:58.153781+00:00"
+    },
+    {
+      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "source": "hackernews-top",
+      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+      "hn_url": "https://news.ycombinator.com/item?id=48670103",
+      "description": "",
+      "hn_score": 151,
+      "comments": 73,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "二战期间美国陆军向士兵配发陶笛（ocarinas），用于信号传递和士气提升。该条目为历史趣闻，无技术深度或AI/LLM领域关联。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-06-28T02:31:59.901961+00:00"
+    },
+    {
+      "title": "Zuckerberg's war on whistleblowers",
+      "source": "hackernews-top",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=48698684",
+      "description": "",
+      "hn_score": 651,
+      "comments": 238,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "该条目报道了扎克伯格对举报人的战争，涉及Facebook内部举报人揭露公司不当行为后遭受的法律和舆论反击。核心问题是大型科技公司如何应对内部举报机制，以及举报人保护制度的缺失。技术亮点在于揭示了平台内容审核、数据隐私等AI系统在商业利益与伦理之间的冲突。适用场景为科技政策研究、企业伦理讨论及AI治理领域。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-28T02:32:02.661026+00:00"
+    },
+    {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "hn_url": "https://news.ycombinator.com/item?id=48697746",
+      "description": "",
+      "hn_score": 122,
+      "comments": 105,
+      "collected_at": "2026-06-28T02:30:27.188103+00:00",
+      "published_at": "2026-06-28T02:30:27.188103+00:00",
+      "summary": "本文探讨了基本粒子数量的物理学问题，从标准模型出发，分析不同计数方法（如考虑反粒子、色荷、代际等）导致的差异，并讨论当前理论如超对称和暗物质候选粒子对粒子总数的影响。核心亮点在于澄清了粒子计数中的常见误解，并展示了粒子物理学的复杂性和前沿挑战。适用场景为对粒子物理感兴趣的科研人员或科普读者。",
+      "tags": [
+        "reasoning"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-28T02:32:05.374231+00:00"
+    }
+  ]
+}

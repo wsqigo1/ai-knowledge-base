@@ -1,0 +1,479 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-28T02:30:28.388965+00:00",
+  "date": "2026-06-28",
+  "count": 18,
+  "items": [
+    {
+      "title": "winsznx/theeleven",
+      "source": "github-trending",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "stars": 642,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "defi",
+        "eip-3009",
+        "erc-8257",
+        "football",
+        "foundry",
+        "gasless",
+        "mcp",
+        "nextjs",
+        "okx",
+        "prediction-markets",
+        "solidity",
+        "uniswap-hooks",
+        "uniswap-v4",
+        "usdt0",
+        "web3",
+        "x-layer"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-25T08:33:06Z",
+      "summary": "TheEleven 是一个基于 X Layer 的足球赛事预测市场，由 11 个自主 AI agent 驱动，实时开盘足球 prop 市场。核心创新在于定制 Uniswap v4 hook 实现高效流动性管理，并采用 EIP-3009 和 ERC-8257 标准实现 gasless USDT0 质押，降低用户参与门槛。解决传统预测市场流动性不足、交易成本高的问题，适用于体育博彩、DeFi 预测市场等场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "defi",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-28T02:30:31.265451+00:00"
+    },
+    {
+      "title": "QwenLM/Qwen-AgentWorld",
+      "source": "github-trending",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "stars": 597,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-25T06:57:43Z",
+      "summary": "Qwen-AgentWorld 是一个基于 Qwen 系列大模型构建的语言世界模型框架，旨在为通用智能体提供环境模拟与交互能力。它解决了当前智能体在复杂动态环境中缺乏有效世界模型支持的问题，核心亮点在于利用大语言模型生成可交互的虚拟世界，使智能体能够进行规划、推理和决策。适用于智能体训练、环境模拟、多步推理任务等场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "multi-agent",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-28T02:30:33.681413+00:00"
+    },
+    {
+      "title": "benchflow-ai/awesome-evals",
+      "source": "github-trending",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stars": 534,
+      "language": null,
+      "topics": [
+        "agent-evaluation",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "benchmarks",
+        "evals",
+        "llm",
+        "llm-evaluation",
+        "rl-environments"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-27T22:35:28Z",
+      "summary": "benchflow-ai/awesome-evals 是一个精选的 AI Agent 评估资源列表，旨在解决 Agent 评估缺乏系统化指南的问题。核心亮点包括收录论文、博客、演讲、工具和基准测试等非冗余资源，由 BenchFlow 维护，覆盖 agent-evaluation、ai-agents 等主题。适用场景为 AI 工程师在构建和评估 Agent 时快速获取高质量参考。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:30:35.893513+00:00"
+    },
+    {
+      "title": "HKUDS/AgentSpace",
+      "source": "github-trending",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "stars": 480,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-27T13:32:36Z",
+      "summary": "AgentSpace是一个基于TypeScript构建的开源框架，旨在实现人类与AI代理在同一工作空间内的无缝协作。它解决的核心问题是多代理系统中人类与AI角色分工与交互的复杂性，通过提供统一的协作界面和任务编排机制，让人类与多个AI代理组成团队共同完成复杂工作流。技术亮点包括模块化的代理管理、实时通信以及可扩展的任务分配逻辑。适用场景包括自动化工作流、团队协作平台以及需要人机协同的AI辅助开发环境。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-28T02:30:38.692305+00:00"
+    },
+    {
+      "title": "Pluviobyte/video-production-skills",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": 332,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-26T09:45:56Z",
+      "summary": "Pluviobyte/video-production-skills 是一个可复用的 AI 视频制作技能库，解决视频创作中重复性工作流与自动化不足的问题。核心技术亮点包括基于 Python 的模块化设计，支持视频生成、重制、动态设计、开场制作及质量评估（QA）等技能。适用场景为 AI 驱动的视频内容生产、自动化剪辑与质量控制。",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:30:41.044358+00:00"
+    },
+    {
+      "title": "amplifthq/opentag",
+      "source": "github-trending",
+      "url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "stars": 332,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "codex",
+        "github",
+        "slack"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-27T15:26:42Z",
+      "summary": "OpenTag 是一个开源工具，用于在 Slack 和 GitHub 中实现 @agent 提及功能。它解决 AI 代理无法直接集成到协作平台的问题，通过将标记请求路由到 Codex、Claude Code 等 AI 模型，并在线程中返回结果。核心技术亮点包括基于 TypeScript 的轻量级路由机制、多代理支持（Codex、Claude Code）以及线程化结果返回。适用场景为团队协作中利用 AI 代理自动处理代码审查、问题解答或任务分配。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:30:43.671616+00:00"
+    },
+    {
+      "title": "trotsky1997/OpenFugu",
+      "source": "github-trending",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stars": 267,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-22T19:31:43Z",
+      "summary": "OpenFugu 是 Sakana Fugu 的开源复现，后者是一个 '单一模型指挥所有模型' 的 LLM 编排器。它解决多 LLM 协同工作时的统一调度与编排问题，核心亮点在于通过一个 orchestrator 模型动态选择并调用多个专用 LLM 完成任务，支持读取、运行、训练和部署。适用场景包括需要多模型协作的复杂任务编排、自动化工作流以及 LLM 路由与调度研究。",
+      "tags": [
+        "large-language-model",
+        "multi-agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:30:46.176863+00:00"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension",
+      "source": "github-trending",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "stars": 249,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "edge-extension",
+        "hermes-agent",
+        "local-first",
+        "nous-research",
+        "sidepanel"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-27T16:32:25Z",
+      "summary": "Hermes Browser Extension 是一个浏览器原生侧边栏扩展，用于连接 Hermes Agent 运行时与网页上下文。它解决 AI 代理无法直接感知浏览器环境的问题，通过侧边栏注入实现实时网页内容交互。核心技术亮点包括 Chrome/Edge 扩展兼容、本地 Hermes 运行时集成、以及基于 JavaScript 的轻量级架构。适用场景为开发者构建本地 AI 代理时，需要从浏览器获取实时网页数据以增强代理决策能力。",
+      "tags": [
+        "agent",
+        "browser-extension",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-28T02:30:48.942529+00:00"
+    },
+    {
+      "title": "eli-labz/Godcoder",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
+      "stars": 240,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "openai",
+        "rust",
+        "tauri"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-27T04:15:17Z",
+      "summary": "Godcoder 是一个本地优先的开源桌面编码代理，用户自带 LLM API 密钥，代码仅发送至模型提供商，确保数据隐私。核心亮点：基于 Rust 构建，支持本地运行，通过 LLM 实现代码生成、修改与调试。解决云端编码代理的数据泄露风险，适用于需要高隐私保护的本地开发场景。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:30:51.304890+00:00"
+    },
+    {
+      "title": "tutusagi/ai-fishing-game",
+      "source": "github-trending",
+      "url": "https://github.com/tutusagi/ai-fishing-game",
+      "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": 223,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-26T04:13:16Z",
+      "summary": "tutusagi/ai-fishing-game 是一个为AI设计的确定性文字钓鱼小游戏，单文件零依赖。它通过提供结构化游戏环境，让AI伴侣（如LLM）进行决策和交互，解决AI在模拟环境中测试推理与工具使用能力的需求。核心技术亮点是确定性规则引擎和简洁的Python实现，无需外部依赖。适用场景包括AI代理的基准测试、教育演示和娱乐性AI交互实验。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-28T02:30:53.972441+00:00"
+    },
+    {
+      "title": "iart-ai/motion-skills",
+      "source": "github-trending",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "stars": 218,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "motion-graphics",
+        "remotion",
+        "skills"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-22T13:24:19Z",
+      "summary": "iart-ai/motion-skills 是一个开源项目，提供50个可安装的技能包，用于教导AI编码代理（如Claude Code）生成动态图形、动画和视频内容。它解决了AI在运动设计领域缺乏现成技能库的问题，核心技术基于Remotion、WebGL和Manim，支持动态排版、数据可视化、解释性视频及短视频平台内容。适用于AI驱动的自动化视频制作和动态设计工作流。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-28T02:30:56.259182+00:00"
+    },
+    {
+      "title": "NotASithLord/peerd",
+      "source": "github-trending",
+      "url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+      "stars": 195,
+      "language": "JavaScript",
+      "topics": [
+        "agentic",
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-extension",
+        "llm",
+        "manifest-v3",
+        "p2p",
+        "webassembly",
+        "webrtc"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-28T02:02:31Z",
+      "summary": "NotASithLord/peerd 是首个浏览器原生 AI agent 框架，以 Chrome/Firefox 扩展形式运行 agent 循环，直接驱动浏览器标签页、启动沙盒计算环境（JS notebook、WASM Linux 虚拟机、客户端应用），并支持 P2P 共享构建成果。核心亮点：完全本地运行（BYOK、无后端、无遥测），将 agent 的执行与浏览器自动化、沙盒计算和去中心化分发结合。适用场景：需要浏览器内自动化、客户端 AI 应用原型开发、去中心化 agent 协作。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:30:59.496368+00:00"
+    },
+    {
+      "title": "Johell1NS/browser-search",
+      "source": "github-trending",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stars": 182,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-tools",
+        "browser-automation",
+        "camoufox",
+        "cloakbrowser",
+        "deep-research",
+        "opencode",
+        "searxng",
+        "web-scraping",
+        "web-search"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-26T07:25:47Z",
+      "summary": "Johell1NS/browser-search 是一个为AI代理设计的开源浏览器搜索工具，结合SearXNG搜索引擎、Camofox浏览器和CloakBrowser绕过防护，旨在解决AI代理在网页搜索中遇到的验证码、反爬限制和幻觉问题。核心技术亮点包括自托管、免费无限制、反幻觉设计，通过浏览器自动化实现真实网页浏览。适用场景为需要可靠网络搜索能力的AI代理、自动化工作流和工具使用任务。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-06-28T02:31:02.119101+00:00"
+    },
+    {
+      "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+      "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+      "stars": 162,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-24T21:09:15Z",
+      "summary": "NVIDIA BioNeMo Agent Toolkit 是一个开源 Python 工具包，旨在将通用 AI Agent 转化为生命科学领域的专家。它通过提供预构建的 BioNeMo skills（如分子性质预测、蛋白质结构分析等），解决了通用 LLM 在生物医药领域缺乏专业知识和工具集成的问题。核心技术亮点包括模块化的 skill 架构、与 NVIDIA BioNeMo 模型服务的无缝对接，以及支持 agent 框架（如 LangChain）的快速集成。适用场景包括药物发现、蛋白质工程、生物序列分析等生命科学研发工作流。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:31:05.003235+00:00"
+    },
+    {
+      "title": "lemma-work/lemma-platform",
+      "source": "github-trending",
+      "url": "https://github.com/lemma-work/lemma-platform",
+      "description": "The open-source workspace where humans and AI agents work as one team.",
+      "stars": 143,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "harness",
+        "harness-ai"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-27T12:55:58Z",
+      "summary": "lemma-work/lemma-platform 是一个开源平台，旨在构建人类与AI代理协同工作的统一工作空间。它解决了多代理协作中任务分配、上下文共享和结果整合的复杂性。核心技术亮点包括基于Python的灵活架构、支持多种AI代理的集成与编排，以及强调人类监督与AI自主性的平衡。适用于需要人机协作的复杂工作流自动化场景，如软件开发、数据分析或项目管理。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-28T02:31:07.717938+00:00"
+    },
+    {
+      "title": "humation-labs/humation",
+      "source": "github-trending",
+      "url": "https://github.com/humation-labs/humation",
+      "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
+      "stars": 140,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-24T08:28:32Z",
+      "summary": "Humation 是一个手绘风格卡哇伊头像生成引擎，专为应用集成设计。它不依赖 AI 或 API 调用，而是通过纯前端 TypeScript 实现，利用预设的 SVG 组件和随机组合算法生成个性化头像。核心技术亮点在于轻量、离线可用、无外部依赖，适合需要趣味性用户头像的社交、游戏或儿童应用。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-28T02:31:10.196665+00:00"
+    },
+    {
+      "title": "Reyzowter/Hello-Agents",
+      "source": "github-trending",
+      "url": "https://github.com/Reyzowter/Hello-Agents",
+      "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
+      "stars": 134,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deep-learning",
+        "langchain",
+        "llm",
+        "machine-learning",
+        "multi-agent",
+        "openai",
+        "rag",
+        "tutorial"
+      ],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-23T17:34:47Z",
+      "summary": "Hello-Agents 是一个从零构建 AI Agent 系统的实战教程项目，覆盖从基础到生产级多智能体应用。核心解决 Agent 系统开发缺乏系统性学习路径的问题，技术亮点包括基于 Python 和 LangChain 的模块化实现、多智能体协作模式、以及从底层原理到高级架构的渐进式教学。适用场景为希望掌握 Agent 开发全流程的 AI 工程师、学生及研究者。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "large-language-model",
+        "langchain",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-28T02:31:12.692840+00:00"
+    },
+    {
+      "title": "per-simmons/unreal-agent-harness",
+      "source": "github-trending",
+      "url": "https://github.com/per-simmons/unreal-agent-harness",
+      "description": "AI agents building cities in Unreal Engine 5.8 via the Unreal MCP — free City Sample base + PCG + custom Blender facade kits. Glass city, Paris, Art-Deco, a hand-built Chrysler, and real NYC via Cesium.",
+      "stars": 133,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-28T02:30:26.954991+00:00",
+      "published_at": "2026-06-24T01:10:51Z",
+      "summary": "Unreal Agent Harness 是一个开源项目，通过 Unreal MCP 协议让 AI agents 在 Unreal Engine 5.8 中构建城市。它解决了在游戏引擎中自动化生成复杂3D城市环境的问题，核心亮点包括免费 City Sample 基础、程序化内容生成（PCG）、自定义 Blender 立面套件，并支持玻璃城市、巴黎、Art-Deco、手工克莱斯勒大厦及通过 Cesium 集成真实纽约数据。适用场景为游戏开发、数字孪生、AI 训练环境生成。",
+      "tags": [
+        "agent",
+        "open-source",
+        "mcp",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-06-28T02:31:15.360783+00:00"
+    }
+  ]
+}
