@@ -1,0 +1,457 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-29T02:30:46.049440+00:00",
+  "date": "2026-06-29",
+  "count": 20,
+  "items": [
+    {
+      "title": "winsznx/theeleven",
+      "source": "github-trending",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "stars": 698,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "defi",
+        "eip-3009",
+        "erc-8257",
+        "football",
+        "foundry",
+        "gasless",
+        "mcp",
+        "nextjs",
+        "okx",
+        "prediction-markets",
+        "solidity",
+        "uniswap-hooks",
+        "uniswap-v4",
+        "usdt0",
+        "web3",
+        "x-layer"
+      ],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-25T08:33:06Z",
+      "summary": "TheEleven 是一个基于 X Layer 的足球赛事预测市场，由 11 个自主 AI 代理驱动，通过自定义 Uniswap v4 hook 实现实时赔率市场创建，并支持 gasless USDT0 质押。项目解决传统体育预测市场缺乏自动化与链上透明性的问题，核心亮点包括 AI 代理自主管理市场、EIP-3009 与 ERC-8257 标准集成，以及无 gas 交易体验。适用场景为去中心化体育博彩与预测市场。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "defi",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:30:49.069772+00:00"
+    },
+    {
+      "title": "benchflow-ai/awesome-evals",
+      "source": "github-trending",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stars": 564,
+      "language": null,
+      "topics": [
+        "agent-evaluation",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "benchmarks",
+        "evals",
+        "llm",
+        "llm-evaluation",
+        "rl-environments"
+      ],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T09:05:19Z",
+      "summary": "这是一个精选的AI agent评估资源列表，旨在解决agent评估缺乏系统化指南的问题。核心亮点包括：收录论文、博客、演讲、工具和基准测试等高质量资源，由BenchFlow维护，强调非BS（非废话）的实用导向。适用于需要构建和评估AI agent的研究者与工程师，帮助他们快速定位评估方法与工具。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:30:51.265059+00:00"
+    },
+    {
+      "title": "Pluviobyte/video-production-skills",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": 365,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-26T09:45:56Z",
+      "summary": "Pluviobyte/video-production-skills 是一个可复用的 AI 视频制作技能库，旨在解决视频创作、再创作、动态设计、开场制作及质量保证中的重复性工作。核心亮点在于提供模块化的 Python 技能集合，支持通过 AI 模型自动化视频生产流程，降低手动操作成本。适用于需要快速生成或编辑视频内容的场景，如营销视频制作、社交媒体内容生产及视频 QA 自动化。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-06-29T02:30:53.649362+00:00"
+    },
+    {
+      "title": "amplifthq/opentag",
+      "source": "github-trending",
+      "url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "stars": 354,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "codex",
+        "github",
+        "slack"
+      ],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T08:28:52Z",
+      "summary": "OpenTag 是一个开源工具，用于在 Slack 和 GitHub 中实现 @agent 提及功能。它解决团队协作时如何将标记请求自动路由到 AI 代理（如 Codex、Claude Code）并在线程中返回结果的问题。核心亮点包括：支持多平台集成、自动路由到指定 AI 模型、结果在线程中返回以保持上下文。适用场景：开发团队在 Slack/GitHub 中利用 AI 代理自动处理任务、代码审查或问题解答。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:30:56.123814+00:00"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension",
+      "source": "github-trending",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "stars": 287,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "edge-extension",
+        "hermes-agent",
+        "local-first",
+        "nous-research",
+        "sidepanel"
+      ],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T23:14:56Z",
+      "summary": "Hermes Browser Extension 是一个浏览器侧边栏扩展，用于连接 Hermes Agent 与本地运行时，解决 AI 代理无法直接访问浏览器上下文的问题。核心亮点包括原生侧边栏集成、支持 Chrome/Edge 扩展、实时传递网页上下文给本地 Hermes 环境。适用场景为需要 AI 代理辅助浏览、自动化网页操作或本地 LLM 交互的开发者和高级用户。",
+      "tags": [
+        "agent",
+        "browser-extension",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-29T02:30:58.325656+00:00"
+    },
+    {
+      "title": "tutusagi/ai-fishing-game",
+      "source": "github-trending",
+      "url": "https://github.com/tutusagi/ai-fishing-game",
+      "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": 268,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-26T04:13:16Z",
+      "summary": "一个为AI设计的确定性文字钓鱼游戏，单文件零依赖，通过状态机模拟钓鱼逻辑，让AI伴侣（如LLM）通过文本交互进行钓鱼。核心亮点是确定性环境（无随机性）便于AI策略评估，以及极简架构（纯Python单文件）降低集成门槛。适用于测试AI的决策能力、工具使用或作为LLM Agent的轻量级benchmark。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-29T02:31:00.951873+00:00"
+    },
+    {
+      "title": "eli-labz/Godcoder",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "stars": 245,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "openai",
+        "rust",
+        "tauri"
+      ],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T18:38:56Z",
+      "summary": "Godcoder 是一款本地优先的开源桌面编码代理，用户自带 LLM API 密钥，代码仅发送至模型提供商，确保隐私。核心亮点在于 AI Agent 自主构建 Harnes（测试框架），实现自动化代码生成与调试。适用场景：需要隐私保护的本地开发环境、自动化编码与测试流程。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:31:02.859561+00:00"
+    },
+    {
+      "title": "YurunChen/repo-docs-skills",
+      "source": "github-trending",
+      "url": "https://github.com/YurunChen/repo-docs-skills",
+      "description": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves.",
+      "stars": 204,
+      "language": "CSS",
+      "topics": [
+        "claude-code",
+        "claude-skills",
+        "codex-skills",
+        "coding-agent",
+        "skills",
+        "understanding",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T12:49:41Z",
+      "summary": "YurunChen/repo-docs-skills 是一个为编码代理（coding agents）设计的项目文档自动维护工具。它解决的是代码仓库演进过程中文档滞后、上下文丢失的问题。核心亮点是提供指南、进度日志、变更映射和交接上下文等结构化文档模板，并利用 Claude Skills、Codex Skills 等机制实现文档随代码自动更新。适用于需要长期维护、多人协作或依赖 AI 代理进行开发的软件项目。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-29T02:31:05.214800+00:00"
+    },
+    {
+      "title": "Einsia/Browser-BC",
+      "source": "github-trending",
+      "url": "https://github.com/Einsia/Browser-BC",
+      "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+      "stars": 192,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T17:45:04Z",
+      "summary": "Einsia/Browser-BC 是一个基于 TypeScript 的开源项目，专注于通过行为克隆（Behavior Clone）技术实现浏览器 GUI 的通用自动化代理。它解决传统浏览器自动化脚本难以适应动态界面和复杂交互的问题，核心亮点包括分布式轨迹收集系统、基于 LLM 的 GUI 理解与操作生成，以及跨平台兼容性。适用于网页测试、RPA 流程自动化、AI 助手集成等场景，通过模仿人类操作轨迹提升代理的泛化能力。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-29T02:31:07.763621+00:00"
+    },
+    {
+      "title": "ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 190,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:14:01Z",
+      "summary": "一个针对游戏MECCHA CHAMELEON的外部训练器，提供ESP透视、自瞄、飞行模式和计时器编辑功能。解决玩家在捉迷藏游戏中获取优势的需求。核心亮点是Python实现的外部注入和内存操作，支持自定义ESP显示和自动瞄准。适用于游戏作弊场景，但技术实现涉及内存读写和进程控制。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:10.151053+00:00"
+    },
+    {
+      "title": "joker-alahram/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/joker-alahram/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:16:03Z",
+      "summary": "MECCHA CHAMELEON Trainer Aimbot ESP 是一个为游戏 MECCHA CHAMELEON 设计的外部辅助工具，旨在通过提供 ESP（透视）、自瞄、飞行模式和计时器编辑功能，增强玩家在捉迷藏游戏中的体验。核心技术亮点包括基于 Python 实现的外部进程操作、内存读取与绘制覆盖，以及自定义瞄准逻辑。适用于游戏作弊或辅助工具开发学习场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-06-29T02:31:12.543827+00:00"
+    },
+    {
+      "title": "Selva-rc/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/Selva-rc/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:15:54Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个针对游戏 MECCHA CHAMELEON 的外部辅助工具，基于 Python 实现。它解决玩家在捉迷藏模式中获取优势的需求，核心功能包括可定制的 ESP（透视）、自瞄、飞行模式和计时器编辑。技术亮点在于通过外部进程注入实现游戏内存读写，并提供了图形化配置界面。适用场景为游戏作弊或辅助开发学习，但需注意其违反游戏规则的风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:14.990226+00:00"
+    },
+    {
+      "title": "khwarij/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/khwarij/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:14:38Z",
+      "summary": "这是一个为游戏MECCHA CHAMELEON开发的外部训练器，提供ESP透视、自动瞄准、飞行模式和计时器编辑功能，旨在增强捉迷藏游戏体验。核心技术基于Python实现外部进程交互，通过内存读取和注入实现作弊功能。适用场景为游戏修改和逆向工程学习，但存在违反游戏规则的风险。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:17.006314+00:00"
+    },
+    {
+      "title": "giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:14:49Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个面向游戏 MECCHA CHAMELEON 的外部训练器，提供 ESP（透视）、自瞄、飞行模式和计时器编辑功能。它解决玩家在捉迷藏模式中获取优势的需求，核心亮点包括可定制的 ESP 显示、自瞄算法和飞行控制。适用场景为游戏辅助开发与逆向工程学习，但技术深度有限，主要依赖 Python 实现简单内存操作。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-29T02:31:19.294064+00:00"
+    },
+    {
+      "title": "alex-carneiro/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/alex-carneiro/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:16:09Z",
+      "summary": "一个基于Python的MECCHA CHAMELEON游戏外部辅助工具，提供ESP透视、自瞄、飞行模式和计时器编辑功能。核心通过内存读取与注入实现游戏内数据可视化与自动化操作，适用于玩家提升躲猫猫游戏体验。技术亮点在于模块化设计支持多模式切换，但属于游戏外挂范畴，技术深度有限。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:21.476012+00:00"
+    },
+    {
+      "title": "Neverforgetme/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/Neverforgetme/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 186,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:18:01Z",
+      "summary": "一个针对游戏MECCHA CHAMELEON的2026版外部训练器，提供可定制的ESP透视、自瞄、飞行模式和计时器编辑功能。解决玩家在捉迷藏类游戏中获取优势的需求。核心采用Python开发，通过内存读写实现游戏内数据修改与渲染。适用于游戏作弊场景，但技术实现涉及进程注入和Hook等底层操作。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-29T02:31:23.705414+00:00"
+    },
+    {
+      "title": "raheelshakeel953-a11y/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/raheelshakeel953-a11y/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 186,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:18:52Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个为游戏 MECCHA CHAMELEON 设计的外部辅助工具，提供 ESP（透视）、自瞄、飞行模式和计时器编辑功能，旨在增强玩家在捉迷藏游戏中的体验。核心亮点包括可定制的 ESP 显示、自动瞄准机制和飞行模式，使用 Python 实现。适用于游戏修改和作弊场景，但存在违反游戏服务条款的风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.3,
+      "analyzed_at": "2026-06-29T02:31:26.055164+00:00"
+    },
+    {
+      "title": "triangkas/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/triangkas/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 186,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:18:05Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个针对游戏 MECCHA CHAMELEON 的外部训练器，提供可定制的 ESP（透视）、自瞄、飞行模式和计时器编辑功能，旨在增强捉迷藏游戏体验。核心技术基于 Python 实现外部进程内存操作，通过读取游戏内存数据实现视觉辅助和自动瞄准。适用于游戏作弊或训练场景，但技术深度有限，主要依赖内存读写和简单算法。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-29T02:31:28.435400+00:00"
+    },
+    {
+      "title": "XFaltixX/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/XFaltixX/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 186,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:17:26Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个为游戏 MECCHA CHAMELEON 设计的外部训练器，提供 ESP（透视）、自瞄、飞行模式和计时器编辑功能，旨在增强玩家在捉迷藏游戏中的体验。该项目使用 Python 实现，通过内存操作或图形覆盖实现游戏内辅助。适用场景为游戏修改和逆向工程学习，但存在违反游戏服务条款的风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:30.729723+00:00"
+    },
+    {
+      "title": "YousefMahdy1/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/YousefMahdy1/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 186,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-06-29T02:30:44.812942+00:00",
+      "published_at": "2026-06-28T07:17:35Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个为游戏 MECCHA CHAMELEON 设计的外部训练器，提供可定制的 ESP、自瞄、飞行模式和计时器编辑器。它解决了玩家在捉迷藏游戏中提升体验和操作效率的需求。核心亮点包括基于 Python 实现的 ESP 和自瞄功能，以及飞行模式等辅助工具。适用于游戏辅助开发或逆向工程学习场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:33.199831+00:00"
+    }
+  ]
+}

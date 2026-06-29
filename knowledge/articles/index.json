@@ -1,7 +1,156 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 851,
+  "total_count": 861,
   "entries": [
+    {
+      "id": "kb-2026-06-29-001",
+      "title": "YurunChen/repo-docs-skills",
+      "source": "github-trending",
+      "url": "https://github.com/YurunChen/repo-docs-skills",
+      "file": "2026-06-29-yurunchenrepo-docs-skills.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-002",
+      "title": "Einsia/Browser-BC",
+      "source": "github-trending",
+      "url": "https://github.com/Einsia/Browser-BC",
+      "file": "2026-06-29-einsiabrowser-bc.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-003",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "source": "hackernews-top",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "file": "2026-06-29-glm-52-beats-claude-in-our-benchmarks.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-004",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "source": "hackernews-top",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "file": "2026-06-29-i-used-claude-code-to-get-a-second-opini.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-005",
+      "title": "Show HN: Zanagrams",
+      "source": "hackernews-top",
+      "url": "https://zanagrams.com/",
+      "file": "2026-06-29-show-hn-zanagrams.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-006",
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "source": "hackernews-top",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "file": "2026-06-29-tokenmaxxing-is-dead-long-live-tokenmaxx.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "prompt-engineering",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-007",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "source": "hackernews-top",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "file": "2026-06-29-show-hn-bash4llm-a-lightweight-dependenc.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-008",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "source": "hackernews-top",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "file": "2026-06-29-show-hn-nanoeuler-gpt-2-scale-model-in-p.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "code-generation"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-009",
+      "title": "Model Training as Code",
+      "source": "hackernews-top",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "file": "2026-06-29-model-training-as-code.json",
+      "tags": [
+        "fine-tuning",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
+    {
+      "id": "kb-2026-06-29-010",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "file": "2026-06-29-a-way-to-exclude-sensitive-files-issue-s.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-06-29T02:32:17.460927+00:00"
+    },
     {
       "id": "kb-2026-06-28-001",
       "title": "eli-labz/Godcoder",
@@ -12621,5 +12770,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-28T02:32:05.432343+00:00"
+  "last_updated": "2026-06-29T02:32:17.498261+00:00"
 }

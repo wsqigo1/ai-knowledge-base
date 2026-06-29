@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-29-006",
+  "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+  "source": "hackernews-top",
+  "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+  "summary": "Tokenmaxxing is dead, long live tokenmaxxing 探讨了在LLM应用中最大化token利用效率的范式转变。传统方法（如过度填充上下文窗口）已失效，新方法通过动态token分配、智能压缩和优先级排序解决上下文窗口浪费问题。核心技术亮点包括自适应token预算管理、基于任务重要性的token重分配以及流式处理中的token复用。适用场景为需要高效处理长文本或高并发请求的LLM应用，如RAG系统、多轮对话和代码生成。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "prompt-engineering",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-29T02:30:44.977139+00:00",
+  "analyzed_at": "2026-06-29T02:32:01.355753+00:00",
+  "organized_at": "2026-06-29T02:32:17.460927+00:00",
+  "status": "published"
+}

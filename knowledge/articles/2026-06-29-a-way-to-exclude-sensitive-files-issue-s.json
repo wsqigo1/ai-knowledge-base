@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-29-010",
+  "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+  "source": "hackernews-top",
+  "url": "https://github.com/openai/codex/issues/2847",
+  "summary": "OpenAI Codex 存在一个长期未解决的 issue，即无法排除敏感文件（如 .env、密钥文件）被上传至模型上下文。该问题影响开发者在使用 Codex 进行代码生成时的安全性，可能导致敏感信息泄露。核心争议在于 Codex 缺乏内置的敏感文件过滤机制，需依赖用户手动配置或第三方工具。适用场景：使用 Codex 进行代码补全或生成的开发环境，尤其是涉及私有仓库或敏感数据的项目。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-29T02:30:44.977139+00:00",
+  "analyzed_at": "2026-06-29T02:32:10.942728+00:00",
+  "organized_at": "2026-06-29T02:32:17.460927+00:00",
+  "status": "published"
+}

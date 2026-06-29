@@ -1,0 +1,380 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-29T02:30:46.050054+00:00",
+  "date": "2026-06-29",
+  "count": 20,
+  "items": [
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "source": "hackernews-top",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "hn_url": "https://news.ycombinator.com/item?id=48709670",
+      "description": "",
+      "hn_score": 480,
+      "comments": 236,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "GLM 5.2 是一个开源大语言模型，在内部基准测试中表现优于 Claude。它解决了通用对话和复杂推理任务中的性能瓶颈，核心技术亮点包括改进的注意力机制和更高效的训练策略。适用于需要高精度、低成本部署的对话系统和推理应用场景。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:31:34.970336+00:00"
+    },
+    {
+      "title": "Historical memory prices 1960-2026",
+      "source": "hackernews-top",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48710092",
+      "description": "",
+      "hn_score": 173,
+      "comments": 70,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "这是一个展示1960年至2026年内存价格历史数据的可视化项目，旨在解决硬件成本趋势分析需求。核心亮点是提供长期、细粒度的价格变化曲线，涵盖DRAM、SRAM等类型，适用于硬件工程师、技术历史研究者或成本预测场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-29T02:31:37.008880+00:00"
+    },
+    {
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "source": "hackernews-top",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "hn_url": "https://news.ycombinator.com/item?id=48707763",
+      "description": "",
+      "hn_score": 330,
+      "comments": 86,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "纽约公共图书馆Buttolph收藏的5000份历史菜单数据集（1880-1920年）公开可用。解决历史研究、文化分析、自然语言处理（NLP）训练数据稀缺问题。核心技术亮点：数字化历史文档、结构化元数据、OCR文本。适用场景：历史研究、文化分析、NLP模型训练（如文本生成、实体识别）。",
+      "tags": [
+        "open-source",
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:39.093284+00:00"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "source": "hackernews-top",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "hn_url": "https://news.ycombinator.com/item?id=48708941",
+      "description": "",
+      "hn_score": 358,
+      "comments": 463,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "作者使用Claude Code作为AI助手分析自己的MRI影像，获取第二诊疗意见。解决非专业用户难以理解医学影像报告的问题。核心亮点是利用Claude的多模态能力和医学知识推理，对影像进行初步解读和风险提示。适用场景为个人健康管理中的辅助诊断参考，但需注意AI不能替代专业医生。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-29T02:31:41.147194+00:00"
+    },
+    {
+      "title": "Better Images of AI",
+      "source": "hackernews-top",
+      "url": "https://betterimagesofai.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48713051",
+      "description": "",
+      "hn_score": 15,
+      "comments": 7,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Better Images of AI 是一个开源项目，旨在提供高质量、无偏见的AI相关图像资源，解决当前AI领域视觉素材缺乏多样性、存在刻板印象的问题。其核心技术亮点包括精心策划的图像集、开放许可协议以及社区贡献机制。适用场景包括AI研究论文、技术文章、演示文稿和公众教育材料，以更准确地呈现AI技术及其影响。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-29T02:31:43.570165+00:00"
+    },
+    {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "source": "hackernews-top",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "hn_url": "https://news.ycombinator.com/item?id=48713697",
+      "description": "",
+      "hn_score": 26,
+      "comments": 11,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "各国央行行长警告AI投资热潮可能引发全球金融崩溃。该问题源于AI领域过度投资和泡沫风险，核心在于识别并防范系统性金融风险。技术亮点为央行利用宏观审慎监管框架和压力测试模型评估AI相关资产风险。适用场景为金融监管与风险预警。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-29T02:31:45.424776+00:00"
+    },
+    {
+      "title": "The Boeing 747 begins its final descent",
+      "source": "hackernews-top",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+      "hn_url": "https://news.ycombinator.com/item?id=48675295",
+      "description": "",
+      "hn_score": 144,
+      "comments": 195,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "该条目报道波音747飞机开始其最终退役阶段，核心是航空工业的历史性事件。它解决的是公众对标志性机型生命周期终结的认知需求。技术亮点在于747作为首款宽体客机，其设计创新（如双层甲板、高涵道比涡扇发动机）对现代航空的深远影响。适用场景包括航空史研究、工业设计案例分析和公众科普。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-29T02:31:47.787472+00:00"
+    },
+    {
+      "title": "Show HN: Zanagrams",
+      "source": "hackernews-top",
+      "url": "https://zanagrams.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48708182",
+      "description": "",
+      "hn_score": 184,
+      "comments": 53,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Zanagrams 是一个开源项目，旨在解决文本到图像生成中语义对齐不足的问题。其核心技术亮点是通过引入自适应语义映射机制，在扩散模型基础上增强对复杂文本描述的精确理解与图像生成能力。适用场景包括创意设计、广告生成、教育可视化等需要高精度文本-图像匹配的领域。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-29T02:31:49.848530+00:00"
+    },
+    {
+      "title": "Librepods: AirPods liberated",
+      "source": "hackernews-top",
+      "url": "https://github.com/librepods-org/librepods",
+      "hn_url": "https://news.ycombinator.com/item?id=48710232",
+      "description": "",
+      "hn_score": 291,
+      "comments": 88,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Librepods 是一个开源项目，旨在通过逆向工程解放 AirPods 的固件限制，允许用户自定义功能、修改音频处理参数或集成第三方服务。核心亮点是绕过苹果封闭生态，提供底层固件访问接口。适用于开发者探索蓝牙音频设备定制或研究嵌入式系统安全。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-29T02:31:51.832705+00:00"
+    },
+    {
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "source": "hackernews-top",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48708991",
+      "description": "",
+      "hn_score": 284,
+      "comments": 386,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "布朗大学教授揭露大规模AI作弊事件，指出学生利用AI工具在考试中作弊。该事件凸显了AI在教育领域带来的学术诚信挑战。核心技术亮点在于AI生成内容的难以检测性，以及现有防作弊措施的不足。适用场景包括教育机构的学术诚信管理、AI伦理讨论及反作弊技术研发。",
+      "tags": [
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-06-29T02:31:53.690829+00:00"
+    },
+    {
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "source": "hackernews-top",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48709187",
+      "description": "",
+      "hn_score": 94,
+      "comments": 21,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "本文探讨在Lemote Yeeloong笔记本电脑上运行OpenBSD操作系统时遇到的硬件兼容性挑战，特别是针对龙芯处理器架构的驱动适配问题。核心亮点包括对MIPS架构的底层支持、电源管理优化以及解决BIOS限制的实用技巧。适用场景为开源硬件爱好者和OpenBSD开发者，用于在非主流架构上部署稳定系统。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-29T02:31:55.928066+00:00"
+    },
+    {
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "source": "hackernews-top",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48708859",
+      "description": "",
+      "hn_score": 112,
+      "comments": 36,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Daisugi是一种日本林业技术，通过在同一棵树上培育多根直立的枝条（称为“台杉”），实现从一棵母树持续收获木材，无需重新种植。它解决了传统林业中土地有限、生长周期长的问题。核心技术亮点是利用特定树种（如日本柳杉）的萌蘖能力，通过定期修剪和支撑，使枝条垂直生长成优质木材。适用场景包括可持续林业管理、木材生产以及生态修复。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-29T02:31:58.591572+00:00"
+    },
+    {
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "source": "hackernews-top",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "hn_url": "https://news.ycombinator.com/item?id=48708795",
+      "description": "",
+      "hn_score": 115,
+      "comments": 142,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Tokenmaxxing is dead, long live tokenmaxxing 探讨了在LLM应用中最大化token利用效率的范式转变。传统方法（如过度填充上下文窗口）已失效，新方法通过动态token分配、智能压缩和优先级排序解决上下文窗口浪费问题。核心技术亮点包括自适应token预算管理、基于任务重要性的token重分配以及流式处理中的token复用。适用场景为需要高效处理长文本或高并发请求的LLM应用，如RAG系统、多轮对话和代码生成。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "prompt-engineering",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:32:01.355753+00:00"
+    },
+    {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "source": "hackernews-top",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48710827",
+      "description": "",
+      "hn_score": 35,
+      "comments": 15,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Bash4LLM+ 是一个轻量级、无依赖的 Bash 封装脚本，用于简化 LLM API 调用。它解决了在纯 Bash 环境中直接调用 OpenAI、Anthropic 等 API 时需编写冗长 curl 命令的问题，核心亮点是零外部依赖、支持流式输出和自动重试。适用场景包括快速原型开发、CI/CD 集成和自动化脚本中的 LLM 调用。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-29T02:32:03.637481+00:00"
+    },
+    {
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "source": "hackernews-top",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "hn_url": "https://news.ycombinator.com/item?id=48710778",
+      "description": "",
+      "hn_score": 38,
+      "comments": 9,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "NanoEuler 是一个从零开始用纯 C/CUDA 实现的 GPT-2 规模语言模型项目，旨在提供轻量级、可复现的 LLM 训练与推理教学工具。它解决了现有框架（如 PyTorch）对底层 GPU 操作抽象过多、难以深入理解的问题，核心技术亮点包括手写 CUDA 内核实现 Transformer 前向/反向传播、支持混合精度训练、以及完整的 GPT-2 权重加载与生成流水线。适用场景为 AI 工程师学习 LLM 底层原理、CUDA 编程实践，或作为嵌入式/边缘设备上部署小型模型的参考实现。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "code-generation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-29T02:32:06.465534+00:00"
+    },
+    {
+      "title": "Model Training as Code",
+      "source": "hackernews-top",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "hn_url": "https://news.ycombinator.com/item?id=48673450",
+      "description": "",
+      "hn_score": 21,
+      "comments": 7,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "Model Training as Code 是一种将模型训练流程以代码形式定义和管理的实践，旨在解决传统训练过程手动配置、难以复现和版本控制的问题。其核心技术亮点包括声明式训练配置、自动化流水线集成以及可追溯的变更管理。适用场景包括需要频繁迭代模型、团队协作训练以及要求训练过程可审计的AI项目。",
+      "tags": [
+        "fine-tuning",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-06-29T02:32:08.547758+00:00"
+    },
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "hn_url": "https://news.ycombinator.com/item?id=48706714",
+      "description": "",
+      "hn_score": 179,
+      "comments": 120,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "OpenAI Codex 存在一个长期未解决的 issue，即无法排除敏感文件（如 .env、密钥文件）被上传至模型上下文。该问题影响开发者在使用 Codex 进行代码生成时的安全性，可能导致敏感信息泄露。核心争议在于 Codex 缺乏内置的敏感文件过滤机制，需依赖用户手动配置或第三方工具。适用场景：使用 Codex 进行代码补全或生成的开发环境，尤其是涉及私有仓库或敏感数据的项目。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-29T02:32:10.942728+00:00"
+    },
+    {
+      "title": "The KIDS Act would require age checks to get online",
+      "source": "hackernews-top",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "hn_url": "https://news.ycombinator.com/item?id=48706560",
+      "description": "",
+      "hn_score": 322,
+      "comments": 279,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "The KIDS Act 是一项美国立法提案，要求在线平台实施年龄验证以保护儿童。它解决未成年人接触不适宜内容及隐私泄露问题。核心技术亮点包括强制年龄检查机制和隐私保护设计。适用场景为社交媒体、游戏、教育等在线服务。",
+      "tags": [
+        "ai-assistant"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-06-29T02:32:12.904046+00:00"
+    },
+    {
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "source": "hackernews-top",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "hn_url": "https://news.ycombinator.com/item?id=48706814",
+      "description": "",
+      "hn_score": 209,
+      "comments": 69,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "这是一篇2015年的技术文章，探讨了波兰字母'Ś'（U+015A）在特定编码转换中神秘消失的问题。核心是分析Unicode与Latin-2等编码间的映射错误，导致字符丢失。通过追踪字符编码的二进制表示和转换逻辑，揭示了因编码表不完整或映射冲突引发的数据损坏。适用于字符编码处理、国际化软件开发及数据迁移场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-06-29T02:32:15.433919+00:00"
+    },
+    {
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "hn_url": "https://news.ycombinator.com/item?id=48710350",
+      "description": "",
+      "hn_score": 25,
+      "comments": 1,
+      "collected_at": "2026-06-29T02:30:44.977139+00:00",
+      "published_at": "2026-06-29T02:30:44.977139+00:00",
+      "summary": "1968年论文PDF，探讨计算机辅助无口语儿童语言发展。解决非言语儿童沟通障碍问题，通过计算机系统提供视觉化语言输入与反馈。核心技术亮点：早期将计算机用于特殊教育，设计交互式语言学习环境。适用场景：特殊教育、辅助沟通技术研究。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-06-29T02:32:17.429261+00:00"
+    }
+  ]
+}

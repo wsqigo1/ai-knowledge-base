@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-29-009",
+  "title": "Model Training as Code",
+  "source": "hackernews-top",
+  "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+  "summary": "Model Training as Code 是一种将模型训练流程以代码形式定义和管理的实践，旨在解决传统训练过程手动配置、难以复现和版本控制的问题。其核心技术亮点包括声明式训练配置、自动化流水线集成以及可追溯的变更管理。适用场景包括需要频繁迭代模型、团队协作训练以及要求训练过程可审计的AI项目。",
+  "tags": [
+    "fine-tuning",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-06-29T02:30:44.977139+00:00",
+  "analyzed_at": "2026-06-29T02:32:08.547758+00:00",
+  "organized_at": "2026-06-29T02:32:17.460927+00:00",
+  "status": "published"
+}

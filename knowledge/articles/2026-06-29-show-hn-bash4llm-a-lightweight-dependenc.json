@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-29-007",
+  "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+  "source": "hackernews-top",
+  "url": "https://github.com/kamaludu/bash4llm/",
+  "summary": "Bash4LLM+ 是一个轻量级、无依赖的 Bash 封装脚本，用于简化 LLM API 调用。它解决了在纯 Bash 环境中直接调用 OpenAI、Anthropic 等 API 时需编写冗长 curl 命令的问题，核心亮点是零外部依赖、支持流式输出和自动重试。适用场景包括快速原型开发、CI/CD 集成和自动化脚本中的 LLM 调用。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-06-29T02:30:44.977139+00:00",
+  "analyzed_at": "2026-06-29T02:32:03.637481+00:00",
+  "organized_at": "2026-06-29T02:32:17.460927+00:00",
+  "status": "published"
+}
