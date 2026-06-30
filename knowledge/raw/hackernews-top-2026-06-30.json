@@ -1,0 +1,390 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-06-30T02:14:26.063399+00:00",
+  "date": "2026-06-30",
+  "count": 20,
+  "items": [
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "source": "hackernews-top",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "hn_url": "https://news.ycombinator.com/item?id=48724230",
+      "description": "",
+      "hn_score": 337,
+      "comments": 194,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": ".self 是一个新顶级域名，旨在为自托管服务提供专用命名空间。它解决了自托管用户依赖第三方域名（如 .com）时面临的成本、隐私和可控性问题。核心技术亮点是推出一个去中心化、无需ICANN审批的域名系统，支持用户完全控制域名解析。适用场景包括个人网站、家庭服务器、物联网设备等自托管环境。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-30T02:15:19.359754+00:00"
+    },
+    {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "source": "hackernews-top",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "hn_url": "https://news.ycombinator.com/item?id=48721903",
+      "description": "",
+      "hn_score": 619,
+      "comments": 515,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Qwen 3.6 27B 是一个针对本地开发优化的开源大语言模型，解决了开发者因模型过大无法在消费级硬件上运行的问题。其核心技术亮点包括在 27B 参数规模下实现高效推理和低显存占用，支持量化部署。适用场景为本地代码生成、调试辅助和离线 AI 助手开发。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-30T02:15:21.762766+00:00"
+    },
+    {
+      "title": "Free the Icons",
+      "source": "hackernews-top",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "hn_url": "https://news.ycombinator.com/item?id=48698908",
+      "description": "",
+      "hn_score": 223,
+      "comments": 60,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Free the Icons 是一个开源图标项目，旨在解决图标使用中的版权和格式限制问题。其核心技术亮点是提供完全免费、无版权限制的 SVG 图标集合，支持自定义颜色和大小，适用于 Web、移动应用和桌面软件等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-06-30T02:15:23.830228+00:00"
+    },
+    {
+      "title": "Rocketlab acquires Iridium",
+      "source": "hackernews-top",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "hn_url": "https://news.ycombinator.com/item?id=48719485",
+      "description": "",
+      "hn_score": 369,
+      "comments": 231,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Rocketlab 收购 Iridium 卫星通信业务，旨在整合低轨卫星网络与地面通信基础设施。核心技术亮点在于利用 Iridium 的 66 颗低轨卫星星座提供全球覆盖的窄带物联网连接，解决偏远地区设备联网难题。适用场景包括物流追踪、环境监测和应急通信等需要低功耗、广域覆盖的 IoT 部署。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-30T02:15:26.370108+00:00"
+    },
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "source": "hackernews-top",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48722052",
+      "description": "",
+      "hn_score": 156,
+      "comments": 32,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Ornith-1.0 是一个开源编码代理模型，通过自我改进机制提升代码生成能力。它解决现有模型在复杂编码任务中依赖外部反馈、缺乏自主迭代优化的问题。核心技术包括基于执行反馈的自我训练循环和强化学习策略，使模型能自主修正错误并提升性能。适用于自动化代码生成、调试辅助及持续集成中的智能编码代理场景。",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "agent",
+        "fine-tuning",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-06-30T02:15:29.336336+00:00"
+    },
+    {
+      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+      "source": "hackernews-top",
+      "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+      "hn_url": "https://news.ycombinator.com/item?id=48727538",
+      "description": "",
+      "hn_score": 7,
+      "comments": 1,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "探讨欧洲为何不在冰岛建设AI数据中心，分析冰岛丰富的地热与水电资源可降低数据中心能耗成本，但面临网络延迟、政治协调与基础设施不足等挑战。核心亮点在于揭示可再生能源与AI基础设施选址的权衡，适用场景为AI基础设施规划与能源政策讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-06-30T02:15:31.894346+00:00"
+    },
+    {
+      "title": "A native graphical shell for SSH",
+      "source": "hackernews-top",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48720758",
+      "description": "",
+      "hn_score": 250,
+      "comments": 117,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "A native graphical shell for SSH 是一个为 SSH 连接提供原生图形化界面的开源工具。它解决了传统 SSH 命令行界面操作繁琐、缺乏可视化反馈的问题。核心技术亮点包括：将 SSH 会话嵌入本地图形窗口，支持文件拖放、多标签页、会话管理等功能，并利用系统原生渲染提升性能。适用场景：需要频繁管理远程服务器的开发者和运维人员，尤其是偏好图形化操作的用户。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-06-30T02:15:34.674510+00:00"
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "hn_url": "https://news.ycombinator.com/item?id=48720924",
+      "description": "",
+      "hn_score": 449,
+      "comments": 212,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "美国最高法院裁定，地理围栏搜查令（geofence warrants）必须受宪法第四修正案保护，要求警方在获取手机位置数据前需证明可能原因。该裁决解决了数字时代大规模位置监控与隐私权的冲突，核心在于将传统搜查令原则适用于新兴技术。技术亮点是明确了地理围栏数据作为搜查对象的法律标准，影响涉及位置数据收集的AI应用。适用场景包括法律科技、隐私保护技术开发及AI合规系统设计。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-30T02:15:37.812670+00:00"
+    },
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "hn_url": "https://news.ycombinator.com/item?id=48726102",
+      "description": "",
+      "hn_score": 122,
+      "comments": 75,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "韩国政府宣布投资1万亿美元（约合1.2万亿韩元）用于扩大内存芯片生产及人形机器人研发。该计划旨在解决半导体供应链瓶颈与劳动力短缺问题，核心技术亮点包括高带宽内存（HBM）制造工艺升级和AI驱动的机器人运动控制算法。适用场景为数据中心存储、工业自动化及服务机器人领域。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-06-30T02:15:40.125938+00:00"
+    },
+    {
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "source": "hackernews-top",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+      "hn_url": "https://news.ycombinator.com/item?id=48711981",
+      "description": "",
+      "hn_score": 318,
+      "comments": 181,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "该条目讨论美国因运输‘zines’（小众出版物）被判30年刑期的案件，引发对言论自由边界的争议。核心问题是法律如何界定非法内容传播与言论自由的冲突。技术亮点在于通过司法案例揭示AI内容审核、自动化合规系统可能面临的类似法律风险。适用场景为AI内容安全、法律科技、言论自由研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-06-30T02:15:42.833751+00:00"
+    },
+    {
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "hn_url": "https://news.ycombinator.com/item?id=48702825",
+      "description": "",
+      "hn_score": 122,
+      "comments": 18,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Apple Neural Engine (ANE) 是苹果自研的专用神经网络加速硬件，旨在解决移动端AI推理的性能与功耗瓶颈。核心技术亮点包括：异构计算架构（CPU/GPU/ANE协同）、16位浮点与整数量化支持、Core ML框架的自动图优化与内存管理。适用场景：iOS/macOS上的实时图像处理、自然语言推理、视频分析等低延迟AI任务。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-06-30T02:15:45.757787+00:00"
+    },
+    {
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "source": "hackernews-top",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48720190",
+      "description": "",
+      "hn_score": 178,
+      "comments": 29,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "WATaBoy 通过将 Game Boy 指令即时编译（JIT）为 WebAssembly（WASM），实现了比原生解释器更快的执行速度。它解决了传统模拟器解释执行效率低的问题，核心亮点是利用 WASM 的编译优化和硬件加速能力，将每条 GB 指令映射为高效 WASM 代码块，并采用动态翻译与缓存机制。适用于浏览器内复古游戏模拟、WebAssembly 性能基准测试以及嵌入式系统仿真场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-30T02:15:48.460477+00:00"
+    },
+    {
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "source": "hackernews-top",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "hn_url": "https://news.ycombinator.com/item?id=48683475",
+      "description": "",
+      "hn_score": 116,
+      "comments": 20,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Wallace是一款6英寸f/2.8自制望远镜，专为便携徒步观测设计。解决传统大口径望远镜笨重、不便携带的问题。核心技术亮点：采用超短焦比f/2.8设计，配合轻量化材料（如碳纤维管）和可拆卸结构，实现高集光力与便携性的平衡。适用场景：天文爱好者徒步旅行、野外深空观测及DIY望远镜制作社区。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-06-30T02:15:50.821164+00:00"
+    },
+    {
+      "title": "One million passports leaked online",
+      "source": "hackernews-top",
+      "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
+      "hn_url": "https://news.ycombinator.com/item?id=48706389",
+      "description": "",
+      "hn_score": 145,
+      "comments": 83,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "该条目报道了100万护照信息在线泄露事件，属于数据安全与隐私泄露问题。核心是暴露了敏感数据存储与传输中的安全漏洞，可能涉及未加密数据库或API接口防护不足。技术亮点在于泄露规模与数据敏感性，适用于安全审计、数据泄露监测及隐私保护技术研究场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-06-30T02:15:53.342465+00:00"
+    },
+    {
+      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "source": "hackernews-top",
+      "url": "https://github.com/SMJAI/open-memory-protocol",
+      "hn_url": "https://news.ycombinator.com/item?id=48726966",
+      "description": "",
+      "hn_score": 8,
+      "comments": 4,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Open Memory Protocol 是一个统一记忆存储协议，旨在解决 Claude、ChatGPT、Curso 等 AI 助手间记忆碎片化的问题。其核心技术亮点是提供标准化接口，允许不同 LLM 应用共享和同步用户上下文与偏好，无需各自维护独立记忆库。适用场景包括跨平台 AI 助手协作、个性化对话延续及多工具工作流中的记忆持久化。",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-06-30T02:15:55.632288+00:00"
+    },
+    {
+      "title": "Dark Sky Lighting",
+      "source": "hackernews-top",
+      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+      "hn_url": "https://news.ycombinator.com/item?id=48675653",
+      "description": "",
+      "hn_score": 157,
+      "comments": 30,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Dark Sky Lighting 是一个开源项目，旨在解决夜间户外照明对天文观测和生态环境的光污染问题。其核心技术是通过智能控制算法和传感器，动态调整照明亮度和色温，仅在需要时提供最低限度照明，同时支持手动或自动模式切换。适用于天文台、自然保护区、乡村社区等需要减少光污染的场所。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-06-30T02:15:58.208673+00:00"
+    },
+    {
+      "title": "What happens when you run a CUDA kernel?",
+      "source": "hackernews-top",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "hn_url": "https://news.ycombinator.com/item?id=48718863",
+      "description": "",
+      "hn_score": 211,
+      "comments": 28,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "深入解析CUDA内核从启动到GPU执行的完整流程，包括线程块调度、内存层次结构、SM并行机制等底层细节。解决开发者对GPU编程模型黑盒化理解不足的问题，通过代码示例和架构图展示warp执行、共享内存优化、同步原语等核心技术。适用于高性能计算、深度学习算子优化、GPU驱动开发等场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "large-language-model"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-06-30T02:16:01.067397+00:00"
+    },
+    {
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "source": "hackernews-top",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "hn_url": "https://news.ycombinator.com/item?id=48722802",
+      "description": "",
+      "hn_score": 53,
+      "comments": 18,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Micro-Agent 是一种在模型 API 内部实现多智能体协作的框架，旨在解决单一大型模型在复杂任务中表现不足的问题。其核心技术亮点是通过将任务分解为多个微型代理，在 API 调用内部进行协作，从而提升性能并超越前沿模型。适用场景包括需要高精度推理和任务分解的复杂 AI 应用，如代码生成和问题求解。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "code-generation",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-30T02:16:03.189775+00:00"
+    },
+    {
+      "title": "Working With AI: A concrete example",
+      "source": "hackernews-top",
+      "url": "https://htmx.org/essays/working-with-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48720064",
+      "description": "",
+      "hn_score": 91,
+      "comments": 31,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "本文通过一个具体案例展示如何将AI集成到实际工作流程中，解决开发者对AI工具落地缺乏实践指导的问题。核心技术亮点包括任务分解、提示工程和迭代优化策略，适用于软件开发、内容生成和数据分析等场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-06-30T02:16:05.157583+00:00"
+    },
+    {
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "source": "hackernews-top",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48717287",
+      "description": "",
+      "hn_score": 163,
+      "comments": 40,
+      "collected_at": "2026-06-30T02:14:24.279006+00:00",
+      "published_at": "2026-06-30T02:14:24.279006+00:00",
+      "summary": "Sandia National Labs SA3000 是一款基于8085 CPU的加固型单板计算机，用于解决极端环境下的可靠计算需求。核心技术亮点包括抗辐射设计、宽温范围（-55°C至+125°C）和军用级封装，适用于航天、核设施及军事嵌入式系统。该条目展示了经典CPU在特殊领域的持续应用价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-06-30T02:16:07.618139+00:00"
+    }
+  ]
+}

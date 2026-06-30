@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-30-008",
+  "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2606.22283",
+  "summary": "Apple Neural Engine (ANE) 是苹果自研的专用神经网络加速硬件，旨在解决移动端AI推理的性能与功耗瓶颈。核心技术亮点包括：异构计算架构（CPU/GPU/ANE协同）、16位浮点与整数量化支持、Core ML框架的自动图优化与内存管理。适用场景：iOS/macOS上的实时图像处理、自然语言推理、视频分析等低延迟AI任务。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "benchmark"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-06-30T02:14:24.279006+00:00",
+  "analyzed_at": "2026-06-30T02:15:45.757787+00:00",
+  "organized_at": "2026-06-30T02:16:07.651018+00:00",
+  "status": "published"
+}

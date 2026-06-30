@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-06-30-012",
+  "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+  "source": "hackernews-top",
+  "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+  "summary": "Micro-Agent 是一种在模型 API 内部实现多智能体协作的框架，旨在解决单一大型模型在复杂任务中表现不足的问题。其核心技术亮点是通过将任务分解为多个微型代理，在 API 调用内部进行协作，从而提升性能并超越前沿模型。适用场景包括需要高精度推理和任务分解的复杂 AI 应用，如代码生成和问题求解。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-30T02:14:24.279006+00:00",
+  "analyzed_at": "2026-06-30T02:16:03.189775+00:00",
+  "organized_at": "2026-06-30T02:16:07.651018+00:00",
+  "status": "published"
+}

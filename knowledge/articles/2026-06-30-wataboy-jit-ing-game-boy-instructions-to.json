@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-30-009",
+  "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+  "source": "hackernews-top",
+  "url": "https://humphri.es/blog/WATaBoy/",
+  "summary": "WATaBoy 通过将 Game Boy 指令即时编译（JIT）为 WebAssembly（WASM），实现了比原生解释器更快的执行速度。它解决了传统模拟器解释执行效率低的问题，核心亮点是利用 WASM 的编译优化和硬件加速能力，将每条 GB 指令映射为高效 WASM 代码块，并采用动态翻译与缓存机制。适用于浏览器内复古游戏模拟、WebAssembly 性能基准测试以及嵌入式系统仿真场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-06-30T02:14:24.279006+00:00",
+  "analyzed_at": "2026-06-30T02:15:48.460477+00:00",
+  "organized_at": "2026-06-30T02:16:07.651018+00:00",
+  "status": "published"
+}

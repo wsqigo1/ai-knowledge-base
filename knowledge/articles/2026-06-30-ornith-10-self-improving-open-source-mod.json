@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-06-30-005",
+  "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+  "source": "hackernews-top",
+  "url": "https://github.com/deepreinforce-ai/Ornith-1",
+  "summary": "Ornith-1.0 是一个开源编码代理模型，通过自我改进机制提升代码生成能力。它解决现有模型在复杂编码任务中依赖外部反馈、缺乏自主迭代优化的问题。核心技术包括基于执行反馈的自我训练循环和强化学习策略，使模型能自主修正错误并提升性能。适用于自动化代码生成、调试辅助及持续集成中的智能编码代理场景。",
+  "tags": [
+    "open-source",
+    "code-generation",
+    "agent",
+    "fine-tuning",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-06-30T02:14:24.279006+00:00",
+  "analyzed_at": "2026-06-30T02:15:29.336336+00:00",
+  "organized_at": "2026-06-30T02:16:07.651018+00:00",
+  "status": "published"
+}

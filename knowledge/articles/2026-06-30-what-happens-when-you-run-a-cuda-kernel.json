@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-06-30-011",
+  "title": "What happens when you run a CUDA kernel?",
+  "source": "hackernews-top",
+  "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+  "summary": "深入解析CUDA内核从启动到GPU执行的完整流程，包括线程块调度、内存层次结构、SM并行机制等底层细节。解决开发者对GPU编程模型黑盒化理解不足的问题，通过代码示例和架构图展示warp执行、共享内存优化、同步原语等核心技术。适用于高性能计算、深度学习算子优化、GPU驱动开发等场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "large-language-model"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-06-30T02:14:24.279006+00:00",
+  "analyzed_at": "2026-06-30T02:16:01.067397+00:00",
+  "organized_at": "2026-06-30T02:16:07.651018+00:00",
+  "status": "published"
+}
