@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-01-005",
+  "title": "Claude Code is steganographically marking requests",
+  "source": "hackernews-top",
+  "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+  "summary": "Claude Code 在请求中隐写标记（steganographically marking requests），即通过嵌入不可见标识符追踪 API 调用来源。解决 AI 服务调用溯源与安全审计问题。核心技术为隐写术（steganography）在 HTTP 请求中的应用，不改变请求功能但嵌入元数据。适用场景包括 API 使用监控、反滥用检测、合规性追踪。",
+  "tags": [
+    "ai-assistant",
+    "developer-tools",
+    "security"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-01T02:31:12.054914+00:00",
+  "analyzed_at": "2026-07-01T02:32:10.283006+00:00",
+  "organized_at": "2026-07-01T02:32:56.029787+00:00",
+  "status": "published"
+}

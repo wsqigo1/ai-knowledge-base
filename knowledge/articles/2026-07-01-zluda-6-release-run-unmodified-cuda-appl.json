@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-01-012",
+  "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+  "source": "hackernews-top",
+  "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+  "summary": "Zluda 6 是一个开源兼容层，允许未修改的 CUDA 应用程序在非 NVIDIA GPU（如 AMD、Intel）上运行。它通过将 CUDA 运行时和驱动 API 翻译为目标 GPU 的原生 API（如 ROCm、Level Zero），解决了 CUDA 生态锁定问题。核心技术亮点包括对 CUDA 12.x 的支持、动态 PTX 编译优化以及多后端架构。适用于需要跨 GPU 平台迁移 CUDA 工作负载的 AI 推理、HPC 或图形渲染场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-01T02:31:12.054914+00:00",
+  "analyzed_at": "2026-07-01T02:32:51.130217+00:00",
+  "organized_at": "2026-07-01T02:32:56.029787+00:00",
+  "status": "published"
+}

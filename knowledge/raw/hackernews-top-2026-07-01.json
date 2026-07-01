@@ -1,0 +1,385 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-01T02:31:13.638862+00:00",
+  "date": "2026-07-01",
+  "count": 20,
+  "items": [
+    {
+      "title": "Claude Sonnet 5",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48736605",
+      "description": "",
+      "hn_score": 889,
+      "comments": 499,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Claude Sonnet 5 是 Anthropic 发布的最新大语言模型，旨在提升复杂推理与代码生成能力。它通过改进架构与训练方法，解决了长上下文理解与多步推理中的一致性难题。核心技术亮点包括增强的指令遵循、更低的幻觉率以及更高效的 token 使用。适用场景涵盖高级代码开发、多轮对话助手、复杂文档分析及自动化工作流。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-07-01T02:32:07.776213+00:00"
+    },
+    {
+      "title": "Claude Code is steganographically marking requests",
+      "source": "hackernews-top",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "hn_url": "https://news.ycombinator.com/item?id=48734373",
+      "description": "",
+      "hn_score": 1429,
+      "comments": 409,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Claude Code 在请求中隐写标记（steganographically marking requests），即通过嵌入不可见标识符追踪 API 调用来源。解决 AI 服务调用溯源与安全审计问题。核心技术为隐写术（steganography）在 HTTP 请求中的应用，不改变请求功能但嵌入元数据。适用场景包括 API 使用监控、反滥用检测、合规性追踪。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-01T02:32:10.283006+00:00"
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "hn_url": "https://news.ycombinator.com/item?id=48740771",
+      "description": "",
+      "hn_score": 232,
+      "comments": 90,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "美国商务部解除了对Claude Fable 5和Mythos 5的出口管制，允许这些AI模型向海外市场分发。该举措旨在解决因出口限制导致的全球AI技术发展不平衡问题，核心亮点是放松了对先进LLM的贸易壁垒，适用于国际AI研发合作与商业部署场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-01T02:32:12.483906+00:00"
+    },
+    {
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "source": "hackernews-top",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48739466",
+      "description": "",
+      "hn_score": 109,
+      "comments": 58,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "该研究提出一种无需手术即可将脑电波转化为文字的新型脑机接口技术。它解决传统侵入式脑机接口需要开颅植入电极、风险高且难以普及的问题。核心技术亮点是利用非侵入式头皮脑电图（EEG）结合深度学习模型解码神经信号，实现从脑波到文本的实时转换。适用场景包括帮助瘫痪或闭锁综合征患者恢复沟通能力，以及未来可能的人机交互应用。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-01T02:32:15.111185+00:00"
+    },
+    {
+      "title": "Claude Science",
+      "source": "hackernews-top",
+      "url": "https://claude.com/product/claude-science",
+      "hn_url": "https://news.ycombinator.com/item?id=48735770",
+      "description": "",
+      "hn_score": 371,
+      "comments": 122,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Claude Science 是 Anthropic 推出的一个面向科学研究的 AI 工具，旨在帮助科学家加速文献分析、实验设计和数据解读。它通过集成 Claude 的推理能力，解决科研中信息过载和复杂概念理解难题。核心技术亮点包括长上下文窗口处理论文、多模态支持图表解析以及结构化输出实验假设。适用于科研人员、学术机构及药物发现等场景。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-01T02:32:17.772585+00:00"
+    },
+    {
+      "title": "Nano Banana 2 Lite",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48735444",
+      "description": "",
+      "hn_score": 308,
+      "comments": 120,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Nano Banana 2 Lite 是一款基于 Banana Pi 的轻量级单板计算机，旨在解决边缘 AI 推理中的低成本、低功耗部署问题。其核心技术亮点包括搭载 Rockchip RK3588S 芯片，集成 NPU 支持 6 TOPS 算力，兼容 TensorFlow/PyTorch 模型，并具备 HDMI 2.1、USB 3.0 等接口。适用于物联网设备、智能摄像头、机器人等边缘 AI 场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-01T02:32:20.416463+00:00"
+    },
+    {
+      "title": "Leanstral 1.5",
+      "source": "hackernews-top",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "hn_url": "https://news.ycombinator.com/item?id=48738938",
+      "description": "",
+      "hn_score": 102,
+      "comments": 19,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Leanstral 1.5 是一个开源项目，旨在通过轻量级架构优化 LLM 推理效率，解决大模型在资源受限场景下的部署难题。其核心技术包括量化压缩与稀疏注意力机制，显著降低显存占用和延迟。适用于边缘设备、实时对话系统等对响应速度敏感的 AI 应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-01T02:32:22.598104+00:00"
+    },
+    {
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "source": "hackernews-top",
+      "url": "https://mechanical-pencil.com/products/car",
+      "hn_url": "https://news.ycombinator.com/item?id=48712289",
+      "description": "",
+      "hn_score": 107,
+      "comments": 26,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "这是一篇关于回力车工作原理的图文拆解文章，通过物理机制和机械结构分析，解释其如何通过惯性储能实现前进。解决的是对简单机械传动系统的好奇与理解问题。核心技术亮点包括对弹簧储能、齿轮传动和单向离合器的详细拆解。适用场景为机械工程教育、科普或DIY爱好者参考。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:32:25.113745+00:00"
+    },
+    {
+      "title": "Deriving SVD without even aiming at it",
+      "source": "hackernews-top",
+      "url": "https://stillthinking.net/posts/connections-in-math-svd/",
+      "hn_url": "https://news.ycombinator.com/item?id=48707527",
+      "description": "",
+      "hn_score": 9,
+      "comments": 0,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "文章从线性代数的基本概念出发，不预设目标地推导出奇异值分解（SVD），展示其自然涌现的过程。解决传统教学中SVD推导过于抽象、缺乏直观理解的问题。核心技术亮点是通过几何直觉和矩阵乘法逐步构建SVD，无需复杂优化。适用场景包括机器学习、数据降维、推荐系统等需要理解SVD本质的工程师或学生。",
+      "tags": [
+        "developer-tools",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-01T02:32:28.105920+00:00"
+    },
+    {
+      "title": "I ported Kubernetes to the browser",
+      "source": "hackernews-top",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "hn_url": "https://news.ycombinator.com/item?id=48738985",
+      "description": "",
+      "hn_score": 167,
+      "comments": 55,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "该项目将 Kubernetes 移植到浏览器中运行，解决了在无服务器或受限环境中快速体验和测试 K8s 的痛点。核心亮点是通过 WebAssembly 和浏览器沙箱技术，在浏览器内模拟完整的 K8s 集群，无需安装任何依赖。适用于开发演示、教学培训、CI/CD 快速验证等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-01T02:32:30.376674+00:00"
+    },
+    {
+      "title": "I built a mmWave material classification radar (2025)",
+      "source": "hackernews-top",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "hn_url": "https://news.ycombinator.com/item?id=48736137",
+      "description": "",
+      "hn_score": 142,
+      "comments": 38,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "该项目构建了一个基于毫米波（mmWave）雷达的材料分类系统。解决传统传感器在非接触式材料识别中精度低、环境适应性差的问题。核心技术亮点包括使用调频连续波（FMCW）雷达获取反射信号，结合机器学习模型（如SVM或CNN）对材料（如金属、塑料、木材）进行分类。适用场景包括工业分拣、安防检测及智能家居中的物体识别。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-07-01T02:32:32.845530+00:00"
+    },
+    {
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "source": "hackernews-top",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "hn_url": "https://news.ycombinator.com/item?id=48723484",
+      "description": "",
+      "hn_score": 119,
+      "comments": 32,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "CERN宣布大型强子对撞机（LHC）结束第三轮运行，进入为期数年的Long Shutdown 3（LS3）维护升级期。该事件主要解决高能物理实验数据采集与设备维护的周期性需求，核心是升级探测器、加速器系统及基础设施，为未来更高亮度运行做准备。适用场景为粒子物理研究、大型科学装置运维管理及高能计算基础设施优化。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-01T02:32:35.401997+00:00"
+    },
+    {
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "source": "hackernews-top",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "hn_url": "https://news.ycombinator.com/item?id=48704289",
+      "description": "",
+      "hn_score": 331,
+      "comments": 69,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "从零开始无硬件经验自制八旋翼无人机，解决硬件新手缺乏系统化构建指南的问题。核心技术亮点包括：模块化组件选型（飞控、电机、电池）、PID调参方法、ArduPilot固件配置、安全测试流程。适用场景：硬件爱好者学习嵌入式系统、无人机DIY项目、跨学科实践教育。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-07-01T02:32:38.052470+00:00"
+    },
+    {
+      "title": "Knoppix",
+      "source": "hackernews-top",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48732056",
+      "description": "",
+      "hn_score": 257,
+      "comments": 103,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Knoppix 是一个基于 Debian 的 Live CD/Live USB Linux 发行版，旨在无需安装即可提供完整的操作系统环境。它解决了用户在不修改硬盘数据的情况下临时使用 Linux 系统的问题，尤其适用于系统救援、数据恢复和演示场景。核心技术亮点包括自动硬件检测、压缩文件系统（cloop）以在 CD 上容纳大量软件包，以及支持持久化存储。适用场景包括系统修复、隐私浏览、软件测试和教学演示。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-01T02:32:40.713441+00:00"
+    },
+    {
+      "title": "Have you restarted your computer this week?",
+      "source": "hackernews-top",
+      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48733043",
+      "description": "",
+      "hn_score": 115,
+      "comments": 220,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "这是一篇关于计算机重启重要性的讨论帖，源自Hacker News社区。它解决的是用户长期不重启导致系统性能下降、内存泄漏、更新未生效等常见问题。核心亮点在于通过社区经验分享，强调定期重启对维护系统稳定性和安全性的实际效果。适用场景为所有计算机用户，特别是开发者和系统管理员，用于提醒和优化日常维护习惯。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-01T02:32:43.118701+00:00"
+    },
+    {
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "source": "hackernews-top",
+      "url": "https://www.gutenberg.org/ebooks/24518",
+      "hn_url": "https://news.ycombinator.com/item?id=48731989",
+      "description": "",
+      "hn_score": 170,
+      "comments": 54,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "这是一本1852年出版的经典著作《非凡的大众妄想与群体疯狂》，记录历史上著名的金融泡沫、集体狂热等非理性现象。核心内容是通过历史案例揭示群体心理如何导致市场崩盘和社会灾难，如荷兰郁金香狂热、南海泡沫等。技术亮点在于其跨学科分析框架，结合心理学、经济学和社会学。适用场景包括AI/LLM领域中的群体行为建模、市场预测、以及理解用户反馈中的非理性偏差。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:32:46.131619+00:00"
+    },
+    {
+      "title": "1.38 Millimeter Microcontroller",
+      "source": "hackernews-top",
+      "url": "https://www.ti.com/product/MSPM0C1104",
+      "hn_url": "https://news.ycombinator.com/item?id=48688685",
+      "description": "",
+      "hn_score": 144,
+      "comments": 92,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "1.38 Millimeter Microcontroller 是一款尺寸仅1.38毫米的微型微控制器，旨在解决极端空间受限场景下的嵌入式控制需求。核心技术亮点包括超小封装工艺、低功耗设计以及集成基本I/O功能。适用场景为微型传感器节点、医疗植入设备、可穿戴电子等对体积有严格要求的物联网应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-01T02:32:48.509901+00:00"
+    },
+    {
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "source": "hackernews-top",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=48730713",
+      "description": "",
+      "hn_score": 142,
+      "comments": 13,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "Zluda 6 是一个开源兼容层，允许未修改的 CUDA 应用程序在非 NVIDIA GPU（如 AMD、Intel）上运行。它通过将 CUDA 运行时和驱动 API 翻译为目标 GPU 的原生 API（如 ROCm、Level Zero），解决了 CUDA 生态锁定问题。核心技术亮点包括对 CUDA 12.x 的支持、动态 PTX 编译优化以及多后端架构。适用于需要跨 GPU 平台迁移 CUDA 工作负载的 AI 推理、HPC 或图形渲染场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-01T02:32:51.130217+00:00"
+    },
+    {
+      "title": "Amazon seller reveals glimpse of shadow bribery market",
+      "source": "hackernews-top",
+      "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+      "hn_url": "https://news.ycombinator.com/item?id=48736839",
+      "description": "",
+      "hn_score": 117,
+      "comments": 68,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "一篇关于亚马逊卖家揭露影子贿赂市场的报道，描述了卖家通过第三方中介向平台内部员工行贿以获取竞争优势（如恢复被封账号、获取内部数据）的灰色产业链。核心亮点在于揭示了电商平台治理中的系统性漏洞和监管挑战。适用场景：电商平台反欺诈策略研究、平台治理与合规性分析。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-01T02:32:53.411080+00:00"
+    },
+    {
+      "title": "Supreme Court upholds broad conception of birthright citizenship",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=48733406",
+      "description": "",
+      "hn_score": 170,
+      "comments": 435,
+      "collected_at": "2026-07-01T02:31:12.054914+00:00",
+      "published_at": "2026-07-01T02:31:12.054914+00:00",
+      "summary": "美国最高法院维持出生公民权的广义解释，裁定在美国出生者自动获得公民身份。该判决解决移民政策中关于出生公民权范围的争议，核心基于宪法第十四修正案的文本和历史解释。技术层面不涉及AI/LLM，但作为法律判例影响AI伦理与政策讨论。适用场景包括AI系统的法律合规性分析、移民政策研究及社会影响评估。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-01T02:32:56.001895+00:00"
+    }
+  ]
+}

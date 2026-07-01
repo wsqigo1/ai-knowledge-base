@@ -1,0 +1,449 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-01T02:31:13.638268+00:00",
+  "date": "2026-07-01",
+  "count": 20,
+  "items": [
+    {
+      "title": "winsznx/theeleven",
+      "source": "github-trending",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "stars": 691,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "defi",
+        "eip-3009",
+        "erc-8257",
+        "football",
+        "foundry",
+        "gasless",
+        "mcp",
+        "nextjs",
+        "okx",
+        "prediction-markets",
+        "solidity",
+        "uniswap-hooks",
+        "uniswap-v4",
+        "usdt0",
+        "web3",
+        "x-layer"
+      ],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-25T08:33:06Z",
+      "summary": "TheEleven 是一个基于 X Layer 的足球体育预测市场，由 11 个自主 AI 代理驱动，通过自定义 Uniswap v4 hook 实现无 gas 费 USDT0 质押。它解决了传统预测市场缺乏自动化做市和链上实时结算的问题，核心亮点是 AI 代理自主管理流动性池并生成赔率，结合 EIP-3009 和 ERC-8257 标准实现高效交易。适用于 DeFi 与体育博彩结合的链上预测场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-01T02:31:16.916907+00:00"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "source": "github-trending",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stars": 605,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:13:26Z",
+      "summary": "Fundamental-Ava 是一个开源项目，旨在构建自主、协作且具有社会智能的数字人类代理。它解决的是如何创建能够独立行动、相互协作并理解社会动态的AI代理问题。核心技术亮点包括基于Python的AI代理框架，支持多代理协作与自主决策。适用场景包括虚拟助手、社交模拟、游戏NPC及自动化协作系统。",
+      "tags": [
+        "ai",
+        "agent",
+        "multi-agent",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-01T02:31:18.937310+00:00"
+    },
+    {
+      "title": "Pluviobyte/video-production-skills",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": 483,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-30T09:25:01Z",
+      "summary": "Pluviobyte/video-production-skills 是一个可复用的 AI 视频制作技能库，解决视频创作、再创作、动态设计、开场及质量保证中的重复性工作。核心技术亮点包括基于 Python 的模块化技能封装，支持多种视频生成与编辑任务。适用场景为 AI 驱动的视频内容生产流水线，如自动化剪辑、动态图形生成和视频 QA 系统。",
+      "tags": [
+        "workflow-automation",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-01T02:31:21.361867+00:00"
+    },
+    {
+      "title": "Einsia/Browser-BC",
+      "source": "github-trending",
+      "url": "https://github.com/Einsia/Browser-BC",
+      "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+      "stars": 341,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-28T17:45:04Z",
+      "summary": "Einsia/Browser-BC 是一个基于行为克隆的浏览器GUI自动化代理项目，通过收集分布式轨迹数据训练模型，实现通用GUI操作。核心使用TypeScript构建，支持跨平台浏览器交互，解决传统自动化脚本难以适应动态界面变化的问题。技术亮点包括分布式轨迹收集机制和模仿学习范式，适用于网页测试、RPA流程自动化及AI助手集成场景。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-01T02:31:24.048908+00:00"
+    },
+    {
+      "title": "lycorp-jp/sim-use",
+      "source": "github-trending",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+      "stars": 337,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "ai-development",
+        "android-emulator",
+        "ios-simulator",
+        "mobile-automation"
+      ],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-29T07:56:07Z",
+      "summary": "sim-use 是一个 Swift 开源项目，为 AI 代理提供对 iOS 模拟器和 Android 模拟器/设备的视觉与操作接口。它解决 AI 代理无法直接与移动端 GUI 交互的问题，核心通过无障碍服务（Accessibility）捕获屏幕状态并模拟触控输入。适用于移动端自动化测试、AI 驱动的 UI 导航和跨平台代理开发场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-01T02:31:26.565874+00:00"
+    },
+    {
+      "title": "eli-labz/Godcoder",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "stars": 256,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "openai",
+        "rust",
+        "tauri"
+      ],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-30T02:50:25Z",
+      "summary": "Godcoder 是一款本地优先的开源桌面编码代理，解决代码隐私与云端依赖问题。用户自带 LLM API 密钥，代码仅发送至模型提供商，核心数据保留本地。技术亮点包括 Rust 构建的高性能桌面应用、自主构建 Harness 的 AI Agent 机制。适用场景：需要代码隐私保护的个人开发者、离线或半离线编码辅助、自定义 LLM 驱动的代码生成与调试。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-01T02:31:29.684123+00:00"
+    },
+    {
+      "title": "ik190/macos-chatgpt-overlay-bar",
+      "source": "github-trending",
+      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+      "description": "ChatGPT for Mac, living in your menubar.",
+      "stars": 232,
+      "language": null,
+      "topics": [
+        "ai",
+        "chatgpt",
+        "chatgpt-bar-mac",
+        "chatgpt-menubar-mac",
+        "chatgpt-quick-access-mac",
+        "chatgpt-statusbar",
+        "free-gpt-bar",
+        "mac",
+        "macos",
+        "macos-ai",
+        "macos-ai-app",
+        "macos-app",
+        "macos-application",
+        "macos-gpt",
+        "macos-menubar",
+        "menubar-app"
+      ],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-26T13:59:05Z",
+      "summary": "macOS ChatGPT Overlay Bar 是一个将 ChatGPT 集成到 Mac 菜单栏的开源工具，解决用户需要快速访问 AI 助手而不打断当前工作流的问题。核心亮点是轻量级菜单栏常驻，通过快捷键或点击即可调出对话窗口，支持即时问答与文本生成。适用于需要频繁与 LLM 交互的开发者、写作者等场景，提升效率。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-01T02:31:32.175132+00:00"
+    },
+    {
+      "title": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "description": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
+      "stars": 223,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:19:34Z",
+      "summary": "PUBG_Battlegrounds_ESP___Aimbot 是一个基于 Python 的 PUBG 游戏辅助工具，提供透视（ESP）、自动瞄准（Aimbot）和零后坐力（No Recoil）功能。它通过内存读取和图像处理技术实现穿墙显示敌人、自动锁定目标及消除武器后坐力，支持第一人称（FPP）和第三人称（TPP）视角。适用于游戏作弊场景，但违反游戏服务条款，存在封号风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-01T02:31:34.743856+00:00"
+    },
+    {
+      "title": "arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
+      "description": "Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.",
+      "stars": 223,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:19:37Z",
+      "summary": "一个为 Roblox 游戏 BedWars 设计的 Python 自动化脚本，集成了自动刷资源、自动瞄准（aimbot）和 ESP 透视功能。它通过模拟玩家操作自动破坏床、击杀敌人并收集资源，解决了游戏中重复性操作和竞技优势获取问题。核心技术包括计算机视觉（如屏幕像素分析）和鼠标/键盘模拟，适用于游戏辅助场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:31:37.576530+00:00"
+    },
+    {
+      "title": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass.",
+      "stars": 221,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:19:35Z",
+      "summary": "Rainbow_Six_Siege_Wallhack___Aimbot 是一个开源 Python 项目，提供彩虹六号：围攻游戏的透视、自瞄和反后坐力功能，绕过 BattlEye 反作弊系统。核心亮点在于实现无检测 ESP 和自动瞄准，利用内存操作或图形渲染技术。适用场景为游戏外挂开发或反作弊研究，但存在法律和道德风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:31:39.949155+00:00"
+    },
+    {
+      "title": "Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "source": "github-trending",
+      "url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
+      "stars": 221,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:18:33Z",
+      "summary": "一个基于AI的《英雄联盟》技能躲避与补刀辅助工具，利用计算机视觉和预测算法自动规避敌方技能、优化补刀、揭示视野并执行连招，且声称未被Vanguard反作弊系统检测。核心亮点在于实时目标检测与轨迹预测，适用于游戏内辅助场景。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-01T02:31:42.137199+00:00"
+    },
+    {
+      "title": "omarabdelazez11/Valorant_TriggerBot_Elite",
+      "source": "github-trending",
+      "url": "https://github.com/omarabdelazez11/Valorant_TriggerBot_Elite",
+      "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass.",
+      "stars": 221,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:21:06Z",
+      "summary": "该项目是一个基于AI的Valorant游戏外挂，实现自动瞄准射击（TriggerBot）和雷达透视功能。核心通过计算机视觉（CV）技术检测敌人并模拟人类操作行为，绕过反作弊系统Vanguard。技术亮点包括AI驱动的类人射击延迟、全皮肤解锁和实时位置暴露。适用场景为游戏作弊，但存在严重法律与道德风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-01T02:31:44.671669+00:00"
+    },
+    {
+      "title": "deltabarbershopofficial-cloud/Rocket_League_Auto-Aim___Speed_Hack",
+      "source": "github-trending",
+      "url": "https://github.com/deltabarbershopofficial-cloud/Rocket_League_Auto-Aim___Speed_Hack",
+      "description": "Auto-aim, speed hack, and unlimited boost for Rocket League. Perfect shots, faster cars, and infinite boost. Dominate every match.",
+      "stars": 220,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:19:47Z",
+      "summary": "这是一个针对《火箭联盟》游戏的外挂工具，提供自动瞄准、速度提升和无限加速功能。通过修改游戏内存或网络数据包实现作弊，核心技术涉及内存读写、Hook注入和数学计算（如预测弹道）。适用于游戏作弊场景，但违反游戏服务条款，存在封号风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:31:47.035782+00:00"
+    },
+    {
+      "title": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+      "source": "github-trending",
+      "url": "https://github.com/anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+      "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades.",
+      "stars": 218,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:18:03Z",
+      "summary": "这是一个针对《战神（2018）》PC版的游戏修改器项目，使用Python实现。它解决玩家在游戏中需要无限生命、怒气及符文攻击的问题，通过内存修改技术实现上帝模式、无限斯巴达之怒和全技能解锁。核心技术亮点包括Python脚本与游戏进程交互、内存地址扫描与数值修改。适用场景为单机游戏修改与娱乐，不涉及AI/LLM领域。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-01T02:31:49.765358+00:00"
+    },
+    {
+      "title": "perglervitek/Fortnite_Aimbot_2026",
+      "source": "github-trending",
+      "url": "https://github.com/perglervitek/Fortnite_Aimbot_2026",
+      "description": "Undetected aim assist with build prediction, loot ESP and anti-ban for Fortnite Chapter 6. Perfect tracking, human-like smoothing, full ESP for weapons and chests. Works with all game modes including Zero Build.",
+      "stars": 218,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:18:02Z",
+      "summary": "Fortnite_Aimbot_2026 是一个针对《堡垒之夜》第6章的作弊工具，旨在解决游戏内瞄准辅助、战利品探测和反检测问题。核心技术包括建筑预测、人类化平滑追踪、全ESP（武器/宝箱透视）以及反封禁机制。适用于所有游戏模式（含零建造模式），使用Python实现。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:31:51.949508+00:00"
+    },
+    {
+      "title": "prepzone504/PUBG_Lite_ESP___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/prepzone504/PUBG_Lite_ESP___Aimbot",
+      "description": "Lightweight ESP and aimbot for PUBG Lite (low-end PC friendly). Draw boxes around enemies, auto-aim, show loot, and remove grass. Optimized for performance.",
+      "stars": 218,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:19:32Z",
+      "summary": "这是一个针对PUBG Lite游戏的外挂工具，提供轻量级ESP（透视）和自动瞄准功能。它解决低端PC玩家在游戏中获取优势的需求，通过绘制敌人方框、自动瞄准、显示战利品和移除草地等作弊功能提升游戏体验。核心技术亮点包括基于Python的高效渲染和性能优化，确保在低端硬件上流畅运行。适用场景为PUBG Lite游戏的作弊或测试环境，但需注意其违反游戏公平性。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-01T02:31:54.697554+00:00"
+    },
+    {
+      "title": "AdilMir1433/Overwatch_2_Aim_Trainer",
+      "source": "github-trending",
+      "url": "https://github.com/AdilMir1433/Overwatch_2_Aim_Trainer",
+      "description": "Aimbot, wallhack, and ability cooldown tracker for Overwatch 2. Lock-on aiming for all heroes, see through walls, and track enemy ultimates. Works in all game modes.",
+      "stars": 217,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-07-01T00:18:50Z",
+      "summary": "AdilMir1433/Overwatch_2_Aim_Trainer 是一个为《守望先锋2》设计的作弊工具，提供自动瞄准、透视和技能冷却追踪功能。它通过Python实现锁敌、穿墙显示敌人位置及追踪敌方终极技能，适用于所有游戏模式。核心技术包括图像识别和内存操作，但属于游戏外挂，违反游戏规则。适用场景仅为游戏作弊，缺乏合法技术价值。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-01T02:31:57.214151+00:00"
+    },
+    {
+      "title": "revfactory/webtoon-harness",
+      "source": "github-trending",
+      "url": "https://github.com/revfactory/webtoon-harness",
+      "description": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+      "stars": 215,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-28T12:09:36Z",
+      "summary": "webtoon-harness 是一个基于 Claude Code 的多智能体协作框架，用于自动化生成网络漫画（웹툰）单回内容。它通过 27 个 AI agent 组成团队，从趋势调研到纵向滚动视图完成，覆盖漫画创作全流程。核心亮点在于多 agent 分工协作与工作流自动化，适用于内容创作、多 agent 系统研究与自动化管线搭建。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "code-generation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-01T02:31:59.739252+00:00"
+    },
+    {
+      "title": "kentjuno/ainovel-cli",
+      "source": "github-trending",
+      "url": "https://github.com/kentjuno/ainovel-cli",
+      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "stars": 206,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-25T15:28:26Z",
+      "summary": "ainovel-cli 是一个基于 Go 语言开发的 AI 多智能体小说创作命令行工具，专为越南语用户设计，是 voocel/ainovel-cli 的本地化分支。它解决传统写作中创意枯竭与协作效率低的问题，通过多 agent 架构实现角色、情节、对话等模块的协同生成。核心技术亮点包括多 agent 协作机制、Go 高性能 CLI 实现及越南语 NLP 适配。适用于 AI 辅助文学创作、本地化写作工具开发及多语言生成实验场景。",
+      "tags": [
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-01T02:32:02.733733+00:00"
+    },
+    {
+      "title": "raheemxghumman/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source": "github-trending",
+      "url": "https://github.com/raheemxghumman/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": 185,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-01T02:31:11.949951+00:00",
+      "published_at": "2026-06-28T07:17:52Z",
+      "summary": "MECCHA-CHAMELEON-Trainer-Aimbot-ESP 是一个为游戏 MECCHA CHAMELEON 设计的外部训练器，提供 ESP、自瞄、飞行模式和计时器编辑功能，旨在增强捉迷藏游戏体验。核心亮点包括可定制的 ESP 和自瞄逻辑，使用 Python 实现，但技术深度较低，主要面向游戏辅助而非 AI/LLM 领域。适用场景为游戏修改和娱乐，对 AI 工程师的实用价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-01T02:32:05.207864+00:00"
+    }
+  ]
+}

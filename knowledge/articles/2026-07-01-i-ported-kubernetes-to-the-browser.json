@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-01-011",
+  "title": "I ported Kubernetes to the browser",
+  "source": "hackernews-top",
+  "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+  "summary": "该项目将 Kubernetes 移植到浏览器中运行，解决了在无服务器或受限环境中快速体验和测试 K8s 的痛点。核心亮点是通过 WebAssembly 和浏览器沙箱技术，在浏览器内模拟完整的 K8s 集群，无需安装任何依赖。适用于开发演示、教学培训、CI/CD 快速验证等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-01T02:31:12.054914+00:00",
+  "analyzed_at": "2026-07-01T02:32:30.376674+00:00",
+  "organized_at": "2026-07-01T02:32:56.029787+00:00",
+  "status": "published"
+}

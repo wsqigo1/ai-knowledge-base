@@ -1,7 +1,183 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 874,
+  "total_count": 886,
   "entries": [
+    {
+      "id": "kb-2026-07-01-001",
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "source": "github-trending",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "file": "2026-07-01-tianhangzhuzthfundamental-ava.json",
+      "tags": [
+        "ai",
+        "agent",
+        "multi-agent",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-002",
+      "title": "ik190/macos-chatgpt-overlay-bar",
+      "source": "github-trending",
+      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+      "file": "2026-07-01-ik190macos-chatgpt-overlay-bar.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-003",
+      "title": "revfactory/webtoon-harness",
+      "source": "github-trending",
+      "url": "https://github.com/revfactory/webtoon-harness",
+      "file": "2026-07-01-revfactorywebtoon-harness.json",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "code-generation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-004",
+      "title": "Claude Sonnet 5",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "file": "2026-07-01-claude-sonnet-5.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-005",
+      "title": "Claude Code is steganographically marking requests",
+      "source": "hackernews-top",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "file": "2026-07-01-claude-code-is-steganographically-markin.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-006",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "file": "2026-07-01-department-of-commerce-has-lifted-export.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-007",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "source": "hackernews-top",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "file": "2026-07-01-from-brain-waves-to-words-a-new-path-to-.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-008",
+      "title": "Claude Science",
+      "source": "hackernews-top",
+      "url": "https://claude.com/product/claude-science",
+      "file": "2026-07-01-claude-science.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-009",
+      "title": "Nano Banana 2 Lite",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "file": "2026-07-01-nano-banana-2-lite.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-010",
+      "title": "Leanstral 1.5",
+      "source": "hackernews-top",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "file": "2026-07-01-leanstral-15.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-011",
+      "title": "I ported Kubernetes to the browser",
+      "source": "hackernews-top",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "file": "2026-07-01-i-ported-kubernetes-to-the-browser.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
+    {
+      "id": "kb-2026-07-01-012",
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "source": "hackernews-top",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "file": "2026-07-01-zluda-6-release-run-unmodified-cuda-appl.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-01T02:32:56.029787+00:00"
+    },
     {
       "id": "kb-2026-06-30-001",
       "title": "lycorp-jp/sim-use",
@@ -12960,5 +13136,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-06-30T02:16:07.698414+00:00"
+  "last_updated": "2026-07-01T02:32:56.076806+00:00"
 }
