@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-02-008",
+  "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+  "source": "hackernews-top",
+  "url": "https://github.com/langchain-ai/openwiki",
+  "summary": "OpenWiki 是一个 CLI 工具，自动为代码库编写并维护 AI 代理文档。它解决开发者在多代理协作场景下，代码库文档频繁过时、难以同步的问题。核心技术亮点包括：通过解析代码结构（如函数、类、API）生成结构化文档，并利用 LLM 持续跟踪代码变更以更新文档。适用场景为需要为 AI 代理（如编码助手、自动化工作流）提供实时、准确代码文档的团队，尤其适用于大型或快速迭代的项目。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "workflow-automation",
+    "ai-assistant",
+    "agent"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-07-02T02:10:51.464957+00:00",
+  "analyzed_at": "2026-07-02T02:12:24.587032+00:00",
+  "organized_at": "2026-07-02T02:12:37.863310+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-02-006",
+  "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/monetization-gateway/",
+  "summary": "Monetization Gateway 是一个开源项目，通过 Cloudflare 的 x402 协议实现资源付费访问。它解决的是在 Cloudflare 基础设施上为任意资源（如 API、文件、AI 模型输出）添加支付门槛的问题。核心技术亮点是利用 Cloudflare Workers 和 x402 协议（一种 HTTP 402 支付要求扩展）拦截请求，验证支付状态后决定是否返回资源。适用场景包括：为 AI 模型推理结果、付费 API 端点、数字内容下载等提供即用即付的轻量级变现方案。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-02T02:10:51.464957+00:00",
+  "analyzed_at": "2026-07-02T02:12:13.092301+00:00",
+  "organized_at": "2026-07-02T02:12:37.863310+00:00",
+  "status": "published"
+}

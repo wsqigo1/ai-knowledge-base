@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-02-007",
+  "title": "How We Made IPFS Content Publishing 10x Faster",
+  "source": "hackernews-top",
+  "url": "https://probelab.io/blog/optimistic-provide/",
+  "summary": "该文章介绍了一种将IPFS内容发布速度提升10倍的方法。核心问题是IPFS传统发布流程中数据分块、哈希计算和网络同步的瓶颈。技术亮点包括优化数据分块策略、并行化哈希计算以及改进DHT（分布式哈希表）同步机制。适用场景为需要高效、大规模内容分发的去中心化应用，如文件共享、静态网站托管和区块链数据存储。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-02T02:10:51.464957+00:00",
+  "analyzed_at": "2026-07-02T02:12:16.027574+00:00",
+  "organized_at": "2026-07-02T02:12:37.863310+00:00",
+  "status": "published"
+}
