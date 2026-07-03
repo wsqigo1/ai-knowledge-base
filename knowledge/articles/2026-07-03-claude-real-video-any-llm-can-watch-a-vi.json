@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-03-009",
+  "title": "Claude-real-video － any LLM can watch a video",
+  "source": "hackernews-top",
+  "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+  "summary": "Claude-real-video 是一个开源项目，旨在让任何 LLM 能够处理视频输入。它解决 LLM 原生不支持视频理解的问题，通过将视频帧提取并转换为文本描述（如字幕、场景摘要），再输入给 LLM 进行推理。核心技术亮点是无需模型微调，仅用 prompt engineering 和帧采样实现视频分析。适用场景包括视频内容审核、摘要生成、问答系统等，适合快速集成视频理解能力到现有 LLM 应用中。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "prompt-engineering",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-03T01:54:47.344211+00:00",
+  "analyzed_at": "2026-07-03T01:56:17.669589+00:00",
+  "organized_at": "2026-07-03T01:56:28.856549+00:00",
+  "status": "published"
+}

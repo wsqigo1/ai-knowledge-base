@@ -1,0 +1,414 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-03T01:54:49.641715+00:00",
+  "date": "2026-07-03",
+  "count": 20,
+  "items": [
+    {
+      "title": "Kulaxyz/self-learning-skills",
+      "source": "github-trending",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "stars": 897,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T03:41:29Z",
+      "summary": "Kulaxyz/self-learning-skills 是一个开源项目，旨在让 AI 编码代理（如 Claude Code、Cursor）具备自我改进能力。它解决的核心问题是：AI 在编码会话中偶然发现的“黄金路径”（高效解决方案）无法被复用。技术亮点在于自动识别这些路径并将其提取为可复用的技能/规则文件（如 AGENTS.md），供后续任务直接调用。适用场景包括持续集成开发、个人或团队使用 AI 编码助手进行长期项目维护，以及提升 AI 代理的自动化效率。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-03T01:54:52.329520+00:00"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "source": "github-trending",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stars": 754,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T15:46:26Z",
+      "summary": "Fundamental-Ava 是一个开源项目，旨在构建自主、协作且具有社交智能的数字人类代理。它解决的是如何创建能够独立行动、相互协作并理解社交环境的 AI 智能体问题。核心技术亮点包括基于 Python 的智能体框架、多智能体协作机制以及社交智能模拟。适用场景包括虚拟角色、社交机器人、多智能体仿真等。",
+      "tags": [
+        "ai-agents",
+        "multi-agent",
+        "open-source",
+        "ai"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-03T01:54:54.706545+00:00"
+    },
+    {
+      "title": "JasonLiu0826/ackem",
+      "source": "github-trending",
+      "url": "https://github.com/JasonLiu0826/ackem",
+      "description": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
+      "stars": 293,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-06-30T15:23:23Z",
+      "summary": "Ackem 是一个本地优先的 AI 桌面陪伴应用，核心解决用户隐私数据不上传云端的需求，同时提供记忆、情绪模拟和扩展能力。技术亮点包括基于 TypeScript 的全栈实现、本地推理与隐私保护架构、可扩展的插件系统。适用场景为个人桌面端 AI 伴侣、隐私敏感型智能助手开发。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-03T01:54:56.817055+00:00"
+    },
+    {
+      "title": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "source": "github-trending",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "stars": 289,
+      "language": "Python",
+      "topics": [
+        "seedance",
+        "seedance-2",
+        "seedance-2-0",
+        "seedance-2-0-api",
+        "seedance-2-api",
+        "seedance-2-mini",
+        "seedance2"
+      ],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-02T08:38:12Z",
+      "summary": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases 是一个开源项目，旨在解决AI电影制作中Blender与Seedance视频生成模型的集成问题。其核心技术亮点包括：提供预可视化（previs）、摄像机控制、Blender MCP（模型上下文协议）集成、参考视频对齐以及智能体引导的工作流案例。适用场景为AI驱动的电影制作流程自动化，尤其适合需要将3D场景与AI生成视频结合的创作者。",
+      "tags": [
+        "workflow-automation",
+        "mcp",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-03T01:54:59.249147+00:00"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill",
+      "source": "github-trending",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": 277,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-02T20:45:16Z",
+      "summary": "reverse-flow-skill 是一个面向 AI Agent/Codex 的本地 CTF 逆向工程流程技能，以 Python 实现。它解决 AI 在逆向任务中缺乏结构化流程的问题，通过“分析→报告→逆向→深度逆向→漏洞研判→用户选择下一步”的流水线，引导 LLM 在沙盒、CTF、crackme 等环境中逐步执行逆向分析。核心技术亮点是预定义的技能链（skill chain），将复杂逆向任务分解为可复用的步骤，并支持用户交互决策。适用场景包括 CTF 自动化、漏洞挖掘辅助、AI 驱动的逆向教学平台。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-03T01:55:02.042260+00:00"
+    },
+    {
+      "title": "eli-labz/Godcoder",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "stars": 271,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "openai",
+        "rust",
+        "tauri"
+      ],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-06-30T02:50:25Z",
+      "summary": "Godcoder 是一个本地优先的开源桌面编码代理，解决代码隐私与 AI 辅助开发的矛盾。核心亮点：用户自带 LLM API key，代码仅发送至模型提供商，其余操作完全在本地执行；AI Agent 可自主构建工具链（Harnes）。适用场景：对代码隐私敏感的开发者、需要离线或半离线编码辅助的桌面端 AI 编程场景。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-03T01:55:04.469476+00:00"
+    },
+    {
+      "title": "scolwell/Captcha_Solver_AI",
+      "source": "github-trending",
+      "url": "https://github.com/scolwell/Captcha_Solver_AI",
+      "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
+      "stars": 259,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:13:08Z",
+      "summary": "scolwell/Captcha_Solver_AI 是一个基于AI的验证码自动破解工具，支持文本、图像和音频CAPTCHA，兼容reCAPTCHA、hCaptcha及自定义验证码。核心利用深度学习模型（如CNN、RNN）进行图像和语音识别，解决自动化流程中验证码阻碍问题。适用于爬虫、自动化测试、数据采集等场景，需注意合规性。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-07-03T01:55:06.967635+00:00"
+    },
+    {
+      "title": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/Kr3n3r/ARC_Raiders_ESP___Aimbot",
+      "description": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
+      "stars": 259,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:11:23Z",
+      "summary": "Kr3n3r/ARC_Raiders_ESP___Aimbot 是一个为即将发布的游戏 ARC Raiders 开发的 Python 外挂工具，提供 ESP、自瞄和雷达透视功能，允许玩家透过墙壁看到敌人、战利品和任务目标。核心技术亮点包括内存读取与渲染覆盖，利用游戏进程数据实现实时位置追踪和自动瞄准。适用场景为游戏作弊与逆向工程研究，但存在法律和道德风险。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-03T01:55:09.914163+00:00"
+    },
+    {
+      "title": "didulos/Blue_Lock_Rivals_-_Auto-Farm___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/didulos/Blue_Lock_Rivals_-_Auto-Farm___Aimbot",
+      "description": "Auto-farm and aimbot for Blue Lock Rivals, the anime-inspired soccer competition[reference:36][reference:37]. Farm points, score goals, and dominate the field.",
+      "stars": 258,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:12:26Z",
+      "summary": "这是一个为《Blue Lock Rivals》游戏设计的Python自动农场和瞄准辅助工具，用于在动漫风格的足球比赛中自动获取积分、进球并占据优势。核心亮点包括自动化脚本执行和瞄准辅助功能，适用于游戏作弊场景。该项目技术实现简单，主要依赖Python脚本进行游戏交互，缺乏深度技术架构。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-03T01:55:12.197894+00:00"
+    },
+    {
+      "title": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
+      "description": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah.",
+      "stars": 258,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:13:03Z",
+      "summary": "该项目为《使命召唤：战区 2.0》提供作弊工具，包括ESP透视、自动瞄准和战利品过滤功能。通过Python实现，利用内存读取和图像识别技术，使玩家能透视墙壁看到敌人、自动锁定目标并高亮稀有物品。适用于游戏作弊场景，但违反游戏规则，存在封号风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-03T01:55:14.458548+00:00"
+    },
+    {
+      "title": "FallenRaven01/Fortnite_Aimbot___ESP_2026",
+      "source": "github-trending",
+      "url": "https://github.com/FallenRaven01/Fortnite_Aimbot___ESP_2026",
+      "description": "Undetected aimbot, ESP, and build hack for Fortnite Chapter 6. Perfect aim, see enemies through walls, and predict enemy builds. Works in all modes.",
+      "stars": 253,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:16:43Z",
+      "summary": "这是一个为《堡垒之夜》第6章设计的作弊工具，包含自瞄、透视和建筑预测功能。它通过内存操作和图形渲染实现无检测的精准瞄准、穿墙可见敌人以及预判敌方建筑。适用于游戏作弊场景，但违反游戏规则且存在法律风险。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-03T01:55:16.687716+00:00"
+    },
+    {
+      "title": "FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot",
+      "description": "Auto-farm and aimbot for Jujitsu Shenanigans, the anime fighting game[reference:48]. Farm XP, unlock all moves, and dominate PvP.",
+      "stars": 253,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:18:31Z",
+      "summary": "FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot 是一个基于 Python 的开源自动化脚本，针对 Roblox 格斗游戏 Jujitsu Shenanigans。它解决玩家手动刷经验、解锁技能和 PvP 瞄准效率低下的问题。核心技术亮点包括自动农场循环、瞄准辅助算法和游戏内操作模拟。适用场景为游戏自动化、逆向工程学习或娱乐性 AI 应用，但需注意违反游戏服务条款的风险。",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.6,
+      "analyzed_at": "2026-07-03T01:55:19.580081+00:00"
+    },
+    {
+      "title": "jongwonkim987/League_of_Legends_Skillshot_Dodger",
+      "source": "github-trending",
+      "url": "https://github.com/jongwonkim987/League_of_Legends_Skillshot_Dodger",
+      "description": "AI-powered skillshot dodger, last-hit assistant, and map hack for LoL. Dodge skillshots perfectly, never miss a CS, and see invisible enemies.",
+      "stars": 250,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:18:59Z",
+      "summary": "League_of_Legends_Skillshot_Dodger 是一个基于 AI 的《英雄联盟》外挂工具，解决玩家躲避技能、补刀和反隐问题。核心技术使用 Python 实现的视觉识别与预测模型，实时分析游戏画面并自动操作。适用于游戏辅助场景，但涉及违规行为。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-03T01:55:21.633464+00:00"
+    },
+    {
+      "title": "revfactory/webtoon-harness",
+      "source": "github-trending",
+      "url": "https://github.com/revfactory/webtoon-harness",
+      "description": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+      "stars": 247,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-06-28T12:09:36Z",
+      "summary": "一个基于Claude Code的多智能体协作框架，通过27个AI代理团队自动完成从趋势调研到竖屏阅读器开发的完整网漫画作流程。核心亮点在于将复杂软件开发任务拆解为多代理协作流水线，每个代理负责特定子任务（如调研、编码、测试），最终集成输出完整网页应用。适用于自动化内容创作、多代理协作开发、AI驱动的端到端项目生成场景。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "workflow-automation",
+        "agent",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-03T01:55:24.353219+00:00"
+    },
+    {
+      "title": "Code4Bharat1/Overwatch_2_Aim_Trainer",
+      "source": "github-trending",
+      "url": "https://github.com/Code4Bharat1/Overwatch_2_Aim_Trainer",
+      "description": "Aimbot, wallhack, and ability cooldown tracker for Overwatch 2. Lock-on aiming for all heroes, see through walls, and track enemy ultimates.",
+      "stars": 235,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:20:13Z",
+      "summary": "Overwatch 2 Aim Trainer 是一个基于 Python 的作弊工具，提供自瞄、透视和技能冷却追踪功能。它通过锁定瞄准、穿墙显示和终极技能追踪，解决游戏内瞄准辅助和情报获取问题。核心技术包括目标检测、坐标映射和游戏内存读取。适用于游戏作弊场景，但违反游戏规则。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-03T01:55:26.777307+00:00"
+    },
+    {
+      "title": "mihirr00051/PUBG__BATTLEGROUNDS_ESP___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/mihirr00051/PUBG__BATTLEGROUNDS_ESP___Aimbot",
+      "description": "ESP, aimbot, and no recoil for PUBG. See enemies through walls, auto-aim, and zero recoil. Works in both FPP and TPP modes.",
+      "stars": 234,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T09:21:21Z",
+      "summary": "该项目是一个基于Python的PUBG游戏辅助工具，提供ESP透视、自动瞄准和零后座力功能，支持第一人称和第三人称模式。它通过内存读取和坐标计算实现穿墙显示敌人、自动锁定目标及消除武器后座力。适用于游戏作弊场景，但存在被反作弊系统检测的风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-03T01:55:29.194702+00:00"
+    },
+    {
+      "title": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "description": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
+      "stars": 221,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T00:19:34Z",
+      "summary": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot 是一个基于 Python 的 PUBG 游戏作弊工具，提供 ESP（透视）、自动瞄准（aimbot）和零后坐力功能。它通过内存读取或图像识别技术获取游戏内敌人位置，实现穿墙显示、自动锁定目标并消除武器后坐力，支持第一人称（FPP）和第三人称（TPP）视角。核心技术亮点包括实时内存操作、坐标转换与瞄准算法。适用场景为游戏外挂开发或逆向工程学习，但存在违反游戏条款的法律风险。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-03T01:55:32.023258+00:00"
+    },
+    {
+      "title": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "source": "github-trending",
+      "url": "https://github.com/ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass.",
+      "stars": 219,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T00:19:35Z",
+      "summary": "Rainbow_Six_Siege_Wallhack___Aimbot 是一个基于 Python 的游戏外挂项目，提供透视（ESP）、自动瞄准和反后座力功能，旨在绕过 BattlEye 反作弊系统。核心利用内存读取和注入技术实现敌人位置可视化与自动射击。适用于游戏作弊场景，但涉及违规行为，技术价值有限。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-03T01:55:34.248933+00:00"
+    },
+    {
+      "title": "Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "source": "github-trending",
+      "url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
+      "stars": 219,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T00:18:33Z",
+      "summary": "Mbovu222/League_of_Legends_Skillshot_Dodger 是一个基于 AI 的《英雄联盟》辅助工具，核心功能包括自动躲避技能弹道、补刀辅助、揭示战争迷雾和执行连招。它通过视觉识别和预测算法实时分析游戏画面，实现无延迟反应，且声称未被 Vanguard 反作弊系统检测。适用于所有游戏模式，主要解决玩家操作精度和反应速度的瓶颈。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-03T01:55:36.609755+00:00"
+    },
+    {
+      "title": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+      "source": "github-trending",
+      "url": "https://github.com/anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+      "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades.",
+      "stars": 216,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-03T01:54:47.079992+00:00",
+      "published_at": "2026-07-01T00:18:03Z",
+      "summary": "这是一个为《战神（2018）》PC版设计的游戏修改器，使用Python实现。它解决了玩家在游戏中需要无限生命、怒气及符文攻击的需求。核心技术亮点包括通过内存修改实现无限斯巴达之怒、解锁所有升级。适用场景为单机游戏体验增强，非AI/LLM领域。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-03T01:55:38.857215+00:00"
+    }
+  ]
+}

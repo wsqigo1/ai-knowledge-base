@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-03-002",
+  "title": "lingbol088-spec/reverse-flow-skill",
+  "source": "github-trending",
+  "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+  "summary": "reverse-flow-skill 是一个面向 AI Agent/Codex 的本地 CTF 逆向工程流程技能，以 Python 实现。它解决 AI 在逆向任务中缺乏结构化流程的问题，通过“分析→报告→逆向→深度逆向→漏洞研判→用户选择下一步”的流水线，引导 LLM 在沙盒、CTF、crackme 等环境中逐步执行逆向分析。核心技术亮点是预定义的技能链（skill chain），将复杂逆向任务分解为可复用的步骤，并支持用户交互决策。适用场景包括 CTF 自动化、漏洞挖掘辅助、AI 驱动的逆向教学平台。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "code-generation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-03T01:54:47.079992+00:00",
+  "analyzed_at": "2026-07-03T01:55:02.042260+00:00",
+  "organized_at": "2026-07-03T01:56:28.856549+00:00",
+  "status": "published"
+}

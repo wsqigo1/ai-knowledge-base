@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-03-006",
+  "title": "Postgres transactions are a distributed systems superpower",
+  "source": "hackernews-top",
+  "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+  "summary": "Postgres 事务机制在分布式系统中作为超能力使用，解决跨节点数据一致性问题。核心技术亮点是 ACID 事务与两阶段提交的结合，支持分布式协调与故障恢复。适用场景包括微服务架构、多数据库同步及高可靠性分布式应用。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-03T01:54:47.344211+00:00",
+  "analyzed_at": "2026-07-03T01:56:09.756475+00:00",
+  "organized_at": "2026-07-03T01:56:28.856549+00:00",
+  "status": "published"
+}

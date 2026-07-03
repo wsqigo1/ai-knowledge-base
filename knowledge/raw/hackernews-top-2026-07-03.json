@@ -1,0 +1,381 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-03T01:54:49.642263+00:00",
+  "date": "2026-07-03",
+  "count": 20,
+  "items": [
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "source": "hackernews-top",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "hn_url": "https://news.ycombinator.com/item?id=48767347",
+      "description": "",
+      "hn_score": 480,
+      "comments": 86,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "美国弗吉尼亚州通过法律禁止销售地理定位数据，旨在保护用户隐私，防止企业未经同意收集和交易位置信息。核心亮点是立法明确将地理定位数据视为敏感信息，限制其商业用途。适用场景包括数据隐私合规、法律科技和消费者权益保护。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-03T01:55:40.929667+00:00"
+    },
+    {
+      "title": "An American Privacy Emergency",
+      "source": "hackernews-top",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "hn_url": "https://news.ycombinator.com/item?id=48768992",
+      "description": "",
+      "hn_score": 128,
+      "comments": 27,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "文章讨论美国隐私危机，指出当前数据收集与监控技术对个人隐私的严重威胁。核心问题是缺乏联邦级隐私法律导致企业无限制收集用户数据。技术亮点在于分析AI与大数据如何加剧隐私风险，并呼吁政策干预。适用场景为政策制定者、隐私倡导者及技术伦理研究者关注隐私保护与监管改革。",
+      "tags": [
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-03T01:55:43.413889+00:00"
+    },
+    {
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "source": "hackernews-top",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "hn_url": "https://news.ycombinator.com/item?id=48768997",
+      "description": "",
+      "hn_score": 50,
+      "comments": 34,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "GitHub 宣布提供将公开仓库刻录到 CD-ROM 的物理交付服务，解决开发者对代码离线备份和物理存档的需求。核心技术亮点是自动化将仓库内容打包并刻录到光盘，支持定制封面。适用场景包括个人代码纪念、离线归档、以及无法访问互联网时的代码分发。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-07-03T01:55:45.798047+00:00"
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "source": "hackernews-top",
+      "url": "https://github.com/FractalFir/crustc",
+      "hn_url": "https://news.ycombinator.com/item?id=48768464",
+      "description": "",
+      "hn_score": 126,
+      "comments": 27,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "crustc 项目将 Rust 编译器 rustc 的完整实现翻译为 C 语言，旨在解决 Rust 编译器对 LLVM 和特定运行时环境的依赖问题，使其能在更受限或非标准平台上运行。核心技术亮点包括保持语义等价性的自动翻译、处理 Rust 所有权和生命周期等高级特性在 C 中的映射。适用场景为嵌入式系统、操作系统内核开发或需要 Rust 语法检查但无法运行完整 rustc 的环境。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-03T01:55:48.363717+00:00"
+    },
+    {
+      "title": "Reality has a surprising amount of detail (2017)",
+      "source": "hackernews-top",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "hn_url": "https://news.ycombinator.com/item?id=48702874",
+      "description": "",
+      "hn_score": 139,
+      "comments": 48,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "这是一篇2017年的博客文章，探讨现实世界细节的复杂性和丰富性远超人们通常的想象。文章通过大量实例（如树叶纹理、云层变化、机械结构等）展示在模拟、游戏开发或物理建模中，忽略这些细节会导致结果失真。核心亮点是揭示“细节陷阱”——看似简单的系统背后隐藏着海量变量，解决的是如何平衡细节与抽象的问题。适用场景包括计算机图形学、物理模拟、游戏设计及任何需要高保真度建模的领域。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-03T01:55:51.605941+00:00"
+    },
+    {
+      "title": "Exapunks (2018)",
+      "source": "hackernews-top",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "hn_url": "https://news.ycombinator.com/item?id=48765663",
+      "description": "",
+      "hn_score": 219,
+      "comments": 80,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Exapunks 是一款 2018 年发布的编程游戏，玩家通过编写汇编语言指令控制名为“Exapunks”的软件机器人，在虚拟网络中破解系统、传输数据。其核心亮点在于将真实的汇编思维、寄存器操作和内存管理融入解谜机制，要求玩家在有限指令空间内优化算法。适用场景包括编程教育、算法思维训练以及逆向工程入门，尤其适合对底层计算逻辑感兴趣的开发者。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-07-03T01:55:54.514742+00:00"
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "source": "hackernews-top",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "hn_url": "https://news.ycombinator.com/item?id=48763035",
+      "description": "",
+      "hn_score": 402,
+      "comments": 188,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Linux 6.9 版本中，LUKS (Linux Unified Key Setup) 的 suspend 操作不再从内存中擦除磁盘加密密钥。此前，suspend 会清除密钥以防止冷启动攻击，但新行为保留了密钥，可能降低安全性。该变更旨在解决 suspend/resume 流程中密钥丢失导致的解锁失败问题。核心技术亮点是修改了密钥管理策略，权衡了安全性与可用性。适用场景包括需要挂起/恢复的加密磁盘系统，尤其对安全敏感的环境需注意。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.0,
+      "analyzed_at": "2026-07-03T01:55:57.384543+00:00"
+    },
+    {
+      "title": "Podman v6.0.0",
+      "source": "hackernews-top",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48762098",
+      "description": "",
+      "hn_score": 394,
+      "comments": 155,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Podman v6.0.0 是容器引擎的重大版本更新，解决容器管理中对无守护进程、根less运行及安全隔离的需求。核心亮点包括：引入基于SQLite的持久化容器存储、改进的Pod网络栈支持、以及增强的Quadlet系统集成。适用于开发环境、CI/CD流水线及生产级容器编排场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-03T01:55:59.997927+00:00"
+    },
+    {
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "source": "hackernews-top",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "hn_url": "https://news.ycombinator.com/item?id=48759634",
+      "description": "",
+      "hn_score": 516,
+      "comments": 230,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "PeerTube是一个免费、去中心化且联邦化的视频平台，旨在解决传统视频平台（如YouTube）的中心化控制、审查和隐私问题。其核心技术亮点包括基于ActivityPub协议的联邦化架构，允许不同实例间互操作；点对点视频分发（WebTorrent）降低服务器负载；用户可自建实例掌控数据。适用场景包括独立创作者、社区或机构希望自主托管视频内容，避免平台依赖。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-03T01:56:02.269425+00:00"
+    },
+    {
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48766209",
+      "description": "",
+      "hn_score": 105,
+      "comments": 28,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "EFF致FTC关于X平台（原Twitter）同意令的信函，涉及用户数据隐私与AI训练合规问题。核心解决社交媒体平台在AI模型训练中未经明确同意使用用户数据的监管漏洞。技术亮点在于引用FTC现有同意令框架，要求X平台在数据收集、模型训练及用户退出机制上遵循透明化与可审计原则。适用场景为AI伦理监管、数据隐私合规审查及科技政策研究。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-07-03T01:56:05.176879+00:00"
+    },
+    {
+      "title": "How to ask for help from people who don't know you",
+      "source": "hackernews-top",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "hn_url": "https://news.ycombinator.com/item?id=48761118",
+      "description": "",
+      "hn_score": 391,
+      "comments": 63,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "这是一篇关于如何有效向陌生人寻求帮助的指南文章。它解决的核心问题是：在缺乏个人关系的情况下，如何提高获得高质量帮助的概率。技术亮点在于提出了结构化求助框架，包括明确问题边界、展示前期努力、降低响应成本（如提供模板、明确时间投入）。适用场景包括开源社区提问、技术论坛求助、向专家咨询等。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-03T01:56:07.729615+00:00"
+    },
+    {
+      "title": "Postgres transactions are a distributed systems superpower",
+      "source": "hackernews-top",
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+      "hn_url": "https://news.ycombinator.com/item?id=48765639",
+      "description": "",
+      "hn_score": 112,
+      "comments": 52,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Postgres 事务机制在分布式系统中作为超能力使用，解决跨节点数据一致性问题。核心技术亮点是 ACID 事务与两阶段提交的结合，支持分布式协调与故障恢复。适用场景包括微服务架构、多数据库同步及高可靠性分布式应用。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-03T01:56:09.756475+00:00"
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "source": "hackernews-top",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "hn_url": "https://news.ycombinator.com/item?id=48766026",
+      "description": "",
+      "hn_score": 65,
+      "comments": 63,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "The short leash AI coding method 是一种通过严格限制AI生成代码范围来提升代码质量和可控性的编程方法，旨在解决AI生成代码时容易产生冗余、错误或偏离需求的问题。核心技术亮点包括：将任务分解为极小步骤、每次只让AI生成少量代码并立即审查、结合人类开发者对上下文的精确控制。适用场景为需要高可靠性的AI辅助编码项目，如Fable游戏开发中的复杂逻辑实现。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "prompt-engineering"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-03T01:56:12.624494+00:00"
+    },
+    {
+      "title": "Immich 3.0",
+      "source": "hackernews-top",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "hn_url": "https://news.ycombinator.com/item?id=48761944",
+      "description": "",
+      "hn_score": 197,
+      "comments": 87,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Immich 3.0 是一个开源的自托管照片和视频备份解决方案，旨在替代 Google Photos。它解决了用户对数据隐私和本地存储控制的需求。核心亮点包括：基于 Rust 的高性能后端、支持 AI 驱动的自动标签和物体识别、以及跨平台客户端。适用场景为个人或家庭用户搭建私有云相册。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-03T01:56:14.953654+00:00"
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "source": "hackernews-top",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "hn_url": "https://news.ycombinator.com/item?id=48766005",
+      "description": "",
+      "hn_score": 81,
+      "comments": 28,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Claude-real-video 是一个开源项目，旨在让任何 LLM 能够处理视频输入。它解决 LLM 原生不支持视频理解的问题，通过将视频帧提取并转换为文本描述（如字幕、场景摘要），再输入给 LLM 进行推理。核心技术亮点是无需模型微调，仅用 prompt engineering 和帧采样实现视频分析。适用场景包括视频内容审核、摘要生成、问答系统等，适合快速集成视频理解能力到现有 LLM 应用中。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "prompt-engineering",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-03T01:56:17.669589+00:00"
+    },
+    {
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "source": "hackernews-top",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "hn_url": "https://news.ycombinator.com/item?id=48667568",
+      "description": "",
+      "hn_score": 14,
+      "comments": 11,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "尼康首次公开一款特殊无无线功能的相机，旨在解决特定场景下的数据安全与干扰问题。核心技术亮点是移除无线通信模块，通过物理隔离防止电磁泄露与远程攻击。适用场景包括高保密实验室、军事环境及电磁敏感区域。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-07-03T01:56:19.852455+00:00"
+    },
+    {
+      "title": "Show HN: ctx – Search the coding agent history already on your machine",
+      "source": "hackernews-top",
+      "url": "https://github.com/ctxrs/ctx",
+      "hn_url": "https://news.ycombinator.com/item?id=48763462",
+      "description": "",
+      "hn_score": 26,
+      "comments": 7,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "ctx 是一个开源命令行工具，用于搜索本地机器上编码代理（如 Cursor、Windsurf）的历史记录。它解决了编码代理历史数据分散、难以检索的问题，核心亮点是无需联网、直接索引本地文件系统，支持模糊搜索和正则匹配。适用于开发者快速回顾或调试 AI 辅助编码的过往会话。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-03T01:56:22.070608+00:00"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "source": "hackernews-top",
+      "url": "https://manufact.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48762862",
+      "description": "",
+      "hn_score": 101,
+      "comments": 62,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "Manufact (YC S25) 推出 MCP Cloud，是一个托管式 Model Context Protocol 云服务。它解决 AI 应用开发中模型与外部工具、数据源集成复杂且难以管理的问题。核心技术亮点是提供云端的 MCP 服务器，简化工具注册、调用与上下文管理，支持动态工具发现。适用场景包括 AI 代理、自动化工作流和需要实时数据接入的 LLM 应用。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "tool-use",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-03T01:56:24.572390+00:00"
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "source": "hackernews-top",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "hn_url": "https://news.ycombinator.com/item?id=48762725",
+      "description": "",
+      "hn_score": 589,
+      "comments": 199,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "西班牙政府下令将Palantir列入公共和私营企业黑名单，禁止其参与政府合同和商业合作。该事件主要解决数据主权和隐私保护问题，核心在于国家层面限制外国AI/数据分析平台的使用。适用场景为政府数据治理、国家安全和合规审查。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-07-03T01:56:26.807200+00:00"
+    },
+    {
+      "title": "German button maker searched rivers of American Midwest for valuable shells",
+      "source": "hackernews-top",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
+      "hn_url": "https://news.ycombinator.com/item?id=48702006",
+      "description": "",
+      "hn_score": 142,
+      "comments": 46,
+      "collected_at": "2026-07-03T01:54:47.344211+00:00",
+      "published_at": "2026-07-03T01:54:47.344211+00:00",
+      "summary": "这是一篇关于德国纽扣制造商在美国中西部河流中搜寻珍贵贝壳的历史报道，与AI/LLM技术无关。核心内容是19世纪至20世纪初，德国制造商利用北美淡水贻贝的珍珠母制作纽扣，导致过度捕捞和生态影响。该条目无AI技术亮点或适用场景。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-07-03T01:56:28.821284+00:00"
+    }
+  ]
+}

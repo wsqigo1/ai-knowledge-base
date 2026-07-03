@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-03-003",
+  "title": "crustc: entirety of `rustc`, translated to C",
+  "source": "hackernews-top",
+  "url": "https://github.com/FractalFir/crustc",
+  "summary": "crustc 项目将 Rust 编译器 rustc 的完整实现翻译为 C 语言，旨在解决 Rust 编译器对 LLVM 和特定运行时环境的依赖问题，使其能在更受限或非标准平台上运行。核心技术亮点包括保持语义等价性的自动翻译、处理 Rust 所有权和生命周期等高级特性在 C 中的映射。适用场景为嵌入式系统、操作系统内核开发或需要 Rust 语法检查但无法运行完整 rustc 的环境。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-07-03T01:54:47.344211+00:00",
+  "analyzed_at": "2026-07-03T01:55:48.363717+00:00",
+  "organized_at": "2026-07-03T01:56:28.856549+00:00",
+  "status": "published"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-03-004",
+  "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+  "source": "hackernews-top",
+  "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+  "summary": "Linux 6.9 版本中，LUKS (Linux Unified Key Setup) 的 suspend 操作不再从内存中擦除磁盘加密密钥。此前，suspend 会清除密钥以防止冷启动攻击，但新行为保留了密钥，可能降低安全性。该变更旨在解决 suspend/resume 流程中密钥丢失导致的解锁失败问题。核心技术亮点是修改了密钥管理策略，权衡了安全性与可用性。适用场景包括需要挂起/恢复的加密磁盘系统，尤其对安全敏感的环境需注意。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-07-03T01:54:47.344211+00:00",
+  "analyzed_at": "2026-07-03T01:55:57.384543+00:00",
+  "organized_at": "2026-07-03T01:56:28.856549+00:00",
+  "status": "published"
+}
