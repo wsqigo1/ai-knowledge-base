@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-04-003",
+  "title": "jmerelnyc/Talos",
+  "source": "github-trending",
+  "url": "https://github.com/jmerelnyc/Talos",
+  "summary": "Talos 是一个 GPU 工作节点客户端，用于连接 Talos 网络，通过 WebSocket 提供开源模型推理任务服务，并上报在线时长以获得报酬。它解决了分布式 GPU 资源闲置问题，让用户利用闲置 GPU 参与去中心化 AI 推理网络。核心技术亮点包括基于 WebSocket 的实时任务分发、与 Ollama 集成支持多种开源 LLM、以及自动化的 uptime 报告与支付机制。适用场景包括个人或企业利用闲置 GPU 参与分布式推理网络、低成本获取推理算力、以及构建去中心化 AI 服务。",
+  "tags": [
+    "distributed-computing",
+    "gpu",
+    "llm",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-04T01:54:14.537466+00:00",
+  "analyzed_at": "2026-07-04T01:54:30.729850+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

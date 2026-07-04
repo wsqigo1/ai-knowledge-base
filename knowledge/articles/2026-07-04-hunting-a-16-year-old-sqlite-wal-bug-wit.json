@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-04-017",
+  "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+  "source": "hackernews-top",
+  "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+  "summary": "本文介绍如何利用TLA+形式化验证工具，发现并修复了一个存在16年之久的SQLite WAL（预写日志）bug。核心方法是将SQLite的WAL并发控制逻辑建模为TLA+规范，通过模型检查自动发现状态空间中的竞态条件。该bug在特定并发场景下可能导致数据库损坏。技术亮点在于展示了形式化方法在经典数据库引擎中挖掘深层缺陷的能力，适用于对高可靠性数据库系统进行安全审计与验证。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-04T01:54:14.657089+00:00",
+  "analyzed_at": "2026-07-04T01:55:30.255726+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

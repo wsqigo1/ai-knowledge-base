@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-04-014",
+  "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+  "source": "hackernews-top",
+  "url": "https://epoch.ai/data-insights/cve-severity-spike",
+  "summary": "该条目报告了围绕Claude Mythos Preview发布期间出现的新严重漏洞激增现象。核心问题在于AI模型预览版可能引入未预期的安全风险，影响模型部署的稳定性与可信度。技术亮点在于揭示了模型发布流程中安全审计的薄弱环节，需加强漏洞扫描与修复机制。适用场景为AI模型的安全评估与发布管理，尤其针对大型语言模型的预发布测试阶段。",
+  "tags": [
+    "large-language-model",
+    "security",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-04T01:54:14.657089+00:00",
+  "analyzed_at": "2026-07-04T01:55:16.496723+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

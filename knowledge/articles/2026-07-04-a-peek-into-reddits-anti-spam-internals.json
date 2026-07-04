@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-04-019",
+  "title": "A peek into Reddit's anti-spam internals",
+  "source": "hackernews-top",
+  "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+  "summary": "Reddit 公开其反垃圾邮件系统的内部机制，核心是结合规则引擎与机器学习模型（如随机森林、神经网络）实时检测恶意内容。解决大规模用户生成内容中的垃圾信息、机器人攻击和滥用问题。技术亮点包括特征工程（用户行为、内容模式、社区图分析）、A/B 测试框架和动态阈值调整。适用场景：社交平台、论坛、评论系统的内容安全与风控。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-04T01:54:14.657089+00:00",
+  "analyzed_at": "2026-07-04T01:55:38.850947+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

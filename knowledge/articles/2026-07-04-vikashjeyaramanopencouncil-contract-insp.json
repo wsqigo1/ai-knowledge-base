@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-04-010",
+  "title": "vikashjeyaraman/opencouncil-contract-inspector",
+  "source": "github-trending",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector",
+  "summary": "opencouncil-contract-inspector 是一个基于多智能体（Multi-Agent）的合同审查系统，旨在解决 AI 生成内容中的幻觉（hallucination）与质量不可控问题。其核心技术采用裁决驱动（Verdict-Driven）的质量控制机制，通过多个 AI 智能体协作对合同条款进行交叉验证与评分，最终输出可靠审查结论。适用于法律、金融等对文档准确性要求严格的场景，利用 agent-orchestration 与 Anthropic 模型实现高精度审查。",
+  "tags": [
+    "multi-agent",
+    "ai-assistant",
+    "workflow-automation",
+    "agent",
+    "large-language-model"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-04T01:54:14.537466+00:00",
+  "analyzed_at": "2026-07-04T01:54:53.123998+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

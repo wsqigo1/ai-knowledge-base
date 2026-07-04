@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-04-016",
+  "title": "Factories are just rooms",
+  "source": "hackernews-top",
+  "url": "https://interconnected.org/home/2026/07/03/factories",
+  "summary": "“Factories are just rooms”是一篇探讨软件工程中工厂模式本质的文章，指出工厂模式的核心概念（如工厂类、抽象工厂）实际上只是将对象创建逻辑封装在独立的函数或类中，类似于一个“房间”来组织代码。它解决的是过度设计问题，强调工厂模式应简化而非复杂化代码结构。核心技术亮点是揭示工厂模式与普通函数调用的等价性，避免不必要的抽象。适用场景包括需要解耦对象创建逻辑的中小型项目，以及希望提升代码可维护性的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-04T01:54:14.657089+00:00",
+  "analyzed_at": "2026-07-04T01:55:23.487202+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

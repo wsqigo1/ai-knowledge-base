@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-04-022",
+  "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+  "source": "hackernews-top",
+  "url": "https://github.com/teamchong/pxpipe",
+  "summary": "通过将代码转换为图像并利用多模态模型进行OCR识别，将Fable（一种函数式编程语言）的编译成本降低60%。核心创新在于绕过传统代码解析器，直接利用视觉模型处理代码图像，解决复杂语法解析和跨语言编译的高成本问题。技术亮点包括代码到图像的转换流水线、OCR适配优化以及多模态模型推理。适用于需要低成本代码转换或跨语言编译的场景，尤其是对传统解析器支持有限的编程语言。",
+  "tags": [
+    "multimodal",
+    "code-generation",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-04T01:54:14.657089+00:00",
+  "analyzed_at": "2026-07-04T01:55:48.307615+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}

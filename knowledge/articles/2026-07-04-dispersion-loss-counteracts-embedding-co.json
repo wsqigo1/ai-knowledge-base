@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-04-015",
+  "title": "Dispersion loss counteracts embedding condensation in small language models",
+  "source": "hackernews-top",
+  "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+  "summary": "该研究探讨了小型语言模型中嵌入凝聚现象与色散损失的关系。嵌入凝聚指模型将不同语义的token映射到相近嵌入空间，导致表征退化。论文提出色散损失作为正则化项，通过增加嵌入间的距离来对抗凝聚，从而提升小模型的表示能力和下游任务性能。核心亮点在于揭示了小模型嵌入退化的机制，并提供了轻量级解决方案。适用场景包括资源受限环境下的模型训练与微调。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-04T01:54:14.657089+00:00",
+  "analyzed_at": "2026-07-04T01:55:20.725865+00:00",
+  "organized_at": "2026-07-04T01:55:48.342975+00:00",
+  "status": "published"
+}
