@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-05-018",
+  "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+  "source": "hackernews-top",
+  "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+  "summary": "该项目用Rust构建了一个能运行WordPress的PHP引擎，通过实现PHP语言的核心功能，通过了17%的PHP官方测试套件。它解决了PHP在性能、安全性和现代开发环境中的局限性，核心技术亮点包括用Rust重写PHP解释器、兼容现有PHP生态、支持WordPress等主流应用。适用场景包括高性能Web服务、边缘计算和需要PHP兼容性的现代化基础设施。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-05T02:01:28.753198+00:00",
+  "analyzed_at": "2026-07-05T02:02:50.355315+00:00",
+  "organized_at": "2026-07-05T02:03:01.441868+00:00",
+  "status": "published"
+}

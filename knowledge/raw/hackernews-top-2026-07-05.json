@@ -1,0 +1,381 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-05T02:01:30.053359+00:00",
+  "date": "2026-07-05",
+  "count": 20,
+  "items": [
+    {
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "source": "hackernews-top",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "hn_url": "https://news.ycombinator.com/item?id=48790066",
+      "description": "",
+      "hn_score": 133,
+      "comments": 47,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "研究团队开发了一种鼻喷剂，通过递送特定分子（如miR-124）逆转小鼠大脑衰老，改善认知功能。解决脑衰老导致的认知衰退问题。核心技术亮点是利用鼻喷剂实现非侵入性递送，靶向调控神经炎症和突触可塑性相关基因表达。适用场景为抗衰老研究和神经退行性疾病治疗探索。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-05T02:02:19.169848+00:00"
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "source": "hackernews-top",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "hn_url": "https://news.ycombinator.com/item?id=48788283",
+      "description": "",
+      "hn_score": 359,
+      "comments": 142,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该项目使用Fable工具将《命令与征服：将军》原生移植到macOS、iPhone和iPad。它解决了经典游戏在Apple设备上无法原生运行的问题，核心技术亮点是利用Fable的跨平台编译能力，将Windows游戏代码转换为兼容Apple生态的原生应用。适用场景包括游戏移植、跨平台开发演示及复古游戏现代化。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-05T02:02:21.123577+00:00"
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "hn_url": "https://news.ycombinator.com/item?id=48789428",
+      "description": "",
+      "hn_score": 149,
+      "comments": 45,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降。该问题源于模型在生成推理链时过度聚类相似令牌，限制了输出多样性，影响复杂推理任务的准确性。核心亮点是识别出聚类算法对模型性能的负面影响，而非模型本身。适用场景包括大模型推理优化、代码生成和基准测试分析。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:02:23.215752+00:00"
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "source": "hackernews-top",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "hn_url": "https://news.ycombinator.com/item?id=48786838",
+      "description": "",
+      "hn_score": 342,
+      "comments": 173,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "Google Books 悬赏 20 万美元，征集将所有图书扫描件转化为高质量结构化数据（如文本、元数据）的解决方案。核心挑战在于处理扫描件的多样性（字体、语言、损坏页面）和规模化 OCR 优化。技术亮点可能涉及多模态大模型、自适应 OCR 流水线及数据清洗策略。适用于大规模数字化项目、文化遗产保护及 NLP 训练数据构建。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:02:25.711921+00:00"
+    },
+    {
+      "title": "Leaking YouTube creators' private videos",
+      "source": "hackernews-top",
+      "url": "https://javoriuski.com/post/youtube",
+      "hn_url": "https://news.ycombinator.com/item?id=48786781",
+      "description": "",
+      "hn_score": 486,
+      "comments": 274,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该条目揭示YouTube创作者私有视频泄露的安全漏洞。攻击者通过利用YouTube API的权限验证缺陷，绕过隐私设置获取未公开视频的访问权限。核心技术亮点在于发现API对私有视频的访问控制存在逻辑漏洞，未正确校验用户身份与视频权限的绑定关系。适用场景为平台安全审计、API权限设计审查及隐私保护机制加固。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-05T02:02:28.012549+00:00"
+    },
+    {
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "source": "hackernews-top",
+      "url": "https://peteris.rocks/blog/htop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48784777",
+      "description": "",
+      "hn_score": 396,
+      "comments": 52,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "这是一篇2019年的Linux系统监控工具htop/top的深度解析文章，解决用户对进程管理界面中各项指标含义的困惑。核心亮点是逐项解释CPU、内存、进程状态、信号等所有可见元素，并对比htop与top的差异。适用场景为系统管理员、DevOps工程师或任何需要排查性能问题的Linux用户。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-07-05T02:02:30.082707+00:00"
+    },
+    {
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "source": "hackernews-top",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "hn_url": "https://news.ycombinator.com/item?id=48785485",
+      "description": "",
+      "hn_score": 272,
+      "comments": 128,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该条目涉及多租户环境中工作区实例或消费者账户之间的会话/缓存泄漏问题。核心是解决共享基础设施下数据隔离失效的安全漏洞，可能导致用户数据被未授权访问。技术亮点包括对会话管理、缓存机制和访问控制的设计缺陷分析，以及潜在的修复策略（如隔离缓存键、强化认证）。适用于SaaS平台、云服务或任何多用户AI系统，确保数据隐私和合规性。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:02:32.600169+00:00"
+    },
+    {
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "source": "hackernews-top",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "hn_url": "https://news.ycombinator.com/item?id=48786638",
+      "description": "",
+      "hn_score": 139,
+      "comments": 27,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "Zig 将包管理功能从编译器迁移至构建系统，旨在简化编译器设计并提升构建流程的灵活性与可维护性。核心亮点包括：包解析、依赖管理、版本控制等逻辑完全由构建系统处理，编译器仅关注代码生成，降低了编译器复杂度。适用场景为 Zig 语言开发者及关注构建系统设计的系统编程领域。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-05T02:02:34.957101+00:00"
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "source": "hackernews-top",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "hn_url": "https://news.ycombinator.com/item?id=48787329",
+      "description": "",
+      "hn_score": 139,
+      "comments": 81,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "Verizon计划关闭其3G CDMA网络，这将导致依赖该网络的旧款智能手表（如Apple Watch Series 3）失去蜂窝连接功能。该问题源于运营商淘汰老旧通信基础设施，影响用户设备可用性。核心是网络升级带来的设备兼容性挑战，适用于评估物联网设备生命周期管理及运营商策略对消费硬件的影响。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-05T02:02:37.266120+00:00"
+    },
+    {
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "hn_url": "https://news.ycombinator.com/item?id=48788849",
+      "description": "",
+      "hn_score": 13,
+      "comments": 1,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该条目研究AirDrop和Quick Share协议中的安全漏洞，通过协议逆向工程揭示数据泄露风险。核心亮点是发现未加密的元数据交换和中间人攻击路径。适用场景为移动设备安全审计和协议设计改进。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-05T02:02:39.018770+00:00"
+    },
+    {
+      "title": "The Vespa at 80",
+      "source": "hackernews-top",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+      "hn_url": "https://news.ycombinator.com/item?id=48746327",
+      "description": "",
+      "hn_score": 146,
+      "comments": 135,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "The Vespa at 80 是一篇关于Vespa搜索引擎（一个开源的大规模实时计算引擎）在80岁（或80版本）时的回顾文章。它解决的是如何高效处理大规模数据、实时搜索与推荐的问题。核心技术亮点包括其分布式架构、实时索引更新、以及支持复杂查询与机器学习模型推理的能力。适用场景为需要高吞吐、低延迟的搜索、推荐和个性化应用。",
+      "tags": [
+        "vector-database",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:02:41.515300+00:00"
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "source": "hackernews-top",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "hn_url": "https://news.ycombinator.com/item?id=48789986",
+      "description": "",
+      "hn_score": 6,
+      "comments": 0,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该技术介绍了一种通过内存层映射减少LLM过载的方法。核心问题是LLM在处理大量请求时计算资源消耗高、响应延迟大。技术亮点是利用内存中的映射层缓存常见查询结果，避免重复调用LLM，从而降低负载。适用场景包括高并发API服务、实时对话系统等需要优化LLM资源使用的场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:02:43.483281+00:00"
+    },
+    {
+      "title": "Fable created novel 4D splat format",
+      "source": "hackernews-top",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "hn_url": "https://news.ycombinator.com/item?id=48786245",
+      "description": "",
+      "hn_score": 115,
+      "comments": 43,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "Fable 创建了一种新颖的 4D splat 格式，用于表示动态三维场景。该格式通过将时间维度融入 3D Gaussian Splatting，解决了传统静态场景表示无法捕捉运动变化的问题。核心技术亮点包括高效编码时空连续性和实时渲染能力。适用场景包括虚拟现实、电影特效和动态数字孪生。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:02:45.649689+00:00"
+    },
+    {
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "source": "hackernews-top",
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "hn_url": "https://news.ycombinator.com/item?id=48753160",
+      "description": "",
+      "hn_score": 51,
+      "comments": 8,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "Neural Render Proxies 是一种用于交互式和可微分照明的技术，通过神经网络代理近似渲染过程，解决传统渲染在交互式调整和可微分优化中的计算瓶颈。核心技术亮点包括使用轻量级神经网络替代物理渲染管线，支持实时反馈和梯度传播，适用于游戏、VR/AR 和计算机图形学中的动态光照设计。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-05T02:02:47.895107+00:00"
+    },
+    {
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "source": "hackernews-top",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=48789325",
+      "description": "",
+      "hn_score": 24,
+      "comments": 30,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该项目用Rust构建了一个能运行WordPress的PHP引擎，通过实现PHP语言的核心功能，通过了17%的PHP官方测试套件。它解决了PHP在性能、安全性和现代开发环境中的局限性，核心技术亮点包括用Rust重写PHP解释器、兼容现有PHP生态、支持WordPress等主流应用。适用场景包括高性能Web服务、边缘计算和需要PHP兼容性的现代化基础设施。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:02:50.355315+00:00"
+    },
+    {
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "source": "hackernews-top",
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+      "hn_url": "https://news.ycombinator.com/item?id=48739446",
+      "description": "",
+      "hn_score": 101,
+      "comments": 31,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该研究通过分析斑胸草雀的叫声模式，利用机器学习算法解码其语言结构，解决了鸟类交流机制理解难题。核心技术包括声学特征提取与序列建模，适用于动物行为学与生物声学研究，但对AI工程师的直接实用价值有限。",
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-07-05T02:02:52.298088+00:00"
+    },
+    {
+      "title": "Finland's last analogue landline phones go silent after 150 years",
+      "source": "hackernews-top",
+      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+      "hn_url": "https://news.ycombinator.com/item?id=48786868",
+      "description": "",
+      "hn_score": 105,
+      "comments": 25,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "芬兰在运营150年后关闭了最后一批模拟固定电话线路，标志着该国全面转向数字通信。该事件本身不涉及AI/LLM技术，但反映了基础设施现代化进程，为AI应用（如语音识别、智能客服）提供了更稳定的数字网络基础。核心亮点是传统通信技术的终结与数字化转型的里程碑。适用场景：通信历史研究、基础设施升级案例。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-05T02:02:54.527845+00:00"
+    },
+    {
+      "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+      "source": "hackernews-top",
+      "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
+      "hn_url": "https://news.ycombinator.com/item?id=48789042",
+      "description": "",
+      "hn_score": 8,
+      "comments": 6,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "本文分享了在Lovable平台使用AI编码代理（agentic coding）进行大规模开发的经验，投入了$85,000的token成本。核心发现包括：代理编码在复杂任务中效率显著，但需要精心设计prompt和工具链来避免错误累积；token成本随任务复杂度指数增长，需优化调用策略。技术亮点是结合multi-agent协作与workflow-automation来提升代码生成质量。适用场景为需要高自主性的软件开发项目，尤其是快速原型和迭代。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multi-agent",
+        "workflow-automation",
+        "prompt-engineering"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-05T02:02:57.080302+00:00"
+    },
+    {
+      "title": "Nvidia Has Become the Bank Behind the AI Boom",
+      "source": "hackernews-top",
+      "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
+      "hn_url": "https://news.ycombinator.com/item?id=48790151",
+      "description": "",
+      "hn_score": 7,
+      "comments": 3,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "Nvidia通过提供GPU算力租赁和融资服务，实质上成为AI基础设施的“银行”。文章指出，Nvidia不仅销售硬件，还通过其CUDA生态和云服务（如DGX Cloud）解决AI公司算力成本高昂、资金周转困难的问题。核心技术亮点在于将硬件销售转化为算力金融化模式，降低AI初创企业部署门槛。适用场景包括AI模型训练、推理部署及企业级AI基础设施建设。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-05T02:02:59.397316+00:00"
+    },
+    {
+      "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
+      "source": "hackernews-top",
+      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+      "hn_url": "https://news.ycombinator.com/item?id=48789416",
+      "description": "",
+      "hn_score": 35,
+      "comments": 5,
+      "collected_at": "2026-07-05T02:01:28.753198+00:00",
+      "published_at": "2026-07-05T02:01:28.753198+00:00",
+      "summary": "该条目报道澳大利亚网红Lily Jay利用AI工具（如深度伪造、聊天机器人）操纵社交媒体内容，制造虚假互动和形象。核心问题涉及AI技术被滥用于欺骗性营销和身份伪造。技术亮点包括生成式AI在内容创作和用户模拟中的应用。适用场景：AI伦理研究、社交媒体监管、深度伪造检测技术开发。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-05T02:03:01.405729+00:00"
+    }
+  ]
+}

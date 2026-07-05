@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-05-006",
+  "title": "Oft3r/agentic-trading-desk",
+  "source": "github-trending",
+  "url": "https://github.com/Oft3r/agentic-trading-desk",
+  "summary": "Oft3r/agentic-trading-desk 是一个基于 AI 的短期交易辅助工具，通过 Robinhood MCP 接口获取股票和 ETF 数据。它解决人工技术分析效率低的问题，使用确定性 Python 引擎对每只资产从 Trend、Momentum、Macro-Sentiment 三个维度评分，核心算法包括 EMA、RSI、MACD、TRIX 和 Bollinger Bands。AI 负责数据获取，脚本执行计算，最终每笔订单需人工批准。适用于需要量化辅助的短线交易者或量化研究场景。",
+  "tags": [
+    "agent",
+    "mcp",
+    "tool-use",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-05T02:01:28.626571+00:00",
+  "analyzed_at": "2026-07-05T02:02:03.805311+00:00",
+  "organized_at": "2026-07-05T02:03:01.441868+00:00",
+  "status": "published"
+}

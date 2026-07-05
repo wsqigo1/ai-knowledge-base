@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-05-019",
+  "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+  "source": "hackernews-top",
+  "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
+  "summary": "本文分享了在Lovable平台使用AI编码代理（agentic coding）进行大规模开发的经验，投入了$85,000的token成本。核心发现包括：代理编码在复杂任务中效率显著，但需要精心设计prompt和工具链来避免错误累积；token成本随任务复杂度指数增长，需优化调用策略。技术亮点是结合multi-agent协作与workflow-automation来提升代码生成质量。适用场景为需要高自主性的软件开发项目，尤其是快速原型和迭代。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "multi-agent",
+    "workflow-automation",
+    "prompt-engineering"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-05T02:01:28.753198+00:00",
+  "analyzed_at": "2026-07-05T02:02:57.080302+00:00",
+  "organized_at": "2026-07-05T02:03:01.441868+00:00",
+  "status": "published"
+}

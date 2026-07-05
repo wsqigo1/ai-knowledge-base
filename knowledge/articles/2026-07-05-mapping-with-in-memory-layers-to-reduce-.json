@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-05-016",
+  "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+  "source": "hackernews-top",
+  "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+  "summary": "该技术介绍了一种通过内存层映射减少LLM过载的方法。核心问题是LLM在处理大量请求时计算资源消耗高、响应延迟大。技术亮点是利用内存中的映射层缓存常见查询结果，避免重复调用LLM，从而降低负载。适用场景包括高并发API服务、实时对话系统等需要优化LLM资源使用的场景。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-05T02:01:28.753198+00:00",
+  "analyzed_at": "2026-07-05T02:02:43.483281+00:00",
+  "organized_at": "2026-07-05T02:03:01.441868+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-05-014",
+  "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+  "source": "hackernews-top",
+  "url": "https://github.com/anthropics/claude-code/issues/74066",
+  "summary": "该条目涉及多租户环境中工作区实例或消费者账户之间的会话/缓存泄漏问题。核心是解决共享基础设施下数据隔离失效的安全漏洞，可能导致用户数据被未授权访问。技术亮点包括对会话管理、缓存机制和访问控制的设计缺陷分析，以及潜在的修复策略（如隔离缓存键、强化认证）。适用于SaaS平台、云服务或任何多用户AI系统，确保数据隐私和合规性。",
+  "tags": [
+    "ai-assistant",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-05T02:01:28.753198+00:00",
+  "analyzed_at": "2026-07-05T02:02:32.600169+00:00",
+  "organized_at": "2026-07-05T02:03:01.441868+00:00",
+  "status": "published"
+}

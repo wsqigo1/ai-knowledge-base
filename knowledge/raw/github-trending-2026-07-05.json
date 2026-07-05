@@ -1,0 +1,505 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-05T02:01:30.052835+00:00",
+  "date": "2026-07-05",
+  "count": 20,
+  "items": [
+    {
+      "title": "jamesob/local-llm",
+      "source": "github-trending",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "stars": 756,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-03T20:12:00Z",
+      "summary": "jamesob/local-llm 是一个 Shell 项目，汇总了运行本地 LLM 的所有知识。它解决在本地部署大语言模型时遇到的配置、资源优化和模型选择问题。核心技术亮点包括提供从模型下载、量化到推理引擎配置的完整指南，涵盖 Ollama、llama.cpp 等工具。适用场景为开发者或研究者希望在本地环境高效运行 LLM，避免云端依赖。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:32.594758+00:00"
+    },
+    {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "github-trending",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "stars": 750,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T16:14:52Z",
+      "summary": "HUANGCHIHHUNGLeo/claude-real-video 是一个开源 Python 工具，让 Claude 或其他 LLM 真正“观看”视频。它解决 LLM 无法直接处理视频流的问题，通过场景感知去重帧提取和转录生成，支持 URL 或本地文件输入，完全本地运行。核心技术包括基于场景变化的帧去重算法和自动语音转录，确保输入 LLM 的视频信息紧凑且无冗余。适用场景包括视频内容分析、摘要生成、多模态问答等。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:35.156112+00:00"
+    },
+    {
+      "title": "jmerelnyc/Talos",
+      "source": "github-trending",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "stars": 587,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-03T10:20:20Z",
+      "summary": "Talos是一个Python实现的GPU工作节点客户端，用于连接Talos网络。它通过WebSocket接受开放模型推理任务，并上报运行时长以获得报酬。核心解决GPU资源闲置与分布式推理需求匹配问题，技术亮点包括与Ollama集成、轻量级WebSocket通信和自动任务调度。适用于需要利用闲置GPU参与去中心化AI推理网络的开发者或矿工。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-05T02:01:37.411983+00:00"
+    },
+    {
+      "title": "uzairansaruzi/hermex",
+      "source": "github-trending",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "stars": 552,
+      "language": "Swift",
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T18:28:33Z",
+      "summary": "Hermex 是一个原生 iOS 应用，为 Hermes 代理提供移动端交互界面。它解决了在 iPhone 上便捷访问和管理 Hermes 代理的需求。核心技术亮点包括使用 Swift 构建原生应用，集成 LLM 代理功能，支持代理通信与任务执行。适用场景为移动端 AI 代理操作、个人助理及自动化任务管理。",
+      "tags": [
+        "agent",
+        "ios",
+        "llm",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:01:39.580855+00:00"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "source": "github-trending",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stars": 523,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-01T15:46:26Z",
+      "summary": "Fundamental-Ava 是一个开源项目，旨在构建自主、协作且具备社交智能的数字人类代理。它解决的是如何创建能够独立行动、相互协作并与人类自然交互的 AI 智能体问题。核心技术亮点包括多智能体协作框架、社交智能建模以及基于 Python 的灵活架构。适用场景涵盖虚拟助手、社交机器人、游戏 NPC 以及需要群体智能的自动化任务。",
+      "tags": [
+        "ai",
+        "multi-agent",
+        "agent",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-05T02:01:42.344750+00:00"
+    },
+    {
+      "title": "Kulaxyz/token-diet",
+      "source": "github-trending",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "stars": 458,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T18:32:05Z",
+      "summary": "Kulaxyz/token-diet 是一个始终在线的 token 效率优化工具，专为 Claude Code、Codex、Cursor 等编码代理设计。核心通过智能压缩上下文和优化 token 使用策略，平均降低 31% 的 API 费用，且不牺牲代码正确性。适用于高频调用 LLM 进行代码生成和辅助的开发场景，尤其适合成本敏感型团队。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:44.604537+00:00"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill",
+      "source": "github-trending",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": 350,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-03T16:40:16Z",
+      "summary": "一个面向 AI Agent 和 Codex 的本地 CTF 逆向工程流程技能。通过加载“真心为你”进入逆向模式，在沙盒、CTF、crackme 等环境中按“分析→报告→逆向→深度逆向→漏洞研判→用户选择下一步”的流程推进。解决 AI 在逆向工程中缺乏结构化流程的问题，核心技术亮点是将逆向任务分解为多步骤自动化流水线，并支持用户交互决策。适用场景包括本地 CTF 挑战、恶意软件分析训练和漏洞研究。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:47.311800+00:00"
+    },
+    {
+      "title": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "source": "github-trending",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "stars": 299,
+      "language": "Python",
+      "topics": [
+        "seedance",
+        "seedance-2",
+        "seedance-2-0",
+        "seedance-2-0-api",
+        "seedance-2-api",
+        "seedance-2-mini",
+        "seedance2"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-02T08:38:12Z",
+      "summary": "这是一个开源项目，提供Blender与Seedance AI视频生成工具的集成工作流集合，用于AI电影制作。它解决AI视频生成中缺乏精确摄像机控制和3D预可视化的问题。核心技术亮点包括Blender MCP协议集成、参考视频驱动摄像机路径、以及AI代理引导的自动化工作流。适用场景包括电影预可视化、AI辅助动画制作和视频内容创作。",
+      "tags": [
+        "mcp",
+        "workflow-automation",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:49.719290+00:00"
+    },
+    {
+      "title": "xt4d/GameBlocks",
+      "source": "github-trending",
+      "url": "https://github.com/xt4d/GameBlocks",
+      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "stars": 228,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-01T16:47:23Z",
+      "summary": "GameBlocks 提供简洁自解释的构建模块，帮助编码代理快速原型化基于浏览器的 3D 游戏。核心亮点是模块化设计，每个块封装了游戏开发中的常见功能（如场景、物理、交互），降低 AI 生成代码的复杂度。适用场景包括 AI 驱动的游戏原型生成、教育演示和快速迭代开发。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-05T02:01:51.870282+00:00"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch",
+      "source": "github-trending",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "stars": 222,
+      "language": "Rust",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek",
+        "llm",
+        "macos",
+        "mcp",
+        "menubar",
+        "openai-compatible",
+        "proxy",
+        "qwen",
+        "tauri"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T09:33:55Z",
+      "summary": "CSSwitch 是一个用 Rust 编写的轻量级代理工具，专为 Claude Science 设计，允许用户将默认的 Anthropic API 请求无缝转发到 DeepSeek、通义千问、智谱 GLM、Kimi、MiniMax、小米 MiMo、硅基流动、OpenRouter 等任意兼容 OpenAI 或 Anthropic 协议的端点。它解决了 Claude Science 用户无法灵活切换底层模型或 API 提供商的痛点，核心亮点在于零配置的透明代理机制和极低延迟的 Rust 实现。适用于需要利用国内或第三方 API 替代官方 Anthropic 服务以降低成本、提升可用性或进行模型对比测试的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:54.698334+00:00"
+    },
+    {
+      "title": "Archive228/loopkit",
+      "source": "github-trending",
+      "url": "https://github.com/Archive228/loopkit",
+      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "stars": 155,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T21:37:58Z",
+      "summary": "LoopKit 是一个包含 33 个经过实战测试的编码技能和最小化 .claude 工具集的仓库，旨在为 Claude Code、Cursor、Codex、Gemini CLI 等任意编码代理提供即插即用的能力增强。核心亮点在于将常见编码任务（如代码审查、重构、测试生成）封装为可复用的技能模块，并通过轻量级 harness 实现与不同代理框架的兼容。适用于需要快速提升编码代理效率的开发者，尤其是使用 AI 辅助编程工具的团队。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-05T02:01:57.334657+00:00"
+    },
+    {
+      "title": "Sophomoresty/gemini-search-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/Sophomoresty/gemini-search-mcp",
+      "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key.",
+      "stars": 138,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-06-30T08:59:54Z",
+      "summary": "Sophomoresty/gemini-search-mcp 是一个基于 Google AI Mode (Gemini) 的免费 MCP 服务器，提供无限制的网页搜索能力，无需 API 密钥。核心亮点在于利用 Gemini 的 AI 模式实现高效搜索，并作为 MCP 协议的服务端，支持工具调用。适用于需要集成实时网页搜索的 AI 助手或自动化工作流场景。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:01:59.329748+00:00"
+    },
+    {
+      "title": "oomol-lab/open-connector",
+      "source": "github-trending",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "stars": 135,
+      "language": "TypeScript",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "api-gateway",
+        "automation",
+        "cli",
+        "cloudflare-workers",
+        "connectors",
+        "integration-platform",
+        "mcp",
+        "model-context-protocol",
+        "oauth",
+        "oomol",
+        "openapi",
+        "openconnector",
+        "saas-integrations",
+        "sdk",
+        "self-hosted",
+        "typescript"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T07:39:49Z",
+      "summary": "open-connector 是一个开源认证网关，通过 SDK、CLI、MCP、HTTP 和 OpenAPI 将 1000+ SaaS 提供商连接到 AI 代理。它解决了 AI 代理与外部服务集成时的认证和 API 统一问题，核心技术亮点包括多协议支持（MCP、HTTP、OpenAPI）和自动化 CLI 工具，适用于构建需要访问大量 SaaS 服务的 AI 代理工作流。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "mcp",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-07-05T02:02:01.549400+00:00"
+    },
+    {
+      "title": "Oft3r/agentic-trading-desk",
+      "source": "github-trending",
+      "url": "https://github.com/Oft3r/agentic-trading-desk",
+      "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum · Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+      "stars": 124,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-02T18:03:28Z",
+      "summary": "Oft3r/agentic-trading-desk 是一个基于 AI 的短期交易辅助工具，通过 Robinhood MCP 接口获取股票和 ETF 数据。它解决人工技术分析效率低的问题，使用确定性 Python 引擎对每只资产从 Trend、Momentum、Macro-Sentiment 三个维度评分，核心算法包括 EMA、RSI、MACD、TRIX 和 Bollinger Bands。AI 负责数据获取，脚本执行计算，最终每笔订单需人工批准。适用于需要量化辅助的短线交易者或量化研究场景。",
+      "tags": [
+        "agent",
+        "mcp",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-05T02:02:03.805311+00:00"
+    },
+    {
+      "title": "Zsun79/ConferenceWatch",
+      "source": "github-trending",
+      "url": "https://github.com/Zsun79/ConferenceWatch",
+      "description": "An Agent Skill to watch the deadlines of latest AI conference.",
+      "stars": 122,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-conference",
+        "ai-research",
+        "conference-deadlines"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-03T01:25:48Z",
+      "summary": "ConferenceWatch 是一个基于 Agent Skill 框架的工具，用于监控最新 AI 会议的截止日期。它解决了研究人员和开发者因会议众多而错过投稿截止时间的问题。核心技术亮点是利用 agent 技能自动抓取并更新会议日程，支持个性化提醒。适用场景包括学术投稿规划、实验室会议管理及个人研究进度跟踪。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:02:05.944834+00:00"
+    },
+    {
+      "title": "Chozzc/Lujie-Careerkit",
+      "source": "github-trending",
+      "url": "https://github.com/Chozzc/Lujie-Careerkit",
+      "description": "An AI-powered career workspace from resume editing to offer acceptance, covering resume editing, JD matching, application tracking, mock interviews, and interview review.",
+      "stars": 118,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-04T11:07:20Z",
+      "summary": "Lujie-Careerkit 是一个基于 AI 的求职工作台，覆盖简历编辑、JD 匹配、申请追踪、模拟面试和面试复盘全流程。核心通过 LLM 实现简历与岗位的智能匹配，并利用对话式 AI 进行模拟面试与反馈。技术亮点在于将多个求职环节集成于统一平台，采用 TypeScript 构建，适合求职者提升效率。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-05T02:02:08.217208+00:00"
+    },
+    {
+      "title": "elder-plinius/T3MP3ST",
+      "source": "github-trending",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stars": 117,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "multi-agent",
+        "offensive-security",
+        "redteam"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-05T01:25:51Z",
+      "summary": "elder-plinius/T3MP3ST 是一个自主红队平台，采用多智能体架构实现进攻性安全元控制。它解决传统安全测试依赖人工、效率低的问题，核心亮点在于多智能体协作自动生成攻击向量并评估防御。适用于AI系统安全审计、红队演练等场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:02:10.053306+00:00"
+    },
+    {
+      "title": "xuanxuan321/xuanxuan-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/xuanxuan321/xuanxuan-prompts",
+      "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
+      "stars": 116,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-03T06:59:50Z",
+      "summary": "xuanxuan-prompts 是一个面向 AI Agent 的提示词合集，旨在解决通过自然语言指令复刻精美网页的难题。每个目录包含一份 prompt.md 和效果图截图，用户将提示词输入 Claude/Codex/Kimi 等模型即可生成对应网站。核心技术亮点是结构化提示词与视觉参考结合，提升代码生成准确性。适用场景包括前端原型快速实现、设计稿转代码、AI 辅助网页开发教学。",
+      "tags": [
+        "prompt-engineering",
+        "code-generation",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-07-05T02:02:12.394707+00:00"
+    },
+    {
+      "title": "easylink-ai-open/agent-runtime",
+      "source": "github-trending",
+      "url": "https://github.com/easylink-ai-open/agent-runtime",
+      "description": "Standalone agent runtime core with neutral LLM types, provider clients, tool loop, and extension protocols.",
+      "stars": 114,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-07-01T07:10:31Z",
+      "summary": "agent-runtime 是一个独立的智能体运行时核心，通过统一的中立 LLM 类型系统、多 provider 客户端、工具循环机制和扩展协议，解决不同 LLM 与工具集成时的兼容性问题。核心技术亮点包括：抽象 LLM 接口层、可插拔工具执行循环、标准化扩展协议。适用于构建可移植的 AI 代理应用、多模型切换场景及工具编排系统。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-05T02:02:14.889917+00:00"
+    },
+    {
+      "title": "IvoryTradesmanPort/Valorant-External-Assistant-2026",
+      "source": "github-trending",
+      "url": "https://github.com/IvoryTradesmanPort/Valorant-External-Assistant-2026",
+      "description": "Monitor Valorant gameplay through an external overlay to track player stats and match data in real time.",
+      "stars": 100,
+      "language": null,
+      "topics": [
+        "2026",
+        "ai",
+        "attention",
+        "aws",
+        "discord-bot",
+        "dns",
+        "dns-providers",
+        "dns-servers",
+        "educational-rendering",
+        "ingress",
+        "kubernetes",
+        "linear-layers",
+        "overlay",
+        "rocketmq",
+        "route53"
+      ],
+      "collected_at": "2026-07-05T02:01:28.626571+00:00",
+      "published_at": "2026-06-29T21:11:24Z",
+      "summary": "Valorant-External-Assistant-2026 是一个通过外部覆盖层实时监控 Valorant 游戏对局、追踪玩家统计数据和比赛信息的开源工具。它解决玩家在游戏过程中无法便捷获取实时数据的问题，核心亮点在于外部覆盖层设计（不干扰游戏进程）和实时数据追踪。适用场景为 Valorant 玩家和电竞分析，但技术深度有限，主要依赖游戏 API 和覆盖层渲染。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-05T02:02:17.069764+00:00"
+    }
+  ]
+}

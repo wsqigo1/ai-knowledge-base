@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-05-002",
+  "title": "SuperJJ007/CSSwitch",
+  "source": "github-trending",
+  "url": "https://github.com/SuperJJ007/CSSwitch",
+  "summary": "CSSwitch 是一个用 Rust 编写的轻量级代理工具，专为 Claude Science 设计，允许用户将默认的 Anthropic API 请求无缝转发到 DeepSeek、通义千问、智谱 GLM、Kimi、MiniMax、小米 MiMo、硅基流动、OpenRouter 等任意兼容 OpenAI 或 Anthropic 协议的端点。它解决了 Claude Science 用户无法灵活切换底层模型或 API 提供商的痛点，核心亮点在于零配置的透明代理机制和极低延迟的 Rust 实现。适用于需要利用国内或第三方 API 替代官方 Anthropic 服务以降低成本、提升可用性或进行模型对比测试的场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-05T02:01:28.626571+00:00",
+  "analyzed_at": "2026-07-05T02:01:54.698334+00:00",
+  "organized_at": "2026-07-05T02:03:01.441868+00:00",
+  "status": "published"
+}
