@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-06-008",
+  "title": "Does Code Cleanliness Affect Coding Agents?",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2605.20049",
+  "summary": "该文章探讨代码整洁度对编码代理（Coding Agents）性能的影响。核心问题是：代码质量是否会影响基于LLM的代码生成代理的输出效果？技术亮点在于通过实验对比不同整洁度代码库下代理的修复与生成能力，揭示代码结构对代理推理准确性的关键作用。适用场景为AI辅助编程工具开发、代码审查流程优化及代理训练数据筛选。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-06T02:07:22.434145+00:00",
+  "analyzed_at": "2026-07-06T02:08:28.401278+00:00",
+  "organized_at": "2026-07-06T02:09:00.263455+00:00",
+  "status": "published"
+}
