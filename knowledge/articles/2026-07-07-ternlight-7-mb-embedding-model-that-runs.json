@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-07-006",
+  "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+  "source": "hackernews-top",
+  "url": "https://ternlight-demo.vercel.app/",
+  "summary": "Ternlight 是一个仅 7MB 的 embedding 模型，通过 WASM 在浏览器端本地运行，无需服务器。它解决了传统 embedding 模型体积大、依赖云端推理的痛点，核心亮点是极小的模型体积与浏览器内高效推理。适用于隐私敏感、低延迟的 RAG 场景，如本地文档检索、离线问答系统。",
+  "tags": [
+    "rag",
+    "vector-database",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-07T02:02:51.256693+00:00",
+  "analyzed_at": "2026-07-07T02:03:57.354786+00:00",
+  "organized_at": "2026-07-07T02:04:35.343550+00:00",
+  "status": "published"
+}

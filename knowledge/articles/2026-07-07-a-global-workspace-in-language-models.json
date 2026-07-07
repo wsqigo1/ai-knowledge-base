@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-07-008",
+  "title": "A global workspace in language models",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/global-workspace",
+  "summary": "该研究提出在语言模型中构建一个全局工作空间（global workspace），以解决模型在处理长序列或多任务时信息整合与推理能力不足的问题。核心亮点是借鉴认知科学中的全局工作空间理论，通过引入可学习的共享记忆模块，使模型能够跨层、跨时间步动态汇聚和分发关键信息，从而提升复杂推理与上下文理解能力。适用场景包括长文档理解、多跳推理、对话系统等需要全局信息协调的任务。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-07T02:02:51.256693+00:00",
+  "analyzed_at": "2026-07-07T02:04:02.391340+00:00",
+  "organized_at": "2026-07-07T02:04:35.343550+00:00",
+  "status": "published"
+}

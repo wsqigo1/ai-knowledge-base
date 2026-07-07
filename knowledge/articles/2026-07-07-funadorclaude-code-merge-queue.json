@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-07-001",
+  "title": "funador/claude-code-merge-queue",
+  "source": "github-trending",
+  "url": "https://github.com/funador/claude-code-merge-queue",
+  "summary": "funador/claude-code-merge-queue 是一个 TypeScript 实现的本地区合入队列工具，专为并行运行的 Claude Code agents 设计。它解决了多个 AI 编码代理同时修改代码库时产生的冲突和合并问题，通过维护一个本地队列确保代理的变更按序安全合入。核心技术亮点是轻量级队列管理和冲突检测机制，无需依赖外部服务。适用场景包括团队使用 Claude Code 进行大规模代码生成、重构或自动化修复时的协作开发。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-07-07T02:02:50.998630+00:00",
+  "analyzed_at": "2026-07-07T02:03:20.790096+00:00",
+  "organized_at": "2026-07-07T02:04:35.343550+00:00",
+  "status": "published"
+}

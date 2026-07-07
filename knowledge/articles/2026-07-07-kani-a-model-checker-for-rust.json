@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-07-015",
+  "title": "Kani: A Model Checker for Rust",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2607.01504",
+  "summary": "Kani 是一个针对 Rust 代码的模型检查器，用于验证程序在特定输入下的行为正确性。它解决 Rust 开发者难以通过传统测试覆盖所有边界条件的问题，通过符号执行和自动定理证明来检测 panic、断言失败和未定义行为。核心技术亮点包括支持 Rust 标准库的模型、自动生成测试用例和与 Cargo 集成。适用场景包括嵌入式系统、安全关键软件和需要高可靠性的 Rust 项目。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-07T02:02:51.256693+00:00",
+  "analyzed_at": "2026-07-07T02:04:35.306346+00:00",
+  "organized_at": "2026-07-07T02:04:35.343550+00:00",
+  "status": "published"
+}

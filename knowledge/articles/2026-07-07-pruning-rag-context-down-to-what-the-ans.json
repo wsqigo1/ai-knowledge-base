@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-07-009",
+  "title": "Pruning RAG context down to what the answer actually needs",
+  "source": "hackernews-top",
+  "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+  "summary": "Pruning RAG context 是一种优化检索增强生成（RAG）系统的方法，旨在解决检索上下文过长导致模型推理效率低、噪声干扰大、生成质量下降的问题。核心技术亮点是通过动态裁剪或选择性保留检索结果中与答案直接相关的部分，减少输入长度并聚焦关键信息，从而提升生成准确性和响应速度。适用场景包括需要高精度问答的RAG应用、长文档问答系统以及资源受限的实时推理环境。",
+  "tags": [
+    "rag",
+    "large-language-model",
+    "prompt-engineering",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-07T02:02:51.256693+00:00",
+  "analyzed_at": "2026-07-07T02:04:05.228615+00:00",
+  "organized_at": "2026-07-07T02:04:35.343550+00:00",
+  "status": "published"
+}

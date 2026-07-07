@@ -1,7 +1,231 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 960,
+  "total_count": 975,
   "entries": [
+    {
+      "id": "kb-2026-07-07-001",
+      "title": "funador/claude-code-merge-queue",
+      "source": "github-trending",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "file": "2026-07-07-funadorclaude-code-merge-queue.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-002",
+      "title": "Tencent-Hunyuan/Hy3",
+      "source": "github-trending",
+      "url": "https://github.com/Tencent-Hunyuan/Hy3",
+      "file": "2026-07-07-tencent-hunyuanhy3.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.9,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-003",
+      "title": "simonlin1212/Vibe-Research",
+      "source": "github-trending",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "file": "2026-07-07-simonlin1212vibe-research.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "fintech",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-004",
+      "title": "OStudi/short-video-generator-AI",
+      "source": "github-trending",
+      "url": "https://github.com/OStudi/short-video-generator-AI",
+      "file": "2026-07-07-ostudishort-video-generator-ai.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-005",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "source": "hackernews-top",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "file": "2026-07-07-glm-52-and-the-coming-ai-margin-collapse.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-006",
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "source": "hackernews-top",
+      "url": "https://ternlight-demo.vercel.app/",
+      "file": "2026-07-07-ternlight-7-mb-embedding-model-that-runs.json",
+      "tags": [
+        "rag",
+        "vector-database",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-007",
+      "title": "NSA and IETF: Fairness",
+      "source": "hackernews-top",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "file": "2026-07-07-nsa-and-ietf-fairness.json",
+      "tags": [
+        "benchmark",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-008",
+      "title": "A global workspace in language models",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "file": "2026-07-07-a-global-workspace-in-language-models.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-009",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "source": "hackernews-top",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "file": "2026-07-07-pruning-rag-context-down-to-what-the-ans.json",
+      "tags": [
+        "rag",
+        "large-language-model",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-010",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "file": "2026-07-07-small-ai-models-gain-traction-in-places-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-011",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "source": "hackernews-top",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "file": "2026-07-07-amd-ryzen-ai-halo-4k-ai-dev-kit.json",
+      "tags": [
+        "developer-tools",
+        "large-language-model",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-012",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "source": "hackernews-top",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "file": "2026-07-07-officecli-office-suite-for-ai-agents-to-.json",
+      "tags": [
+        "open-source",
+        "tool-use",
+        "workflow-automation",
+        "developer-tools",
+        "agent"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-013",
+      "title": "Learning to code is still worthwhile",
+      "source": "hackernews-top",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "file": "2026-07-07-learning-to-code-is-still-worthwhile.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-014",
+      "title": "LLMs Are Not a Default Execution Engine",
+      "source": "hackernews-top",
+      "url": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
+      "file": "2026-07-07-llms-are-not-a-default-execution-engine.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
+    {
+      "id": "kb-2026-07-07-015",
+      "title": "Kani: A Model Checker for Rust",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "file": "2026-07-07-kani-a-model-checker-for-rust.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-07T02:04:35.343550+00:00"
+    },
     {
       "id": "kb-2026-07-06-001",
       "title": "HKUDS/OpenOPC",
@@ -14245,5 +14469,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-07-06T02:09:00.334616+00:00"
+  "last_updated": "2026-07-07T02:04:35.427299+00:00"
 }
