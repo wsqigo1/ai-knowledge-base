@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-08-014",
+  "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+  "source": "hackernews-top",
+  "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+  "summary": "该文章探讨了AI技术如何应用于密码学领域，具体分析了Cloudflare的Circl库中发现的潜在安全漏洞或优化机会。核心是使用AI模型（如LLM）自动检测椭圆曲线加密实现中的侧信道攻击或逻辑错误，解决传统人工审计效率低、覆盖不全的问题。技术亮点包括结合符号执行与AI推理的混合分析框架，适用于加密库安全审计、零知识证明系统验证等场景。",
+  "tags": [
+    "code-generation",
+    "open-source",
+    "ai-assistant",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-08T01:43:53.149597+00:00",
+  "analyzed_at": "2026-07-08T01:45:17.414782+00:00",
+  "organized_at": "2026-07-08T01:45:27.167875+00:00",
+  "status": "published"
+}

@@ -1,0 +1,383 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-08T01:43:53.716131+00:00",
+  "date": "2026-07-08",
+  "count": 20,
+  "items": [
+    {
+      "title": "We charge $10k a week to delete AI-generated code",
+      "source": "hackernews-top",
+      "url": "https://odra.dev/slopfix/",
+      "hn_url": "https://news.ycombinator.com/item?id=48823359",
+      "description": "",
+      "hn_score": 170,
+      "comments": 76,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "一家公司提供每周1万美元的服务，专门删除AI生成的代码。解决的问题是AI生成代码可能引入的不可靠、难以维护或安全风险。核心技术亮点是人工审查与自动化工具结合，精准识别并移除AI生成的代码片段。适用场景包括企业需要清理AI辅助开发遗留的低质量代码，或对代码来源有严格合规要求的项目。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-08T01:44:41.636966+00:00"
+    },
+    {
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "source": "hackernews-top",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "hn_url": "https://news.ycombinator.com/item?id=48821576",
+      "description": "",
+      "hn_score": 291,
+      "comments": 66,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Kokoro 是一个本地、CPU友好、高质量的文本转语音（TTS）开源项目。它解决了传统TTS依赖GPU、延迟高、隐私风险的问题。核心技术亮点包括：基于轻量级神经网络模型，无需GPU即可在CPU上实时合成语音；支持多种语言和声音；输出自然流畅。适用场景：离线语音助手、无障碍阅读、嵌入式设备、隐私敏感应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-08T01:44:44.057932+00:00"
+    },
+    {
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "source": "hackernews-top",
+      "url": "https://streetcomplete.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48816883",
+      "description": "",
+      "hn_score": 689,
+      "comments": 170,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "StreetComplete 是一个开源 Android 应用，通过将 OpenStreetMap 数据改进任务拆解为微小的、可操作的“任务”（如添加街道名称、修复缺失的人行道），降低非技术用户参与地图编辑的门槛。其核心技术亮点包括：基于位置感知的任务推荐引擎、简化的 UI 设计（无需理解 OSM 标签系统）、以及自动将用户输入转换为标准 OSM 数据格式的适配层。适用于需要众包地理数据更新的场景，如社区规划、物流导航数据维护。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-08T01:44:47.163953+00:00"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "source": "hackernews-top",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "hn_url": "https://news.ycombinator.com/item?id=48818311",
+      "description": "",
+      "hn_score": 437,
+      "comments": 145,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Chat Control 1.0 and 2.0 是欧盟提出的在线聊天内容扫描法规，旨在强制平台检测并移除儿童性虐待材料（CSAM）。1.0 版本要求所有通信服务扫描文本和图像，引发隐私争议；2.0 版本引入客户端侧扫描和加密后门，进一步激化安全与隐私矛盾。核心技术亮点在于端到端加密环境下的内容分析机制，但面临技术可行性与法律合规挑战。适用场景为政策制定者、隐私倡导者及安全技术研究者的讨论与评估。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-08T01:44:50.139650+00:00"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "source": "hackernews-top",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "hn_url": "https://news.ycombinator.com/item?id=48825749",
+      "description": "",
+      "hn_score": 12,
+      "comments": 1,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "该条目披露了Tenda多款固件版本中存在隐藏认证后门漏洞，攻击者可绕过正常登录流程获取设备管理员权限。核心问题在于固件中硬编码了特定HTTP请求参数（如'loginuser'），导致未授权访问。技术亮点在于通过逆向工程发现后门触发逻辑，并公开了PoC利用代码。适用场景为物联网设备安全审计、固件漏洞挖掘及企业网络边界防护评估。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-08T01:44:52.671325+00:00"
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "source": "hackernews-top",
+      "url": "https://davit.app",
+      "hn_url": "https://news.ycombinator.com/item?id=48821848",
+      "description": "",
+      "hn_score": 193,
+      "comments": 44,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Davit 是一个为 Apple 平台设计的容器化 UI 框架，解决在 iOS/macOS 上构建复杂、可复用界面组件时缺乏原生容器抽象的问题。核心技术亮点包括基于 SwiftUI 的声明式容器管理、自动布局与状态隔离，以及轻量级集成。适用于需要模块化界面、多组件协作的 Apple 应用开发场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-07-08T01:44:54.796704+00:00"
+    },
+    {
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "hn_url": "https://news.ycombinator.com/item?id=48816956",
+      "description": "",
+      "hn_score": 455,
+      "comments": 163,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "这是一个关于如何更有效地系运动短裤（或任何抽绳）的实用技巧视频。它解决了日常生活中抽绳容易松脱的常见问题。核心技术亮点是展示了一种特定的打结方法，通过利用绳圈和绳头的相互作用来增强摩擦力，从而让结更牢固且易于解开。适用场景为日常穿着、运动健身等需要可靠固定抽绳的场合。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-08T01:44:57.141440+00:00"
+    },
+    {
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "source": "hackernews-top",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "hn_url": "https://news.ycombinator.com/item?id=48823557",
+      "description": "",
+      "hn_score": 427,
+      "comments": 561,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "欧盟新规要求所有新车必须安装驾驶员监控摄像头，旨在通过实时监测驾驶员注意力、疲劳和分心状态来提升道路安全。核心技术包括计算机视觉、红外传感器和机器学习模型，用于分析面部特征、眼动和头部姿态。适用场景为汽车安全系统，特别是L2+级自动驾驶辅助中的驾驶员状态监控。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-07-08T01:44:59.290915+00:00"
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "source": "hackernews-top",
+      "url": "https://30papers.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48819608",
+      "description": "",
+      "hn_score": 354,
+      "comments": 60,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "30papers.com 是一个将 Ilya Sutskever 推荐的 30 篇机器学习经典论文整理为初学者友好格式的网站。它解决了新手直接阅读原始论文难度高、缺乏引导的问题。核心技术亮点包括对每篇论文提供摘要、核心概念解释、代码示例和可视化，降低入门门槛。适用场景为 ML 初学者、转行 AI 的工程师以及希望系统梳理经典论文的研究者。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-08T01:45:01.667316+00:00"
+    },
+    {
+      "title": "Herdr: One terminal to rule them all",
+      "source": "hackernews-top",
+      "url": "https://herdr.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48756578",
+      "description": "",
+      "hn_score": 151,
+      "comments": 84,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Herdr 是一个终端管理工具，旨在解决开发者在多个终端窗口间频繁切换的低效问题。其核心技术亮点在于提供统一的界面来管理、组织和切换多个终端会话，支持标签页、分屏和会话持久化功能。适用场景包括需要同时监控多个服务、运行多任务或进行复杂调试的开发工作流。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-08T01:45:03.796629+00:00"
+    },
+    {
+      "title": "l: A new runtime for k and q",
+      "source": "hackernews-top",
+      "url": "https://lv1.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=48821378",
+      "description": "",
+      "hn_score": 103,
+      "comments": 61,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "l是一个为k和q语言设计的新运行时，旨在解决现有运行时性能瓶颈和兼容性问题。核心技术亮点包括优化的内存管理和执行引擎，适用于高频交易、数据分析等对性能要求极高的场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-08T01:45:05.634690+00:00"
+    },
+    {
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "hn_url": "https://news.ycombinator.com/item?id=48742703",
+      "description": "",
+      "hn_score": 36,
+      "comments": 7,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "IEEE 推出大型语言模型培训课程，旨在解决 AI 从业者缺乏系统化 LLM 学习路径的问题。课程核心技术亮点涵盖 LLM 架构、训练方法、微调及部署实践，由 IEEE 专家设计。适用场景包括工程师、研究人员及学生提升 LLM 开发与应用能力。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-08T01:45:07.796941+00:00"
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "source": "hackernews-top",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "hn_url": "https://news.ycombinator.com/item?id=48819808",
+      "description": "",
+      "hn_score": 92,
+      "comments": 25,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Rowboat 是一个开源的、本地优先的 Claude Desktop 替代品，解决用户对云端 AI 助手的隐私和依赖问题。核心技术亮点包括本地运行、支持 MCP 协议、可自定义工具和工作流，以及完全离线能力。适用于需要高度隐私、定制化 AI 助手场景，如个人开发、企业内部工具集成。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "mcp",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-08T01:45:10.147716+00:00"
+    },
+    {
+      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+      "source": "hackernews-top",
+      "url": "https://github.com/tiliondev/fortress",
+      "hn_url": "https://news.ycombinator.com/item?id=48825745",
+      "description": "",
+      "hn_score": 17,
+      "comments": 10,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Fortress 是一个基于 Chromium 的隐身浏览器，专为 AI 代理设计，防止被网站检测和屏蔽。它通过模拟真实用户行为、指纹随机化和请求伪装等技术，解决自动化工具被反爬机制拦截的问题。适用于需要大规模网页数据采集、自动化测试或 AI 代理执行任务的场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-08T01:45:12.459382+00:00"
+    },
+    {
+      "title": "Jim's TrueType QR Code Font",
+      "source": "hackernews-top",
+      "url": "https://github.com/jimparis/qr-font",
+      "hn_url": "https://news.ycombinator.com/item?id=48820119",
+      "description": "",
+      "hn_score": 130,
+      "comments": 20,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Jim's TrueType QR Code Font 是一个开源字体项目，将 QR 码编码为 TrueType 字体，用户通过输入文本即可生成对应 QR 码图像。它解决了传统 QR 码生成依赖外部库或工具的问题，核心亮点是利用字体渲染机制实现轻量级、跨平台的 QR 码生成，无需额外软件。适用场景包括文档嵌入、印刷品、网页内联 QR 码等，适合需要快速集成 QR 码功能的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-08T01:45:14.798381+00:00"
+    },
+    {
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "source": "hackernews-top",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48821749",
+      "description": "",
+      "hn_score": 79,
+      "comments": 9,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "该文章探讨了AI技术如何应用于密码学领域，具体分析了Cloudflare的Circl库中发现的潜在安全漏洞或优化机会。核心是使用AI模型（如LLM）自动检测椭圆曲线加密实现中的侧信道攻击或逻辑错误，解决传统人工审计效率低、覆盖不全的问题。技术亮点包括结合符号执行与AI推理的混合分析框架，适用于加密库安全审计、零知识证明系统验证等场景。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-08T01:45:17.414782+00:00"
+    },
+    {
+      "title": "Why we built yet another Postgres connection pooler",
+      "source": "hackernews-top",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "hn_url": "https://news.ycombinator.com/item?id=48819308",
+      "description": "",
+      "hn_score": 130,
+      "comments": 34,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "该文章介绍了一个新的PostgreSQL连接池，旨在解决现有连接池（如PgBouncer）在高并发场景下的性能瓶颈和功能缺失问题。核心亮点包括：采用异步I/O和智能连接复用技术，减少连接建立开销；支持自动伸缩和动态负载均衡，提升资源利用率；提供细粒度的连接超时与健康检查机制。适用场景为需要高吞吐、低延迟的数据库密集型应用，如微服务架构或实时分析系统。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-08T01:45:19.857808+00:00"
+    },
+    {
+      "title": "Why skilled workers come to Germany and then leave again",
+      "source": "hackernews-top",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "hn_url": "https://news.ycombinator.com/item?id=48815982",
+      "description": "",
+      "hn_score": 175,
+      "comments": 465,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "这篇文章探讨了德国吸引技术工人后却难以留住他们的现象，分析了原因如官僚主义、语言障碍、职业发展受限等。核心是揭示移民政策与劳动力市场匹配的痛点，而非技术解决方案。适用场景为政策制定者或企业HR参考，对AI工程师无直接技术价值。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-08T01:45:21.845840+00:00"
+    },
+    {
+      "title": "Show HN: Free Mermaid Diagram Editor",
+      "source": "hackernews-top",
+      "url": "https://moxiedocs.com/mermaid-diagram-editor",
+      "hn_url": "https://news.ycombinator.com/item?id=48825430",
+      "description": "",
+      "hn_score": 5,
+      "comments": 0,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "一个免费在线的Mermaid图表编辑器，旨在解决Mermaid语法学习门槛高、缺乏可视化编辑工具的问题。核心亮点是提供拖拽式节点编辑、实时预览和导出功能，无需安装即可使用。适用场景包括软件架构图、流程图、时序图等快速绘制，尤其适合开发者、技术文档编写者。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-08T01:45:23.933126+00:00"
+    },
+    {
+      "title": "Git Hash Chain Malleability",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "hn_url": "https://news.ycombinator.com/item?id=48825356",
+      "description": "",
+      "hn_score": 6,
+      "comments": 2,
+      "collected_at": "2026-07-08T01:43:53.149597+00:00",
+      "published_at": "2026-07-08T01:43:53.149597+00:00",
+      "summary": "Git Hash Chain Malleability 指攻击者利用 Git 哈希链的确定性特性，通过精心构造提交历史来操纵哈希值，从而绕过基于哈希的完整性校验。该问题暴露了 Git 依赖 SHA-1 哈希的潜在安全风险，核心在于哈希链的可塑性允许在不破坏链式结构的前提下篡改历史。技术亮点是揭示了哈希链的数学脆弱性，并提出了增强签名或使用更安全哈希算法的缓解方案。适用场景包括 Git 仓库安全审计、供应链攻击防御及版本控制系统的安全加固。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-08T01:45:27.128742+00:00"
+    }
+  ]
+}

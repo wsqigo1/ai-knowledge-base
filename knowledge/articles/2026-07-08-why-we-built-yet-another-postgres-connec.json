@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-08-015",
+  "title": "Why we built yet another Postgres connection pooler",
+  "source": "hackernews-top",
+  "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+  "summary": "该文章介绍了一个新的PostgreSQL连接池，旨在解决现有连接池（如PgBouncer）在高并发场景下的性能瓶颈和功能缺失问题。核心亮点包括：采用异步I/O和智能连接复用技术，减少连接建立开销；支持自动伸缩和动态负载均衡，提升资源利用率；提供细粒度的连接超时与健康检查机制。适用场景为需要高吞吐、低延迟的数据库密集型应用，如微服务架构或实时分析系统。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-08T01:43:53.149597+00:00",
+  "analyzed_at": "2026-07-08T01:45:19.857808+00:00",
+  "organized_at": "2026-07-08T01:45:27.167875+00:00",
+  "status": "published"
+}

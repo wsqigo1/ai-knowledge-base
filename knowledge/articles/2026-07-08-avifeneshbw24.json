@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-08-002",
+  "title": "avifenesh/bw24",
+  "source": "github-trending",
+  "url": "https://github.com/avifenesh/bw24",
+  "summary": "bw24 是一个从零构建的 Rust+CUDA LLM 推理引擎，专为 RTX 5090 (sm_120a) 优化。它解决在最新硬件上高效运行大模型的问题，核心技术包括 NVFP4 量化、MoE 架构、MTP 推测解码，并针对实测硬件极限调优。适用于需要在 RTX 5090 上实现极致推理性能的场景，如本地部署、边缘计算或研究实验。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-07-08T01:43:53.005628+00:00",
+  "analyzed_at": "2026-07-08T01:44:27.377889+00:00",
+  "organized_at": "2026-07-08T01:45:27.167875+00:00",
+  "status": "published"
+}
