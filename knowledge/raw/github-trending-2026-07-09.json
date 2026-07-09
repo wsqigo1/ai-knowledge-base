@@ -1,0 +1,535 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-09T01:55:02.799906+00:00",
+  "date": "2026-07-09",
+  "count": 20,
+  "items": [
+    {
+      "title": "synthetic-sciences/openscience",
+      "source": "github-trending",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 1762,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml",
+        "ml-engineering",
+        "open-source",
+        "research",
+        "research-tools",
+        "science",
+        "scientific-computing",
+        "typescript"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-09T01:02:51Z",
+      "summary": "openscience 是一个面向科学研究的开源 AI 工作台，基于 TypeScript 构建，使用 Bun 运行时。它解决科研人员缺乏统一 AI 辅助平台的问题，核心亮点是集成 agent 和 CLI 工具，支持自动化科研工作流。适用于文献分析、实验设计、数据探索等场景，降低 AI 在科研中的使用门槛。",
+      "tags": [
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-09T01:55:04.754894+00:00"
+    },
+    {
+      "title": "jamesob/local-llm",
+      "source": "github-trending",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "stars": 1274,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T10:07:31Z",
+      "summary": "jamesob/local-llm 是一个 Shell 项目，汇集了运行本地 LLM 的全面知识。它解决在无网络或隐私敏感环境下部署大模型的问题，核心亮点包括模型选择、量化方法、推理框架（如 llama.cpp）及硬件配置指南。适用场景为个人开发者、隐私保护需求者及离线环境下的 AI 应用开发。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-07-09T01:55:06.695828+00:00"
+    },
+    {
+      "title": "Kulaxyz/token-diet",
+      "source": "github-trending",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "stars": 566,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-04T18:32:05Z",
+      "summary": "Kulaxyz/token-diet 是一个始终在线的 token 效率优化工具，专为 Claude Code、Codex、Cursor 等编码代理设计。其核心技术是通过 Shell 脚本在代理运行过程中动态压缩和精简输入/输出 token，平均降低约 31% 的 API 调用成本，且不牺牲代码正确性。适用于高频使用编码代理的开发者，旨在减少 LLM 调用开销。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:08.825135+00:00"
+    },
+    {
+      "title": "simonlin1212/Vibe-Research",
+      "source": "github-trending",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "stars": 553,
+      "language": "TypeScript",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "dashboard",
+        "fastapi",
+        "fintech",
+        "hk-stocks",
+        "investment-research",
+        "llm",
+        "mcp",
+        "python",
+        "react",
+        "stock-market",
+        "trading",
+        "us-stocks"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-07T13:14:31Z",
+      "summary": "Vibe-Research 是一个面向 A股/美股/港股的个人投研 AI Agent，提供每日复盘、资讯雷达、个股数据、板块中心、持仓管理及研究记录功能。核心架构基于 FastAPI 后端与 TypeScript 前端，整合 AI 驱动数据聚合与交互，实现多市场实时分析与个性化投资研究。技术亮点包括多数据源融合、AI Agent 自主分析及可视化仪表盘。适用场景为个人投资者日常投研、市场监控与决策辅助。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "fintech",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:11.228624+00:00"
+    },
+    {
+      "title": "ai4s-research/open-science",
+      "source": "github-trending",
+      "url": "https://github.com/ai4s-research/open-science",
+      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "stars": 396,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science",
+        "claude-science-alternative",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-science",
+        "reproducible-research",
+        "research-tools",
+        "scientific-research",
+        "tauri"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-09T00:21:06Z",
+      "summary": "ai4s-research/open-science 是一个开源的 AI 科研工作台，作为 Claude Science 的替代品，解决科研场景中 AI 工具本地化、模型无关性和可重复性不足的问题。核心技术基于 Tauri 构建桌面应用，集成 MCP 协议和 agent skills，支持 macOS 和 Windows。适用于需要本地优先、可复现 AI 辅助研究的科学家和工程师。",
+      "tags": [
+        "open-source",
+        "mcp",
+        "agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:13.143273+00:00"
+    },
+    {
+      "title": "Pluviobyte/rnskill",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/rnskill",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "stars": 382,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-07T03:57:59Z",
+      "summary": "Pluviobyte/rnskill 是一个开源的 AI Agent Skills 集合，旨在解决 AI 代理功能碎片化问题，提供可复用的技能模块。核心技术亮点包括模块化技能设计、Python 实现及与主流 LLM 框架的兼容性。适用场景为快速构建具备特定能力的 AI 代理，如自动化工作流、工具调用等。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:15.048846+00:00"
+    },
+    {
+      "title": "op7418/guizang-material-illustration",
+      "source": "github-trending",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "stars": 326,
+      "language": null,
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration",
+        "image-generation",
+        "material-illustration",
+        "skill",
+        "social-media"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-07T18:13:06Z",
+      "summary": "guizang-material-illustration 是一个基于 Claude Code/Codex 的 AI 代理项目，专注于生成带文字解释的材质插画、图表美化和参考辅助配图。它解决了非设计人员快速获取高质量可视化素材的需求，核心通过 agent 调用大模型实现图文生成与排版，支持中文场景。技术亮点在于将 LLM 的视觉理解与图表渲染结合，实现自动化配图工作流。适用于报告制作、教学材料生成和产品原型辅助设计。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-09T01:55:17.876362+00:00"
+    },
+    {
+      "title": "nexu-io/motion-anything",
+      "source": "github-trending",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "stars": 301,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "animation",
+        "claude",
+        "design-tools",
+        "figma-motion-alternative",
+        "motion-design",
+        "motion-graphics",
+        "webgl"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-07T06:47:46Z",
+      "summary": "Motion-Anything 是一个开源、聊天原生的动画引擎，作为智能体运动层，允许用户通过自然语言描述情感或动作意图，AI 自动生成对应的动画效果。它解决了传统动画工具需要手动调整参数、门槛高的问题，核心技术亮点包括基于大语言模型理解自然语言描述并映射到动画参数、支持 Claude 等 AI 代理集成、作为 Figma 动画替代方案。适用于设计工具、UI 动效生成、AI 辅助创意表达等场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-07-09T01:55:20.376761+00:00"
+    },
+    {
+      "title": "SmileLikeYe/agent-chief",
+      "source": "github-trending",
+      "url": "https://github.com/SmileLikeYe/agent-chief",
+      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "stars": 278,
+      "language": "Python",
+      "topics": [
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T03:54:29Z",
+      "summary": "Agent-Chief 是一个本地优先的 AI 代理编排层，核心解决 LLM 应用中信息过载与注意力稀缺问题。它通过统一管理代理、警报和 feed，实现智能中断决策——仅当必要时才触发 LLM 调用，从而减少不必要的计算开销。技术亮点包括本地优先架构、基于 Python 的轻量级 harness 设计，以及针对多代理场景的注意力守卫机制。适用于需要高效管理多代理协作、实时事件过滤与优先级排序的本地 AI 应用场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "local-first"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:22.975617+00:00"
+    },
+    {
+      "title": "eli-labz/Cognitive-Core-Skills",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+      "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
+      "stars": 273,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-safety",
+        "artificial-intelligence",
+        "benchmarks",
+        "cognitive-architecture",
+        "json-schema",
+        "knowledge-graph",
+        "llm",
+        "machine-learning",
+        "prompt-engineering",
+        "schema",
+        "slm",
+        "taxonomy",
+        "world-models"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-05T23:22:11Z",
+      "summary": "eli-labz/Cognitive-Core-Skills 是一个面向 LLM、SLM、AI agent 和世界模型的通用认知核心技能分类体系，涵盖感知、记忆、推理、规划、行动、验证、学习、治理 8 大技能域。它解决当前 AI 系统缺乏标准化技能评估框架的问题，提供 159 张技能卡片、JSON schema 和 CI 基准测试。适用于 AI agent 能力评估、多 agent 协作设计、安全治理等场景。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "reasoning",
+        "multi-agent",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-09T01:55:25.604108+00:00"
+    },
+    {
+      "title": "xiaotianfotos/homerail",
+      "source": "github-trending",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "stars": 241,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T14:34:22Z",
+      "summary": "Homerail 是一个以语音为先的本地代理编排运行时，用于可审计的 DAG 工作流。它解决语音交互与复杂工作流自动化结合时的可追溯性和本地执行问题。核心技术亮点包括：基于 DAG 的工作流定义、语音驱动触发、本地运行保障隐私与低延迟、审计日志记录。适用场景：需要语音控制的本地自动化任务（如智能家居、个人助理）、对数据隐私敏感的工作流编排。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:27.853941+00:00"
+    },
+    {
+      "title": "CWS6206/EasyLastSkill",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/EasyLastSkill",
+      "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
+      "stars": 228,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T11:35:51Z",
+      "summary": "EasyLastSkill 是一个德语 Codex/Agent 技能，用于快速检索指定主题最近30天的信息，生成包含来源、相关性评分和不确定性的紧凑报告。它解决了信息时效性筛选与结构化摘要的问题，核心亮点在于自动限定时间窗口、集成评分机制和不确定性标注。适用场景包括德语新闻追踪、市场调研和事件监测。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-09T01:55:29.793651+00:00"
+    },
+    {
+      "title": "sunflower-of-parchman/codex-hygiene",
+      "source": "github-trending",
+      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+      "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "stars": 203,
+      "language": "Shell",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "developer-tools",
+        "mcp",
+        "token-usage"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T05:24:58Z",
+      "summary": "codex-hygiene 是一个针对 Codex Desktop 的审计与调优技能，用于监控和优化其上下文与工具使用表面。核心通过 Shell 脚本实现 token 用量追踪、上下文清理及 MCP 工具调用效率分析，解决 Codex 在长期对话中上下文膨胀和工具误用问题。技术亮点包括轻量级 token 审计机制和可插拔的 MCP 集成。适用于 Codex 重度用户、MCP 开发者及需要精细控制 AI 助手资源消耗的场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "mcp",
+        "ai-assistant",
+        "token-usage"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-09T01:55:32.419479+00:00"
+    },
+    {
+      "title": "OmarH-creator/Autonomous-Forge",
+      "source": "github-trending",
+      "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+      "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "stars": 203,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-09T01:48:15Z",
+      "summary": "Autonomous-Forge 是一个完全由 AI 构建和维护的自动化开源项目，旨在实现自我迭代的软件开发流程。它解决的核心问题是减少人工干预，让 AI 自主完成规划、编码、测试和持续改进。技术亮点在于其闭环的自我优化机制，利用 Python 实现全流程自动化。适用场景包括探索 AI 驱动的软件工程、自动化代码生成与维护实验。",
+      "tags": [
+        "code-generation",
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-09T01:55:34.512190+00:00"
+    },
+    {
+      "title": "wassermanproductions/motion-previs-studio",
+      "source": "github-trending",
+      "url": "https://github.com/wassermanproductions/motion-previs-studio",
+      "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stars": 185,
+      "language": "TypeScript",
+      "topics": [
+        "aiprevis",
+        "aivideocreation",
+        "previsualization"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T05:05:51Z",
+      "summary": "Motion Previs Studio 是一款开源桌面应用，用于 AI 电影制作中的运动、深度、姿态和摄像机移动预可视化。它解决传统电影预可视化流程中缺乏 AI 集成、工具碎片化的问题。核心技术亮点包括基于 TypeScript 构建的跨平台桌面应用，集成了 AI 驱动的运动预测、深度估计和姿态识别，支持实时摄像机路径规划。适用场景为电影制作、动画和虚拟制作的早期创意阶段，帮助导演和摄影师快速预览镜头效果。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:36.905191+00:00"
+    },
+    {
+      "title": "shlokkhemani/rabbithole",
+      "source": "github-trending",
+      "url": "https://github.com/shlokkhemani/rabbithole",
+      "description": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
+      "stars": 176,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T20:47:47Z",
+      "summary": "RabbitHole 是一个基于无限画布的学习工具，通过 MCP 服务器集成 Claude Code、Codex 等 AI 代理。核心解决用户在阅读文本时无法即时、结构化地探索知识分支的问题。技术亮点包括：选择文本即可触发 AI 问答，答案以文档节点形式在画布上展开，形成知识图谱。适用场景：AI 辅助学习、研究笔记整理、代码文档探索。",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:39.037981+00:00"
+    },
+    {
+      "title": "RennAkira/spicy-monopoly",
+      "source": "github-trending",
+      "url": "https://github.com/RennAkira/spicy-monopoly",
+      "description": "和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））",
+      "stars": 166,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-08T11:40:22Z",
+      "summary": "RennAkira/spicy-monopoly 是一个基于 Python 的双人棋盘游戏，玩家与 AI 对战，包含骰子、棋盘格和18+任务。核心亮点在于游戏逻辑完全由代码驱动，AI 作为对手参与互动，展示了将大语言模型集成到游戏场景中的轻量级实现。适用于娱乐、AI 交互实验或作为学习 AI 游戏开发的参考项目。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-09T01:55:41.220681+00:00"
+    },
+    {
+      "title": "yaojingang/TokHub",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/TokHub",
+      "description": "AI API 中转站监控、推荐运营与 OpenAI 兼容专属网关系统，支持分层探测、健康评分、用量计量、告警审计和 Docker 自托管。",
+      "stars": 165,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-09T01:02:35Z",
+      "summary": "TokHub 是一个 AI API 中转站监控与推荐运营系统，同时提供 OpenAI 兼容的专属网关。它解决多 API 提供商的可用性监控、健康评分、用量计量、告警审计及自托管部署问题。核心技术包括分层探测、健康评分算法、用量计量与告警审计，支持 Docker 自托管。适用于需要管理多个 AI API 端点、优化成本与可靠性的开发团队或运营平台。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-09T01:55:43.238498+00:00"
+    },
+    {
+      "title": "fendouai/humanize-text-skill",
+      "source": "github-trending",
+      "url": "https://github.com/fendouai/humanize-text-skill",
+      "description": "Free AI Humanizer: Humanize AI Text Online",
+      "stars": 160,
+      "language": "JavaScript",
+      "topics": [
+        "ai-humanize",
+        "humanize-ai",
+        "humanize-text",
+        "humanizer"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-07T13:31:42Z",
+      "summary": "该项目是一个基于JavaScript的AI文本人性化工具，旨在将AI生成的文本转化为更自然、类似人类写作的内容。核心功能通过算法调整AI文本的句式结构、词汇选择和语气，降低机器生成痕迹。适用于内容创作、学术写作、社交媒体等需要避免AI检测的场景。技术亮点在于轻量级实现和在线免费使用。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-07-09T01:55:45.333108+00:00"
+    },
+    {
+      "title": "davidpc007/openclaw-marketing-skills",
+      "source": "github-trending",
+      "url": "https://github.com/davidpc007/openclaw-marketing-skills",
+      "description": "openclaw marketing skills which ships 38 agent skills covering CRO, copywriting, SEO, paid ads, growth, and GTM",
+      "stars": 152,
+      "language": null,
+      "topics": [
+        "ai-marketing",
+        "ai-marketing-skills",
+        "ai-skills",
+        "marketing-skills",
+        "openclaw",
+        "openclaw-marketing",
+        "openclaw-skills"
+      ],
+      "collected_at": "2026-07-09T01:55:00.826161+00:00",
+      "published_at": "2026-07-06T07:46:03Z",
+      "summary": "openclaw-marketing-skills 是一个开源项目，提供 38 个预构建的 AI agent 技能，覆盖 CRO、文案撰写、SEO、付费广告、增长和 GTM 等营销领域。它解决了营销团队快速集成 AI 能力、自动化重复任务的问题。核心技术亮点是基于 agent 架构的技能模块化设计，每个技能独立可调用，支持灵活组合。适用场景包括营销自动化、内容生成、广告优化和增长策略执行。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-09T01:55:47.628061+00:00"
+    }
+  ]
+}

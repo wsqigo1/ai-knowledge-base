@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-09-005",
+  "title": "sunflower-of-parchman/codex-hygiene",
+  "source": "github-trending",
+  "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+  "summary": "codex-hygiene 是一个针对 Codex Desktop 的审计与调优技能，用于监控和优化其上下文与工具使用表面。核心通过 Shell 脚本实现 token 用量追踪、上下文清理及 MCP 工具调用效率分析，解决 Codex 在长期对话中上下文膨胀和工具误用问题。技术亮点包括轻量级 token 审计机制和可插拔的 MCP 集成。适用于 Codex 重度用户、MCP 开发者及需要精细控制 AI 助手资源消耗的场景。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "mcp",
+    "ai-assistant",
+    "token-usage"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-09T01:55:00.826161+00:00",
+  "analyzed_at": "2026-07-09T01:55:32.419479+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}

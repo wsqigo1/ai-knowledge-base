@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-09-017",
+  "title": "Rewriting Bun in Rust",
+  "source": "hackernews-top",
+  "url": "https://bun.com/blog/bun-in-rust",
+  "summary": "Bun 项目将其运行时核心从 Zig 重写为 Rust，以提升性能、安全性和生态兼容性。解决 Zig 在工具链成熟度、库生态和内存安全方面的短板。核心技术亮点包括利用 Rust 的零成本抽象和所有权模型优化 I/O 与并发，并复用现有 Rust 生态的 HTTP 解析、加密等库。适用于高性能 JavaScript/TypeScript 运行时、构建工具和包管理器的底层重构场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-09T01:55:01.000056+00:00",
+  "analyzed_at": "2026-07-09T01:56:11.190516+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-09-009",
+  "title": "Separating signal from noise in coding evaluations",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+  "summary": "本文探讨在编程能力评估中如何区分有效信号与噪声，解决当前代码评估指标易受数据泄露、题目记忆等因素干扰的问题。核心技术亮点包括提出基于过程而非结果的评估方法、引入对抗性测试集以及使用模型推理轨迹分析。适用场景为AI代码生成模型（如LLM）的基准测试设计、开发者工具质量评估及招聘技术面试优化。",
+  "tags": [
+    "code-generation",
+    "benchmark",
+    "large-language-model"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-09T01:55:01.000056+00:00",
+  "analyzed_at": "2026-07-09T01:55:51.792237+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}

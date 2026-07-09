@@ -1,0 +1,398 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-09T01:55:02.800595+00:00",
+  "date": "2026-07-09",
+  "count": 20,
+  "items": [
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "hn_url": "https://news.ycombinator.com/item?id=48838876",
+      "description": "",
+      "hn_score": 288,
+      "comments": 61,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "John Deere与FTC达成和解，允许农民自行维修设备，解决长期存在的“维修权”争议。核心技术亮点在于打破制造商对维修软件和诊断工具的控制，通过法律手段强制开放访问权限。适用场景为农业机械维修、消费者权益保护及开源硬件运动。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-09T01:55:49.486064+00:00"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "hn_url": "https://news.ycombinator.com/item?id=48837396",
+      "description": "",
+      "hn_score": 159,
+      "comments": 61,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "本文探讨在编程能力评估中如何区分有效信号与噪声，解决当前代码评估指标易受数据泄露、题目记忆等因素干扰的问题。核心技术亮点包括提出基于过程而非结果的评估方法、引入对抗性测试集以及使用模型推理轨迹分析。适用场景为AI代码生成模型（如LLM）的基准测试设计、开发者工具质量评估及招聘技术面试优化。",
+      "tags": [
+        "code-generation",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:51.792237+00:00"
+    },
+    {
+      "title": "Chatto is now open source",
+      "source": "hackernews-top",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "hn_url": "https://news.ycombinator.com/item?id=48833116",
+      "description": "",
+      "hn_score": 738,
+      "comments": 195,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Chatto 是一个开源的 AI 聊天界面，旨在解决开发者快速部署自定义对话助手的痛点。其核心技术亮点包括支持多模型后端（如 OpenAI、Anthropic）、可插拔的插件系统以及内置的对话历史管理。适用于需要快速搭建私有化或定制化聊天应用的场景。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:53.662163+00:00"
+    },
+    {
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "source": "hackernews-top",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "hn_url": "https://news.ycombinator.com/item?id=48832212",
+      "description": "",
+      "hn_score": 416,
+      "comments": 96,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Mistral发布Robostral Navigate，一个基于大语言模型的机器人导航模型，解决传统导航系统在复杂动态环境中泛化能力差的问题。核心技术亮点包括将LLM的推理能力与机器人运动控制结合，通过多模态感知输入（视觉、激光雷达）生成自适应导航策略，并利用强化学习优化路径规划。适用场景包括仓储物流、家庭服务及工业巡检等需要实时自主导航的机器人应用。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "agent",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:55.866962+00:00"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "source": "hackernews-top",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "hn_url": "https://news.ycombinator.com/item?id=48834924",
+      "description": "",
+      "hn_score": 204,
+      "comments": 75,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Microsoft 发布 Flint，一种专为 AI 智能体设计的可视化语言。它解决智能体行为逻辑难以直观理解和调试的问题，核心亮点是提供声明式可视化语法，将智能体决策流程、工具调用和状态转换映射为图形化表示，降低开发与协作门槛。适用场景包括多智能体系统设计、复杂工作流编排及 AI 应用原型快速迭代。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:55:58.035725+00:00"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "source": "hackernews-top",
+      "url": "https://www.cloudflare.com/drop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48836233",
+      "description": "",
+      "hn_score": 254,
+      "comments": 133,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Cloudflare Drop 是 Cloudflare 推出的一项服务，旨在解决用户向 Cloudflare 网络传输大量数据时的高成本和低效率问题。其核心技术亮点是提供一种优化的数据入站通道，利用 Cloudflare 的全球边缘网络和智能路由，显著降低数据传输延迟和成本。适用场景包括大规模数据迁移、实时数据同步、以及需要频繁向 Cloudflare 网络推送数据的应用，如 CDN 内容更新、AI 模型训练数据上传等。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-09T01:56:00.241751+00:00"
+    },
+    {
+      "title": "Grok 4.5",
+      "source": "hackernews-top",
+      "url": "https://x.ai/news/grok-4-5",
+      "hn_url": "https://news.ycombinator.com/item?id=48835111",
+      "description": "",
+      "hn_score": 476,
+      "comments": 592,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Grok 4.5 是 xAI 发布的最新大型语言模型，旨在提升推理能力和多模态理解。核心亮点包括增强的上下文窗口、更高效的推理机制以及改进的代码生成能力。适用于复杂问题求解、代码辅助和高级对话场景。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:56:01.960853+00:00"
+    },
+    {
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "source": "hackernews-top",
+      "url": "https://mira-wm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48839355",
+      "description": "",
+      "hn_score": 16,
+      "comments": 3,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "MIRA 是一个基于 Rocket League 游戏训练的多玩家交互世界模型，旨在解决多智能体环境中的动态交互预测与决策问题。核心技术亮点包括利用自监督学习从游戏回放数据中学习世界模型，支持多玩家协同与对抗场景的实时模拟。适用场景为游戏 AI、多智能体系统研究及交互式仿真训练。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-09T01:56:04.032994+00:00"
+    },
+    {
+      "title": "FAANG Simulator",
+      "source": "hackernews-top",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "hn_url": "https://news.ycombinator.com/item?id=48836778",
+      "description": "",
+      "hn_score": 280,
+      "comments": 110,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "FAANG Simulator 是一个模拟 FAANG（Facebook、Apple、Amazon、Netflix、Google）技术面试流程的开源项目，旨在帮助开发者通过实战练习提升面试表现。其核心亮点是提供真实面试场景的模拟，包括算法、系统设计、行为问题等环节，并集成自动评分与反馈机制。适用场景为准备大型科技公司面试的工程师，尤其适合自测薄弱环节和熟悉面试节奏。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-09T01:56:06.245671+00:00"
+    },
+    {
+      "title": "GPT‑Live",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "hn_url": "https://news.ycombinator.com/item?id=48834405",
+      "description": "",
+      "hn_score": 603,
+      "comments": 406,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "GPT-Live 是一个开源项目，旨在通过实时流式传输 GPT 模型的生成过程，解决传统 API 响应延迟高、用户体验割裂的问题。其核心技术亮点包括基于 Server-Sent Events (SSE) 的流式输出架构、低延迟 token 逐字推送机制，以及支持自定义回调函数以集成到现有应用。适用场景包括聊天机器人、实时内容生成、交互式编程助手等需要即时反馈的 AI 应用开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-09T01:56:08.870756+00:00"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "source": "hackernews-top",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "hn_url": "https://news.ycombinator.com/item?id=48837877",
+      "description": "",
+      "hn_score": 289,
+      "comments": 156,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Bun 项目将其运行时核心从 Zig 重写为 Rust，以提升性能、安全性和生态兼容性。解决 Zig 在工具链成熟度、库生态和内存安全方面的短板。核心技术亮点包括利用 Rust 的零成本抽象和所有权模型优化 I/O 与并发，并复用现有 Rust 生态的 HTTP 解析、加密等库。适用于高性能 JavaScript/TypeScript 运行时、构建工具和包管理器的底层重构场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:56:11.190516+00:00"
+    },
+    {
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "source": "hackernews-top",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "hn_url": "https://news.ycombinator.com/item?id=48838772",
+      "description": "",
+      "hn_score": 62,
+      "comments": 23,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "该文章对比了Grok 4.5、GPT-5.5和Claude在构建相同应用时的表现，旨在评估不同LLM在代码生成任务中的实际能力差异。核心亮点是通过统一应用场景（如Web应用、API集成）进行横向测试，揭示各模型在代码质量、逻辑一致性、工具调用等方面的优劣。适用场景为开发者选型参考及LLM能力基准测试。",
+      "tags": [
+        "code-generation",
+        "benchmark",
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-09T01:56:13.155398+00:00"
+    },
+    {
+      "title": "TypeScript 7",
+      "source": "hackernews-top",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48833715",
+      "description": "",
+      "hn_score": 469,
+      "comments": 181,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "TypeScript 7 是微软即将发布的主要版本，旨在解决大型项目中类型检查性能瓶颈和复杂类型推断问题。核心亮点包括引入更高效的增量编译架构、改进类型系统以支持更精确的泛型推导，以及优化与JavaScript生态的互操作性。适用场景为需要高类型安全性和开发效率的企业级前端/全栈项目，尤其适合微前端和大型代码库。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-09T01:56:15.259210+00:00"
+    },
+    {
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "source": "hackernews-top",
+      "url": "https://github.com/Rodiun/frugon",
+      "hn_url": "https://news.ycombinator.com/item?id=48816724",
+      "description": "",
+      "hn_score": 10,
+      "comments": 2,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Frugon 是一个本地运行的 MIT 开源工具，通过分析 LLM 调用日志，识别哪些请求可以被更便宜的模型处理，从而降低推理成本。核心亮点是使用轻量级分类器评估每次调用的复杂度，并给出替代模型建议。适用于需要优化 LLM 服务成本的开发团队或企业，尤其是高频调用场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-09T01:56:17.220035+00:00"
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "source": "hackernews-top",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "hn_url": "https://news.ycombinator.com/item?id=48829312",
+      "description": "",
+      "hn_score": 1301,
+      "comments": 208,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "分析Uniqlo T恤上印制的混淆bash脚本，揭示其实际功能与潜在风险。解决公众对流行文化中隐藏技术内容的识别与理解问题。核心技术亮点包括反混淆技术、shell脚本解析与安全审计。适用场景为安全研究、逆向工程与技术科普。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-09T01:56:19.154470+00:00"
+    },
+    {
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "hn_url": "https://news.ycombinator.com/item?id=48831565",
+      "description": "",
+      "hn_score": 219,
+      "comments": 45,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "Cloudflare Meerkat 是一个全球分布式共识协议，旨在解决传统共识算法（如 Paxos/Raft）在广域网场景下延迟高、吞吐低的问题。其核心创新在于结合了无领导（leaderless）的拜占庭容错（BFT）设计与地理感知的拓扑优化，通过将节点按区域分组并采用分层投票机制，在保证强一致性的同时将跨洲共识延迟降低至亚秒级。适用于需要全球一致性的 CDN 配置同步、跨区域数据库复制等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.9,
+      "analyzed_at": "2026-07-09T01:56:21.653263+00:00"
+    },
+    {
+      "title": "EU now one step away from reviving private message scanning rules",
+      "source": "hackernews-top",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "hn_url": "https://news.ycombinator.com/item?id=48834296",
+      "description": "",
+      "hn_score": 361,
+      "comments": 138,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "欧盟即将通过一项法规，允许对私人消息进行扫描以检测儿童性虐待材料（CSAM），引发隐私与安全争议。该规则要求消息服务提供商扫描端到端加密内容，可能破坏加密安全性。核心技术涉及客户端扫描与加密分析，但面临技术可行性与隐私保护平衡的挑战。适用场景包括儿童保护与执法监控，但可能影响用户隐私和加密通信的信任基础。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-09T01:56:23.825246+00:00"
+    },
+    {
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "source": "hackernews-top",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "hn_url": "https://news.ycombinator.com/item?id=48780387",
+      "description": "",
+      "hn_score": 380,
+      "comments": 131,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "EVE Online的Carbon引擎开源，旨在解决大型游戏引擎闭源导致的技术壁垒和社区创新受限问题。核心技术亮点包括分布式渲染、网络同步和模块化架构，适用于游戏开发、虚拟世界构建及实时3D应用场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-09T01:56:25.509003+00:00"
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "source": "hackernews-top",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "hn_url": "https://news.ycombinator.com/item?id=48833866",
+      "description": "",
+      "hn_score": 254,
+      "comments": 131,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "SWE-1.7 是一个开源软件工程基准测试，声称其最新版本在性能上接近 GPT-5.5 和 Opus 级别的智能。它通过更复杂的真实世界编程任务评估 AI 编码能力，核心亮点在于任务难度提升和评估标准更贴近实际开发场景。适用于衡量和对比大型语言模型在代码生成与调试方面的进展。",
+      "tags": [
+        "benchmark",
+        "code-generation",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-09T01:56:27.498147+00:00"
+    },
+    {
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "source": "hackernews-top",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "hn_url": "https://news.ycombinator.com/item?id=48831658",
+      "description": "",
+      "hn_score": 249,
+      "comments": 129,
+      "collected_at": "2026-07-09T01:55:01.000056+00:00",
+      "published_at": "2026-07-09T01:55:01.000056+00:00",
+      "summary": "OpenBSD 内核存在一个 use-after-free 漏洞，允许本地攻击者将权限提升至 root。该漏洞源于内存管理错误，在特定条件下释放后仍可被引用。核心亮点是发现并报告了该高危漏洞，推动系统安全加固。适用于 OpenBSD 系统管理员进行安全审计和补丁更新。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-07-09T01:56:29.302515+00:00"
+    }
+  ]
+}

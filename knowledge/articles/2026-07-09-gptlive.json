@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-09-016",
+  "title": "GPT‑Live",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/introducing-gpt-live/",
+  "summary": "GPT-Live 是一个开源项目，旨在通过实时流式传输 GPT 模型的生成过程，解决传统 API 响应延迟高、用户体验割裂的问题。其核心技术亮点包括基于 Server-Sent Events (SSE) 的流式输出架构、低延迟 token 逐字推送机制，以及支持自定义回调函数以集成到现有应用。适用场景包括聊天机器人、实时内容生成、交互式编程助手等需要即时反馈的 AI 应用开发。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-09T01:55:01.000056+00:00",
+  "analyzed_at": "2026-07-09T01:56:08.870756+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}

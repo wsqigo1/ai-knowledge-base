@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-09-013",
+  "title": "Cloudflare Drop",
+  "source": "hackernews-top",
+  "url": "https://www.cloudflare.com/drop/",
+  "summary": "Cloudflare Drop 是 Cloudflare 推出的一项服务，旨在解决用户向 Cloudflare 网络传输大量数据时的高成本和低效率问题。其核心技术亮点是提供一种优化的数据入站通道，利用 Cloudflare 的全球边缘网络和智能路由，显著降低数据传输延迟和成本。适用场景包括大规模数据迁移、实时数据同步、以及需要频繁向 Cloudflare 网络推送数据的应用，如 CDN 内容更新、AI 模型训练数据上传等。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-09T01:55:01.000056+00:00",
+  "analyzed_at": "2026-07-09T01:56:00.241751+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}

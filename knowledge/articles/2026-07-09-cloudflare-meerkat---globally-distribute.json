@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-09-021",
+  "title": "Cloudflare Meerkat - Globally distributed consensus",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/meerkat-introduction/",
+  "summary": "Cloudflare Meerkat 是一个全球分布式共识协议，旨在解决传统共识算法（如 Paxos/Raft）在广域网场景下延迟高、吞吐低的问题。其核心创新在于结合了无领导（leaderless）的拜占庭容错（BFT）设计与地理感知的拓扑优化，通过将节点按区域分组并采用分层投票机制，在保证强一致性的同时将跨洲共识延迟降低至亚秒级。适用于需要全球一致性的 CDN 配置同步、跨区域数据库复制等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.9,
+  "collected_at": "2026-07-09T01:55:01.000056+00:00",
+  "analyzed_at": "2026-07-09T01:56:21.653263+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}

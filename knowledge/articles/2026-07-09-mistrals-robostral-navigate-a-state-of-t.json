@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-09-011",
+  "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+  "source": "hackernews-top",
+  "url": "https://mistral.ai/news/robostral-navigate/",
+  "summary": "Mistral发布Robostral Navigate，一个基于大语言模型的机器人导航模型，解决传统导航系统在复杂动态环境中泛化能力差的问题。核心技术亮点包括将LLM的推理能力与机器人运动控制结合，通过多模态感知输入（视觉、激光雷达）生成自适应导航策略，并利用强化学习优化路径规划。适用场景包括仓储物流、家庭服务及工业巡检等需要实时自主导航的机器人应用。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "agent",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-09T01:55:01.000056+00:00",
+  "analyzed_at": "2026-07-09T01:55:55.866962+00:00",
+  "organized_at": "2026-07-09T01:56:29.328746+00:00",
+  "status": "published"
+}
