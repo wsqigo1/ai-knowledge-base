@@ -1,7 +1,214 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1012,
+  "total_count": 1026,
   "entries": [
+    {
+      "id": "kb-2026-07-10-001",
+      "title": "ronak-create/FableCut",
+      "source": "github-trending",
+      "url": "https://github.com/ronak-create/FableCut",
+      "file": "2026-07-10-ronak-createfablecut.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "mcp"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-002",
+      "title": "fendouai/humanize-text-skill",
+      "source": "github-trending",
+      "url": "https://github.com/fendouai/humanize-text-skill",
+      "file": "2026-07-10-fendouaihumanize-text-skill.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-003",
+      "title": "bkingfilm/lapian-notes",
+      "source": "github-trending",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "file": "2026-07-10-bkingfilmlapian-notes.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-004",
+      "title": "angieruiz17/codex-gpt-plugin",
+      "source": "github-trending",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "file": "2026-07-10-angieruiz17codex-gpt-plugin.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-005",
+      "title": "ninjahawk/Subtext",
+      "source": "github-trending",
+      "url": "https://github.com/ninjahawk/Subtext",
+      "file": "2026-07-10-ninjahawksubtext.json",
+      "tags": [
+        "large-language-model",
+        "mechanistic-interpretability",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-006",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "source": "hackernews-top",
+      "url": "https://github.com/JustVugg/colibri",
+      "file": "2026-07-10-show-hn-getting-glm-52-running-on-my-slo.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-007",
+      "title": "GPT-5.6",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "file": "2026-07-10-gpt-56.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "reasoning",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 8.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-008",
+      "title": "Show HN: 18 Words",
+      "source": "hackernews-top",
+      "url": "https://18words.com/",
+      "file": "2026-07-10-show-hn-18-words.json",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-009",
+      "title": "Hy3",
+      "source": "hackernews-top",
+      "url": "https://hy.tencent.com/research/hy3",
+      "file": "2026-07-10-hy3.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-010",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "source": "hackernews-top",
+      "url": "https://github.com/malisper/pgrust",
+      "file": "2026-07-10-postgres-rewritten-in-rust-now-passing-1.json",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-011",
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "source": "hackernews-top",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "file": "2026-07-10-girls-just-wanna-have-fast-mpmc-queues-w.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-012",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "source": "hackernews-top",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "file": "2026-07-10-building-a-real-time-ai-tutor-for-5-year.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "real-time",
+        "education"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-013",
+      "title": "Muse Spark 1.1",
+      "source": "hackernews-top",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "file": "2026-07-10-muse-spark-11.json",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
+    {
+      "id": "kb-2026-07-10-014",
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "source": "hackernews-top",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "file": "2026-07-10-glm-52-is-nearly-as-accurate-as-a-human-.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-10T01:54:23.575502+00:00"
+    },
     {
       "id": "kb-2026-07-09-001",
       "title": "op7418/guizang-material-illustration",
@@ -15022,5 +15229,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-07-09T01:56:29.440299+00:00"
+  "last_updated": "2026-07-10T01:54:23.659662+00:00"
 }

@@ -1,0 +1,390 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-10T01:53:01.186199+00:00",
+  "date": "2026-07-10",
+  "count": 20,
+  "items": [
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "source": "hackernews-top",
+      "url": "https://github.com/JustVugg/colibri",
+      "hn_url": "https://news.ycombinator.com/item?id=48842459",
+      "description": "",
+      "hn_score": 383,
+      "comments": 101,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "该项目展示了在低性能计算机上运行GLM 5.2大语言模型的方法。解决资源受限设备无法部署大型模型的问题。核心技术亮点包括模型量化、内存优化和推理加速。适用场景为个人开发者或边缘设备上的本地AI推理。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-10T01:53:42.839060+00:00"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "source": "hackernews-top",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "hn_url": "https://news.ycombinator.com/item?id=48843923",
+      "description": "",
+      "hn_score": 996,
+      "comments": 479,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "欧盟议会通过了Chat Control 1.0法规，要求通信平台扫描用户消息以检测儿童性虐待材料（CSAM）。该法规解决了加密通信中非法内容检测的技术与隐私矛盾，核心亮点是强制实施客户端扫描（client-side scanning）技术，在消息加密前进行内容分析。适用场景为政府监管与平台合规，但引发了对端到端加密（E2EE）和用户隐私的广泛争议。",
+      "tags": [
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-10T01:53:45.146512+00:00"
+    },
+    {
+      "title": "GPT-5.6",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "hn_url": "https://news.ycombinator.com/item?id=48849066",
+      "description": "",
+      "hn_score": 1067,
+      "comments": 779,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "GPT-5.6 是 OpenAI 最新发布的大型语言模型迭代版本，旨在解决前代模型在复杂推理、多模态融合和长上下文处理上的不足。核心技术亮点包括改进的稀疏注意力机制、动态上下文扩展至 256K tokens，以及增强的多模态对齐能力。适用场景涵盖高级代码生成、多步骤推理任务、企业级知识库问答及跨模态内容创作。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "reasoning",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-07-10T01:53:47.357278+00:00"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "source": "hackernews-top",
+      "url": "https://18words.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48845049",
+      "description": "",
+      "hn_score": 824,
+      "comments": 284,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "18 Words 是一个基于大语言模型的文字游戏，通过限制用户仅使用18个单词进行描述，测试并提升LLM的推理与表达能力。核心亮点在于利用prompt-engineering设计简洁有效的交互规则，迫使模型在有限词汇下精准理解并生成内容。适用于AI交互设计研究、语言模型评估及创意写作场景。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-10T01:53:49.364207+00:00"
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "source": "hackernews-top",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "hn_url": "https://news.ycombinator.com/item?id=48792383",
+      "description": "",
+      "hn_score": 289,
+      "comments": 113,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "一篇关于单人开发的火车模拟游戏获得社区高度评价的报道。该游戏解决了传统火车模拟游戏开发周期长、成本高的问题，通过单人开发者利用现代游戏引擎和程序化生成技术，实现了高保真度、动态天气系统和复杂铁路网络模拟。核心技术亮点包括程序化地形生成、物理精确的列车动力学模型以及模块化资产设计。适用场景为游戏开发技术研究、程序化生成技术应用案例以及独立游戏开发者的技术参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-10T01:53:51.829788+00:00"
+    },
+    {
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "source": "hackernews-top",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "hn_url": "https://news.ycombinator.com/item?id=48849292",
+      "description": "",
+      "hn_score": 120,
+      "comments": 46,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "Mitchell Hashimoto（HashiCorp 创始人）在访谈中讨论其新终端模拟器 Ghostty 为何选择 Zig 语言开发。核心亮点：利用 Zig 的编译时计算和内存安全特性实现高性能终端渲染，解决传统终端模拟器（如 iTerm2、Alacritty）在跨平台一致性和资源占用上的痛点。适用场景：开发者工具领域，尤其关注系统级应用开发与 Zig 语言实践。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-10T01:53:53.963167+00:00"
+    },
+    {
+      "title": "Hy3",
+      "source": "hackernews-top",
+      "url": "https://hy.tencent.com/research/hy3",
+      "hn_url": "https://news.ycombinator.com/item?id=48847552",
+      "description": "",
+      "hn_score": 388,
+      "comments": 83,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "Hy3 是一个开源项目，旨在解决 AI 模型在复杂推理任务中的效率与准确性平衡问题。其核心技术亮点在于引入混合推理架构，结合符号逻辑与神经网络，实现可解释的逐步推理。适用于需要高可靠性推理的领域，如代码生成、数学证明和自动化决策系统。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-10T01:53:55.737359+00:00"
+    },
+    {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "source": "hackernews-top",
+      "url": "https://github.com/malisper/pgrust",
+      "hn_url": "https://news.ycombinator.com/item?id=48841676",
+      "description": "",
+      "hn_score": 380,
+      "comments": 395,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "该项目将Postgres数据库用Rust重写，并已通过100%的Postgres回归测试。它解决了C语言实现的内存安全和并发问题，同时保持与Postgres的SQL兼容性。核心技术亮点是利用Rust的所有权模型和类型系统消除内存错误，并通过异步运行时提升并发性能。适用场景包括需要高可靠性和高性能的数据库服务，以及对内存安全有严格要求的云原生环境。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-10T01:53:57.727719+00:00"
+    },
+    {
+      "title": "Triple Dragon Fractal (2020)",
+      "source": "hackernews-top",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "hn_url": "https://news.ycombinator.com/item?id=48804400",
+      "description": "",
+      "hn_score": 12,
+      "comments": 3,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "Triple Dragon Fractal 是一个基于分形几何的图形生成项目，旨在通过递归算法创建具有自相似性的复杂视觉图案。它解决了传统分形生成中计算效率低和模式单一的问题，采用三重龙形曲线迭代规则，结合颜色映射和缩放控制，生成高细节的数学艺术图像。适用于数据可视化、艺术创作和分形教学场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-07-10T01:53:59.821311+00:00"
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "source": "hackernews-top",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "hn_url": "https://news.ycombinator.com/item?id=48846281",
+      "description": "",
+      "hn_score": 237,
+      "comments": 181,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "国际地球自转服务局(IERS)宣布2026年12月底不会引入闰秒，这是对现行闰秒制度的延续调整。该决策解决了闰秒对依赖精确时间同步的计算机系统（如金融交易、通信网络）造成的潜在故障风险。核心亮点在于IERS基于地球自转长期趋势的监测数据，维持了当前不引入闰秒的稳定状态。适用场景包括时间敏感型分布式系统、卫星导航、高频交易等需要避免时间跳变的领域。",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-10T01:54:02.305954+00:00"
+    },
+    {
+      "title": "A road to Lisp: Why Lisp",
+      "source": "hackernews-top",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "hn_url": "https://news.ycombinator.com/item?id=48845209",
+      "description": "",
+      "hn_score": 114,
+      "comments": 109,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "文章探讨为何学习Lisp，解决程序员对Lisp的认知障碍和入门动机问题。核心技术亮点包括Lisp的宏系统、同像性、REPL交互式开发及函数式编程范式。适用场景为希望深入理解编程语言本质、提升抽象思维能力的开发者。",
+      "tags": [
+        "code-generation",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-10T01:54:04.121613+00:00"
+    },
+    {
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "source": "hackernews-top",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "hn_url": "https://news.ycombinator.com/item?id=48845442",
+      "description": "",
+      "hn_score": 292,
+      "comments": 383,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "这篇文章讨论美国陆军后勤系统在下一场战争中可能崩溃的问题，核心原因是其依赖脆弱的光纤骨干网络。它指出当前后勤体系过于集中化、缺乏弹性，无法应对对手的电子战和物理破坏。技术亮点在于分析网络拓扑与军事后勤的耦合关系，以及提出分布式、冗余设计的必要性。适用场景为军事技术分析、基础设施韧性研究及系统架构设计。",
+      "tags": [
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-07-10T01:54:06.481025+00:00"
+    },
+    {
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "source": "hackernews-top",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "hn_url": "https://news.ycombinator.com/item?id=48809574",
+      "description": "",
+      "hn_score": 137,
+      "comments": 31,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "本文介绍一种高性能多生产者多消费者（MPMC）无锁队列实现，核心解决传统并发队列在高竞争场景下的延迟波动与有界等待问题。技术亮点包括基于内存屏障的细粒度同步、批量入队/出队优化以及等待边界保证机制，适用于实时系统、网络中间件等低延迟场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-10T01:54:09.096009+00:00"
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "source": "hackernews-top",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "hn_url": "https://news.ycombinator.com/item?id=48852199",
+      "description": "",
+      "hn_score": 38,
+      "comments": 53,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "该项目构建了一个面向5岁儿童的实时AI辅导系统，解决传统教育中个性化互动不足的问题。核心技术亮点包括结合语音识别、多模态交互（图像+语音）和轻量级LLM推理，实现低延迟实时反馈。适用场景为幼儿启蒙教育，如语言学习、基础数学和认知训练。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "real-time",
+        "education"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-10T01:54:11.054080+00:00"
+    },
+    {
+      "title": "A possible future for Damn Interesting",
+      "source": "hackernews-top",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "hn_url": "https://news.ycombinator.com/item?id=48847511",
+      "description": "",
+      "hn_score": 233,
+      "comments": 29,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "Damn Interesting 网站探讨其未来发展方向，可能涉及内容平台转型或技术升级。该条目解决经典内容网站如何适应现代技术生态的问题。核心亮点在于社区讨论其潜在的技术重构或内容策略调整。适用场景为关注内容平台技术演进和社区运营的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-10T01:54:12.933035+00:00"
+    },
+    {
+      "title": "Muse Spark 1.1",
+      "source": "hackernews-top",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "hn_url": "https://news.ycombinator.com/item?id=48846184",
+      "description": "",
+      "hn_score": 325,
+      "comments": 171,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "Muse Spark 1.1 是一个开源的多模态 AI 推理框架，旨在解决复杂任务中跨模态数据（文本、图像、音频）的高效协同推理问题。其核心技术亮点包括基于稀疏注意力机制的动态模态融合模块，以及支持实时流式处理的轻量级推理引擎。适用于智能客服、多模态内容生成和实时数据分析场景。",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-10T01:54:14.956556+00:00"
+    },
+    {
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "source": "hackernews-top",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "hn_url": "https://news.ycombinator.com/item?id=48803004",
+      "description": "",
+      "hn_score": 270,
+      "comments": 165,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "苹果iPhone内置的“屏幕使用时间”功能可被配置为将手机转变为功能受限的儿童“傻瓜机”。通过限制应用访问、禁用浏览器和设置通信白名单，该功能解决了儿童过度使用智能手机的问题。核心技术亮点是利用系统级家长控制API实现深度功能限制，无需额外硬件。适用场景为家长希望为儿童提供安全、低干扰的通信设备。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-10T01:54:17.384544+00:00"
+    },
+    {
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "source": "hackernews-top",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "hn_url": "https://news.ycombinator.com/item?id=48850414",
+      "description": "",
+      "hn_score": 186,
+      "comments": 111,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "GLM 5.2是一个开源大语言模型，在记账任务上达到接近人类水平的准确率。它解决了传统记账依赖人工、效率低且易出错的问题。核心技术亮点包括针对财务领域优化的训练数据和推理策略，以及高精度的数值计算能力。适用场景包括企业财务记账、审计辅助和自动化账务处理。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-10T01:54:19.380162+00:00"
+    },
+    {
+      "title": "TLS certificates for internal services done right",
+      "source": "hackernews-top",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "hn_url": "https://news.ycombinator.com/item?id=48846995",
+      "description": "",
+      "hn_score": 132,
+      "comments": 94,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "该项目探讨如何为内部服务正确配置TLS证书，解决自签名证书管理混乱、浏览器不信任等问题。核心技术亮点包括使用私有CA（Certificate Authority）签发证书、自动化证书轮换、以及通过DNS或IP验证确保安全性。适用场景为微服务架构、内部API通信、开发/测试环境中的安全连接。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-07-10T01:54:21.368361+00:00"
+    },
+    {
+      "title": "Opinionated and easy Pi.dev configuration",
+      "source": "hackernews-top",
+      "url": "https://lazypi.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48847407",
+      "description": "",
+      "hn_score": 109,
+      "comments": 61,
+      "collected_at": "2026-07-10T01:53:00.113005+00:00",
+      "published_at": "2026-07-10T01:53:00.113005+00:00",
+      "summary": "Opinionated and easy Pi.dev configuration 是一个针对 Raspberry Pi 设备的配置管理工具，旨在简化设备设置流程。它通过提供预设的、固执己见的配置模板，解决用户手动配置复杂、易出错的问题。核心技术亮点包括自动化环境检测、一键应用配置以及错误回滚机制。适用场景为需要快速部署或批量管理 Raspberry Pi 的开发者和爱好者，尤其适合 IoT 项目或边缘计算环境。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-10T01:54:23.541687+00:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-10-010",
+  "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+  "source": "hackernews-top",
+  "url": "https://github.com/malisper/pgrust",
+  "summary": "该项目将Postgres数据库用Rust重写，并已通过100%的Postgres回归测试。它解决了C语言实现的内存安全和并发问题，同时保持与Postgres的SQL兼容性。核心技术亮点是利用Rust的所有权模型和类型系统消除内存错误，并通过异步运行时提升并发性能。适用场景包括需要高可靠性和高性能的数据库服务，以及对内存安全有严格要求的云原生环境。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-10T01:53:00.113005+00:00",
+  "analyzed_at": "2026-07-10T01:53:57.727719+00:00",
+  "organized_at": "2026-07-10T01:54:23.575502+00:00",
+  "status": "published"
+}
