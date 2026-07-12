@@ -1,0 +1,376 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-12T01:44:32.008175+00:00",
+  "date": "2026-07-12",
+  "count": 20,
+  "items": [
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "source": "hackernews-top",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "hn_url": "https://news.ycombinator.com/item?id=48876505",
+      "description": "",
+      "hn_score": 86,
+      "comments": 22,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "Mesh LLM 是一个基于 iroh 构建的分布式 AI 计算项目，旨在解决大模型推理和训练中的单点资源瓶颈与中心化依赖问题。其核心技术亮点是利用 iroh 的去中心化网络与数据同步能力，实现 LLM 任务在多个节点间的动态分发与协作计算，支持模型分片和推理结果聚合。适用场景包括边缘计算、隐私敏感型 AI 应用以及需要高可用性的分布式推理服务。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-12T01:45:12.781505+00:00"
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "source": "hackernews-top",
+      "url": "https://antjs.org",
+      "hn_url": "https://news.ycombinator.com/item?id=48875377",
+      "description": "",
+      "hn_score": 176,
+      "comments": 77,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "Ant 是一个全新的 JavaScript 运行时和生态系统，旨在解决现有运行时（如 Node.js、Deno）在性能、兼容性和工具链方面的碎片化问题。其核心技术亮点包括基于 V8 引擎的优化、原生支持 TypeScript 和 JSX、内置包管理器与构建工具，以及兼容 npm 生态。适用场景为现代 Web 应用开发、微服务架构和 CLI 工具构建。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:14.578125+00:00"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "source": "hackernews-top",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "hn_url": "https://news.ycombinator.com/item?id=48873836",
+      "description": "",
+      "hn_score": 156,
+      "comments": 56,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "本文揭露GPU算力繁荣背后的循环融资模式：Nvidia通过投资CoreWeave、Nebius等云服务商，要求其采购Nvidia GPU，再以这些采购合同作为抵押获得银行贷款，形成资金闭环。核心亮点是揭示这种金融工程如何放大算力泡沫，以及云服务商如何通过租赁GPU给AI公司获利。适用场景：AI基础设施投资分析、GPU供应链风险研究。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-12T01:45:16.627209+00:00"
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "source": "hackernews-top",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "hn_url": "https://news.ycombinator.com/item?id=48872874",
+      "description": "",
+      "hn_score": 180,
+      "comments": 36,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "PgBouncer是PostgreSQL连接池，解决高并发下数据库连接数瓶颈问题。核心技术亮点：通过优化内部锁机制、减少内存拷贝和批量处理请求，将吞吐量提升4倍。适用场景：需要处理大量数据库连接的高并发Web应用、微服务架构。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:18.050908+00:00"
+    },
+    {
+      "title": "Prefer strict tables in SQLite",
+      "source": "hackernews-top",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48873940",
+      "description": "",
+      "hn_score": 218,
+      "comments": 108,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "SQLite的strict tables特性强制列类型严格匹配，解决弱类型导致的隐式类型转换和数据一致性问题。核心亮点包括：声明STRICT关键字后，插入数据时类型不匹配直接报错而非自动转换，提升数据完整性；兼容现有语法，仅需在CREATE TABLE末尾添加STRICT。适用于需要强类型约束的嵌入式数据库场景，如金融记录、配置存储等。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-07-12T01:45:20.026921+00:00"
+    },
+    {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "source": "hackernews-top",
+      "url": "https://shipthatcode.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48871973",
+      "description": "",
+      "hn_score": 126,
+      "comments": 35,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "该项目通过从零构建Redis、Git和数据库，帮助开发者深入理解这些核心系统的底层原理。它提供逐步教程和代码实现，解决理论学习与实践脱节的问题。核心技术亮点包括模拟内存存储、版本控制机制和SQL引擎的简化实现。适用于希望提升系统设计能力的后端工程师和学生。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:21.855938+00:00"
+    },
+    {
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "hn_url": "https://news.ycombinator.com/item?id=48873692",
+      "description": "",
+      "hn_score": 253,
+      "comments": 87,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "一名美国女性划船者完成从加州到夏威夷的独行划船旅程，创下历史记录。该事件解决人类极限挑战与海洋探险问题，核心亮点在于单人划船穿越太平洋的耐力与导航技术，无直接AI/LLM技术关联。适用场景为体育成就与人类耐力研究。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-12T01:45:23.579846+00:00"
+    },
+    {
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "source": "hackernews-top",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48876593",
+      "description": "",
+      "hn_score": 102,
+      "comments": 55,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "这是一项关于运动类型对血糖控制影响的研究，发现举重（抗阻训练）比跑步（有氧训练）更有效。研究通过对比不同运动方式下的血糖变化，揭示了抗阻训练在改善胰岛素敏感性和血糖调节方面的独特优势。核心技术亮点在于比较了运动类型对代谢的差异化影响。适用场景为健康管理、运动科学和糖尿病预防领域。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-12T01:45:25.376305+00:00"
+    },
+    {
+      "title": "Rep. Ro Khanna was detained by Israeli settlers in occupied West Bank",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
+      "hn_url": "https://news.ycombinator.com/item?id=48877421",
+      "description": "",
+      "hn_score": 8,
+      "comments": 3,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "该条目报道美国众议员Ro Khanna在约旦河西岸被以色列定居者拘留的事件，属于政治新闻，不涉及任何AI/LLM技术内容。核心事件是政治人物在争议地区的遭遇，无技术问题解决、无核心技术亮点、无适用场景。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-07-12T01:45:26.736252+00:00"
+    },
+    {
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "source": "hackernews-top",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "hn_url": "https://news.ycombinator.com/item?id=48875342",
+      "description": "",
+      "hn_score": 10,
+      "comments": 0,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "Sqlsure 是一个开源工具，为 AI 生成的 SQL 提供确定性语义检查。它解决 AI 模型生成 SQL 时可能存在的逻辑错误、安全风险或语义不一致问题。核心技术亮点包括基于静态分析的语义验证、规则引擎与确定性检查机制，确保 SQL 的正确性与安全性。适用场景为 AI 辅助数据库查询、自动化数据管道及需要高可靠性的 SQL 生成任务。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:28.530077+00:00"
+    },
+    {
+      "title": "How to hide from killer drones",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "hn_url": "https://news.ycombinator.com/item?id=48874357",
+      "description": "",
+      "hn_score": 103,
+      "comments": 130,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "文章探讨如何通过物理伪装、信号干扰和热遮蔽技术躲避无人机追踪，核心解决军事/安全场景下的反侦察需求。亮点包括低成本热反射材料应用和AI驱动的规避路径规划，适用于战场生存或隐私保护场景。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-12T01:45:30.060382+00:00"
+    },
+    {
+      "title": "Book: RISC-V System-on-Chip Design",
+      "source": "hackernews-top",
+      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+      "hn_url": "https://news.ycombinator.com/item?id=48841348",
+      "description": "",
+      "hn_score": 110,
+      "comments": 47,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "《RISC-V System-on-Chip Design》是一本关于基于RISC-V架构的片上系统设计的书籍。它解决了从零开始构建RISC-V SoC的完整流程问题，涵盖处理器核心集成、总线架构、外设设计及验证方法。核心技术亮点包括RTL设计实战、开源工具链使用和FPGA原型验证。适用场景为硬件工程师、芯片设计初学者及RISC-V生态开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.6,
+      "analyzed_at": "2026-07-12T01:45:31.958641+00:00"
+    },
+    {
+      "title": "Stop Telling Me to Ask an LLM",
+      "source": "hackernews-top",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48876441",
+      "description": "",
+      "hn_score": 161,
+      "comments": 86,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "文章批判了当前AI社区中过度依赖LLM作为万能解决方案的倾向，指出其在实际应用中存在的幻觉、成本高、不可解释等问题。核心亮点是提出应回归问题本质，优先使用传统算法或规则方法，仅在必要时引入LLM。适用场景包括系统架构设计、技术选型决策和AI产品开发中的务实评估。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-12T01:45:33.816278+00:00"
+    },
+    {
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "source": "hackernews-top",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "hn_url": "https://news.ycombinator.com/item?id=48873855",
+      "description": "",
+      "hn_score": 92,
+      "comments": 52,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "本文提出“反向半人马”（Reverse centaurs）概念，即人类监督AI系统而非AI辅助人类，以解决AI发展中的控制与效率悖论。核心是构建人类在环中的反馈机制，确保AI自主决策时保持安全边界。适用于高风险AI部署场景，如医疗诊断、自动驾驶等需要人类最终审核的领域。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:35.542267+00:00"
+    },
+    {
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "source": "hackernews-top",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "hn_url": "https://news.ycombinator.com/item?id=48865903",
+      "description": "",
+      "hn_score": 51,
+      "comments": 28,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "文章探讨AI在理解经典游戏《Thrust》物理机制上的局限性，指出当前AI无法完全复现游戏核心逻辑，但能辅助人类分析其物理引擎和代码结构。核心亮点是揭示AI在复杂物理模拟中的能力边界，并展示如何利用AI进行代码解释和算法理解。适用场景包括游戏开发教育、AI能力评估及逆向工程学习。",
+      "tags": [
+        "code-generation",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-12T01:45:37.529412+00:00"
+    },
+    {
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "source": "hackernews-top",
+      "url": "https://www.mixfont.com/ghost-font",
+      "hn_url": "https://news.ycombinator.com/item?id=48870381",
+      "description": "",
+      "hn_score": 193,
+      "comments": 144,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "Ghost Font 是一种专为人类可读但 AI 难以识别而设计的字体。它通过引入微小的、对人眼不明显的字形扰动，破坏 OCR 和视觉语言模型的识别能力，同时保持人类阅读的清晰度。核心亮点在于利用人类视觉感知与 AI 特征提取的差异，实现对抗性字体设计。适用场景包括验证码、隐私保护、反爬虫及对抗 AI 图像识别。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-12T01:45:39.474629+00:00"
+    },
+    {
+      "title": "AI 2040 and the cult of intelligence",
+      "source": "hackernews-top",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48874200",
+      "description": "",
+      "hn_score": 181,
+      "comments": 217,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "探讨AI在2040年的发展轨迹，批判“智能崇拜”现象——即过度神化AI能力而忽视其局限性。核心问题在于当前AI研究对通用智能的盲目追求可能导致资源错配与伦理风险。技术亮点在于提出“情境智能”概念，强调AI应适配具体场景而非追求全能。适用场景：AI战略规划、技术伦理讨论、长期技术趋势分析。",
+      "tags": [
+        "reasoning",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-12T01:45:41.184173+00:00"
+    },
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "source": "hackernews-top",
+      "url": "https://github.com/JustVugg/colibri",
+      "hn_url": "https://news.ycombinator.com/item?id=48842459",
+      "description": "",
+      "hn_score": 890,
+      "comments": 230,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "该文章介绍如何在低性能计算机上运行GLM 5.2模型，通过模型量化、内存优化和推理加速技术，解决资源受限设备无法运行大模型的问题。核心亮点包括使用4-bit量化降低显存占用、CPU offloading技术平衡内存与速度，以及针对GLM架构的推理优化。适用于个人开发者、教育场景或边缘设备上的本地化AI推理。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:42.977758+00:00"
+    },
+    {
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+      "hn_url": "https://news.ycombinator.com/item?id=48875371",
+      "description": "",
+      "hn_score": 7,
+      "comments": 0,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "这篇报道指出，AI领域高收入从业者涌入旧金山，推高了当地房价。文章核心是分析AI行业财富效应如何传导至房地产市场，而非解决具体技术问题。技术亮点在于揭示了AI产业集中化对区域经济的直接影响。适用场景为经济趋势分析、城市规划和房地产投资决策参考。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-12T01:45:44.579027+00:00"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "source": "hackernews-top",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "hn_url": "https://news.ycombinator.com/item?id=48861717",
+      "description": "",
+      "hn_score": 726,
+      "comments": 230,
+      "collected_at": "2026-07-12T01:44:29.849604+00:00",
+      "published_at": "2026-07-12T01:44:29.849604+00:00",
+      "summary": "QuadRF是一种基于射频信号分析的系统，能够探测无人机并穿透墙壁识别WiFi活动。它通过分析无线信号的物理层特征（如信号强度、多径效应）来区分无人机和常规设备，并利用信号反射实现穿墙感知。核心技术包括射频指纹识别和信号处理算法。适用于安防监控、隐私保护及无线网络管理场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-12T01:45:46.364896+00:00"
+    }
+  ]
+}

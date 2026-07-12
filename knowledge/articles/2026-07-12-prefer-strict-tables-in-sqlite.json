@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-12-013",
+  "title": "Prefer strict tables in SQLite",
+  "source": "hackernews-top",
+  "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+  "summary": "SQLite的strict tables特性强制列类型严格匹配，解决弱类型导致的隐式类型转换和数据一致性问题。核心亮点包括：声明STRICT关键字后，插入数据时类型不匹配直接报错而非自动转换，提升数据完整性；兼容现有语法，仅需在CREATE TABLE末尾添加STRICT。适用于需要强类型约束的嵌入式数据库场景，如金融记录、配置存储等。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-07-12T01:44:29.849604+00:00",
+  "analyzed_at": "2026-07-12T01:45:20.026921+00:00",
+  "organized_at": "2026-07-12T01:45:46.391217+00:00",
+  "status": "published"
+}

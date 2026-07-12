@@ -1,0 +1,502 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-12T01:44:32.007712+00:00",
+  "date": "2026-07-12",
+  "count": 20,
+  "items": [
+    {
+      "title": "op7418/guizang-material-illustration",
+      "source": "github-trending",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "stars": 559,
+      "language": null,
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration",
+        "image-generation",
+        "material-illustration",
+        "skill",
+        "social-media"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-07T18:13:06Z",
+      "summary": "归藏的材质插画是一个基于Claude Code/Codex的AI Agent项目，专注于生成带文字解释的图表、美化现有图表和辅助配图。核心亮点在于将LLM的代码生成能力与图表可视化结合，通过Agent自动调用绘图库（如Matplotlib）生成美观的材质风格插画，并支持中文解释。适用于数据报告美化、教学配图、快速原型设计等场景，降低非设计师用户制作专业图表的技术门槛。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "chart-visualization",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-12T01:44:34.059185+00:00"
+    },
+    {
+      "title": "xiaotianfotos/homerail",
+      "source": "github-trending",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "stars": 448,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-12T01:19:21Z",
+      "summary": "Homerail 是一个基于语音驱动的本地代理编排运行时，专注于构建可审计的 DAG 工作流。它解决了传统工作流引擎缺乏语音交互和审计追踪的问题，核心亮点在于将语音指令与有向无环图（DAG）工作流结合，支持本地运行以保障数据隐私。适用于需要语音控制、流程可追溯的自动化场景，如智能家居、个人任务管理。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:44:35.932273+00:00"
+    },
+    {
+      "title": "nexu-io/motion-anything",
+      "source": "github-trending",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "stars": 392,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "animation",
+        "claude",
+        "design-tools",
+        "figma-motion-alternative",
+        "motion-design",
+        "motion-graphics",
+        "webgl"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-07T06:47:46Z",
+      "summary": "Motion-Anything 是一个开源、聊天原生的动效引擎，通过自然语言描述情感或动作，AI 自动生成对应动画。它解决了传统动效设计工具（如 Figma）需要手动调整参数、门槛高的问题。核心技术基于 agentic 架构，结合 Claude 等 LLM 理解用户意图并映射为动画指令。适用于 UI/UX 设计、交互原型、游戏动效等场景，降低动效创作门槛。",
+      "tags": [
+        "ai-agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:44:38.009363+00:00"
+    },
+    {
+      "title": "ronak-create/FableCut",
+      "source": "github-trending",
+      "url": "https://github.com/ronak-create/FableCut",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "stars": 339,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "canvas",
+        "claude",
+        "ffmpeg",
+        "javascript",
+        "llm",
+        "mcp",
+        "nle",
+        "reels",
+        "video-editing",
+        "video-editor",
+        "zero-dependency"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T14:25:13Z",
+      "summary": "FableCut 是一个零依赖的浏览器端视频编辑器，专为 AI 代理设计。它通过 JSON timeline 驱动视频编辑，支持 MCP 协议和 REST API，并提供实时重载 UI。核心亮点在于无需后端依赖，AI 代理可直接通过结构化指令控制视频剪辑、合成与导出，适用于自动化视频生成、AI 辅助内容创作等场景。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-12T01:44:39.725408+00:00"
+    },
+    {
+      "title": "yusukebe/ax",
+      "source": "github-trending",
+      "url": "https://github.com/yusukebe/ax",
+      "description": "The AI-era curl",
+      "stars": 331,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-12T00:07:19Z",
+      "summary": "yusukebe/ax 是一个 TypeScript 编写的命令行工具，定位为“AI 时代的 curl”。它解决传统 curl 在调用 AI API（如 OpenAI、Claude）时缺乏结构化输出、认证管理和流式处理的问题。核心亮点包括：内置对主流 LLM API 的认证与请求格式化、支持流式响应、可自定义输出格式。适用于开发者快速测试 AI 模型接口、自动化脚本中的 API 调用、以及 CI/CD 流程中的模型验证场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-12T01:44:41.699516+00:00"
+    },
+    {
+      "title": "wassermanproductions/motion-previs-studio",
+      "source": "github-trending",
+      "url": "https://github.com/wassermanproductions/motion-previs-studio",
+      "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stars": 279,
+      "language": "JavaScript",
+      "topics": [
+        "aiprevis",
+        "aivideocreation",
+        "previsualization"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T22:10:03Z",
+      "summary": "Motion Previs Studio 是一款开源桌面应用，专为 AI 电影制作中的运动、深度、姿态和摄像机移动预可视化设计。它解决了传统电影预可视化流程中缺乏 AI 集成、工具碎片化的问题。核心技术亮点包括基于 JavaScript 构建的跨平台桌面界面，支持实时预览 AI 生成的动作与深度数据，并与 AI 视频创作管线衔接。适用场景包括影视前期制作、虚拟制片、AI 视频内容创作中的动作规划与视觉预览。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-12T01:44:43.781884+00:00"
+    },
+    {
+      "title": "Raymondhou0917/speak-human-tw",
+      "source": "github-trending",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "stars": 273,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "claude-code",
+        "codex",
+        "cursor",
+        "humanizer",
+        "prompt-engineering",
+        "traditional-chinese",
+        "writing-tools",
+        "zh-tw"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T03:57:33Z",
+      "summary": "「說人話」是一個專為繁體中文設計的 AI 寫作去味 skill，針對 Claude Code / Codex / Cursor 等開發工具。它解決 AI 生成文本中常見的 38 種寫作痕跡（如過度修辭、模板化結構），並自動校正中國用語與半形標點。核心技術基於 prompt-engineering 實現精確的語言風格轉換，適用於需要自然繁體中文輸出的 AI 輔助寫作場景。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:44:45.784876+00:00"
+    },
+    {
+      "title": "bkingfilm/lapian-notes",
+      "source": "github-trending",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "stars": 271,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "film-analysis",
+        "filmmaking",
+        "react",
+        "screenwriting",
+        "vite"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-09T10:30:19Z",
+      "summary": "bkingfilm/lapian-notes 是一个将 AI 辅助引入电影拉片分析的开源工具，解决传统拉片流程中手动抽帧、标注、分析效率低下的问题。核心技术亮点包括本地抽帧、剧情泳道时间轴、结构树、情绪曲线和段落深拆，基于 React 和 TypeScript 构建。适用场景为电影制作人、编剧、影评人及影视教育者进行深度影片分析。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-12T01:44:47.768810+00:00"
+    },
+    {
+      "title": "OmarH-creator/Autonomous-Forge",
+      "source": "github-trending",
+      "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+      "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "stars": 247,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T19:38:05Z",
+      "summary": "Autonomous-Forge 是一个完全由 AI 构建和维护的自动化开源项目，旨在实现自我迭代的软件生命周期管理。它解决的核心问题是减少人工干预，让 AI 自主完成规划、编码、测试和改进。技术亮点在于其闭环的自我优化机制，利用 LLM 驱动代码生成与持续集成。适用场景包括自动化原型开发、持续改进的实验性项目以及 AI 驱动的 DevOps 研究。",
+      "tags": [
+        "code-generation",
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-12T01:44:49.728943+00:00"
+    },
+    {
+      "title": "yetone/kill-ai-slop",
+      "source": "github-trending",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "stars": 235,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T21:16:08Z",
+      "summary": "yetone/kill-ai-slop 是一个识别并移除 AI 生成内容中视觉与文本“套路”的开源工具，包含一个 Agent Skill 用于扫描项目并清除这些痕迹。它解决 AI 产品同质化、缺乏人性化的问题，核心亮点是提供一套检测规则和自动化修复脚本。适用场景为 AI 产品开发中的内容审查与优化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:44:51.577994+00:00"
+    },
+    {
+      "title": "Sahir619/fable-method",
+      "source": "github-trending",
+      "url": "https://github.com/Sahir619/fable-method",
+      "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+      "stars": 232,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-md",
+        "coding-agent",
+        "evaluation",
+        "fable",
+        "llm"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-09T17:24:31Z",
+      "summary": "Fable Method 是一个将 Claude Fable 5 的工作流程提炼为通用技能的开源项目，旨在让任何 AI 模型都能复现其思考/行动/证明的循环。核心亮点是提供可执行的技能模块和配套评估基准，确保模型行为诚实可验证。适用于需要结构化推理和可审计决策的 AI 代理场景，如代码生成、自动化工作流。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "code-generation",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-12T01:44:53.309346+00:00"
+    },
+    {
+      "title": "sunflower-of-parchman/codex-hygiene",
+      "source": "github-trending",
+      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+      "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "stars": 231,
+      "language": "Shell",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "developer-tools",
+        "mcp",
+        "token-usage"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-08T05:24:58Z",
+      "summary": "codex-hygiene 是一个针对 Codex Desktop 的审计与调优技能，用于监控和管理其上下文及工具接口的 token 使用情况。核心通过 Shell 脚本实现 MCP 协议下的资源消耗分析，帮助开发者优化 AI 助手的上下文窗口效率，避免 token 浪费。适用于需要精细控制 Codex 桌面端 token 预算的 AI 开发场景。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "token-usage"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-12T01:44:55.044192+00:00"
+    },
+    {
+      "title": "CWS6206/EasyLastSkill",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/EasyLastSkill",
+      "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
+      "stars": 228,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-08T11:35:51Z",
+      "summary": "EasyLastSkill 是一个德语 Codex/Agent 技能，用于快速检索指定主题最近30天的信息，生成包含来源、相关性评分和不确定性的紧凑报告。它解决了信息时效性筛选与结构化摘要的问题，核心亮点在于自动化时间窗口限定、多源整合与置信度评估。适用场景包括德语新闻追踪、趋势分析和快速调研。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-12T01:44:56.884895+00:00"
+    },
+    {
+      "title": "shlokkhemani/rabbithole",
+      "source": "github-trending",
+      "url": "https://github.com/shlokkhemani/rabbithole",
+      "description": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
+      "stars": 222,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T12:21:55Z",
+      "summary": "RabbitHole 是一个基于无限画布的学习工具，允许用户选择文本、提问，并将答案分支为独立文档。它作为 MCP 服务器，支持 Claude Code、Codex 等 AI 代理，解决传统线性笔记在知识探索中的局限性。核心亮点在于将问答转化为可扩展的文档树，结合 MCP 协议实现与 AI 代理的深度集成。适用场景包括研究、学习笔记、知识管理等需要动态构建知识图谱的任务。",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-12T01:44:58.795117+00:00"
+    },
+    {
+      "title": "CoscoAI/luxy-aisre",
+      "source": "github-trending",
+      "url": "https://github.com/CoscoAI/luxy-aisre",
+      "description": "AISRE for Cosco",
+      "stars": 216,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-10T08:22:26Z",
+      "summary": "CoscoAI/luxy-aisre 是一个基于 Python 的 AISRE（AI 语义关系提取）开源项目，旨在从非结构化文本中自动提取实体间语义关系。核心亮点包括使用预训练语言模型进行上下文感知的关系分类，支持自定义关系类型，并提供轻量级推理管道。适用于知识图谱构建、文档信息抽取和智能问答系统等场景。项目当前星标 216，社区活跃度中等。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-12T01:45:00.743426+00:00"
+    },
+    {
+      "title": "ninjahawk/Subtext",
+      "source": "github-trending",
+      "url": "https://github.com/ninjahawk/Subtext",
+      "description": "To know what models don't say out loud.",
+      "stars": 183,
+      "language": "HTML",
+      "topics": [
+        "interpretability",
+        "llm",
+        "mechanistic-interpretability",
+        "pytorch",
+        "qwen",
+        "transformers",
+        "visualization"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-11T08:13:42Z",
+      "summary": "Subtext 是一个用于揭示大语言模型未明确表达信息的开源工具，解决模型输出中隐含意图或偏见难以检测的问题。核心基于 PyTorch 实现，利用 mechanistic interpretability 方法分析 Qwen 等模型的内部表示，通过 HTML 可视化呈现隐藏的推理路径。适用于 LLM 安全审计、模型行为调试及可解释性研究场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-12T01:45:02.543693+00:00"
+    },
+    {
+      "title": "yaojingang/TokHub",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/TokHub",
+      "description": "AI API 中转站监控、推荐运营与 OpenAI 兼容专属网关系统，支持分层探测、健康评分、用量计量、告警审计和 Docker 自托管。",
+      "stars": 176,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-09T16:12:17Z",
+      "summary": "TokHub 是一个 AI API 中转站监控与运营系统，提供 OpenAI 兼容的专属网关。它解决多 API 提供商管理中的稳定性、成本与性能问题，通过分层探测、健康评分、用量计量、告警审计等核心功能实现智能路由与故障转移。支持 Docker 自托管，适用于需要高可用、可观测的 AI API 调用场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-12T01:45:04.337179+00:00"
+    },
+    {
+      "title": "dongguatanglinux/grok-build-auth",
+      "source": "github-trending",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth",
+      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stars": 172,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-10T11:03:54Z",
+      "summary": "该项目是一个协议研究客户端，实现从 x.ai 注册到 SSO 登录、Grok Build OAuth 认证，最终导出 CLIProxyAPI 授权凭据的完整流程。解决 Grok 构建工具链中 OAuth 认证与 CLI 代理 API 集成的痛点，核心亮点在于自动化 SSO 流程和凭据导出机制。适用于需要集成 Grok 服务的开发者，用于快速搭建认证流水线或研究其协议实现。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-12T01:45:06.670023+00:00"
+    },
+    {
+      "title": "nicobailon/grill-for-unknowns",
+      "source": "github-trending",
+      "url": "https://github.com/nicobailon/grill-for-unknowns",
+      "description": "Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+      "stars": 156,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-10T19:54:41Z",
+      "summary": "Grill-for-unknowns 是一个 AI Agent 技能，旨在通过结构化提问和计划制定，帮助团队在实施前识别未知风险、明确需求并达成共识。其核心技术基于 LLM 驱动的对话推理，能够自动生成探查性问题、梳理依赖关系并输出实施计划。适用于需求模糊、跨团队协作或高风险项目的早期阶段，减少返工和沟通成本。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-07-12T01:45:08.769748+00:00"
+    },
+    {
+      "title": "KORAYTEACHER/fintech-advisor",
+      "source": "github-trending",
+      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "description": "ai fintech financial advisor for your portfolio",
+      "stars": 154,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-advisor",
+        "ai-financial",
+        "ai-fintech",
+        "fintech",
+        "fintech-advisor",
+        "fintech-financial"
+      ],
+      "collected_at": "2026-07-12T01:44:29.375452+00:00",
+      "published_at": "2026-07-09T06:37:48Z",
+      "summary": "KORAYTEACHER/fintech-advisor 是一个基于 TypeScript 构建的开源 AI 金融顾问，旨在为个人投资组合提供智能建议。它利用 AI 模型分析市场数据与用户持仓，解决传统投资顾问成本高、个性化不足的问题。核心技术亮点包括集成 AI 推理引擎进行风险评估与资产配置，以及实时数据驱动决策。适用场景包括个人投资者自动化理财、金融科技应用嵌入智能投顾功能。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-12T01:45:10.852661+00:00"
+    }
+  ]
+}

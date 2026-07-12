@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-12-012",
+  "title": "We scaled PgBouncer to 4x throughput",
+  "source": "hackernews-top",
+  "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+  "summary": "PgBouncer是PostgreSQL连接池，解决高并发下数据库连接数瓶颈问题。核心技术亮点：通过优化内部锁机制、减少内存拷贝和批量处理请求，将吞吐量提升4倍。适用场景：需要处理大量数据库连接的高并发Web应用、微服务架构。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-12T01:44:29.849604+00:00",
+  "analyzed_at": "2026-07-12T01:45:18.050908+00:00",
+  "organized_at": "2026-07-12T01:45:46.391217+00:00",
+  "status": "published"
+}

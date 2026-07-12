@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-12-009",
+  "title": "Mesh LLM: distributed AI computing on iroh",
+  "source": "hackernews-top",
+  "url": "https://www.iroh.computer/blog/mesh-llm",
+  "summary": "Mesh LLM 是一个基于 iroh 构建的分布式 AI 计算项目，旨在解决大模型推理和训练中的单点资源瓶颈与中心化依赖问题。其核心技术亮点是利用 iroh 的去中心化网络与数据同步能力，实现 LLM 任务在多个节点间的动态分发与协作计算，支持模型分片和推理结果聚合。适用场景包括边缘计算、隐私敏感型 AI 应用以及需要高可用性的分布式推理服务。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-12T01:44:29.849604+00:00",
+  "analyzed_at": "2026-07-12T01:45:12.781505+00:00",
+  "organized_at": "2026-07-12T01:45:46.391217+00:00",
+  "status": "published"
+}
