@@ -1,0 +1,497 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-14T01:24:13.269003+00:00",
+  "date": "2026-07-14",
+  "count": 19,
+  "items": [
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide",
+      "source": "github-trending",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "stars": 696,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-ide",
+        "ai-agents",
+        "developer-tools",
+        "electron",
+        "ide",
+        "local-first",
+        "typescript",
+        "zero-trust"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T09:42:21Z",
+      "summary": "Clodex IDE 是一个本地优先、零信任的代理型集成开发环境，旨在实现可验证的自主软件开发。它通过内置的 AI 代理（agentic-ai）在本地运行，确保代码生成和修改过程可审计、可验证，解决传统 AI 编码工具的黑箱信任问题。核心技术亮点包括基于 Electron 的跨平台架构、TypeScript 实现、以及零信任安全模型，确保所有 AI 操作在用户控制下执行。适用场景为需要高安全性和可追溯性的企业级软件开发、合规性要求严格的代码生成任务。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:16.378905+00:00"
+    },
+    {
+      "title": "William-Lu-stack/LuxyAI",
+      "source": "github-trending",
+      "url": "https://github.com/William-Lu-stack/LuxyAI",
+      "description": "AgenticOps for Kubernetes and cloud infrastructure.",
+      "stars": 547,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T12:02:47Z",
+      "summary": "LuxyAI 是一个基于 AgenticOps 理念的开源 Python 工具，旨在通过 AI 代理自动化 Kubernetes 和云基础设施的运维操作。核心亮点在于将大语言模型与基础设施即代码（IaC）结合，实现故障检测、资源优化和自动修复。适用于 DevOps 团队需要降低云管理复杂度、提升运维效率的场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-14T01:24:18.390128+00:00"
+    },
+    {
+      "title": "AlephAITech/WorkBuddyGuide",
+      "source": "github-trending",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "stars": 488,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "guide",
+        "llm",
+        "workbuddy"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-14T00:58:10Z",
+      "summary": "WorkBuddyGuide 是一份开源实战指南，旨在帮助用户掌握 WorkBuddy 平台。它通过教程、真实工作流、Skills、MCP（Model Context Protocol）、自动化与多智能体实践，解决 WorkBuddy 学习曲线陡峭和缺乏系统化实战资源的问题。核心技术亮点包括基于 Python 的 LLM 集成、MCP 协议实现工具调用，以及多智能体协作工作流。适用于需要快速上手 WorkBuddy 进行 AI 自动化任务开发的工程师。",
+      "tags": [
+        "workflow-automation",
+        "mcp",
+        "multi-agent",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:20.695142+00:00"
+    },
+    {
+      "title": "cosmtrek/mindwalk",
+      "source": "github-trending",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "stars": 488,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T07:53:02Z",
+      "summary": "Mindwalk 是一个基于 Go 开发的 3D 可视化工具，通过将代码库映射为三维空间，回放 coding-agent 会话过程。核心技术亮点在于利用 3D 地图直观展示 agent 在代码结构中的导航与操作轨迹，帮助开发者理解 agent 的决策路径。适用于调试、分析 agent 行为模式及优化代码库导航逻辑。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:22.799086+00:00"
+    },
+    {
+      "title": "Raymondhou0917/speak-human-tw",
+      "source": "github-trending",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "stars": 479,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "claude-code",
+        "codex",
+        "cursor",
+        "humanizer",
+        "prompt-engineering",
+        "traditional-chinese",
+        "writing-tools",
+        "zh-tw"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-11T03:57:33Z",
+      "summary": "「說人話」是一个专为繁体中文场景设计的去AI化改写skill，针对Claude Code/Codex/Cursor等AI编码助手。它通过检测38种AI写作痕迹（如特定句式、词汇模式），自动校正中国大陆用语与半形标点，生成更自然、地道的繁体中文文本。核心亮点在于细粒度痕迹识别与多工具兼容，适用于需要输出高质量繁体中文内容的AI辅助写作场景。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:25.270912+00:00"
+    },
+    {
+      "title": "yetone/kill-ai-slop",
+      "source": "github-trending",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "stars": 400,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-12T21:15:32Z",
+      "summary": "kill-ai-slop 是一个识别并移除 AI 生成内容中视觉与文案套路的工具集，包含一份指南和一个 Agent Skill。它解决 AI 产品中常见的同质化、模板化问题，通过扫描项目代码和文本，自动剥离这些“AI 味”痕迹。核心亮点是提供可执行的 Agent Skill，集成到开发流程中。适用于希望提升 AI 产品原创性和自然度的开发者。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:24:27.955023+00:00"
+    },
+    {
+      "title": "bkingfilm/lapian-notes",
+      "source": "github-trending",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "stars": 310,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "film-analysis",
+        "filmmaking",
+        "react",
+        "screenwriting",
+        "vite"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T05:16:56Z",
+      "summary": "lapian-notes 是一个基于 AI 辅助的电影拉片笔记工具，解决传统电影分析中手动抽帧、标注和结构梳理效率低下的问题。核心亮点包括本地抽帧、剧情泳道时间轴、结构树、情绪曲线和段落深拆，使用 React 和 TypeScript 构建。适用于电影制作人、影评人和影视教育者进行深度影片分析。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:24:30.021314+00:00"
+    },
+    {
+      "title": "jakubkrehel/skills",
+      "source": "github-trending",
+      "url": "https://github.com/jakubkrehel/skills",
+      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "stars": 282,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T19:40:18Z",
+      "summary": "jakubkrehel/skills 是一个开源项目，提供一组智能体技能，用于改进产品不同方面，如动画、排版、布局和颜色。核心亮点是预定义的模块化技能，可集成到AI工作流中，自动化产品设计优化。适用场景包括前端开发、UI/UX设计自动化及产品迭代中的视觉调整。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-14T01:24:32.019211+00:00"
+    },
+    {
+      "title": "CWS6206/EasyLastSkill",
+      "source": "github-trending",
+      "url": "https://github.com/CWS6206/EasyLastSkill",
+      "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
+      "stars": 234,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-08T11:35:51Z",
+      "summary": "EasyLastSkill 是一个德语 Codex/Agent 技能，用于快速检索指定主题最近30天的信息，生成包含来源、相关性评分和不确定性的紧凑报告。它解决信息过载下的时效性检索与结构化摘要问题，核心基于 LLM 的 agent 框架实现自动化搜索与报告生成。适用于德语新闻追踪、市场情报快速收集等场景。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.7,
+      "analyzed_at": "2026-07-14T01:24:34.423218+00:00"
+    },
+    {
+      "title": "dongguatanglinux/grok-build-auth",
+      "source": "github-trending",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth",
+      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stars": 218,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-10T11:03:54Z",
+      "summary": "这是一个针对x.ai Grok服务的协议研究客户端，实现从x.ai注册、SSO登录到Grok Build OAuth认证，最终导出CLI代理API认证凭据的完整流程。核心解决Grok API的自动化认证与授权问题，通过模拟浏览器协议实现SSO和OAuth流程，适用于需要以编程方式获取Grok API访问权限的研究或开发场景。技术亮点在于对x.ai认证协议的逆向工程与自动化封装。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-14T01:24:36.808411+00:00"
+    },
+    {
+      "title": "Intuition-Lab/personal-model",
+      "source": "github-trending",
+      "url": "https://github.com/Intuition-Lab/personal-model",
+      "description": "Build your HUMAN.md.",
+      "stars": 193,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "local-first",
+        "macos",
+        "mcp",
+        "personal-ai",
+        "personal-model",
+        "privacy",
+        "python"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T21:41:14Z",
+      "summary": "Intuition-Lab/personal-model 是一个开源项目，旨在帮助用户构建个人化的 AI 模型配置文件 HUMAN.md。它解决了个性化 AI 助手缺乏用户背景和偏好记忆的问题。核心技术亮点包括支持 agent-memory 实现本地优先的个性化记忆、集成 MCP 协议以增强工具调用能力，并针对 macOS 优化。适用场景为个人 AI 助手定制、本地化智能体开发。",
+      "tags": [
+        "agent",
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "local-first"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:39.345150+00:00"
+    },
+    {
+      "title": "KORAYTEACHER/fintech-advisor",
+      "source": "github-trending",
+      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "description": "ai fintech financial advisor for your portfolio",
+      "stars": 176,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-advisor",
+        "ai-financial",
+        "ai-fintech",
+        "fintech",
+        "fintech-advisor",
+        "fintech-financial"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-09T06:37:48Z",
+      "summary": "KORAYTEACHER/fintech-advisor 是一个基于 TypeScript 的开源 AI 金融顾问工具，旨在为个人投资组合提供智能化建议。它解决传统投资顾问服务成本高、个性化不足的问题，核心亮点在于结合 AI 模型进行市场分析和资产配置，支持实时数据交互。适用场景包括个人理财规划、投资组合优化及金融教育。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-14T01:24:41.187266+00:00"
+    },
+    {
+      "title": "nicobailon/grill-for-unknowns",
+      "source": "github-trending",
+      "url": "https://github.com/nicobailon/grill-for-unknowns",
+      "description": "Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+      "stars": 174,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-10T19:54:41Z",
+      "summary": "Grill-for-unknowns 是一个 AI Agent 技能，旨在通过结构化提问和推理，帮助团队在实施前识别未知问题、制定计划并达成共识。其核心亮点是结合 LLM 的推理能力与多轮对话机制，自动生成待办事项和风险清单，适用于需求分析、项目规划等协作场景。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-14T01:24:43.255373+00:00"
+    },
+    {
+      "title": "chordswallowthrust/undress-design",
+      "source": "github-trending",
+      "url": "https://github.com/chordswallowthrust/undress-design",
+      "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+      "stars": 174,
+      "language": null,
+      "topics": [
+        "ai-undress-porn",
+        "ai-undresser-free",
+        "best-free-uncensored-nsfw-ai-image-generators-2026",
+        "best-uncensored-ai-image-generators-2026",
+        "free-ai-undress",
+        "sex",
+        "uncensored-ai-chatbot",
+        "uncensored-ai-image-editor",
+        "undres",
+        "undresser-ai"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-12T12:05:14Z",
+      "summary": "undress-design 是一个基于 AI 的时尚可视化与虚拟试穿工具包，专注于服装编辑、原型设计和创意工作流。它解决的是在用户同意前提下进行服装修改和虚拟试穿的问题。核心技术亮点包括 AI 驱动的图像生成与编辑能力，支持实时服装替换和风格化设计。适用场景包括时尚设计、电商产品展示和个性化服装定制。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.8,
+      "analyzed_at": "2026-07-14T01:24:45.402784+00:00"
+    },
+    {
+      "title": "ohad6k/ditto",
+      "source": "github-trending",
+      "url": "https://github.com/ohad6k/ditto",
+      "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+      "stars": 164,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "codex",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "llm",
+        "local-first",
+        "personalization"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-13T18:39:02Z",
+      "summary": "ohad6k/ditto 是一个 Python 工具，用于将 Claude Code 和 Codex 的日志挖掘并转化为本地的 you.md agent 配置文件。它解决 AI 编码助手缺乏个性化记忆和技能持久化的问题，核心亮点是从交互日志中自动提取 agent 记忆与技能，生成可复用的 agent profile。适用于需要为 AI 编码助手定制长期记忆和技能库的开发者，提升 agent 的上下文一致性和任务效率。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-14T01:24:47.463807+00:00"
+    },
+    {
+      "title": "SilentFleetKK/ai-market-pulse",
+      "source": "github-trending",
+      "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+      "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+      "stars": 156,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "akshare",
+        "github-pages",
+        "investment-research",
+        "llm",
+        "portfolio",
+        "quant",
+        "stock-analysis",
+        "yfinance"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-11T00:47:58Z",
+      "summary": "SilentFleetKK/ai-market-pulse 是一个将任意股票观察列表转化为每日AI市场研究报告的工具，兼具量化研究驾驶舱和零代码日报生成功能。它利用Python和akshare获取金融数据，结合LLM生成分析报告，并支持通过GitHub Pages部署。核心亮点在于零代码操作、AI驱动的市场洞察自动化，适用于个人投资者和量化研究员快速获取每日市场摘要。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:49.615559+00:00"
+    },
+    {
+      "title": "wikidjon/ai-openclaw-cli",
+      "source": "github-trending",
+      "url": "https://github.com/wikidjon/ai-openclaw-cli",
+      "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+      "stars": 153,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cli",
+        "mcp-cli",
+        "openclaw",
+        "openclaw-mcp",
+        "openfinclaw",
+        "openfinclaw-mcp"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-09T07:32:10Z",
+      "summary": "wikidjon/ai-openclaw-cli 是一个基于 TypeScript 的 MCP CLI 工具，旨在解决 AI 代理（如 Claude Code、Cursor 等 20+ 平台）与 OpenClaw 生态的交互问题。核心亮点是通过 MCP 协议提供统一命令行接口，支持多代理场景下的工具调用与工作流自动化。适用于需要跨 AI 平台集成 OpenClaw 功能的开发者，简化 CLI 与 AI 代理的对接流程。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "cli",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:24:51.909175+00:00"
+    },
+    {
+      "title": "MoisesR7/browser-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/MoisesR7/browser-mcp",
+      "description": "browser mcp agent integration with autonomous browser automation capabilities",
+      "stars": 153,
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "browser-mcp",
+        "mcp"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-09T15:00:44Z",
+      "summary": "MoisesR7/browser-mcp 是一个基于 MCP 协议、集成自主浏览器自动化能力的 TypeScript 项目。它解决了 AI 代理无法直接操控浏览器执行复杂网页交互的问题，通过 MCP 接口让 LLM 代理能够调用浏览器操作（如点击、输入、导航等）。核心技术亮点是结合 MCP 协议实现浏览器控制，支持自主任务执行。适用场景包括自动化测试、网页数据采集、AI 驱动的 RPA 工作流。",
+      "tags": [
+        "mcp",
+        "agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-14T01:24:54.450158+00:00"
+    },
+    {
+      "title": "Matchameleon/moneyclaw",
+      "source": "github-trending",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "stars": 152,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "card-agent",
+        "moneyclaw",
+        "otp-agent",
+        "wallet-agent"
+      ],
+      "collected_at": "2026-07-14T01:24:11.378486+00:00",
+      "published_at": "2026-07-09T07:09:45Z",
+      "summary": "Matchameleon/moneyclaw 是一个基于 openclaw 代理框架的开源项目，用于管理预付钱包、虚拟卡、OTP 收件箱及公开文档。核心通过 agent 和 skill 模块实现自动化操作，如 wallet-agent 处理资金、card-agent 管理虚拟卡、otp-agent 处理验证码。技术亮点在于模块化 agent 设计，支持多代理协同与技能扩展，适用于金融自动化、支付测试和身份验证场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-14T01:24:56.929135+00:00"
+    }
+  ]
+}

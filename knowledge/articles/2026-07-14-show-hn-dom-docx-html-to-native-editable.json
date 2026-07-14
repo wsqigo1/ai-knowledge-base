@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-14-021",
+  "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+  "source": "hackernews-top",
+  "url": "https://github.com/floodtide/dom-docx",
+  "summary": "DOM-docx 是一个将 HTML 内容转换为原生、可编辑 Word 文档（.docx）的开源库（MIT 协议）。它解决从 Web 内容生成结构化 Word 文档时格式丢失或不可编辑的问题。核心技术亮点：直接操作 DOM 树映射到 OOXML 规范，保留样式、表格、列表等复杂结构，输出原生 docx 文件。适用场景：需要从 HTML 生成可编辑 Word 文档的 Web 应用、报告生成系统或文档自动化工具。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "code-generation"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-07-14T01:24:11.552778+00:00",
+  "analyzed_at": "2026-07-14T01:25:42.532893+00:00",
+  "organized_at": "2026-07-14T01:25:44.610905+00:00",
+  "status": "published"
+}

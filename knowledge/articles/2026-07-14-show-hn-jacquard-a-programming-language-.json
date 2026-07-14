@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-14-014",
+  "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+  "source": "hackernews-top",
+  "url": "https://github.com/jbwinters/jacquard-lang",
+  "summary": "Jacquard 是一种专为 AI 编写、人工审查代码而设计的编程语言。它解决 AI 生成代码缺乏可审计性和可靠性问题，通过引入显式契约（contracts）和审查标记，让 AI 生成代码时自动附带可验证的规范，人工审查者能高效确认代码正确性。核心技术亮点包括：语言内置的断言与后置条件、与 LLM 生成流程的深度集成、以及审查工作流支持。适用场景为需要高可靠性 AI 辅助编程的团队，如金融、医疗等受监管行业。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-07-14T01:24:11.552778+00:00",
+  "analyzed_at": "2026-07-14T01:25:06.972511+00:00",
+  "organized_at": "2026-07-14T01:25:44.610905+00:00",
+  "status": "published"
+}

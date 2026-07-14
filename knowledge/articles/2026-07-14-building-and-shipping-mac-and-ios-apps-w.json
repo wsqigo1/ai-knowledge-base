@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-14-012",
+  "title": "Building and shipping Mac and iOS apps without opening Xcode",
+  "source": "hackernews-top",
+  "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+  "summary": "介绍如何在不打开Xcode的情况下构建和发布Mac及iOS应用。解决开发者对Xcode IDE的依赖问题，通过命令行工具（如xcodebuild、fastlane）和脚本自动化实现构建、签名、打包和上传流程。核心技术亮点包括使用xcodebuild进行无头构建、fastlane自动化部署、以及通过环境变量管理证书和配置文件。适用场景为CI/CD流水线、批量构建或偏好命令行操作的开发者。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-14T01:24:11.552778+00:00",
+  "analyzed_at": "2026-07-14T01:24:59.098065+00:00",
+  "organized_at": "2026-07-14T01:25:44.610905+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-14-011",
+  "title": "Matchameleon/moneyclaw",
+  "source": "github-trending",
+  "url": "https://github.com/Matchameleon/moneyclaw",
+  "summary": "Matchameleon/moneyclaw 是一个基于 openclaw 代理框架的开源项目，用于管理预付钱包、虚拟卡、OTP 收件箱及公开文档。核心通过 agent 和 skill 模块实现自动化操作，如 wallet-agent 处理资金、card-agent 管理虚拟卡、otp-agent 处理验证码。技术亮点在于模块化 agent 设计，支持多代理协同与技能扩展，适用于金融自动化、支付测试和身份验证场景。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-14T01:24:11.378486+00:00",
+  "analyzed_at": "2026-07-14T01:24:56.929135+00:00",
+  "organized_at": "2026-07-14T01:25:44.610905+00:00",
+  "status": "published"
+}

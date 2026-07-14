@@ -1,0 +1,388 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-14T01:24:13.269672+00:00",
+  "date": "2026-07-14",
+  "count": 20,
+  "items": [
+    {
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "source": "hackernews-top",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "hn_url": "https://news.ycombinator.com/item?id=48896665",
+      "description": "",
+      "hn_score": 295,
+      "comments": 131,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "介绍如何在不打开Xcode的情况下构建和发布Mac及iOS应用。解决开发者对Xcode IDE的依赖问题，通过命令行工具（如xcodebuild、fastlane）和脚本自动化实现构建、签名、打包和上传流程。核心技术亮点包括使用xcodebuild进行无头构建、fastlane自动化部署、以及通过环境变量管理证书和配置文件。适用场景为CI/CD流水线、批量构建或偏好命令行操作的开发者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:24:59.098065+00:00"
+    },
+    {
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "source": "hackernews-top",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48894752",
+      "description": "",
+      "hn_score": 442,
+      "comments": 179,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Apple 发布 SpeechAnalyzer API，用于语音分析，与 Whisper 及其前身进行基准测试。该 API 解决语音识别与分析的精度和效率问题，核心技术亮点包括优化的神经网络架构和 Apple 硬件加速。适用场景为 iOS/macOS 应用中的语音转文字、情感分析及实时语音交互。",
+      "tags": [
+        "benchmark",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-14T01:25:01.011879+00:00"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "source": "hackernews-top",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48893639",
+      "description": "",
+      "hn_score": 221,
+      "comments": 44,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "这是一篇关于世嘉CD游戏《Silpheed》开发的技术回顾文章，详细解析了游戏引擎如何利用Sega CD硬件特性（如旋转缩放、多重卷轴、CD音轨同步）实现流畅的伪3D射击体验。核心亮点包括：通过预渲染3D模型生成2D精灵序列、巧妙使用硬件缩放与旋转模拟纵深、以及音频与游戏逻辑的精确同步。适用于游戏开发史、复古硬件编程、以及实时渲染优化等研究场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-14T01:25:03.956726+00:00"
+    },
+    {
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "source": "hackernews-top",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "hn_url": "https://news.ycombinator.com/item?id=48894630",
+      "description": "",
+      "hn_score": 46,
+      "comments": 19,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Jacquard 是一种专为 AI 编写、人工审查代码而设计的编程语言。它解决 AI 生成代码缺乏可审计性和可靠性问题，通过引入显式契约（contracts）和审查标记，让 AI 生成代码时自动附带可验证的规范，人工审查者能高效确认代码正确性。核心技术亮点包括：语言内置的断言与后置条件、与 LLM 生成流程的深度集成、以及审查工作流支持。适用场景为需要高可靠性 AI 辅助编程的团队，如金融、医疗等受监管行业。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-07-14T01:25:06.972511+00:00"
+    },
+    {
+      "title": "Telegram's t.me domain has been suspended",
+      "source": "hackernews-top",
+      "url": "https://www.whois.com/whois/t.me",
+      "hn_url": "https://news.ycombinator.com/item?id=48897878",
+      "description": "",
+      "hn_score": 246,
+      "comments": 182,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Telegram的t.me域名被暂停，导致其短链接服务不可用。该问题影响用户访问Telegram内容的便捷性，核心是域名解析或合规性故障。目前无具体技术细节，但涉及DNS管理和平台运营。适用于关注域名安全、在线服务稳定性的场景。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-14T01:25:09.106449+00:00"
+    },
+    {
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "source": "hackernews-top",
+      "url": "https://neow.in/cWsyMTV3",
+      "hn_url": "https://news.ycombinator.com/item?id=48897991",
+      "description": "",
+      "hn_score": 263,
+      "comments": 69,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Samsung Health app 在用户选择退出 AI 训练时威胁删除数据，引发隐私争议。该事件暴露了用户数据控制权与 AI 模型训练需求之间的冲突。核心问题是数据使用条款不透明，用户面临要么同意数据用于训练、要么失去全部健康数据的困境。适用场景包括健康应用隐私政策评估、用户数据权利讨论及 AI 伦理合规分析。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:25:11.612948+00:00"
+    },
+    {
+      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "source": "hackernews-top",
+      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "hn_url": "https://news.ycombinator.com/item?id=48897945",
+      "description": "",
+      "hn_score": 424,
+      "comments": 165,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Climate.us 由前 NOAA 员工创建，旨在保护气候数据与资源，应对政府数据可能被移除或限制访问的风险。核心亮点是构建独立、可公开访问的气候数据集与工具，确保数据完整性与持续可用性。适用场景包括气候研究、政策制定、环境监测及教育领域的数据备份与开放获取。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-14T01:25:13.717201+00:00"
+    },
+    {
+      "title": "Show HN: I implemented a neural network in SQL",
+      "source": "hackernews-top",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "hn_url": "https://news.ycombinator.com/item?id=48897975",
+      "description": "",
+      "hn_score": 56,
+      "comments": 12,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "该项目在SQL中实现了一个神经网络，通过纯SQL查询完成前向传播和反向传播训练。核心亮点是利用SQL的窗口函数和递归CTE模拟矩阵运算，无需外部扩展。适用于在数据库内直接执行简单机器学习任务，或作为SQL能力的技术演示。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-07-14T01:25:15.726224+00:00"
+    },
+    {
+      "title": "The Difference Between Watercolor and Gouache Paints",
+      "source": "hackernews-top",
+      "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
+      "hn_url": "https://news.ycombinator.com/item?id=48862854",
+      "description": "",
+      "hn_score": 6,
+      "comments": 0,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "该条目比较水彩画和水粉画的区别，属于艺术材料领域，而非AI/LLM技术。水彩画以透明性著称，水粉画则具有不透明覆盖力。核心差异在于颜料中粘合剂和颜料的配比，以及水粉画可叠加修改。适用场景：艺术教育、绘画爱好者选择材料。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-07-14T01:25:17.925458+00:00"
+    },
+    {
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "source": "hackernews-top",
+      "url": "https://jivx.com/densha",
+      "hn_url": "https://news.ycombinator.com/item?id=48890959",
+      "description": "",
+      "hn_score": 341,
+      "comments": 67,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "该项目是一个基于体素（voxel）风格的东京实时3D模拟，用户可乘坐山手线列车并学习日语。它解决了将语言学习与沉浸式虚拟城市体验结合的需求，核心亮点是使用实时日本时间同步的体素渲染技术，并集成日语学习内容。适用场景包括语言学习、文化体验和休闲探索。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-14T01:25:20.303497+00:00"
+    },
+    {
+      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "hn_url": "https://news.ycombinator.com/item?id=48899321",
+      "description": "",
+      "hn_score": 20,
+      "comments": 8,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "本文分析微软计划于2026年初将Claude Code与GitHub Copilot CLI整合的早期部署。核心解决开发者工具链中AI辅助编码的碎片化问题，通过统一接口实现代码生成、命令行操作与自然语言交互的融合。技术亮点在于利用Claude的agent能力增强Copilot的上下文感知与多步骤任务执行。适用场景包括企业级开发环境中的自动化工作流与复杂代码库维护。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-14T01:25:22.715678+00:00"
+    },
+    {
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "hn_url": "https://news.ycombinator.com/item?id=48896599",
+      "description": "",
+      "hn_score": 57,
+      "comments": 26,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "BillAI Bass 是一个基于 Strands Agents 框架的 AI 驱动版 Big Mouth Billy Bass 玩具，将经典装饰品改造为可对话的智能体。核心解决传统玩具缺乏交互性的问题，通过集成 LLM 和语音合成实现自然语言对话。技术亮点包括使用 Strands Agents 进行多智能体编排、实时语音识别与响应。适用场景为趣味性 AI 硬件原型、智能家居装饰或教育演示。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:25:25.252476+00:00"
+    },
+    {
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "source": "hackernews-top",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48900319",
+      "description": "",
+      "hn_score": 6,
+      "comments": 0,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Sx 2.0 是一个通过 Dropbox 文件夹共享 AI 技能（如提示词、模型配置）的工具。它解决团队协作中 AI 技能分散、版本混乱的问题，核心亮点是将 Dropbox 同步机制作为共享层，支持实时更新与权限管理。适用于需要轻量级协作的 AI 团队或小型项目。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 5.4,
+      "analyzed_at": "2026-07-14T01:25:27.449587+00:00"
+    },
+    {
+      "title": "Robust Secret Storage in Networks",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2606.30261",
+      "hn_url": "https://news.ycombinator.com/item?id=48837755",
+      "description": "",
+      "hn_score": 17,
+      "comments": 0,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Robust Secret Storage in Networks 提出一种在网络环境中安全存储秘密的鲁棒方案。它解决分布式系统中秘密数据易被窃取或篡改的核心问题。核心技术亮点包括使用门限秘密共享（threshold secret sharing）将秘密分割为多个份额，并结合拜占庭容错（Byzantine fault tolerance）机制，确保即使部分节点被攻破，秘密仍可恢复且不被泄露。适用场景为分布式网络、区块链系统或云存储中的密钥管理。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-14T01:25:30.023230+00:00"
+    },
+    {
+      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+      "source": "hackernews-top",
+      "url": "https://www.contextvault.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48900288",
+      "description": "",
+      "hn_score": 6,
+      "comments": 0,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "ContextVault 是一个为 AI 和团队设计的共享记忆层，解决 AI 会话中上下文丢失和团队协作中信息孤岛的问题。其核心技术是提供一个持久化、可共享的向量化记忆存储，支持跨会话和跨用户检索，实现 AI 的长期记忆与团队知识同步。适用场景包括需要连续对话的 AI 助手、团队协作的 AI 应用开发以及需要共享上下文的 RAG 系统。",
+      "tags": [
+        "vector-database",
+        "rag",
+        "agent",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-07-14T01:25:32.564312+00:00"
+    },
+    {
+      "title": "Benchmarking 15 “E-Waste” GPUs with Modern Workloads",
+      "source": "hackernews-top",
+      "url": "https://esologic.com/benchmarking-tesla-gpus/",
+      "hn_url": "https://news.ycombinator.com/item?id=48892638",
+      "description": "",
+      "hn_score": 113,
+      "comments": 47,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "该文章对15款被视为电子垃圾的旧GPU（如GTX 960、RX 580等）在现代AI/ML工作负载（推理、微调）下进行基准测试。核心解决旧硬件在AI任务中的实际性能与性价比评估问题。技术亮点包括对比不同架构（Pascal、Turing等）在LLM推理、图像生成等场景的表现。适用场景为预算有限的AI开发者和研究机构，探索低成本部署方案。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:25:35.085156+00:00"
+    },
+    {
+      "title": "The AI Whale Fall and Open Source",
+      "source": "hackernews-top",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "hn_url": "https://news.ycombinator.com/item?id=48900231",
+      "description": "",
+      "hn_score": 9,
+      "comments": 2,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "文章探讨了大型AI公司（如OpenAI、Google）停止开源其核心模型后，开源社区如何从这些“鲸落”中获益的现象。核心观点是：当商业AI巨头转向闭源，其遗留的开源模型、数据集和工具链成为开源生态的养料，推动社区创新。技术亮点在于分析了开源模型（如LLaMA、BLOOM）如何利用这些资源实现快速迭代。适用场景包括开源AI项目规划、社区驱动的模型开发策略研究。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-14T01:25:38.065299+00:00"
+    },
+    {
+      "title": "Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",
+      "source": "hackernews-top",
+      "url": "https://cdbx.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48900140",
+      "description": "",
+      "hn_score": 7,
+      "comments": 2,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "Cdbx.ai 是一个基于 AI 的浏览器 IDE，允许用户通过自然语言描述来构建和发布应用。它解决了从想法到应用部署之间的技术门槛问题，核心亮点在于将 LLM 驱动的代码生成与集成开发环境结合，支持实时预览和发布。适用于快速原型开发、非程序员构建简单应用或开发者加速 MVP 创建。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-14T01:25:40.194973+00:00"
+    },
+    {
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "source": "hackernews-top",
+      "url": "https://github.com/floodtide/dom-docx",
+      "hn_url": "https://news.ycombinator.com/item?id=48891267",
+      "description": "",
+      "hn_score": 137,
+      "comments": 32,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "DOM-docx 是一个将 HTML 内容转换为原生、可编辑 Word 文档（.docx）的开源库（MIT 协议）。它解决从 Web 内容生成结构化 Word 文档时格式丢失或不可编辑的问题。核心技术亮点：直接操作 DOM 树映射到 OOXML 规范，保留样式、表格、列表等复杂结构，输出原生 docx 文件。适用场景：需要从 HTML 生成可编辑 Word 文档的 Web 应用、报告生成系统或文档自动化工具。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-14T01:25:42.532893+00:00"
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "source": "hackernews-top",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=48834309",
+      "description": "",
+      "hn_score": 393,
+      "comments": 192,
+      "collected_at": "2026-07-14T01:24:11.552778+00:00",
+      "published_at": "2026-07-14T01:24:11.552778+00:00",
+      "summary": "GhostLock 是一个存在于所有 Linux 发行版中长达 15 年的堆栈 UAF（Use-After-Free）漏洞，它允许攻击者通过释放后重用堆栈内存来执行任意代码。该漏洞利用内核内存管理的缺陷，绕过现有防护机制。核心技术亮点在于其持久性和广泛影响，适用于 Linux 系统安全审计与漏洞修复场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-14T01:25:44.572961+00:00"
+    }
+  ]
+}
