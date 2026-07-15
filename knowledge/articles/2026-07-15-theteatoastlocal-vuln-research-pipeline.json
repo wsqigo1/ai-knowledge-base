@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-15-005",
+  "title": "theteatoast/local-vuln-research-pipeline",
+  "source": "github-trending",
+  "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+  "summary": "这是一个完全本地化的漏洞研究流水线，利用14B代码专用大语言模型（基于Qwen）对每个源文件进行详尽审查，解决传统安全审计依赖外部API或人工效率低的问题。核心技术亮点包括本地化部署、代码专用LLM的深度分析、以及自动化agent驱动的漏洞发现流程。适用场景为渗透测试、安全审计和红队行动中的代码级漏洞挖掘。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-15T01:21:00.745799+00:00",
+  "analyzed_at": "2026-07-15T01:21:33.410327+00:00",
+  "organized_at": "2026-07-15T01:22:19.875272+00:00",
+  "status": "published"
+}

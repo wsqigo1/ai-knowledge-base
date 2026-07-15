@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-15-014",
+  "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+  "source": "hackernews-top",
+  "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+  "summary": "该项目指出许多移动应用本质上只是网页的封装，并提供了将此类应用转换回标准网页的解决方案。它解决了应用商店中大量低质量、非原生应用的问题，核心技术是通过分析应用行为、提取网络请求和UI结构，自动生成功能等效的响应式网页。适用场景包括评估应用实际价值、快速原型开发或迁移轻量级应用至Web平台。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-15T01:21:00.955607+00:00",
+  "analyzed_at": "2026-07-15T01:21:52.740954+00:00",
+  "organized_at": "2026-07-15T01:22:19.875272+00:00",
+  "status": "published"
+}

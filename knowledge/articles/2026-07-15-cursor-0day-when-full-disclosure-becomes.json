@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-15-012",
+  "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+  "source": "hackernews-top",
+  "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+  "summary": "文章披露Cursor IDE的一个0day漏洞，该漏洞允许攻击者通过恶意提示注入执行任意代码，威胁用户安全。核心问题在于AI辅助编码工具缺乏对用户输入和模型输出的充分隔离与验证。技术亮点是作者采用完全公开披露策略，迫使厂商修复漏洞，并提供了攻击与防御的详细技术分析。适用场景为AI编程助手的安全审计与防护设计。",
+  "tags": [
+    "code-generation",
+    "security",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-07-15T01:21:00.955607+00:00",
+  "analyzed_at": "2026-07-15T01:21:48.811416+00:00",
+  "organized_at": "2026-07-15T01:22:19.875272+00:00",
+  "status": "published"
+}

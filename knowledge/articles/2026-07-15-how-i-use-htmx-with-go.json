@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-15-013",
+  "title": "How I use HTMX with Go",
+  "source": "hackernews-top",
+  "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+  "summary": "文章介绍如何将HTMX与Go结合使用，解决传统全栈开发中前后端分离带来的复杂性。核心亮点是利用HTMX的HTML-over-the-wire特性，在Go后端直接生成动态HTML片段，无需编写JavaScript。适用于需要快速构建交互式Web应用且希望保持后端主导的Go开发者。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-07-15T01:21:00.955607+00:00",
+  "analyzed_at": "2026-07-15T01:21:50.600468+00:00",
+  "organized_at": "2026-07-15T01:22:19.875272+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-15-022",
+  "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+  "source": "hackernews-top",
+  "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+  "summary": "该文章深入评测了Linux系统下X11与Wayland显示服务器的输入延迟差异，并分析了VRR（可变刷新率）和DXVK（DirectX到Vulkan转换层）对延迟的影响。核心通过精确测量工具揭示Wayland在VRR场景下延迟更低，而DXVK在X11下引入额外开销。适用于游戏开发、实时交互应用及Linux桌面性能优化场景。",
+  "tags": [
+    "benchmark",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-15T01:21:00.955607+00:00",
+  "analyzed_at": "2026-07-15T01:22:17.694188+00:00",
+  "organized_at": "2026-07-15T01:22:19.875272+00:00",
+  "status": "published"
+}
