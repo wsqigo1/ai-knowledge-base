@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-16-002",
+  "title": "vshulcz/deja-vu",
+  "source": "github-trending",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "summary": "vshulcz/deja-vu 是一个零依赖的 Go 二进制工具，为 Claude Code、Codex 和 opencode 等编码代理提供持久化记忆层。它解决代理在会话间缺乏长期记忆的问题，通过 MCP 召回、自动上下文注入、秘密编辑、统计和会话日志共享同步等特性实现。核心技术亮点包括基于搜索的记忆检索、MCP 协议集成和跨会话上下文管理。适用于需要长期记忆支持的 AI 编码代理场景，如复杂代码库维护和多步骤开发任务。",
+  "tags": [
+    "agent",
+    "mcp",
+    "developer-tools",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-16T01:41:22.093491+00:00",
+  "analyzed_at": "2026-07-16T01:41:47.778907+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

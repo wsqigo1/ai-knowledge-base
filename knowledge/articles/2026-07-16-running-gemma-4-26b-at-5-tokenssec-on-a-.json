@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-16-012",
+  "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+  "source": "hackernews-top",
+  "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+  "summary": "该条目展示如何在13年前的Xeon CPU（无GPU）上以5 tokens/sec运行Gemma 4 26B模型。核心亮点是使用llama.cpp的CPU优化和量化技术（如Q4_K_M），解决无GPU环境下运行大模型的硬件限制问题。适用场景包括资源受限的本地推理、边缘计算或低成本部署。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-16T01:41:22.202175+00:00",
+  "analyzed_at": "2026-07-16T01:42:27.240027+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

@@ -1,7 +1,261 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1088,
+  "total_count": 1105,
   "entries": [
+    {
+      "id": "kb-2026-07-16-001",
+      "title": "xai-org/grok-build",
+      "source": "github-trending",
+      "url": "https://github.com/xai-org/grok-build",
+      "file": "2026-07-16-xai-orggrok-build.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-002",
+      "title": "vshulcz/deja-vu",
+      "source": "github-trending",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "file": "2026-07-16-vshulczdeja-vu.json",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-003",
+      "title": "nihe0909/xiaohongshu-ai-workbench",
+      "source": "github-trending",
+      "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+      "file": "2026-07-16-nihe0909xiaohongshu-ai-workbench.json",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-004",
+      "title": "ShenSeanChen/waku-agent",
+      "source": "github-trending",
+      "url": "https://github.com/ShenSeanChen/waku-agent",
+      "file": "2026-07-16-shenseanchenwaku-agent.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-005",
+      "title": "videlalvaro/inference-school",
+      "source": "github-trending",
+      "url": "https://github.com/videlalvaro/inference-school",
+      "file": "2026-07-16-videlalvaroinference-school.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-006",
+      "title": "zjp1997720/codex-model-routing-team",
+      "source": "github-trending",
+      "url": "https://github.com/zjp1997720/codex-model-routing-team",
+      "file": "2026-07-16-zjp1997720codex-model-routing-team.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-007",
+      "title": "sandbaseai/managed-agents",
+      "source": "github-trending",
+      "url": "https://github.com/sandbaseai/managed-agents",
+      "file": "2026-07-16-sandbaseaimanaged-agents.json",
+      "tags": [
+        "multi-agent",
+        "open-source",
+        "mcp",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-008",
+      "title": "Inkling: Our Open-Weights Model",
+      "source": "hackernews-top",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "file": "2026-07-16-inkling-our-open-weights-model.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-009",
+      "title": "SQLite should have (Rust-style) editions",
+      "source": "hackernews-top",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "file": "2026-07-16-sqlite-should-have-rust-style-editions.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-010",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "source": "hackernews-top",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "file": "2026-07-16-governments-companies-nonprofits-should-.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-011",
+      "title": "LLM Networking with MikroTik",
+      "source": "hackernews-top",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "file": "2026-07-16-llm-networking-with-mikrotik.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-012",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "source": "hackernews-top",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "file": "2026-07-16-running-gemma-4-26b-at-5-tokenssec-on-a-.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-013",
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "source": "hackernews-top",
+      "url": "https://brainless.swerdlow.dev",
+      "file": "2026-07-16-brainless-shadcn-components-that-look-li.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-014",
+      "title": "Designing APIs for Agents",
+      "source": "hackernews-top",
+      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "file": "2026-07-16-designing-apis-for-agents.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "api-design",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-015",
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "source": "hackernews-top",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "file": "2026-07-16-show-hn-misa77---a-codec-that-decodes-2x.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-016",
+      "title": "Towards a harness that can do anything",
+      "source": "hackernews-top",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "file": "2026-07-16-towards-a-harness-that-can-do-anything.json",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
+    {
+      "id": "kb-2026-07-16-017",
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "source": "hackernews-top",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "file": "2026-07-16-open-source-memory-for-coding-agents-syn.json",
+      "tags": [
+        "open-source",
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-16T01:42:57.575296+00:00"
+    },
     {
       "id": "kb-2026-07-15-001",
       "title": "William-Lu-stack/Flawless",
@@ -16151,5 +16405,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-07-15T01:22:20.011169+00:00"
+  "last_updated": "2026-07-16T01:42:57.687578+00:00"
 }

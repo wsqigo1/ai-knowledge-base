@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-16-006",
+  "title": "zjp1997720/codex-model-routing-team",
+  "source": "github-trending",
+  "url": "https://github.com/zjp1997720/codex-model-routing-team",
+  "summary": "该项目实现了一个针对复杂Codex任务的路由系统，将任务分发到具有有限并发和主导代理验证的模型特定后台工作器。核心亮点包括：基于任务复杂度动态路由到专用模型，通过bounded concurrency控制资源消耗，以及lead-agent verification确保输出质量。适用于需要多模型协作的代码生成、知识工作等场景，解决单一模型处理复杂任务时的性能瓶颈和准确性不足问题。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-16T01:41:22.093491+00:00",
+  "analyzed_at": "2026-07-16T01:42:09.251355+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

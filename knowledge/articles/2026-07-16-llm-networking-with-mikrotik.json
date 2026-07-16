@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-16-011",
+  "title": "LLM Networking with MikroTik",
+  "source": "hackernews-top",
+  "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+  "summary": "该条目探讨如何将MikroTik路由器与LLM集成，实现网络设备的自然语言交互管理。解决网络工程师需记忆复杂命令行的问题，核心亮点是通过REST API或脚本将MikroTik的CLI命令映射到LLM的function calling，使LLM能直接执行配置查询与修改。适用场景包括自动化网络运维、故障排查辅助及教育训练。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-16T01:41:22.202175+00:00",
+  "analyzed_at": "2026-07-16T01:42:25.293541+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-16-017",
+  "title": "Open-source memory for coding agents, synced over SSH",
+  "source": "hackernews-top",
+  "url": "https://github.com/vshulcz/deja-vu/",
+  "summary": "该项目为编码代理提供开源内存系统，通过SSH同步，解决AI编码助手在跨设备协作时上下文丢失的问题。核心亮点是轻量级、基于SSH的同步机制，无需中心化服务器，支持实时更新编码代理的工作记忆。适用于需要长期记忆和跨设备协作的AI编码代理场景，如远程开发、团队协作。",
+  "tags": [
+    "open-source",
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-16T01:41:22.202175+00:00",
+  "analyzed_at": "2026-07-16T01:42:52.804961+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

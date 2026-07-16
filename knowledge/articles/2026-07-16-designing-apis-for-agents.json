@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-16-014",
+  "title": "Designing APIs for Agents",
+  "source": "hackernews-top",
+  "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+  "summary": "探讨为AI代理设计API的实践指南，解决传统API难以适配自主代理动态决策与工具调用需求的问题。核心亮点包括：强调API应提供结构化元数据（如参数描述、返回格式约束）以支持代理的意图理解与错误恢复；提出使用自然语言接口替代严格RESTful规范，降低代理调用复杂度；引入状态管理与上下文传递机制，确保多步骤任务连贯性。适用场景：构建可扩展的代理工具生态、开发支持动态编排的AI工作流系统。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "api-design",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-16T01:41:22.202175+00:00",
+  "analyzed_at": "2026-07-16T01:42:42.012488+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

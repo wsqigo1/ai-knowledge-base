@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-16-009",
+  "title": "SQLite should have (Rust-style) editions",
+  "source": "hackernews-top",
+  "url": "https://mort.coffee/home/sqlite-editions/",
+  "summary": "SQLite 应引入 Rust 风格的版本（editions）机制，以解决向后兼容性限制创新、API 演进困难的问题。核心亮点是允许数据库文件格式和 API 在版本间渐进式升级，同时保持旧版本兼容性。适用于需要长期维护且希望逐步采用新特性的嵌入式数据库场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-16T01:41:22.202175+00:00",
+  "analyzed_at": "2026-07-16T01:42:15.862232+00:00",
+  "organized_at": "2026-07-16T01:42:57.575296+00:00",
+  "status": "published"
+}

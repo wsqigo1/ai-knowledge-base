@@ -1,0 +1,391 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-16T01:41:22.966282+00:00",
+  "date": "2026-07-16",
+  "count": 20,
+  "items": [
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "source": "hackernews-top",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "hn_url": "https://news.ycombinator.com/item?id=48924912",
+      "description": "",
+      "hn_score": 673,
+      "comments": 171,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "Inkling 是一个开放权重的模型，旨在解决 AI 领域对透明、可定制模型的需求。其核心技术亮点在于提供开放权重，允许开发者自由使用、修改和部署，适用于需要定制化 AI 能力的场景，如研究、应用开发和私有化部署。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-16T01:42:13.609165+00:00"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "source": "hackernews-top",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "hn_url": "https://news.ycombinator.com/item?id=48928135",
+      "description": "",
+      "hn_score": 107,
+      "comments": 40,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "SQLite 应引入 Rust 风格的版本（editions）机制，以解决向后兼容性限制创新、API 演进困难的问题。核心亮点是允许数据库文件格式和 API 在版本间渐进式升级，同时保持旧版本兼容性。适用于需要长期维护且希望逐步采用新特性的嵌入式数据库场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-16T01:42:15.862232+00:00"
+    },
+    {
+      "title": "Grok Build is open source",
+      "source": "hackernews-top",
+      "url": "https://github.com/xai-org/grok-build",
+      "hn_url": "https://news.ycombinator.com/item?id=48926590",
+      "description": "",
+      "hn_score": 250,
+      "comments": 301,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "Grok Build 宣布开源，这是一个用于构建 AI 应用的开发工具集。它解决了 AI 工程中从原型到生产环境的构建、测试和部署流程碎片化问题。核心技术亮点包括模块化架构、内置的提示管理和评估框架，以及支持多种 LLM 后端的抽象层。适用场景为需要快速迭代和可靠部署的 AI 应用开发团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-16T01:42:18.311002+00:00"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "source": "hackernews-top",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48927095",
+      "description": "",
+      "hn_score": 81,
+      "comments": 29,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "这是一份PDF文档，呼吁政府、企业和非营利组织投资于自由开源AI。它解决的核心问题是专有AI的集中化风险，如权力垄断、缺乏透明度和公共利益受损。技术亮点在于强调开源AI在可审计性、社区协作和降低准入门槛方面的优势。适用场景包括公共政策制定、企业技术战略和公益项目中的AI部署。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-16T01:42:20.486985+00:00"
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "hn_url": "https://news.ycombinator.com/item?id=48915953",
+      "description": "",
+      "hn_score": 338,
+      "comments": 206,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "Stripe与Advent联合提出收购PayPal的报价。该交易旨在整合支付基础设施与金融科技能力，解决PayPal增长放缓与竞争压力问题。核心亮点是Stripe的在线支付技术结合Advent的资本运作经验，可能推动PayPal向企业级支付解决方案转型。适用场景：支付行业并购分析、金融科技战略研究。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-16T01:42:22.765287+00:00"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "source": "hackernews-top",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48927915",
+      "description": "",
+      "hn_score": 43,
+      "comments": 10,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "该条目探讨如何将MikroTik路由器与LLM集成，实现网络设备的自然语言交互管理。解决网络工程师需记忆复杂命令行的问题，核心亮点是通过REST API或脚本将MikroTik的CLI命令映射到LLM的function calling，使LLM能直接执行配置查询与修改。适用场景包括自动化网络运维、故障排查辅助及教育训练。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-16T01:42:25.293541+00:00"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "source": "hackernews-top",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48922434",
+      "description": "",
+      "hn_score": 228,
+      "comments": 151,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "该条目展示如何在13年前的Xeon CPU（无GPU）上以5 tokens/sec运行Gemma 4 26B模型。核心亮点是使用llama.cpp的CPU优化和量化技术（如Q4_K_M），解决无GPU环境下运行大模型的硬件限制问题。适用场景包括资源受限的本地推理、边缘计算或低成本部署。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-16T01:42:27.240027+00:00"
+    },
+    {
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "source": "hackernews-top",
+      "url": "https://brainless.swerdlow.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48926085",
+      "description": "",
+      "hn_score": 87,
+      "comments": 18,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "Brainless 是一个开源组件库，提供类似 Claude Code、Codex 和 Grok 的 UI 组件，基于 Shadcn 构建。它解决了开发者快速构建 AI 聊天界面和代码助手 UI 的需求，无需从零设计。核心技术亮点是直接复用流行 AI 产品的交互模式，通过 Shadcn 的样式系统实现高度可定制。适用场景为快速原型开发、AI 工具前端搭建。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-16T01:42:29.704714+00:00"
+    },
+    {
+      "title": "Prioritize mental health, and why communication is so important",
+      "source": "hackernews-top",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "hn_url": "https://news.ycombinator.com/item?id=48919198",
+      "description": "",
+      "hn_score": 290,
+      "comments": 251,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "这是一篇关于心理健康与沟通重要性的非技术性文章，强调在高压工作环境中优先关注心理健康，并指出有效沟通对缓解压力、提升团队协作的关键作用。文章核心亮点在于结合心理学与职场实践，提供实用沟通技巧（如主动倾听、非暴力沟通）以改善人际关系。适用场景包括AI工程师等高压职业的自我管理、团队建设及组织文化优化。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-16T01:42:32.069285+00:00"
+    },
+    {
+      "title": "Mysteries of Telegram Data Centers (2022)",
+      "source": "hackernews-top",
+      "url": "https://dev.moe/en/3025",
+      "hn_url": "https://news.ycombinator.com/item?id=48920475",
+      "description": "",
+      "hn_score": 240,
+      "comments": 131,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "该文章揭秘Telegram数据中心架构，解决大型即时通讯系统在跨地域数据同步、低延迟消息传递中的技术挑战。核心亮点包括：基于自定义MTProto协议的分片路由、数据中心间异步复制机制、以及针对高并发场景的分布式存储优化。适用于理解大规模消息系统设计、分布式系统架构研究或即时通讯基础设施开发场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-16T01:42:34.430515+00:00"
+    },
+    {
+      "title": "Show HN: Firefox in WebAssembly",
+      "source": "hackernews-top",
+      "url": "https://developer.puter.com/labs/firefox-wasm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48926939",
+      "description": "",
+      "hn_score": 125,
+      "comments": 71,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "Firefox in WebAssembly 是一个将 Firefox 浏览器编译为 WebAssembly 运行在浏览器中的项目。它解决了在浏览器环境中运行完整浏览器引擎的技术挑战，核心亮点包括使用 Emscripten 将 C++ 代码编译为 WASM，并实现了图形渲染、事件处理等底层功能的适配。适用场景包括浏览器兼容性测试、安全沙箱执行环境以及 Web 平台的极限性能探索。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-16T01:42:36.690439+00:00"
+    },
+    {
+      "title": "Collection of Digital Clock Designs",
+      "source": "hackernews-top",
+      "url": "https://clocks.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48923380",
+      "description": "",
+      "hn_score": 176,
+      "comments": 36,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "该项目收集了多种数字时钟的CSS/HTML设计实现，旨在为前端开发者提供可直接复用的UI组件灵感。核心技术亮点包括纯CSS动画、响应式布局和创意视觉风格（如霓虹、复古、极简）。适用场景为网页仪表盘、时间显示组件或前端设计练习。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-07-16T01:42:38.674790+00:00"
+    },
+    {
+      "title": "Designing APIs for Agents",
+      "source": "hackernews-top",
+      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "hn_url": "https://news.ycombinator.com/item?id=48894874",
+      "description": "",
+      "hn_score": 47,
+      "comments": 21,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "探讨为AI代理设计API的实践指南，解决传统API难以适配自主代理动态决策与工具调用需求的问题。核心亮点包括：强调API应提供结构化元数据（如参数描述、返回格式约束）以支持代理的意图理解与错误恢复；提出使用自然语言接口替代严格RESTful规范，降低代理调用复杂度；引入状态管理与上下文传递机制，确保多步骤任务连贯性。适用场景：构建可扩展的代理工具生态、开发支持动态编排的AI工作流系统。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "api-design",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-16T01:42:42.012488+00:00"
+    },
+    {
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "source": "hackernews-top",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "hn_url": "https://news.ycombinator.com/item?id=48922838",
+      "description": "",
+      "hn_score": 132,
+      "comments": 40,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "misa77 是一种新型编解码器，旨在解决 LZ4 在压缩比与解压速度之间的权衡问题。其核心技术亮点是通过优化算法实现解压速度比 LZ4 快 2 倍，同时达到更好的压缩比。适用于需要高速数据解压的场景，如实时数据处理、日志压缩、数据库缓存等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-16T01:42:44.054985+00:00"
+    },
+    {
+      "title": "Towards a harness that can do anything",
+      "source": "hackernews-top",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48921077",
+      "description": "",
+      "hn_score": 171,
+      "comments": 85,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "《Towards a harness that can do anything》探讨构建通用AI评估框架（harness），解决当前评估工具碎片化、难以统一测试不同模型能力的问题。核心技术亮点包括模块化设计、可扩展接口及支持多任务基准测试。适用场景为AI模型开发中的标准化性能评估与对比。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-16T01:42:46.064659+00:00"
+    },
+    {
+      "title": "Today I Rescued 7,234 Old GIFs",
+      "source": "hackernews-top",
+      "url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48883578",
+      "description": "",
+      "hn_score": 101,
+      "comments": 10,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "该项目涉及从老旧存储介质中抢救并恢复7234个GIF动画文件，解决数字遗产长期保存与格式兼容性问题。核心技术亮点包括文件碎片重组、元数据修复及批量自动化处理流程。适用场景为数字档案管理、个人数据恢复及怀旧内容数字化。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-16T01:42:47.909303+00:00"
+    },
+    {
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "source": "hackernews-top",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "hn_url": "https://news.ycombinator.com/item?id=48919363",
+      "description": "",
+      "hn_score": 658,
+      "comments": 342,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "这项2023年研究分析了超过6万名参与者的睡眠数据，发现睡眠规律性（即每天同一时间入睡和起床的一致性）比睡眠时长更能预测全因死亡风险。核心亮点是使用可穿戴设备客观测量睡眠模式，而非依赖自我报告，并控制了睡眠时长、年龄、性别等混杂因素。适用场景包括公共卫生政策制定、临床睡眠健康评估以及个人健康管理应用，强调规律作息对长寿的重要性。",
+      "tags": [
+        "benchmark",
+        "health",
+        "sleep",
+        "mortality"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-16T01:42:50.597042+00:00"
+    },
+    {
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "source": "hackernews-top",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48923111",
+      "description": "",
+      "hn_score": 109,
+      "comments": 27,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "该项目为编码代理提供开源内存系统，通过SSH同步，解决AI编码助手在跨设备协作时上下文丢失的问题。核心亮点是轻量级、基于SSH的同步机制，无需中心化服务器，支持实时更新编码代理的工作记忆。适用于需要长期记忆和跨设备协作的AI编码代理场景，如远程开发、团队协作。",
+      "tags": [
+        "open-source",
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-16T01:42:52.804961+00:00"
+    },
+    {
+      "title": "Briar is in maintenance mode",
+      "source": "hackernews-top",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "hn_url": "https://news.ycombinator.com/item?id=48919869",
+      "description": "",
+      "hn_score": 148,
+      "comments": 96,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "Briar 是一个点对点加密通信应用，现已进入维护模式。它解决的是在互联网审查或中断环境下，用户仍能通过蓝牙、Wi-Fi 直连等方式进行安全通信的问题。核心技术包括端到端加密、去中心化路由、以及离线消息同步。适用场景包括抗议活动、灾区通信或网络受限地区。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-16T01:42:54.769901+00:00"
+    },
+    {
+      "title": "My midlife crisis Corolla is fast, furious, and modded",
+      "source": "hackernews-top",
+      "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+      "hn_url": "https://news.ycombinator.com/item?id=48921303",
+      "description": "",
+      "hn_score": 157,
+      "comments": 345,
+      "collected_at": "2026-07-16T01:41:22.202175+00:00",
+      "published_at": "2026-07-16T01:41:22.202175+00:00",
+      "summary": "这是一篇关于作者改装丰田卡罗拉（Corolla）的个人项目文章，描述如何通过加装涡轮增压、ECU调校、悬挂升级等改装手段，将一辆普通家用车变成性能车。核心亮点在于详细记录了改装过程中的技术决策、成本控制与性能平衡，适合汽车改装爱好者或对机械工程感兴趣的读者。适用场景：汽车改装技术交流、DIY项目参考、性能车文化讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-16T01:42:57.539733+00:00"
+    }
+  ]
+}
