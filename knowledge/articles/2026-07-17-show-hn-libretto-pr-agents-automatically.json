@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-17-022",
+  "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+  "source": "hackernews-top",
+  "url": "https://libretto.sh/debug-agents",
+  "summary": "Libretto PR agents 是一个开源工具，自动修复失败的 Playwright 脚本。它解决端到端测试维护中脚本因 UI 变化频繁失效的问题。核心亮点是利用 LLM 分析失败原因并生成修复补丁，集成到 CI/CD 流程中。适用场景为需要自动化维护 Playwright 测试的持续集成环境。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-17T01:44:30.515713+00:00",
+  "analyzed_at": "2026-07-17T01:45:57.478255+00:00",
+  "organized_at": "2026-07-17T01:45:57.520025+00:00",
+  "status": "published"
+}

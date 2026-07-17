@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-17-016",
+  "title": "How Our Rust-to-Zig Rewrite Is Going",
+  "source": "hackernews-top",
+  "url": "https://rtfeldman.com/rust-to-zig",
+  "summary": "一篇关于将Rust代码库重写为Zig语言的实践回顾。核心解决Rust在底层系统编程中编译速度慢、内存模型复杂的问题。技术亮点包括利用Zig的编译时计算和手动内存管理提升性能，同时保持与C ABI的兼容性。适用场景：对性能敏感的系统软件、嵌入式开发或需要精细控制内存分配的项目。",
+  "tags": [
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-17T01:44:30.515713+00:00",
+  "analyzed_at": "2026-07-17T01:45:36.599533+00:00",
+  "organized_at": "2026-07-17T01:45:57.520025+00:00",
+  "status": "published"
+}

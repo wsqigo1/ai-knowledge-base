@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-17-007",
+  "title": "Chaelsoo/Zetsu",
+  "source": "github-trending",
+  "url": "https://github.com/Chaelsoo/Zetsu",
+  "summary": "Zetsu 是一个面向进攻性安全领域的个人 RAG 系统，基于 Python 实现。它解决安全研究人员在渗透测试、漏洞分析等任务中快速检索和利用大量安全知识库（如 CVE、exploit 代码、技术博客）的痛点。核心技术亮点包括：利用向量数据库存储安全文档的嵌入表示，结合 LLM 进行上下文感知的问答与推理，支持本地化部署以保护敏感数据。适用场景包括渗透测试辅助、漏洞情报分析、安全工具链集成等。",
+  "tags": [
+    "rag",
+    "vector-database",
+    "large-language-model",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-17T01:44:30.256093+00:00",
+  "analyzed_at": "2026-07-17T01:45:09.084417+00:00",
+  "organized_at": "2026-07-17T01:45:57.520025+00:00",
+  "status": "published"
+}

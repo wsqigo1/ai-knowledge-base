@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-17-014",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "source": "hackernews-top",
+  "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "summary": "该文章探讨使用“经典”机器学习方法（如逻辑回归、随机森林等）检测LLM生成的文本，而非依赖复杂深度学习模型。其核心是解决AI生成内容难以识别的问题，通过特征工程（如词汇多样性、句法模式、困惑度等）结合传统分类器实现高效检测。技术亮点在于低计算成本、可解释性强，且在小样本场景下表现良好。适用场景包括内容审核、学术诚信检测、社交媒体虚假信息过滤等。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-17T01:44:30.515713+00:00",
+  "analyzed_at": "2026-07-17T01:45:30.179151+00:00",
+  "organized_at": "2026-07-17T01:45:57.520025+00:00",
+  "status": "published"
+}
