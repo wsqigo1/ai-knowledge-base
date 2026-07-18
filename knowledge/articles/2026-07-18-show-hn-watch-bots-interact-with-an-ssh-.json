@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-18-010",
+  "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+  "source": "hackernews-top",
+  "url": "https://honeypotlive.cc/",
+  "summary": "该项目展示了一个SSH蜜罐实时捕获并可视化机器人交互行为的过程。它通过模拟易受攻击的SSH服务，记录攻击者的命令执行、文件操作等行为，并以流式界面呈现。核心技术包括蜜罐部署、实时日志解析与前端可视化。适用于网络安全研究、攻击模式分析及威胁情报收集场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-07-18T01:25:25.624615+00:00",
+  "analyzed_at": "2026-07-18T01:26:45.941780+00:00",
+  "organized_at": "2026-07-18T01:27:00.829006+00:00",
+  "status": "published"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-18-007",
+  "title": "Learning a few things about running SQLite",
+  "source": "hackernews-top",
+  "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+  "summary": "该文章分享了运行SQLite数据库的实践经验和注意事项，主要解决开发者在使用SQLite时遇到的性能、并发和配置问题。核心技术亮点包括事务优化、WAL模式启用、索引策略以及避免常见陷阱（如过度使用内存数据库）。适用场景为嵌入式应用、移动端开发、小型Web服务及需要轻量级数据存储的项目。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-18T01:25:25.624615+00:00",
+  "analyzed_at": "2026-07-18T01:26:28.376607+00:00",
+  "organized_at": "2026-07-18T01:27:00.829006+00:00",
+  "status": "published"
+}

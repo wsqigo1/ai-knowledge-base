@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-18-008",
+  "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+  "source": "hackernews-top",
+  "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+  "summary": "Kimi K3 是 Moonshot AI 发布的新一代大语言模型，旨在解决长上下文处理与推理效率的平衡问题。其核心技术亮点包括采用 Pelican 基准测试（一种针对长文档理解与检索的评估方法）来优化模型在超长文本中的表现，通过改进注意力机制和训练策略提升信息定位准确性。适用场景为需要处理大量文档、进行深度分析或复杂推理的 AI 应用，如法律、科研和金融领域。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-18T01:25:25.624615+00:00",
+  "analyzed_at": "2026-07-18T01:26:32.976177+00:00",
+  "organized_at": "2026-07-18T01:27:00.829006+00:00",
+  "status": "published"
+}

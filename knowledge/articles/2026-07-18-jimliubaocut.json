@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-18-005",
+  "title": "JimLiu/baocut",
+  "source": "github-trending",
+  "url": "https://github.com/JimLiu/baocut",
+  "summary": "JimLiu/baucut 是一个开源 Agent Skill，驱动 macOS 应用 BaoCut 的 CLI，允许 Claude Code、Codex 等 AI 代理直接调用其转写、字幕、翻译、剪辑功能。解决 AI 代理无法直接操作 macOS 本地媒体处理工具的问题。核心技术亮点：通过 Shell 脚本封装 macOS 原生能力，暴露为 agent 可调用的 skill，实现多代理兼容。适用场景：AI 驱动的视频/音频自动化工作流，如自动生成字幕、翻译并剪辑输出。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-18T01:25:25.466193+00:00",
+  "analyzed_at": "2026-07-18T01:26:12.258309+00:00",
+  "organized_at": "2026-07-18T01:27:00.829006+00:00",
+  "status": "published"
+}
