@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-19-009",
+  "title": "What's the deal with all the random weekly quota resets for agents lately?",
+  "source": "hackernews-top",
+  "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+  "summary": "本文讨论近期AI代理（agent）服务频繁出现随机周配额重置现象。核心问题是用户在使用基于大语言模型的代理时，遭遇不透明的配额重置机制，影响工作流稳定性。技术亮点在于揭示代理服务商可能通过动态配额管理应对资源负载，但缺乏透明沟通。适用场景为依赖AI代理进行自动化任务（如代码生成、多代理协作）的开发者，需关注服务可靠性。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-19T01:43:47.895745+00:00",
+  "analyzed_at": "2026-07-19T01:45:02.571349+00:00",
+  "organized_at": "2026-07-19T01:45:22.088673+00:00",
+  "status": "published"
+}

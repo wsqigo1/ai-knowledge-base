@@ -1,7 +1,172 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1141,
+  "total_count": 1152,
   "entries": [
+    {
+      "id": "kb-2026-07-19-001",
+      "title": "PromptPartner/agentsmith",
+      "source": "github-trending",
+      "url": "https://github.com/PromptPartner/agentsmith",
+      "file": "2026-07-19-promptpartneragentsmith.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-002",
+      "title": "erickong/penecho",
+      "source": "github-trending",
+      "url": "https://github.com/erickong/penecho",
+      "file": "2026-07-19-erickongpenecho.json",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-003",
+      "title": "CodeDrobe/skills",
+      "source": "github-trending",
+      "url": "https://github.com/CodeDrobe/skills",
+      "file": "2026-07-19-codedrobeskills.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-004",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "source": "hackernews-top",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "file": "2026-07-19-speech-recognition-and-tts-in-less-than-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-005",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "source": "hackernews-top",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "file": "2026-07-19-gpt-56-used-a-prompt-to-close-a-30-year-.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "prompt-engineering",
+        "benchmark"
+      ],
+      "score": 8.5,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-006",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "source": "hackernews-top",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "file": "2026-07-19-fable-5-vs-gpt-56-sol-on-an-np-hard-prob.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "prompt-engineering",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-007",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "source": "hackernews-top",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "file": "2026-07-19-setting-up-your-spare-mac-for-claude-cod.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-008",
+      "title": "The Kimi K3 Moment",
+      "source": "hackernews-top",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "file": "2026-07-19-the-kimi-k3-moment.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-009",
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "source": "hackernews-top",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "file": "2026-07-19-whats-the-deal-with-all-the-random-weekl.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-010",
+      "title": "What AI did to stackoverflow in a graph",
+      "source": "hackernews-top",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "file": "2026-07-19-what-ai-did-to-stackoverflow-in-a-graph.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
+    {
+      "id": "kb-2026-07-19-011",
+      "title": "Regressive JPEGs",
+      "source": "hackernews-top",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "file": "2026-07-19-regressive-jpegs.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-19T01:45:22.088673+00:00"
+    },
     {
       "id": "kb-2026-07-18-001",
       "title": "nethical6/conversation-steganography",
@@ -16941,5 +17106,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-07-18T01:27:00.929752+00:00"
+  "last_updated": "2026-07-19T01:45:22.178196+00:00"
 }

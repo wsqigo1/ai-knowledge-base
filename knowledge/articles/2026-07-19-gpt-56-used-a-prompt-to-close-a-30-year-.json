@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-19-005",
+  "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+  "source": "hackernews-top",
+  "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+  "summary": "GPT-5.6通过一个精心设计的prompt，解决了凸优化领域存在30年的理论难题。该问题涉及非光滑凸函数的收敛速度下界，传统方法依赖复杂数学推导。GPT-5.6利用其推理能力，在prompt中引导模型重新表述问题并发现新的证明路径，展示了LLM在数学研究中的潜力。核心技术亮点在于将领域知识编码为prompt结构，使模型能进行符号推理和定理发现。适用场景包括数学证明、算法设计、理论计算机科学等需要深度推理的领域。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "prompt-engineering",
+    "benchmark"
+  ],
+  "score": 8.5,
+  "collected_at": "2026-07-19T01:43:47.895745+00:00",
+  "analyzed_at": "2026-07-19T01:44:39.719190+00:00",
+  "organized_at": "2026-07-19T01:45:22.088673+00:00",
+  "status": "published"
+}

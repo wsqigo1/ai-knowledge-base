@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-19-006",
+  "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+  "source": "hackernews-top",
+  "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+  "summary": "该条目比较Fable 5与GPT-5.6在NP难问题上的表现，核心探究是否通过设定明确目标（/goal）能提升LLM的推理能力。解决LLM在复杂组合优化问题中缺乏结构化推理的问题。技术亮点是引入目标导向提示策略，对比不同模型在NP难问题上的求解效率。适用场景为需要LLM进行高级推理和问题求解的AI研究及工程应用。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "prompt-engineering",
+    "large-language-model"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-19T01:43:47.895745+00:00",
+  "analyzed_at": "2026-07-19T01:44:51.483614+00:00",
+  "organized_at": "2026-07-19T01:45:22.088673+00:00",
+  "status": "published"
+}

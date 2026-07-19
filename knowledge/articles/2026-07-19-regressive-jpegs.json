@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-19-011",
+  "title": "Regressive JPEGs",
+  "source": "hackernews-top",
+  "url": "https://maurycyz.com/projects/bad_jpeg/",
+  "summary": "Regressive JPEGs 是一种新型图像压缩技术，通过从低质量到高质量的渐进式解码方式解决传统JPEG在带宽受限场景下的效率问题。核心技术亮点包括：采用回归预测模型优化压缩流程，支持逐级提升图像质量而非一次性加载，显著减少初始数据传输量。适用场景为网页加载、移动端图像传输及实时预览等需要快速显示低分辨率版本再逐步细化的应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-19T01:43:47.895745+00:00",
+  "analyzed_at": "2026-07-19T01:45:14.907128+00:00",
+  "organized_at": "2026-07-19T01:45:22.088673+00:00",
+  "status": "published"
+}
