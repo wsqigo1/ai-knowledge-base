@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-20-012",
+  "title": "Transcribe.cpp",
+  "source": "hackernews-top",
+  "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+  "summary": "Transcribe.cpp 是一个基于 C++ 的高性能语音转文本库，解决传统 Python 方案在边缘设备或低资源环境下的推理延迟和内存占用问题。核心亮点包括使用 whisper.cpp 的量化推理、零依赖运行时和流式处理支持，适用于实时转录、嵌入式系统及离线语音助手。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-07-20T01:58:04.061623+00:00",
+  "analyzed_at": "2026-07-20T01:59:21.385961+00:00",
+  "organized_at": "2026-07-20T01:59:24.937397+00:00",
+  "status": "published"
+}

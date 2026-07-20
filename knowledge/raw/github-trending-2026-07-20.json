@@ -1,0 +1,511 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-20T01:58:05.162489+00:00",
+  "date": "2026-07-20",
+  "count": 19,
+  "items": [
+    {
+      "title": "xai-org/grok-build",
+      "source": "github-trending",
+      "url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "stars": 20114,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-19T17:44:05Z",
+      "summary": "xai-org/grok-build 是 SpaceXAI 开发的编码代理框架与 TUI 工具，基于 Rust 实现。它解决 AI 编码代理在终端中缺乏全屏、鼠标交互和可扩展界面的问题。核心技术亮点包括全屏 TUI、鼠标交互支持以及可扩展的插件架构。适用于需要高效编码辅助、自动化工作流和 AI 代理集成的开发者场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-20T01:58:07.373919+00:00"
+    },
+    {
+      "title": "nethical6/conversation-steganography",
+      "source": "github-trending",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "stars": 827,
+      "language": "Go",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-18T13:20:49Z",
+      "summary": "该项目利用LLM在看似正常的对话中嵌入隐藏信息，实现隐写术。核心是通过微调或提示工程使模型生成包含秘密消息的文本，同时保持对话自然。适用于安全通信、数据隐蔽传输等场景，技术亮点在于结合了自然语言生成与信息隐藏。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-20T01:58:09.224865+00:00"
+    },
+    {
+      "title": "Blueturboguy07/cue",
+      "source": "github-trending",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stars": 615,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-18T06:47:54Z",
+      "summary": "Blueturboguy07/cue 是一个开源的 macOS AI 副驾，以浮动窗口形式悬浮于屏幕之上，能实时感知会议中的音视频内容，并在屏幕共享时自动隐藏。它解决了用户在会议中需要 AI 辅助但又不希望暴露隐私的问题，核心亮点包括多模态感知（视觉+听觉）、屏幕共享隐身机制以及自带 API 密钥的灵活接入。适用于远程办公、在线会议、教学演示等场景，作为 Cluely 的开源替代方案。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-20T01:58:11.540441+00:00"
+    },
+    {
+      "title": "v-modal/vmodal_sdk_flutter",
+      "source": "github-trending",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "stars": 587,
+      "language": "Dart",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-19T12:11:31Z",
+      "summary": "V-modal AI SDK Flutter 是一个跨平台搜索工具包，允许用户在任意应用中集成全局搜索功能。它解决移动端信息碎片化问题，通过 AI 实现跨应用内容检索。核心技术亮点包括多模态搜索、自然语言查询和实时索引。适用于需要快速搜索文件、消息或网页的移动应用场景。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-20T01:58:13.448610+00:00"
+    },
+    {
+      "title": "lopopolo/harness-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "stars": 580,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-18T21:55:49Z",
+      "summary": "Ryan Lopopolo 的个人项目合集与领域指南，旨在为“harness engineering”（即构建 AI 代理的约束与工具链）提供上下文包。核心亮点是整合了 Python 实现的代理上下文管理、工具调用与工作流自动化代码片段，解决 AI 工程师在构建可靠代理时缺乏标准化上下文与工具绑定的问题。适用场景包括快速原型开发、代理行为约束实验及工具链集成测试。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-20T01:58:15.783623+00:00"
+    },
+    {
+      "title": "PengZhang64/circuit-framework",
+      "source": "github-trending",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": 485,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-16T16:57:57Z",
+      "summary": "Circuit Framework 是一个基于多智能体架构的 LLM 交易研究系统，旨在解决金融交易中多源数据整合与决策推理的复杂性。核心技术亮点包括多智能体协作框架、LLM 驱动的市场分析及交易信号生成，支持回测与实时模拟。适用场景为量化交易研究、金融 AI 实验及多智能体系统原型开发。",
+      "tags": [
+        "multi-agent",
+        "large-language-model",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-20T01:58:17.929135+00:00"
+    },
+    {
+      "title": "stackblitz/bolt-slides",
+      "source": "github-trending",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "description": "Use any agent to create stunning, interactive presentations",
+      "stars": 451,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-16T15:02:22Z",
+      "summary": "Bolt Slides 是一个基于 TypeScript 的开源工具，允许用户通过任意 AI 代理（agent）生成交互式演示文稿。它解决了传统演示工具缺乏 AI 集成、创建过程繁琐的问题。核心亮点在于支持多种 AI 代理驱动内容生成，并输出为交互式 HTML 幻灯片。适用于需要快速生成动态演示的开发者、教育者或商务人士。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-20T01:58:19.848228+00:00"
+    },
+    {
+      "title": "pyang5166/gbro-collage-broll",
+      "source": "github-trending",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "stars": 411,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "broll",
+        "gemini",
+        "paper-collage",
+        "video-generation"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-15T12:50:50Z",
+      "summary": "该项目是一个基于Gemini Omni Flash模型的半调纸拼贴风格B-roll视频生成智能体技能。它通过三闸门审批流程控制生成质量，利用首尾帧组装技术实现动画过渡，解决了视频编辑中风格化B-roll素材自动生成的问题。核心技术亮点包括多模态大模型驱动的帧间一致性保持、半调纸拼贴艺术风格迁移以及审批机制确保输出可控。适用于短视频创作、广告制作和艺术视频编辑等场景。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "workflow-automation",
+        "video-generation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-20T01:58:21.869248+00:00"
+    },
+    {
+      "title": "vshulcz/deja-vu",
+      "source": "github-trending",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
+      "stars": 382,
+      "language": "Go",
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "golang",
+        "mcp",
+        "mcp-server",
+        "opencode",
+        "session-search"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-20T00:29:30Z",
+      "summary": "deja-vu 是一个零依赖的 Go 二进制工具，解决 AI 编码代理会话日志的跨代理、跨 SSH 的回顾性搜索与 MCP 召回问题。核心亮点：通过解析 Claude Code 等代理的 session logs，实现基于 MCP 的语义检索，无需外部依赖，完全本地运行。适用场景：多代理协作开发、远程 SSH 环境下的历史行为回溯与上下文复用。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-20T01:58:24.021824+00:00"
+    },
+    {
+      "title": "MIgHTy-alIeN/Trading-Bot",
+      "source": "github-trending",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": 351,
+      "language": "Solidity",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-20T01:56:59Z",
+      "summary": "这是一个基于Solidity的套利机器人智能合约，连接外部自动化脚本控制其运行。核心解决去中心化交易所（DEX）间的价格差异套利问题，通过链上合约+链下脚本的混合架构实现高效交易执行。技术亮点包括：智能合约自动执行套利逻辑、外部脚本监控市场并触发交易。适用于DeFi套利场景，但需注意当前仅351星且无明确创新点，实用性受限于市场波动和Gas成本。",
+      "tags": [
+        "workflow-automation",
+        "agent",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-20T01:58:26.041598+00:00"
+    },
+    {
+      "title": "erickong/penecho",
+      "source": "github-trending",
+      "url": "https://github.com/erickong/penecho",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stars": 335,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "canvas",
+        "claude",
+        "codex",
+        "education",
+        "handwriting",
+        "nodejs",
+        "visual-thinking"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-19T08:18:32Z",
+      "summary": "Penecho 是一个基于 Canvas 的 AI 协作白板工具，支持手写、公式、图表和空间推理。它解决传统聊天界面无法有效处理视觉与空间信息的痛点，核心亮点是结合 Claude/Codex 等 AI 模型实现多模态交互。适用于教育、头脑风暴和复杂问题可视化推理场景。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-20T01:58:27.816754+00:00"
+    },
+    {
+      "title": "QuantumByteOSS/quantumbyte",
+      "source": "github-trending",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "stars": 331,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "app-builder",
+        "code-generation",
+        "llm",
+        "nextjs",
+        "open-source",
+        "python"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-15T00:50:53Z",
+      "summary": "QuantumByteOSS/quantumbyte 是一个开源应用构建引擎，旨在将用户意图直接转化为可运行的应用程序。它利用 LLM 和 agent 技术，通过自然语言描述自动生成代码，简化应用开发流程。核心亮点在于其 intent-to-app 的端到端能力，结合 Python 生态实现快速原型构建。适用于快速验证想法、自动化生成简单业务应用或作为低代码开发工具。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-20T01:58:29.975912+00:00"
+    },
+    {
+      "title": "yuwen-cool/yuwen-publish-precheck",
+      "source": "github-trending",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "stars": 318,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance",
+        "cursor",
+        "douyin",
+        "wechat-channels",
+        "xiaohongshu"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-15T18:32:40Z",
+      "summary": "yuwen-cool/yuwen-publish-precheck 是一个基于 AI 的内容合规预审工具，专为抖音、小红书、视频号等中文平台设计。核心功能是让用户发布前用 AI 审查内容是否违反平台规则，并给出具体违规依据和可替换的改写方案。技术亮点包括：38 篇真实样本校准判定尺度、72 条官方规则原文可查证、本地规则库可随用户反馈迭代优化。适用场景为自媒体创作者、内容运营团队在发布前进行合规自查，降低封号风险。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-20T01:58:32.864236+00:00"
+    },
+    {
+      "title": "PromptPartner/agentsmith",
+      "source": "github-trending",
+      "url": "https://github.com/PromptPartner/agentsmith",
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stars": 309,
+      "language": "Shell",
+      "topics": [
+        "agentic-ai",
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "gemini",
+        "llm",
+        "llm-agents",
+        "open-source",
+        "prompt-engineering",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-18T07:54:58Z",
+      "summary": "PromptPartner/agentsmith 是一个通用、模型无关的 AI 代理操作框架，通过单一设置脚本组合核心模块与工作类型配置文件，解决多模型（Claude、Codex、Gemini 等）代理的标准化编排问题。核心技术亮点在于其轻量核心+可插拔工作配置的设计，支持 agentic-coding、automation 等场景，降低多代理系统集成成本。适用于需要统一管理不同 LLM 代理的开发团队或自动化工作流场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-20T01:58:35.056239+00:00"
+    },
+    {
+      "title": "thesysdev/appless",
+      "source": "github-trending",
+      "url": "https://github.com/thesysdev/appless",
+      "description": "What if your phone had no apps",
+      "stars": 270,
+      "language": "TypeScript",
+      "topics": [
+        "generative-ui",
+        "llm",
+        "react-native"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-16T15:18:10Z",
+      "summary": "Appless 是一个基于 React Native 和 LLM 的开源项目，探索无传统 App 的手机交互模式。它通过生成式 UI 和大型语言模型，将用户意图直接转化为动态界面，取代预装应用。核心亮点在于利用 LLM 实时生成 UI 组件，实现按需功能。适用于研究 AI 驱动的新一代移动端交互范式。",
+      "tags": [
+        "generative-ui",
+        "large-language-model",
+        "react-native",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-20T01:58:36.977909+00:00"
+    },
+    {
+      "title": "CodeDrobe/skills",
+      "source": "github-trending",
+      "url": "https://github.com/CodeDrobe/skills",
+      "description": "Agent Skills for theming AI desktop apps: reference image → reversible Codex/WorkBuddy skin → verify, repair, publish. | 给 AI 桌面应用换肤的 Agent Skills：参考图 → 可逆皮肤 → 验证、修复、发布。",
+      "stars": 207,
+      "language": "CSS",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-coding",
+        "chrome-devtools-protocol",
+        "claude-code",
+        "codex",
+        "desktop-customization",
+        "electron",
+        "openai-codex",
+        "theming"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-19T08:02:12Z",
+      "summary": "CodeDrobe/skills 是一个开源项目，提供 Agent Skills 用于 AI 桌面应用换肤。核心功能：通过参考图生成可逆的 Codex/WorkBuddy 皮肤，并支持验证、修复与发布。解决 AI 桌面应用 UI 定制化与皮肤管理问题。技术亮点：结合 Chrome DevTools Protocol 实现实时皮肤注入与逆向恢复，利用 AI Agents 自动化皮肤生成与质量检查。适用场景：AI 桌面应用主题定制、开发者快速原型设计、皮肤市场发布流程自动化。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-20T01:58:39.139680+00:00"
+    },
+    {
+      "title": "CyberSunil/LLMVault",
+      "source": "github-trending",
+      "url": "https://github.com/CyberSunil/LLMVault",
+      "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "stars": 200,
+      "language": "Python",
+      "topics": [
+        "agent-security",
+        "ai-security",
+        "ai-security-tool",
+        "artificial-intelligence",
+        "ctf",
+        "docker",
+        "genai",
+        "large-language-models",
+        "llm",
+        "llm-security",
+        "llm-security-testing",
+        "owasp",
+        "owasp-llm-top-10",
+        "penetration-testing",
+        "prompt-injection",
+        "prompt-injection-llm-security",
+        "python",
+        "rag",
+        "red-team",
+        "vulnerable-lab"
+      ],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-18T18:23:05Z",
+      "summary": "LLMVault 是一个基于 OWASP LLM Top 10 漏洞的 AI 安全训练平台，用于解决 LLM 应用中的 Prompt Injection、RAG 安全、Agent 安全及 GenAI 渗透测试等实战训练需求。核心技术亮点包括模拟真实攻击场景的 CTF 挑战、Python 实现的漏洞环境，以及覆盖 Agent 和 RAG 安全的多维度测试用例。适用场景为 AI 安全工程师、红队成员及开发者进行安全技能提升与防御策略验证。",
+      "tags": [
+        "ai-security",
+        "prompt-engineering",
+        "agent",
+        "rag",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-20T01:58:41.151134+00:00"
+    },
+    {
+      "title": "Encod3d-Sec/ClaudeBrain",
+      "source": "github-trending",
+      "url": "https://github.com/Encod3d-Sec/ClaudeBrain",
+      "description": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
+      "stars": 199,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-17T11:42:36Z",
+      "summary": "ClaudeBrain 是一个基于 Karpathy LLM 的 Claude 工具链，利用 Obsidian 笔记库进行渗透测试和漏洞赏金。它通过将 Obsidian 作为知识库，结合 LLM 推理能力，自动化漏洞发现与报告生成。核心技术亮点包括 LLM 驱动的上下文感知分析和 Obsidian 的结构化数据管理。适用于安全研究人员自动化渗透测试流程、漏洞挖掘与知识管理。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-20T01:58:43.175192+00:00"
+    },
+    {
+      "title": "kunchenguid/whathappened",
+      "source": "github-trending",
+      "url": "https://github.com/kunchenguid/whathappened",
+      "description": "Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+      "stars": 186,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-20T01:58:03.852872+00:00",
+      "published_at": "2026-07-16T22:46:57Z",
+      "summary": "whathappened 是一个基于 agent 技能的开源项目，专注于自适应生成仅包含事件摘要、公众舆论和辩论的简报。它解决信息过载问题，通过智能筛选和聚合多源观点，提供简洁的 X-only 视角。核心技术亮点包括自适应内容提取、舆论分析引擎和辩论结构化呈现。适用于新闻聚合、舆情监控和决策辅助场景。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-20T01:58:44.935273+00:00"
+    }
+  ]
+}

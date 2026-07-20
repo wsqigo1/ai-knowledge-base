@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-20-007",
+  "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+  "source": "hackernews-top",
+  "url": "https://github.com/openai/codex/pull/33972/files",
+  "summary": "OpenAI将Codex模型的上下文窗口从372k tokens缩减至272k tokens，旨在解决大上下文带来的计算成本与延迟问题。核心亮点是通过优化注意力机制和缓存策略，在保持代码生成质量的前提下降低资源消耗。适用于需要高效代码补全、重构或解释的开发者工具场景，尤其对实时性要求较高的IDE插件有直接价值。",
+  "tags": [
+    "code-generation",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-20T01:58:04.061623+00:00",
+  "analyzed_at": "2026-07-20T01:58:59.105033+00:00",
+  "organized_at": "2026-07-20T01:59:24.937397+00:00",
+  "status": "published"
+}

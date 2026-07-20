@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-20-006",
+  "title": "Claude Code uses Bun written in Rust now",
+  "source": "hackernews-top",
+  "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+  "summary": "Claude Code 现在使用 Rust 编写的 Bun 运行时，替代了 Node.js。这解决了 JavaScript 工具链的性能瓶颈和依赖管理问题。核心技术亮点是 Bun 的高性能 Rust 实现，提升了 CLI 工具的启动速度和执行效率。适用场景为 AI 辅助编程工具的后端运行时优化，尤其适合需要快速响应和低资源消耗的开发环境。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 8.5,
+  "collected_at": "2026-07-20T01:58:04.061623+00:00",
+  "analyzed_at": "2026-07-20T01:58:53.357195+00:00",
+  "organized_at": "2026-07-20T01:59:24.937397+00:00",
+  "status": "published"
+}

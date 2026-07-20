@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-20-004",
+  "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=48968606",
+  "summary": "该项目用ESP32微控制器和自建WiFi网络替代了传统保龄球中心价值12万美元的计分与管理系统，成本仅1600美元。核心技术包括：ESP32作为传感器节点采集球道数据，通过MQTT协议与中央服务器通信，实现实时计分、灯光控制和会员管理。解决了传统系统成本高昂、封闭且难以定制的问题。适用于中小型娱乐场所的智能化改造场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-20T01:58:04.061623+00:00",
+  "analyzed_at": "2026-07-20T01:58:47.204483+00:00",
+  "organized_at": "2026-07-20T01:59:24.937397+00:00",
+  "status": "published"
+}
