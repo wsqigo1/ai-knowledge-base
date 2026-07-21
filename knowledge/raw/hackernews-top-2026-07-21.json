@@ -1,0 +1,390 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-21T01:42:44.148940+00:00",
+  "date": "2026-07-21",
+  "count": 20,
+  "items": [
+    {
+      "title": "Who's afraid of Chinese models?",
+      "source": "hackernews-top",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=48977128",
+      "description": "",
+      "hn_score": 248,
+      "comments": 167,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "文章探讨中国AI模型（如DeepSeek、Qwen等）的崛起对全球AI格局的影响。解决西方对中国模型能力、安全性和开放性的偏见与误解。核心技术亮点包括中国模型在基准测试中的竞争力、开源生态的快速发展以及成本效益优势。适用场景为AI技术趋势分析、模型选型参考及地缘技术讨论。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-21T01:43:30.912979+00:00"
+    },
+    {
+      "title": "Kimi Work",
+      "source": "hackernews-top",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "hn_url": "https://news.ycombinator.com/item?id=48981703",
+      "description": "",
+      "hn_score": 398,
+      "comments": 183,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Kimi Work 是一个基于大语言模型的智能工作流自动化工具，旨在解决重复性办公任务和复杂流程编排问题。其核心技术亮点包括多步骤任务分解、上下文感知的 agent 协作机制以及灵活的 API 集成能力。适用于自动化数据处理、报告生成、跨系统操作等场景，提升工作效率。",
+      "tags": [
+        "workflow-automation",
+        "agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-21T01:43:33.077821+00:00"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "source": "hackernews-top",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "hn_url": "https://news.ycombinator.com/item?id=48983382",
+      "description": "",
+      "hn_score": 206,
+      "comments": 75,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "该条目讨论人类数学家正在被反例生成算法超越，核心是AI在数学推理中通过构造反例来挑战人类证明的能力。它解决的是数学证明验证和反例自动发现的问题，核心技术亮点在于利用强化学习和搜索算法高效生成反例。适用场景包括数学定理验证、自动推理系统及AI辅助数学研究。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-21T01:43:35.449872+00:00"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "source": "hackernews-top",
+      "url": "https://jelly-ui.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48981620",
+      "description": "",
+      "hn_score": 340,
+      "comments": 135,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Jelly UI 是一个开源项目，通过为原生 HTML 表单控件（如滑块、按钮）添加软体物理效果（弹性、形变、回弹），提升交互趣味性和视觉反馈。它解决了传统表单控件缺乏动态反馈、交互生硬的问题。核心技术亮点是使用轻量级 JavaScript 实现实时物理模拟（基于弹簧-质点模型），无需额外库或 Canvas，直接作用于 DOM 元素。适用场景包括创意表单、游戏化界面、教育工具及需要增强用户体验的 Web 应用。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-21T01:43:38.215927+00:00"
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "source": "hackernews-top",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "hn_url": "https://news.ycombinator.com/item?id=48978605",
+      "description": "",
+      "hn_score": 570,
+      "comments": 324,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "一名黑客删除了罗马尼亚土地登记数据库，导致全国土地所有权记录丢失。该事件暴露了关键基础设施数据库的安全漏洞，缺乏备份和访问控制。核心问题在于数据库未实施多副本冗余和细粒度权限管理。适用场景包括政府数据库安全审计、灾难恢复策略设计。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-21T01:43:40.388380+00:00"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "source": "hackernews-top",
+      "url": "https://blaizzy.github.io/nativ/",
+      "hn_url": "https://news.ycombinator.com/item?id=48982681",
+      "description": "",
+      "hn_score": 178,
+      "comments": 70,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Nativ 是一款 macOS 原生应用，用于在本地运行前沿开源大语言模型（如 Llama、Mistral）。它解决了云端 AI 依赖网络、隐私泄露和高延迟的问题，核心技术亮点包括利用 Apple Silicon 的 Metal 加速实现高效推理、支持模型量化以降低内存占用、提供简洁的聊天界面和 API 兼容接口。适用场景包括离线开发、隐私敏感任务和低成本原型验证。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-21T01:43:42.799007+00:00"
+    },
+    {
+      "title": "Airport Simulator",
+      "source": "hackernews-top",
+      "url": "https://airport.apunen.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48976846",
+      "description": "",
+      "hn_score": 701,
+      "comments": 142,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Airport Simulator 是一个基于浏览器的开源机场模拟游戏，旨在通过实时模拟飞机起降、滑行和调度，展示复杂系统下的资源分配与冲突解决逻辑。其核心技术亮点包括使用 JavaScript 实现的高效事件驱动架构、基于优先级的调度算法以及可视化渲染引擎。适用于学习系统仿真、算法设计或游戏开发的教学场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-21T01:43:45.231236+00:00"
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "source": "hackernews-top",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "hn_url": "https://news.ycombinator.com/item?id=48982535",
+      "description": "",
+      "hn_score": 120,
+      "comments": 49,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "探讨Agent swarms（多智能体集群）与新型模型经济学的结合，解决大规模AI部署中成本与效率的平衡问题。核心亮点在于通过动态任务分配和模型分层（如混合使用小型/大型模型）降低推理成本，同时利用swarm协作提升复杂任务完成率。适用场景包括自动化客服、分布式数据处理和复杂决策系统。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "large-language-model",
+        "workflow-automation",
+        "cost-efficiency"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-21T01:43:47.459867+00:00"
+    },
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "source": "hackernews-top",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "hn_url": "https://news.ycombinator.com/item?id=48979269",
+      "description": "",
+      "hn_score": 979,
+      "comments": 778,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "本文分析中国开源权重AI模型策略的全球影响力。核心论点是中国通过开放模型权重（如Qwen、DeepSeek等）降低AI技术门槛，吸引全球开发者生态，挑战美国闭源模型主导地位。技术亮点在于中国模型在性能与成本间取得平衡，并通过社区反馈快速迭代。适用场景包括AI政策研究、开源生态分析、技术战略评估。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-21T01:43:49.765093+00:00"
+    },
+    {
+      "title": "LEDs’ potential to save our night skies",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "hn_url": "https://news.ycombinator.com/item?id=48978350",
+      "description": "",
+      "hn_score": 209,
+      "comments": 160,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "探讨LED照明技术如何通过优化光谱和亮度控制来减少光污染，保护夜间生态环境。核心在于采用低色温、定向照明和智能调光技术，替代传统高亮度广角照明。适用于城市照明规划、天文观测区域保护及生态敏感区夜间照明设计。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-21T01:43:51.873205+00:00"
+    },
+    {
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "hn_url": "https://news.ycombinator.com/item?id=48981136",
+      "description": "",
+      "hn_score": 60,
+      "comments": 74,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Bloomy 是一个基于 AI 的 K-12 精熟学习平台，利用大型语言模型实现个性化教学。它解决传统教育中一刀切教学导致学生知识漏洞累积的问题，核心技术包括自适应学习路径生成、实时知识状态追踪和智能反馈系统。适用于 K-12 阶段学生的课后辅导、课堂差异化教学及家庭学习场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-21T01:43:54.146253+00:00"
+    },
+    {
+      "title": "My two year old taught me constraint solving",
+      "source": "hackernews-top",
+      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "hn_url": "https://news.ycombinator.com/item?id=48864176",
+      "description": "",
+      "hn_score": 28,
+      "comments": 17,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "文章通过一个两岁孩子解决拼图问题的故事，类比引入约束求解（constraint solving）的概念。核心亮点是用日常生活中的简单例子（如安排玩具顺序）解释约束满足问题（CSP）及其求解算法（如回溯、传播）。适用场景包括教学、算法入门、以及需要直观理解约束求解技术的开发者。",
+      "tags": [
+        "reasoning",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-21T01:43:56.233976+00:00"
+    },
+    {
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "source": "hackernews-top",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "hn_url": "https://news.ycombinator.com/item?id=48979931",
+      "description": "",
+      "hn_score": 146,
+      "comments": 65,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "本文（2012年）深入剖析屏幕空间环境光遮蔽（SSAO）算法的常见误解，指出传统SSAO基于法线半球采样存在根本性缺陷——角落区域因几何遮挡反而被错误地判定为高可见性。作者提出一种基于光线步进（ray marching）的改进方案，通过沿视线方向追踪深度缓冲来精确计算遮蔽值，解决了传统方法在角落、缝隙等细节处的伪影问题。适用于实时渲染、游戏引擎中的高质量环境光遮蔽效果优化。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-07-21T01:43:58.823712+00:00"
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "source": "hackernews-top",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "hn_url": "https://news.ycombinator.com/item?id=48981206",
+      "description": "",
+      "hn_score": 193,
+      "comments": 140,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "该研究测量了arXiv论文中AI辅助写作的比例，发现约10%的论文摘要包含AI写作痕迹，但指出测量方法在非英语母语作者、短文本和特定学科中容易失效。核心亮点是使用GPT-2输出检测器结合人工标注，揭示AI写作在学术界的渗透程度。适用场景包括学术诚信评估、出版政策制定和AI文本检测技术改进。",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-21T01:44:01.088963+00:00"
+    },
+    {
+      "title": "Perfection is not over-engineering",
+      "source": "hackernews-top",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48979120",
+      "description": "",
+      "hn_score": 193,
+      "comments": 89,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "这是一篇关于软件工程哲学的文章，探讨完美主义与过度工程之间的界限。它解决的核心问题是工程师常将追求代码质量误判为过度设计，导致项目陷入无谓的复杂性。技术亮点在于提出一套基于项目生命周期、团队规模和业务目标的决策框架，帮助区分必要的设计抽象与不必要的冗余。适用场景包括技术架构评审、代码规范制定及团队技术债务管理。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-21T01:44:03.350420+00:00"
+    },
+    {
+      "title": "Shinjuku Station in 3D",
+      "source": "hackernews-top",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "hn_url": "https://news.ycombinator.com/item?id=48978792",
+      "description": "",
+      "hn_score": 149,
+      "comments": 28,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Shinjuku Station in 3D 是一个将东京新宿站复杂结构以三维模型形式呈现的开源项目。它解决了导航和空间理解难题，通过整合公开地理数据与WebGL渲染技术，实现高精度、可交互的3D地图。适用于城市导览、交通规划及VR/AR应用开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-07-21T01:44:05.347935+00:00"
+    },
+    {
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "source": "hackernews-top",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "hn_url": "https://news.ycombinator.com/item?id=48980019",
+      "description": "",
+      "hn_score": 287,
+      "comments": 293,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "文章讨论Kimi K3、Qwen 3.8等新模型发布，以及Anthropic可能面临的挑战。核心关注大模型竞争格局变化，解决模型性能与生态发展问题。技术亮点包括模型架构优化与多模态能力提升，适用于AI模型选型与行业趋势分析。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-21T01:44:07.150356+00:00"
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "source": "hackernews-top",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "hn_url": "https://news.ycombinator.com/item?id=48973869",
+      "description": "",
+      "hn_score": 670,
+      "comments": 432,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "Claude Fable 生成了一个雅可比猜想的反例，该猜想是代数几何中一个长期未解决的难题，涉及多项式映射的可逆性。核心亮点是利用大语言模型的推理能力进行数学探索，而非传统证明方法。适用场景为数学研究辅助和AI在理论科学中的应用验证。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-21T01:44:09.210897+00:00"
+    },
+    {
+      "title": "The Voice of Google",
+      "source": "hackernews-top",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+      "hn_url": "https://news.ycombinator.com/item?id=48980053",
+      "description": "",
+      "hn_score": 171,
+      "comments": 89,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "The Voice of Google 是一篇关于谷歌语音技术（如 Google Assistant、语音搜索）的讨论帖，来自 Hacker News，社区热度较高（171 分）。它主要探讨谷歌在语音识别、自然语言理解方面的技术进展与局限性，解决用户对语音交互准确性和实用性的痛点。核心技术亮点包括端到端神经网络模型、多语言支持及上下文感知。适用场景为语音助手开发、智能家居、移动端语音交互优化。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "large-language-model"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-21T01:44:11.653720+00:00"
+    },
+    {
+      "title": "ECC and DDR5",
+      "source": "hackernews-top",
+      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+      "hn_url": "https://news.ycombinator.com/item?id=48969530",
+      "description": "",
+      "hn_score": 121,
+      "comments": 123,
+      "collected_at": "2026-07-21T01:42:43.581231+00:00",
+      "published_at": "2026-07-21T01:42:43.581231+00:00",
+      "summary": "ECC（纠错码）与DDR5内存结合，解决高密度内存中数据错误率上升问题。核心技术亮点：DDR5内置ECC功能（On-die ECC），可纠正单比特错误并检测多比特错误，相比传统外部ECC方案降低延迟与成本。适用场景：服务器、数据中心、AI训练等对数据完整性要求高的环境。",
+      "tags": [
+        "hardware",
+        "memory",
+        "error-correction",
+        "data-integrity"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-21T01:44:13.632323+00:00"
+    }
+  ]
+}
