@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-22-015",
+  "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+  "source": "hackernews-top",
+  "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+  "summary": "Google 宣布在最新 Gemini 模型中弃用并忽略 temperature、top_p 和 top_k 参数，意味着这些传统采样控制参数不再影响模型输出。此举旨在简化 API 接口，减少用户配置负担，同时可能通过内部固定采样策略或新机制替代。核心亮点是消除参数调优的复杂性，但可能限制对输出随机性的精细控制。适用于需要稳定、可复现输出的生产环境，如自动化内容生成或客服场景。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-22T01:30:13.461482+00:00",
+  "analyzed_at": "2026-07-22T01:31:29.244916+00:00",
+  "organized_at": "2026-07-22T01:31:44.120993+00:00",
+  "status": "published"
+}

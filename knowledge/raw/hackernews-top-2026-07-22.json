@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-22T01:30:14.625851+00:00",
+  "date": "2026-07-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "hn_url": "https://news.ycombinator.com/item?id=48997548",
+      "description": "",
+      "hn_score": 701,
+      "comments": 459,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "OpenAI与Hugging Face联合处理模型评估期间的安全事件。该事件暴露了在协作评估开源模型时存在的安全漏洞，核心解决措施包括加强评估流程的审计与权限控制。技术亮点在于双方共同制定安全协议，确保模型评估的透明性与可靠性。适用场景为AI模型的安全评估与开源协作。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-22T01:31:00.416266+00:00"
+    },
+    {
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "source": "hackernews-top",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "hn_url": "https://news.ycombinator.com/item?id=48999291",
+      "description": "",
+      "hn_score": 273,
+      "comments": 137,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "Kimi K3 是一个与 Fable 竞争的大语言模型，两者在多个基准测试中达到 SoTA 水平。该模型主要解决 LLM 在复杂推理和代码生成任务上的性能瓶颈，核心技术包括优化的训练架构和推理策略。适用场景包括代码生成、多步推理和智能助手开发。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "code-generation",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-22T01:31:02.506577+00:00"
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "source": "hackernews-top",
+      "url": "https://freeink.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48996318",
+      "description": "",
+      "hn_score": 404,
+      "comments": 99,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "FreeInk 是一个为电子阅读器打造的开源生态系统，旨在解决现有设备封闭、缺乏可定制性的问题。其核心技术亮点包括提供开放固件、支持第三方应用安装与自定义界面，以及通过模块化设计降低开发者门槛。适用场景包括开发者定制阅读体验、数字阅读器功能扩展及教育领域低成本设备改造。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-07-22T01:31:05.030883+00:00"
+    },
+    {
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "source": "hackernews-top",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "hn_url": "https://news.ycombinator.com/item?id=48998362",
+      "description": "",
+      "hn_score": 158,
+      "comments": 47,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "该条目讨论雅可比猜想反例的消化与理解，雅可比猜想是代数几何中关于多项式映射可逆性的未解决问题。反例的提出旨在挑战该猜想的正确性，核心亮点在于对反例构造的详细解析与验证。适用场景为数学研究、代数几何理论验证及AI在数学推理中的应用探索。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-22T01:31:07.085649+00:00"
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "hn_url": "https://news.ycombinator.com/item?id=48993414",
+      "description": "",
+      "hn_score": 609,
+      "comments": 480,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "Google 发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三个新模型。3.6 Flash 是主力模型，在推理、多模态理解上显著提升，支持 1M token 上下文窗口；3.5 Flash-Lite 是低成本轻量版，适合高吞吐场景；3.5 Flash Cyber 专为网络安全任务优化，如威胁检测和代码分析。解决开发者对高性能、低成本及领域专用模型的需求。核心技术亮点包括混合专家架构、长上下文支持和任务特定微调。适用场景涵盖实时 AI 助手、安全审计、内容生成和成本敏感型应用。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "benchmark",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-07-22T01:31:10.032721+00:00"
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "source": "hackernews-top",
+      "url": "https://ads.openai.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48996571",
+      "description": "",
+      "hn_score": 292,
+      "comments": 294,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "OpenAI 在 ChatGPT 中引入广告，解决其免费服务的盈利问题。核心亮点是将广告以原生形式嵌入对话界面，利用用户意图数据实现精准投放，同时承诺不损害用户体验。适用场景为广告主通过 AI 对话触达用户，以及 OpenAI 探索可持续商业模式。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-22T01:31:12.159564+00:00"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "source": "hackernews-top",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "hn_url": "https://news.ycombinator.com/item?id=48998404",
+      "description": "",
+      "hn_score": 100,
+      "comments": 36,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "该项目通过让GPT-5.6、Claude、Gemini和Grok等大型语言模型以ASCII字符画形式“绘制”蒙娜丽莎，评估不同模型在创意生成与指令遵循方面的能力。核心亮点是使用prompt-engineering技术引导模型输出结构化字符艺术，并对比各模型在细节还原与风格一致性上的表现。适用于LLM创意能力基准测试、多模型对比研究及prompt设计实验场景。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "prompt-engineering",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-22T01:31:14.429271+00:00"
+    },
+    {
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "source": "hackernews-top",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "hn_url": "https://news.ycombinator.com/item?id=48993816",
+      "description": "",
+      "hn_score": 301,
+      "comments": 54,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "西非海域发现一处被认为已灭绝的繁荣珊瑚礁，挑战了该区域珊瑚礁生态系统的认知。该发现通过深海探测技术实现，解决了对西非海洋生物多样性认知的空白。核心亮点在于珊瑚礁的健康状态与高生物多样性，为海洋保护与生态恢复提供了新研究样本。适用场景包括海洋生态研究、生物多样性保护规划及气候变化影响评估。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-22T01:31:16.364184+00:00"
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "source": "hackernews-top",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "hn_url": "https://news.ycombinator.com/item?id=48995213",
+      "description": "",
+      "hn_score": 238,
+      "comments": 219,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "Jack Dorsey 推出 Buzz，一个整合团队聊天、AI 代理和 Git 托管的新平台。它旨在解决开发团队在协作中工具分散、信息孤岛的问题，通过将聊天、代码托管和 AI 驱动的自动化代理融合到单一界面，提升开发效率。核心技术亮点包括内置的 AI 代理（可执行代码审查、任务自动化等）和 Git 仓库管理。适用场景为需要紧密协作的软件开发团队，尤其是希望利用 AI 加速工作流的团队。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-22T01:31:18.690776+00:00"
+    },
+    {
+      "title": "Recreating the math behind the first stealth aircraft",
+      "source": "hackernews-top",
+      "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+      "hn_url": "https://news.ycombinator.com/item?id=48938395",
+      "description": "",
+      "hn_score": 32,
+      "comments": 11,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "文章解析首款隐形飞机（F-117）背后的数学原理，解决雷达隐身设计中的电磁散射计算问题。核心技术亮点包括使用多面体几何形状减少雷达截面（RCS）的数学建模，以及基于物理光学的近似算法。适用于航空工程教育、雷达系统设计及计算电磁学入门研究。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-07-22T01:31:21.055298+00:00"
+    },
+    {
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "source": "hackernews-top",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=48992870",
+      "description": "",
+      "hn_score": 347,
+      "comments": 325,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "苹果公司在一起集体诉讼中获胜，法院裁定其没有义务扫描iCloud中的儿童性虐待材料（CSAM）。该案核心争议在于苹果是否应主动检测用户存储的非法内容，法院判决强调隐私保护与执法责任之间的平衡。技术亮点在于苹果此前提出的设备端CSAM检测方案（如NeuralHash）因隐私争议被搁置，而本案判决进一步确认了端到端加密服务的法律豁免。适用场景包括科技公司的隐私政策制定、数字权利与内容审核的合规框架。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-07-22T01:31:23.999316+00:00"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "hn_url": "https://news.ycombinator.com/item?id=48996652",
+      "description": "",
+      "hn_score": 108,
+      "comments": 80,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "美国法官批准Anthropic以1.5亿美元和解因使用盗版书籍训练Claude引发的版权诉讼。该案核心争议在于AI训练数据合法性，和解金额创下同类案件新高，但未明确界定合理使用边界。技术层面，此案凸显大语言模型训练数据合规性对模型性能与法律风险的双重影响，尤其对依赖大规模文本语料的预训练阶段。适用场景包括AI公司数据采购策略、版权合规框架设计及开源模型训练数据溯源审计。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-07-22T01:31:26.758909+00:00"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "source": "hackernews-top",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "hn_url": "https://news.ycombinator.com/item?id=48998606",
+      "description": "",
+      "hn_score": 35,
+      "comments": 7,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "Google 宣布在最新 Gemini 模型中弃用并忽略 temperature、top_p 和 top_k 参数，意味着这些传统采样控制参数不再影响模型输出。此举旨在简化 API 接口，减少用户配置负担，同时可能通过内部固定采样策略或新机制替代。核心亮点是消除参数调优的复杂性，但可能限制对输出随机性的精细控制。适用于需要稳定、可复现输出的生产环境，如自动化内容生成或客服场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-22T01:31:29.244916+00:00"
+    },
+    {
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "source": "hackernews-top",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "hn_url": "https://news.ycombinator.com/item?id=48997221",
+      "description": "",
+      "hn_score": 374,
+      "comments": 64,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "欧盟法院裁定VPN为合法技术工具，明确其不因用于访问受版权保护内容而违法。该裁决解决了VPN法律地位模糊问题，核心亮点在于区分技术工具本身与使用目的，强调技术中立原则。适用于数字版权、网络隐私及跨境数据合规场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-22T01:31:31.048445+00:00"
+    },
+    {
+      "title": "Map of the world's great castles and fortresses",
+      "source": "hackernews-top",
+      "url": "https://thecastlemap.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48994178",
+      "description": "",
+      "hn_score": 175,
+      "comments": 130,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "该项目是一个交互式地图，展示了全球著名城堡和要塞的地理位置、历史背景和建筑特点。它解决了历史爱好者和旅行者难以直观了解分散城堡分布的问题。核心技术亮点包括基于Web的地图可视化（如Leaflet或Mapbox）、数据聚合与分类标注。适用场景包括历史教育、旅游规划和文化研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-22T01:31:33.056357+00:00"
+    },
+    {
+      "title": "Laguna S 2.1",
+      "source": "hackernews-top",
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48995261",
+      "description": "",
+      "hn_score": 234,
+      "comments": 42,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "Laguna S 2.1 是一个开源项目，旨在解决AI模型部署中的性能瓶颈问题。其核心技术亮点包括优化的推理引擎和动态批处理机制，显著降低延迟并提升吞吐量。适用于需要高效运行大型语言模型的生产环境，如实时对话系统和内容生成服务。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-22T01:31:34.882783+00:00"
+    },
+    {
+      "title": "Apple Private Cloud Compute SoC 3 audit reports",
+      "source": "hackernews-top",
+      "url": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+      "hn_url": "https://news.ycombinator.com/item?id=48995796",
+      "description": "",
+      "hn_score": 102,
+      "comments": 47,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "Apple 发布 Private Cloud Compute SoC 3 审计报告，公开其云端 AI 计算芯片的安全与隐私设计。该报告解决用户对云端 AI 数据处理透明度的信任问题，核心亮点包括硬件级隔离、安全飞地及可验证审计日志。适用于企业级 AI 部署、隐私敏感场景及安全合规评估。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-22T01:31:36.976604+00:00"
+    },
+    {
+      "title": "PCjs Machines",
+      "source": "hackernews-top",
+      "url": "https://www.pcjs.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48992323",
+      "description": "",
+      "hn_score": 188,
+      "comments": 24,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "PCjs Machines 是一个基于 JavaScript 的早期个人电脑模拟器项目，通过浏览器运行经典 PC 软件和操作系统。它解决的是历史软件遗产的可访问性与教育研究需求，核心技术亮点包括精确的硬件级模拟（如 8088 处理器、CGA 显卡）和无需插件的纯前端实现。适用场景包括计算机历史教学、复古软件调试与数字考古。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-22T01:31:39.369375+00:00"
+    },
+    {
+      "title": "My USB Drive Has a Hidden Encrypted Vault",
+      "source": "hackernews-top",
+      "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+      "hn_url": "https://news.ycombinator.com/item?id=48974862",
+      "description": "",
+      "hn_score": 167,
+      "comments": 97,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "该文章介绍一种在USB闪存盘中创建隐藏加密分区的方法，解决用户对便携存储设备中敏感数据的安全保护需求。核心技术亮点包括：利用磁盘分区工具创建隐藏的加密容器，通过特定密码或密钥文件访问，且隐藏分区在常规文件系统中不可见。适用场景为个人数据安全、移动办公中的机密文件保护。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-22T01:31:41.760120+00:00"
+    },
+    {
+      "title": "How an AI Anime Is Created",
+      "source": "hackernews-top",
+      "url": "https://www.aventos.dev/our-process?view=blog",
+      "hn_url": "https://news.ycombinator.com/item?id=49000429",
+      "description": "",
+      "hn_score": 4,
+      "comments": 0,
+      "collected_at": "2026-07-22T01:30:13.461482+00:00",
+      "published_at": "2026-07-22T01:30:13.461482+00:00",
+      "summary": "本文介绍如何利用AI技术创作动漫，涵盖从角色设计、场景生成到动画制作的完整流程。核心解决传统动漫制作成本高、周期长的问题。技术亮点包括使用Stable Diffusion进行图像生成、ControlNet控制角色一致性、以及利用视频生成模型（如AnimateDiff）实现动态效果。适用场景为独立创作者或小型工作室快速制作动画内容。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-07-22T01:31:44.076674+00:00"
+    }
+  ]
+}

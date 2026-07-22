@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-22-005",
+  "title": "livetennisapi/livetennisapi-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+  "summary": "livetennisapi-mcp 是一个基于 Model Context Protocol (MCP) 的服务器，为 Live Tennis API 提供实时网球数据接口。它解决了 LLM 代理（如 Claude、Cursor）获取动态体育信息的难题，核心亮点是通过 MCP 标准化协议封装实时比分、赔率和模型胜率预测，使 AI 能直接调用外部数据源。适用场景包括体育数据分析、实时赛事播报、AI 驱动的投注建议系统等。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "ai-assistant",
+    "developer-tools",
+    "large-language-model"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-22T01:30:13.331967+00:00",
+  "analyzed_at": "2026-07-22T01:30:52.078189+00:00",
+  "organized_at": "2026-07-22T01:31:44.120993+00:00",
+  "status": "published"
+}

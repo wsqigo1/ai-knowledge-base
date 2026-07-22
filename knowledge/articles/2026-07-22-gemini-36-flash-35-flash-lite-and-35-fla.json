@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-22-011",
+  "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+  "summary": "Google 发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三个新模型。3.6 Flash 是主力模型，在推理、多模态理解上显著提升，支持 1M token 上下文窗口；3.5 Flash-Lite 是低成本轻量版，适合高吞吐场景；3.5 Flash Cyber 专为网络安全任务优化，如威胁检测和代码分析。解决开发者对高性能、低成本及领域专用模型的需求。核心技术亮点包括混合专家架构、长上下文支持和任务特定微调。适用场景涵盖实时 AI 助手、安全审计、内容生成和成本敏感型应用。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "benchmark",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 8.5,
+  "collected_at": "2026-07-22T01:30:13.461482+00:00",
+  "analyzed_at": "2026-07-22T01:31:10.032721+00:00",
+  "organized_at": "2026-07-22T01:31:44.120993+00:00",
+  "status": "published"
+}
