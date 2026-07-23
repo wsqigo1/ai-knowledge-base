@@ -1,0 +1,527 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-23T01:49:01.623240+00:00",
+  "date": "2026-07-23",
+  "count": 20,
+  "items": [
+    {
+      "title": "lopopolo/harness-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "stars": 2194,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-18T21:55:49Z",
+      "summary": "lopopolo/harness-engineering 是 Ryan Lopopolo 的个人文集、实地指南和代理上下文包，专注于“马具工程”（Harness Engineering）领域。它解决如何系统化构建、管理和优化 AI 代理的上下文与工具链问题。核心技术亮点包括提供结构化 agent context bundle，整合多源知识以提升代理的推理与工具使用效率。适用场景为 AI 代理开发、多代理系统设计及上下文管理优化。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-23T01:49:03.962676+00:00"
+    },
+    {
+      "title": "nethical6/conversation-steganography",
+      "source": "github-trending",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "stars": 986,
+      "language": "Go",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-18T13:20:49Z",
+      "summary": "conversation-steganography 是一个用 Go 语言编写的开源工具，利用 LLM 在看似正常的对话中隐藏秘密信息。核心原理是通过控制 LLM 生成的对话文本的特定模式（如单词选择、标点或语义结构）来编码数据，接收方使用相同模型解码。解决传统隐写术在自然语言中隐蔽性差的问题，适用于安全通信、数据隐蔽传输等场景。技术亮点在于结合 LLM 的生成能力实现高隐蔽性，无需修改载体文件。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-23T01:49:05.782497+00:00"
+    },
+    {
+      "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "source": "github-trending",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": 920,
+      "language": "Solidity",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-23T01:48:47Z",
+      "summary": "这是一个基于Solidity的MEV套利机器人项目，通过智能合约连接外部自动化脚本实现去中心化交易所间的套利交易。核心解决以太坊上闪电贷与三明治攻击等MEV机会的自动化捕获问题，技术亮点包括链上交易模拟、Gas优化策略及与Uniswap等DEX的交互集成。适用于高频套利场景，但需注意MEV风险与合约安全性。",
+      "tags": [
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-23T01:49:07.705481+00:00"
+    },
+    {
+      "title": "Blaizzy/nativ",
+      "source": "github-trending",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "stars": 761,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-23T01:22:56Z",
+      "summary": "Blaizzy/nativ 是一个 macOS 原生应用，将 MLX 模型集成到本地 AI 工作流中。它解决 Mac 用户运行和监控本地大语言模型时缺乏统一界面和工具链的问题。核心亮点包括：聊天界面、模型服务、性能监控和连接外部工具，全部基于 Apple MLX 框架优化。适用于需要在 Mac 上本地运行、调试或部署 MLX 模型的开发者，尤其适合隐私敏感或离线场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-23T01:49:09.953126+00:00"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs",
+      "source": "github-trending",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "stars": 629,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-21T21:33:07Z",
+      "summary": "Jakubantalik/thinking-orbs 是一个 TypeScript 实现的 AI/Agent UI 加载指示器组件库，提供六种可调状态的虚线思考球动画，支持两种尺寸和自动暗/亮模式切换。核心亮点在于通过 CSS 动画和状态管理模拟 AI 推理过程中的“思考”视觉反馈，解决 Agent 交互中等待状态的用户体验问题。适用于需要展示 AI 处理进度的前端应用，如聊天界面、Agent 工作流或推理过程可视化场景。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-07-23T01:49:11.967770+00:00"
+    },
+    {
+      "title": "smixs/pohuy",
+      "source": "github-trending",
+      "url": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "stars": 538,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T18:24:08Z",
+      "summary": "smixs/pohuy 是一个为 AI 代理设计的俄语俚语（мат）模式库，旨在通过使用更简洁、情感强烈的俄语表达来提升 AI 代理的沟通效率和人性化程度。它解决了标准俄语在特定场景下表达不够直接、缺乏情感张力的问题。核心技术亮点是构建了一个俚语词汇和短语库，并集成到 AI 代理的对话系统中，使其能生成更贴近真实俄语使用者习惯的回复。适用场景包括面向俄语用户的聊天机器人、客服系统或任何需要增强语言表现力的 AI 应用。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-23T01:49:14.784551+00:00"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft",
+      "source": "github-trending",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "stars": 527,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex",
+        "motion-design",
+        "motion-graphics",
+        "product-video",
+        "promo-video",
+        "remotion",
+        "video-generation",
+        "video-production"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-21T04:42:01Z",
+      "summary": "video-shotcraft 是一个为 Claude Code 和 Codex 设计的 AI 视频技能项目，基于 Remotion 框架提供 106 个镜头配方卡片和 161 个运动预览，解决 AI 代理生成电影级产品视频的模板化和可控性问题。核心技术亮点包括预定义的镜头组合、运动效果和可生产模板，支持 TypeScript 开发。适用场景为 AI 代理驱动的自动化视频制作、产品演示和营销内容生成。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-23T01:49:16.784375+00:00"
+    },
+    {
+      "title": "pireel/pireel",
+      "source": "github-trending",
+      "url": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "stars": 443,
+      "language": "TypeScript",
+      "topics": [
+        "ai-video",
+        "capcut",
+        "captions",
+        "talking-head",
+        "video-editor"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T03:22:29Z",
+      "summary": "Pireel 是一个开源、无需后端的 AI 视频编辑器，专为生成“说话头”视频设计。它解决传统视频编辑依赖后端服务、流程复杂的问题，提供故事板、图形设计、动态字幕、主题模板等功能，并利用浏览器 WebCodecs 实现本地导出。核心亮点在于可通过 MCP 协议被任意 AI 代理驱动，实现自动化视频制作。适用于内容创作者、营销人员及需要快速生成 AI 主播视频的场景。",
+      "tags": [
+        "open-source",
+        "mcp",
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-23T01:49:19.120162+00:00"
+    },
+    {
+      "title": "gnipbao/story-to-handdrawn-video",
+      "source": "github-trending",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "stars": 400,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-21T12:25:48Z",
+      "summary": "将中文故事文本或有序图片转换为手绘日记风格动画（无声MP4视频）。解决非专业用户快速生成个性化手绘动画的需求。核心采用JavaScript实现文本/图片到动画帧的映射与渲染，支持故事脚本解析与图像序列合成。适用于短视频创作、儿童故事可视化、教育内容制作等场景。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-23T01:49:21.336544+00:00"
+    },
+    {
+      "title": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "source": "github-trending",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "stars": 378,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-19T14:38:22Z",
+      "summary": "KinetiNode/claude-fable-5-system-prompt-clean 是泄露的 Claude Fable 5 / Mythos 5 系统提示的优化、token 高效版本。它解决了原始提示冗余、token 消耗高的问题，通过重新工程化为干净的 Markdown 格式，使其能在 Gemini 3.1 Pro、ChatGPT 5.6 等先进 LLM 上通用执行。核心技术亮点包括 token 压缩、跨模型兼容性优化。适用场景为需要高效、通用 system prompt 的 LLM 应用开发与测试。",
+      "tags": [
+        "prompt-engineering",
+        "large-language-model",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-23T01:49:23.834511+00:00"
+    },
+    {
+      "title": "yc-duan/fastctx",
+      "source": "github-trending",
+      "url": "https://github.com/yc-duan/fastctx",
+      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+      "stars": 335,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-23T01:34:53Z",
+      "summary": "fastctx 是一个基于 Rust 的高性能 MCP 工具，专为 AI 代理提供快速、上下文高效的仓库操作能力。它解决了 AI 代理在处理大型代码仓库时上下文窗口溢出和响应延迟的核心问题。核心技术亮点包括 Rust 实现的高并发 I/O、智能上下文压缩算法以及 MCP 协议的原生支持。适用场景包括 AI 驱动的代码审查、自动化重构、仓库级代码理解与生成。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "agent",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-23T01:49:26.033546+00:00"
+    },
+    {
+      "title": "Kritt-ai/open-kritt",
+      "source": "github-trending",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "stars": 322,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T10:17:31Z",
+      "summary": "Kritt-ai/open-kritt 是一个基于 JavaScript 的开源项目，通过编排多个 AI 代理协作，自动检测代码中的真实安全漏洞。其核心技术在于多代理系统（multi-agent）设计，每个代理负责特定扫描任务（如静态分析、逻辑推理），并通过协调机制整合结果，提升漏洞发现的准确性和覆盖率。适用于漏洞赏金（bug bounty）、代码审计和安全开发流程，帮助团队高效识别高风险缺陷。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-23T01:49:28.178369+00:00"
+    },
+    {
+      "title": "paxlabs-inc/machine-genome",
+      "source": "github-trending",
+      "url": "https://github.com/paxlabs-inc/machine-genome",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "stars": 283,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-20T13:25:58Z",
+      "summary": "Machine Genome 是一个为模型、智能体、数据集等AI工件提供开放身份与溯源协议的开源项目，采用Go语言实现。其核心是建立统一的身份标识和可追溯性机制，解决AI组件间信任与协作问题。技术亮点包括基于区块链的不可变记录、跨平台兼容性及轻量级协议设计。适用于需要管理多源AI资产的企业级AI平台、模型供应链安全审计及多智能体协作场景。",
+      "tags": [
+        "open-source",
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-23T01:49:30.535611+00:00"
+    },
+    {
+      "title": "livetennisapi/livetennisapi-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "stars": 271,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude",
+        "live-scores",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "sports-api",
+        "sports-data",
+        "tennis",
+        "tennis-api",
+        "typescript"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T16:07:58Z",
+      "summary": "livetennisapi-mcp 是一个基于 MCP 协议的 JavaScript 服务，为 LLM 代理（如 Claude、Cursor）提供实时网球比分、赔率和模型胜率预测。核心通过 MCP 标准化接口封装 Live Tennis API，使 AI 能直接获取结构化体育数据。技术亮点包括实时数据流处理、概率模型集成和低延迟响应。适用于体育数据驱动的 AI 应用，如智能投注助手、赛事分析 Agent 或实时播报系统。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-23T01:49:32.853611+00:00"
+    },
+    {
+      "title": "eli-labz/Agent-Execution-Partnership",
+      "source": "github-trending",
+      "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+      "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+      "stars": 251,
+      "language": "Python",
+      "topics": [
+        "agent-safety",
+        "ai-agents",
+        "ai-governance",
+        "ai-safety",
+        "audit-trail",
+        "autonomous-agents",
+        "control-plane",
+        "llm-agents",
+        "mlops",
+        "policy-engine",
+        "python"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T03:24:16Z",
+      "summary": "Agent Execution Partnership (AEE) 是一个开源控制平面，确保每个AI代理动作在执行前获得授权、执行中可观察、完成后可验证。它解决AI代理行为不可控、缺乏审计和治理的问题。核心技术包括预授权检查、运行时监控和事后审计追踪。适用于需要严格AI治理的企业级代理部署、金融合规场景及安全敏感的多代理系统。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-23T01:49:34.951247+00:00"
+    },
+    {
+      "title": "SeanJ1ang/design-judge-skills",
+      "source": "github-trending",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "stars": 251,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "design-awards",
+        "design-evaluation",
+        "design-research",
+        "hermes-agent",
+        "industrial-design",
+        "openclaw",
+        "opencode",
+        "python"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T06:06:40Z",
+      "summary": "该项目是一个基于证据驱动的Agent技能库，专门用于设计奖项研究、评估、匹配、参赛文案撰写及提交准备。它利用Claude Code和Codex等工具，通过多Agent协作自动化设计奖项申报流程。核心技术亮点包括：将设计评审标准转化为可执行的Agent技能，实现自动化评估与匹配；支持多Agent协同工作，提升申报效率。适用场景为设计团队或设计师需要批量申报多个设计奖项时的自动化辅助。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-23T01:49:37.377975+00:00"
+    },
+    {
+      "title": "KlaatAI/klaatcode",
+      "source": "github-trending",
+      "url": "https://github.com/KlaatAI/klaatcode",
+      "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "stars": 248,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "ai-model",
+        "ai-tools",
+        "artificial-intelligence",
+        "calude-code",
+        "claude",
+        "cli",
+        "code-generation",
+        "coding-agent",
+        "deepseek",
+        "klaatai",
+        "llm",
+        "open-source",
+        "openai",
+        "openclaw",
+        "pair-programming",
+        "terminal"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-22T12:49:00Z",
+      "summary": "KlaatAI/klaatcode 是一个开源终端AI编码代理，通过智能模型路由（支持Claude、GPT、Gemini、DeepSeek等）为每个任务选择最优模型，在保持Claude Code级准确性的同时将成本降低10倍。核心亮点在于模型路由机制，能根据任务复杂度动态分配不同AI模型，避免高成本模型处理简单任务。适用于需要高效、低成本AI辅助编码的开发者，尤其在终端环境下的代码生成、调试和自动化任务场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-23T01:49:39.744546+00:00"
+    },
+    {
+      "title": "realfishsam/agent-notch",
+      "source": "github-trending",
+      "url": "https://github.com/realfishsam/agent-notch",
+      "description": "The open-source alternative to vibe-island",
+      "stars": 246,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-21T14:42:45Z",
+      "summary": "agent-notch 是 vibe-island 的开源替代品，旨在提供自主 AI 代理构建框架。核心亮点基于 Swift 实现，支持多代理协作与工具调用，适用于 macOS/iOS 平台上的自动化工作流与个人 AI 助手开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-23T01:49:41.552316+00:00"
+    },
+    {
+      "title": "joeseesun/qiaomu-cut-skill",
+      "source": "github-trending",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "stars": 236,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-video",
+        "ffmpeg",
+        "nodejs",
+        "subtitles",
+        "video-editing"
+      ],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-19T03:25:56Z",
+      "summary": "Qiaomu-cut-skill 是一个基于 Agent 的视频导演工具，解决视频制作中素材管理、双语字幕生成、品牌包装及渲染可复现性问题。核心亮点包括：通过 ffmpeg 和 Node.js 实现素材治理与自动化处理，支持双语字幕嵌入，提供可验证的渲染流程。适用于 AI 视频编辑、内容创作自动化及品牌营销场景。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-23T01:49:43.681225+00:00"
+    },
+    {
+      "title": "RinDig/icm-architect",
+      "source": "github-trending",
+      "url": "https://github.com/RinDig/icm-architect",
+      "description": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one",
+      "stars": 220,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-23T01:49:00.495367+00:00",
+      "published_at": "2026-07-19T20:07:23Z",
+      "summary": "ICM-Architect 是一个利用 Claude 能力将任意流程、想法或问题转化为 ICM 工作空间（文件夹结构作为智能体架构）的开源工具，也可重构现有文件夹。核心亮点在于将文件夹结构直接映射为智能体架构，实现流程的结构化与自动化。适用于需要快速将复杂问题或流程转化为可执行智能体工作流的场景，如项目管理、知识组织与自动化任务设计。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-23T01:49:45.691900+00:00"
+    }
+  ]
+}

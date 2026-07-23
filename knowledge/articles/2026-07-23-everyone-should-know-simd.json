@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-23-007",
+  "title": "Everyone Should Know SIMD",
+  "source": "hackernews-top",
+  "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+  "summary": "SIMD（Single Instruction, Multiple Data）是一种并行计算技术，允许CPU在单个指令周期内对多个数据元素执行相同操作，解决传统标量处理在数据密集型任务中的性能瓶颈。核心技术亮点包括向量化指令集（如AVX、SSE）和自动向量化编译器优化，适用于图像处理、音频编码、科学计算等需要高吞吐量的场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-23T01:49:00.637175+00:00",
+  "analyzed_at": "2026-07-23T01:49:57.815105+00:00",
+  "organized_at": "2026-07-23T01:50:28.244315+00:00",
+  "status": "published"
+}

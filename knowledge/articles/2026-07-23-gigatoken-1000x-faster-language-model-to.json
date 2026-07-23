@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-23-005",
+  "title": "GigaToken: ~1000x faster Language model tokenization",
+  "source": "hackernews-top",
+  "url": "https://github.com/marcelroed/gigatoken/",
+  "summary": "GigaToken 是一个开源项目，旨在将语言模型分词速度提升约1000倍。它解决传统分词器（如HuggingFace Tokenizers）在处理大规模文本时的性能瓶颈，通过并行化算法和高效内存管理实现极速分词。核心技术包括基于SIMD的并行字符处理、优化的BPE合并策略以及零拷贝字符串操作。适用于需要高频次分词的大规模LLM训练、实时推理或数据预处理场景。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-07-23T01:49:00.637175+00:00",
+  "analyzed_at": "2026-07-23T01:49:51.805569+00:00",
+  "organized_at": "2026-07-23T01:50:28.244315+00:00",
+  "status": "published"
+}

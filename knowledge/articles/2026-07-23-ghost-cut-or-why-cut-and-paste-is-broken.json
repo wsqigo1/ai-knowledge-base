@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-23-012",
+  "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
+  "source": "hackernews-top",
+  "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+  "summary": "Ghost Cut 揭示了剪贴板操作（Cut and Paste）在几乎所有操作系统和应用程序中存在的根本性缺陷：剪切操作后，数据被移除但未立即提供粘贴预览或撤销能力，导致用户频繁丢失数据。核心技术亮点是提出一种新的剪贴板模型，在剪切时保留原始数据直到粘贴完成，并支持可视化历史记录和撤销。适用场景包括桌面应用开发、文本编辑器改进和用户界面设计优化。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-23T01:49:00.637175+00:00",
+  "analyzed_at": "2026-07-23T01:50:23.955985+00:00",
+  "organized_at": "2026-07-23T01:50:28.244315+00:00",
+  "status": "published"
+}
