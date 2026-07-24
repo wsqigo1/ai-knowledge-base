@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-24-015",
+  "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+  "source": "hackernews-top",
+  "url": "https://github.com/izeigerman/claude-thermos",
+  "summary": "Claude-thermos 是一个开源工具，通过保持 Claude 会话的活跃状态来解决会话超时断开问题。其核心技术是定期发送心跳请求或模拟用户交互，防止 Claude 因长时间无操作而自动结束会话。适用于需要长时间运行 Claude 进行复杂任务或持续对话的场景，如数据分析、代码调试或长篇内容生成。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-07-24T01:45:07.813256+00:00",
+  "analyzed_at": "2026-07-24T01:46:42.904108+00:00",
+  "organized_at": "2026-07-24T01:46:50.492490+00:00",
+  "status": "published"
+}

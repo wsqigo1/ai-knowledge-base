@@ -1,0 +1,386 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-24T01:45:09.533183+00:00",
+  "date": "2026-07-24",
+  "count": 20,
+  "items": [
+    {
+      "title": "98.css",
+      "source": "hackernews-top",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "hn_url": "https://news.ycombinator.com/item?id=49028927",
+      "description": "",
+      "hn_score": 207,
+      "comments": 39,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "98.css 是一个纯 CSS 库，用于构建类似 Windows 98 界面的复古风格 UI。它解决了前端开发中快速实现怀旧、拟物化设计的需求。核心技术亮点是仅通过 CSS 类名即可复刻经典 98 风格，无需 JavaScript 依赖。适用场景包括复古游戏、怀旧应用或趣味性项目的前端界面开发。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-24T01:46:04.091402+00:00"
+    },
+    {
+      "title": "Writing by hand is good for your brain",
+      "source": "hackernews-top",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "hn_url": "https://news.ycombinator.com/item?id=49022152",
+      "description": "",
+      "hn_score": 974,
+      "comments": 478,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "文章探讨手写对大脑认知功能的益处，基于神经科学研究，指出手写能增强记忆、理解力和创造力，解决数字输入导致认知浅层化的问题。核心亮点包括手写激活大脑运动与感官区域，促进深度处理。适用场景为教育、个人学习与认知训练。",
+      "tags": [
+        "ai-assistant"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-24T01:46:05.976706+00:00"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "hn_url": "https://news.ycombinator.com/item?id=49026810",
+      "description": "",
+      "hn_score": 226,
+      "comments": 112,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "Echo 是一个利用开源权重模型实现 Fable 级别结果但成本仅为其三分之一的系统。它解决了高性能 AI 推理成本过高的问题，核心技术在于通过模型压缩和高效推理优化降低计算开销。适用场景包括资源受限的部署环境和对成本敏感的 AI 应用开发。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-24T01:46:08.130318+00:00"
+    },
+    {
+      "title": "The Beam Engine",
+      "source": "hackernews-top",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "hn_url": "https://news.ycombinator.com/item?id=49007221",
+      "description": "",
+      "hn_score": 158,
+      "comments": 52,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "The Beam Engine 是一个开源的、基于大型语言模型的推理引擎，旨在解决复杂逻辑推理和知识检索的准确性问题。其核心技术亮点包括结合符号推理与神经网络的混合架构，以及高效的上下文压缩与检索增强生成机制。适用于需要高精度推理的领域，如法律分析、科研辅助和复杂问答系统。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "rag",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-24T01:46:10.430107+00:00"
+    },
+    {
+      "title": "What happened to TheNumbers.com",
+      "source": "hackernews-top",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "hn_url": "https://news.ycombinator.com/item?id=49024691",
+      "description": "",
+      "hn_score": 292,
+      "comments": 125,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "TheNumbers.com是一个电影票房数据网站，近期因数据更新停滞、网站功能退化引发社区讨论。核心问题是该网站作为行业参考数据源的可信度与维护状态存疑。技术亮点在于其长期积累的结构化票房数据集，但缺乏现代API和实时更新机制。适用场景为电影行业数据分析、历史票房研究，但当前已不适合作为实时数据源。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-24T01:46:13.196935+00:00"
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "source": "hackernews-top",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "hn_url": "https://news.ycombinator.com/item?id=49023016",
+      "description": "",
+      "hn_score": 720,
+      "comments": 646,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "该条目报道了美国初创企业创始人联名呼吁政府不要切断中国开源权重AI模型（如DeepSeek等）的访问。核心问题是美国政策可能限制中国开源AI模型在美国的使用，这会影响依赖这些模型进行创新和降低成本的初创公司。技术亮点在于开源权重模型提供了低成本、可定制的AI基础能力，适用于资源有限的初创企业进行产品开发和研究。适用场景包括AI应用开发、学术研究和中小企业的技术集成。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-24T01:46:15.764974+00:00"
+    },
+    {
+      "title": "Building on ATProto",
+      "source": "hackernews-top",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "hn_url": "https://news.ycombinator.com/item?id=49025984",
+      "description": "",
+      "hn_score": 126,
+      "comments": 59,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "ATProto（AT Protocol）是一个去中心化社交网络协议，旨在解决传统社交平台的数据锁定和互操作性问题。其核心技术包括DID（去中心化标识符）、数据仓库（Repository）和联邦式架构，支持用户自托管数据并跨服务迁移。适用场景包括构建去中心化社交应用、开放内容分发网络及用户主权数据管理。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-24T01:46:18.026311+00:00"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "source": "hackernews-top",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49023019",
+      "description": "",
+      "hn_score": 171,
+      "comments": 142,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "文章探讨软件工厂（Software Factories）模式失败的原因，指出仅依赖工具链和工程化（harness engineering）不足以解决根本问题。核心观点是软件工厂过度强调标准化和自动化，忽视了人因、领域复杂性和持续演化的需求。技术亮点在于从系统论和软件工程历史角度分析失败模式，适用场景为大型组织评估软件工程方法论或工具链投资时提供反思。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-24T01:46:20.708530+00:00"
+    },
+    {
+      "title": "Software rendering in 500 lines of bare C++",
+      "source": "hackernews-top",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022038",
+      "description": "",
+      "hn_score": 242,
+      "comments": 47,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "一个用500行C++代码实现软件渲染器的教程项目，解决图形学入门门槛高的问题。核心技术亮点包括：纯CPU渲染管线、无外部依赖、代码极简但完整覆盖三角形光栅化、深度缓冲和纹理映射等核心概念。适用于想理解图形学底层原理的开发者或教学场景。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-24T01:46:23.018406+00:00"
+    },
+    {
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "source": "hackernews-top",
+      "url": "https://learnopengl.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022634",
+      "description": "",
+      "hn_score": 174,
+      "comments": 99,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "Learn OpenGL 是一个系统化的现代 OpenGL 教程资源，旨在解决图形编程入门难、资料碎片化的问题。其核心技术亮点包括：从基础渲染管线到高级光照、PBR、阴影映射等完整覆盖，提供交互式代码示例与清晰的理论解释。适用场景包括游戏开发、实时渲染、计算机图形学学习及 OpenGL 项目原型开发。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-07-24T01:46:25.457475+00:00"
+    },
+    {
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "source": "hackernews-top",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=49022911",
+      "description": "",
+      "hn_score": 118,
+      "comments": 18,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "Palmier Pro 是一个开源的 macOS 视频编辑器，专为 AI 集成而设计。它解决了传统视频编辑软件缺乏 AI 原生支持的问题，提供基于 AI 的自动化剪辑、场景检测和特效生成。核心技术亮点包括模块化架构、对本地 AI 模型的兼容性以及实时预览功能。适用于内容创作者、视频编辑爱好者和 AI 开发者进行高效视频制作与实验。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-24T01:46:27.891519+00:00"
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "source": "hackernews-top",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "hn_url": "https://news.ycombinator.com/item?id=49021597",
+      "description": "",
+      "hn_score": 179,
+      "comments": 204,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "DARPA与美国空军成功试飞AI控制的F-16战斗机，旨在验证AI在空战中的自主决策能力。核心技术亮点包括基于强化学习的空战算法，能够在高速机动中实时优化战术。适用场景为军事航空领域的自主作战系统开发与测试。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.0,
+      "analyzed_at": "2026-07-24T01:46:30.059028+00:00"
+    },
+    {
+      "title": "Astronomers may have found the first exomoon",
+      "source": "hackernews-top",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "hn_url": "https://news.ycombinator.com/item?id=49021783",
+      "description": "",
+      "hn_score": 191,
+      "comments": 76,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "天文学家可能首次发现系外卫星（exomoon），通过分析开普勒太空望远镜数据，利用凌星时间变化（TTV）和凌星持续时间变化（TDV）技术，从恒星亮度变化中识别出卫星候选体。解决系外卫星探测难题，核心亮点是结合多信号统计模型排除假阳性。适用于天文大数据分析和系外行星系统研究。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-24T01:46:32.499716+00:00"
+    },
+    {
+      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "hn_url": "https://news.ycombinator.com/item?id=49024620",
+      "description": "",
+      "hn_score": 58,
+      "comments": 49,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "Screenpipe (YC S26) 是一款记录用户工作流程的工具，将屏幕操作、键盘输入等行为数据转化为可被AI代理利用的结构化信息。它解决AI代理缺乏真实工作上下文的问题，通过持续录制并提取关键事件，生成训练数据或实时触发自动化。核心技术包括屏幕录制、OCR、事件日志解析及与LLM的接口。适用于构建个性化AI助手、工作流自动化及行为分析。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-24T01:46:35.610223+00:00"
+    },
+    {
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/onecli/onecli",
+      "hn_url": "https://news.ycombinator.com/item?id=49023427",
+      "description": "",
+      "hn_score": 80,
+      "comments": 27,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "OneCLI 是一个开源凭证网关，专为 AI 代理设计，防止敏感密钥泄露。它通过拦截 AI 代理的凭证请求，提供安全的临时访问令牌，避免硬编码密钥。核心技术采用轻量级 CLI 工具与 OAuth 2.0 设备授权流程集成，支持多云环境。适用于需要安全调用外部 API 的 AI 代理、自动化工作流及开发测试场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation",
+        "security"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-24T01:46:38.181942+00:00"
+    },
+    {
+      "title": "The arguments against open source AI are bad",
+      "source": "hackernews-top",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "hn_url": "https://news.ycombinator.com/item?id=49024643",
+      "description": "",
+      "hn_score": 203,
+      "comments": 142,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "文章反驳了反对开源AI的主要论点，包括安全风险、滥用可能性和商业影响。核心观点是开源AI促进创新、透明度和民主化，解决闭源AI的集中控制问题。技术亮点在于论证开源模型（如LLaMA）的社区贡献和可审计性。适用场景为AI政策讨论、开源社区和开发者决策。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-24T01:46:40.601932+00:00"
+    },
+    {
+      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+      "source": "hackernews-top",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "hn_url": "https://news.ycombinator.com/item?id=49024882",
+      "description": "",
+      "hn_score": 69,
+      "comments": 55,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "Claude-thermos 是一个开源工具，通过保持 Claude 会话的活跃状态来解决会话超时断开问题。其核心技术是定期发送心跳请求或模拟用户交互，防止 Claude 因长时间无操作而自动结束会话。适用于需要长时间运行 Claude 进行复杂任务或持续对话的场景，如数据分析、代码调试或长篇内容生成。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-07-24T01:46:42.904108+00:00"
+    },
+    {
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "hn_url": "https://news.ycombinator.com/item?id=49015639",
+      "description": "",
+      "hn_score": 380,
+      "comments": 316,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "OpenAI 意外攻击 Hugging Face 的事件，本质是一场关于 AI 模型安全性与开源生态的冲突。它解决了 AI 模型被恶意利用或未经授权访问的问题。核心技术亮点在于揭示了 AI 模型托管平台（如 Hugging Face）可能存在的安全漏洞，以及 OpenAI 在模型部署中的潜在风险。适用场景包括 AI 安全研究、开源社区治理和模型部署策略评估。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-24T01:46:45.392229+00:00"
+    },
+    {
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "source": "hackernews-top",
+      "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "hn_url": "https://news.ycombinator.com/item?id=48978989",
+      "description": "",
+      "hn_score": 50,
+      "comments": 0,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "该项目探讨如何利用OCaml的垃圾回收器（GC）来管理Rust代码中的内存，解决Rust在复杂数据结构或跨语言交互时手动内存管理的痛点。核心技术亮点是借用OCaml的GC机制，通过FFI（外部函数接口）让Rust对象由OCaml的GC自动回收，避免Rust中引用计数或手动释放的复杂性。适用场景包括需要Rust高性能但希望减少内存管理负担的混合语言系统，或OCaml与Rust协同工作的项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-24T01:46:48.088293+00:00"
+    },
+    {
+      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "source": "hackernews-top",
+      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48989065",
+      "description": "",
+      "hn_score": 36,
+      "comments": 9,
+      "collected_at": "2026-07-24T01:45:07.813256+00:00",
+      "published_at": "2026-07-24T01:45:07.813256+00:00",
+      "summary": "Go语言逃逸分析机制详解：解释编译器如何决定变量分配在栈(stack)或堆(heap)上，解决内存分配效率与垃圾回收压力问题。核心技术亮点包括静态分析变量生命周期、内联优化与逃逸判定规则。适用场景为Go性能调优与内存管理优化。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 3.6,
+      "analyzed_at": "2026-07-24T01:46:50.447450+00:00"
+    }
+  ]
+}

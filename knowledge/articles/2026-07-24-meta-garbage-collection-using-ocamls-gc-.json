@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-24-017",
+  "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+  "source": "hackernews-top",
+  "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+  "summary": "该项目探讨如何利用OCaml的垃圾回收器（GC）来管理Rust代码中的内存，解决Rust在复杂数据结构或跨语言交互时手动内存管理的痛点。核心技术亮点是借用OCaml的GC机制，通过FFI（外部函数接口）让Rust对象由OCaml的GC自动回收，避免Rust中引用计数或手动释放的复杂性。适用场景包括需要Rust高性能但希望减少内存管理负担的混合语言系统，或OCaml与Rust协同工作的项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-07-24T01:45:07.813256+00:00",
+  "analyzed_at": "2026-07-24T01:46:48.088293+00:00",
+  "organized_at": "2026-07-24T01:46:50.492490+00:00",
+  "status": "published"
+}
