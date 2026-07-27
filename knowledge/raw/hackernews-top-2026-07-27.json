@@ -1,0 +1,375 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-27T01:55:04.403511+00:00",
+  "date": "2026-07-27",
+  "count": 20,
+  "items": [
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "source": "hackernews-top",
+      "url": "https://beyondloom.com/decker/",
+      "hn_url": "https://news.ycombinator.com/item?id=49060856",
+      "description": "",
+      "hn_score": 223,
+      "comments": 54,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Decker是一个基于Hypercard和经典macOS遗产构建的平台，旨在解决现代交互式多媒体创作工具缺乏易用性和可访问性的问题。其核心技术亮点是复刻了Hypercard的卡片式堆叠架构，支持非程序员快速创建包含文本、图像和简单逻辑的交互式应用。适用场景包括教育、原型设计、个人知识管理及轻量级多媒体展示。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-27T01:55:47.960357+00:00"
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "source": "hackernews-top",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "hn_url": "https://news.ycombinator.com/item?id=49060495",
+      "description": "",
+      "hn_score": 184,
+      "comments": 91,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "法国消防员首次遭遇‘pyrocumulonimbus’（火积雨云）现象，这是一种由极端山火引发的雷暴云，能产生闪电、强风并加剧火势蔓延。该事件凸显了气候变化下新型火灾天气的监测与应对挑战，核心在于利用气象模型和卫星数据实时预测此类云层形成，以提升消防预警和资源调度效率。适用场景包括灾害应急管理、气象预警系统及气候变化研究。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-27T01:55:50.484113+00:00"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "source": "hackernews-top",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49063022",
+      "description": "",
+      "hn_score": 154,
+      "comments": 82,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "一名美国公民因在机场安检时手机被GrapheneOS系统自动擦除而面临指控。GrapheneOS是一款注重隐私和安全的Android系统，其安全策略在设备被强制解锁或检测到异常时自动触发数据擦除。该事件暴露了隐私保护与执法需求之间的冲突，核心技术亮点是系统级安全擦除机制。适用场景包括高安全性需求的个人设备、记者或活动人士的敏感数据保护。",
+      "tags": [
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-07-27T01:55:52.915129+00:00"
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "source": "hackernews-top",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49060724",
+      "description": "",
+      "hn_score": 109,
+      "comments": 34,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Data-Oriented Design (DOD) 是一种软件设计范式，旨在解决传统面向对象设计在 CPU 缓存利用率和数据局部性方面的性能瓶颈。核心亮点是强调数据布局与访问模式优先于抽象层次，通过将数据组织为连续内存块（如数组结构体）来最大化缓存命中率。适用场景包括游戏引擎、实时系统和高性能计算等对延迟敏感的领域。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-27T01:55:55.107158+00:00"
+    },
+    {
+      "title": "Design is compromise",
+      "source": "hackernews-top",
+      "url": "https://stephango.com/design-is-compromise",
+      "hn_url": "https://news.ycombinator.com/item?id=49059367",
+      "description": "",
+      "hn_score": 195,
+      "comments": 73,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "这是一篇关于设计本质的哲学性文章，核心观点是设计即妥协。它解决的是在资源、时间、技术、用户需求等多重约束下，如何做出有效决策的问题。文章通过多个工程和产品案例，阐述优秀设计并非追求完美，而是在冲突目标间找到最佳平衡点。核心技术亮点在于提出系统化的妥协框架，帮助识别关键约束并量化权衡。适用场景包括软件架构设计、产品功能规划、UI/UX决策等需要平衡多方利益的领域。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-27T01:55:57.665363+00:00"
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "source": "hackernews-top",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "hn_url": "https://news.ycombinator.com/item?id=49057241",
+      "description": "",
+      "hn_score": 358,
+      "comments": 112,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Htmx 4.0 是一个宣称首个专门为 Game Boy 平台发布的 JavaScript 库。它旨在通过直接在 Game Boy 上运行 htmx，解决在极低资源硬件上实现动态 Web 交互的挑战。核心技术亮点包括针对 Game Boy 的 Z80 处理器和有限内存（8KB RAM）的编译适配，以及利用 Game Boy Link Cable 实现网络请求的模拟。适用场景为复古计算爱好者和极限编程实验，探索 Web 技术在嵌入式系统上的可能性。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-27T01:56:00.321852+00:00"
+    },
+    {
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "source": "hackernews-top",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "hn_url": "https://news.ycombinator.com/item?id=49059398",
+      "description": "",
+      "hn_score": 104,
+      "comments": 22,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "CheapSecurity 是一个轻量级、自托管的 CCTV 监控系统，专为 Linux 单板计算机（如 Raspberry Pi）设计。它解决了传统监控方案成本高、依赖云服务的问题，核心亮点包括低资源占用、本地视频录制与运动检测、支持 RTSP 流和 Web 界面管理。适用于家庭安防、小型办公室或 DIY 项目，无需额外硬件。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-27T01:56:02.518380+00:00"
+    },
+    {
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "source": "hackernews-top",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "hn_url": "https://news.ycombinator.com/item?id=49057398",
+      "description": "",
+      "hn_score": 179,
+      "comments": 39,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Go Analysis Framework 是 Go 官方团队开发的模块化静态分析框架，旨在解决 Go 代码质量分析和安全检测中工具碎片化、难以扩展的问题。核心亮点包括基于插件架构的分析器组合、支持自定义规则和增量分析，以及深度集成 Go 语言类型系统和 SSA 中间表示。适用于 Go 项目的代码审查、bug 检测、性能优化和合规性检查等场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-27T01:56:04.946758+00:00"
+    },
+    {
+      "title": "The relay market powering token resellers and fraud",
+      "source": "hackernews-top",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "hn_url": "https://news.ycombinator.com/item?id=49058993",
+      "description": "",
+      "hn_score": 153,
+      "comments": 92,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "该条目分析一个为代币转售商和欺诈行为提供动力的中继市场。它揭示了这类市场如何通过技术手段支持代币的非法交易和欺诈活动，核心亮点在于其去中心化的中继机制和匿名交易能力。适用场景包括加密货币生态中的灰色市场监控和反欺诈研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-27T01:56:07.011319+00:00"
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "source": "hackernews-top",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "hn_url": "https://news.ycombinator.com/item?id=49057877",
+      "description": "",
+      "hn_score": 143,
+      "comments": 45,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "文章探讨在AI领域，专注与执行力比技术本身更关键，指出许多团队因分散精力而失败。核心观点是AI应用成功取决于持续迭代和用户反馈，而非模型能力。适用于AI产品经理和创业者反思开发策略。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-27T01:56:09.126647+00:00"
+    },
+    {
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "source": "hackernews-top",
+      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022355",
+      "description": "",
+      "hn_score": 174,
+      "comments": 35,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "该项目展示了作者为打造个性化音乐播放器，自学PCB设计、3D打印和C语言的全过程。它解决了现有音乐设备无法满足个人定制化需求的问题，核心亮点在于跨学科整合硬件与软件，实现从零到一的完整产品构建。适用场景包括嵌入式开发学习、DIY硬件爱好者和音乐设备定制。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-27T01:56:11.249808+00:00"
+    },
+    {
+      "title": "Kill The Cookie Banner",
+      "source": "hackernews-top",
+      "url": "https://killthecookiebanner.eu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49057175",
+      "description": "",
+      "hn_score": 831,
+      "comments": 403,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Kill The Cookie Banner 是一个开源浏览器扩展，旨在自动拒绝或移除网站上的 Cookie 同意弹窗，解决用户隐私干扰和浏览体验问题。其核心技术基于规则匹配和 DOM 操作，能够识别并隐藏常见弹窗，无需依赖外部服务。适用场景包括日常网页浏览、隐私敏感用户及开发者测试环境。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-27T01:56:13.404377+00:00"
+    },
+    {
+      "title": "Show HN: Reverse Minesweeper",
+      "source": "hackernews-top",
+      "url": "https://sunflowersgame.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49057666",
+      "description": "",
+      "hn_score": 149,
+      "comments": 50,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Reverse Minesweeper 是一个反转经典扫雷规则的开源游戏项目：玩家放置地雷而非标记地雷，通过揭示数字区域来规划布局。核心创新在于将传统扫雷的推理逻辑逆向，考验玩家对数字约束的逆向思维。技术实现基于前端游戏引擎，无AI或LLM相关技术。适用场景为休闲娱乐、逻辑谜题爱好者及游戏设计研究。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-27T01:56:15.964051+00:00"
+    },
+    {
+      "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
+      "source": "hackernews-top",
+      "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+      "hn_url": "https://news.ycombinator.com/item?id=48997008",
+      "description": "",
+      "hn_score": 101,
+      "comments": 53,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "该条目讲述一只名为Jimothy的浣熊患有罕见脊柱疾病，并解释其医学意义。内容涉及动物健康与罕见病例科普，不解决AI/LLM领域问题，无核心技术亮点，不适用AI工程师场景。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-07-27T01:56:17.693654+00:00"
+    },
+    {
+      "title": "What's Under Your Feet in New York City?",
+      "source": "hackernews-top",
+      "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+      "hn_url": "https://news.ycombinator.com/item?id=49006049",
+      "description": "",
+      "hn_score": 161,
+      "comments": 34,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "该条目是一篇关于纽约市地下基础设施（如地铁、管道、电缆等）的图文报道，非AI/LLM技术内容。它通过地图和照片展示城市地下的复杂结构，解决公众对城市地下空间认知不足的问题。核心亮点是可视化呈现和实地调查，适用于城市规划和科普教育场景。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-27T01:56:19.664229+00:00"
+    },
+    {
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "source": "hackernews-top",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "hn_url": "https://news.ycombinator.com/item?id=49062259",
+      "description": "",
+      "hn_score": 19,
+      "comments": 3,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "Multiway Turing Machines 是一种扩展经典图灵机模型的理论计算框架，通过引入多路径并行计算能力解决传统图灵机在非确定性计算和分支探索中的效率瓶颈。其核心技术在于允许机器在每一步操作中同时沿多个状态分支执行，并支持分支间的同步与合并，从而在理论上模拟并行计算和量子计算的部分特性。适用场景包括计算理论教学、非确定性算法分析以及探索新型计算模型的基础研究。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-07-27T01:56:22.394168+00:00"
+    },
+    {
+      "title": "Some more things about Django I've been enjoying",
+      "source": "hackernews-top",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "hn_url": "https://news.ycombinator.com/item?id=48997828",
+      "description": "",
+      "hn_score": 132,
+      "comments": 83,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "文章分享了作者在使用Django框架时发现的一些实用技巧和特性，如数据库查询优化、模板系统高级用法等。旨在帮助开发者更高效地利用Django构建Web应用。核心技术亮点包括ORM优化、自定义中间件和信号机制。适用于Django开发者提升项目性能和代码质量。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-07-27T01:56:24.404323+00:00"
+    },
+    {
+      "title": "It's not empowering to hand off the details",
+      "source": "hackernews-top",
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "hn_url": "https://news.ycombinator.com/item?id=49060592",
+      "description": "",
+      "hn_score": 182,
+      "comments": 102,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "文章批评将技术细节完全交给AI工具的做法，认为这削弱了工程师的理解和掌控能力。核心观点是：真正赋能需要工程师深入理解底层机制，而非依赖黑箱输出。适用于AI辅助开发场景，强调保持技术透明度与批判性思维。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-27T01:56:26.291070+00:00"
+    },
+    {
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "source": "hackernews-top",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49058669",
+      "description": "",
+      "hn_score": 268,
+      "comments": 233,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "伦敦盖特威克机场推出机器人代客泊车服务，解决旅客停车找车耗时问题。核心技术为自主导航机器人（类似AGV）与停车场管理系统集成，通过激光雷达和视觉SLAM实现车辆自动存取。适用于机场、商场等大型停车场场景。",
+      "tags": [
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-27T01:56:28.366116+00:00"
+    },
+    {
+      "title": "The Strongest El Niño Ever",
+      "source": "hackernews-top",
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "hn_url": "https://news.ycombinator.com/item?id=49060978",
+      "description": "",
+      "hn_score": 215,
+      "comments": 215,
+      "collected_at": "2026-07-27T01:55:02.345386+00:00",
+      "published_at": "2026-07-27T01:55:02.345386+00:00",
+      "summary": "The Strongest El Niño Ever 是一篇关于历史上最强厄尔尼诺现象的科学分析文章，旨在解释其形成机制、气候影响及预测挑战。核心技术亮点包括利用海洋-大气耦合模型和长期观测数据量化强度，并对比历史事件。适用场景为气候研究、灾害预警及环境政策制定。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-27T01:56:30.603443+00:00"
+    }
+  ]
+}

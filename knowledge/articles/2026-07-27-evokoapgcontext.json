@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-27-012",
+  "title": "Evokoa/pgContext",
+  "source": "github-trending",
+  "url": "https://github.com/Evokoa/pgContext",
+  "summary": "Evokoa/pgContext 是一个将 AI 搜索引擎直接集成到 Postgres 数据库中的开源项目，用 Rust 实现。它解决了传统 RAG 系统需要额外向量数据库和复杂管道的问题，核心亮点是在数据库内部实现全文搜索与向量搜索的混合检索，并支持实时索引和语义理解。适用场景包括需要快速构建智能搜索功能的 SaaS 应用、知识库系统或数据分析平台，尤其适合已使用 Postgres 的团队。",
+  "tags": [
+    "rag",
+    "vector-database",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-27T01:55:02.161016+00:00",
+  "analyzed_at": "2026-07-27T01:55:45.598364+00:00",
+  "organized_at": "2026-07-27T01:56:30.635230+00:00",
+  "status": "published"
+}

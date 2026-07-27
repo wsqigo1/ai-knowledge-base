@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-27-017",
+  "title": "Go Analysis Framework: modular static analysis by go team",
+  "source": "hackernews-top",
+  "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+  "summary": "Go Analysis Framework 是 Go 官方团队开发的模块化静态分析框架，旨在解决 Go 代码质量分析和安全检测中工具碎片化、难以扩展的问题。核心亮点包括基于插件架构的分析器组合、支持自定义规则和增量分析，以及深度集成 Go 语言类型系统和 SSA 中间表示。适用于 Go 项目的代码审查、bug 检测、性能优化和合规性检查等场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-27T01:55:02.345386+00:00",
+  "analyzed_at": "2026-07-27T01:56:04.946758+00:00",
+  "organized_at": "2026-07-27T01:56:30.635230+00:00",
+  "status": "published"
+}

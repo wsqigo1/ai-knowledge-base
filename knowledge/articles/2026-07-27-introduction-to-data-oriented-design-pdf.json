@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-27-014",
+  "title": "Introduction to Data-Oriented Design [pdf]",
+  "source": "hackernews-top",
+  "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+  "summary": "Data-Oriented Design (DOD) 是一种软件设计范式，旨在解决传统面向对象设计在 CPU 缓存利用率和数据局部性方面的性能瓶颈。核心亮点是强调数据布局与访问模式优先于抽象层次，通过将数据组织为连续内存块（如数组结构体）来最大化缓存命中率。适用场景包括游戏引擎、实时系统和高性能计算等对延迟敏感的领域。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-27T01:55:02.345386+00:00",
+  "analyzed_at": "2026-07-27T01:55:55.107158+00:00",
+  "organized_at": "2026-07-27T01:56:30.635230+00:00",
+  "status": "published"
+}
