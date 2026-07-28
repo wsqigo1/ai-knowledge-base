@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-28-013",
+  "title": "Self-contained highly-portable Python distributions",
+  "source": "hackernews-top",
+  "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+  "summary": "Self-contained highly-portable Python distributions 是提供独立、可移植 Python 运行环境的工具，解决依赖冲突和跨平台部署难题。核心技术亮点包括预编译二进制包、零系统依赖、支持多种架构（x86/ARM）。适用于 CI/CD 流水线、容器化应用、离线环境及嵌入式系统。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-28T01:29:18.043192+00:00",
+  "analyzed_at": "2026-07-28T01:30:10.126611+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}

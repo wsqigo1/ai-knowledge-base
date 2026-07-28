@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-07-28-012",
+  "title": "Watching Go's new garbage collector move through the heap",
+  "source": "hackernews-top",
+  "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+  "summary": "本文深入剖析了Go语言新垃圾回收器（基于并发标记-清除与区域整理）在堆内存中的移动过程。它解决了传统GC在高并发场景下因内存碎片化和停顿时间过长导致的性能瓶颈。核心技术亮点包括利用并发整理算法减少STW（Stop-The-World）时间，并通过写屏障和辅助GC线程实现低延迟。适用于对Go运行时性能敏感的高并发服务、实时系统及内存密集型应用。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-28T01:29:18.043192+00:00",
+  "analyzed_at": "2026-07-28T01:30:05.645807+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}

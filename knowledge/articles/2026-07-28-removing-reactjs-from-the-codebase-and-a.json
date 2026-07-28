@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-28-015",
+  "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+  "source": "hackernews-top",
+  "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+  "summary": "该项目将React.js从代码库中移除，改用Htmx实现UI交互，解决了React在简单交互场景下的过度复杂性问题。核心亮点是Htmx通过HTML属性直接支持AJAX、CSS过渡和WebSocket，无需JavaScript框架即可实现动态UI。适用场景为需要轻量级交互、避免前端工程化复杂度的中小型Web应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-07-28T01:29:18.043192+00:00",
+  "analyzed_at": "2026-07-28T01:30:21.298356+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}

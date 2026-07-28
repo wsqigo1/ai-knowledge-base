@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-28-011",
+  "title": "Benchmarking Opus 5 on SlopCodeBench",
+  "source": "hackernews-top",
+  "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+  "summary": "该条目介绍Opus 5模型在SlopCodeBench基准测试上的表现。SlopCodeBench是一个针对代码生成任务中低质量、冗余或错误代码（即“slop code”）的评估基准。核心亮点在于通过专门设计的测试集，量化模型生成可维护、无冗余代码的能力，而非仅关注功能正确性。适用场景包括评估和改进LLM在代码生成中的实用性与代码质量，尤其适合开发者工具和代码辅助系统的研发。",
+  "tags": [
+    "benchmark",
+    "code-generation",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-28T01:29:18.043192+00:00",
+  "analyzed_at": "2026-07-28T01:30:02.901181+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}

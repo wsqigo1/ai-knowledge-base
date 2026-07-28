@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-28-020",
+  "title": "How is the Bun rewrite in Rust going?",
+  "source": "hackernews-top",
+  "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+  "summary": "Bun 项目正将其 JavaScript 运行时核心从 Zig 重写为 Rust，旨在解决 Zig 生态工具链不成熟、社区贡献门槛高的问题。核心技术亮点是利用 Rust 的内存安全性和丰富库生态提升性能与可维护性，同时保持对 Node.js API 的兼容。适用场景包括高性能 Web 服务、CLI 工具和构建工具链开发。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-28T01:29:18.043192+00:00",
+  "analyzed_at": "2026-07-28T01:30:43.064891+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}

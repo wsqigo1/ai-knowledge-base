@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-28-005",
+  "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+  "source": "github-trending",
+  "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+  "summary": "NERV-BREAK-5.6 是一个针对 GPT-5.6 的破甲框架，旨在绕过模型的安全限制（jailbreak）。它通过三层纵深防御实现：上下文重构使拒绝机制失效，23条篡改规则实时消除拒绝响应以保持对话连续性，文件路由绕过云端审核。集成31个MCP安全工具、28个技能模块及Kali四后端，支持Codex CLI即装即用。适用于红队测试、安全研究及对抗性攻击模拟场景。",
+  "tags": [
+    "prompt-engineering",
+    "mcp",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-28T01:29:17.828425+00:00",
+  "analyzed_at": "2026-07-28T01:29:50.286411+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}

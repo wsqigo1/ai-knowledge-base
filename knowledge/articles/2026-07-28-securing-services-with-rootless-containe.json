@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-28-014",
+  "title": "Securing Services with Rootless Containers",
+  "source": "hackernews-top",
+  "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+  "summary": "Rootless Containers 是一种无需 root 权限即可运行容器的技术，解决容器运行时因特权提升导致的安全风险。核心亮点包括通过用户命名空间映射实现非 root 用户运行容器进程、限制对宿主机资源的访问，以及兼容 Docker 和 Podman 等主流工具。适用场景包括多租户环境、CI/CD 流水线及对安全合规要求高的生产部署。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-28T01:29:18.043192+00:00",
+  "analyzed_at": "2026-07-28T01:30:14.750638+00:00",
+  "organized_at": "2026-07-28T01:30:43.113052+00:00",
+  "status": "published"
+}
