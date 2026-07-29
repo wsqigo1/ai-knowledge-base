@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-29-012",
+  "title": "MCP 2026-07-28 Specification: transport going stateless",
+  "source": "hackernews-top",
+  "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+  "summary": "MCP 2026-07-28 规范提出将传输层改为无状态设计。核心解决现有有状态连接在分布式场景下的扩展性与容错问题，通过移除会话依赖，使客户端请求可独立路由至任意服务实例。技术亮点包括简化握手协议、引入请求级上下文标识符，并兼容现有 HTTP/SSE 传输。适用于高并发 AI Agent 调用、边缘计算及微服务架构中的工具调用场景。",
+  "tags": [
+    "mcp",
+    "agent",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-07-29T01:29:43.401612+00:00",
+  "analyzed_at": "2026-07-29T01:30:58.845809+00:00",
+  "organized_at": "2026-07-29T01:31:10.972716+00:00",
+  "status": "published"
+}

@@ -1,0 +1,382 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-29T01:29:44.582281+00:00",
+  "date": "2026-07-29",
+  "count": 20,
+  "items": [
+    {
+      "title": "Codex Security",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/codex-security",
+      "hn_url": "https://news.ycombinator.com/item?id=49089755",
+      "description": "",
+      "hn_score": 336,
+      "comments": 92,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Codex Security 是一个专注于 AI 代码生成安全性的开源项目，解决 LLM 生成代码中存在的安全漏洞和合规风险。其核心技术亮点包括基于静态分析的安全扫描、实时漏洞检测以及针对常见框架的规则库。适用场景为开发者在集成 AI 代码助手（如 GitHub Copilot）时，自动审查生成代码的安全性。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-29T01:30:30.601544+00:00"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "source": "hackernews-top",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "hn_url": "https://news.ycombinator.com/item?id=49089814",
+      "description": "",
+      "hn_score": 137,
+      "comments": 57,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "将经典游戏《半条命》移植到 Mac OS 9 系统，解决旧版操作系统无法运行现代游戏的问题。核心技术包括逆向工程、系统 API 适配和性能优化，适用于复古计算爱好者和游戏历史研究场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-29T01:30:32.445252+00:00"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "source": "hackernews-top",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "hn_url": "https://news.ycombinator.com/item?id=49090607",
+      "description": "",
+      "hn_score": 111,
+      "comments": 35,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "这是一个用户脚本（userscript），解决浏览Hacker News时每次链接需要打开两个标签页的问题。核心功能是通过脚本自动在Hacker News页面内嵌目标链接内容，减少标签页切换。技术亮点是轻量级、基于用户脚本管理器（如Tampermonkey）运行，无需安装扩展。适用场景：频繁浏览Hacker News并希望快速预览链接内容的用户。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-29T01:30:34.659385+00:00"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "source": "hackernews-top",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "hn_url": "https://news.ycombinator.com/item?id=49086788",
+      "description": "",
+      "hn_score": 411,
+      "comments": 209,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "这篇文章讨论Substack作者为何需要独立网站，核心问题是依赖单一平台的风险。技术亮点在于强调通过独立网站实现内容所有权、SEO优化和读者数据控制。适用场景是内容创作者和独立写作者，希望减少平台依赖并增强品牌自主性。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-29T01:30:36.412056+00:00"
+    },
+    {
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "source": "hackernews-top",
+      "url": "https://www.hubble.md/",
+      "hn_url": "https://news.ycombinator.com/item?id=49091730",
+      "description": "",
+      "hn_score": 25,
+      "comments": 4,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Hubble 是一个开源笔记应用，专为人类用户和 AI 代理设计。它解决传统笔记工具无法被 AI 代理有效访问和操作的问题，核心亮点在于将笔记数据以结构化、可编程的方式暴露给 AI 代理，支持代理自主读写、检索和协作。技术实现上可能结合了向量存储和 API 接口。适用场景包括个人知识管理、AI 辅助研究、以及需要人类与 AI 代理共享和协作笔记的团队或开发环境。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-29T01:30:39.041641+00:00"
+    },
+    {
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "source": "hackernews-top",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "hn_url": "https://news.ycombinator.com/item?id=49086971",
+      "description": "",
+      "hn_score": 196,
+      "comments": 82,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Steel Bank Common Lisp (SBCL) 2.6.7 是 Common Lisp 实现的最新版本，主要解决编译器性能、运行时稳定性和跨平台兼容性问题。核心技术亮点包括改进的代码生成优化、增强的线程安全性和更好的类型推导能力，适用于高性能计算、AI 原型开发及需要动态语言灵活性的系统编程场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-29T01:30:41.071759+00:00"
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "source": "hackernews-top",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49085698",
+      "description": "",
+      "hn_score": 304,
+      "comments": 40,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Kimi K3 是 Moonshot AI 发布的大规模语言模型架构，旨在解决长上下文处理与推理效率的平衡问题。核心技术亮点包括采用混合注意力机制（Hybrid Attention）与稀疏激活（Sparse Activation）设计，在保持长文本理解能力的同时降低计算成本。适用场景为需要高效处理超长文档、复杂推理的 AI 应用，如科研文献分析、法律合同审查等。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-29T01:30:43.088650+00:00"
+    },
+    {
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "source": "hackernews-top",
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49092151",
+      "description": "",
+      "hn_score": 5,
+      "comments": 0,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "通过编写一个 Markdown 到 HTML 编译器来学习 Rust 语言的项目。解决 Rust 初学者缺乏实践项目的问题，核心技术亮点是使用 Rust 的字符串处理和模式匹配实现解析与转换逻辑。适用场景为 Rust 入门学习、编译器原理实践。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-07-29T01:30:45.099035+00:00"
+    },
+    {
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "source": "hackernews-top",
+      "url": "https://www.slow-journalism.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49085731",
+      "description": "",
+      "hn_score": 235,
+      "comments": 136,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "《Delayed Gratification》是一家自称“最后报道突发新闻”的杂志，旨在对抗新闻业的即时性焦虑。它通过延迟发布新闻（通常数周或数月），让记者有时间核实事实、提供深度分析和背景，从而解决假新闻和浅层报道问题。核心技术亮点是“慢新闻”理念，强调质量而非速度，适用于需要深度理解和长期价值的新闻消费场景。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 3.3,
+      "analyzed_at": "2026-07-29T01:30:47.274829+00:00"
+    },
+    {
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "hn_url": "https://news.ycombinator.com/item?id=49087306",
+      "description": "",
+      "hn_score": 139,
+      "comments": 248,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Apple 将 iPhone Upgrade Program 替换为 Apple Upgrade，这是一个面向消费者的硬件订阅服务，允许用户每年升级到最新 iPhone。核心亮点是简化了升级流程，整合了 AppleCare+ 和分期付款，但技术层面不涉及 AI/LLM 领域。适用场景为消费电子零售和用户忠诚度管理。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-29T01:30:49.322553+00:00"
+    },
+    {
+      "title": "Zig's Incremental Compilation Internals",
+      "source": "hackernews-top",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "hn_url": "https://news.ycombinator.com/item?id=49085666",
+      "description": "",
+      "hn_score": 194,
+      "comments": 134,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Zig's Incremental Compilation Internals 深入解析 Zig 编译器增量编译的实现机制。它解决传统编译器中全量重编译导致开发效率低下的问题，通过细粒度依赖追踪和缓存复用，仅重新编译修改部分。核心技术亮点包括基于 AST 的增量分析、编译单元隔离和高效缓存失效策略。适用于需要快速迭代的 Zig 项目开发，尤其对编译器设计者和系统编程工程师有参考价值。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-29T01:30:51.748667+00:00"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "hn_url": "https://news.ycombinator.com/item?id=49087091",
+      "description": "",
+      "hn_score": 178,
+      "comments": 120,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "该文章探讨如何利用Claude（Anthropic的LLM）辅助发现密码学实现中的安全弱点。核心是使用Claude的代码理解与推理能力，分析加密算法实现（如RSA、AES）中的潜在漏洞，例如侧信道攻击、随机数生成缺陷或协议实现错误。技术亮点包括将Claude作为静态分析工具，结合提示工程引导其关注特定密码学模式（如不安全的填充方案）。适用场景为安全审计、密码库代码审查及CTF挑战分析。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "prompt-engineering",
+        "ai-assistant",
+        "security"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-29T01:30:54.475203+00:00"
+    },
+    {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "source": "hackernews-top",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "hn_url": "https://news.ycombinator.com/item?id=49083314",
+      "description": "",
+      "hn_score": 563,
+      "comments": 238,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "该条目报道了一种新型HIV疫苗在临床前研究中取得前所未有的成功。它解决了HIV疫苗开发长期面临的免疫原性不足和病毒多样性挑战。核心技术亮点在于疫苗设计能诱导广泛中和抗体，覆盖多种病毒株。适用场景为HIV预防性疫苗研发领域。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-29T01:30:56.313688+00:00"
+    },
+    {
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "source": "hackernews-top",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "hn_url": "https://news.ycombinator.com/item?id=49088058",
+      "description": "",
+      "hn_score": 103,
+      "comments": 34,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "MCP 2026-07-28 规范提出将传输层改为无状态设计。核心解决现有有状态连接在分布式场景下的扩展性与容错问题，通过移除会话依赖，使客户端请求可独立路由至任意服务实例。技术亮点包括简化握手协议、引入请求级上下文标识符，并兼容现有 HTTP/SSE 传输。适用于高并发 AI Agent 调用、边缘计算及微服务架构中的工具调用场景。",
+      "tags": [
+        "mcp",
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-29T01:30:58.845809+00:00"
+    },
+    {
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "hn_url": "https://news.ycombinator.com/item?id=49082022",
+      "description": "",
+      "hn_score": 280,
+      "comments": 117,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "Kimi Linear 是一种新型注意力架构，旨在解决传统 Transformer 中二次复杂度问题。其核心技术亮点是线性复杂度注意力机制，通过近似方法保持表达能力同时降低计算开销。适用于长序列处理、实时推理等场景，如文档分析、对话系统。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.9,
+      "analyzed_at": "2026-07-29T01:31:00.499247+00:00"
+    },
+    {
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "source": "hackernews-top",
+      "url": "https://unawatch.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49084813",
+      "description": "",
+      "hn_score": 136,
+      "comments": 88,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "这是一款开源、可维修的GPS智能手表，采用USB-C充电，面向开发者友好。它解决了传统智能手表不可维修、充电接口不通用、软件封闭的问题。核心技术亮点包括模块化硬件设计、USB-C接口、开放固件和开发工具链。适用场景为嵌入式开发、可穿戴设备原型设计、开源硬件爱好者及注重环保的用户。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-29T01:31:02.445213+00:00"
+    },
+    {
+      "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
+      "source": "hackernews-top",
+      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+      "hn_url": "https://news.ycombinator.com/item?id=49090867",
+      "description": "",
+      "hn_score": 116,
+      "comments": 64,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "这是一篇关于海洋缺氧威胁地球稳定性的研究报道，非AI/LLM技术内容。核心问题是全球变暖导致海洋溶解氧下降，影响生态系统和气候稳定。研究通过分析历史数据和模型预测，揭示缺氧加剧的机制。适用于环境科学领域，但对AI工程师无直接技术价值。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-29T01:31:04.334004+00:00"
+    },
+    {
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "source": "hackernews-top",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "hn_url": "https://news.ycombinator.com/item?id=49084987",
+      "description": "",
+      "hn_score": 111,
+      "comments": 95,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "该文章主张当前是让LLMs访问ACM数字图书馆的合适时机。它解决了LLMs在学术知识获取上的局限性，即模型训练数据通常不包含最新或付费学术文献。核心技术亮点是提出通过API或直接索引方式，将ACM数字图书馆的权威计算机科学论文纳入LLM的检索增强生成（RAG）流程，从而提升模型在科研、编程等场景下的准确性和时效性。适用场景包括学术研究辅助、代码生成验证、技术文献综述等。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-29T01:31:07.039299+00:00"
+    },
+    {
+      "title": "How Do I Profile eBPF Code?",
+      "source": "hackernews-top",
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+      "hn_url": "https://news.ycombinator.com/item?id=49085811",
+      "description": "",
+      "hn_score": 111,
+      "comments": 6,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "该文章介绍如何对eBPF代码进行性能分析，解决eBPF程序调试和优化中缺乏有效profiling工具的问题。核心技术亮点包括使用perf、bpftrace等工具进行采样和跟踪，以及结合火焰图可视化性能瓶颈。适用场景为Linux内核和系统编程中的eBPF性能调优。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-07-29T01:31:08.860216+00:00"
+    },
+    {
+      "title": "How to survive boiling water",
+      "source": "hackernews-top",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "hn_url": "https://news.ycombinator.com/item?id=49036068",
+      "description": "",
+      "hn_score": 453,
+      "comments": 101,
+      "collected_at": "2026-07-29T01:29:43.401612+00:00",
+      "published_at": "2026-07-29T01:29:43.401612+00:00",
+      "summary": "该条目标题为“How to survive boiling water”，但内容未提供具体技术细节。从HN高分（453）推测，可能是一篇关于极端环境生存或幽默讽刺的技术文章，而非直接涉及AI/LLM领域。它可能探讨在高温环境下的生存策略或隐喻技术挑战，但缺乏明确的技术核心。适用场景有限，主要作为社区趣味讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-07-29T01:31:10.926131+00:00"
+    }
+  ]
+}

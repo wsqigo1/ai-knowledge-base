@@ -1,7 +1,235 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1268,
+  "total_count": 1283,
   "entries": [
+    {
+      "id": "kb-2026-07-29-001",
+      "title": "0xwilliamortiz/ponytail-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "file": "2026-07-29-0xwilliamortizponytail-improved.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-002",
+      "title": "icebird1998/scientific-illustrator",
+      "source": "github-trending",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "file": "2026-07-29-icebird1998scientific-illustrator.json",
+      "tags": [
+        "mcp",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-003",
+      "title": "LYiHub/pub-local-jarvis",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/pub-local-jarvis",
+      "file": "2026-07-29-lyihubpub-local-jarvis.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "local-ai",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-004",
+      "title": "AmazingAng/old-coder",
+      "source": "github-trending",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "file": "2026-07-29-amazingangold-coder.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-005",
+      "title": "NanmiCoder/open-image-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/NanmiCoder/open-image-prompts",
+      "file": "2026-07-29-nanmicoderopen-image-prompts.json",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "agent"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-006",
+      "title": "gavamedia/deltafin",
+      "source": "github-trending",
+      "url": "https://github.com/gavamedia/deltafin",
+      "file": "2026-07-29-gavamediadeltafin.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-007",
+      "title": "Codex Security",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/codex-security",
+      "file": "2026-07-29-codex-security.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-008",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "source": "hackernews-top",
+      "url": "https://www.hubble.md/",
+      "file": "2026-07-29-hubble-open-source-notetaking-app-for-yo.json",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-009",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "source": "hackernews-top",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "file": "2026-07-29-kimi-k3-architecture-overview-and-notes.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-010",
+      "title": "Zig's Incremental Compilation Internals",
+      "source": "hackernews-top",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "file": "2026-07-29-zigs-incremental-compilation-internals.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-011",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "file": "2026-07-29-discovering-cryptographic-weaknesses-wit.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "prompt-engineering",
+        "ai-assistant",
+        "security"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-012",
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "source": "hackernews-top",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "file": "2026-07-29-mcp-2026-07-28-specification-transport-g.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-013",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "file": "2026-07-29-kimi-linear-an-expressive-efficient-atte.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.9,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-014",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "source": "hackernews-top",
+      "url": "https://unawatch.com/",
+      "file": "2026-07-29-una-gps-smart-watch-repairable-usb-c-cha.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
+    {
+      "id": "kb-2026-07-29-015",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "source": "hackernews-top",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "file": "2026-07-29-now-is-the-time-to-give-llms-access-to-t.json",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-07-29T01:31:10.972716+00:00"
+    },
     {
       "id": "kb-2026-07-28-001",
       "title": "kvcache-ai/AgentENV",
@@ -18818,5 +19046,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-07-28T01:30:43.253834+00:00"
+  "last_updated": "2026-07-29T01:31:11.087316+00:00"
 }

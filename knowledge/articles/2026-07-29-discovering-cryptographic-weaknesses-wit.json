@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-29-011",
+  "title": "Discovering Cryptographic Weaknesses with Claude",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+  "summary": "该文章探讨如何利用Claude（Anthropic的LLM）辅助发现密码学实现中的安全弱点。核心是使用Claude的代码理解与推理能力，分析加密算法实现（如RSA、AES）中的潜在漏洞，例如侧信道攻击、随机数生成缺陷或协议实现错误。技术亮点包括将Claude作为静态分析工具，结合提示工程引导其关注特定密码学模式（如不安全的填充方案）。适用场景为安全审计、密码库代码审查及CTF挑战分析。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "prompt-engineering",
+    "ai-assistant",
+    "security"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-29T01:29:43.401612+00:00",
+  "analyzed_at": "2026-07-29T01:30:54.475203+00:00",
+  "organized_at": "2026-07-29T01:31:10.972716+00:00",
+  "status": "published"
+}

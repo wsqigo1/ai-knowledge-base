@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-07-29-015",
+  "title": "Now is the time to give LLMs access to the ACM digital library",
+  "source": "hackernews-top",
+  "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+  "summary": "该文章主张当前是让LLMs访问ACM数字图书馆的合适时机。它解决了LLMs在学术知识获取上的局限性，即模型训练数据通常不包含最新或付费学术文献。核心技术亮点是提出通过API或直接索引方式，将ACM数字图书馆的权威计算机科学论文纳入LLM的检索增强生成（RAG）流程，从而提升模型在科研、编程等场景下的准确性和时效性。适用场景包括学术研究辅助、代码生成验证、技术文献综述等。",
+  "tags": [
+    "large-language-model",
+    "rag",
+    "tool-use",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-07-29T01:29:43.401612+00:00",
+  "analyzed_at": "2026-07-29T01:31:07.039299+00:00",
+  "organized_at": "2026-07-29T01:31:10.972716+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-29-010",
+  "title": "Zig's Incremental Compilation Internals",
+  "source": "hackernews-top",
+  "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+  "summary": "Zig's Incremental Compilation Internals 深入解析 Zig 编译器增量编译的实现机制。它解决传统编译器中全量重编译导致开发效率低下的问题，通过细粒度依赖追踪和缓存复用，仅重新编译修改部分。核心技术亮点包括基于 AST 的增量分析、编译单元隔离和高效缓存失效策略。适用于需要快速迭代的 Zig 项目开发，尤其对编译器设计者和系统编程工程师有参考价值。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-29T01:29:43.401612+00:00",
+  "analyzed_at": "2026-07-29T01:30:51.748667+00:00",
+  "organized_at": "2026-07-29T01:31:10.972716+00:00",
+  "status": "published"
+}

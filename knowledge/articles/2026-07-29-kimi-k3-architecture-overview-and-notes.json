@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-29-009",
+  "title": "Kimi K3 Architecture Overview and Notes",
+  "source": "hackernews-top",
+  "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+  "summary": "Kimi K3 是 Moonshot AI 发布的大规模语言模型架构，旨在解决长上下文处理与推理效率的平衡问题。核心技术亮点包括采用混合注意力机制（Hybrid Attention）与稀疏激活（Sparse Activation）设计，在保持长文本理解能力的同时降低计算成本。适用场景为需要高效处理超长文档、复杂推理的 AI 应用，如科研文献分析、法律合同审查等。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-07-29T01:29:43.401612+00:00",
+  "analyzed_at": "2026-07-29T01:30:43.088650+00:00",
+  "organized_at": "2026-07-29T01:31:10.972716+00:00",
+  "status": "published"
+}

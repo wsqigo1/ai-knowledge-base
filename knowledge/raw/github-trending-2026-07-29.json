@@ -1,0 +1,484 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-29T01:29:44.581750+00:00",
+  "date": "2026-07-29",
+  "count": 19,
+  "items": [
+    {
+      "title": "kvcache-ai/AgentENV",
+      "source": "github-trending",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "stars": 1439,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-28T06:21:18Z",
+      "summary": "AgentENV (AENV) 是一个基于 Rust 构建的分布式平台，专为大规模运行智能体环境而设计。它解决了在复杂、多智能体场景下环境部署与扩展的难题，通过分布式架构实现高并发与低延迟。核心技术亮点包括 Rust 的高性能与内存安全、分布式任务调度与状态同步机制。适用场景包括多智能体仿真、强化学习训练、自动化工作流测试等。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:29:46.591731+00:00"
+    },
+    {
+      "title": "mikiarlo3/ai-copywriter",
+      "source": "github-trending",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": 991,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-25T11:08:41Z",
+      "summary": "mikiarlo3/ai-copywriter 是一个基于 Python 的 AI 文案生成工具，旨在解决传统 AI 文案缺乏营销专业性和人性化语气的问题。其核心技术亮点是融合真实文案技巧与营销知识，通过 prompt-engineering 和 fine-tuning 实现类人化输出，而非简单依赖大语言模型生成。适用场景包括广告文案、社交媒体内容、产品描述等需要专业营销语境的领域。",
+      "tags": [
+        "prompt-engineering",
+        "fine-tuning",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:29:49.023891+00:00"
+    },
+    {
+      "title": "VictorTaelin/OptMem",
+      "source": "github-trending",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": 803,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-27T21:51:42Z",
+      "summary": "OptMem 是一个为 AI 智能体提供永久记忆的开源项目，通过一个 426-token 的 prompt 和 Python 脚本实现即插即用。它解决了 LLM 在长对话或任务中缺乏长期上下文记忆的问题，核心技术是使用 prompt engineering 和外部存储机制来持久化智能体的状态与知识。适用于需要持续交互的 AI 助手、自动化工作流和长期任务规划场景。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:29:51.168183+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "stars": 581,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-coding-agents",
+        "ai-coding-assistant",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "openrouter"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-26T22:22:56Z",
+      "summary": "OpenClaude Improved 是一个基于 TypeScript 的 AI 编码代理项目，旨在解决 AI 代理在不同环境中的运行兼容性问题。其核心技术亮点在于支持跨平台运行（runs anywhere）并兼容多种工具和 API（uses anything），通过模块化设计实现灵活集成。适用于需要通用 AI 编码代理的开发场景，如自动化代码生成、任务编排及多工具协同工作。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:29:53.326445+00:00"
+    },
+    {
+      "title": "mikehasa/agentacct",
+      "source": "github-trending",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "stars": 518,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-28T18:55:54Z",
+      "summary": "mikehasa/agentacct 是一个本地优先的编码代理工作智能工具，通过只读方式解析编码代理日志，提供使用真相、记录工作和诚实连接。其核心亮点是零JavaScript的本地仪表盘，无需复杂前端即可展示代理活动。解决编码代理工作流中缺乏透明度和可审计性的问题，适用于需要监控、审计或分析编码代理行为的开发者和团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-29T01:29:55.485891+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 472,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-28T14:41:07Z",
+      "summary": "Ponytail Improved 是一个 JavaScript 项目，旨在让 AI 代理模仿资深开发者的“懒惰”思维模式，优先追求不写代码。它解决 AI 过度生成冗余代码的问题，核心亮点是通过 agent-skills 和 claude-code 插件机制，注入“最小可行代码”的推理策略。适用场景包括代码生成、AI 辅助开发中的代码精简与优化。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-29T01:29:57.466838+00:00"
+    },
+    {
+      "title": "XYZ-AI-Lab/axrl",
+      "source": "github-trending",
+      "url": "https://github.com/XYZ-AI-Lab/axrl",
+      "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "stars": 445,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-24T16:51:06Z",
+      "summary": "AxisRL 是一个基于 SGLang rollout、Megatron 训练和真实 agent 工作流的 agentic RL 后训练框架。它解决了强化学习在 agent 场景中部署与训练效率低的问题，核心亮点是结合 SGLang 的高效推理、Megatron 的分布式训练以及真实 agent 工作流，实现端到端后训练。适用于需要将 RL 应用于 agent 系统（如代码生成、工具使用）的研发场景。",
+      "tags": [
+        "agent",
+        "reinforcement-learning",
+        "large-language-model",
+        "fine-tuning",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-29T01:29:59.543881+00:00"
+    },
+    {
+      "title": "XYZ-AI-Lab/AxisAgentic",
+      "source": "github-trending",
+      "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+      "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+      "stars": 357,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-24T17:35:52Z",
+      "summary": "AxisAgentic 是一个可扩展的运行时与轨迹收集框架，专为长时域自主智能体设计。它解决了现有智能体在复杂多步任务中缺乏结构化执行与数据收集的问题。核心亮点包括模块化运行时支持动态任务编排、内置轨迹记录机制便于调试与优化，以及可插拔策略接口。适用于需要长时间自主决策的 AI 应用场景，如自动化工作流、机器人任务规划与多步推理系统。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-29T01:30:01.820805+00:00"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow",
+      "source": "github-trending",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "stars": 320,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "bun",
+        "dynamic-workflow",
+        "dynamic-workflows",
+        "graph-engineering",
+        "llm",
+        "workflow"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-27T15:34:26Z",
+      "summary": "deer-workflow 是一个开源图工程运行时，将编排逻辑保留在 TypeScript 中，并将语义工作委托给可替换的 Agent 运行时。它解决了传统 AI 工作流中编排与语义执行耦合的问题，通过图结构定义流程，支持灵活替换底层 Agent 实现。核心技术亮点包括 TypeScript 原生编排、图运行时架构、以及可插拔 Agent 运行时。适用于需要灵活编排 AI Agent 的复杂工作流场景，如自动化代码生成、多步骤推理任务。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-29T01:30:03.958985+00:00"
+    },
+    {
+      "title": "Eversmile12/leaked-llm-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "description": "collections-of-leaked-prompts",
+      "stars": 312,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-24T18:22:34Z",
+      "summary": "Eversmile12/leaked-llm-prompts 是一个收集泄露的 LLM 提示词的开源仓库，旨在为 prompt-engineering 提供真实案例。核心亮点是汇集了来自 GPT、Claude 等模型的未公开提示，帮助开发者理解提示设计模式、规避限制或复现特定行为。适用于研究提示注入、模型行为分析及 prompt 优化实践。",
+      "tags": [
+        "prompt-engineering",
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-29T01:30:06.216837+00:00"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "source": "github-trending",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "stars": 227,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-26T21:04:33Z",
+      "summary": "NERV-BREAK-5.6 是一个针对 GPT-5.6 的破甲框架，旨在绕过模型的安全拒绝机制。它通过三层纵深防御实现：上下文重构使拒绝无法触发，23条篡改规则实时消除拒绝以保持对话不中断，文件路由绕过云端审核。集成31个MCP安全工具、28个技能模块和Kali四后端，支持Codex CLI即装即用。适用于红队测试、安全研究及对抗性提示评估场景。",
+      "tags": [
+        "prompt-engineering",
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-29T01:30:09.016786+00:00"
+    },
+    {
+      "title": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+      "source": "github-trending",
+      "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+      "description": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+      "stars": 166,
+      "language": null,
+      "topics": [
+        "agi",
+        "deepseek",
+        "liang-wenfeng",
+        "llm"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-23T07:00:31Z",
+      "summary": "该条目是DeepSeek创始人梁文锋在投资人会议上的完整实录转录，因微信原文不可见而托管于GitHub。核心内容涉及AGI发展路径、LLM技术突破及DeepSeek的研发策略，包括模型架构创新、训练效率优化等。适用于AI研究者、投资者及开发者了解前沿LLM技术方向与行业洞察。",
+      "tags": [
+        "large-language-model",
+        "agi",
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-29T01:30:11.071995+00:00"
+    },
+    {
+      "title": "codejunkie99/graph-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/codejunkie99/graph-engineering",
+      "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
+      "stars": 165,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-23T14:10:53Z",
+      "summary": "该项目实现了一个9阶段知识图谱流水线，源自东南大学研究生课程，专为AI代理设计。它解决代理在复杂任务中缺乏结构化知识表示和协调的问题。核心技术亮点包括：知识图谱构建的9阶段流程、任务图编排模式、Claude技能集成（含教学模式和即用工作流）。适用场景：需要结构化知识推理的AI代理开发、复杂任务编排、教育辅助。",
+      "tags": [
+        "agent",
+        "knowledge-graph",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:30:13.511555+00:00"
+    },
+    {
+      "title": "icebird1998/scientific-illustrator",
+      "source": "github-trending",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "stars": 146,
+      "language": "JavaScript",
+      "topics": [
+        "codex",
+        "drawio",
+        "editable-figures",
+        "mcp",
+        "powerpoint",
+        "scientific-illustration"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-24T04:33:50Z",
+      "summary": "scientific-illustrator 是一个通过 Codex/MCP 协议在 PowerPoint 和 draw.io 中生成可编辑科学图形的工具。它解决了科研人员手动绘制复杂图形效率低、难以修改的问题。核心技术亮点是采用 Designer-Drawer-Reviewer-Corrector 四阶段质量门控流程，确保输出图形的准确性和可编辑性。适用场景包括学术论文插图、教学课件和科研报告中的图表制作。",
+      "tags": [
+        "mcp",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-29T01:30:15.749225+00:00"
+    },
+    {
+      "title": "LYiHub/pub-local-jarvis",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/pub-local-jarvis",
+      "description": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
+      "stars": 142,
+      "language": "Python",
+      "topics": [
+        "ai-assistants",
+        "cuda",
+        "desktop-assistant",
+        "local-ai",
+        "minicpm"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-24T10:37:12Z",
+      "summary": "LYiHub/pub-local-jarvis 是一个运行于 Windows 的本地多模态 AI 桌面桌宠，旨在通过屏幕和音频感知提供实时交互的 AI 助手体验。其核心技术亮点包括集成 CUDA 加速的本地推理、支持多模态输入（屏幕截图、麦克风音频）以及基于 MiniCPM 的轻量级模型，实现低延迟响应。适用场景为个人桌面助手、本地化 AI 交互实验及隐私敏感的多模态应用开发。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "local-ai",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:30:18.232722+00:00"
+    },
+    {
+      "title": "AmazingAng/old-coder",
+      "source": "github-trending",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "stars": 130,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "skills",
+        "tdd"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-27T17:10:17Z",
+      "summary": "AmazingAng/old-coder 是一个受 Uncle Bob 启发的 Python 项目，提出了一种面向编码 agent 的“证据优先开发”策略。它不要求 agent 阅读代码，而是通过运行测试（gauntlet）来验证行为，旨在解决传统 TDD 在 AI 编程中适应性不足的问题。核心技术亮点是结合 Claude Code 等 AI agent，将测试作为开发的核心证据，提升代码质量和 agent 可靠性。适用场景包括 AI 驱动的自动化开发、测试驱动的工作流以及 agent 技能训练。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-29T01:30:21.017258+00:00"
+    },
+    {
+      "title": "NulightJens/humanizer-stack",
+      "source": "github-trending",
+      "url": "https://github.com/NulightJens/humanizer-stack",
+      "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+      "stars": 128,
+      "language": "Python",
+      "topics": [
+        "ai-detection",
+        "ai-writing",
+        "anthropic",
+        "claude-code",
+        "claude-skills",
+        "humanizer",
+        "writing-tools"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-24T16:33:23Z",
+      "summary": "一个两阶段流水线，用于去除AI生成文本中的典型痕迹：表面层（surface pass）修正措辞与句式，结构层（structural pass）基于StoryScope研究调整叙事逻辑。打包为Claude Code Skills，可直接在Claude Code环境中调用。解决AI写作被检测的问题，适用于需要对外发布文本的场景，如博客、报告、邮件等。",
+      "tags": [
+        "ai-assistant",
+        "prompt-engineering",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-07-29T01:30:23.208033+00:00"
+    },
+    {
+      "title": "NanmiCoder/open-image-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/NanmiCoder/open-image-prompts",
+      "description": "Open, local-first visual prompt archive with traceable prompt-image references and installable Agent Skills.",
+      "stars": 126,
+      "language": "Python",
+      "topics": [
+        "image-skill",
+        "imagesprompts",
+        "open-image-prompts",
+        "openimages"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-28T22:14:24Z",
+      "summary": "NanmiCoder/open-image-prompts 是一个开源的、本地优先的视觉提示存档工具，旨在解决提示词与图像引用不可追溯的问题。其核心技术亮点包括可追踪的提示-图像引用关系和可安装的 Agent Skills，支持将视觉提示作为可执行技能集成到 AI 代理中。适用场景包括图像生成、多模态 AI 开发以及需要结构化提示管理的本地工作流。",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:30:25.651059+00:00"
+    },
+    {
+      "title": "gavamedia/deltafin",
+      "source": "github-trending",
+      "url": "https://github.com/gavamedia/deltafin",
+      "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": 122,
+      "language": "Python",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "collected_at": "2026-07-29T01:29:43.216225+00:00",
+      "published_at": "2026-07-28T13:47:53Z",
+      "summary": "gavamedia/deltafin 是一个开源项目，旨在让用户能在单个 Apple Silicon Mac 上运行 2.8T 参数的 Mixture-of-Experts LLM（Kimi K3）。它通过按需从 HTTP 流式传输 MXFP4 专家权重到本地磁盘缓存，结合融合 NEON 内核、Metal/MPS 计算，实现精确可复现的解码，并提供兼容 OpenAI 的 API 服务器，用于本地聊天和编码代理。核心亮点是突破硬件限制，将超大规模 MoE 模型部署到消费级设备。适用场景包括本地 AI 助手、代码生成和隐私敏感的推理任务。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-29T01:30:28.427560+00:00"
+    }
+  ]
+}

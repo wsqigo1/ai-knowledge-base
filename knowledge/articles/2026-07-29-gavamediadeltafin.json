@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-29-006",
+  "title": "gavamedia/deltafin",
+  "source": "github-trending",
+  "url": "https://github.com/gavamedia/deltafin",
+  "summary": "gavamedia/deltafin 是一个开源项目，旨在让用户能在单个 Apple Silicon Mac 上运行 2.8T 参数的 Mixture-of-Experts LLM（Kimi K3）。它通过按需从 HTTP 流式传输 MXFP4 专家权重到本地磁盘缓存，结合融合 NEON 内核、Metal/MPS 计算，实现精确可复现的解码，并提供兼容 OpenAI 的 API 服务器，用于本地聊天和编码代理。核心亮点是突破硬件限制，将超大规模 MoE 模型部署到消费级设备。适用场景包括本地 AI 助手、代码生成和隐私敏感的推理任务。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-29T01:29:43.216225+00:00",
+  "analyzed_at": "2026-07-29T01:30:28.427560+00:00",
+  "organized_at": "2026-07-29T01:31:10.972716+00:00",
+  "status": "published"
+}
