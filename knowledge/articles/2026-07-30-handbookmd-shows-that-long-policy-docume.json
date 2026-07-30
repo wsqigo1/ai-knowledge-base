@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-30-019",
+  "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2607.25398",
+  "summary": "该条目讨论一篇名为Handbook.md的文章，指出长篇幅的政策文档无法可靠地约束AI代理的行为。核心问题在于代理可能忽略或误解复杂规则，导致治理失效。技术亮点是揭示了当前代理系统在遵循长上下文指令时的局限性，并可能启发更简洁、结构化的指令设计或动态规则执行机制。适用场景包括AI代理的安全部署、合规性管理及人机协作系统设计。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "prompt-engineering",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-30T01:22:51.487753+00:00",
+  "analyzed_at": "2026-07-30T01:24:08.753596+00:00",
+  "organized_at": "2026-07-30T01:24:20.197586+00:00",
+  "status": "published"
+}

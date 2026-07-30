@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-30-020",
+  "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+  "source": "hackernews-top",
+  "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+  "summary": "该项目展示了如何将传统空调改造为智能设备，同时避免损坏租赁房产。核心是通过ESP32微控制器、红外发射器和温度传感器，结合开源固件（如Tasmota或ESPHome）实现Wi-Fi控制、定时任务和自动化规则。技术亮点在于非侵入式安装（无需改动原有电路）和低成本（约20美元）。适用场景包括租房用户、DIY爱好者及希望降低智能家居入门门槛的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-07-30T01:22:51.487753+00:00",
+  "analyzed_at": "2026-07-30T01:24:11.393318+00:00",
+  "organized_at": "2026-07-30T01:24:20.197586+00:00",
+  "status": "published"
+}

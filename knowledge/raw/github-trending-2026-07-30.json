@@ -1,0 +1,503 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-30T01:22:52.575363+00:00",
+  "date": "2026-07-30",
+  "count": 19,
+  "items": [
+    {
+      "title": "mikiarlo3/ai-copywriter",
+      "source": "github-trending",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": 1046,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-25T11:08:41Z",
+      "summary": "mikiarlo3/ai-copywriter 是一个基于 Python 的开源 AI 文案生成工具，利用真实文案技巧和营销知识生成具有人类语气的文案。它解决传统 AI 文案缺乏营销策略和人性化表达的问题，核心技术亮点包括集成 prompt-engineering 优化输出质量、结合营销规则库增强实用性。适用场景包括广告文案、社交媒体内容、产品描述等营销场景。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:22:54.764014+00:00"
+    },
+    {
+      "title": "VictorTaelin/OptMem",
+      "source": "github-trending",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": 873,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T14:25:39Z",
+      "summary": "OptMem 是一种为 AI 智能体提供永久记忆的轻量级解决方案，通过一个 426-token 的 prompt 和一个 Python 脚本实现即插即用。它解决 LLM 在长对话或任务中缺乏持续记忆的问题，核心亮点是利用 prompt engineering 和外部存储机制，无需复杂架构即可让 agent 跨会话保持上下文。适用于需要长期交互的 AI 助手、自动化工作流和个性化 agent 场景。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-30T01:22:57.099376+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "stars": 554,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-coding-agents",
+        "ai-coding-assistant",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "openrouter"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-26T22:22:56Z",
+      "summary": "OpenClaude Improved 是一个基于 TypeScript 的 AI 编码代理，核心解决跨平台运行和工具泛用性问题。它通过改进的 agentic-ai 架构，支持任意环境部署并兼容多种 AI 服务与工具链，实现代码生成、任务自动化等场景。技术亮点在于轻量级、高可移植性，适合开发者快速集成到现有工作流。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-30T01:22:59.526173+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 545,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-28T14:41:07Z",
+      "summary": "Ponytail Improved 是一个 JavaScript 编写的 Claude Code 插件，旨在让 AI 代理模仿资深开发者的懒惰思维模式，优先考虑不编写代码的解决方案。它通过注入特定的 agent-skills 和 claude-skills，引导 AI 在生成代码前先评估是否真的需要写代码，从而减少冗余输出、提升效率。核心亮点是改变 AI 的默认行为，从“立即编码”转向“最小化代码量”，适用于需要优化代码生成质量、减少无用代码的 AI 辅助开发场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-07-30T01:23:01.753326+00:00"
+    },
+    {
+      "title": "mikehasa/agentacct",
+      "source": "github-trending",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "stars": 528,
+      "language": "Python",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agent",
+        "cost-tracking",
+        "dashboard",
+        "developer-tools",
+        "devtools",
+        "llm",
+        "llmops",
+        "local-first",
+        "mcp",
+        "observability",
+        "opencode",
+        "python",
+        "token-usage"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T21:57:57Z",
+      "summary": "AgentAcct 是一个本地优先的 AI 编码代理监控与成本分析工具，支持 Claude Code、Codex、OpenCode 等。它将每个任务分解为工作步骤，记录使用的工具、修改的文件、运行的测试、耗时和 token 消耗，无需登录或遥测。核心亮点是提供细粒度的代理可观测性，帮助开发者理解代理行为并优化成本。适用于需要审计和优化 AI 编码代理工作流的开发团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:04.139983+00:00"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow",
+      "source": "github-trending",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "stars": 348,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "bun",
+        "dynamic-workflow",
+        "dynamic-workflows",
+        "graph-engineering",
+        "llm",
+        "workflow"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-27T15:34:26Z",
+      "summary": "deer-workflow 是一个开源图工程运行时，将编排逻辑保留在 TypeScript 中，并将语义工作委托给可替换的 Agent 运行时。它解决了传统工作流引擎中编排与语义执行耦合的问题，核心亮点在于基于图结构的高可扩展编排、TypeScript 原生集成以及 Agent 运行时的热替换能力。适用场景包括 AI Agent 工作流编排、多步骤 AI 任务自动化、以及需要灵活切换底层 AI 模型的复杂业务系统。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:06.375151+00:00"
+    },
+    {
+      "title": "gavamedia/deltafin",
+      "source": "github-trending",
+      "url": "https://github.com/gavamedia/deltafin",
+      "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": 327,
+      "language": "Python",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T22:32:32Z",
+      "summary": "DeltaFin 是一个开源项目，旨在让用户能在单台 Apple Silicon Mac 上运行 2.8T 参数的 MoE 大模型 Kimi K3。它通过 HTTP 按需流式传输 MXFP4 专家权重到本地磁盘缓存，结合融合 NEON 内核、Metal/MPS 计算实现高效推理，支持精确可复现解码，并提供 OpenAI 兼容 API 服务器用于本地聊天和编码代理。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-30T01:23:08.573806+00:00"
+    },
+    {
+      "title": "Eversmile12/leaked-llm-prompts",
+      "source": "github-trending",
+      "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "description": "collections-of-leaked-prompts",
+      "stars": 326,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-24T18:22:34Z",
+      "summary": "Eversmile12/leaked-llm-prompts 是一个收集泄露的 LLM 提示词的开源仓库。它解决开发者难以获取高质量、经过验证的 prompt 模板的问题，通过聚合社区泄露的 prompt 提供可直接复用的资源。核心技术亮点是 prompt 的收集与分类，无需额外工具即可参考使用。适用场景包括 prompt-engineering 学习、快速构建 AI 助手对话模板、以及探索不同 LLM 的提示策略。",
+      "tags": [
+        "prompt-engineering",
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-30T01:23:10.926229+00:00"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "source": "github-trending",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "stars": 271,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-26T21:04:33Z",
+      "summary": "NERV-BREAK-5.6 是一个针对 GPT-5.6 的破甲框架，旨在绕过模型的安全拒绝机制。它通过三层纵深防御实现：上下文重构使拒绝无法触发，23条篡改规则实时消除拒绝以保持对话不中断，文件路由绕过云端审核。集成了31个MCP安全工具、28个技能模块和Kali四后端，支持Codex CLI即装即用。适用于红队测试、AI安全评估和对抗性攻击研究。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "mcp",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-07-30T01:23:13.154811+00:00"
+    },
+    {
+      "title": "qaml-ai/camelAI",
+      "source": "github-trending",
+      "url": "https://github.com/qaml-ai/camelAI",
+      "description": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+      "stars": 262,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T19:23:31Z",
+      "summary": "camelAI 是一个基于 Cloudflare Workers 和 Durable Objects 构建的 AI 编码助手平台。它解决了开发者需要高效、低延迟的 AI 辅助编程需求，核心亮点在于利用边缘计算架构实现实时交互和持久化状态管理，支持多用户协作。适用场景包括云端 IDE 集成、实时代码审查和自动化开发工作流。",
+      "tags": [
+        "code-generation",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:15.138226+00:00"
+    },
+    {
+      "title": "QwenAudio/qwen-audio-agent",
+      "source": "github-trending",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": 204,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T21:18:55Z",
+      "summary": "QwenAudio/qwen-audio-agent 是一个基于 JavaScript 的实时语音运行时，专为 AI Agent 设计，使其能够持续进行语音交互、工作并保持在线状态。它解决了传统语音助手在实时对话中响应延迟、上下文丢失的问题，核心技术亮点包括低延迟音频流处理、Agent 状态持久化以及多轮对话管理。适用场景包括语音助手、客服系统、智能家居控制等需要实时语音交互的 AI 应用。",
+      "tags": [
+        "agent",
+        "voice-agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:17.297954+00:00"
+    },
+    {
+      "title": "LYiHub/pub-local-jarvis",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/pub-local-jarvis",
+      "description": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
+      "stars": 202,
+      "language": "Python",
+      "topics": [
+        "ai-assistants",
+        "cuda",
+        "desktop-assistant",
+        "local-ai",
+        "minicpm"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-24T10:37:12Z",
+      "summary": "LYiHub/pub-local-jarvis 是一个基于 Python 的 Windows 本地多模态 AI 桌面桌宠，解决用户对本地化、低延迟、隐私安全的 AI 交互助手需求。核心技术亮点包括：集成屏幕感知与音频感知能力，支持 CUDA 加速，基于 MiniCPM 模型实现本地推理，无需联网即可运行。适用场景为个人桌面助手、隐私敏感任务、离线多模态交互。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-30T01:23:19.326635+00:00"
+    },
+    {
+      "title": "icebird1998/scientific-illustrator",
+      "source": "github-trending",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "stars": 169,
+      "language": "JavaScript",
+      "topics": [
+        "codex",
+        "drawio",
+        "editable-figures",
+        "mcp",
+        "powerpoint",
+        "scientific-illustration"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T21:00:54Z",
+      "summary": "scientific-illustrator 是一个基于 Codex/MCP 协议的开源工具，通过 Designer-Drawer-Reviewer-Corrector 四阶段质量门控流程，将自然语言描述自动生成可编辑的科学图表，并直接嵌入 PowerPoint 或 draw.io。核心技术亮点在于利用 MCP 实现 LLM 与绘图工具的深度交互，结合多智能体协作确保输出质量。适用于科研人员快速生成可编辑图表、学术演示制作及自动化报告生成场景。",
+      "tags": [
+        "mcp",
+        "code-generation",
+        "workflow-automation",
+        "multi-agent",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-30T01:23:21.580005+00:00"
+    },
+    {
+      "title": "AmazingAng/old-coder",
+      "source": "github-trending",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "stars": 157,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "skills",
+        "tdd"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-27T17:10:17Z",
+      "summary": "该项目提出一种面向智能体时代的编程策略：不阅读代码，而是通过运行测试来验证代码正确性。核心是证据优先开发技能，受Uncle Bob启发，旨在提升编码智能体的开发效率。技术亮点在于将测试驱动开发（TDD）理念应用于AI编码代理，强调以运行结果而非代码审查作为主要验证手段。适用场景包括AI编码代理的调试、测试和开发流程优化。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-30T01:23:23.867419+00:00"
+    },
+    {
+      "title": "perplexityai/numbat",
+      "source": "github-trending",
+      "url": "https://github.com/perplexityai/numbat",
+      "description": "Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "stars": 123,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T16:49:11Z",
+      "summary": "Numbat 是一个 Go 语言实现的 AI 代理活动端点可见性工具，解决 AI 代理行为监控与安全审计难题。核心亮点包括本地检测、可选的预操作阻断机制以及取证重建能力，支持实时追踪代理执行链。适用于需要保障 AI 代理安全运行的企业级部署场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:25.723525+00:00"
+    },
+    {
+      "title": "Autumn-27/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统",
+      "stars": 117,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-28T16:11:11Z",
+      "summary": "ARTEX 是一个基于 AI 的自主渗透测试系统，旨在自动化安全评估流程。它利用大型语言模型（LLM）驱动智能代理，自动执行信息收集、漏洞扫描、攻击模拟等渗透测试步骤。核心技术亮点包括多阶段任务规划、工具调用集成（如 Nmap、Metasploit）以及结果分析报告生成。适用场景为安全团队进行自动化渗透测试、红蓝对抗演练及持续安全监控。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:28.044324+00:00"
+    },
+    {
+      "title": "WutIsHummus/TrueDeck",
+      "source": "github-trending",
+      "url": "https://github.com/WutIsHummus/TrueDeck",
+      "description": "Free multi-agent coding workbench: Grok/Codex/Claude/Cursor panes + TrueMemory (per-repo + global)",
+      "stars": 115,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-29T01:03:23Z",
+      "summary": "TrueDeck 是一个免费的多智能体编码工作台，集成 Grok/Codex/Claude/Cursor 面板与 TrueMemory（仓库级+全局记忆）。核心亮点在于通过多代理协作和持久化记忆机制，提升代码生成与调试效率。适用于需要跨模型协作的复杂软件开发场景。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:29.967817+00:00"
+    },
+    {
+      "title": "krishagarwal314/autodev-studio",
+      "source": "github-trending",
+      "url": "https://github.com/krishagarwal314/autodev-studio",
+      "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
+      "stars": 110,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "autonomous-agents",
+        "claude",
+        "code-generation",
+        "developer-tools",
+        "fastapi",
+        "groq",
+        "knowledge-base",
+        "llm",
+        "llm-agent",
+        "multi-agent",
+        "openai",
+        "python",
+        "rag",
+        "sdlc"
+      ],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-27T12:22:18Z",
+      "summary": "Autodev Studio 是一个基于多智能体架构的自动化SDLC工具，用户用自然语言描述功能需求后，AI智能体自动完成范围界定、编码、测试、代码审查并生成PR，依赖仓库的一次性知识库。核心亮点在于多智能体协作（scope/code/test/review）与Claude驱动的代码生成，解决传统开发流程中需求到PR的手动衔接问题。适用场景为需要快速原型开发或自动化代码审查的软件团队。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:32.341236+00:00"
+    },
+    {
+      "title": "nopnoping/micro-vllm",
+      "source": "github-trending",
+      "url": "https://github.com/nopnoping/micro-vllm",
+      "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
+      "stars": 105,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-30T01:22:51.317463+00:00",
+      "published_at": "2026-07-26T14:46:12Z",
+      "summary": "micro-vllm 是一个轻量级、教育性的 vLLM 实现，旨在帮助开发者深入理解 LLM 推理的底层机制。它解决了现有生产级推理引擎（如 vLLM）代码复杂、难以学习的问题，通过简洁的 Python 代码展示了推理调度、KV-cache 管理和 GPU 执行的核心原理。核心技术亮点包括模块化设计、清晰的调度逻辑和显存管理演示。适用于 AI 工程师学习 LLM 推理优化、研究调度策略或进行教学演示。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:34.875432+00:00"
+    }
+  ]
+}

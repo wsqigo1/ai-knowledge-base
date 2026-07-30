@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-30-012",
+  "title": "LLM Honeypot",
+  "source": "hackernews-top",
+  "url": "https://llm2human.pages.dev/",
+  "summary": "LLM Honeypot 是一个基于大语言模型的蜜罐系统，用于检测和分析恶意网络活动。它通过部署模拟脆弱服务的LLM代理，诱捕攻击者并记录其行为。核心技术亮点包括利用LLM生成逼真的交互响应、动态调整对话策略以延长攻击者停留时间，以及集成日志分析模块。适用场景包括网络安全研究、威胁情报收集和蜜罐部署测试。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-30T01:22:51.487753+00:00",
+  "analyzed_at": "2026-07-30T01:23:45.941307+00:00",
+  "organized_at": "2026-07-30T01:24:20.197586+00:00",
+  "status": "published"
+}

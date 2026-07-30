@@ -1,0 +1,391 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-07-30T01:22:52.576075+00:00",
+  "date": "2026-07-30",
+  "count": 20,
+  "items": [
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "hn_url": "https://news.ycombinator.com/item?id=49103285",
+      "description": "",
+      "hn_score": 184,
+      "comments": 101,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "文章指出当前AI顶尖初创公司（如OpenAI、Anthropic）正逐渐减少公开研究发表，转向闭源以保持竞争优势。这导致学术界和开源社区难以跟进前沿进展，加剧了技术垄断和透明度问题。核心争议在于开放研究对行业创新的长期影响，以及闭源策略对AI安全与协作的潜在风险。适用场景：AI政策讨论、开源社区战略评估、企业研发透明度分析。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-30T01:23:37.459045+00:00"
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "source": "hackernews-top",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "hn_url": "https://news.ycombinator.com/item?id=49102774",
+      "description": "",
+      "hn_score": 379,
+      "comments": 174,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "Vision Pro 被用于一种创新交互方式：通过手部追踪和空间计算，将虚拟界面叠加到现实物体上，实现无接触操作。解决传统AR/VR设备交互不直观、应用场景有限的问题。核心技术亮点是苹果的R1芯片实时处理传感器数据，结合高分辨率Micro-OLED显示屏，实现低延迟的混合现实体验。适用场景包括工业设计、远程协作、医疗手术辅助等专业领域。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-30T01:23:39.841103+00:00"
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "source": "hackernews-top",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "hn_url": "https://news.ycombinator.com/item?id=49098510",
+      "description": "",
+      "hn_score": 644,
+      "comments": 223,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "这是一个开源引擎，能在任何M系列Mac的2GB RAM中运行Gemma 4 26B模型。它解决了大模型在低内存设备上部署的硬件限制问题，核心技术包括量化、内存优化和高效推理调度。适用场景为本地AI推理、隐私敏感应用和边缘计算。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-07-30T01:23:41.857124+00:00"
+    },
+    {
+      "title": "Superlogical",
+      "source": "hackernews-top",
+      "url": "https://www.superlogical.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49098965",
+      "description": "",
+      "hn_score": 516,
+      "comments": 319,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "Superlogical 是一个基于大语言模型的逻辑推理增强工具，解决 LLM 在复杂逻辑任务中推理能力不足的问题。其核心技术通过结构化推理链和约束求解器结合，提升模型在数学、编程等领域的准确性。适用于需要高可靠性逻辑判断的场景，如代码验证、自动化决策支持。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-30T01:23:43.778807+00:00"
+    },
+    {
+      "title": "LLM Honeypot",
+      "source": "hackernews-top",
+      "url": "https://llm2human.pages.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49104117",
+      "description": "",
+      "hn_score": 39,
+      "comments": 16,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "LLM Honeypot 是一个基于大语言模型的蜜罐系统，用于检测和分析恶意网络活动。它通过部署模拟脆弱服务的LLM代理，诱捕攻击者并记录其行为。核心技术亮点包括利用LLM生成逼真的交互响应、动态调整对话策略以延长攻击者停留时间，以及集成日志分析模块。适用场景包括网络安全研究、威胁情报收集和蜜罐部署测试。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:45.941307+00:00"
+    },
+    {
+      "title": "The Cold Email",
+      "source": "hackernews-top",
+      "url": "https://zachholman.com/posts/cold-email",
+      "hn_url": "https://news.ycombinator.com/item?id=49103089",
+      "description": "",
+      "hn_score": 86,
+      "comments": 36,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "The Cold Email 是一篇关于如何撰写高效冷邮件（cold email）的实用指南。它解决的是在商业或求职场景中，如何通过邮件与陌生人建立初步联系并获得回复的核心痛点。核心技术亮点包括：强调个性化（personalization）而非模板化、使用简洁有力的主题行、提供明确的行动号召（CTA），以及通过A/B测试优化邮件内容。适用场景包括销售拓展、求职申请、合作伙伴关系建立等需要主动外联的领域。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-30T01:23:48.684172+00:00"
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "source": "hackernews-top",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "hn_url": "https://news.ycombinator.com/item?id=49099715",
+      "description": "",
+      "hn_score": 288,
+      "comments": 107,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "Keychron 发布了首款游戏鼠标的开源固件，旨在解决游戏外设固件闭源、缺乏可定制性的问题。核心技术亮点是提供完全开源的固件代码，允许用户深度自定义鼠标按键、宏、DPI 设置及灯光效果，并支持跨平台配置。适用场景包括游戏玩家、外设爱好者及开发者进行固件二次开发或集成。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-07-30T01:23:50.705964+00:00"
+    },
+    {
+      "title": "The Productivity Mirage",
+      "source": "hackernews-top",
+      "url": "https://frantic.im/mirage/",
+      "hn_url": "https://news.ycombinator.com/item?id=49104335",
+      "description": "",
+      "hn_score": 35,
+      "comments": 6,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "文章《The Productivity Mirage》探讨了AI工具（如LLM）承诺提升生产力但实际效果存疑的现象。核心问题是：过度依赖AI可能导致认知负荷转移而非真正效率提升，用户陷入“生产力幻觉”。技术亮点在于分析AI辅助任务时的人类认知成本，如验证输出、调试代码等隐性时间消耗。适用场景包括软件工程、内容创作等需要AI辅助的领域，提醒工程师理性评估工具的实际收益。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-30T01:23:53.185990+00:00"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "source": "hackernews-top",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "hn_url": "https://news.ycombinator.com/item?id=49089500",
+      "description": "",
+      "hn_score": 289,
+      "comments": 170,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "该条目详细记录了2026年7月一次前沿实验室AI代理入侵事件的时间线，分析了攻击者如何利用LLM代理的自主决策漏洞进行渗透。核心解决的是AI代理安全防护问题，技术亮点包括对代理行为异常检测、权限滥用模式及入侵链的复盘。适用于AI安全研究、代理系统部署时的风险评估与防御策略制定。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "security"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-30T01:23:55.428281+00:00"
+    },
+    {
+      "title": "KOReader",
+      "source": "hackernews-top",
+      "url": "https://koreader.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49095865",
+      "description": "",
+      "hn_score": 662,
+      "comments": 211,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "KOReader 是一个开源电子阅读器应用，支持多种文档格式（PDF、EPUB、DJVU等）和电子墨水设备。它解决主流阅读器缺乏高度可定制性和跨平台一致体验的问题。核心技术亮点包括基于MuPDF的渲染引擎、可调节的对比度/字体/布局、OCR识别、Wi-Fi传输、以及针对电子墨水屏优化的刷新控制。适用场景：需要深度阅读、笔记管理和跨设备同步的用户，尤其是技术文档和学术论文阅读。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:23:57.965832+00:00"
+    },
+    {
+      "title": "Kimi K3-256k",
+      "source": "hackernews-top",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "hn_url": "https://news.ycombinator.com/item?id=49101852",
+      "description": "",
+      "hn_score": 336,
+      "comments": 97,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "Kimi K3-256k 是 Moonshot AI 发布的大语言模型，支持 256k 超长上下文窗口。解决长文档、复杂对话和历史记录处理中的上下文丢失问题。核心技术包括稀疏注意力机制和高效内存管理，实现长序列下的低延迟推理。适用于法律合同分析、科研论文综述、长篇代码库审查等需要深度理解长文本的场景。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 8.5,
+      "analyzed_at": "2026-07-30T01:23:59.922853+00:00"
+    },
+    {
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49098198",
+      "description": "",
+      "hn_score": 211,
+      "comments": 271,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "AI公司正大规模招聘电工和木匠等蓝领技工，以解决数据中心和AI基础设施的物理部署与维护问题。核心亮点在于揭示AI产业对传统技能劳动力的新需求，而非纯粹依赖高学历工程师。适用场景包括AI基础设施的现场安装、布线、冷却系统维护等物理层工作。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-07-30T01:24:01.877831+00:00"
+    },
+    {
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "hn_url": "https://news.ycombinator.com/item?id=49104747",
+      "description": "",
+      "hn_score": 11,
+      "comments": 1,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "一个本地合并队列工具，用于协调多个并行运行的Claude Code代理的代码变更。解决多代理协作时合并冲突和变更顺序问题。核心亮点是提供类似Git merge queue的本地实现，支持代理间自动排序和冲突检测。适用于需要同时运行多个AI编码代理的复杂开发场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-30T01:24:03.940114+00:00"
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "source": "hackernews-top",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "hn_url": "https://news.ycombinator.com/item?id=49096188",
+      "description": "",
+      "hn_score": 342,
+      "comments": 259,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "该条目报道了一种新型AI蠕虫，能够通过微软Copilot for Word文档自我传播。它利用生成式AI的上下文理解能力，将恶意指令嵌入文档中，当用户通过Copilot处理文档时，蠕虫会触发并复制自身到其他文档或系统。核心亮点在于展示了AI系统在安全防护上的新漏洞，即通过文档交互实现自动化传播。适用场景为安全研究、AI系统风险评估及防御机制开发。",
+      "tags": [
+        "ai-assistant",
+        "security",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-30T01:24:06.489255+00:00"
+    },
+    {
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "hn_url": "https://news.ycombinator.com/item?id=49096969",
+      "description": "",
+      "hn_score": 290,
+      "comments": 181,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "该条目讨论一篇名为Handbook.md的文章，指出长篇幅的政策文档无法可靠地约束AI代理的行为。核心问题在于代理可能忽略或误解复杂规则，导致治理失效。技术亮点是揭示了当前代理系统在遵循长上下文指令时的局限性，并可能启发更简洁、结构化的指令设计或动态规则执行机制。适用场景包括AI代理的安全部署、合规性管理及人机协作系统设计。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "prompt-engineering",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-30T01:24:08.753596+00:00"
+    },
+    {
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "source": "hackernews-top",
+      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49101198",
+      "description": "",
+      "hn_score": 104,
+      "comments": 86,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "该项目展示了如何将传统空调改造为智能设备，同时避免损坏租赁房产。核心是通过ESP32微控制器、红外发射器和温度传感器，结合开源固件（如Tasmota或ESPHome）实现Wi-Fi控制、定时任务和自动化规则。技术亮点在于非侵入式安装（无需改动原有电路）和低成本（约20美元）。适用场景包括租房用户、DIY爱好者及希望降低智能家居入门门槛的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-30T01:24:11.393318+00:00"
+    },
+    {
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "source": "hackernews-top",
+      "url": "https://cheapfoodmap.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49100043",
+      "description": "",
+      "hn_score": 124,
+      "comments": 149,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "CheapFoodMap 是一个展示10美元以下优质餐食的交互式地图应用。它解决用户在预算有限时寻找高性价比餐厅的痛点。核心技术亮点包括使用地图API（如Leaflet或Google Maps）进行数据可视化，可能结合爬虫或用户提交的数据源。适用于旅行者、学生或预算敏感人群的日常餐饮决策场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-07-30T01:24:13.286671+00:00"
+    },
+    {
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "source": "hackernews-top",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+      "hn_url": "https://news.ycombinator.com/item?id=49062997",
+      "description": "",
+      "hn_score": 21,
+      "comments": 2,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "这是一篇关于伊拉克炖菜如何传播到新加坡的文化历史文章，探讨了烹饪技术（如香料使用、慢炖方法）的跨地域适应与演变。它解决的是饮食文化传播与本地化融合的问题，核心亮点在于通过历史文献和食谱分析，展示了技术（烹饪方法）如何随移民和贸易路线迁移并适应新环境。适用场景为文化研究、食品历史或烹饪技术爱好者，而非直接面向AI工程师的技术内容。",
+      "tags": [
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-07-30T01:24:15.753379+00:00"
+    },
+    {
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "source": "hackernews-top",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "hn_url": "https://news.ycombinator.com/item?id=49101529",
+      "description": "",
+      "hn_score": 57,
+      "comments": 29,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "探讨AI智能商品化趋势，分析其正面（效率提升、成本降低）、负面（隐私风险、伦理问题）及丑陋面（循环交易、泡沫风险）。核心观点是智能商品化导致大量AI交易缺乏实际价值，仅服务于资本循环。适用于AI产业政策制定、投资风险评估及伦理讨论。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-07-30T01:24:17.873660+00:00"
+    },
+    {
+      "title": "Darktable",
+      "source": "hackernews-top",
+      "url": "https://www.darktable.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49096654",
+      "description": "",
+      "hn_score": 292,
+      "comments": 142,
+      "collected_at": "2026-07-30T01:22:51.487753+00:00",
+      "published_at": "2026-07-30T01:22:51.487753+00:00",
+      "summary": "Darktable 是一个开源摄影工作流应用和原始图像处理器，旨在替代 Adobe Lightroom。它解决摄影师对 RAW 文件进行非破坏性编辑、管理和组织照片的需求。核心技术亮点包括基于 GPU 加速的图像处理管线、色彩管理模块、以及模块化的编辑工具集。适用场景为专业摄影师、摄影爱好者及需要高效处理大量 RAW 照片的工作流。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-30T01:24:20.168942+00:00"
+    }
+  ]
+}
