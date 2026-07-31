@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-31-015",
+  "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+  "source": "hackernews-top",
+  "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+  "summary": "该项目展示如何将DeepSeek模型蒸馏到GPT-OSS架构中，但发现蒸馏过程不会转移原有的审查机制。核心亮点是揭示了模型蒸馏中安全对齐特性的非传递性，即教师模型的审查行为不会自动复制到学生模型。这为研究模型对齐、安全性和蒸馏技术提供了新视角。适用场景包括模型安全研究、蒸馏技术优化及开源模型定制。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-07-31T01:49:45.993382+00:00",
+  "analyzed_at": "2026-07-31T01:50:56.280513+00:00",
+  "organized_at": "2026-07-31T01:51:10.407720+00:00",
+  "status": "published"
+}

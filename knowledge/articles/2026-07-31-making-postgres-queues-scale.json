@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-07-31-018",
+  "title": "Making Postgres queues scale",
+  "source": "hackernews-top",
+  "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+  "summary": "文章探讨如何让 PostgreSQL 作为队列系统实现高并发扩展。它解决传统数据库队列在锁竞争、轮询开销和扩展性上的瓶颈。核心技术亮点包括使用 SKIP LOCKED 避免锁竞争、批量获取减少往返、以及分区和索引优化提升吞吐。适用场景包括任务调度、事件驱动架构和需要可靠持久化的消息队列，尤其适合已有 Postgres 基础设施的团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-31T01:49:45.993382+00:00",
+  "analyzed_at": "2026-07-31T01:51:10.386698+00:00",
+  "organized_at": "2026-07-31T01:51:10.407720+00:00",
+  "status": "published"
+}

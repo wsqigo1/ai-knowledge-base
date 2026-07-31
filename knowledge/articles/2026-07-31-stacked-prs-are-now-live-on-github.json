@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-07-31-009",
+  "title": "Stacked PRs are now live on GitHub",
+  "source": "hackernews-top",
+  "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+  "summary": "GitHub 正式上线 Stacked PRs 功能，解决大型 PR 难以审查和合并的问题。该功能允许开发者将大型变更拆分为多个依赖的小型 PR，按顺序堆叠，每个 PR 独立审查和合并，减少冲突并加速代码审查流程。核心技术亮点是自动跟踪 PR 依赖关系，并支持在 UI 中直观查看堆叠结构。适用于大型功能开发、复杂重构和多分支协作场景，尤其适合 AI 工程中需要频繁迭代的代码生成和 agent 相关项目。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-07-31T01:49:45.993382+00:00",
+  "analyzed_at": "2026-07-31T01:50:37.347460+00:00",
+  "organized_at": "2026-07-31T01:51:10.407720+00:00",
+  "status": "published"
+}

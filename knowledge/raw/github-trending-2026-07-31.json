@@ -1,0 +1,488 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-07-31T01:49:47.037804+00:00",
+  "date": "2026-07-31",
+  "count": 19,
+  "items": [
+    {
+      "title": "VictorTaelin/OptMem",
+      "source": "github-trending",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": 933,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-29T14:25:39Z",
+      "summary": "OptMem 是一种为 AI 代理提供永久记忆的轻量级解决方案，仅需 426-token 的 prompt 和一个脚本即可即插即用。它解决了 LLM 上下文窗口有限、无法跨会话持久化信息的问题，通过外部存储和检索机制实现长期记忆。核心技术亮点在于极简设计，无需复杂基础设施，利用 prompt 工程和脚本实现记忆的写入、读取和更新。适用于需要长期记忆的 AI 助手、对话系统、个人知识管理等场景，尤其适合快速原型开发和轻量级部署。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-07-31T01:49:49.652375+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 564,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-31T00:58:21Z",
+      "summary": "ponytail-improved 是一个 JavaScript 编写的 Claude Code 插件，通过注入 agent-skills 让 AI 编程助手模仿资深开发者的懒惰思维，优先选择不写代码的解决方案。它解决 AI 过度生成代码、增加维护负担的问题，核心亮点是提供一套预定义的技能规则，引导模型在编码前先考虑简化或复用。适用于使用 Claude Code 进行日常开发的工程师，尤其适合追求代码精简和效率的团队。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:49:51.826383+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "stars": 562,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-coding-agents",
+        "ai-coding-assistant",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "openrouter"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-26T22:22:56Z",
+      "summary": "openclaude-improved 是一个基于 TypeScript 的 AI 编码代理项目，强调跨平台运行与工具兼容性。它解决 AI 代理在不同环境中的可移植性和工具集成问题，核心亮点是高度灵活的架构，支持多种后端和工具调用。适用于需要定制化 AI 编码助手或代理工作流的开发者。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:49:53.670314+00:00"
+    },
+    {
+      "title": "gavamedia/deltafin",
+      "source": "github-trending",
+      "url": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": 480,
+      "language": "Python",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-30T19:26:13Z",
+      "summary": "deltafin 是一个 Python 项目，旨在单设备上运行完整的 Kimi K3 模型，并提供 OpenAI 兼容的 API 服务器，用于本地聊天和编码代理。它解决了在资源受限环境中部署大型语言模型（LLM）的难题，核心亮点是单设备推理能力和标准 API 接口，便于集成到现有工具链。适用于本地开发、隐私敏感场景及编码辅助。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:49:55.655404+00:00"
+    },
+    {
+      "title": "QwenAudio/qwen-audio-agent",
+      "source": "github-trending",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": 393,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-30T15:43:45Z",
+      "summary": "QwenAudio/qwen-audio-agent 是一个基于 JavaScript 实现的实时语音运行时，专为 AI Agent 设计，使其能够持续对话、执行任务并保持在线状态。它解决了传统语音 Agent 在实时交互中的延迟和中断问题，通过高效的音频流处理和事件驱动架构，支持低延迟的语音输入输出。核心技术亮点包括实时音频管道、与 Agent 框架的无缝集成以及可扩展的插件机制。适用场景包括语音助手、实时客服、智能硬件交互等，适合需要语音交互的 agentic AI 应用。",
+      "tags": [
+        "agent",
+        "voice-agent",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-31T01:49:57.869833+00:00"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow",
+      "source": "github-trending",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "stars": 357,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "bun",
+        "dynamic-workflow",
+        "dynamic-workflows",
+        "graph-engineering",
+        "llm",
+        "workflow"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-27T15:34:26Z",
+      "summary": "deer-workflow 是一个开源图工程运行时，将编排逻辑保留在 TypeScript 中，并将语义工作委托给可替换的 Agent 运行时。它解决了传统工作流引擎在 AI 任务中灵活性和可扩展性不足的问题，通过图结构管理复杂流程，支持多种 Agent 后端集成。核心技术亮点包括 TypeScript 原生编排、可插拔 Agent 运行时、图执行引擎。适用于需要高度定制化 AI 工作流、多 Agent 协作或渐进式迁移现有 TypeScript 项目的场景。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-31T01:49:59.980355+00:00"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "source": "github-trending",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "stars": 297,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-26T21:04:33Z",
+      "summary": "NERV-BREAK-5.6 是一个针对 GPT-5.6 的越狱框架，旨在通过三层防御绕过机制突破模型安全限制。它解决的是在对抗性测试中模型拒绝响应和云端审核的问题，核心技术包括上下文重构、23条篡改规则、文件路由绕过，并集成31个MCP安全工具、28个技能模块及Kali后端。适用于安全研究、红队测试和AI对齐评估场景，但存在伦理风险。",
+      "tags": [
+        "prompt-engineering",
+        "mcp",
+        "tool-use",
+        "security",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-07-31T01:50:02.077162+00:00"
+    },
+    {
+      "title": "AmazingAng/old-coder",
+      "source": "github-trending",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "stars": 170,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "skills",
+        "tdd"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-27T17:10:17Z",
+      "summary": "old-coder 是一个面向编码 agent 的开发方法论项目，提出“不读代码，让它跑起来”的循证优先开发技能，受 Uncle Bob 启发。它解决 agent 在理解代码库时过度依赖静态阅读、效率低下的问题，通过实际运行测试和验证来驱动开发。核心技术亮点包括将 TDD 理念融入 agent 工作流，形成可复用的 skills。适用场景为使用 Claude Code 等工具进行自动化编码、重构和调试的开发者。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-07-31T01:50:04.451314+00:00"
+    },
+    {
+      "title": "Autumn-27/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统",
+      "stars": 155,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-28T16:11:11Z",
+      "summary": "ARTEX 是一个基于 TypeScript 构建的 AI 自主渗透测试系统，旨在自动化安全评估流程。它利用大型语言模型驱动决策，自动执行漏洞扫描、利用尝试和报告生成，减少人工干预。核心技术亮点包括将 LLM 与渗透测试工具链集成、任务规划与执行状态管理，以及结果结构化输出。适用于安全团队快速评估 Web 应用或网络基础设施，或作为 AI 安全研究实验平台。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:50:06.755961+00:00"
+    },
+    {
+      "title": "starling-build/starling",
+      "source": "github-trending",
+      "url": "https://github.com/starling-build/starling",
+      "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": 144,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm",
+        "flutter",
+        "gpu",
+        "kms",
+        "linux",
+        "swift",
+        "ubuntu",
+        "wayland",
+        "wayland-compositor",
+        "window-manager",
+        "x11"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-29T08:31:30Z",
+      "summary": "Starling 是一个全新的 Linux 桌面环境，采用 Swift 编写 shell，自带合成器（compositor），并将 Flutter 框架移植到 Swift，同时提供第一方应用。它旨在解决现有 Linux 桌面环境在统一性、性能和开发体验上的碎片化问题。核心技术亮点包括基于 DRM 的底层合成器、Swift 语言的高效与安全特性，以及 Flutter 到 Swift 的框架移植，使得跨平台 UI 开发更顺畅。适用场景为追求现代化、高性能和一致体验的 Linux 桌面用户及开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-07-31T01:50:08.998394+00:00"
+    },
+    {
+      "title": "aigclink/geolook",
+      "source": "github-trending",
+      "url": "https://github.com/aigclink/geolook",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "stars": 128,
+      "language": "Python",
+      "topics": [
+        "ai-search",
+        "generative-engine-optimization",
+        "geo",
+        "llm",
+        "self-hosted",
+        "seo"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-30T14:23:45Z",
+      "summary": "geolook 是一个开源的端到端生成式引擎优化（GEO）实现，涵盖状态分析、诊断、策略制定、工单管理、执行与验证全流程。它解决企业在 AI 搜索（如 ChatGPT、Perplexity）中品牌可见度不足的问题，通过 LLM 驱动的内容优化和结构化数据提升被引概率。核心技术亮点包括自托管部署、多阶段工作流自动化，以及将 GEO 策略转化为可执行工单的闭环机制。适用场景包括 SEO 团队、内容营销人员及希望提升 AI 搜索排名的企业。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-07-31T01:50:11.608455+00:00"
+    },
+    {
+      "title": "grafana/ai-sdk",
+      "source": "github-trending",
+      "url": "https://github.com/grafana/ai-sdk",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "stars": 123,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-30T14:59:29Z",
+      "summary": "Grafana 推出的 Go 语言 AI SDK，提供流式输出和工具调用（tool-calling）能力，后端兼容 @ai-sdk/react 协议。它解决了 Go 服务端与前端 AI 交互的集成痛点，核心亮点是原生支持流式响应和工具调用，便于构建实时 AI 应用。适用于需要 Go 后端与 React 前端协同的 AI 助手、工作流自动化等场景。",
+      "tags": [
+        "tool-use",
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:50:13.508841+00:00"
+    },
+    {
+      "title": "WutIsHummus/TrueDeck",
+      "source": "github-trending",
+      "url": "https://github.com/WutIsHummus/TrueDeck",
+      "description": "Free multi-agent coding workbench: Grok/Codex/Claude/Cursor panes + TrueMemory (per-repo + global)",
+      "stars": 116,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-29T01:03:23Z",
+      "summary": "TrueDeck 是一个免费的多智能体编码工作台，集成 Grok、Codex、Claude、Cursor 等多个 AI 编程助手面板，并配备 TrueMemory 系统，支持仓库级和全局记忆。它解决了多 AI 工具切换时上下文割裂、记忆不连续的问题，通过统一界面和持久化记忆提升编码效率。核心技术亮点包括多模型并行协作、双层记忆架构（per-repo + global）以及 TypeScript 实现。适用于需要同时使用多个 AI 编码助手的开发者，尤其适合复杂项目中的跨模型协作与长期上下文维护。",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:50:16.007911+00:00"
+    },
+    {
+      "title": "nopnoping/micro-vllm",
+      "source": "github-trending",
+      "url": "https://github.com/nopnoping/micro-vllm",
+      "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
+      "stars": 110,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-26T14:46:12Z",
+      "summary": "micro-vllm 是一个小型、教育性质的 vLLM 实现，旨在帮助开发者深入理解 LLM 推理、调度、KV-cache 管理和 GPU 执行等核心机制。它通过精简代码和清晰注释，解决了大型框架难以学习的问题，提供了可运行的示例和模块化设计。核心技术亮点包括简化的调度算法、显式的 KV-cache 管理以及 GPU 执行流程演示。适用于 AI 工程师学习推理引擎内部原理、进行教学或作为二次开发的基础。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-31T01:50:18.248684+00:00"
+    },
+    {
+      "title": "realchendahuang/pi-config",
+      "source": "github-trending",
+      "url": "https://github.com/realchendahuang/pi-config",
+      "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
+      "stars": 105,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-25T10:17:36Z",
+      "summary": "一个开源的 Pi coding agent 配置仓库，提供 17 个插件、18 个全局技能和 2 个 MCP 服务器的完整设置，附带一键安装脚本和教程 README。它解决了 AI 编程助手个性化配置繁琐、技能扩展困难的问题，通过集中管理和自动化安装提升开发效率。核心技术亮点是模块化插件体系、全局技能集成和 MCP 服务器支持，适用于希望深度定制 AI 编程工作流的开发者。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-07-31T01:50:20.350416+00:00"
+    },
+    {
+      "title": "qa10devteam/behive",
+      "source": "github-trending",
+      "url": "https://github.com/qa10devteam/behive",
+      "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality.",
+      "stars": 104,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-30T21:00:46Z",
+      "summary": "behive 是一个开源的深度研究引擎，基于 Python 构建，核心功能是将研究数据组织为结构化知识图谱。它原生支持 MCP（Model Context Protocol），便于与 LLM 生态集成，并宣称输出质量评分达 0.82+。技术亮点在于知识图谱构建与 MCP 原生接口，适用于需要深度信息检索、知识组织与 AI 辅助研究的场景，如学术调研、市场分析或企业情报收集。",
+      "tags": [
+        "open-source",
+        "mcp",
+        "knowledge-graph",
+        "research-engine",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-07-31T01:50:22.417147+00:00"
+    },
+    {
+      "title": "awplanets/awplanet",
+      "source": "github-trending",
+      "url": "https://github.com/awplanets/awplanet",
+      "description": "AI 原生 3D 导演工作台与场景创作工具 / AI-native 3D direction and scene creation studio",
+      "stars": 95,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-30T09:23:14Z",
+      "summary": "awplanet 是一个 AI 原生的 3D 导演工作台与场景创作工具，旨在通过 AI 辅助简化 3D 场景的搭建和导演流程。它解决传统 3D 创作工具学习曲线陡峭、操作繁琐的问题，利用 AI 能力实现自然语言或半自动化的场景生成与编辑。核心技术亮点包括基于 JavaScript 的实时交互界面、AI 驱动的场景元素布局与动画控制，以及可能集成的多模态输入。适用于游戏开发、影视预可视化、虚拟制片和创意设计等领域，帮助导演和艺术家快速迭代场景。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-07-31T01:50:24.813637+00:00"
+    },
+    {
+      "title": "meepo-it/letsfinddomain-skill",
+      "source": "github-trending",
+      "url": "https://github.com/meepo-it/letsfinddomain-skill",
+      "description": "A read-only AI skill for finding domain names, checking availability in bulk, and comparing renewal prices.",
+      "stars": 87,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-27T06:09:54Z",
+      "summary": "letsfinddomain-skill 是一个只读的 AI 技能，用于批量查找域名、检查可用性并比较续费价格。它解决了域名注册和管理中的信息分散、手动查询效率低的问题。核心技术亮点是基于 Python 实现，可能集成了域名 API 和自然语言处理，以支持 AI 助手的交互式查询。适用场景包括域名投资、品牌保护、网站开发前的域名筛选等，可作为 AI 助手的工具扩展。",
+      "tags": [
+        "tool-use",
+        "ai-assistant",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-07-31T01:50:26.907175+00:00"
+    },
+    {
+      "title": "Ayin1412/ForzaHorizon6-VisionAI",
+      "source": "github-trending",
+      "url": "https://github.com/Ayin1412/ForzaHorizon6-VisionAI",
+      "description": "Camera-only closed-loop driving agent for Forza Horizon 6, with geometry as the control interface.",
+      "stars": 85,
+      "language": "Python",
+      "topics": [
+        "autonomous-driving",
+        "computer-vision",
+        "forza-horizon-6",
+        "imitation-learning"
+      ],
+      "collected_at": "2026-07-31T01:49:45.730174+00:00",
+      "published_at": "2026-07-26T15:52:08Z",
+      "summary": "ForzaHorizon6-VisionAI 是一个基于纯摄像头输入的闭环驾驶智能体，用于《极限竞速：地平线6》游戏，以几何信息作为控制接口。它解决的是在复杂驾驶环境中仅依赖视觉感知进行决策控制的问题。核心技术亮点包括计算机视觉、模仿学习，以及将视觉信息转化为几何控制信号。适用场景为自动驾驶研究、游戏AI开发以及模仿学习算法的验证。",
+      "tags": [
+        "computer-vision",
+        "imitation-learning",
+        "autonomous-driving",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-07-31T01:50:28.788766+00:00"
+    }
+  ]
+}
