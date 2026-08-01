@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-01-011",
+  "title": "Golang proposal: container/: generic collection types",
+  "source": "hackernews-top",
+  "url": "https://github.com/golang/go/issues/80590",
+  "summary": "Golang 官方 proposal 提出在标准库 container/ 包中引入泛型集合类型，解决 Go 语言缺乏内置泛型数据结构的问题。核心亮点是结合 Go 1.18 泛型特性，设计通用的 List、Map、Set 等容器，提供类型安全和性能优化。适用于需要高效、类型安全数据结构的 Go 开发者，尤其在后端服务、数据处理等场景。该提案尚在讨论阶段，但反映了 Go 生态对泛型集合的迫切需求。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:52:08.228131+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}

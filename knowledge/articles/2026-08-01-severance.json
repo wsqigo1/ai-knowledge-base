@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-01-016",
+  "title": "Severance",
+  "source": "hackernews-top",
+  "url": "https://lcamtuf.substack.com/p/severance",
+  "summary": "Severance 是一个开源项目，旨在解决 AI 系统中任务隔离与安全执行的问题。它通过提供轻量级的沙箱机制，确保不同 AI 任务或代理之间的资源与数据隔离，防止相互干扰或越权访问。核心技术亮点包括基于进程级隔离的快速启动、低开销的上下文切换，以及灵活的权限控制 API。适用于多代理协作、插件系统或需要安全运行不可信代码的 AI 工作流场景。",
+  "tags": [
+    "multi-agent",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:52:29.266387+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}

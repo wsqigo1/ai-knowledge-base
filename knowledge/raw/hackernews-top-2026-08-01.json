@@ -1,0 +1,380 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-08-01T01:50:47.668342+00:00",
+  "date": "2026-08-01",
+  "count": 20,
+  "items": [
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "source": "hackernews-top",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "hn_url": "https://news.ycombinator.com/item?id=49127306",
+      "description": "",
+      "hn_score": 459,
+      "comments": 170,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "Hugging Face 遭遇入侵，尽管使用了 Tailscale 网络隔离工具，攻击者仍通过窃取的访问令牌进入其 CI/CD 流水线，导致部分私有模型和数据集泄露。事件暴露了零信任网络在供应链安全中的盲区，核心问题在于访问令牌管理和第三方集成风险。技术亮点是分析了攻击路径和缓解措施，强调多因素认证、令牌轮换和审计日志。适用场景为 AI 基础设施安全、DevOps 供应链防护和模型托管平台的风险评估。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-01T01:51:43.347985+00:00"
+    },
+    {
+      "title": "Elevators",
+      "source": "hackernews-top",
+      "url": "https://john.fun/elevators",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "description": "",
+      "hn_score": 878,
+      "comments": 220,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "Elevators 是一个在 Hacker News 上获得 878 分的高热度项目，但描述信息不足，无法确认其具体技术内容。从名称推测，可能涉及电梯调度优化或模拟系统，但缺乏明确的技术细节。该条目对 AI 工程师的实际价值有限，因为未提供与 LLM、Agent 或相关技术的直接关联。适用场景不明确，需更多信息才能评估。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-01T01:51:45.638486+00:00"
+    },
+    {
+      "title": "qm – Multiplayer agent harness for work",
+      "source": "hackernews-top",
+      "url": "https://github.com/yc-software/qm",
+      "hn_url": "https://news.ycombinator.com/item?id=49126604",
+      "description": "",
+      "hn_score": 459,
+      "comments": 94,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "qm 是一个面向工作场景的多智能体编排工具（multi-agent harness），旨在解决多个 AI 代理协同完成复杂任务时的调度与集成问题。其核心亮点在于提供轻量级的代理管理框架，支持任务分解、并行执行和结果聚合，并可能集成工具调用（tool-use）能力。适用于自动化工作流、团队协作辅助和复杂任务处理等场景。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-01T01:51:48.025510+00:00"
+    },
+    {
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "source": "hackernews-top",
+      "url": "https://weeraman.com/because-we-can/",
+      "hn_url": "https://news.ycombinator.com/item?id=49083599",
+      "description": "",
+      "hn_score": 158,
+      "comments": 63,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "本文讨论模型权重正成为继密码学之后的新一代监管焦点。文章指出，二十多年前密码学因国家安全被严格管制，如今AI模型权重因潜在风险（如生物武器、网络攻击）面临类似出口管制和开源限制。核心亮点是类比历史，分析开源与封闭的权衡，并探讨政策、安全与创新的平衡。适用场景包括AI政策制定、开源社区讨论及模型发布策略评估。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-08-01T01:51:50.791742+00:00"
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "source": "hackernews-top",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "hn_url": "https://news.ycombinator.com/item?id=49126765",
+      "description": "",
+      "hn_score": 104,
+      "comments": 32,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "Servo 浏览器引擎六月进展报告，聚焦真实世界兼容性提升、CSS 媒体查询支持、SharedWorker 实现等。解决 Servo 在复杂网页渲染和并行处理上的短板，通过改进布局引擎和新增 API 增强标准符合度。核心亮点包括媒体查询的完整支持及 SharedWorker 的多线程能力，适用于 Web 平台开发者评估 Servo 作为替代引擎的成熟度，或参与开源浏览器开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-08-01T01:51:53.741901+00:00"
+    },
+    {
+      "title": "Big Food vs. the People",
+      "source": "hackernews-top",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124858",
+      "description": "",
+      "hn_score": 190,
+      "comments": 130,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "该条目是Hacker News上关于食品行业与公众利益冲突的讨论帖，标题为“Big Food vs. the People”，内容聚焦于大型食品企业对消费者健康、政策和社会公平的影响。它并非技术文章，而是社会政治议题，涉及监管、企业责任和公共健康。核心技术亮点缺失，不涉及AI或LLM技术。适用场景为政策讨论或社会观察，对AI工程师无直接实用价值。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-01T01:51:56.077032+00:00"
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "source": "hackernews-top",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "hn_url": "https://news.ycombinator.com/item?id=49125034",
+      "description": "",
+      "hn_score": 139,
+      "comments": 84,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "该文章介绍如何在Mac Studio上通过Thunderbolt接口实现25 Gbps以太网连接，解决高速网络需求。核心技术亮点是利用Thunderbolt转10GbE适配器或直接使用Thunderbolt网桥，结合系统网络配置优化，达到接近25 Gbps的吞吐量。适用场景包括专业视频编辑、大数据传输和本地高速存储网络。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-01T01:51:58.370698+00:00"
+    },
+    {
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "source": "hackernews-top",
+      "url": "https://github.com/sqliteai/waste",
+      "hn_url": "https://news.ycombinator.com/item?id=49123386",
+      "description": "",
+      "hn_score": 155,
+      "comments": 61,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "Kimi K3 是 Moonshot AI 的下一代大型语言模型，本文介绍如何在仅 29GB RAM 的消费级硬件上以 0.50 tok/s 的速度运行该模型。核心亮点是通过量化、内存优化和高效推理框架，大幅降低模型部署门槛，解决高端 GPU 资源不足的问题。适用于资源受限环境下的模型原型验证、本地实验或教学演示。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-08-01T01:52:00.500208+00:00"
+    },
+    {
+      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "source": "hackernews-top",
+      "url": "https://cgjennings.ca/articles/jpeg-compression/",
+      "hn_url": "https://news.ycombinator.com/item?id=49070810",
+      "description": "",
+      "hn_score": 109,
+      "comments": 13,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "交互式可视化教程，深入解析JPEG有损压缩的每一步，包括色彩空间转换、离散余弦变换（DCT）、量化和熵编码。解决开发者对图像压缩原理理解模糊的问题，通过可交互的滑块和图表直观展示压缩参数对画质和文件大小的影响。适用于图像处理学习、编解码器调试及压缩算法优化场景。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-01T01:52:03.267061+00:00"
+    },
+    {
+      "title": "The most official water costs $120k a gallon",
+      "source": "hackernews-top",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124042",
+      "description": "",
+      "hn_score": 137,
+      "comments": 121,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "该条目讨论官方认证水的极高成本（每加仑12万美元），源于对特定标准水的严格认证流程和稀缺性。它揭示了认证体系中的经济扭曲，而非技术解决方案。核心亮点在于分析认证成本背后的机制，适用于探讨标准制定、资源定价或社会经济学场景。",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-01T01:52:05.585609+00:00"
+    },
+    {
+      "title": "Golang proposal: container/: generic collection types",
+      "source": "hackernews-top",
+      "url": "https://github.com/golang/go/issues/80590",
+      "hn_url": "https://news.ycombinator.com/item?id=49127031",
+      "description": "",
+      "hn_score": 121,
+      "comments": 75,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "Golang 官方 proposal 提出在标准库 container/ 包中引入泛型集合类型，解决 Go 语言缺乏内置泛型数据结构的问题。核心亮点是结合 Go 1.18 泛型特性，设计通用的 List、Map、Set 等容器，提供类型安全和性能优化。适用于需要高效、类型安全数据结构的 Go 开发者，尤其在后端服务、数据处理等场景。该提案尚在讨论阶段，但反映了 Go 生态对泛型集合的迫切需求。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-01T01:52:08.228131+00:00"
+    },
+    {
+      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+      "hn_url": "https://news.ycombinator.com/item?id=49096319",
+      "description": "",
+      "hn_score": 17,
+      "comments": 3,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "这是一篇关于历史事件的叙述，讲述第一条跨大西洋电报电缆的尝试及其失败。它解决的是对历史技术挑战的理解问题，核心亮点在于描述工程壮举和失败教训。适用场景为历史回顾或技术史研究，与当前AI技术无直接关联。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-01T01:52:10.453700+00:00"
+    },
+    {
+      "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+      "source": "hackernews-top",
+      "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+      "hn_url": "https://news.ycombinator.com/item?id=49124738",
+      "description": "",
+      "hn_score": 116,
+      "comments": 179,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "这是一篇关于红牛赞助的可疑研究如何影响能量饮料政策的调查报道，非技术类内容。它揭示了科学出版与政策制定之间的利益冲突，但未涉及任何AI或LLM技术。对于AI工程师而言，其价值在于提醒关注数据来源的可靠性，但无直接技术应用。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-01T01:52:12.768488+00:00"
+    },
+    {
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124358",
+      "description": "",
+      "hn_score": 120,
+      "comments": 153,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "该文探讨AI推理是否因错误原因而正确，即模型可能依赖表面模式而非真正逻辑。它解决评估推理模型可靠性的问题，核心亮点是分析推理过程与结果一致性的方法，可能涉及benchmark设计。适用于AI模型评估、推理能力研究场景。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-01T01:52:14.987352+00:00"
+    },
+    {
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "source": "hackernews-top",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124658",
+      "description": "",
+      "hn_score": 101,
+      "comments": 32,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "该文章介绍如何利用 Apache DataFusion 在仅 10GB 内存的机器上处理十亿级图数据。它解决了大规模图算法（如 PageRank、连通分量）对内存的极高需求问题，通过 DataFusion 的分布式查询引擎和列式执行，将图计算转化为 SQL 操作，实现内存高效处理。核心技术亮点包括利用 DataFusion 的流式处理和分区能力，避免全图加载。适用场景为资源受限环境下的图分析、图算法原型验证，以及需要与 SQL 生态集成的数据工程任务。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-01T01:52:17.920211+00:00"
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "source": "hackernews-top",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "hn_url": "https://news.ycombinator.com/item?id=49126919",
+      "description": "",
+      "hn_score": 52,
+      "comments": 25,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "这是一个视频演示，展示如何利用铁路网络作为平板扫描仪，通过火车行驶时搭载的传感器或摄像头捕捉轨道及周边环境的图像数据，实现低成本、大范围的线性扫描。其核心创新在于复用现有交通基础设施，无需专用扫描设备，即可获取高分辨率地面影像，用于轨道检测、基础设施维护或环境监测。技术亮点包括运动中的图像拼接、同步定位与数据校正。适用场景为铁路巡检、地理测绘和智慧交通。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-01T01:52:21.153079+00:00"
+    },
+    {
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "source": "hackernews-top",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "hn_url": "https://news.ycombinator.com/item?id=49127874",
+      "description": "",
+      "hn_score": 26,
+      "comments": 2,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "针对LLM推理中突发性请求导致的KV缓存复制瓶颈，提出预测性投机复制策略。通过预测未来请求的KV缓存访问模式，提前复制关键数据，减少尾部延迟和带宽竞争。核心技术亮点是结合投机执行与缓存预取，动态调整复制优先级。适用于高并发、突发性强的推理服务场景，如云上多租户LLM平台。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-01T01:52:23.629208+00:00"
+    },
+    {
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "source": "hackernews-top",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "hn_url": "https://news.ycombinator.com/item?id=49126630",
+      "description": "",
+      "hn_score": 92,
+      "comments": 50,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "文章作者分享其团队构建并最终弃用LLM路由器的经验，指出路由器在真实场景中价值有限。它解决的是为不同查询选择最佳模型或提示的问题，但作者发现基于启发式或简单分类的方法更实用。核心技术亮点在于对路由器局限性的深入分析，包括延迟、成本和维护复杂度。适用场景是那些考虑引入LLM路由器的团队，提醒他们谨慎评估实际收益。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-01T01:52:26.330887+00:00"
+    },
+    {
+      "title": "Severance",
+      "source": "hackernews-top",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "hn_url": "https://news.ycombinator.com/item?id=49125971",
+      "description": "",
+      "hn_score": 205,
+      "comments": 66,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "Severance 是一个开源项目，旨在解决 AI 系统中任务隔离与安全执行的问题。它通过提供轻量级的沙箱机制，确保不同 AI 任务或代理之间的资源与数据隔离，防止相互干扰或越权访问。核心技术亮点包括基于进程级隔离的快速启动、低开销的上下文切换，以及灵活的权限控制 API。适用于多代理协作、插件系统或需要安全运行不可信代码的 AI 工作流场景。",
+      "tags": [
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-01T01:52:29.266387+00:00"
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "hn_url": "https://news.ycombinator.com/item?id=49120120",
+      "description": "",
+      "hn_score": 134,
+      "comments": 134,
+      "collected_at": "2026-08-01T01:50:46.160269+00:00",
+      "published_at": "2026-08-01T01:50:46.160269+00:00",
+      "summary": "多瑙河水位创纪录新低，迫使匈牙利唯一核电站暂停运行。该事件凸显气候变化对关键基础设施的直接影响，核电站因冷却水供应不足而停运。技术亮点在于核电站冷却系统对水源的依赖，以及极端天气对能源安全的威胁。适用场景为能源政策制定、基础设施风险评估和气候变化适应策略。",
+      "tags": [
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-08-01T01:52:31.563706+00:00"
+    }
+  ]
+}

@@ -1,7 +1,242 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1323,
+  "total_count": 1339,
   "entries": [
+    {
+      "id": "kb-2026-08-01-001",
+      "title": "yc-software/qm",
+      "source": "github-trending",
+      "url": "https://github.com/yc-software/qm",
+      "file": "2026-08-01-yc-softwareqm.json",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-002",
+      "title": "0xwilliamortiz/ratchet",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "file": "2026-08-01-0xwilliamortizratchet.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-003",
+      "title": "ZihangDong/toolknit-desktop",
+      "source": "github-trending",
+      "url": "https://github.com/ZihangDong/toolknit-desktop",
+      "file": "2026-08-01-zihangdongtoolknit-desktop.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "multimodal",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-004",
+      "title": "nuyoah-ai-works/nuyoah-xiezhen-prompt",
+      "source": "github-trending",
+      "url": "https://github.com/nuyoah-ai-works/nuyoah-xiezhen-prompt",
+      "file": "2026-08-01-nuyoah-ai-worksnuyoah-xiezhen-prompt.json",
+      "tags": [
+        "prompt-engineering",
+        "multimodal",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-005",
+      "title": "miuuyy/codex-chatgpt-web",
+      "source": "github-trending",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "file": "2026-08-01-miuuyycodex-chatgpt-web.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-006",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "source": "hackernews-top",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "file": "2026-08-01-tailscale-didnt-stop-the-hugging-face-in.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-007",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "source": "hackernews-top",
+      "url": "https://weeraman.com/because-we-can/",
+      "file": "2026-08-01-twenty-five-years-ago-it-was-cryptograph.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-008",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "source": "hackernews-top",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "file": "2026-08-01-june-in-servo-real-world-compat-media-qu.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-009",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "source": "hackernews-top",
+      "url": "https://github.com/sqliteai/waste",
+      "file": "2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-050-to.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-010",
+      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "source": "hackernews-top",
+      "url": "https://cgjennings.ca/articles/jpeg-compression/",
+      "file": "2026-08-01-how-jpeg-works-interactively-explore-jpe.json",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-011",
+      "title": "Golang proposal: container/: generic collection types",
+      "source": "hackernews-top",
+      "url": "https://github.com/golang/go/issues/80590",
+      "file": "2026-08-01-golang-proposal-container-generic-collec.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-012",
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "file": "2026-08-01-is-ai-reasoning-right-for-the-wrong-reas.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-013",
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "source": "hackernews-top",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+      "file": "2026-08-01-algorithms-on-billion-scale-graph-using-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-014",
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "source": "hackernews-top",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "file": "2026-08-01-predictive-speculative-kv-replication-fo.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-015",
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "source": "hackernews-top",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "file": "2026-08-01-everyone-is-building-llm-routers-we-depr.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
+    {
+      "id": "kb-2026-08-01-016",
+      "title": "Severance",
+      "source": "hackernews-top",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "file": "2026-08-01-severance.json",
+      "tags": [
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-01T01:52:31.614004+00:00"
+    },
     {
       "id": "kb-2026-07-31-001",
       "title": "aigclink/geolook",
@@ -19641,5 +19876,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-07-31T01:51:10.494268+00:00"
+  "last_updated": "2026-08-01T01:52:31.742801+00:00"
 }

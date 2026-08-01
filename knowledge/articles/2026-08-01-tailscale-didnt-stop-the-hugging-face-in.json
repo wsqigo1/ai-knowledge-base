@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-01-006",
+  "title": "Tailscale didn't stop the Hugging Face intrusion",
+  "source": "hackernews-top",
+  "url": "https://tailscale.com/blog/hugging-face-intrusion",
+  "summary": "Hugging Face 遭遇入侵，尽管使用了 Tailscale 网络隔离工具，攻击者仍通过窃取的访问令牌进入其 CI/CD 流水线，导致部分私有模型和数据集泄露。事件暴露了零信任网络在供应链安全中的盲区，核心问题在于访问令牌管理和第三方集成风险。技术亮点是分析了攻击路径和缓解措施，强调多因素认证、令牌轮换和审计日志。适用场景为 AI 基础设施安全、DevOps 供应链防护和模型托管平台的风险评估。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:51:43.347985+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}

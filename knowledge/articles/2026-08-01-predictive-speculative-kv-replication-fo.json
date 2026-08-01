@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-01-014",
+  "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+  "source": "hackernews-top",
+  "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+  "summary": "针对LLM推理中突发性请求导致的KV缓存复制瓶颈，提出预测性投机复制策略。通过预测未来请求的KV缓存访问模式，提前复制关键数据，减少尾部延迟和带宽竞争。核心技术亮点是结合投机执行与缓存预取，动态调整复制优先级。适用于高并发、突发性强的推理服务场景，如云上多租户LLM平台。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:52:23.629208+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}

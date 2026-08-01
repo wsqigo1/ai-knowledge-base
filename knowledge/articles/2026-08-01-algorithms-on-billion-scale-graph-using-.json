@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-01-013",
+  "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+  "source": "hackernews-top",
+  "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+  "summary": "该文章介绍如何利用 Apache DataFusion 在仅 10GB 内存的机器上处理十亿级图数据。它解决了大规模图算法（如 PageRank、连通分量）对内存的极高需求问题，通过 DataFusion 的分布式查询引擎和列式执行，将图计算转化为 SQL 操作，实现内存高效处理。核心技术亮点包括利用 DataFusion 的流式处理和分区能力，避免全图加载。适用场景为资源受限环境下的图分析、图算法原型验证，以及需要与 SQL 生态集成的数据工程任务。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:52:17.920211+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}

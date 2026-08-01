@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-01-009",
+  "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+  "source": "hackernews-top",
+  "url": "https://github.com/sqliteai/waste",
+  "summary": "Kimi K3 是 Moonshot AI 的下一代大型语言模型，本文介绍如何在仅 29GB RAM 的消费级硬件上以 0.50 tok/s 的速度运行该模型。核心亮点是通过量化、内存优化和高效推理框架，大幅降低模型部署门槛，解决高端 GPU 资源不足的问题。适用于资源受限环境下的模型原型验证、本地实验或教学演示。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:52:00.500208+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}

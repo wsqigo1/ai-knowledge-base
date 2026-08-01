@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-01-015",
+  "title": "Everyone is building LLM routers, we deprecated ours",
+  "source": "hackernews-top",
+  "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+  "summary": "文章作者分享其团队构建并最终弃用LLM路由器的经验，指出路由器在真实场景中价值有限。它解决的是为不同查询选择最佳模型或提示的问题，但作者发现基于启发式或简单分类的方法更实用。核心技术亮点在于对路由器局限性的深入分析，包括延迟、成本和维护复杂度。适用场景是那些考虑引入LLM路由器的团队，提醒他们谨慎评估实际收益。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-01T01:50:46.160269+00:00",
+  "analyzed_at": "2026-08-01T01:52:26.330887+00:00",
+  "organized_at": "2026-08-01T01:52:31.614004+00:00",
+  "status": "published"
+}
