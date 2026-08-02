@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-02-009",
+  "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+  "source": "hackernews-top",
+  "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+  "summary": "RipGrep（rg）在极大规模搜索时，其 musl 静态链接二进制偶尔发生段错误（segfault）。该问题源于 musl 的内存分配器或线程处理在极端负载下的缺陷，而非 ripgrep 核心逻辑。技术亮点是定位到 musl 特定构建的边界情况，并可能通过改用 glibc 构建或调整线程数规避。适用场景为使用 Alpine Linux 或静态二进制进行大规模代码搜索的开发者，需关注稳定性或改用替代构建。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-08-02T01:47:00.881465+00:00",
+  "analyzed_at": "2026-08-02T01:48:04.952159+00:00",
+  "organized_at": "2026-08-02T01:48:35.563810+00:00",
+  "status": "published"
+}

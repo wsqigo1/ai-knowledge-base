@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-02-004",
+  "title": "hardrave/NIGHTRUN",
+  "source": "github-trending",
+  "url": "https://github.com/hardrave/NIGHTRUN",
+  "summary": "NIGHTRUN 是一个基于 Rust 的 UEFI 固件级应用，让 PC 在无操作系统的情况下直接启动进入 LLM 环境。它解决的是传统 OS 启动开销大、资源占用高的问题，使硬件资源完全用于推理。核心技术亮点包括 UEFI 常驻、直接硬件访问、集成 llama.cpp/Ollama 推理引擎。适用场景为嵌入式、边缘计算或专用 AI 工作站，追求极致启动速度和资源效率。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-08-02T01:47:00.678197+00:00",
+  "analyzed_at": "2026-08-02T01:47:47.945326+00:00",
+  "organized_at": "2026-08-02T01:48:35.563810+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-02-003",
+  "title": "Anionex/codex-deepseek-vision",
+  "source": "github-trending",
+  "url": "https://github.com/Anionex/codex-deepseek-vision",
+  "summary": "Anionex/codex-deepseek-vision 是一个为纯文本 LLM（如 deepseek-v4）设计的视力工具包，使其能在 codex 环境中调用内置的 view_image 工具。它解决了纯文本模型无法直接处理图像输入的问题，通过附加工具包实现视觉能力。核心技术亮点包括轻量级集成和工具调用适配。适用于需要在 codex 中处理图像任务的场景，如代码审查中的截图分析。",
+  "tags": [
+    "multimodal",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-02T01:47:00.678197+00:00",
+  "analyzed_at": "2026-08-02T01:47:38.160448+00:00",
+  "organized_at": "2026-08-02T01:48:35.563810+00:00",
+  "status": "published"
+}

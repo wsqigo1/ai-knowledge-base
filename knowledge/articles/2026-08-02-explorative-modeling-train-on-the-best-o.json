@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-02-010",
+  "title": "Explorative modeling: Train on the best of K guesses",
+  "source": "hackernews-top",
+  "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+  "summary": "Explorative modeling 提出一种训练策略：在每次迭代中生成 K 个候选预测，仅用最佳预测进行训练。该方法解决模型在探索性任务中因错误累积导致的训练信号稀疏问题，通过选择最优输出提升学习效率。核心技术亮点是结合搜索或采样生成多样候选，并利用奖励或验证信号筛选最佳样本，类似专家迭代。适用场景包括强化学习、自监督学习及需要探索的生成任务，尤其适合 LLM 的推理和规划训练。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "fine-tuning",
+    "benchmark"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-02T01:47:00.881465+00:00",
+  "analyzed_at": "2026-08-02T01:48:09.807954+00:00",
+  "organized_at": "2026-08-02T01:48:35.563810+00:00",
+  "status": "published"
+}

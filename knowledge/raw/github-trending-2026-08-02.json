@@ -1,0 +1,516 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-02T01:47:03.012415+00:00",
+  "date": "2026-08-02",
+  "count": 19,
+  "items": [
+    {
+      "title": "yc-software/qm",
+      "source": "github-trending",
+      "url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "stars": 5036,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T01:30:53Z",
+      "summary": "qm 是一个用于工作的多人智能体编排框架，解决多智能体协作与任务分配问题。其核心技术亮点包括基于 TypeScript 的高性能运行时、灵活的智能体通信协议以及可扩展的任务调度机制。适用于团队协作场景，如软件开发、项目管理等，支持多智能体并行处理复杂工作流。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-08-02T01:47:05.142181+00:00"
+    },
+    {
+      "title": "QwenAudio/qwen-audio-agent",
+      "source": "github-trending",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": 1299,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T09:00:24Z",
+      "summary": "QwenAudio/qwen-audio-agent 是一个基于 JavaScript 构建的实时语音运行时，专为 AI Agent 设计，使其具备持续对话、执行任务和保持在线状态的能力。它解决的是传统语音交互中延迟高、无法与 Agent 工作流深度集成的问题。核心技术亮点在于将语音输入输出与 Agent 的推理和工具调用实时衔接，支持多轮自然对话和任务执行。适用场景包括语音助手、实时客服、语音控制的自动化工作流等。",
+      "tags": [
+        "agent",
+        "voice-agent",
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-02T01:47:07.444704+00:00"
+    },
+    {
+      "title": "gavamedia/deltafin",
+      "source": "github-trending",
+      "url": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": 594,
+      "language": "Python",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-30T19:26:13Z",
+      "summary": "deltafin 是一个 Python 项目，旨在单设备上运行完整的 Kimi K3 模型，并提供 OpenAI 兼容的 API 服务器，支持本地聊天和编码代理。它解决了在资源受限环境下部署大型语言模型的高门槛问题，通过优化推理和模型加载，使 Kimi K3 能在单机运行。核心技术亮点包括模型量化、内存管理和 API 兼容层。适用场景包括本地开发、离线 AI 助手、编码辅助和隐私敏感应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-02T01:47:09.606332+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 577,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T22:10:48Z",
+      "summary": "ponytail-improved 是一个 Claude Code 插件/技能，通过注入特定提示词，让 AI agent 模仿最懒的资深开发者的思维方式，优先选择不写代码的解决方案，从而减少不必要的代码生成。它解决的是 AI 编程中过度工程化、生成冗余代码的问题。核心技术亮点是轻量级的 prompt 注入和 skill 机制，无需修改模型即可改变 agent 行为。适用场景包括代码审查、重构决策、需求分析，以及任何希望 AI 提供更简洁、更务实建议的开发环节。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-08-02T01:47:12.151566+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/ratchet",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "stars": 408,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality",
+        "developer-tools",
+        "hooks",
+        "llm",
+        "ratchet",
+        "rate-limiting",
+        "static-analysis",
+        "yagni"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-31T20:31:05Z",
+      "summary": "ratchet 是一个 JavaScript 实现的 Claude Code 插件，用于验证 AI agent 是否遵循了预设规则。它通过读取规则文件，检查 agent 的行为是否符合要求，从而提升代码质量和 agent 的可靠性。核心亮点是提供了一种可编程的规则校验机制，适用于需要严格约束 agent 行为的开发场景，如自动化代码审查和合规检查。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-02T01:47:14.190727+00:00"
+    },
+    {
+      "title": "starling-build/starling",
+      "source": "github-trending",
+      "url": "https://github.com/starling-build/starling",
+      "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": 230,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm",
+        "flutter",
+        "gpu",
+        "kms",
+        "linux",
+        "swift",
+        "ubuntu",
+        "wayland",
+        "wayland-compositor",
+        "window-manager",
+        "x11"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-02T01:31:32Z",
+      "summary": "Starling 是一个全新的 Linux 桌面环境，采用 Swift 编写 shell，自带合成器（compositor），并包含 Flutter 到 Swift 的框架移植及官方应用。它旨在解决现有桌面环境缺乏现代语言支持和深度定制的问题，核心技术亮点在于使用 Swift 和 DRM 直接与显示硬件交互，提供高性能和可扩展性。适用场景为开发者探索新型桌面环境或对 Swift 在系统级应用感兴趣的 AI 工程师，但其与 AI 领域关联较弱。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.6,
+      "analyzed_at": "2026-08-02T01:47:16.994314+00:00"
+    },
+    {
+      "title": "AmazingAng/old-coder",
+      "source": "github-trending",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "stars": 218,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "skills",
+        "tdd"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-27T17:10:17Z",
+      "summary": "这是一个面向编码代理（coding agents）时代的开发方法论项目，由资深程序员提出，主张不阅读代码，而是通过运行测试来验证和驱动开发。其核心是“证据优先开发”（Evidence-first development）技能，灵感来源于Uncle Bob的TDD理念，旨在提升编码代理的可靠性和效率。项目提供Python实现的技能包，适用于Claude Code等AI代理，解决代理在代码修改中缺乏验证导致错误的问题。技术亮点包括将TDD原则适配到代理工作流，强调测试作为事实来源。适用场景包括AI辅助软件开发、代理驱动的代码重构和测试驱动开发实践。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-02T01:47:19.612895+00:00"
+    },
+    {
+      "title": "grafana/ai-sdk",
+      "source": "github-trending",
+      "url": "https://github.com/grafana/ai-sdk",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "stars": 180,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-31T17:02:31Z",
+      "summary": "Grafana AI SDK for Go 是一个为 Go 语言设计的 AI 后端开发工具包，旨在简化与 AI 前端的集成。它解决了 Go 后端与 @ai-sdk/react 等前端框架之间流式传输和工具调用的兼容性问题。核心技术亮点包括支持流式响应和工具调用，使 Go 服务能够无缝对接现代 AI 前端。适用场景包括需要将 Go 后端与 React AI 应用集成的开发者，特别是 Grafana 生态内的项目。",
+      "tags": [
+        "developer-tools",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-02T01:47:22.470150+00:00"
+    },
+    {
+      "title": "ZihangDong/toolknit-desktop",
+      "source": "github-trending",
+      "url": "https://github.com/ZihangDong/toolknit-desktop",
+      "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
+      "stars": 175,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T05:16:29Z",
+      "summary": "toolknit-desktop 是一个基于 JavaScript 开发的桌面端多功能工具箱，整合音视频处理、图片编辑、PDF 操作及 AI 功能于一体。它解决了用户需要安装多个独立软件处理不同文件格式的痛点，提供一站式本地处理方案。核心技术亮点包括跨平台桌面框架（如 Electron）和模块化设计，支持 AI 驱动的功能集成。适用场景包括日常办公、媒体处理和轻量级 AI 辅助任务。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "multimodal",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-02T01:47:24.888403+00:00"
+    },
+    {
+      "title": "nuyoah-ai-works/nuyoah-xiezhen-prompt",
+      "source": "github-trending",
+      "url": "https://github.com/nuyoah-ai-works/nuyoah-xiezhen-prompt",
+      "description": "南鸢写真提示词 Agent Skill",
+      "stars": 171,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-29T07:03:04Z",
+      "summary": "南鸢写真提示词 Agent Skill 是一个针对 AI 写真生成场景的提示词工程技能包，旨在解决用户难以撰写高质量写真提示词的问题。其核心亮点是将专业摄影知识（如光线、构图、风格）结构化封装为可复用的 Agent 技能，支持多模态生成模型调用。适用于 AI 艺术创作、摄影风格模拟及提示词优化场景，提升生成图像的美学一致性。",
+      "tags": [
+        "prompt-engineering",
+        "multimodal",
+        "agent",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-02T01:47:27.114791+00:00"
+    },
+    {
+      "title": "aigclink/geolook",
+      "source": "github-trending",
+      "url": "https://github.com/aigclink/geolook",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "stars": 165,
+      "language": "Python",
+      "topics": [
+        "aeo",
+        "ai-search",
+        "ai-visibility",
+        "answer-engine-optimization",
+        "generative-engine-optimization",
+        "geo",
+        "llm",
+        "self-hosted",
+        "seo",
+        "seo-tools"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-31T05:10:47Z",
+      "summary": "geolook 是一个开源的端到端 GEO（Generative Engine Optimization）实现，涵盖状态分析、诊断、策略制定、工单管理、执行与验证全流程。它解决企业在 AI 搜索（如 ChatGPT、Perplexity）中可见性不足的问题，通过自动化工具帮助优化内容以提升在生成式引擎中的引用率。核心技术亮点包括系统化的 GEO 工作流和 Python 实现，适合 SEO 团队、内容运营者及 AI 应用开发者使用。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-02T01:47:29.319190+00:00"
+    },
+    {
+      "title": "uczltw6/trace-file-lineage",
+      "source": "github-trending",
+      "url": "https://github.com/uczltw6/trace-file-lineage",
+      "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "stars": 142,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "artifact-tracking",
+        "claude-code",
+        "cli",
+        "codex",
+        "data-lineage",
+        "data-provenance",
+        "developer-tools",
+        "file-lineage",
+        "local-first",
+        "provenance",
+        "python",
+        "reproducibility",
+        "research-tools"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-31T13:41:10Z",
+      "summary": "trace-file-lineage 是一个 Python CLI 工具，用于追溯文件来源，识别生成该文件的脚本、notebook、数据、命令或 AI agent。它解决 AI 工作流中产物溯源难的问题，提供本地化证据和不确定性量化。核心技术亮点包括基于文件元数据、进程历史和 shell 历史的启发式分析，输出可验证的溯源链。适用场景包括 AI agent 产物管理、数据管道审计和调试。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-08-02T01:47:31.629545+00:00"
+    },
+    {
+      "title": "0xwilliamortiz/humanizer-cli",
+      "source": "github-trending",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "stars": 141,
+      "language": "JavaScript",
+      "topics": [
+        "ai-slop",
+        "ai-slop-detection",
+        "ai-slop-detector",
+        "ai-slop-fixer",
+        "ai-slop-remover",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-plugin",
+        "codex-skill",
+        "human",
+        "humanization",
+        "humanize",
+        "humanize-ai",
+        "humanize-ai-text",
+        "humanize-text",
+        "humanized",
+        "humanizer"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T21:41:13Z",
+      "summary": "humanizer-cli 是一个运行在终端中的 AI 文本检测与改写工具，解决识别 AI 生成内容（ai-slop）的需求。它提供 33 种检测方法，支持前后对比示例、草稿检查功能，且零依赖。核心亮点是轻量级、纯 JavaScript 实现，适合开发者在命令行快速筛查文本。适用场景包括内容审核、编辑校对、以及需要区分人工与 AI 写作的日常任务。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-02T01:47:33.862380+00:00"
+    },
+    {
+      "title": "WutIsHummus/TrueDeck",
+      "source": "github-trending",
+      "url": "https://github.com/WutIsHummus/TrueDeck",
+      "description": "Free multi-agent coding workbench: Grok/Codex/Claude/Cursor panes + TrueMemory (per-repo + global)",
+      "stars": 126,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T19:29:21Z",
+      "summary": "TrueDeck 是一个免费的多智能体编码工作台，集成 Grok、Codex、Claude、Cursor 等多个 AI 编码代理面板，并配备 TrueMemory 功能，支持按仓库和全局级别的记忆持久化。它解决了多 AI 工具切换时上下文丢失和记忆不连续的问题，通过统一界面和记忆层提升编码效率。核心技术亮点包括多代理并行协作、跨会话记忆管理以及 TypeScript 实现。适用于需要同时使用多个 AI 编码助手并希望保留项目上下文的开发者。",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-02T01:47:36.112347+00:00"
+    },
+    {
+      "title": "Anionex/codex-deepseek-vision",
+      "source": "github-trending",
+      "url": "https://github.com/Anionex/codex-deepseek-vision",
+      "description": "一个可以让像deepseek-v4这样的纯文本模型, 在codex中无障碍调用内置看图工具(view_image)的方案，附为纯文本llm设计的视力工具包。",
+      "stars": 124,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T17:19:31Z",
+      "summary": "Anionex/codex-deepseek-vision 是一个为纯文本 LLM（如 deepseek-v4）设计的视力工具包，使其能在 codex 环境中调用内置的 view_image 工具。它解决了纯文本模型无法直接处理图像输入的问题，通过附加工具包实现视觉能力。核心技术亮点包括轻量级集成和工具调用适配。适用于需要在 codex 中处理图像任务的场景，如代码审查中的截图分析。",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-02T01:47:38.160448+00:00"
+    },
+    {
+      "title": "qa10devteam/behive",
+      "source": "github-trending",
+      "url": "https://github.com/qa10devteam/behive",
+      "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality.",
+      "stars": 119,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T18:54:23Z",
+      "summary": "behive 是一个开源深度研究引擎，将研究过程构建为结构化知识图谱，原生支持 MCP（Model Context Protocol），声称输出质量评分 0.82+。它解决传统 RAG 在复杂研究任务中缺乏上下文关联和可解释性的问题，通过知识图谱组织实体与关系，增强多步推理能力。核心技术亮点包括 MCP 集成、知识图谱构建和高质量输出评估。适用场景包括学术研究、市场分析、技术调研等需要深度信息整合的领域，尤其适合 AI 工程师构建自主研究代理。",
+      "tags": [
+        "mcp",
+        "knowledge-graph",
+        "rag",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-02T01:47:40.671228+00:00"
+    },
+    {
+      "title": "kylek-lab1996c2/Camtasia-2026",
+      "source": "github-trending",
+      "url": "https://github.com/kylek-lab1996c2/Camtasia-2026",
+      "description": "Camtasia 2026 is a professional screen recorder and video editor for tutorials, demos, and presentations. This repository includes a fully functional version with premium features unlocked, AI audio cleanup, text-based editing, Zoom import, and easy activation. Free download for Windows 10/11.",
+      "stars": 116,
+      "language": null,
+      "topics": [
+        "camtasia",
+        "camtasia-key-license",
+        "camtasia-license",
+        "camtasia-safe",
+        "camtasia-script",
+        "camtasia-studio",
+        "camtasia-studio-2026",
+        "camtasia-tools",
+        "presentation-software",
+        "tutorial-maker",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-08-01T19:59:39Z",
+      "summary": "该仓库提供Camtasia 2026屏幕录制与视频编辑软件的破解版本，宣称解锁高级功能、AI音频清理、文本编辑、Zoom导入及简易激活，支持Windows 10/11。其本质是盗版软件分发，而非技术项目，无开源代码或技术实现，仅涉及激活脚本。适用场景为需要免费使用商业软件的普通用户，但对AI工程师无实际技术价值，且存在法律和安全风险。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-02T01:47:42.817206+00:00"
+    },
+    {
+      "title": "awplanets/awplanet",
+      "source": "github-trending",
+      "url": "https://github.com/awplanets/awplanet",
+      "description": "AI 原生 3D 导演工作台与场景创作工具 / AI-native 3D direction and scene creation studio",
+      "stars": 111,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-30T09:23:14Z",
+      "summary": "awplanet 是一个 AI 原生的 3D 导演工作台与场景创作工具，旨在通过 AI 辅助简化 3D 场景的构建和导演流程。它解决传统 3D 创作工具学习曲线陡峭、操作繁琐的问题，提供智能化的场景布局、物体放置和镜头调度能力。核心技术亮点包括基于 JavaScript 的实时交互界面、AI 驱动的场景生成与编辑逻辑，以及面向导演视角的创作工作流。适用于游戏开发、影视预演、虚拟制片和创意设计等领域，帮助非专业用户快速产出 3D 场景。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-02T01:47:45.640662+00:00"
+    },
+    {
+      "title": "hardrave/NIGHTRUN",
+      "source": "github-trending",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "stars": 105,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "genai",
+        "llama-cpp",
+        "llm",
+        "ollama",
+        "runtime",
+        "vlm"
+      ],
+      "collected_at": "2026-08-02T01:47:00.678197+00:00",
+      "published_at": "2026-07-27T19:40:26Z",
+      "summary": "NIGHTRUN 是一个基于 Rust 的 UEFI 固件级应用，让 PC 在无操作系统的情况下直接启动进入 LLM 环境。它解决的是传统 OS 启动开销大、资源占用高的问题，使硬件资源完全用于推理。核心技术亮点包括 UEFI 常驻、直接硬件访问、集成 llama.cpp/Ollama 推理引擎。适用场景为嵌入式、边缘计算或专用 AI 工作站，追求极致启动速度和资源效率。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-02T01:47:47.945326+00:00"
+    }
+  ]
+}

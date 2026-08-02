@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-02-013",
+  "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+  "source": "hackernews-top",
+  "url": "https://kaisel.dev/",
+  "summary": "Kaisel 是 Dart 3 原生的 Flutter 路由库，采用“路由即值”（Routes as Values）理念，将路由定义为类型安全的值对象，替代传统的字符串路径。它解决了 Flutter 中路由管理繁琐、类型不安全、难以测试和组合的问题。核心亮点包括基于 Dart 3 的 pattern matching 与 sealed classes 实现编译期路由校验，支持声明式导航、深度链接和状态恢复。适用于需要复杂导航逻辑的中大型 Flutter 应用，提升开发效率和代码可维护性。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-08-02T01:47:00.881465+00:00",
+  "analyzed_at": "2026-08-02T01:48:21.317807+00:00",
+  "organized_at": "2026-08-02T01:48:35.563810+00:00",
+  "status": "published"
+}

@@ -1,0 +1,381 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-08-02T01:47:03.013057+00:00",
+  "date": "2026-08-02",
+  "count": 20,
+  "items": [
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "source": "hackernews-top",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "hn_url": "https://news.ycombinator.com/item?id=49139102",
+      "description": "",
+      "hn_score": 155,
+      "comments": 99,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "文章探讨AI在财务建议中的表现，指出其效果出人意料地好，尤其当用户提出正确问题时。它解决的是AI在专业领域（如金融）的实用性问题，核心亮点在于强调提问质量对AI输出准确性的关键影响，涉及prompt engineering和reasoning能力。适用场景包括个人理财咨询、投资策略初步分析等，对AI工程师理解用户交互设计有参考价值。",
+      "tags": [
+        "prompt-engineering",
+        "reasoning",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-02T01:47:50.309257+00:00"
+    },
+    {
+      "title": "Seedance 2.5",
+      "source": "hackernews-top",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "hn_url": "https://news.ycombinator.com/item?id=49138302",
+      "description": "",
+      "hn_score": 168,
+      "comments": 72,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Seedance 2.5 是字节跳动推出的视频生成模型，解决高质量、可控视频生成问题。核心技术亮点包括多模态理解、精细运动控制和一致性保持，支持文本到视频及图像到视频生成。适用于创意内容生产、广告制作和影视预可视化等场景。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-08-02T01:47:52.273854+00:00"
+    },
+    {
+      "title": "Diátaxis",
+      "source": "hackernews-top",
+      "url": "https://diataxis.fr/",
+      "hn_url": "https://news.ycombinator.com/item?id=49138188",
+      "description": "",
+      "hn_score": 188,
+      "comments": 29,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Diátaxis 是一种面向技术文档的框架，将文档分为教程、操作指南、解释和参考四类，分别对应学习、任务、理解和查阅需求。它解决文档结构混乱、难以维护和用户定位困难的问题，核心亮点是系统化的分类原则和清晰的导航设计。适用于软件项目文档体系搭建、开发者工具说明和 AI 产品用户手册，尤其适合需要长期维护的复杂技术项目。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-02T01:47:54.830063+00:00"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "source": "hackernews-top",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "hn_url": "https://news.ycombinator.com/item?id=49137060",
+      "description": "",
+      "hn_score": 114,
+      "comments": 40,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "这是一篇关于内核健全性（Kernel Soundness）Bug #14576的事后分析报告。该Bug涉及系统内核中的某个健全性检查缺陷，可能导致系统不稳定或安全漏洞。文章详细描述了Bug的根因、触发条件、修复过程以及验证方法。核心技术亮点在于对内核代码的深入剖析和系统性调试方法。适用场景为内核开发、系统安全研究和故障排查。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-08-02T01:47:57.093440+00:00"
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "source": "hackernews-top",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "hn_url": "https://news.ycombinator.com/item?id=49134599",
+      "description": "",
+      "hn_score": 187,
+      "comments": 86,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "这是一本关于64位汇编语言编程的书籍或教程，面向x86-64架构，深入讲解底层指令集、寄存器、内存寻址、调用约定等核心内容。它解决的是开发者对高性能、底层控制的需求，尤其在性能关键型应用、逆向工程、系统编程等领域。技术亮点包括对现代64位特性的全面覆盖，以及通过实例演示如何编写高效、可维护的汇编代码。适用场景包括系统级开发、性能优化、安全研究以及深入理解计算机体系结构。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-08-02T01:47:59.749089+00:00"
+    },
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "source": "hackernews-top",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "hn_url": "https://news.ycombinator.com/item?id=49136821",
+      "description": "",
+      "hn_score": 397,
+      "comments": 141,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "这篇文章讨论Google如何通过其产品决策（如关闭Google Reader、在Chrome中移除RSS支持）导致RSS技术被主流用户抛弃。文章分析了RSS的技术优势（开放、去中心化、用户控制）与商业平台（如Google）追求流量和广告收入之间的矛盾，指出Google的举动加速了RSS的衰落。核心技术亮点在于对RSS协议生态和平台经济博弈的剖析。适用场景：技术历史研究、开源技术推广策略、开发者对平台依赖的反思。",
+      "tags": [
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.9,
+      "analyzed_at": "2026-08-02T01:48:02.546388+00:00"
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "source": "hackernews-top",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "hn_url": "https://news.ycombinator.com/item?id=49133889",
+      "description": "",
+      "hn_score": 250,
+      "comments": 167,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "RipGrep（rg）在极大规模搜索时，其 musl 静态链接二进制偶尔发生段错误（segfault）。该问题源于 musl 的内存分配器或线程处理在极端负载下的缺陷，而非 ripgrep 核心逻辑。技术亮点是定位到 musl 特定构建的边界情况，并可能通过改用 glibc 构建或调整线程数规避。适用场景为使用 Alpine Linux 或静态二进制进行大规模代码搜索的开发者，需关注稳定性或改用替代构建。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-08-02T01:48:04.952159+00:00"
+    },
+    {
+      "title": "NetBSD 11.0",
+      "source": "hackernews-top",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "hn_url": "https://news.ycombinator.com/item?id=49136736",
+      "description": "",
+      "hn_score": 217,
+      "comments": 92,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "NetBSD 11.0 是开源操作系统 NetBSD 的重大版本更新，解决系统稳定性、安全性和硬件兼容性问题。核心技术亮点包括改进的 SMP 支持、新的硬件驱动、增强的虚拟化支持（如 NVMM）以及性能优化。适用于需要高可移植性和安全性的服务器、嵌入式系统及研究环境。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.6,
+      "analyzed_at": "2026-08-02T01:48:07.066473+00:00"
+    },
+    {
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "source": "hackernews-top",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "hn_url": "https://news.ycombinator.com/item?id=49135245",
+      "description": "",
+      "hn_score": 77,
+      "comments": 23,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Explorative modeling 提出一种训练策略：在每次迭代中生成 K 个候选预测，仅用最佳预测进行训练。该方法解决模型在探索性任务中因错误累积导致的训练信号稀疏问题，通过选择最优输出提升学习效率。核心技术亮点是结合搜索或采样生成多样候选，并利用奖励或验证信号筛选最佳样本，类似专家迭代。适用场景包括强化学习、自监督学习及需要探索的生成任务，尤其适合 LLM 的推理和规划训练。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "fine-tuning",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-02T01:48:09.807954+00:00"
+    },
+    {
+      "title": "RamenHaus",
+      "source": "hackernews-top",
+      "url": "https://ramen.haus/",
+      "hn_url": "https://news.ycombinator.com/item?id=49132460",
+      "description": "",
+      "hn_score": 229,
+      "comments": 109,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "RamenHaus 是一个开源项目，旨在提供一种快速、可定制的 AI 应用部署解决方案，解决开发者从模型到生产环境之间的复杂配置问题。其核心技术亮点包括模块化架构和轻量级容器化部署，支持多种模型后端。适用场景包括个人开发者快速原型验证、中小团队内部工具部署，以及需要灵活定制 AI 服务的边缘场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-02T01:48:11.836172+00:00"
+    },
+    {
+      "title": "Flint: A Visualization Language for the AI Era",
+      "source": "hackernews-top",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "hn_url": "https://news.ycombinator.com/item?id=49130604",
+      "description": "",
+      "hn_score": 255,
+      "comments": 67,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Flint 是一种面向 AI 时代的可视化语言，旨在解决传统可视化工具难以表达复杂数据关系和交互逻辑的问题。其核心技术亮点包括声明式语法、与 LLM 深度集成（支持自然语言生成可视化）以及实时数据绑定。适用于数据探索、AI 应用仪表盘和交互式报告等场景，帮助开发者快速构建动态可视化界面。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-08-02T01:48:13.843843+00:00"
+    },
+    {
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "hn_url": "https://news.ycombinator.com/item?id=49077209",
+      "description": "",
+      "hn_score": 47,
+      "comments": 18,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "该条目讨论辫群（braid group）在n=4时Burau表示是忠实的数学证明，解决了低维拓扑与表示论中的长期开放问题。核心技术亮点在于利用计算机辅助证明与代数几何方法，验证了该特殊情形的忠实性。此结果对数学研究有理论意义，但与应用型AI工程关联甚微，主要适用于纯数学、拓扑学及群论研究场景。",
+      "tags": [
+        "reasoning",
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-02T01:48:16.244220+00:00"
+    },
+    {
+      "title": "Just because a game is on disc doesn't mean it will work in the future",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "hn_url": "https://news.ycombinator.com/item?id=49120230",
+      "description": "",
+      "hn_score": 100,
+      "comments": 96,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "这是一篇关于游戏光盘长期可用性的讨论文章，指出即使游戏以光盘形式发行，也可能因DRM、服务器依赖或更新缺失而无法在未来运行。它解决的是数字内容保存和可访问性问题，核心亮点是揭示物理媒介并非永久保障，并探讨了社区备份和模拟器的作用。适用于游戏玩家、数字档案管理员和软件保存研究者。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-02T01:48:18.751496+00:00"
+    },
+    {
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "source": "hackernews-top",
+      "url": "https://kaisel.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49135985",
+      "description": "",
+      "hn_score": 52,
+      "comments": 8,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Kaisel 是 Dart 3 原生的 Flutter 路由库，采用“路由即值”（Routes as Values）理念，将路由定义为类型安全的值对象，替代传统的字符串路径。它解决了 Flutter 中路由管理繁琐、类型不安全、难以测试和组合的问题。核心亮点包括基于 Dart 3 的 pattern matching 与 sealed classes 实现编译期路由校验，支持声明式导航、深度链接和状态恢复。适用于需要复杂导航逻辑的中大型 Flutter 应用，提升开发效率和代码可维护性。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-08-02T01:48:21.317807+00:00"
+    },
+    {
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "source": "hackernews-top",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "hn_url": "https://news.ycombinator.com/item?id=49134694",
+      "description": "",
+      "hn_score": 273,
+      "comments": 148,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "该文报道加拿大签署联合国网络犯罪公约，批评其表面为打击网络犯罪，实为监控条约，可能扩大政府监控权力并影响隐私。文章聚焦政策与法律层面，而非具体技术。核心争议在于公约条款的模糊性及对数字权利的限制。适用场景为关注网络安全政策、隐私保护及国际法规的读者，对AI工程师的直接影响有限，但涉及数据治理与合规环境。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-02T01:48:23.798980+00:00"
+    },
+    {
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "source": "hackernews-top",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "hn_url": "https://news.ycombinator.com/item?id=49135257",
+      "description": "",
+      "hn_score": 308,
+      "comments": 141,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Cursor 从其使用量页面和 CSV 导出中移除了成本信息，这一变化引发用户对透明度的担忧。该事件涉及 AI 编程助手（AI assistant）的定价与使用量展示，核心是产品策略调整而非技术突破。它反映了 AI 工具在商业化过程中对用户可见信息的取舍，对开发者选择工具和评估成本有实际参考价值，但技术深度有限。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-08-02T01:48:26.096197+00:00"
+    },
+    {
+      "title": "Manual: •.,:;…!?·",
+      "source": "hackernews-top",
+      "url": "https://type.today/en/journal/dots",
+      "hn_url": "https://news.ycombinator.com/item?id=49105013",
+      "description": "",
+      "hn_score": 112,
+      "comments": 27,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "该条目标题为标点符号使用手册，内容涉及写作规范，与AI技术无直接关联。它可能是一份关于英文标点正确用法的指南，解决写作中常见标点误用问题，核心亮点是系统化整理标点规则。适用场景为写作教学或文本校对，但对AI工程师的实际价值有限，因其不涉及算法、模型或工具开发。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-02T01:48:28.190157+00:00"
+    },
+    {
+      "title": "The tiny holdout building in the middle of Macy’s is back in view",
+      "source": "hackernews-top",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "hn_url": "https://news.ycombinator.com/item?id=49091614",
+      "description": "",
+      "hn_score": 204,
+      "comments": 58,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "这是一篇关于梅西百货门店中央保留的小型建筑重新引起关注的新闻，属于商业地产或城市文化话题，而非AI技术内容。它描述了该建筑的历史背景和当前可见性，可能涉及城市规划或零售业变迁。核心亮点在于其独特的空间位置和文化意义，但无技术深度。适用场景为商业观察或文化讨论，对AI工程师无直接价值。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-02T01:48:30.360308+00:00"
+    },
+    {
+      "title": "Elevators",
+      "source": "hackernews-top",
+      "url": "https://john.fun/elevators",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "description": "",
+      "hn_score": 1581,
+      "comments": 387,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Elevators 是 Hacker News 上高热度（1581分）的帖子，但描述仅提及标题和来源，未提供具体技术内容。推测可能涉及电梯系统或相关技术，但缺乏细节，难以评估其与 AI 的关联。若为电梯控制系统，可能涉及物联网、实时调度算法，但非 LLM 核心领域。鉴于信息不足，摘要基于现有信息：该条目在 HN 上引发广泛讨论，但技术细节不明，可能为趣味项目或行业新闻，对 AI 工程师的实用价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-02T01:48:32.942722+00:00"
+    },
+    {
+      "title": "Software for One",
+      "source": "hackernews-top",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "hn_url": "https://news.ycombinator.com/item?id=49096605",
+      "description": "",
+      "hn_score": 245,
+      "comments": 249,
+      "collected_at": "2026-08-02T01:47:00.881465+00:00",
+      "published_at": "2026-08-02T01:47:00.881465+00:00",
+      "summary": "Software for One 是一篇探讨个人软件（personal software）理念的文章，聚焦于为单一用户构建定制化工具，而非面向大众市场。它解决通用软件无法满足个性化需求的问题，强调通过编程或 AI 辅助快速创建专属解决方案。核心技术亮点包括利用 LLM 生成代码、简化开发流程，以及强调软件的可维护性和个人掌控。适用场景包括个人自动化、数据管理、生活效率工具等，适合开发者或技术爱好者实践。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-02T01:48:35.511902+00:00"
+    }
+  ]
+}
