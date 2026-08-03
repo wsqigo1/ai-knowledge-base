@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-03-002",
+  "title": "FareedKhan-dev/kimi-k3-in-c",
+  "source": "github-trending",
+  "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+  "summary": "该项目用纯C99实现了一个号称2.78万亿参数的Kimi K3模型，在单CPU、8.24GB内存下完成推理，无需BLAS、框架或GPU。核心亮点是极致的量化与内存优化，通过紧凑的数据结构和AVX2指令集实现高效计算，展示了从零构建大模型推理的可行性。适用于资源受限环境下的模型部署、嵌入式AI研究及教学演示，但实际模型规模与精度需进一步验证。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-08-03T01:49:22.130213+00:00",
+  "analyzed_at": "2026-08-03T01:49:40.116819+00:00",
+  "organized_at": "2026-08-03T01:50:58.154978+00:00",
+  "status": "published"
+}

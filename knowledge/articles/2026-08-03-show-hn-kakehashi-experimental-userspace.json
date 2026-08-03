@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-03-008",
+  "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+  "source": "hackernews-top",
+  "url": "https://github.com/wie-project/kakehashi",
+  "summary": "Kakehashi 是一个实验性用户态方案，旨在 Linux ARM 上运行 macOS 二进制文件。它通过用户态模拟 macOS 的系统调用和运行时环境，解决跨平台兼容性问题，核心技术亮点是无需内核修改即可实现二进制翻译。适用于需要在非 macOS 硬件上测试或运行 macOS 应用的开发场景，但当前仍处于实验阶段，稳定性有限。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-08-03T01:49:22.252976+00:00",
+  "analyzed_at": "2026-08-03T01:50:15.372084+00:00",
+  "organized_at": "2026-08-03T01:50:58.154978+00:00",
+  "status": "published"
+}

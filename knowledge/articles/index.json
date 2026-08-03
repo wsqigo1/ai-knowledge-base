@@ -1,7 +1,276 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1353,
+  "total_count": 1371,
   "entries": [
+    {
+      "id": "kb-2026-08-03-001",
+      "title": "trycompai/crm",
+      "source": "github-trending",
+      "url": "https://github.com/trycompai/crm",
+      "file": "2026-08-03-trycompaicrm.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-002",
+      "title": "FareedKhan-dev/kimi-k3-in-c",
+      "source": "github-trending",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "file": "2026-08-03-fareedkhan-devkimi-k3-in-c.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-003",
+      "title": "Anionex/codex-vision-proxy",
+      "source": "github-trending",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "file": "2026-08-03-anionexcodex-vision-proxy.json",
+      "tags": [
+        "multimodal",
+        "agent",
+        "tool-use",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-004",
+      "title": "aws/context-ontology-accelerator",
+      "source": "github-trending",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "file": "2026-08-03-awscontext-ontology-accelerator.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-005",
+      "title": "arcships/aimux",
+      "source": "github-trending",
+      "url": "https://github.com/arcships/aimux",
+      "file": "2026-08-03-arcshipsaimux.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "large-language-model",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-006",
+      "title": "opentokenz/mcpx",
+      "source": "github-trending",
+      "url": "https://github.com/opentokenz/mcpx",
+      "file": "2026-08-03-opentokenzmcpx.json",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-007",
+      "title": "Karpathy’s Pelican",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "file": "2026-08-03-karpathys-pelican.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-008",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "source": "hackernews-top",
+      "url": "https://github.com/wie-project/kakehashi",
+      "file": "2026-08-03-show-hn-kakehashi-experimental-userspace.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-009",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "source": "hackernews-top",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "file": "2026-08-03-note-taking-and-personal-knowledge-manag.json",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.6,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-010",
+      "title": "Developers are attached to tools because tools encode trust",
+      "source": "hackernews-top",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "file": "2026-08-03-developers-are-attached-to-tools-because.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-011",
+      "title": "Show HN: Mu – Tools for Agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/micro/mu",
+      "file": "2026-08-03-show-hn-mu-tools-for-agents.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-012",
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "source": "hackernews-top",
+      "url": "https://frogs.vaguespac.es/",
+      "file": "2026-08-03-my-personal-ai-benchmark-generate-an-svg.json",
+      "tags": [
+        "benchmark",
+        "multimodal",
+        "code-generation",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-013",
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "source": "hackernews-top",
+      "url": "https://meshdiff.com/",
+      "file": "2026-08-03-meshdiff-visually-compare-two-stl-versio.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-014",
+      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "source": "hackernews-top",
+      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+      "file": "2026-08-03-boris-cherny-on-trying-to-get-claude-cod.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-015",
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "source": "hackernews-top",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "file": "2026-08-03-show-hn-bor-open-source-policy-managemen.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-016",
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "source": "hackernews-top",
+      "url": "https://fuselang.org",
+      "file": "2026-08-03-show-hn-fuse-statically-typed-functional.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-017",
+      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "source": "hackernews-top",
+      "url": "https://github.com/paoloanzn/microcodex",
+      "file": "2026-08-03-show-hn-microcodex-coding-agent-openaico.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
+    {
+      "id": "kb-2026-08-03-018",
+      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+      "source": "hackernews-top",
+      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+      "file": "2026-08-03-eu-age-verification-project-mandates-har.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-08-03T01:50:58.154978+00:00"
+    },
     {
       "id": "kb-2026-08-02-001",
       "title": "uczltw6/trace-file-lineage",
@@ -20080,5 +20349,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-02T01:48:35.685932+00:00"
+  "last_updated": "2026-08-03T01:50:58.288831+00:00"
 }

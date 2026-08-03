@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-03-003",
+  "title": "Anionex/codex-vision-proxy",
+  "source": "github-trending",
+  "url": "https://github.com/Anionex/codex-vision-proxy",
+  "summary": "这是一个开源项目，旨在让纯文本LLM（如DeepSeek、GLM、Kimi）在Codex环境中无缝调用内置的view_image工具，从而获得视觉理解能力。项目提供了一套视觉工具包和skill，通过代理或适配层将图像描述或视觉信息转换为文本模型可处理的格式，解决纯文本模型无法直接处理图像输入的问题。核心技术亮点包括代理机制和针对纯文本模型设计的视觉工具封装。适用场景包括需要视觉辅助的代码生成、智能体交互以及多模态任务中的文本模型增强。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "tool-use",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-03T01:49:22.130213+00:00",
+  "analyzed_at": "2026-08-03T01:49:47.759097+00:00",
+  "organized_at": "2026-08-03T01:50:58.154978+00:00",
+  "status": "published"
+}

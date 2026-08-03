@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-03-013",
+  "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+  "source": "hackernews-top",
+  "url": "https://meshdiff.com/",
+  "summary": "Meshdiff 是一个浏览器端工具，用于在客户端直接对比两个 STL 文件版本的差异，无需上传数据到服务器。它解决了 3D 打印和 CAD 协作中版本迭代难以直观比较的问题，通过 WebAssembly 或 JavaScript 实现网格几何计算，在浏览器中渲染并高亮差异区域。核心技术亮点包括客户端处理保障隐私、快速加载大型 STL 文件、以及直观的可视化差异展示。适用场景包括 3D 打印工作流、CAD 模型版本管理、以及团队协作中的设计审查。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-03T01:49:22.252976+00:00",
+  "analyzed_at": "2026-08-03T01:50:42.001735+00:00",
+  "organized_at": "2026-08-03T01:50:58.154978+00:00",
+  "status": "published"
+}

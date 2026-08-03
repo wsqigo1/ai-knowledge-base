@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-03-018",
+  "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+  "source": "hackernews-top",
+  "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+  "summary": "欧盟正在推进一项年龄验证项目，强制要求使用硬件绑定的证明（Hardware-Bound Attestation）来验证用户年龄。该项目旨在解决在线年龄验证中隐私与安全性的平衡问题，通过将验证凭证绑定到用户设备硬件，防止伪造和滥用。核心技术亮点包括利用设备内置的安全元素（如TEE或安全芯片）生成不可转移的证明，确保验证过程不泄露多余个人信息。适用场景包括社交媒体、在线游戏、成人内容网站等需要年龄限制的互联网服务。该消息在HN上获得152分，反映了社区对隐私技术和监管趋势的关注。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-08-03T01:49:22.252976+00:00",
+  "analyzed_at": "2026-08-03T01:50:58.104147+00:00",
+  "organized_at": "2026-08-03T01:50:58.154978+00:00",
+  "status": "published"
+}
