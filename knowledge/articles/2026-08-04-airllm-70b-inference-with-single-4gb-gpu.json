@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-04-018",
+  "title": "AirLLM 70B inference with single 4GB GPU",
+  "source": "hackernews-top",
+  "url": "https://github.com/lyogavin/airllm",
+  "summary": "AirLLM 项目实现单个 4GB GPU 上运行 70B 参数大模型推理，解决显存不足问题。核心技术亮点包括分层推理、内存优化和模型压缩，通过将模型层分配到 CPU/GPU 并优化数据传输，显著降低显存需求。适用场景为资源受限环境下的本地大模型推理，如个人开发者、边缘设备或低成本实验。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-04T01:25:01.269100+00:00",
+  "analyzed_at": "2026-08-04T01:26:43.565796+00:00",
+  "organized_at": "2026-08-04T01:26:58.207760+00:00",
+  "status": "published"
+}

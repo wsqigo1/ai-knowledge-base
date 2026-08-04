@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-08-04T01:25:03.403880+00:00",
+  "date": "2026-08-04",
+  "count": 20,
+  "items": [
+    {
+      "title": "LLMs reward expertise",
+      "source": "hackernews-top",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "hn_url": "https://news.ycombinator.com/item?id=49161518",
+      "description": "",
+      "hn_score": 406,
+      "comments": 184,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "该条目讨论LLM对专业知识的奖励机制，即模型更倾向于生成与高奖励专业知识相关的内容。它解决如何通过奖励信号引导模型输出更专业、准确答案的问题。核心技术亮点在于利用强化学习或偏好优化，使模型在推理时优先选择专家级知识路径。适用场景包括问答系统、专业辅助工具和知识密集型任务，如医疗或法律咨询。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "fine-tuning",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-04T01:25:59.505679+00:00"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49157930",
+      "description": "",
+      "hn_score": 421,
+      "comments": 702,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "这是关于数学和理论计算机科学领域十项进展的综述文章，源自Hacker News热门讨论。文章旨在梳理近期理论突破，解决基础算法与数学结构中的开放问题。核心技术亮点涵盖计算复杂性、组合优化、代数算法等方向，强调理论创新对实际计算效率的潜在影响。适用场景包括理论计算机科学研究、算法设计教学及对AI底层逻辑感兴趣的工程师，但缺乏直接工程应用，偏向学术价值。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-08-04T01:26:02.496936+00:00"
+    },
+    {
+      "title": "Devtools must be open source",
+      "source": "hackernews-top",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "hn_url": "https://news.ycombinator.com/item?id=49156111",
+      "description": "",
+      "hn_score": 496,
+      "comments": 177,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "文章主张开发者工具必须开源，强调开源对工具生态、信任和可持续性的核心价值。它通过分析闭源工具的风险（如供应商锁定、透明度缺失）和开源工具的优势（社区驱动、可审计、可扩展），论证了开源是开发者工具领域的必然趋势。核心技术亮点在于对开源许可、社区治理和商业模式平衡的讨论。适用场景包括开发者工具选型、开源项目评估及技术战略决策。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-04T01:26:05.756607+00:00"
+    },
+    {
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "source": "hackernews-top",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "hn_url": "https://news.ycombinator.com/item?id=49162086",
+      "description": "",
+      "hn_score": 48,
+      "comments": 20,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "这是一篇关于Windows XP 2002 Itanium版本的技术历史讨论，源于Hacker News，评分48。文章探讨了该操作系统在Itanium架构上的发布及其引发的用户不满，涉及兼容性、性能和市场定位问题。核心亮点在于回顾微软对非主流架构的支持策略及其失败教训。适用场景为操作系统历史研究、技术决策反思及社区讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 2.7,
+      "analyzed_at": "2026-08-04T01:26:08.947043+00:00"
+    },
+    {
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=49158581",
+      "description": "",
+      "hn_score": 140,
+      "comments": 39,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "本文介绍如何在生产环境中大规模运行Kimi和GLM模型，实现更小、更快、更安全的推理。核心解决大模型部署中的资源消耗与性能瓶颈问题，通过模型量化、架构优化和推理加速技术提升效率。技术亮点包括针对MoE架构的优化、动态批处理及安全对齐策略，适用于高并发、低延迟的AI服务场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-04T01:26:11.567955+00:00"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "source": "hackernews-top",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "hn_url": "https://news.ycombinator.com/item?id=49155629",
+      "description": "",
+      "hn_score": 250,
+      "comments": 79,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "ComfyUI 宣布对 MiniMax H3 模型提供 Day-0 支持，该模型为开源权重，具备原生音频生成和 2K 视频生成能力。此集成解决了在 ComfyUI 中无缝使用先进多模态模型的需求，使开发者能直接通过节点式工作流调用 H3 进行文本、图像、音频和视频的联合生成。核心技术亮点包括原生音频输出、高分辨率视频生成以及开源权重带来的可定制性。适用场景涵盖创意内容制作、多模态 AI 应用原型开发及视频生成研究。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-04T01:26:14.526334+00:00"
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "source": "hackernews-top",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "hn_url": "https://news.ycombinator.com/item?id=49153374",
+      "description": "",
+      "hn_score": 380,
+      "comments": 324,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "文章主张开发者应手动重新输入LLM生成的代码，以避免认知债务（cognitive debt），即因盲目接受AI输出而丧失对代码逻辑的理解。它解决的是AI辅助编程中代码质量与开发者理解力下降的矛盾。核心亮点是强调主动学习与代码审查，通过重打代码加深记忆和掌握。适用场景为使用AI编程助手（如Copilot）的日常开发，尤其适合初学者或对代码长期维护有要求的团队。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-04T01:26:17.094581+00:00"
+    },
+    {
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "source": "hackernews-top",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "hn_url": "https://news.ycombinator.com/item?id=49158474",
+      "description": "",
+      "hn_score": 122,
+      "comments": 35,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "Kermit协议迎来45周年，其C语言实现C-Kermit在15年后发布新版本。该版本解决旧版与现代系统兼容性问题，新增对IPv6、TLS加密和UTF-8支持，并改进文件传输性能。核心技术亮点包括跨平台脚本语言和串行/网络通信的稳定性。适用于需要可靠文件传输和终端仿真的遗留系统集成场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-04T01:26:19.595628+00:00"
+    },
+    {
+      "title": "200 Milliseconds",
+      "source": "hackernews-top",
+      "url": "https://200ms.thenodebook.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49132992",
+      "description": "",
+      "hn_score": 183,
+      "comments": 58,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "该条目标题为“200 Milliseconds”，来自Hacker News，得分183，但缺乏具体描述。推测可能涉及系统性能优化或延迟控制技术，如数据库查询、网络请求或AI推理的延迟优化。核心亮点可能在于通过技术手段将响应时间压缩至200毫秒内，提升用户体验。适用场景包括实时交互系统、在线游戏、金融交易或AI助手等对延迟敏感的应用。由于信息有限，摘要基于标题推断，需进一步确认具体内容。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-04T01:26:22.624002+00:00"
+    },
+    {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "source": "hackernews-top",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "hn_url": "https://news.ycombinator.com/item?id=49156011",
+      "description": "",
+      "hn_score": 269,
+      "comments": 56,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "数据库领域知名学者Andy Pavlo加入ClickHouse，成立ClickHouse Labs，专注于数据库系统研究与创新。该实验室旨在解决数据库内核技术的前沿问题，如查询优化、存储引擎和分布式计算等。核心技术亮点包括Pavlo在数据库教育、OLTP/OLAP系统及学术研究方面的深厚积累，结合ClickHouse的列式存储优势，推动下一代数据库技术落地。适用场景包括高性能分析、实时数据处理及数据库系统研发，对AI工程师而言，可关注其与AI工作负载（如向量检索）的潜在结合。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "vector-database"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-04T01:26:25.416101+00:00"
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "source": "hackernews-top",
+      "url": "https://hoplite.sh",
+      "hn_url": "https://news.ycombinator.com/item?id=49157997",
+      "description": "",
+      "hn_score": 57,
+      "comments": 50,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "Hoplite是YC S26孵化的项目，旨在简化云端编码代理的部署。它解决开发者在配置、管理和扩展云上AI编码代理时面临的复杂性问题。核心技术亮点可能包括自动化部署流程、资源优化和与现有开发工具链的集成。适用场景包括个人开发者快速搭建云端编码环境、团队协作开发以及需要弹性计算资源的AI辅助编程任务。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-04T01:26:27.845127+00:00"
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49162653",
+      "description": "",
+      "hn_score": 10,
+      "comments": 2,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "这是一篇1950年的科幻短篇小说PDF，非技术文章。它描绘了全自动智能家居在人类灭绝后继续运行一天的情景，探讨自动化、环境感知与人类缺席的主题。解决的是对未来智能系统自主运行的想象问题，核心亮点是细腻的环境交互描写和反乌托邦叙事。适用场景为文学研究或AI伦理讨论的参考，对AI工程师无直接技术价值。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-08-04T01:26:30.727701+00:00"
+    },
+    {
+      "title": "How Hollywood stopped making movies in Hollywood",
+      "source": "hackernews-top",
+      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+      "hn_url": "https://news.ycombinator.com/item?id=49082937",
+      "description": "",
+      "hn_score": 164,
+      "comments": 190,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "这是一篇关于好莱坞电影制作地理迁移的报道，分析电影产业为何不再主要在好莱坞拍摄。文章探讨了经济激励、税收优惠、全球化和制作成本等因素，导致制作流向其他地区。核心技术亮点在于对产业趋势的数据分析和案例研究。适用场景为影视产业研究、区域经济分析和政策制定参考。",
+      "tags": [
+        "workflow-automation"
+      ],
+      "score": 2.1,
+      "analyzed_at": "2026-08-04T01:26:33.021044+00:00"
+    },
+    {
+      "title": "Frame selection is the whole game: notes on making LLMs watch video",
+      "source": "hackernews-top",
+      "url": "https://leoaido.com/how-llms-watch-video/",
+      "hn_url": "https://news.ycombinator.com/item?id=49155555",
+      "description": "",
+      "hn_score": 7,
+      "comments": 1,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "本文探讨如何让LLM有效处理视频，核心观点是帧选择策略比模型架构更重要。通过智能挑选关键帧而非全量输入，可显著降低计算成本并提升理解准确率。技术亮点包括基于内容变化的动态帧采样、结合音频与文本线索的帧筛选，以及将帧序列压缩为视觉摘要的方法。适用场景包括视频问答、内容审核、自动驾驶视频理解等需要高效视频分析的领域。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-04T01:26:35.672119+00:00"
+    },
+    {
+      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+      "source": "hackernews-top",
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+      "hn_url": "https://news.ycombinator.com/item?id=49160437",
+      "description": "",
+      "hn_score": 120,
+      "comments": 125,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "该文章质疑达克效应（Dunning-Kruger effect）可能只是统计伪影，而非真实心理现象。通过模拟数据和重新分析原始研究，作者指出效应可能源于回归均值或数据分组方式。核心亮点是使用数据模拟和统计检验揭示认知偏差研究中的方法论缺陷。适用场景包括心理学研究、数据分析和科学方法论讨论，对AI领域中的用户行为建模和评估设计有警示意义。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 5.1,
+      "analyzed_at": "2026-08-04T01:26:38.537744+00:00"
+    },
+    {
+      "title": "Bonsai: Janestreet's UI Library",
+      "source": "hackernews-top",
+      "url": "https://github.com/janestreet/bonsai",
+      "hn_url": "https://news.ycombinator.com/item?id=49152842",
+      "description": "",
+      "hn_score": 301,
+      "comments": 125,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "Bonsai 是 Jane Street 开发的开源 UI 库，旨在解决函数式编程语言（OCaml）中构建复杂、高性能用户界面的难题。其核心技术亮点包括基于增量计算（incremental computation）的响应式模型，支持高效局部更新，以及强类型安全。适用于需要高可靠性和可维护性的金融交易终端、数据可视化等桌面应用场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-04T01:26:40.955601+00:00"
+    },
+    {
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "source": "hackernews-top",
+      "url": "https://github.com/lyogavin/airllm",
+      "hn_url": "https://news.ycombinator.com/item?id=49154228",
+      "description": "",
+      "hn_score": 185,
+      "comments": 75,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "AirLLM 项目实现单个 4GB GPU 上运行 70B 参数大模型推理，解决显存不足问题。核心技术亮点包括分层推理、内存优化和模型压缩，通过将模型层分配到 CPU/GPU 并优化数据传输，显著降低显存需求。适用场景为资源受限环境下的本地大模型推理，如个人开发者、边缘设备或低成本实验。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-04T01:26:43.565796+00:00"
+    },
+    {
+      "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
+      "source": "hackernews-top",
+      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+      "hn_url": "https://news.ycombinator.com/item?id=49125168",
+      "description": "",
+      "hn_score": 194,
+      "comments": 207,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "加拿大一家废弃工厂内遗留数十年的鱼酱正在被清理，这是一个环境治理事件，而非技术项目。它涉及废弃工业设施的有害物质处理，核心是清理流程和环保合规，无技术亮点。适用场景为环境修复和工业遗产管理，与AI/LLM领域无关。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-04T01:26:45.885090+00:00"
+    },
+    {
+      "title": "Twenty Years of Pandoc",
+      "source": "hackernews-top",
+      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49156750",
+      "description": "",
+      "hn_score": 103,
+      "comments": 13,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "Pandoc 是一个通用文档转换工具，解决不同标记格式间转换的痛点。文章回顾其二十年发展，核心亮点包括统一文档模型、支持数十种格式、可扩展的过滤器系统。适用场景包括学术写作、技术文档管理、自动化出版流程等，对开发者工具领域有深远影响。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-08-04T01:26:47.903791+00:00"
+    },
+    {
+      "title": "What's the largest software project AI can complete on its own?",
+      "source": "hackernews-top",
+      "url": "https://epoch.ai/MirrorCode",
+      "hn_url": "https://news.ycombinator.com/item?id=49157786",
+      "description": "",
+      "hn_score": 66,
+      "comments": 74,
+      "collected_at": "2026-08-04T01:25:01.269100+00:00",
+      "published_at": "2026-08-04T01:25:01.269100+00:00",
+      "summary": "这是一篇Hacker News上的讨论帖，探讨AI（特别是大语言模型）当前能够独立完成的最大规模软件项目是什么。它试图界定AI在软件工程中的能力边界，从简单脚本到复杂系统。核心亮点是社区基于实际经验分享AI辅助编程的极限，涉及代码生成、调试和架构设计。适用场景包括开发者评估AI工具在项目中的可行性，以及研究者了解AI编程能力的现状。",
+      "tags": [
+        "code-generation",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-08-04T01:26:58.156886+00:00"
+    }
+  ]
+}

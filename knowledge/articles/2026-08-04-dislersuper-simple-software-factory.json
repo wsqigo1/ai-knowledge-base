@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-04-003",
+  "title": "disler/super-simple-software-factory",
+  "source": "github-trending",
+  "url": "https://github.com/disler/super-simple-software-factory",
+  "summary": "super-simple-software-factory 是一个将 agents-plus-code 工作流打包为单一 skill、可注入任意仓库的开源项目。它解决的是软件工厂中重复性 agent 工作流难以标准化和复用的问题。核心技术亮点是使用确定性 Python 控制整个流程图，而将 coding agents 作为有界节点嵌入其中，确保流程可控且可预测。适用于需要自动化代码生成、修改、测试等开发任务的场景，尤其适合团队希望统一 agent 工作流并集成到现有代码库的情况。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-04T01:25:01.051178+00:00",
+  "analyzed_at": "2026-08-04T01:25:37.152468+00:00",
+  "organized_at": "2026-08-04T01:26:58.207760+00:00",
+  "status": "published"
+}

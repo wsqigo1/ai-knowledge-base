@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-04-011",
+  "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+  "summary": "本文介绍如何在生产环境中大规模运行Kimi和GLM模型，实现更小、更快、更安全的推理。核心解决大模型部署中的资源消耗与性能瓶颈问题，通过模型量化、架构优化和推理加速技术提升效率。技术亮点包括针对MoE架构的优化、动态批处理及安全对齐策略，适用于高并发、低延迟的AI服务场景。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-04T01:25:01.269100+00:00",
+  "analyzed_at": "2026-08-04T01:26:11.567955+00:00",
+  "organized_at": "2026-08-04T01:26:58.207760+00:00",
+  "status": "published"
+}

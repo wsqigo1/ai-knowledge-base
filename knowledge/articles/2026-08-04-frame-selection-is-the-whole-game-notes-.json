@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-04-016",
+  "title": "Frame selection is the whole game: notes on making LLMs watch video",
+  "source": "hackernews-top",
+  "url": "https://leoaido.com/how-llms-watch-video/",
+  "summary": "本文探讨如何让LLM有效处理视频，核心观点是帧选择策略比模型架构更重要。通过智能挑选关键帧而非全量输入，可显著降低计算成本并提升理解准确率。技术亮点包括基于内容变化的动态帧采样、结合音频与文本线索的帧筛选，以及将帧序列压缩为视觉摘要的方法。适用场景包括视频问答、内容审核、自动驾驶视频理解等需要高效视频分析的领域。",
+  "tags": [
+    "multimodal",
+    "large-language-model",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-04T01:25:01.269100+00:00",
+  "analyzed_at": "2026-08-04T01:26:35.672119+00:00",
+  "organized_at": "2026-08-04T01:26:58.207760+00:00",
+  "status": "published"
+}

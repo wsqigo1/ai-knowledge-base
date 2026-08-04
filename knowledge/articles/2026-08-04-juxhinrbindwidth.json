@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-04-007",
+  "title": "juxhinr/bindwidth",
+  "source": "github-trending",
+  "url": "https://github.com/juxhinr/bindwidth",
+  "summary": "bindwidth 是一个面向本地 LLM 推理部署的容量规划与 TCO 计算器，基于证据感知（evidence-aware）方法估算所需 GPU 资源与成本。它解决企业在自托管大模型时难以精确预估硬件需求和总拥有成本的问题。核心亮点是结合模型参数、吞吐量、延迟等证据进行动态推理，输出可操作的配置建议。适用于私有化部署前的预算评估、硬件选型及运维成本优化场景。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-04T01:25:01.051178+00:00",
+  "analyzed_at": "2026-08-04T01:25:54.663487+00:00",
+  "organized_at": "2026-08-04T01:26:58.207760+00:00",
+  "status": "published"
+}
