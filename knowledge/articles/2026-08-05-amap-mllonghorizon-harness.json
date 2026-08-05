@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-05-002",
+  "title": "AMAP-ML/LongHorizon-Harness",
+  "source": "github-trending",
+  "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+  "summary": "LongHorizon-Harness 是一个面向长时间运行的计算机操作（computer-use）的 harness 框架，用于在桌面应用和 CLI 环境中驱动 AI agents 执行复杂工作流。它解决 agent 在长任务中上下文丢失、状态不可靠和进度不可恢复的问题。核心技术包括 fresh-context 执行（每次调用重置上下文）、持久化验证状态、独立审计机制、可恢复进度，并原生集成 Claude Code、Codex 和 OpenClaw。适用于需要跨应用完成多步骤任务的自动化场景，如软件测试、数据整理和系统管理。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "tool-use",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-05T01:30:04.858243+00:00",
+  "analyzed_at": "2026-08-05T01:30:44.831426+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-05-008",
+  "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+  "source": "hackernews-top",
+  "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+  "summary": "DeepSeek V4 Flash 模型成功在单个 AMD MI300X GPU 上运行，解决了高端 AI 模型对多卡集群或专用硬件的依赖问题。核心技术亮点包括针对 MI300X 的显存优化、算子融合和推理加速，实现了高性能与低成本。适用场景为资源受限的本地部署、边缘推理及 AMD 生态下的 AI 应用开发。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 8.1,
+  "collected_at": "2026-08-05T01:30:05.044058+00:00",
+  "analyzed_at": "2026-08-05T01:31:11.132867+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}

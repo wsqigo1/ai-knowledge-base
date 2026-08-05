@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-05-009",
+  "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+  "source": "hackernews-top",
+  "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+  "summary": "Keyv及其相关npm包遭受名为Shai-Hulud的活跃供应链攻击，攻击者通过恶意代码注入窃取敏感数据。该事件凸显了开源依赖供应链的安全脆弱性，尤其是广泛使用的缓存库。核心攻击手法包括利用包名混淆和版本更新传播恶意负载。适用于依赖npm生态的开发者，需立即检查并更新受影响的包，加强供应链安全监控。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-05T01:30:05.044058+00:00",
+  "analyzed_at": "2026-08-05T01:31:16.388159+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-05-001",
+  "title": "Accio-Lab/RealReplicaBench",
+  "source": "github-trending",
+  "url": "https://github.com/Accio-Lab/RealReplicaBench",
+  "summary": "RealReplicaBench 是一个用于评测长时程（long-horizon）AI 智能体的基准测试平台，基于真实在线服务的高保真、有状态且可复现的副本环境。它解决了现有基准测试缺乏真实交互状态和可复现性的问题，使智能体在模拟真实网站（如电商、社交媒体）中执行复杂任务。核心技术亮点包括高保真环境复制、状态管理及自动化评估。适用于研究智能体的规划、决策和工具使用能力，尤其适合多步骤任务场景。",
+  "tags": [
+    "benchmark",
+    "agent",
+    "tool-use",
+    "multi-agent",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-05T01:30:04.858243+00:00",
+  "analyzed_at": "2026-08-05T01:30:38.044623+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}

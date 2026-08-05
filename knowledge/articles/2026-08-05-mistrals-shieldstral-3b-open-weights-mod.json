@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-05-005",
+  "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+  "source": "hackernews-top",
+  "url": "https://mistral.ai/news/shieldstral/",
+  "summary": "Mistral 发布 Shieldstral，一个 3B 参数的开源权重多模态审核模型，用于检测和分类有害内容（如暴力、色情、仇恨言论等）。它解决内容审核中依赖大型专有模型的高成本和低效率问题，通过轻量级设计实现快速、可定制的审核。核心技术亮点包括多模态输入支持、开放权重允许本地部署和微调，以及针对审核任务优化的性能。适用场景包括社交媒体平台、UGC 社区、AI 生成内容过滤等，尤其适合需要实时或大规模审核的开发者。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "fine-tuning",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-05T01:30:05.044058+00:00",
+  "analyzed_at": "2026-08-05T01:30:57.860384+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}

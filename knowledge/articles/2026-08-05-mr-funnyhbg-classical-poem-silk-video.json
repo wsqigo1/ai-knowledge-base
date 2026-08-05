@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-05-003",
+  "title": "Mr-funny/hbg-classical-poem-silk-video",
+  "source": "github-trending",
+  "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+  "summary": "这是一个将中国古典诗词转化为竖屏中国风视频的 Agent Skill，基于 Codex 实现。它解决从静态诗句到动态视频的自动化创作问题，核心流程包括 ImageGen 生成静态画面、Docker 容器运行 I2V 模型生成视频、书法字体字幕叠加、保留原诗意境、添加背景音乐，并通过 FFmpeg 输出最终 MP4 并做质量检查。技术亮点在于多工具链集成（ImageGen、Docker、FFmpeg）和 Agent 技能封装，适用于短视频创作、文化传播和 AI 艺术生成场景。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-05T01:30:04.858243+00:00",
+  "analyzed_at": "2026-08-05T01:30:47.422581+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}

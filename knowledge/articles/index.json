@@ -1,7 +1,173 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1391,
+  "total_count": 1402,
   "entries": [
+    {
+      "id": "kb-2026-08-05-001",
+      "title": "Accio-Lab/RealReplicaBench",
+      "source": "github-trending",
+      "url": "https://github.com/Accio-Lab/RealReplicaBench",
+      "file": "2026-08-05-accio-labrealreplicabench.json",
+      "tags": [
+        "benchmark",
+        "agent",
+        "tool-use",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-002",
+      "title": "AMAP-ML/LongHorizon-Harness",
+      "source": "github-trending",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "file": "2026-08-05-amap-mllonghorizon-harness.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-003",
+      "title": "Mr-funny/hbg-classical-poem-silk-video",
+      "source": "github-trending",
+      "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+      "file": "2026-08-05-mr-funnyhbg-classical-poem-silk-video.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-004",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "source": "hackernews-top",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "file": "2026-08-05-eight-myths-on-software-engineering-and-.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-005",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "source": "hackernews-top",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "file": "2026-08-05-mistrals-shieldstral-3b-open-weights-mod.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "fine-tuning",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-006",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "source": "hackernews-top",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "file": "2026-08-05-show-hn-simple-algorithm-and-color-space.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-007",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "file": "2026-08-05-third-party-cyber-evaluations-involving-.json",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-008",
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "source": "hackernews-top",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "file": "2026-08-05-deepseek-v4-flash-on-a-single-amd-mi300x.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 8.1,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-009",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "source": "hackernews-top",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "file": "2026-08-05-keyv-and-friends-compromised-in-active-s.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-010",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "file": "2026-08-05-when-ai-benchmarks-plateau-a-systematic-.json",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
+    {
+      "id": "kb-2026-08-05-011",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "source": "hackernews-top",
+      "url": "https://edotenv.com/",
+      "file": "2026-08-05-launch-hn-edotenv-yc-s26-quant-trading-r.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-08-05T01:31:40.177215+00:00"
+    },
     {
       "id": "kb-2026-08-04-001",
       "title": "genspark-ai/genoffice",
@@ -20646,5 +20812,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-04T01:26:58.364853+00:00"
+  "last_updated": "2026-08-05T01:31:40.272847+00:00"
 }

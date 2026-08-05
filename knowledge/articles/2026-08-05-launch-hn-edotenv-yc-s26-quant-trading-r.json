@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-05-011",
+  "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+  "source": "hackernews-top",
+  "url": "https://edotenv.com/",
+  "summary": "EdotEnv 是 YC S26 孵化的开源项目，提供量化交易强化学习环境，旨在教 LLM 进行量化研究。它解决 LLM 在金融决策中缺乏真实交易环境反馈的问题，通过模拟市场数据和交易执行，让 LLM 学习策略优化。核心技术亮点是标准化 RL 环境接口，支持多资产、多时间尺度，并与主流 RL 库兼容。适用场景包括量化策略研究、LLM 金融推理能力训练、以及 RL 算法验证。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-08-05T01:30:05.044058+00:00",
+  "analyzed_at": "2026-08-05T01:31:29.283742+00:00",
+  "organized_at": "2026-08-05T01:31:40.177215+00:00",
+  "status": "published"
+}
