@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-06-017",
+  "title": "Position: LLMs Can't Jump",
+  "source": "hackernews-top",
+  "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+  "summary": "这是一篇Position论文，题为“LLMs Can't Jump”，指出当前大型语言模型在需要多步跳跃式推理的任务中表现不佳，即无法有效进行非连续、非线性的逻辑跳跃。论文分析了模型在复杂推理、规划及创造性问题解决中的局限性，并探讨了其与训练目标、架构设计的关系。核心技术亮点在于系统性地论证了LLM在“跳跃”能力上的缺陷，并提出可能的改进方向，如增强推理链的灵活性。适用场景包括AI研究、模型评估及推理能力优化，对开发更强大的推理智能体具有指导意义。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:29:16.397527+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

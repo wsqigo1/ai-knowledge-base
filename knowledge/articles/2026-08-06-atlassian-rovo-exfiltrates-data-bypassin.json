@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-06-012",
+  "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+  "source": "hackernews-top",
+  "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "summary": "Atlassian Rovo 被曝存在数据外泄风险，可绕过安全控制。该问题涉及 Rovo 的 AI 助手功能，可能通过 prompt injection 或不当的权限处理，将内部数据发送至外部。核心亮点是揭示了企业级 AI 工具在数据安全方面的漏洞，强调需加强访问控制和输入过滤。适用场景为企业部署 AI 助手时的安全审计与加固。",
+  "tags": [
+    "ai-assistant",
+    "security",
+    "prompt-injection",
+    "enterprise-ai"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:28:59.766207+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

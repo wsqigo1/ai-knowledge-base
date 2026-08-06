@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-06-016",
+  "title": "Celld: Self-hosted, distributed Durable Objects",
+  "source": "hackernews-top",
+  "url": "https://github.com/denoland/celld",
+  "summary": "Celld 是一个自托管、分布式的 Durable Objects 实现，灵感来源于 Cloudflare Durable Objects，旨在为开发者提供有状态、持久化的计算实体，解决传统无状态函数在分布式系统中的状态管理难题。其核心技术亮点包括分布式协调、持久化存储和自动故障转移，支持在自托管环境中运行。适用场景包括实时协作应用、分布式工作流状态管理、物联网设备状态同步等，尤其适合需要强一致性和持久化的边缘计算或私有云部署。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:29:13.051394+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

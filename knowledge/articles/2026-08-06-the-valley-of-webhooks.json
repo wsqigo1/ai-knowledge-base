@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-06-021",
+  "title": "The Valley of Webhooks",
+  "source": "hackernews-top",
+  "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+  "summary": "探讨Webhook架构在AI时代面临的挑战与演进方向。文章指出传统Webhook在事件驱动、实时性和可观测性上的局限，提出将LLM推理能力融入Webhook处理流程，实现智能路由、动态负载均衡和异常自愈。核心亮点是引入语义事件过滤和自适应重试机制，使Webhook从被动通知变为主动决策节点。适用于构建高可靠AI Agent工作流、自动化运维和实时数据管道场景。",
+  "tags": [
+    "workflow-automation",
+    "agent",
+    "developer-tools",
+    "reasoning",
+    "tool-use"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:29:29.559529+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

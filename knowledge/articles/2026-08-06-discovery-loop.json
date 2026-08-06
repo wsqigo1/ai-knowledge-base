@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-06-007",
+  "title": "Discovery Loop",
+  "source": "hackernews-top",
+  "url": "https://www.discoveryloop.com/",
+  "summary": "Discovery Loop 是一个基于 LLM 的自主研究系统，旨在解决传统搜索和问答中信息发现效率低、缺乏深度探索的问题。其核心技术亮点是采用循环迭代机制，让模型在检索、分析、再检索的闭环中不断深化理解，并利用外部工具（如搜索 API）动态扩展知识边界。该系统适用于学术文献综述、市场调研、技术趋势追踪等需要多轮信息挖掘的场景，能显著提升信息获取的全面性和准确性。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:28:43.401496+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

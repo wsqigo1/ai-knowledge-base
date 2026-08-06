@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-06-019",
+  "title": "The Entropy of a Markov Chain",
+  "source": "hackernews-top",
+  "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+  "summary": "本文深入探讨马尔可夫链的熵率计算，是信息论与随机过程的核心主题。它从定义出发，推导了平稳分布下熵率的解析表达式，并解释了熵率如何量化随机过程的不可预测性。文章解决了如何有效计算复杂马尔可夫链熵率的问题，提供了数学证明与实例。核心技术亮点在于将熵率与状态转移矩阵的特征值关联，简化计算。适用场景包括自然语言处理中的语言建模、生物序列分析、以及任何涉及序列数据预测的AI系统，为理解序列生成的不确定性提供理论基础。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:29:24.050208+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

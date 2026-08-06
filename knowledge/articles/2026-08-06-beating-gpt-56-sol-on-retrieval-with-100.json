@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-06-009",
+  "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+  "source": "hackernews-top",
+  "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+  "summary": "该文章介绍如何通过开源模型在检索任务上超越GPT-5.6 Sol，同时成本降低100倍。它解决了高性能检索依赖昂贵专有模型的问题，核心技术亮点包括利用更高效的模型架构、检索增强生成（RAG）优化以及成本效益分析。适用场景为需要高性价比检索解决方案的企业或研究者，尤其在资源受限环境下追求SOTA性能。",
+  "tags": [
+    "large-language-model",
+    "rag",
+    "benchmark",
+    "open-source",
+    "cost-efficiency"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:28:52.686560+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}

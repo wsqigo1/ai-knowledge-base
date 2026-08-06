@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-06-008",
+  "title": "Zed DeltaDB",
+  "source": "hackernews-top",
+  "url": "https://zed.dev/deltadb",
+  "summary": "Zed DeltaDB 是 Zed 编辑器团队推出的高性能本地数据库，专为 AI 辅助编码场景设计。它解决 AI 工具在本地存储、检索代码上下文时的延迟和效率问题，通过增量更新和高效的索引机制实现快速查询。核心技术亮点包括基于 Delta 的增量数据同步、针对代码结构优化的存储格式，以及与 Zed 编辑器的深度集成。适用场景包括 AI 代码补全、跨文件上下文检索和实时协作编辑。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-06T01:27:55.675990+00:00",
+  "analyzed_at": "2026-08-06T01:28:46.005919+00:00",
+  "organized_at": "2026-08-06T01:29:31.768905+00:00",
+  "status": "published"
+}
