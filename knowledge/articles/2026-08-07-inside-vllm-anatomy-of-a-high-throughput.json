@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-07-007",
+  "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+  "source": "hackernews-top",
+  "url": "https://www.aleksagordic.com/blog/vllm",
+  "summary": "本文深入剖析vLLM，一个高性能LLM推理系统。它解决LLM推理吞吐量低、显存占用高的问题，通过PagedAttention管理KV cache、连续批处理等核心技术，显著提升推理效率。适用于大规模模型部署、在线服务等场景，是AI工程师优化推理性能的重要参考。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-08-07T02:05:10.274515+00:00",
+  "analyzed_at": "2026-08-07T02:06:07.291721+00:00",
+  "organized_at": "2026-08-07T02:06:44.866009+00:00",
+  "status": "published"
+}

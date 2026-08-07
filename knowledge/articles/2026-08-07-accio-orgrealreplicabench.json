@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-07-001",
+  "title": "Accio-org/RealReplicaBench",
+  "source": "github-trending",
+  "url": "https://github.com/Accio-org/RealReplicaBench",
+  "summary": "RealReplicaBench 是一个用于评测长时程智能体（Long-Horizon Agents）的基准测试平台，其核心在于构建真实在线服务的高保真、有状态且可复现的副本环境。它解决了现有基准测试中环境过于简化、状态不真实或不可复现的问题，导致智能体在真实场景中表现不佳的痛点。技术亮点包括：基于真实服务快照构建高保真副本，支持有状态交互和完全可复现的实验流程，从而提供更可靠的性能评估。适用于需要评测智能体在复杂、长期任务（如网页操作、客户服务、工作流自动化）中表现的研究与开发场景。",
+  "tags": [
+    "benchmark",
+    "agent",
+    "workflow-automation",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-07T02:05:10.105907+00:00",
+  "analyzed_at": "2026-08-07T02:05:22.624819+00:00",
+  "organized_at": "2026-08-07T02:06:44.866009+00:00",
+  "status": "published"
+}

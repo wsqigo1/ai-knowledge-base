@@ -1,7 +1,197 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1423,
+  "total_count": 1436,
   "entries": [
+    {
+      "id": "kb-2026-08-07-001",
+      "title": "Accio-org/RealReplicaBench",
+      "source": "github-trending",
+      "url": "https://github.com/Accio-org/RealReplicaBench",
+      "file": "2026-08-07-accio-orgrealreplicabench.json",
+      "tags": [
+        "benchmark",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-002",
+      "title": "jd-opensource/JoyAI-Video-Edit",
+      "source": "github-trending",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "file": "2026-08-07-jd-opensourcejoyai-video-edit.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-003",
+      "title": "kropdx/reflection-engine",
+      "source": "github-trending",
+      "url": "https://github.com/kropdx/reflection-engine",
+      "file": "2026-08-07-kropdxreflection-engine.json",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-004",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "file": "2026-08-07-amd-acquires-taalas-to-boost-inference-p.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-005",
+      "title": "Mario Meets Pareto",
+      "source": "hackernews-top",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "file": "2026-08-07-mario-meets-pareto.json",
+      "tags": [
+        "reasoning",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-006",
+      "title": "Taste Is All That's Left",
+      "source": "hackernews-top",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "file": "2026-08-07-taste-is-all-thats-left.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-007",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "source": "hackernews-top",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "file": "2026-08-07-inside-vllm-anatomy-of-a-high-throughput.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-008",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "source": "hackernews-top",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "file": "2026-08-07-herdr-is-joining-y-combinator-the-runtim.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-009",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "file": "2026-08-07-improving-gpt56-sol-in-chatgpt-expanding.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-010",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "source": "hackernews-top",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "file": "2026-08-07-humans-missed-1-in-3-threats-approving-a.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-011",
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "source": "hackernews-top",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "file": "2026-08-07-show-hn-the-channels-sdk-bring-any-agent.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-012",
+      "title": "Pareto Front",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "file": "2026-08-07-pareto-front.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
+    {
+      "id": "kb-2026-08-07-013",
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "source": "hackernews-top",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "file": "2026-08-07-qwen38-max-now-ranked-as-the-best-overal.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "large-language-model",
+        "tool-use",
+        "multi-agent"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-07T02:06:44.866009+00:00"
+    },
     {
       "id": "kb-2026-08-06-001",
       "title": "KKKKhazix/human-writing",
@@ -21131,5 +21321,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-06T01:29:31.902835+00:00"
+  "last_updated": "2026-08-07T02:06:44.958432+00:00"
 }

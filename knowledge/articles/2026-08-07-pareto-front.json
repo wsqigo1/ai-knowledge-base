@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-07-012",
+  "title": "Pareto Front",
+  "source": "hackernews-top",
+  "url": "https://en.wikipedia.org/wiki/Pareto_front",
+  "summary": "Pareto Front（帕累托前沿）是多目标优化中的核心概念，指在多个冲突目标下无法进一步改善任一目标而不损害其他目标的解集。它解决多目标决策中的权衡问题，通过生成一组最优解供决策者选择。核心技术亮点包括非支配排序、拥挤距离计算和精英保留策略，常与遗传算法（如NSGA-II）结合。适用场景包括机器学习模型的多目标调优（如精度与延迟）、推荐系统的多样性-准确性平衡、以及LLM的RLHF中对齐与能力保持。",
+  "tags": [
+    "reasoning",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-07T02:05:10.274515+00:00",
+  "analyzed_at": "2026-08-07T02:06:37.386110+00:00",
+  "organized_at": "2026-08-07T02:06:44.866009+00:00",
+  "status": "published"
+}
