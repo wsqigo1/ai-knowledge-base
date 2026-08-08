@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-08-004",
+  "title": "Managing AI Coding Costs at Scale",
+  "source": "hackernews-top",
+  "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "summary": "本文探讨在规模化团队中管理AI编程成本的方法论。它首先定义成本构成（API调用、token消耗、基础设施），随后提出分层治理策略：通过代码上下文压缩、缓存复用、模型路由（简单任务用轻量模型）降低单次调用成本，并引入预算监控与配额机制。核心技术亮点是成本-质量权衡的动态优化框架，以及基于历史数据的成本预测模型。适用场景为依赖AI辅助开发的中大型企业或平台团队，旨在平衡开发效率与财务支出。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "cost-management"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-08T00:50:57.613126+00:00",
+  "analyzed_at": "2026-08-08T00:51:49.693750+00:00",
+  "organized_at": "2026-08-08T00:52:21.658588+00:00",
+  "status": "published"
+}

@@ -1,0 +1,428 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-08T00:50:58.732605+00:00",
+  "date": "2026-08-08",
+  "count": 17,
+  "items": [
+    {
+      "title": "KKKKhazix/human-writing",
+      "source": "github-trending",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "stars": 1874,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-05T10:38:38Z",
+      "summary": "human-writing 是一个开源 Python 项目，提供通用创作与改稿 Skill，旨在让 AI 生成的中文文本更具人性化，读起来像具体的人在说话。它解决 AI 写作风格单一、缺乏个性与温度的问题。核心技术亮点包括针对中文语境的写作风格调整、可插拔的 Skill 设计，以及开箱即用的集成方式。适用场景包括中文创意写作、内容润色、社交媒体文案生成等，适合需要提升 AI 输出自然度的开发者与内容创作者。",
+      "tags": [
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:01.092252+00:00"
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "stars": 1588,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T07:26:06Z",
+      "summary": "这是一个非官方的 Kimi Slides 技能，使 AI Agent 能够生成可编辑的 PPTD 和 PPTX 文件，并提供本地浏览器编辑器。它解决了 AI 生成演示文稿后难以直接编辑和二次修改的问题。核心技术亮点在于将生成结果与本地编辑器结合，支持两种格式输出，增强了交互性。适用于需要快速生成并定制演示文稿的 AI 助手场景，尤其适合开发者集成到 agent 工作流中。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-08T00:51:03.129902+00:00"
+    },
+    {
+      "title": "Accio-org/RealReplicaBench",
+      "source": "github-trending",
+      "url": "https://github.com/Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "stars": 1040,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-06T10:48:17Z",
+      "summary": "RealReplicaBench 是一个用于评测长时程（long-horizon）AI 智能体的基准测试平台，其核心创新在于构建了真实在线服务的高保真、有状态且可复现的副本环境。它解决了现有基准测试中环境过于简化、状态不真实、难以复现的问题，使智能体在接近真实世界的交互中接受评估。该平台支持复杂任务链、持久化状态管理及精确复现，适用于评测智能体在真实业务场景下的规划、决策与工具调用能力。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "tool-use",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-08T00:51:05.598538+00:00"
+    },
+    {
+      "title": "mikiarlo3/awesome-growth-hacking-skills",
+      "source": "github-trending",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "stars": 725,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-04T20:36:02Z",
+      "summary": "该项目收集面向Claude、ChatGPT、Manus等AI代理的agentic growth hacking技能集，由enso.bot维护。它解决营销人员与开发者缺乏可复用AI增长策略的问题，提供结构化技能清单与提示词模板。核心技术亮点是围绕agent能力设计可执行的增长黑客工作流，涵盖用户获取、转化优化等场景。适用场景包括AI驱动的营销自动化、初创企业增长实验及LLM应用推广。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:07.888172+00:00"
+    },
+    {
+      "title": "magicrew/doc7",
+      "source": "github-trending",
+      "url": "https://github.com/magicrew/doc7",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "stars": 611,
+      "language": "Go",
+      "topics": [
+        "document-ai",
+        "docx-to-markdown",
+        "local-ai",
+        "markdown",
+        "multimodal",
+        "open-source",
+        "pdf-to-markdown",
+        "vision-language-model"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T12:08:40Z",
+      "summary": "doc7 是一个用 Go 编写的开源工具，利用视觉理解能力将文档（如 DOCX）转换为 AI 就绪的 Markdown 格式。它解决了文档解析中格式丢失、表格和复杂布局难以提取的问题，核心亮点是结合多模态模型进行版面识别和内容结构化，支持本地 AI 部署。适用于 RAG 预处理、知识库构建和文档自动化处理场景。",
+      "tags": [
+        "multimodal",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:09.912534+00:00"
+    },
+    {
+      "title": "MarcosSete/awesome-free-ai-course-notes",
+      "source": "github-trending",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "stars": 544,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-03T12:09:38Z",
+      "summary": "这是一个精选全球顶尖大学机器学习和AI课程笔记的仓库，收录了包括MIT在内的名校学生使用的讲义资源。它解决了高质量AI教育资源分散、难以获取的问题，通过集中整理，让学习者能免费接触到系统化的学术内容。核心技术亮点在于资源的精选和结构化组织，覆盖从基础到前沿的AI主题。适用场景包括自学AI理论、补充课程材料、准备面试或系统复习。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-08T00:51:12.059252+00:00"
+    },
+    {
+      "title": "disler/super-simple-software-factory",
+      "source": "github-trending",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "stars": 496,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-04T13:43:58Z",
+      "summary": "super-simple-software-factory 是一个将代理加代码工作流打包为单一技能、可注入任意仓库的开源项目。它解决的是软件工厂中工作流不可重复、代理行为不可控的问题。核心亮点是确定性 Python 代码控制整个图（graph），而编码代理作为有界节点运行其中，实现可预测的自动化。适用于需要标准化代码生成、重构或测试流程的团队，尤其适合结合 agent 和传统 CI/CD 的工程场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-08-08T00:51:14.210606+00:00"
+    },
+    {
+      "title": "fuxicodex/Fuxi",
+      "source": "github-trending",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "stars": 429,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-06T15:18:41Z",
+      "summary": "FuXi 是一个快速、自包含的 AI 开发者终端，旨在将 AI 能力直接嵌入命令行工作流。它解决了开发者频繁切换 IDE 或网页工具进行代码辅助的低效问题，通过本地化部署和快速响应提供即时编程支持。核心技术亮点包括轻量级架构、自包含运行环境以及针对终端交互优化的 AI 集成。适用场景包括日常编码、脚本编写、快速原型开发及命令行环境下的代码生成与调试。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:16.487923+00:00"
+    },
+    {
+      "title": "criptogus/HermesOffice",
+      "source": "github-trending",
+      "url": "https://github.com/criptogus/HermesOffice",
+      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "stars": 413,
+      "language": "TypeScript",
+      "topics": [
+        "ai-native",
+        "docx",
+        "electron",
+        "fork",
+        "genoffice",
+        "hermes",
+        "macos",
+        "office-suite",
+        "open-source",
+        "pptx"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T13:10:23Z",
+      "summary": "HermesOffice 是一个从 GenOffice 分叉的 AI 原生办公套件，集成 Hermes Agent AI，解决传统办公软件缺乏智能辅助的问题。核心亮点包括基于 Electron 的跨平台桌面应用、支持 docx 文档处理，并通过 Agent 提供自动化办公任务能力。适用于需要智能文档编辑、工作流自动化的个人和企业场景。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:18.391136+00:00"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Video-Edit",
+      "source": "github-trending",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "stars": 409,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T04:34:37Z",
+      "summary": "JoyAI-Video-Edit 是京东开源的真实时开放式视频编辑工具，基于自回归扩散模型实现视频的实时编辑。它解决传统视频编辑需要逐帧处理、难以保持时序一致性和交互延迟高的问题。核心技术亮点是采用自回归扩散架构，能够生成连贯的视频帧序列，支持开放式编辑指令，实现低延迟交互。适用于短视频创作、影视后期、广告制作等需要快速迭代视频内容的场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:20.882876+00:00"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness",
+      "source": "github-trending",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "stars": 388,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli",
+        "codex",
+        "codex-desktop",
+        "codex-plugin",
+        "cua",
+        "gui",
+        "harness",
+        "long-horizon",
+        "long-horizon-agents",
+        "longhorizon-harness",
+        "loop",
+        "loop-engineering"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T09:03:51Z",
+      "summary": "LongHorizon-Harness 是一个面向长时程计算机操作任务的 AI agent 运行框架，解决 agent 在跨桌面应用和 CLI 的复杂工作流中因上下文丢失、状态不可靠而难以持续推进的问题。其核心亮点包括 fresh-context 执行机制、持久化验证状态、独立审计、可恢复进度，并原生集成 Claude Code、Codex 和 OpenClaw。适用于需要长时间自主完成多步骤任务的场景，如自动化测试、数据整理和软件操作流程。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-08T00:51:22.986744+00:00"
+    },
+    {
+      "title": "patchy631/time-to-first-token",
+      "source": "github-trending",
+      "url": "https://github.com/patchy631/time-to-first-token",
+      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "stars": 343,
+      "language": "HTML",
+      "topics": [
+        "learning-resources",
+        "llm",
+        "llm-inference",
+        "mlops",
+        "roadmap",
+        "sglang",
+        "vllm"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-02T13:08:21Z",
+      "summary": "这是一个为期10周、每天30分钟的LLM推理服务与优化学习路线图，涵盖vLLM、SGLang、量化、投机解码和基准测试等核心主题。它解决了AI工程师在系统学习LLM推理优化时缺乏结构化路径的问题，通过分阶段、短时长的课程设计，帮助学习者逐步掌握从基础到高级的推理优化技术。其亮点在于内容组织清晰、实践导向，适合希望快速提升LLM部署和优化技能的工程师、MLOps从业者及研究者。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-08-08T00:51:25.298339+00:00"
+    },
+    {
+      "title": "joeseesun/qiaomu-seo",
+      "source": "github-trending",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "stars": 320,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-03T10:04:02Z",
+      "summary": "qiaomu-seo 是一个面向技术 SEO 的 Python 工具，用于审计、诊断、研究、规划、实施、实验并验证网站在 Google、Bing 及 AI 搜索（如 ChatGPT 搜索）上的表现。它解决传统 SEO 工具无法覆盖 AI 搜索优化的问题，核心亮点包括自动化 SEO 实验流程、多搜索引擎覆盖、以及可编程的验证机制。适用于技术 SEO 从业者、内容运营者及 AI 搜索优化研究者，帮助系统化提升网站在传统和 AI 搜索中的可见性。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-08T00:51:27.926658+00:00"
+    },
+    {
+      "title": "alikon-art/DeterminFlow",
+      "source": "github-trending",
+      "url": "https://github.com/alikon-art/DeterminFlow",
+      "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+      "stars": 248,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-workflow",
+        "fastapi",
+        "llm",
+        "multi-agent",
+        "python",
+        "workflow-automation",
+        "workflow-engine",
+        "workflow-runtime"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T11:31:31Z",
+      "summary": "DeterminFlow 是一个面向生产的 AI 工作流运行时，基于 Python 和 FastAPI 构建，用于开发、验证、恢复并稳定交付复杂 AI 工作流为服务。它解决生产环境中工作流编排的可靠性问题，提供工作流构建、校验、故障恢复等核心能力，支持 agent 编排。适用于需要将多步骤 AI 流程（如 agent 协作、LLM 调用链）产品化的场景，强调工程健壮性和可运维性。",
+      "tags": [
+        "workflow-automation",
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-08-08T00:51:30.056387+00:00"
+    },
+    {
+      "title": "cristicretu/diri",
+      "source": "github-trending",
+      "url": "https://github.com/cristicretu/diri",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "stars": 222,
+      "language": "Rust",
+      "topics": [
+        "claude-code",
+        "coding-agents",
+        "gpui",
+        "macos",
+        "mcp",
+        "rust",
+        "swift",
+        "terminal"
+      ],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T21:50:29Z",
+      "summary": "diri 是一个原生 macOS 编排器，用于并行运行 Claude Code、Codex、Cursor、Gemini 等编码代理，支持 git worktrees 和远程主机。它解决多代理协作时的隔离与并行执行问题，通过 Rust 和 gpui 构建，集成 MCP 协议，提供统一调度界面。适用于需要同时管理多个编码代理的复杂开发工作流，提升开发效率。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-08T00:51:31.996357+00:00"
+    },
+    {
+      "title": "kropdx/reflection-engine",
+      "source": "github-trending",
+      "url": "https://github.com/kropdx/reflection-engine",
+      "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
+      "stars": 222,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-03T18:58:44Z",
+      "summary": "reflection-engine 是一个可下载的 prompt，能将 AI 助手对用户的记忆转化为基于证据的坦诚画像。它解决 AI 助手缺乏自我反思和用户洞察的问题，通过引导模型回顾交互历史，生成结构化的人物描述。核心技术亮点是 prompt 设计，利用记忆检索和证据链生成个性化总结。适用于个人 AI 助手个性化、用户画像构建和交互优化场景。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-08-08T00:51:34.014789+00:00"
+    },
+    {
+      "title": "KimGLee/Cambium",
+      "source": "github-trending",
+      "url": "https://github.com/KimGLee/Cambium",
+      "description": "Governance standard and reference toolset for LLM-maintained knowledge corpora",
+      "stars": 205,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-08T00:50:57.418757+00:00",
+      "published_at": "2026-08-07T18:11:19Z",
+      "summary": "Cambium 是一个用于 LLM 维护的知识语料库的治理标准和参考工具集。它解决了 LLM 生成或维护的文档缺乏版本控制、审核流程和一致性校验的问题。核心技术亮点包括提供标准化的语料库结构、变更追踪和自动化质量检查工具，支持与现有文档工作流集成。适用场景包括企业知识库管理、AI 辅助文档维护以及需要确保 LLM 输出内容可靠性的团队。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-08T00:51:36.146109+00:00"
+    }
+  ]
+}

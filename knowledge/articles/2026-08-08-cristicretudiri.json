@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-08-001",
+  "title": "cristicretu/diri",
+  "source": "github-trending",
+  "url": "https://github.com/cristicretu/diri",
+  "summary": "diri 是一个原生 macOS 编排器，用于并行运行 Claude Code、Codex、Cursor、Gemini 等编码代理，支持 git worktrees 和远程主机。它解决多代理协作时的隔离与并行执行问题，通过 Rust 和 gpui 构建，集成 MCP 协议，提供统一调度界面。适用于需要同时管理多个编码代理的复杂开发工作流，提升开发效率。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "mcp",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-08T00:50:57.418757+00:00",
+  "analyzed_at": "2026-08-08T00:51:31.996357+00:00",
+  "organized_at": "2026-08-08T00:52:21.658588+00:00",
+  "status": "published"
+}

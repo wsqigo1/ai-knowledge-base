@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-08-007",
+  "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+  "source": "hackernews-top",
+  "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+  "summary": "这篇文章介绍如何通过批处理、算子融合和SIMD技术将Postgres的分析查询性能提升300倍。它解决的是Postgres在处理大规模分析查询时性能不足的问题。核心技术亮点包括：利用批处理减少函数调用开销，融合多个操作符以降低数据传递成本，以及使用SIMD指令集并行处理数据。适用场景包括需要高性能分析查询的OLAP工作负载，以及希望在现有Postgres基础设施上获得更快分析性能的团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-08T00:50:57.613126+00:00",
+  "analyzed_at": "2026-08-08T00:52:03.295353+00:00",
+  "organized_at": "2026-08-08T00:52:21.658588+00:00",
+  "status": "published"
+}
