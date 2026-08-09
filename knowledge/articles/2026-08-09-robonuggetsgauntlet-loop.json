@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-09-003",
+  "title": "robonuggets/gauntlet-loop",
+  "source": "github-trending",
+  "url": "https://github.com/robonuggets/gauntlet-loop",
+  "summary": "gauntlet-loop 是一个将任意目标转化为简短提示词的工具，使 agent 设定真实质量门槛，运行 builder 和 critic 配对，进行盲比，并循环迭代直至获胜。它解决了 agent 开发中缺乏自动化评估和优化循环的问题，通过构建对抗性生成与批判机制，实现自我改进。核心技术亮点包括盲比评估和循环迭代。适用于需要持续提升 agent 性能的研发场景，如代码生成、内容创作等。",
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "workflow-automation",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-08-09T00:53:36.057288+00:00",
+  "analyzed_at": "2026-08-09T00:54:12.778811+00:00",
+  "organized_at": "2026-08-09T00:55:03.138264+00:00",
+  "status": "published"
+}

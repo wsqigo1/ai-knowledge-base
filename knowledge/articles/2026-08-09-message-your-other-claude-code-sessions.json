@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-09-010",
+  "title": "Message your other Claude Code sessions",
+  "source": "hackernews-top",
+  "url": "https://code.claude.com/docs/en/cross-session-messaging",
+  "summary": "该条目介绍如何让多个 Claude Code 会话之间进行消息通信，解决多会话协作时信息孤岛的问题。核心技术亮点可能是通过某种消息传递机制（如文件、IPC 或 MCP）实现会话间交互，增强 agent 的协同工作能力。适用于需要并行处理多个任务并整合结果的开发场景，尤其适合使用 Claude Code 进行复杂项目开发的 AI 工程师。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "developer-tools",
+    "mcp",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-09T00:53:36.212540+00:00",
+  "analyzed_at": "2026-08-09T00:54:51.647931+00:00",
+  "organized_at": "2026-08-09T00:55:03.138264+00:00",
+  "status": "published"
+}

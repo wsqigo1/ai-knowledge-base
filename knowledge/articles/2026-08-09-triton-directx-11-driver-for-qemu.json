@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-09-008",
+  "title": "Triton: DirectX 11 Driver for QEMU",
+  "source": "hackernews-top",
+  "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+  "summary": "Triton 是一个为 QEMU 虚拟机提供 DirectX 11 图形驱动的开源项目，旨在解决虚拟化环境中 Windows 虚拟机缺乏硬件加速图形支持的问题。其核心技术亮点是通过软件模拟实现 DirectX 11 API，将图形命令转换为宿主机可执行的渲染操作，从而在无 GPU 直通的情况下提升图形性能。适用于需要运行 Windows 虚拟机进行轻量级图形应用或测试的场景，如开发调试、CI/CD 环境。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-08-09T00:53:36.212540+00:00",
+  "analyzed_at": "2026-08-09T00:54:32.994433+00:00",
+  "organized_at": "2026-08-09T00:55:03.138264+00:00",
+  "status": "published"
+}
