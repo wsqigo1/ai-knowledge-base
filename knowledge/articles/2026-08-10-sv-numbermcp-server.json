@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-10-001",
+  "title": "sv-number/mcp-server",
+  "source": "github-trending",
+  "url": "https://github.com/sv-number/mcp-server",
+  "summary": "sv-number/mcp-server 是一个基于 Model Context Protocol (MCP) 的服务器，为 AI 代理提供电话号码服务。它解决了 AI 代理需要接收短信验证码（OTP）但缺乏真实电话号码的问题，允许代理在任意国家订购私有号码、读取短信验证码并返回给代理。核心技术亮点是利用 MCP 协议标准化了 AI 代理与电话服务的交互，支持 Claude Code 等代理，实现了自动化验证码接收。适用场景包括 AI 代理注册账号、验证身份、自动化流程中的短信验证等。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-10T00:55:36.890386+00:00",
+  "analyzed_at": "2026-08-10T00:56:03.841439+00:00",
+  "organized_at": "2026-08-10T00:57:23.031399+00:00",
+  "status": "published"
+}

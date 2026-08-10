@@ -1,0 +1,485 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-10T00:55:39.595253+00:00",
+  "date": "2026-08-10",
+  "count": 19,
+  "items": [
+    {
+      "title": "KKKKhazix/human-writing",
+      "source": "github-trending",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "stars": 2096,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-05T10:38:38Z",
+      "summary": "human-writing 是一个开源 Python 项目，提供通用创作与改稿 Skill，让 AI 生成的中文更自然、更具个人风格。它解决 AI 写作中常见的机械感和模板化问题，通过精心设计的提示词和写作规则，使输出贴近真实人类表达。核心亮点是开箱即用的 Skill 封装，可集成到 agent 工作流中，适用于中文内容创作、文案润色和个性化写作场景。",
+      "tags": [
+        "prompt-engineering",
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-10T00:55:42.041566+00:00"
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "stars": 1607,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-07T07:26:06Z",
+      "summary": "这是一个非官方的 Kimi Slides Skill，旨在让 AI Agent 直接生成可编辑的 PPTD 和 PPTX 文件，并附带本地浏览器编辑器。它解决了 AI 生成演示文稿时格式封闭、难以二次编辑的问题，核心亮点在于输出开放格式并集成编辑工具，支持 agent 工作流中的演示文稿自动化。适用于需要快速生成可定制 PPT 的办公场景、AI 助手集成或 workflow automation。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-08-10T00:55:44.410452+00:00"
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "source": "github-trending",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "stars": 854,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-07T23:22:32Z",
+      "summary": "phone-harness 是一个开源 Python 工具，让 AI agent 能够直接控制手机。它解决的是 agent 与移动设备交互的难题，通过提供统一的接口和自动化能力，使 agent 能执行点击、滑动、输入等操作。核心技术亮点包括基于 accessibility 的 UI 解析和事件模拟，支持多平台。适用场景包括移动端自动化测试、个人助理、以及需要 agent 操作真实应用的场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-10T00:55:46.677507+00:00"
+    },
+    {
+      "title": "mikiarlo3/awesome-growth-hacking-skills",
+      "source": "github-trending",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "stars": 795,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-04T20:36:02Z",
+      "summary": "该仓库收集用于Claude、ChatGPT、Manus等AI代理的agentic增长黑客技能，由enso.bot维护。它提供一系列可复用的技能定义和提示词，帮助AI代理执行增长相关任务，如用户获取、SEO优化、内容营销等。核心亮点是结构化技能库，支持多平台代理，并强调自动化工作流。适用场景包括创业公司、营销团队和独立开发者利用AI代理实现增长策略的自动化。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-10T00:55:49.121809+00:00"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Video-Edit",
+      "source": "github-trending",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "stars": 607,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-07T04:34:37Z",
+      "summary": "JoyAI-Video-Edit 是京东开源的项目，实现基于自回归扩散模型的实时开放式视频编辑。它解决传统视频编辑需要精确掩码或逐帧处理、难以进行语义级修改的问题。核心技术亮点是采用自回归扩散架构，支持实时生成和开放式编辑指令，无需用户提供精细掩码。适用场景包括短视频创作、影视后期、广告制作等需要快速迭代和创意编辑的领域。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-10T00:55:51.586963+00:00"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness",
+      "source": "github-trending",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "stars": 507,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli",
+        "codex",
+        "codex-desktop",
+        "codex-plugin",
+        "cua",
+        "gui",
+        "harness",
+        "long-horizon",
+        "long-horizon-agents",
+        "longhorizon-harness",
+        "loop",
+        "loop-engineering"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-07T09:03:51Z",
+      "summary": "LongHorizon-Harness 是一个面向长时程计算机操作任务的 AI agent 运行框架，解决 agent 在跨桌面应用和 CLI 的复杂工作流中因上下文丢失、状态不稳定而无法持续可靠推进的问题。其核心技术包括 fresh-context 执行（定期刷新上下文）、持久化验证状态、独立审计机制、可恢复进度，并原生集成 Claude Code、Codex 和 OpenClaw。适用于需要长时间自主完成多步骤任务的场景，如自动化测试、数据整理、软件操作等。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-10T00:55:54.042264+00:00"
+    },
+    {
+      "title": "eternityspring/shuohao-skills",
+      "source": "github-trending",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "stars": 499,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-09T15:58:31Z",
+      "summary": "eternityspring/shuohao-skills 是一个面向 AI 编码 agent 的 skill 集合，兼容 Claude Code 和 codex。其核心功能 novel-characters 可将小说自动拆解为角色设定集，生成人物画像、卡通设计提示词、音色提示词及三视图。该项目解决了创意写作中角色一致性维护的痛点，通过结构化提示词工程实现高效的角色建模。技术亮点在于跨 agent 平台的兼容性和多模态提示词生成。适用于小说创作辅助、游戏角色设计及 AI 辅助内容生产场景。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-10T00:55:56.792278+00:00"
+    },
+    {
+      "title": "fuxicodex/Fuxi",
+      "source": "github-trending",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "stars": 451,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-06T15:18:41Z",
+      "summary": "FuXi 是一个快速、自包含的 AI 开发者终端，旨在将 AI 能力直接嵌入命令行工作流。它解决开发者在终端中频繁切换工具、上下文丢失的问题，通过本地化部署和高效执行提供即时 AI 辅助。核心技术亮点包括轻量级架构、自包含运行环境（无需复杂依赖）以及针对终端场景优化的交互设计。适用场景包括代码生成、命令解释、自动化脚本编写等日常开发任务，尤其适合追求高效、低延迟的开发者。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-10T00:55:59.541150+00:00"
+    },
+    {
+      "title": "criptogus/HermesOffice",
+      "source": "github-trending",
+      "url": "https://github.com/criptogus/HermesOffice",
+      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "stars": 425,
+      "language": "TypeScript",
+      "topics": [
+        "ai-native",
+        "docx",
+        "electron",
+        "fork",
+        "genoffice",
+        "hermes",
+        "macos",
+        "office-suite",
+        "open-source",
+        "pptx"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-08T15:31:38Z",
+      "summary": "HermesOffice 是基于 GenOffice 的 AI-native 办公套件，集成 Hermes Agent AI，解决传统办公软件缺乏智能协作的问题。核心亮点是原生 Agent 集成，支持 docx 处理，基于 Electron 构建跨平台桌面应用。适用场景包括智能文档编辑、自动化办公流程和 AI 辅助内容生成。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-10T00:56:01.639854+00:00"
+    },
+    {
+      "title": "sv-number/mcp-server",
+      "source": "github-trending",
+      "url": "https://github.com/sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "stars": 247,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "mcp",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "typescript"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-09T16:11:22Z",
+      "summary": "sv-number/mcp-server 是一个基于 Model Context Protocol (MCP) 的服务器，为 AI 代理提供电话号码服务。它解决了 AI 代理需要接收短信验证码（OTP）但缺乏真实电话号码的问题，允许代理在任意国家订购私有号码、读取短信验证码并返回给代理。核心技术亮点是利用 MCP 协议标准化了 AI 代理与电话服务的交互，支持 Claude Code 等代理，实现了自动化验证码接收。适用场景包括 AI 代理注册账号、验证身份、自动化流程中的短信验证等。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-10T00:56:03.841439+00:00"
+    },
+    {
+      "title": "robonuggets/gauntlet-loop",
+      "source": "github-trending",
+      "url": "https://github.com/robonuggets/gauntlet-loop",
+      "description": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
+      "stars": 245,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-05T22:30:54Z",
+      "summary": "gauntlet-loop 是一个开源工具，将任意目标转化为简短 prompt，使 agent 设定真实质量门槛，运行 builder 和 critic 配对，进行盲比，并循环迭代直至获胜。它解决 agent 开发中缺乏自动化评估和优化循环的问题，核心亮点是自动化质量门槛设定、盲比机制和迭代优化。适用于 agent 性能调优、自动化评估和持续改进场景。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "workflow-automation",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-08-10T00:56:06.028756+00:00"
+    },
+    {
+      "title": "mewamew/my_ai_town",
+      "source": "github-trending",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "stars": 242,
+      "language": "GDScript",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-10T00:55:11Z",
+      "summary": "my_ai_town 是一个基于 GDScript 编写的 AI 小镇模拟项目，旨在构建一个由多个 AI 角色组成的虚拟社区。它通过模拟角色间的交互和任务执行，展示轻量级 AI 代理在游戏引擎中的集成方式。核心技术亮点是利用 Godot 引擎的脚本语言实现代理逻辑，可能涉及简单的状态机和对话系统。适用场景包括游戏开发中的 NPC 行为设计、AI 教学演示以及轻量级多代理交互实验。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-10T00:56:08.963124+00:00"
+    },
+    {
+      "title": "cristicretu/diri",
+      "source": "github-trending",
+      "url": "https://github.com/cristicretu/diri",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "stars": 233,
+      "language": "Rust",
+      "topics": [
+        "claude-code",
+        "coding-agents",
+        "gpui",
+        "macos",
+        "mcp",
+        "rust",
+        "swift",
+        "terminal"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-09T20:35:44Z",
+      "summary": "diri 是一个原生 macOS 编排器，用于并行运行 Claude Code、Codex、Cursor、Gemini 等编码代理，支持跨 git worktrees 和远程主机执行。它解决多代理协作时的隔离与并发问题，基于 Rust 和 gpui 构建，集成 MCP 协议。核心亮点在于将多个编码 agent 的会话和文件系统操作隔离到独立 worktree，实现安全并行。适用于需要同时测试多个 AI 编码代理、或在不同分支/远程环境并行执行任务的开发者。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-10T00:56:11.874735+00:00"
+    },
+    {
+      "title": "waiterve/wai-play",
+      "source": "github-trending",
+      "url": "https://github.com/waiterve/wai-play",
+      "description": "WAI Play - AI web game testing and quality evaluation platform",
+      "stars": 229,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "game",
+        "game-testing",
+        "python"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-04T09:03:05Z",
+      "summary": "WAI Play 是一个基于 Python 的 AI 游戏测试与质量评估平台，利用 AI agents 自动执行游戏测试流程，解决传统人工测试效率低、覆盖不全的问题。核心亮点包括集成多模态感知与 agent 决策，支持游戏场景的自动化交互和缺陷检测，并提供质量评估指标。适用于游戏开发团队的自动化 QA、AI 行为验证及游戏产品上线前的质量保障场景。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-10T00:56:14.490407+00:00"
+    },
+    {
+      "title": "KimGLee/Cambium",
+      "source": "github-trending",
+      "url": "https://github.com/KimGLee/Cambium",
+      "description": "Governance standard and reference toolset for LLM-maintained knowledge corpora",
+      "stars": 207,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-09T16:37:38Z",
+      "summary": "Cambium 是一个为 LLM 维护的知识语料库设计的治理标准和参考工具集。它解决 LLM 生成或维护内容时缺乏版本控制、审计和合规性的问题，提供结构化流程来管理知识语料的生命周期。核心技术亮点包括定义治理标准、提供参考实现，并集成版本控制与审计追踪。适用于企业知识库、文档自动化及需要合规性的 AI 内容管理场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-08-10T00:56:17.320289+00:00"
+    },
+    {
+      "title": "i3T4AN/KADATH",
+      "source": "github-trending",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "stars": 168,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation-tools",
+        "agent-framework",
+        "agent-swarms",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "evolutionary-algorithms",
+        "generative-ai",
+        "genetic-algorithm",
+        "llm",
+        "llm-agents",
+        "llm-evaluation",
+        "multi-agent",
+        "multi-agent-systems",
+        "self-evolving-agents"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-09T21:01:28Z",
+      "summary": "KADATH 是一个进化式多智能体运行时，通过可复现的迭代周期来繁殖、评估和改进自主智能体，以收敛于目标优化。它解决了传统多智能体系统缺乏自主进化和持续优化能力的问题。核心技术亮点包括基于进化算法的智能体种群管理、自动评估与选择机制，以及支持可复现实验的运行时设计。适用场景包括复杂任务自动化、多智能体协作优化以及需要自适应策略的 AI 系统开发。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-10T00:56:20.358511+00:00"
+    },
+    {
+      "title": "crawfordxx/xiaoma-durex-copywriter",
+      "source": "github-trending",
+      "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+      "description": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线",
+      "stars": 168,
+      "language": "Python",
+      "topics": [
+        "advertising",
+        "chinese-copywriting",
+        "claude-code",
+        "claude-skill",
+        "copywriting",
+        "poster-design"
+      ],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-08T14:14:51Z",
+      "summary": "这是一个为 Claude Code 设计的 Skill，用于生成杜蕾斯风格的文案和海报。它解决中文广告文案创意不足和视觉风格统一的问题。核心技术亮点包括双层语义方法论、8 个文案公式、从 260 张海报拆解的视觉系统，以及 AI 出图和代码排版管线。适用于营销人员、内容创作者和 AI 工程师，用于快速生成高转化率的广告文案和视觉设计。",
+      "tags": [
+        "prompt-engineering",
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-10T00:56:23.119867+00:00"
+    },
+    {
+      "title": "lincwang123-bot/moonlit-stories",
+      "source": "github-trending",
+      "url": "https://github.com/lincwang123-bot/moonlit-stories",
+      "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
+      "stars": 153,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-04T10:26:53Z",
+      "summary": "moonlit-stories 是一个可复用的 AI 英文绘本工作流，通过一致的角色插画和本地 Chatterbox TTS 生成有声故事。它解决了 AI 绘本生成中角色一致性差和语音合成依赖云端的问题，核心亮点是结合图像生成与 TTS 的自动化流水线，支持本地部署。适用于教育内容创作、儿童故事生成和个性化绘本制作场景。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-10T00:56:25.610391+00:00"
+    },
+    {
+      "title": "liujunxibaba/douyin-tiktok-story-skill-agent",
+      "source": "github-trending",
+      "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+      "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+      "stars": 142,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-10T00:55:36.890386+00:00",
+      "published_at": "2026-08-05T14:09:03Z",
+      "summary": "这是一个本地优先的 AI Skill 和 Agent，用于生成原创抖音/TikTok 故事脚本，并集成可搜索的 SQLite 参考数据库。它解决短视频创作者内容创意枯竭和脚本生产效率低的问题。核心技术亮点包括本地优先架构（数据隐私和离线可用）、SQLite 数据库支持脚本素材的检索与复用，以及基于 LLM 的脚本生成流程。适用场景为短视频内容创作、社交媒体营销和自动化脚本生产。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-10T00:56:28.564610+00:00"
+    }
+  ]
+}

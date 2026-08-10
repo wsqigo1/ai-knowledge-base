@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-10-011",
+  "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+  "source": "hackernews-top",
+  "url": "https://github.com/eighttrigrams/us-vs-them",
+  "summary": "该研究提出一种基于diff的行级文本溯源方法，用于区分AI与人类在代理式编辑中的贡献。它解决AI辅助写作中内容归属模糊的问题，通过分析编辑差异实现精确溯源。核心技术亮点是利用diff算法追踪行级变更，结合代理编辑场景优化。适用于文档协作、内容审核和AI辅助写作的合规性追踪。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-10T00:55:37.117862+00:00",
+  "analyzed_at": "2026-08-10T00:57:11.962873+00:00",
+  "organized_at": "2026-08-10T00:57:23.031399+00:00",
+  "status": "published"
+}
