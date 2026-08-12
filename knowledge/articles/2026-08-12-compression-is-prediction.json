@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-12-018",
+  "title": "Compression is prediction",
+  "source": "hackernews-top",
+  "url": "https://ngrok.com/blog/compression-is-prediction",
+  "summary": "文章阐述压缩与预测在信息论和机器学习中的等价性，即高效压缩数据需要准确预测其概率分布。它解决如何统一理解模型训练目标与数据压缩的关系，核心亮点是揭示LLM的next-token预测本质上是一种通用压缩算法，并探讨其理论意义。适用场景包括理解LLM原理、设计更优训练目标及数据压缩应用。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-08-12T01:01:41.329987+00:00",
+  "analyzed_at": "2026-08-12T01:02:44.056751+00:00",
+  "organized_at": "2026-08-12T01:03:24.684095+00:00",
+  "status": "published"
+}

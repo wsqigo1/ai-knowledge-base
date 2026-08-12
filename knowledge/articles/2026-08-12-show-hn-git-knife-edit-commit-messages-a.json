@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-12-028",
+  "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+  "source": "hackernews-top",
+  "url": "https://github.com/TheRealYT/git-knife",
+  "summary": "Git-knife 是一个开源命令行工具，允许用户像操作电子表格一样批量编辑 Git 提交信息、作者和日期。它解决了手动逐条修改 Git 历史记录的低效和易错问题，通过提供交互式表格界面和批量操作命令，简化了历史重写流程。核心技术亮点包括对 Git 对象数据库的直接操作、支持交互式编辑和脚本化批量修改，并内置安全校验以防破坏仓库。适用场景包括代码库历史清理、合规性调整（如作者信息更正）和教学演示。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-12T01:01:41.329987+00:00",
+  "analyzed_at": "2026-08-12T01:03:22.720312+00:00",
+  "organized_at": "2026-08-12T01:03:24.684095+00:00",
+  "status": "published"
+}

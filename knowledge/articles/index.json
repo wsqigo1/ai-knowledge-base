@@ -1,7 +1,427 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1471,
+  "total_count": 1499,
   "entries": [
+    {
+      "id": "kb-2026-08-12-001",
+      "title": "SaladDay/pi-from-scratch",
+      "source": "github-trending",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "file": "2026-08-12-saladdaypi-from-scratch.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-002",
+      "title": "mewamew/my_ai_town",
+      "source": "github-trending",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "file": "2026-08-12-mewamewmy-ai-town.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-003",
+      "title": "shadcn-ui/chatbot-template",
+      "source": "github-trending",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "file": "2026-08-12-shadcn-uichatbot-template.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-004",
+      "title": "tanishqkancharla/calldiff",
+      "source": "github-trending",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "file": "2026-08-12-tanishqkancharlacalldiff.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-005",
+      "title": "antinomie-lab/pi-book",
+      "source": "github-trending",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "file": "2026-08-12-antinomie-labpi-book.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-006",
+      "title": "ayi-ai/nie-grassroots-logic",
+      "source": "github-trending",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "file": "2026-08-12-ayi-ainie-grassroots-logic.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "reasoning",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-007",
+      "title": "0xnyn/airship",
+      "source": "github-trending",
+      "url": "https://github.com/0xnyn/airship",
+      "file": "2026-08-12-0xnynairship.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "agent",
+        "open-source"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-008",
+      "title": "oliverb-io1902e8/agent-skills-collection",
+      "source": "github-trending",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "file": "2026-08-12-oliverb-io1902e8agent-skills-collection.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-009",
+      "title": "MkThingsHQ/mkdirs",
+      "source": "github-trending",
+      "url": "https://github.com/MkThingsHQ/mkdirs",
+      "file": "2026-08-12-mkthingshqmkdirs.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-010",
+      "title": "surya-koritala/loomfeed",
+      "source": "github-trending",
+      "url": "https://github.com/surya-koritala/loomfeed",
+      "file": "2026-08-12-surya-koritalaloomfeed.json",
+      "tags": [
+        "open-source",
+        "agent",
+        "mcp",
+        "ai-assistant",
+        "community-platform"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-011",
+      "title": "swping999/scene-card-studio",
+      "source": "github-trending",
+      "url": "https://github.com/swping999/scene-card-studio",
+      "file": "2026-08-12-swping999scene-card-studio.json",
+      "tags": [
+        "generative-ai",
+        "image-generation",
+        "workflow-automation",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-012",
+      "title": "miqdadbadjuber/anti-slop",
+      "source": "github-trending",
+      "url": "https://github.com/miqdadbadjuber/anti-slop",
+      "file": "2026-08-12-miqdadbadjuberanti-slop.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-013",
+      "title": "sosoj92/jarvis-assistant-vocal",
+      "source": "github-trending",
+      "url": "https://github.com/sosoj92/jarvis-assistant-vocal",
+      "file": "2026-08-12-sosoj92jarvis-assistant-vocal.json",
+      "tags": [
+        "ai-assistant",
+        "mcp",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-014",
+      "title": "GOROman/vibewatch",
+      "source": "github-trending",
+      "url": "https://github.com/GOROman/vibewatch",
+      "file": "2026-08-12-goromanvibewatch.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-015",
+      "title": "YINGLINGH/limioryn",
+      "source": "github-trending",
+      "url": "https://github.com/YINGLINGH/limioryn",
+      "file": "2026-08-12-yinglinghlimioryn.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-016",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "source": "hackernews-top",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "file": "2026-08-12-worldclaw-agentic-3d-open-world-generati.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.9,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-017",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "source": "hackernews-top",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "file": "2026-08-12-nvidia-nemotron-35-lightning-and-nemo-sw.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-018",
+      "title": "Compression is prediction",
+      "source": "hackernews-top",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "file": "2026-08-12-compression-is-prediction.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-019",
+      "title": "Mojo 1.0",
+      "source": "hackernews-top",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "file": "2026-08-12-mojo-10.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-020",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "source": "hackernews-top",
+      "url": "https://stolen-thoughts.com/",
+      "file": "2026-08-12-stealing-reasoning-traces-from-proprieta.json",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "security",
+        "benchmark"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-021",
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "source": "hackernews-top",
+      "url": "https://photosynthesis.camera",
+      "file": "2026-08-12-show-hn-iphone-app-takes-simultaneous-im.json",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-022",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "source": "hackernews-top",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "file": "2026-08-12-go-is-an-ideal-language-for-ai-assisted-.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-023",
+      "title": "Grok Bot",
+      "source": "hackernews-top",
+      "url": "https://x.ai/bot",
+      "file": "2026-08-12-grok-bot.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-024",
+      "title": "Show HN: Line9 - a Mermaid rendering engine with its own layout",
+      "source": "hackernews-top",
+      "url": "https://line9.ai/diagram",
+      "file": "2026-08-12-show-hn-line9---a-mermaid-rendering-engi.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-025",
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "source": "hackernews-top",
+      "url": "https://www.suzanne3d.com/",
+      "file": "2026-08-12-suzanne-ai-tool-for-designing-and-manufa.json",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.1,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-026",
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "source": "hackernews-top",
+      "url": "https://jolt-lang.github.io",
+      "file": "2026-08-12-jolt-clojure-compiler-implemented-with-c.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-027",
+      "title": "Nvidia's Risky Business",
+      "source": "hackernews-top",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "file": "2026-08-12-nvidias-risky-business.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
+    {
+      "id": "kb-2026-08-12-028",
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "source": "hackernews-top",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "file": "2026-08-12-show-hn-git-knife-edit-commit-messages-a.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-12T01:03:24.684095+00:00"
+    },
     {
       "id": "kb-2026-08-10-001",
       "title": "sv-number/mcp-server",
@@ -21847,5 +22267,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-10T00:57:23.133979+00:00"
+  "last_updated": "2026-08-12T01:03:24.859987+00:00"
 }

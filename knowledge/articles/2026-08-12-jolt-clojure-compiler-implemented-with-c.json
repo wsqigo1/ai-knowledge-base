@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-12-026",
+  "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+  "source": "hackernews-top",
+  "url": "https://jolt-lang.github.io",
+  "summary": "Jolt 是一个用 Chez Scheme 实现的 Clojure 编译器，旨在将 Clojure 代码直接编译为 Scheme 字节码，从而利用 Chez Scheme 的高性能 JIT 编译能力。它解决了 Clojure 在启动速度和执行效率上的痛点，通过复用 Chez Scheme 的成熟优化后端，实现了接近原生性能的 Clojure 运行。核心技术亮点包括完整的 Clojure 语义映射、宏系统支持以及与 Chez Scheme 的无缝互操作。适用场景包括需要快速启动和低延迟的 Clojure 服务、嵌入式脚本环境以及对性能敏感的 Clojure 应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-12T01:01:41.329987+00:00",
+  "analyzed_at": "2026-08-12T01:03:16.748149+00:00",
+  "organized_at": "2026-08-12T01:03:24.684095+00:00",
+  "status": "published"
+}

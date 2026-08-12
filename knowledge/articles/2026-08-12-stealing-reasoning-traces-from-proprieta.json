@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-12-020",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "source": "hackernews-top",
+  "url": "https://stolen-thoughts.com/",
+  "summary": "该研究展示如何通过API侧信道攻击从专有LLM（如OpenAI、Anthropic）中窃取推理痕迹（reasoning traces）。它利用模型输出中的token概率分布差异，推断出隐藏的思维链内容，从而绕过模型提供商的推理隐藏机制。核心技术亮点是提出一种基于概率分析的提取算法，并在多个商业模型上验证了有效性。该研究解决了专有模型推理过程不透明、用户无法审计的问题，但也暴露了隐私和安全风险。适用场景包括AI安全研究、模型审计、以及提升LLM推理透明度的工具开发。",
+  "tags": [
+    "reasoning",
+    "large-language-model",
+    "security",
+    "benchmark"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-12T01:01:41.329987+00:00",
+  "analyzed_at": "2026-08-12T01:02:49.418307+00:00",
+  "organized_at": "2026-08-12T01:03:24.684095+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-12-004",
+  "title": "tanishqkancharla/calldiff",
+  "source": "github-trending",
+  "url": "https://github.com/tanishqkancharla/calldiff",
+  "summary": "calldiff 是一个基于 Tree-sitter 的 AST 工具，用于比较 git 提交间函数调用栈的差异，支持 22 种编程语言。它解决代码审查中难以追踪跨提交函数调用变化的问题，提供精确的调用关系 diff，特别适合 agentic review 场景，帮助 AI 代理或开发者快速定位影响面。核心技术亮点是 AST 级分析，避免文本 diff 的噪声。适用场景包括代码审查、重构影响分析、CI 集成。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "open-source"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-12T01:01:41.174244+00:00",
+  "analyzed_at": "2026-08-12T01:02:01.706366+00:00",
+  "organized_at": "2026-08-12T01:03:24.684095+00:00",
+  "status": "published"
+}
