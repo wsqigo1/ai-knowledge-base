@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-08-13-012",
+  "title": "Why tiny JPEGs look different in Chrome",
+  "source": "hackernews-top",
+  "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+  "summary": "本文探讨了Chrome浏览器中微小JPEG图像显示差异的原因，涉及图像解码、色彩管理和渲染管线的细微差别。它解决了开发者遇到的跨浏览器图像渲染不一致问题，核心亮点在于揭示了Chrome特定的JPEG处理逻辑（如色度子采样和色彩配置文件解析）。适用于前端开发者、图像处理工程师以及需要精确控制图像输出的场景。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-08-13T01:03:28.566264+00:00",
+  "analyzed_at": "2026-08-13T01:04:46.940491+00:00",
+  "organized_at": "2026-08-13T01:05:06.557383+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-13-018",
+  "title": "What sort of maths are LLMs good at?",
+  "source": "hackernews-top",
+  "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+  "summary": "该文章探讨大型语言模型（LLMs）在数学任务上的能力边界，分析其擅长与不擅长的数学类型。核心问题是：LLMs 在符号计算、模式识别方面表现优异，但在需要严谨逻辑推理和复杂多步证明的数学问题上常出错。技术亮点在于通过实验对比不同数学题型（如代数、几何、数论）的准确率，揭示模型依赖统计模式而非真正理解数学规则。适用场景包括教育辅助、数学问题生成、以及作为推理能力评估的基准，帮助开发者设计更合理的 benchmark 和训练策略。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-13T01:03:28.566264+00:00",
+  "analyzed_at": "2026-08-13T01:05:04.049625+00:00",
+  "organized_at": "2026-08-13T01:05:06.557383+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-13-007",
+  "title": "Qwen3.8-2.4T",
+  "source": "hackernews-top",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+  "summary": "Qwen3.8-2.4T 是阿里开源的新一代大规模语言模型，参数规模达 2.4 万亿（稀疏激活），旨在解决超大规模模型的高效推理与部署难题。核心技术亮点包括 MoE 架构、长上下文支持（如 128K tokens）以及优化的推理性能，同时保持 Qwen 系列在中文与多语言任务上的强能力。适用场景涵盖企业级智能客服、复杂文档分析、代码生成及多模态任务，尤其适合需要高吞吐、低延迟的云端部署。该模型在 Hacker News 上获得 482 分，社区关注度高，反映了其技术突破与开源生态影响力。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 8.4,
+  "collected_at": "2026-08-13T01:03:28.566264+00:00",
+  "analyzed_at": "2026-08-13T01:04:27.611362+00:00",
+  "organized_at": "2026-08-13T01:05:06.557383+00:00",
+  "status": "published"
+}

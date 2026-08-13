@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-13-006",
+  "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+  "source": "hackernews-top",
+  "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+  "summary": "Tailscale 发现其数据库损坏源于 SQLite 一个存在 16 年的 WAL（Write-Ahead Logging）重置 bug，该 bug 在特定崩溃恢复场景下导致 WAL 文件状态不一致，进而引发数据损坏。Tailscale 团队深入排查并修复了该问题，展示了 SQLite 底层机制的复杂性和边缘情况。此事件对依赖 SQLite 的开发者具有警示意义，适用于数据库可靠性研究和故障排查场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-08-13T01:03:28.566264+00:00",
+  "analyzed_at": "2026-08-13T01:04:24.583409+00:00",
+  "organized_at": "2026-08-13T01:05:06.557383+00:00",
+  "status": "published"
+}

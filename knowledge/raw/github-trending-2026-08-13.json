@@ -1,0 +1,509 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-13T01:03:30.098136+00:00",
+  "date": "2026-08-13",
+  "count": 19,
+  "items": [
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "source": "github-trending",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "stars": 2368,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-13T00:12:29Z",
+      "summary": "这是一个用于去除多供应商AI水印（provenance marks）的Python工具，解决AI生成内容中嵌入的C2PA元数据、Unicode文本水印及统计重写痕迹的清除问题。核心技术包括Unicode文本卫生处理、统计重写钩子，以及从PNG/JPEG/SVG/PDF/DOCX/HTML/MD等格式中剥离C2PA元数据。适用于需要匿名化或清理AI生成内容的场景，如数据预处理、隐私保护或内容再分发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-13T01:03:32.344379+00:00"
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "source": "github-trending",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "stars": 1638,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "automation",
+        "developer-tools"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T04:12:06Z",
+      "summary": "phone-harness 是一个让 AI agent 控制手机的开源 Python 工具。它解决的是 agent 与移动设备交互的难题，通过提供统一的接口和自动化能力，使 agent 能执行点击、输入、导航等操作。核心技术亮点包括设备抽象层和事件模拟机制。适用场景包括移动端自动化测试、AI 助手集成和 workflow 自动化。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-13T01:03:34.493977+00:00"
+    },
+    {
+      "title": "SaladDay/pi-from-scratch",
+      "source": "github-trending",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "stars": 759,
+      "language": "TypeScript",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T07:10:35Z",
+      "summary": "这是一个用600行TypeScript实现的迷你版pi（个人智能体），旨在帮助开发者从零理解并构建自己的pi-agent。它解决了学习AI Agent内部机制时因代码库庞大而难以入门的问题，通过精简实现突出核心的agent-loop、工具调用和LLM交互逻辑。核心技术亮点包括清晰的agent循环设计、类型安全的TypeScript实现以及极简的代码结构。适用于AI工程师学习Agent原理、快速原型开发或教学演示场景。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-13T01:03:37.138945+00:00"
+    },
+    {
+      "title": "sv-number/mcp-server",
+      "source": "github-trending",
+      "url": "https://github.com/sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "stars": 594,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cline",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "sms-verification",
+        "typescript",
+        "virtual-phone-number",
+        "windsurf"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-10T18:55:24Z",
+      "summary": "sv-number/mcp-server 是一个 MCP 服务器，为 AI 代理提供电话号码服务：可在 200+ 国家订购私人号码，读取短信验证码并回传给代理。它解决了 AI 代理在需要手机验证码进行身份验证或账户注册时的自动化难题。核心亮点是覆盖国家最广，且通过一次 API 调用即可检查可用性。适用于需要处理短信验证码的 AI 代理场景，如自动化注册、账号验证、多因素认证等。基于 JavaScript 实现，与 Claude、Cursor 等工具集成。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-13T01:03:39.541037+00:00"
+    },
+    {
+      "title": "shadcn-ui/chatbot-template",
+      "source": "github-trending",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "stars": 585,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-11T17:46:50Z",
+      "summary": "一个基于 Next.js、AI SDK、shadcn/ui 和 Vercel AI Gateway 构建的最小化聊天机器人模板。它解决了开发者快速搭建 AI 聊天界面和集成后端推理的重复劳动问题，提供开箱即用的 UI 组件、流式响应和网关配置。核心技术亮点是结合 shadcn 的现代设计系统与 AI SDK 的流式处理，简化部署。适用于需要快速原型验证或生产级聊天界面的 Next.js 项目。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-13T01:03:41.875701+00:00"
+    },
+    {
+      "title": "mewamew/my_ai_town",
+      "source": "github-trending",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "stars": 482,
+      "language": "GDScript",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T18:22:26Z",
+      "summary": "my_ai_town 是一个基于 GDScript 构建的 AI 小镇模拟项目，旨在通过游戏化环境展示多智能体（multi-agent）的交互与行为模拟。它解决了在轻量级、非 Python 环境中实现 AI 代理协作与社交模拟的问题，核心亮点是利用 Godot 引擎的 GDScript 语言实现实时可视化与交互，支持自定义代理行为和场景。适用于教育演示、AI 行为研究原型以及游戏 AI 开发参考。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-13T01:03:44.536985+00:00"
+    },
+    {
+      "title": "0xnyn/airship",
+      "source": "github-trending",
+      "url": "https://github.com/0xnyn/airship",
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "stars": 375,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-11T20:34:54Z",
+      "summary": "airship 是一个为 Claude Code、Codex 和 OpenCode 等 AI 编程代理构建的类 Figma 可视化编辑器，旨在解决 AI 生成代码时缺乏直观 UI 预览和编辑能力的问题。其核心亮点是提供所见即所得的界面编辑环境，使开发者能直接操作 AI 生成的界面组件，并同步生成或修改代码。适用于需要快速迭代前端界面、结合 AI 代理进行可视化编程的场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-08-13T01:03:47.160771+00:00"
+    },
+    {
+      "title": "tanishqkancharla/calldiff",
+      "source": "github-trending",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "stars": 359,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-13T00:24:21Z",
+      "summary": "calldiff 是一个基于 Tree-sitter 的 AST 工具，用于比较 git 提交间的函数调用栈差异，支持 22 种编程语言。它解决了 agentic 代码审查中难以追踪跨提交调用关系变化的问题，通过结构化解析生成精确的 diff，帮助开发者快速定位函数调用链的变更。适用于代码审查、CI 集成以及 AI 代理的上下文理解。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-13T01:03:49.335692+00:00"
+    },
+    {
+      "title": "ayi-ai/nie-grassroots-logic",
+      "source": "github-trending",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "stars": 352,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "china",
+        "cursor-skills",
+        "governance",
+        "methodology"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-10T13:45:22Z",
+      "summary": "基于聂辉华《基层中国的运行逻辑》构建的 Agent Skill 方法论工具箱，不含原书全文。它解决将中国基层治理经验转化为可操作 AI 技能的问题，通过结构化提示词和工具链封装，使 LLM 能模拟基层分析逻辑。核心技术亮点是 HTML 格式的技能定义，适配 Cursor 等 Agent 环境，实现方法论的可编程化。适用场景包括政策研究、基层治理模拟、社会科学分析等，为 AI 工程师提供跨学科 agent 技能开发范例。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-08-13T01:03:52.266842+00:00"
+    },
+    {
+      "title": "antinomie-lab/pi-book",
+      "source": "github-trending",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "stars": 271,
+      "language": "Vue",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "book",
+        "chinese",
+        "code-reading",
+        "llm",
+        "pi-agent",
+        "pi-agent-core",
+        "software-architecture",
+        "typescript"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T18:11:16Z",
+      "summary": "pi-book 是一本基于源码的架构笔记，旨在帮助开发者深入理解 AI agent 的构建原理。它通过逐行解读相关代码，剖析 agent 循环（agent-loop）、工具调用等核心机制，解决开发者对 agent 内部实现缺乏系统认知的问题。技术亮点在于以中文撰写、结合真实代码库进行讲解，适合希望从源码层面掌握 agent 架构的开发者阅读。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-13T01:03:54.681690+00:00"
+    },
+    {
+      "title": "MkThingsHQ/mkdirs",
+      "source": "github-trending",
+      "url": "https://github.com/MkThingsHQ/mkdirs",
+      "description": "Open-source AI-powered directory website template built with Next.js",
+      "stars": 202,
+      "language": "TypeScript",
+      "topics": [
+        "boilerplate",
+        "directory",
+        "nextjs",
+        "open-source",
+        "sanity",
+        "stripe",
+        "template"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-09T23:03:01Z",
+      "summary": "MkThingsHQ/mkdirs 是一个基于 Next.js 构建的开源 AI 驱动的目录网站模板。它解决了快速搭建高质量、SEO 友好的目录类网站（如工具集、资源导航）的需求，内置 Sanity CMS 进行内容管理，并集成 AI 功能以增强用户体验。核心技术亮点包括 Next.js 的 SSR/SSG 支持、Sanity 的可视化编辑和实时内容更新，以及 AI 驱动的搜索或推荐。适用于开发者快速启动目录型项目，或作为学习 Next.js 与 Sanity 集成的参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-08-13T01:03:57.639938+00:00"
+    },
+    {
+      "title": "lexmount/moli",
+      "source": "github-trending",
+      "url": "https://github.com/lexmount/moli",
+      "description": "Best browser for AI agents, built in Rust.",
+      "stars": 173,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser",
+        "browser-automation",
+        "cloud-browser",
+        "playwright",
+        "puppeteer",
+        "rust",
+        "servo",
+        "web"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-13T00:20:22Z",
+      "summary": "moli 是一款专为 AI agents 设计的浏览器，使用 Rust 语言构建。它解决了 AI agents 在浏览网页时面临的自动化控制、稳定性与性能问题。核心技术亮点包括 Rust 带来的高性能与内存安全，以及针对浏览器自动化的深度优化，可能支持云浏览器部署。适用场景包括 AI agents 的网页信息抓取、自动化测试、以及需要可靠浏览器环境的智能体任务。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-13T01:04:00.286092+00:00"
+    },
+    {
+      "title": "miqdadbadjuber/anti-slop",
+      "source": "github-trending",
+      "url": "https://github.com/miqdadbadjuber/anti-slop",
+      "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+      "stars": 172,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T14:46:27Z",
+      "summary": "anti-slop 是一个设计规则集，旨在阻止 AI 编码代理生成千篇一律的“AI 味”UI。它通过提供具体的设计约束和反模式清单，解决 AI 生成界面缺乏个性、视觉同质化的问题。核心亮点是规则驱动，可直接集成到编码代理的提示或工作流中，提升 UI 设计的原创性和品牌感。适用于使用 AI 辅助前端开发、追求高质量 UI 输出的开发者或团队。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-13T01:04:02.623994+00:00"
+    },
+    {
+      "title": "i3T4AN/KADATH",
+      "source": "github-trending",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "stars": 172,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation-tools",
+        "agent-framework",
+        "agent-swarms",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "evolutionary-algorithms",
+        "generative-ai",
+        "genetic-algorithm",
+        "llm",
+        "llm-agents",
+        "llm-evaluation",
+        "multi-agent",
+        "multi-agent-systems",
+        "self-evolving-agents"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-09T21:01:28Z",
+      "summary": "KADATH 是一个进化式多智能体运行时，通过可复现的世代循环来繁殖、评估和改进自主智能体，以收敛于目标优化。它解决的是多智能体系统自动调优和持续进化的问题，核心亮点在于将进化算法应用于智能体群体，支持智能体群（agent swarms）的迭代优化。适用于需要自动优化多智能体协作策略、目标导向的复杂任务场景，如自动化工作流、智能体评估与改进。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-13T01:04:05.136011+00:00"
+    },
+    {
+      "title": "50kg/image-to-slice",
+      "source": "github-trending",
+      "url": "https://github.com/50kg/image-to-slice",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "stars": 167,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T10:19:34Z",
+      "summary": "image-to-slice 是一个基于 JavaScript 的 AI 拆图工具，可将图片自动分割为可编辑的 Figma 图层，并支持被遮挡背景补齐和人工校准，最终导出 HTML/CSS。它解决设计师从静态图到可编辑设计稿的转换痛点，核心亮点是结合 AI 图像分割与 Figma 集成，实现半自动化的设计还原。适用于 UI 设计、前端开发快速原型制作等场景。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-13T01:04:07.374768+00:00"
+    },
+    {
+      "title": "surya-koritala/loomfeed",
+      "source": "github-trending",
+      "url": "https://github.com/surya-koritala/loomfeed",
+      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "stars": 165,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "community-platform",
+        "golang",
+        "mcp",
+        "nextjs",
+        "reddit-alternative",
+        "self-hosted",
+        "social-network"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-13T00:59:37Z",
+      "summary": "loomfeed 是一个开源的去中心化 Reddit 替代品，专为 AI agents 和人类设计，解决 AI 生成内容泛滥和信任缺失问题。其核心亮点包括 provenance tracking（溯源追踪）、reputation（信誉系统）、epistemic status labels（认知状态标签）以及 agent debates（智能体辩论）功能，支持通过 docker compose 自托管。项目采用 Go 和 Next.js 构建，并集成 MCP（Model Context Protocol），便于 AI 工具接入。适用于构建可信的 AI 社区平台、研究多智能体交互或作为 MCP 生态的实践案例。",
+      "tags": [
+        "open-source",
+        "mcp",
+        "multi-agent",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-08-13T01:04:09.848310+00:00"
+    },
+    {
+      "title": "swping999/scene-card-studio",
+      "source": "github-trending",
+      "url": "https://github.com/swping999/scene-card-studio",
+      "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+      "stars": 159,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "codex-skill",
+        "generative-ai",
+        "image-generation",
+        "photo-narrative",
+        "visual-storytelling"
+      ],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-11T03:58:38Z",
+      "summary": "scene-card-studio 是一个 AI 视觉导演工具，将个人照片转化为结构化、可编辑的视觉叙事。它解决用户难以将零散照片组织成连贯故事的问题，核心亮点是结合生成式 AI 与图像生成技术，提供可编辑的叙事卡片，并支持 Codex 技能集成。适用于个人相册整理、社交媒体内容创作和视觉故事讲述场景。",
+      "tags": [
+        "generative-ai",
+        "image-generation",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-13T01:04:12.018517+00:00"
+    },
+    {
+      "title": "YINGLINGH/limioryn",
+      "source": "github-trending",
+      "url": "https://github.com/YINGLINGH/limioryn",
+      "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery.",
+      "stars": 141,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-09T11:58:13Z",
+      "summary": "Limioryn 是一个面向真实设备的高层边缘-云 AI 多智能体框架，解决边缘设备上多智能体协作的可靠性问题，提供可验证的执行（verifiable actuation）和熵有界恢复（entropy-bounded recovery）机制。其核心技术亮点包括边缘-云协同架构、对真实设备动作的验证以及系统状态恢复的熵约束，确保在资源受限环境下智能体的稳定运行。适用于物联网、边缘计算场景下的自主决策与任务编排，如智能家居、工业自动化等。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-13T01:04:14.665922+00:00"
+    },
+    {
+      "title": "Innate-Labs/Noobi.ai",
+      "source": "github-trending",
+      "url": "https://github.com/Innate-Labs/Noobi.ai",
+      "description": "Noobi.ai — desktop AI game-production workbench with Skills and MCP.",
+      "stars": 133,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-13T01:03:28.389404+00:00",
+      "published_at": "2026-08-12T04:32:45Z",
+      "summary": "Noobi.ai 是一个桌面端 AI 游戏生产工作台，基于 Skills 和 MCP（Model Context Protocol）构建，旨在将 AI 能力集成到游戏开发流程中。它解决游戏开发者面临的内容生成、任务自动化等效率问题，通过可扩展的 Skills 模块和 MCP 协议实现工具调用与外部系统集成。核心技术亮点包括 TypeScript 实现、桌面应用架构、以及 MCP 支持下的多工具协同。适用场景包括游戏原型设计、资源生成、剧情编写和开发流程自动化。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-08-13T01:04:17.034578+00:00"
+    }
+  ]
+}

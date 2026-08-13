@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-13-009",
+  "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+  "source": "hackernews-top",
+  "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+  "summary": "本文探讨一种实时单页应用（SPA）架构：通过WebSockets传输HTML片段，替代传统REST API+前端框架（如React/Vue）的繁重JavaScript渲染。核心亮点是服务端直接生成HTML并推送，客户端仅需轻量级脚本处理增量更新，大幅减少前端代码量，降低复杂度。适用于需要实时交互（如协作工具、实时仪表盘）且团队偏好服务端渲染的Web应用场景。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-13T01:03:28.566264+00:00",
+  "analyzed_at": "2026-08-13T01:04:37.054519+00:00",
+  "organized_at": "2026-08-13T01:05:06.557383+00:00",
+  "status": "published"
+}

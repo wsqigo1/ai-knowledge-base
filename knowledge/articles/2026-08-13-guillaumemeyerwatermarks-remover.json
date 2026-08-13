@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-13-001",
+  "title": "guillaumemeyer/watermarks-remover",
+  "source": "github-trending",
+  "url": "https://github.com/guillaumemeyer/watermarks-remover",
+  "summary": "这是一个用于去除多供应商AI水印（provenance marks）的Python工具，解决AI生成内容中嵌入的C2PA元数据、Unicode文本水印及统计重写痕迹的清除问题。核心技术包括Unicode文本卫生处理、统计重写钩子，以及从PNG/JPEG/SVG/PDF/DOCX/HTML/MD等格式中剥离C2PA元数据。适用于需要匿名化或清理AI生成内容的场景，如数据预处理、隐私保护或内容再分发。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-13T01:03:28.389404+00:00",
+  "analyzed_at": "2026-08-13T01:03:32.344379+00:00",
+  "organized_at": "2026-08-13T01:05:06.557383+00:00",
+  "status": "published"
+}
