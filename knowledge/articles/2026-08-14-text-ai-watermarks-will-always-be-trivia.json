@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-14-020",
+  "title": "Text AI watermarks will always be trivial to remove",
+  "source": "hackernews-top",
+  "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+  "summary": "文章论证文本AI水印（如检测LLM生成内容的统计模式）本质上可被轻易移除，因为攻击者只需通过改写、翻译或微调即可破坏水印特征。核心观点是水印在对抗性场景下缺乏鲁棒性，无法作为可靠的内容溯源手段。技术亮点在于分析水印的脆弱性根源——依赖生成分布的统计偏差，而非语义层面。适用场景为AI内容治理、版权保护和模型审计，提醒开发者不应过度依赖水印机制。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-14T01:02:19.341412+00:00",
+  "analyzed_at": "2026-08-14T01:03:53.494614+00:00",
+  "organized_at": "2026-08-14T01:03:55.884115+00:00",
+  "status": "published"
+}

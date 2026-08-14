@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-14-011",
+  "title": "How AI text watermarking works",
+  "source": "hackernews-top",
+  "url": "https://declaude.org/watermarking/",
+  "summary": "本文探讨AI文本水印技术，旨在解决AI生成内容溯源与滥用问题。核心技术亮点包括基于token概率分布的统计水印嵌入、解码时的零比特率检测算法，以及对抗篡改的鲁棒性设计。适用场景涵盖内容审核、版权保护及深度伪造检测。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-14T01:02:19.341412+00:00",
+  "analyzed_at": "2026-08-14T01:03:18.079772+00:00",
+  "organized_at": "2026-08-14T01:03:55.884115+00:00",
+  "status": "published"
+}

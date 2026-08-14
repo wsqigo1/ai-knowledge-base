@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-14-017",
+  "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+  "source": "hackernews-top",
+  "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+  "summary": "本文介绍 Oxide 云平台如何根据客户需求集成 Kubernetes，重点讨论其设计决策与实现路径。Oxide 提供裸机云基础设施，通过原生支持 Kubernetes 简化部署与管理，解决传统基础设施中 K8s 集群配置复杂、运维成本高的问题。核心技术亮点包括与 Oxide API 深度集成、自动化网络与存储配置，以及针对多租户场景的优化。适用场景为需要高效运行 Kubernetes 工作负载的云服务提供商和企业内部云平台。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-14T01:02:19.341412+00:00",
+  "analyzed_at": "2026-08-14T01:03:44.418797+00:00",
+  "organized_at": "2026-08-14T01:03:55.884115+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-14-015",
+  "title": "Spaghettifying DRAM",
+  "source": "hackernews-top",
+  "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+  "summary": "Spaghettifying DRAM 是一篇深入探讨 DRAM 内存内部工作原理的技术文章，核心是分析现代 DRAM 中由于位线（bitline）和字线（wordline）的物理布局导致的复杂数据访问路径，即所谓的“意大利面化”现象。文章解决了内存访问延迟和能耗优化问题，通过详细解析 DRAM 的电路结构、行缓冲冲突和刷新机制，揭示了内存控制器调度策略的瓶颈。核心技术亮点包括对 DRAM 阵列的微观建模和访问模式优化。适用场景为系统级性能调优、数据库和内存计算领域，对 AI 工程师理解硬件瓶颈有参考价值。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-14T01:02:19.341412+00:00",
+  "analyzed_at": "2026-08-14T01:03:31.053894+00:00",
+  "organized_at": "2026-08-14T01:03:55.884115+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-14-005",
+  "title": "Anionex/dsh-vision-toolkit",
+  "source": "github-trending",
+  "url": "https://github.com/Anionex/dsh-vision-toolkit",
+  "summary": "Anionex/dsh-vision-toolkit 是 DeepSeek Harness 的插件，为纯文本模型赋予视觉任务能力。它解决 LLM 无法直接处理图像的问题，通过意图驱动的图片问答、长截图 OCR、UI 还原、grounding、pixel diff 等功能，将视觉输入转化为模型可理解的文本或结构化数据。核心技术亮点包括与 DeepSeek Harness 的原生集成、支持 Artifacts 和 Web UI，以及针对 agent 场景优化的视觉工具链。适用场景包括自动化测试、UI 开发辅助、文档解析和智能代理的视觉交互。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-14T01:02:19.191652+00:00",
+  "analyzed_at": "2026-08-14T01:03:00.845374+00:00",
+  "organized_at": "2026-08-14T01:03:55.884115+00:00",
+  "status": "published"
+}
