@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-15-018",
+  "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2608.12700",
+  "summary": "该项目提出一种面向LLM生成GPU内核的合约级验证器，解决生成代码正确性难以保证的问题。核心技术亮点包括形式化合约定义、自动生成验证条件和运行时检查，确保内核行为符合预期。适用于高性能计算、AI框架开发等需要可靠代码生成的场景，提升LLM在底层代码生成中的可信度。",
+  "tags": [
+    "code-generation",
+    "benchmark",
+    "developer-tools",
+    "large-language-model"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-08-15T00:37:26.385717+00:00",
+  "analyzed_at": "2026-08-15T00:38:40.453797+00:00",
+  "organized_at": "2026-08-15T00:38:46.817555+00:00",
+  "status": "published"
+}

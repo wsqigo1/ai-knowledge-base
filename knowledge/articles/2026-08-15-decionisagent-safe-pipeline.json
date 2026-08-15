@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-15-004",
+  "title": "decionis/agent-safe-pipeline",
+  "source": "github-trending",
+  "url": "https://github.com/decionis/agent-safe-pipeline",
+  "summary": "agent-safe-pipeline 是一个参考架构，用于构建 AI 代理只能提议操作但无法自行授权的安全管线。它解决 AI 代理在执行敏感操作时的权限失控风险，通过不可变意图捕获、独立的 Decionis 策略裁决（ALLOW/ESCALATE/BLOCK）、人工审批验证，以及 SafeExecutor 消费一次性意图绑定授权，确保操作在受控且可审计的流程中执行。核心亮点是策略与执行分离、单次授权机制。适用于需要严格治理的 AI 代理场景，如金融交易、系统管理或自动化工作流。",
+  "tags": [
+    "agent",
+    "ai-assistant",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-08-15T00:37:26.233512+00:00",
+  "analyzed_at": "2026-08-15T00:37:53.336576+00:00",
+  "organized_at": "2026-08-15T00:38:46.817555+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-15-017",
+  "title": "Don't classify, hallucinate",
+  "source": "hackernews-top",
+  "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+  "summary": "文章探讨了传统分类模型在开放世界任务中的局限性，提出用LLM的幻觉能力替代严格分类。核心思想是让模型生成自由文本而非固定标签，利用其生成能力处理未见类别。技术亮点在于将分类问题转化为生成问题，提升泛化性。适用于标签体系不固定、长尾分布明显的场景，如内容审核、意图识别。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-15T00:37:26.385717+00:00",
+  "analyzed_at": "2026-08-15T00:38:36.816537+00:00",
+  "organized_at": "2026-08-15T00:38:46.817555+00:00",
+  "status": "published"
+}

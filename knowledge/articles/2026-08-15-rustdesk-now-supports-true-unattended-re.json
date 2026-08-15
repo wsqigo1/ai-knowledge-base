@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-15-009",
+  "title": "RustDesk now supports true unattended remote access on Wayland",
+  "source": "hackernews-top",
+  "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+  "summary": "RustDesk 远程桌面工具现已支持 Wayland 下的真正无人值守远程访问。此前 Wayland 的安全模型限制了后台屏幕捕获和输入注入，导致无人值守连接需依赖虚拟会话或 X11。该更新通过利用 Wayland 的协议扩展（如 screencopy 和 remote-desktop）实现了原生支持，解决了 Linux 用户无法在 Wayland 环境下进行无头远程控制的痛点。核心技术亮点包括对 wlr-screencopy 和 ext-foreign-toplevel 等协议的集成，确保低延迟和安全性。适用场景包括 Linux 桌面运维、远程技术支持及个人设备管理。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-15T00:37:26.385717+00:00",
+  "analyzed_at": "2026-08-15T00:38:16.141900+00:00",
+  "organized_at": "2026-08-15T00:38:46.817555+00:00",
+  "status": "published"
+}

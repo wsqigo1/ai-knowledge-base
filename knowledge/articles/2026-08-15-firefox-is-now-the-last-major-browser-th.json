@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-15-011",
+  "title": "Firefox is now the last major browser that still supports uBlock Origin",
+  "source": "hackernews-top",
+  "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+  "summary": "Firefox 成为唯一仍支持 uBlock Origin 的主流浏览器，因 Chrome 和 Edge 迁移至 Manifest V3 扩展规范，限制了内容拦截器的能力。该事件凸显浏览器扩展生态的标准化冲突，核心在于 MV3 对 webRequest API 的替代，削弱了广告拦截效率。对 AI 工程师而言，涉及浏览器自动化、隐私保护和网页数据抓取场景，需关注扩展兼容性变化。适用场景包括隐私工具开发、浏览器扩展迁移评估及依赖内容拦截的爬虫任务。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-08-15T00:37:26.385717+00:00",
+  "analyzed_at": "2026-08-15T00:38:20.312626+00:00",
+  "organized_at": "2026-08-15T00:38:46.817555+00:00",
+  "status": "published"
+}
