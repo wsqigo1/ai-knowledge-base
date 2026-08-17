@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-17-017",
+  "title": "Does anyone run Postgres without PgBouncer?",
+  "source": "hackernews-top",
+  "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+  "summary": "这是一个关于Postgres是否必须搭配PgBouncer连接池的Hacker News讨论帖。核心问题是高并发场景下，Postgres原生连接管理是否足够，以及PgBouncer带来的额外复杂性和运维成本是否值得。技术亮点包括讨论事务级连接池、语句级连接池的取舍，以及现代Postgres版本（如14+）在连接处理上的改进。适用场景为数据库架构设计、高并发应用的后端基础设施优化，以及DevOps工程师在部署Postgres时的决策参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-08-17T00:37:24.116588+00:00",
+  "analyzed_at": "2026-08-17T00:38:51.073071+00:00",
+  "organized_at": "2026-08-17T00:38:53.212743+00:00",
+  "status": "published"
+}

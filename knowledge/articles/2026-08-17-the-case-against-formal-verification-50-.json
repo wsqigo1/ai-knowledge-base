@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-17-013",
+  "title": "The Case Against Formal Verification, 50 Years Later",
+  "source": "hackernews-top",
+  "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+  "summary": "该文回顾50年前对形式化验证的批评，探讨其在现代软件工程中的适用性。文章指出形式化验证虽能保证正确性，但成本高、难以扩展，尤其不适合快速迭代的AI系统。核心亮点是结合历史案例与当前实践，分析形式化验证在安全关键领域（如自动驾驶、医疗）的价值，同时提出轻量级替代方案（如类型系统、测试）。适用场景为需要高可靠性的系统设计决策，以及AI工程师权衡验证成本与收益时参考。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-08-17T00:37:24.116588+00:00",
+  "analyzed_at": "2026-08-17T00:38:28.802063+00:00",
+  "organized_at": "2026-08-17T00:38:53.212743+00:00",
+  "status": "published"
+}

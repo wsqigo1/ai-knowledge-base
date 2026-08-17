@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-17-004",
+  "title": "yjh051108/dsh-router-standard",
+  "source": "github-trending",
+  "url": "https://github.com/yjh051108/dsh-router-standard",
+  "summary": "dsh-router-standard 是一个面向 DeepSeek Harness 的任务感知推理模式路由器，将任务划分为 spec/mixed/react 三个行为区间，并基于相变证据实现动态路由。其核心亮点包括 persona 与首轮工具注入、agent 可见调优，以及配套的双吸引子策略论文。适用于需要精细控制 LLM 推理模式与工具调用的 agent 系统，尤其适合复杂任务分解与推理策略优化场景。",
+  "tags": [
+    "reasoning",
+    "agent",
+    "tool-use",
+    "prompt-engineering",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-17T00:37:23.942073+00:00",
+  "analyzed_at": "2026-08-17T00:38:01.777656+00:00",
+  "organized_at": "2026-08-17T00:38:53.212743+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-17-009",
+  "title": "Protobuf has LSP support. You're welcome",
+  "source": "hackernews-top",
+  "url": "https://buf.build/blog/protobuf-lsp",
+  "summary": "Protobuf 现已支持 LSP（Language Server Protocol），为开发者提供代码补全、跳转定义等 IDE 功能。该项目解决 Protobuf 文件缺乏现代编辑支持的问题，核心亮点是实现了完整的 LSP 服务器，支持跨编辑器使用。适用于使用 Protobuf 进行 API 定义和微服务开发的团队，提升开发效率。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-17T00:37:24.116588+00:00",
+  "analyzed_at": "2026-08-17T00:38:16.606861+00:00",
+  "organized_at": "2026-08-17T00:38:53.212743+00:00",
+  "status": "published"
+}

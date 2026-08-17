@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-17-010",
+  "title": "Models Are Getting Dumber on Purpose",
+  "source": "hackernews-top",
+  "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+  "summary": "这篇文章讨论了一个现象：AI模型正被有意地“变笨”，即通过限制其推理能力或输出复杂度来提升特定场景下的效率和安全性。它解决的是模型过度推理导致的高延迟、高成本以及不可预测性问题。核心技术亮点包括在模型训练或推理阶段引入约束，如简化输出格式、限制思考深度，或采用更小的模型。适用场景包括实时交互、资源受限环境以及需要高度可控输出的应用，如客服机器人或代码补全工具。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "ai-assistant"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-08-17T00:37:24.116588+00:00",
+  "analyzed_at": "2026-08-17T00:38:20.416547+00:00",
+  "organized_at": "2026-08-17T00:38:53.212743+00:00",
+  "status": "published"
+}

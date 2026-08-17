@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-17-016",
+  "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+  "source": "hackernews-top",
+  "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+  "summary": "DuckDB 引入异步 I/O 机制，解决传统同步 I/O 阻塞查询执行的问题。核心技术亮点包括：将 I/O 操作拆分为提交与等待阶段，通过线程池调度实现非阻塞执行，并利用用户态调度器减少上下文切换。该设计显著提升高并发、大数据量场景下的查询吞吐量，适用于分析型工作负载、数据管道及嵌入式数据库场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-17T00:37:24.116588+00:00",
+  "analyzed_at": "2026-08-17T00:38:46.326371+00:00",
+  "organized_at": "2026-08-17T00:38:53.212743+00:00",
+  "status": "published"
+}
