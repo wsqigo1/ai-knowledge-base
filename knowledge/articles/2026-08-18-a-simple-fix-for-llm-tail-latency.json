@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-18-015",
+  "title": "A simple fix for LLM tail latency",
+  "source": "hackernews-top",
+  "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+  "summary": "针对LLM推理中尾部延迟（tail latency）问题，提出一种简单修复方法。该问题影响用户体验和系统效率，尤其在在线服务场景。核心技术亮点是采用轻量级机制（如超时重试或动态批处理调整）来降低长尾延迟，无需复杂架构改动。适用于生产环境中的LLM API服务、实时对话系统等对延迟敏感的应用。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-18T00:36:51.881082+00:00",
+  "analyzed_at": "2026-08-18T00:38:29.327382+00:00",
+  "organized_at": "2026-08-18T00:38:37.754708+00:00",
+  "status": "published"
+}
