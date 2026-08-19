@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-19-007",
+  "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+  "source": "hackernews-top",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "summary": "Turbovec 是 Google TurboQuant 技术在 Rust 中的向量搜索实现，旨在解决高维向量检索中的内存占用和速度瓶颈。其核心亮点是采用量化技术压缩向量表示，同时保持搜索精度，并利用 Rust 的高性能特性提升索引构建和查询吞吐。适用于大规模 embedding 检索场景，如 RAG、推荐系统和相似性搜索。",
+  "tags": [
+    "vector-database",
+    "rag",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-19T00:37:19.919035+00:00",
+  "analyzed_at": "2026-08-19T00:38:27.944138+00:00",
+  "organized_at": "2026-08-19T00:39:05.864737+00:00",
+  "status": "published"
+}

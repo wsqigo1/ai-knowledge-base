@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-19-012",
+  "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+  "source": "hackernews-top",
+  "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+  "summary": "基于O'Reilly书籍的Python Polars速查表，提供高效DataFrame操作指南。Polars解决Pandas在大数据场景下的性能瓶颈，利用Rust底层和惰性求值实现并行处理。核心亮点包括表达式API、惰性/急切执行模式、流式处理及与NumPy/PyArrow互操作。适用于数据清洗、特征工程及大规模数据分析，尤其适合需要高性能数据处理的AI工程师。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-19T00:37:19.919035+00:00",
+  "analyzed_at": "2026-08-19T00:39:00.381373+00:00",
+  "organized_at": "2026-08-19T00:39:05.864737+00:00",
+  "status": "published"
+}
