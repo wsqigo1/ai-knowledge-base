@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-20-012",
+  "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+  "source": "hackernews-top",
+  "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+  "summary": "Google 将部分源代码的 Git tags 替换为通过 Google Drive 获取，改变了代码版本管理方式。该举措旨在解决 Git tags 在大型仓库中的性能问题或访问控制需求，核心亮点是利用 Drive 的存储和分享能力替代传统 tag 分发。适用于需要管理大规模代码库或受限访问的开发者场景，但可能影响自动化流程的兼容性。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-08-20T00:37:03.668027+00:00",
+  "analyzed_at": "2026-08-20T00:38:03.802694+00:00",
+  "organized_at": "2026-08-20T00:38:46.493218+00:00",
+  "status": "published"
+}

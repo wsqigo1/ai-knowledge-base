@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-20-022",
+  "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+  "source": "hackernews-top",
+  "url": "https://theremin.bizibah.com/",
+  "summary": "Air Theremin 是一个基于浏览器的特雷门琴应用，用户通过挥手对着摄像头即可演奏音乐。它利用计算机视觉技术（如手部追踪）捕捉用户动作，并将其映射为音高和音量，无需任何硬件设备。该项目解决了传统特雷门琴需要物理接触或专用设备的问题，提供了一种新颖的人机交互方式。核心技术亮点包括实时视频流处理、手势识别算法以及 Web Audio API 合成音频。适用场景包括音乐教育、创意娱乐和交互式艺术展示，展示了浏览器端 AI 视觉与音频结合的潜力。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-20T00:37:03.668027+00:00",
+  "analyzed_at": "2026-08-20T00:38:39.261870+00:00",
+  "organized_at": "2026-08-20T00:38:46.493218+00:00",
+  "status": "published"
+}

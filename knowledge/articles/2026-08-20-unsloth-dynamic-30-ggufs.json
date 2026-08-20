@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-20-013",
+  "title": "Unsloth Dynamic 3.0 GGUFs",
+  "source": "hackernews-top",
+  "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+  "summary": "Unsloth Dynamic 3.0 GGUFs 是 Unsloth 推出的动态量化格式更新，旨在解决 GGUF 量化中固定精度导致的性能损失和兼容性问题。其核心技术亮点是动态调整量化精度，根据层敏感度分配不同比特数，从而在保持模型质量的同时减小文件体积。该格式适用于本地部署大型语言模型，尤其适合资源受限环境下的推理和微调。HN 社区热度较高，反映了开发者对高效模型压缩方案的关注。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-20T00:37:03.668027+00:00",
+  "analyzed_at": "2026-08-20T00:38:08.777576+00:00",
+  "organized_at": "2026-08-20T00:38:46.493218+00:00",
+  "status": "published"
+}

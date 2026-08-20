@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-20-017",
+  "title": "PostgreSQL for Everything",
+  "source": "hackernews-top",
+  "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+  "summary": "PostgreSQL for Everything 是一篇倡导将 PostgreSQL 作为通用数据存储层的技术文章，解决多系统数据孤岛和架构复杂性问题。其核心亮点是展示 PostgreSQL 通过扩展（如 JSONB、PostGIS、pgvector）支持关系型、文档、地理空间和向量数据，从而替代多种专用数据库。适用场景包括简化微服务架构、统一数据管理、以及需要向量检索的 AI 应用。文章强调利用成熟生态降低运维成本，提升开发效率。",
+  "tags": [
+    "vector-database",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-20T00:37:03.668027+00:00",
+  "analyzed_at": "2026-08-20T00:38:26.658294+00:00",
+  "organized_at": "2026-08-20T00:38:46.493218+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-20-014",
+  "title": "Geolocating a random island using geometry and CUDA programming",
+  "source": "hackernews-top",
+  "url": "https://yassa9.github.io/osint/gralhix-004/",
+  "summary": "这是一篇结合几何学与CUDA编程解决随机岛屿地理定位问题的技术文章。它利用GPU并行计算加速几何算法，通过分析岛屿形状、海岸线等特征与全球地理数据匹配，实现定位。核心技术亮点在于将几何算法映射到CUDA架构，优化内存访问和并行度，显著提升计算效率。适用场景包括地理信息检索、图像识别辅助定位、以及需要大规模并行几何计算的领域。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-20T00:37:03.668027+00:00",
+  "analyzed_at": "2026-08-20T00:38:18.986913+00:00",
+  "organized_at": "2026-08-20T00:38:46.493218+00:00",
+  "status": "published"
+}
