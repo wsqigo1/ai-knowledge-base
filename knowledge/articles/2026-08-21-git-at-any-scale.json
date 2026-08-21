@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-21-015",
+  "title": "Git at any scale",
+  "source": "hackernews-top",
+  "url": "https://cursor.com/blog/git-at-any-scale",
+  "summary": "Git at any scale 是一篇关于 Git 版本控制在大规模代码库和团队协作中扩展性挑战的技术文章。它解决 Git 在处理海量历史、大型二进制文件或高并发操作时性能下降的问题。核心技术亮点包括浅克隆、稀疏检出、部分克隆等 Git 内置机制，以及通过服务器端优化和客户端缓存策略来提升效率。适用场景包括大型 monorepo、持续集成流水线以及分布式团队协作。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:41:18.409241+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

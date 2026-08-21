@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-21-014",
+  "title": "DiffusionGemma Technical Report",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2608.00146",
+  "summary": "DiffusionGemma是Google发布的技术报告，提出将扩散模型应用于语言生成，构建基于Gemma的diffusion-based LLM。它解决自回归模型生成速度慢、缺乏灵活控制的问题，通过扩散过程实现并行生成和更细粒度的文本编辑。核心技术包括连续时间扩散框架、掩码生成策略和高效采样算法，在保持生成质量的同时提升推理效率。适用于需要快速文本生成、可控编辑和低延迟交互的场景，如实时助手和代码补全。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools",
+    "multimodal"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:41:16.018910+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

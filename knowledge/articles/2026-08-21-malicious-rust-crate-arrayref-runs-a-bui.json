@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-21-007",
+  "title": "Malicious Rust crate Arrayref runs a build-time payload",
+  "source": "hackernews-top",
+  "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+  "summary": "该条目报道了一个名为Arrayref的恶意Rust crate，其在构建阶段执行恶意负载。该crate通过伪装成合法的内存操作工具，在编译时运行恶意代码，对开发者构成供应链攻击风险。核心亮点在于揭示了Rust生态系统中构建脚本（build.rs）的安全漏洞，以及crate发布审核机制的不足。适用场景包括软件供应链安全研究、开发者安全意识培训以及Rust项目依赖审查。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:40:53.717402+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

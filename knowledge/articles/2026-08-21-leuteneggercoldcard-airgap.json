@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-21-002",
+  "title": "Leutenegger/coldcard-airgap",
+  "source": "github-trending",
+  "url": "https://github.com/Leutenegger/coldcard-airgap",
+  "summary": "Coldcard-airgap 是面向 Coldcard 硬件钱包用户的离线工具集，解决加密货币交易签名过程中的私钥暴露风险。核心功能包括 PSBT 检查、BIP39 骰子熵生成、Seed XOR 分割/合并、BBQr 编解码、输出描述符解析及固件验证指导，全部在离线环境运行。技术亮点在于纯 Python 实现、与官方固件互补、支持多种安全密钥管理场景。适用于需要高安全性密钥管理的加密货币用户、安全研究人员及离线交易签名流程。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-21T00:39:25.658489+00:00",
+  "analyzed_at": "2026-08-21T00:39:52.642669+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

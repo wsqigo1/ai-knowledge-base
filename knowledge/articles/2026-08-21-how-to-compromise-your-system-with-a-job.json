@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-21-011",
+  "title": "How to compromise your system with a job interview",
+  "source": "hackernews-top",
+  "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+  "summary": "该文章揭示通过伪装成求职面试的恶意攻击手段，利用LLM驱动的代码生成或工具调用功能诱导开发者执行危险命令，导致系统被攻陷。它解决的是AI辅助编程工具被滥用的安全问题，核心亮点在于展示攻击链：面试问题中嵌入恶意指令，触发模型生成漏洞代码或执行系统操作。适用于安全研究、AI红队测试及开发者工具安全设计场景。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "developer-tools",
+    "security",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:41:07.135472+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

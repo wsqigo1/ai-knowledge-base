@@ -1,7 +1,246 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1626,
+  "total_count": 1642,
   "entries": [
+    {
+      "id": "kb-2026-08-21-001",
+      "title": "CopilotKit/OpenBot",
+      "source": "github-trending",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "file": "2026-08-21-copilotkitopenbot.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "browser-automation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 8.1,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-002",
+      "title": "Leutenegger/coldcard-airgap",
+      "source": "github-trending",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "file": "2026-08-21-leuteneggercoldcard-airgap.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-003",
+      "title": "jeremy-prt/bloub",
+      "source": "github-trending",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "file": "2026-08-21-jeremy-prtbloub.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-004",
+      "title": "iAmCorey/Wake",
+      "source": "github-trending",
+      "url": "https://github.com/iAmCorey/Wake",
+      "file": "2026-08-21-iamcoreywake.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-005",
+      "title": "MirroS-Lab/HarnessEval-W",
+      "source": "github-trending",
+      "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+      "file": "2026-08-21-mirros-labharnesseval-w.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "multimodal",
+        "evaluation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-006",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "source": "hackernews-top",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "file": "2026-08-21-aliexpress-runs-silent-webaudio-fingerpr.json",
+      "tags": [
+        "privacy",
+        "web-audio",
+        "fingerprinting",
+        "security",
+        "tracking"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-007",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "source": "hackernews-top",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "file": "2026-08-21-malicious-rust-crate-arrayref-runs-a-bui.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-008",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "source": "hackernews-top",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "file": "2026-08-21-show-hn-huzzah-a-novel-approach-to-codin.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-009",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "source": "hackernews-top",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "file": "2026-08-21-show-hn-i-trained-a-125m-model-to-autoco.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-010",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "source": "hackernews-top",
+      "url": "https://github.com/zachahn/vomit",
+      "file": "2026-08-21-vomit-clean-up-claude-5s-token-output-wi.json",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-011",
+      "title": "How to compromise your system with a job interview",
+      "source": "hackernews-top",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "file": "2026-08-21-how-to-compromise-your-system-with-a-job.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "security",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-012",
+      "title": "Anti-AI fonts are useless and harmful",
+      "source": "hackernews-top",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "file": "2026-08-21-anti-ai-fonts-are-useless-and-harmful.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-013",
+      "title": "Mojo is now open source",
+      "source": "hackernews-top",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "file": "2026-08-21-mojo-is-now-open-source.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-014",
+      "title": "DiffusionGemma Technical Report",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "file": "2026-08-21-diffusiongemma-technical-report.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-015",
+      "title": "Git at any scale",
+      "source": "hackernews-top",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "file": "2026-08-21-git-at-any-scale.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
+    {
+      "id": "kb-2026-08-21-016",
+      "title": "Hacking with Claude on a $27 smart watch",
+      "source": "hackernews-top",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "file": "2026-08-21-hacking-with-claude-on-a-27-smart-watch.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-08-21T00:41:21.293935+00:00"
+    },
     {
       "id": "kb-2026-08-20-001",
       "title": "cinderline/northcinder",
@@ -24176,5 +24415,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-20T00:38:46.697268+00:00"
+  "last_updated": "2026-08-21T00:41:21.447836+00:00"
 }

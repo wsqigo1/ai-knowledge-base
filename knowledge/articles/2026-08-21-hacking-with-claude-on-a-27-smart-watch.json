@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-21-016",
+  "title": "Hacking with Claude on a $27 smart watch",
+  "source": "hackernews-top",
+  "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+  "summary": "该文章展示在27美元智能手表上运行Claude的实验，将LLM部署到极低成本的嵌入式设备。核心是解决资源受限环境下调用云端AI的问题，通过手表作为交互终端，利用蓝牙或WiFi连接API，实现语音或按键输入触发Claude响应。技术亮点在于硬件适配、轻量级通信协议和功耗优化，而非模型本身。适用场景包括极简AI硬件原型、低成本物联网交互设备、教育演示等，对探索边缘AI交互模式有启发。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:41:21.231695+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

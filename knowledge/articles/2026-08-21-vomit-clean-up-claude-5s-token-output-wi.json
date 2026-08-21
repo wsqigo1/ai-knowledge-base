@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-21-010",
+  "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "source": "hackernews-top",
+  "url": "https://github.com/zachahn/vomit",
+  "summary": "Vomit 是一个利用独立 LLM 清理 Claude 5 输出内容的工具，解决大模型输出冗长、噪声多的问题。其核心技术是使用另一个 LLM 对原始输出进行二次处理，提取关键信息或重写为简洁格式。适用于需要精简 AI 回复的场景，如日志分析、报告生成等。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:41:04.695092+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}

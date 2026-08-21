@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-21-006",
+  "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+  "source": "hackernews-top",
+  "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+  "summary": "AliExpress 被发现使用无声 WebAudio 指纹识别技术，通过音频处理 API 提取设备硬件特征，并利用蓝牙多点连接状态（如耳机连接）增强追踪精度，导致用户隐私泄露。该技术解决了传统 cookie 追踪被禁用后的替代方案问题，核心亮点是利用 WebAudio 的音频信号处理差异和蓝牙状态作为独特标识，无需用户交互。适用于浏览器指纹识别、广告追踪和反欺诈场景，但对用户隐私构成严重威胁。",
+  "tags": [
+    "privacy",
+    "web-audio",
+    "fingerprinting",
+    "security",
+    "tracking"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-21T00:39:25.867777+00:00",
+  "analyzed_at": "2026-08-21T00:40:43.313706+00:00",
+  "organized_at": "2026-08-21T00:41:21.293935+00:00",
+  "status": "published"
+}
