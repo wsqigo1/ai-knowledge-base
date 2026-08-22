@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-22-013",
+  "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+  "source": "hackernews-top",
+  "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+  "summary": "本文介绍如何构建一个几乎完全自托管、沙箱化的智能体软件工厂。它解决的是在本地环境中安全运行AI代理以自动化软件开发流程的问题。核心技术亮点包括使用沙箱隔离代理执行环境、自托管模型与工具链，以及编排多代理协作完成代码生成与测试。适用场景为需要隐私保护或离线环境的软件研发团队，以及希望深度定制AI开发流程的工程师。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "code-generation",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-08-22T00:36:57.374043+00:00",
+  "analyzed_at": "2026-08-22T00:38:22.146228+00:00",
+  "organized_at": "2026-08-22T00:38:33.605372+00:00",
+  "status": "published"
+}

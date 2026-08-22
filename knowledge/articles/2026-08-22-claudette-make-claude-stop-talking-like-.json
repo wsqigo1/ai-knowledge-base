@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-22-011",
+  "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+  "source": "hackernews-top",
+  "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+  "summary": "Claudette 是一个开源库，旨在通过提供更简洁的 API 和结构化输出控制，解决 Claude 模型默认回复风格过于冗长、类似 BuzzFeed 文章的问题。其核心技术亮点包括：支持函数调用、类型化输出（Pydantic）、多模态输入，以及通过系统提示和采样参数精细调控回复风格。适用于需要将 Claude 集成到生产环境、追求高效简洁交互的开发者，尤其适合构建 AI 助手或自动化工作流。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "prompt-engineering",
+    "ai-assistant",
+    "tool-use"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-08-22T00:36:57.374043+00:00",
+  "analyzed_at": "2026-08-22T00:38:12.408085+00:00",
+  "organized_at": "2026-08-22T00:38:33.605372+00:00",
+  "status": "published"
+}

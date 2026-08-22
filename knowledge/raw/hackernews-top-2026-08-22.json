@@ -1,0 +1,392 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-08-22T00:36:58.891979+00:00",
+  "date": "2026-08-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "Kobo can run apps now",
+      "source": "hackernews-top",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "hn_url": "https://news.ycombinator.com/item?id=49390427",
+      "description": "",
+      "hn_score": 402,
+      "comments": 138,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "Kobo电子阅读器现在可以运行第三方应用，通过自定义固件或侧载方式实现。该技术解决了封闭硬件生态的限制，核心亮点是利用Linux底层开放接口和社区驱动开发，使设备支持更多功能。适用场景包括扩展阅读器用途、开发轻量级应用或进行嵌入式实验。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-08-22T00:37:48.055567+00:00"
+    },
+    {
+      "title": "Felony Bench",
+      "source": "hackernews-top",
+      "url": "https://www.felonybench.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49389430",
+      "description": "",
+      "hn_score": 490,
+      "comments": 221,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "Felony Bench 是一个基准测试项目，用于评估 AI 模型在复杂、恶意或危险任务上的表现。它解决现有基准测试过于简单、无法反映真实安全风险的问题。核心技术亮点是构建高难度、多领域的对抗性测试集，涵盖代码生成、推理等场景。适用场景包括 AI 安全研究、模型红队测试和负责任 AI 开发。",
+      "tags": [
+        "benchmark",
+        "code-generation",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-22T00:37:50.006560+00:00"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49386895",
+      "description": "",
+      "hn_score": 516,
+      "comments": 704,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一则关于美国边境公民删除手机数据被控重罪的新闻，涉及数字隐私与法律边界。核心问题是公民在边境检查时是否有权删除个人数据，以及此举的法律后果。技术亮点在于引发对设备数据取证、加密和隐私保护技术的讨论，如端到端加密、安全删除算法等。适用场景包括法律科技、隐私保护工具开发及公民权利教育，对AI工程师而言，提示了在数据合规和隐私设计中的责任。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-22T00:37:52.738038+00:00"
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "source": "hackernews-top",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "hn_url": "https://news.ycombinator.com/item?id=49392200",
+      "description": "",
+      "hn_score": 137,
+      "comments": 44,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "该条目报道科学家发布了迄今最大的宇宙2D地图，基于暗能量光谱仪（DESI）等巡天数据，覆盖数百万星系，用于研究宇宙膨胀、暗能量分布及大尺度结构。核心技术亮点在于大规模光谱数据处理与天体分类，涉及高维数据可视化与统计分析。适用场景为宇宙学研究和天文数据公开平台，对AI工程师的实用价值有限，但展示了大数据处理与机器学习在天文领域的应用潜力。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-08-22T00:37:55.249941+00:00"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "source": "hackernews-top",
+      "url": "https://kagi.com/changelog#11296",
+      "hn_url": "https://news.ycombinator.com/item?id=49388154",
+      "description": "",
+      "hn_score": 986,
+      "comments": 333,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "Kagi 搜索引擎新增设置项，允许用户从搜索结果中移除付费墙链接。该功能解决用户频繁遭遇付费内容拦截、影响信息获取效率的问题。核心亮点是提供用户可控的过滤机制，通过简单开关即可生效，无需复杂配置。适用于需要快速获取免费公开信息的日常搜索场景，尤其对开发者、研究人员等高频搜索用户有实用价值。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-08-22T00:37:57.683446+00:00"
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "hn_url": "https://news.ycombinator.com/item?id=49357530",
+      "description": "",
+      "hn_score": 222,
+      "comments": 282,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一项关于AI辅助学习效果的研究，发现使用AI提高作业分数后，学生的考试成绩反而下降。研究指出，AI工具在作业中提供即时帮助，可能削弱了学生的独立学习和记忆巩固过程，导致知识掌握不牢。核心技术亮点在于对比分析AI介入前后作业与考试成绩的关联性，揭示AI辅助学习的潜在风险。适用场景包括教育科技、学习工具设计及AI教学评估，提醒开发者需平衡辅助与自主学习。",
+      "tags": [
+        "ai-assistant",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-08-22T00:38:00.155687+00:00"
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "source": "hackernews-top",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "hn_url": "https://news.ycombinator.com/item?id=49387570",
+      "description": "",
+      "hn_score": 422,
+      "comments": 46,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一篇关于作者意外记录了大量打往军事基地的电话日志的个人经历分享，属于技术事故或隐私泄露案例。它解决的问题是揭示日志记录系统在数据过滤和隐私保护上的缺陷。核心技术亮点在于对日志系统配置失误的复盘，以及数据误收集的后果。适用场景为系统日志管理、隐私合规和运维安全讨论。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-22T00:38:02.316059+00:00"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "source": "hackernews-top",
+      "url": "https://ozbrain.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49394827",
+      "description": "",
+      "hn_score": 20,
+      "comments": 8,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "OzBrain 是一个为 AI 代理和团队设计的共享知识系统，旨在解决多代理协作中知识孤岛和上下文不一致的问题。其核心技术亮点是提供一个统一的知识存储和检索层，支持代理间实时共享和更新信息，可能结合了向量数据库和 RAG 机制。适用于需要多代理协同工作的场景，如软件开发、研究分析等。该项目处于早期阶段，HN 社区评分 20，热度一般。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "knowledge-management",
+        "rag",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-08-22T00:38:04.734779+00:00"
+    },
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "source": "hackernews-top",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "hn_url": "https://news.ycombinator.com/item?id=49386163",
+      "description": "",
+      "hn_score": 450,
+      "comments": 143,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "DeepSeek-v4-flash-vision-exp 是 DeepSeek 发布的实验性视觉语言模型，结合了 v4 系列的高效推理与 flash 快速响应特性，并新增视觉理解能力。它解决多模态场景下对实时、低成本视觉推理的需求，核心技术亮点包括优化的视觉编码器、稀疏注意力机制和蒸馏训练策略，在图像描述、文档理解等任务上表现优异。适用场景包括移动端视觉助手、实时图像分析、多模态 Agent 交互等。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-22T00:38:07.303104+00:00"
+    },
+    {
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "source": "hackernews-top",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49389441",
+      "description": "",
+      "hn_score": 115,
+      "comments": 27,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一篇关于在极低成本（0.60英镑）的微控制器芯片上运行Photoshop的实验性文章。它探讨了通过将图像处理任务分解并利用硬件加速或简化算法，在资源受限设备上实现基础图像编辑功能的可能性。核心技术亮点包括对计算资源的极致优化和任务降级处理。适用场景为嵌入式系统、物联网设备上的轻量级图像处理，以及探索低成本硬件在创意工具中的应用边界。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-22T00:38:09.833295+00:00"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "source": "hackernews-top",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49388752",
+      "description": "",
+      "hn_score": 187,
+      "comments": 133,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "Claudette 是一个开源库，旨在通过提供更简洁的 API 和结构化输出控制，解决 Claude 模型默认回复风格过于冗长、类似 BuzzFeed 文章的问题。其核心技术亮点包括：支持函数调用、类型化输出（Pydantic）、多模态输入，以及通过系统提示和采样参数精细调控回复风格。适用于需要将 Claude 集成到生产环境、追求高效简洁交互的开发者，尤其适合构建 AI 助手或自动化工作流。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "prompt-engineering",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-08-22T00:38:12.408085+00:00"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "source": "hackernews-top",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "hn_url": "https://news.ycombinator.com/item?id=49386699",
+      "description": "",
+      "hn_score": 254,
+      "comments": 263,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "文章讨论AI技术快速迭代导致开发者对AI能力逐渐‘失明’（AI-blind），即难以区分真实进展与炒作，或忽视潜在风险。它解决的是技术认知偏差问题，核心亮点在于提出批判性思维框架，帮助工程师理性评估AI工具。适用场景包括技术选型、项目评估和日常开发中的AI应用决策。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-22T00:38:14.590054+00:00"
+    },
+    {
+      "title": "The coolest anti-surveillance tools at Defcon [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+      "hn_url": "https://news.ycombinator.com/item?id=49346444",
+      "description": "",
+      "hn_score": 147,
+      "comments": 8,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "Defcon大会展示了多款反监控工具，旨在对抗日益增长的 surveillance 技术。这些工具包括硬件和软件方案，如检测隐藏摄像头的设备、匿名通信工具、以及防止位置追踪的装置。核心技术亮点在于利用信号检测、加密通信和物理隔离等手段，提供用户隐私保护。适用场景为高隐私需求环境，如记者、活动家及普通用户在日常中防范监控。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-22T00:38:17.041854+00:00"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "source": "hackernews-top",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49383026",
+      "description": "",
+      "hn_score": 517,
+      "comments": 833,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一篇呼吁在AI公司大规模扫描图书导致实体书被毁前，抢救性扫描稀有书籍的文章。它指出AI训练数据需求正加速摧毁实体书库存，尤其是稀有版本，造成文化和技术遗产的不可逆损失。核心亮点是提出紧急行动倡议，结合社区协作与数字化技术，建立稀有书籍的开放数据集。适用场景包括文化遗产保护、AI训练数据伦理讨论，以及开源数据集的构建。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "large-language-model"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-22T00:38:19.660549+00:00"
+    },
+    {
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "source": "hackernews-top",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "hn_url": "https://news.ycombinator.com/item?id=49390463",
+      "description": "",
+      "hn_score": 77,
+      "comments": 48,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "本文介绍如何构建一个几乎完全自托管、沙箱化的智能体软件工厂。它解决的是在本地环境中安全运行AI代理以自动化软件开发流程的问题。核心技术亮点包括使用沙箱隔离代理执行环境、自托管模型与工具链，以及编排多代理协作完成代码生成与测试。适用场景为需要隐私保护或离线环境的软件研发团队，以及希望深度定制AI开发流程的工程师。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-08-22T00:38:22.146228+00:00"
+    },
+    {
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "source": "hackernews-top",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "hn_url": "https://news.ycombinator.com/item?id=49387525",
+      "description": "",
+      "hn_score": 200,
+      "comments": 144,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一篇评论文章，探讨当代科技生活与J.G. Ballard和William Gibson科幻预言的契合度，聚焦于数字异化、虚拟现实和监控资本主义。文章非技术性，而是文化批判视角，分析科技如何重塑人类体验。核心亮点在于将文学理论映射到现实技术现象，如社交媒体、增强现实和AI代理。适用场景为科技人文讨论、产品设计反思或技术趋势的文化解读，对AI工程师的实用价值有限，但提供跨学科洞察。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-08-22T00:38:24.830947+00:00"
+    },
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "source": "hackernews-top",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "hn_url": "https://news.ycombinator.com/item?id=49384896",
+      "description": "",
+      "hn_score": 248,
+      "comments": 135,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "该条目是关于经典游戏《席德·梅尔的海盗》的遗失宝藏，属于游戏文化或历史回顾内容，不涉及AI/LLM技术。它可能探讨游戏中的隐藏内容或开发轶事，但无技术实现细节。适用场景为游戏爱好者或历史研究，对AI工程师无直接价值。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-22T00:38:26.926716+00:00"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "source": "hackernews-top",
+      "url": "https://htmlcat.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49385860",
+      "description": "",
+      "hn_score": 208,
+      "comments": 54,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "这是一篇关于小型原生Web开发技巧的合集文章，旨在帮助开发者记住并应用那些容易被忽略但实用的HTML、CSS和JavaScript原生功能。文章解决的是开发者过度依赖框架而忽视原生API效率的问题，核心亮点包括使用原生表单验证、CSS容器查询、Popover API、Dialog元素等现代Web特性，以简化代码并提升性能。适用场景为前端开发、Web性能优化及构建轻量级交互界面，尤其适合追求简洁高效代码的开发者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-22T00:38:29.299190+00:00"
+    },
+    {
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "source": "hackernews-top",
+      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+      "hn_url": "https://news.ycombinator.com/item?id=49387497",
+      "description": "",
+      "hn_score": 628,
+      "comments": 362,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "该新闻涉及美国俄亥俄州一名男子因破坏Flock摄像头而被起诉，但大陪审团拒绝起诉。Flock摄像头是AI驱动的自动车牌识别系统，用于公共安全监控。此事件引发对AI监控技术合法性、隐私权及社区接受度的讨论。核心亮点在于司法系统对AI监控设备破坏行为的裁决，反映技术部署中的法律与社会挑战。适用场景包括AI伦理、隐私政策制定及公共安全技术评估。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 3.6,
+      "analyzed_at": "2026-08-22T00:38:31.743512+00:00"
+    },
+    {
+      "title": "How Thailand Resisted Colonization",
+      "source": "hackernews-top",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "hn_url": "https://news.ycombinator.com/item?id=49392099",
+      "description": "",
+      "hn_score": 17,
+      "comments": 1,
+      "collected_at": "2026-08-22T00:36:57.374043+00:00",
+      "published_at": "2026-08-22T00:36:57.374043+00:00",
+      "summary": "该条目讨论泰国如何避免被殖民的历史分析，属于历史政治话题，不涉及AI或LLM技术。内容聚焦于地缘政治、外交策略和现代化改革，而非技术解决方案。对于AI工程师而言，无直接实用价值，仅可能作为背景知识参考。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-22T00:38:33.569195+00:00"
+    }
+  ]
+}

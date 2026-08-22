@@ -1,0 +1,573 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-22T00:36:58.891488+00:00",
+  "date": "2026-08-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "s1dashu/ip-as-logo-skill",
+      "source": "github-trending",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "stars": 3487,
+      "language": null,
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-20T11:00:27Z",
+      "summary": "ip-as-logo-skill 是一个紧凑的 Agent Skill，用于生成高度简化、圆角、微妙新拟物风格的 IP 吉祥物 Logo。它解决了 AI 图像生成中 Logo 设计风格不统一、细节冗余的问题，通过预设的提示词模板和风格约束，使 Codex 等 Agent 能快速产出符合品牌调性的吉祥物。核心技术亮点是封装了风格化提示词和参数化设计规则，降低了对图像生成模型的精细控制门槛。适用于需要批量生成品牌吉祥物、快速原型设计或集成到 AI 设计工作流中的场景。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "prompt-engineering",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-22T00:37:01.862241+00:00"
+    },
+    {
+      "title": "yetone/cumora",
+      "source": "github-trending",
+      "url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "stars": 2858,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-21T09:52:33Z",
+      "summary": "cumora 是一个跨平台团队聊天工具，将 AI 代理作为一等公民队友，支持云端或自带 Claude Code / Codex 等代理大脑。它解决的是多代理协作场景中缺乏统一交互界面的问题，核心亮点在于原生集成代理身份、支持多种代理后端，并提供团队协作所需的消息与状态同步。适用于需要人类与多个 AI 代理协同工作的开发团队或研究小组，尤其适合依赖 Claude Code、Codex 等工具进行代码生成和任务自动化的场景。",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.9,
+      "analyzed_at": "2026-08-22T00:37:04.647571+00:00"
+    },
+    {
+      "title": "CopilotKit/OpenBot",
+      "source": "github-trending",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 2120,
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-22T00:36:18Z",
+      "summary": "OpenBot 是 CopilotKit 推出的开源 AI 同事框架，为每个 AI agent 分配独立的浏览器、文件和工具环境，所有行动在执行前决策、执行后记录，支持 AG-UI 协议。它解决多 agent 协作中环境隔离、行为可审计和治理问题，核心技术亮点包括完整的行动日志、决策前置机制和 AG-UI 兼容性。适用于需要可追溯、可控的浏览器自动化、多 agent 工作流和 AI 助手场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-08-22T00:37:07.175253+00:00"
+    },
+    {
+      "title": "cinderline/northcinder",
+      "source": "github-trending",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "stars": 1203,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-19T06:08:22Z",
+      "summary": "Northcinder 是一个买家主导、广告中立的购物代理 MCP 软件，解决传统购物推荐中广告偏见和信任缺失问题。其核心技术亮点包括确定性排序算法、签名购买授权机制（signed purchase mandates）以及本地审计日志，确保交易透明可追溯。采用 local-first 架构，支持 human-in-the-loop 交互，适用于需要高信任度、可审计的自动化购物场景，如企业采购或个人代理购物。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-08-22T00:37:09.380919+00:00"
+    },
+    {
+      "title": "wang2122/sprix-sage-router",
+      "source": "github-trending",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "stars": 1009,
+      "language": "Python",
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems",
+        "python",
+        "sprix-ai",
+        "task-scheduling"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-21T08:45:27Z",
+      "summary": "Sprix Sage Router 是一个面向 A2A 代理网络的状态感知路由库，解决多代理协作中任务分发与上下文传递的低效问题。其核心亮点是提供 SELF、COLLABORATE、HANDOFF 三种路由模式，根据代理状态动态选择执行、协作或交接策略，提升复杂任务的处理灵活性与资源利用率。适用于需要动态编排多个 AI 代理的自动化工作流、企业级 agent 平台及研究原型，尤其适合处理跨部门或跨系统的协作场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-22T00:37:11.856325+00:00"
+    },
+    {
+      "title": "Leutenegger/watermarks-remover",
+      "source": "github-trending",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "stars": 929,
+      "language": "Python",
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-desktop",
+        "codex-plugin",
+        "codex-skill",
+        "codex-skills",
+        "grok",
+        "grok-45",
+        "grok-ai",
+        "grok-build",
+        "grok-cli",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarks"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-19T15:23:40Z",
+      "summary": "watermarks-remover 是一个 Python 工具，用于移除多种 AI 生成内容的水印痕迹，包括 Unicode 文本清洗、统计重写技术，以及从 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 文件中剥离 C2PA 和元数据。它解决 AI 内容溯源标识的去除问题，核心技术亮点是支持多格式文件处理和文本级水印消除，适用于需要匿名化或清理 AI 生成内容的场景，如隐私保护、内容再分发或测试。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:14.017205+00:00"
+    },
+    {
+      "title": "browser-use/macos-harness",
+      "source": "github-trending",
+      "url": "https://github.com/browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "stars": 686,
+      "language": "Python",
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use",
+        "macos",
+        "python"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-17T16:48:19Z",
+      "summary": "macos-harness 是一个极简的 Python 工具，通过 accessibility 和 CDP 协议赋予 LLM 对 Mac 的完整控制权，解决 AI 代理在桌面环境中的操作难题。其核心亮点是轻量级架构，无需复杂配置即可实现计算机使用（computer-use）自动化。适用于自动化测试、桌面任务执行和 AI 助手开发等场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-08-22T00:37:16.001966+00:00"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip",
+      "source": "github-trending",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "stars": 668,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-18T17:10:33Z",
+      "summary": "这是一个FPGA上的推理芯片设计项目，实现了Qwen2.5-0.5B模型的一个transformer decoder层，RTL代码与golden model逐位精确匹配。实测速度0.56 tok/s，相比纯软件提升140倍，并提供完整验证证据链。核心亮点是硬件级LLM推理验证，解决AI芯片设计中的精度与性能平衡问题。适用于边缘计算、低功耗推理场景，以及芯片设计教育研究。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:18.266028+00:00"
+    },
+    {
+      "title": "Leutenegger/coldcard-airgap",
+      "source": "github-trending",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "stars": 608,
+      "language": "Python",
+      "topics": [
+        "airgap",
+        "airgap-devkit",
+        "airgap-download",
+        "airgap-setup",
+        "airgap-tutorial",
+        "bitcoin",
+        "bitcoin-wallet",
+        "coldcard",
+        "coldcard-mk2",
+        "coldcard-mk4",
+        "cryptography",
+        "cryptography-algorithms",
+        "cryptography-tools",
+        "ledger",
+        "ledger-cli",
+        "ledger-wallet",
+        "metamask",
+        "metamask-desktop"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-20T23:24:07Z",
+      "summary": "Coldcard-airgap 是面向 Coldcard 硬件钱包用户的离线工具集，解决冷钱包交易签名中的安全隔离问题。核心功能包括 PSBT 检查、BIP39/骰子熵生成、Seed XOR 拆分/合并、BBQr 编解码、输出描述符解析及固件验证指导。技术亮点在于纯 Python 实现，支持完全离线操作，增强硬件钱包使用的安全性与透明度。适用于加密货币持有者、安全研究者及自托管用户，在无网络环境下管理密钥和交易。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-22T00:37:20.500929+00:00"
+    },
+    {
+      "title": "missuo/herdrm",
+      "source": "github-trending",
+      "url": "https://github.com/missuo/herdrm",
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "stars": 592,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-21T21:45:44Z",
+      "summary": "missuo/herdrm 是一个原生 macOS 控制台应用，为 herdr 提供跨设备的编码代理（coding agents）及其实时终端管理界面。它解决了开发者需要同时监控和交互多个 AI 编码代理终端的问题，通过原生 Swift 实现高性能的终端渲染和跨设备同步。核心技术亮点包括原生 macOS 集成、实时终端流传输和多代理管理。适用场景包括本地开发、远程编码协作以及多代理工作流监控。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multi-agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:23.103274+00:00"
+    },
+    {
+      "title": "Spielewoy/autoprompt-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "stars": 590,
+      "language": "JavaScript",
+      "topics": [
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-workflows",
+        "ai-agents",
+        "ai-coding",
+        "automated-testing",
+        "autonomous-agents",
+        "claude-code",
+        "cli",
+        "code-review",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "github-copilot",
+        "multi-agent-systems",
+        "opencode",
+        "prompt-engineering",
+        "subagents",
+        "test-driven-development",
+        "workflow-automation"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-21T16:35:53Z",
+      "summary": "Autoprompt 是一个面向编码代理的 skill，通过优化提示词和代理工作流，将 agentic 编码任务的失败率降低 45%。它解决了 AI 编码代理在复杂任务中因提示不准确或流程不当导致的低成功率问题。核心技术亮点包括基于 agent-orchestration 的提示词自动调整机制，以及针对 agentic workflows 的优化策略。适用于使用 AI 编码代理的开发者，可集成到现有工具链中提升任务完成率。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-22T00:37:25.567452+00:00"
+    },
+    {
+      "title": "bawadou/ai-data-extractor",
+      "source": "github-trending",
+      "url": "https://github.com/bawadou/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stars": 537,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-data-extractor",
+        "claude",
+        "cursor",
+        "cursor-ai",
+        "data-extraction",
+        "gemini"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-20T10:08:15Z",
+      "summary": "ai-data-extractor 是一个免费开源工具，用于提取 AI 编程助手（如 Claude Code、Cursor、Windsurf、Aider、Cline/Roo Code 等）的聊天历史数据。它解决了开发者需要迁移、分析或备份 AI 对话记录时缺乏统一提取方案的问题。核心技术亮点是支持多种主流 AI 编程工具的聊天记录格式解析，提供统一的提取接口。适用场景包括数据迁移、对话分析、模型行为研究以及构建个人知识库。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-08-22T00:37:27.693484+00:00"
+    },
+    {
+      "title": "iAmCorey/Wake",
+      "source": "github-trending",
+      "url": "https://github.com/iAmCorey/Wake",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "stars": 407,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-20T02:58:08Z",
+      "summary": "iAmCorey/Wake 是一个专为 Mac 设计的编码代理会话管理工具，用 Rust 和 GPUI 构建。它解决开发者在多个 AI 编码代理（如 Claude Code、Codex）会话间切换时难以追踪和恢复上下文的问题。核心亮点是提供统一的本地界面，支持浏览、搜索和恢复所有历史会话，提升工作流连续性。适用于重度使用 AI 编码代理的开发者，尤其适合多项目并行或长期迭代场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:29.945748+00:00"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video",
+      "source": "github-trending",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "stars": 248,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-20T13:40:14Z",
+      "summary": "cclank/lanshu-create-ai-presenter-video 是一个基于 Codex Skill 的开源项目，用于从脚本和授权 presenter 图像生成经过验证的 AI 主持人视频。它解决了 AI 视频生成中内容准确性和人物授权合规性的问题。核心技术亮点是 Provider-neutral 设计，支持多种视频生成后端，并集成验证机制确保输出与脚本一致。适用场景包括企业培训、新闻播报、产品演示等需要数字人视频的领域。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:32.432567+00:00"
+    },
+    {
+      "title": "MirroS-Lab/HarnessEval-W",
+      "source": "github-trending",
+      "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+      "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "stars": 242,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "benchmark",
+        "evaluation",
+        "harness",
+        "harness-engineering",
+        "kling",
+        "minimax-h3",
+        "seedance",
+        "video-generation",
+        "wan",
+        "world-model"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-18T03:30:35Z",
+      "summary": "HarnessEval-W 是一个用于评估视觉世界智能体的基准测试框架，旨在解决当前视觉语言模型在真实世界交互任务中缺乏标准化评估工具的问题。其核心亮点是提供了一套可扩展的评估 harness，支持多模态输入和复杂任务分解，能够量化智能体在视觉导航、物体操作等场景中的表现。适用于视觉语言模型开发者、机器人学习研究者和多模态 AI 系统评估场景。",
+      "tags": [
+        "benchmark",
+        "multimodal",
+        "agent",
+        "evaluation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:35.018265+00:00"
+    },
+    {
+      "title": "BigPengSays/bigpeng-hot-gzh",
+      "source": "github-trending",
+      "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+      "description": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
+      "stars": 225,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-19T02:25:37Z",
+      "summary": "BigPengSays/bigpeng-hot-gzh 是一个从100多篇爆款AI公众号文章中提炼出的选题公式集合，并封装为可复用的Skill。它解决了内容创作者在AI领域缺乏高效选题灵感的问题，通过分析爆款文章的共性，总结出7个可操作的公式。核心技术亮点在于将内容策略转化为结构化、可执行的Skill，便于集成到工作流中。适用场景包括AI内容创作、自媒体运营和营销策划。",
+      "tags": [
+        "workflow-automation",
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-08-22T00:37:37.285799+00:00"
+    },
+    {
+      "title": "sam70361/emotion-ball",
+      "source": "github-trending",
+      "url": "https://github.com/sam70361/emotion-ball",
+      "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "stars": 223,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "animation",
+        "bot",
+        "chatbot",
+        "desktop-pet",
+        "emotion",
+        "grok",
+        "grok-bot",
+        "javascript",
+        "svg",
+        "svg-animation",
+        "vanilla-javascript"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-21T07:33:36Z",
+      "summary": "Emotion Ball 是一个面向 AI 助手的表情引擎，提供 32 种由纯 SVG 和原生 JavaScript 实时驱动的状态表情，零框架、零图片资源。它解决了 AI 助手缺乏情感表达层的问题，AI 只需输出一个 emotionId 即可切换表情，适用于聊天机器人、桌面宠物和悬浮助手。核心技术亮点包括轻量级实现、实时动画和简单集成接口。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-22T00:37:39.157448+00:00"
+    },
+    {
+      "title": "JetBrains/benjamin-plus-skill",
+      "source": "github-trending",
+      "url": "https://github.com/JetBrains/benjamin-plus-skill",
+      "description": "Benjamin-Plus: a measured token-efficiency skill for coding agents (−17.9% cost median, quality unchanged). Inject it, don't install it.",
+      "stars": 217,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-18T22:52:36Z",
+      "summary": "Benjamin-Plus 是一个面向编码 agent 的 token 效率提升技能，通过注入而非安装方式使用，宣称可降低 17.9% 的中位成本且不损失质量。它解决 LLM 编码 agent 在长对话中 token 消耗过大的问题，核心亮点在于优化 prompt 结构或上下文管理，以更少的 token 达到同等效果。适用于使用编码 agent 的开发者，尤其关注成本控制或 API 调用频繁的场景。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-08-22T00:37:41.593394+00:00"
+    },
+    {
+      "title": "amitshekhariitbhu/llm-inference-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+      "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "stars": 213,
+      "language": "Markdown",
+      "topics": [
+        "inference-engineering",
+        "inference-optimization",
+        "large-language-models",
+        "llm",
+        "llm-engineering",
+        "llm-inference",
+        "llms"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-18T03:29:29Z",
+      "summary": "这是一个关于 LLM 推理工程的系统化学习资源，以 Markdown 格式逐步讲解从 KV cache、PagedAttention、continuous batching 到 vLLM、SGLang 和 GPU 优化等核心技术。它解决了工程师深入理解并优化大模型推理性能的痛点，提供从基础概念到主流框架实践的完整路径。适用于需要提升推理效率、降低延迟和成本的 AI 工程师、研究人员及学生。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "inference-optimization"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-22T00:37:43.841963+00:00"
+    },
+    {
+      "title": "zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
+      "source": "github-trending",
+      "url": "https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
+      "description": "智见 AI 蓝皮书：拆解 WorkBuddy 的提示词、记忆、插件、专家、Skill 与安全边界。",
+      "stars": 185,
+      "language": null,
+      "topics": [
+        "ai-agent",
+        "bluebook",
+        "harness",
+        "workbuddy",
+        "zhijian-ai"
+      ],
+      "collected_at": "2026-08-22T00:36:57.190709+00:00",
+      "published_at": "2026-08-16T05:51:24Z",
+      "summary": "智见 AI 蓝皮书，以 WorkBuddy 为例，系统拆解 AI Agent 的提示词、记忆、插件、专家、Skill 与安全边界。它解决 Agent 开发中架构设计与安全实践缺乏参考的问题。核心技术亮点包括对 Agent 各模块的深度剖析及安全边界的明确界定。适用场景为 AI Agent 开发者、架构师进行设计参考与安全评估。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-22T00:37:46.012388+00:00"
+    }
+  ]
+}
