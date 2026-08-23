@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-23-005",
+  "title": "Why your local LLM feels dumber than it is",
+  "source": "hackernews-top",
+  "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "summary": "这篇文章探讨本地LLM在推理时表现不如预期的原因，指出问题往往不在于模型本身，而在于推理配置、上下文管理和提示方式。核心亮点是分析量化误差、采样参数（如temperature、top-p）和上下文窗口截断对输出质量的影响，并提供优化建议。适用于开发者调试本地模型、提升推理准确性的场景，尤其适合使用llama.cpp或Ollama的用户。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "benchmark",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-23T00:40:12.568833+00:00",
+  "analyzed_at": "2026-08-23T00:40:58.789245+00:00",
+  "organized_at": "2026-08-23T00:41:30.326085+00:00",
+  "status": "published"
+}

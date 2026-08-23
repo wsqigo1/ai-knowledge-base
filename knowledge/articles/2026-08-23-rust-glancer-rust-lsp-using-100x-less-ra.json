@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-23-014",
+  "title": "Rust Glancer: Rust LSP using 100x less RAM",
+  "source": "hackernews-top",
+  "url": "https://rust-glancer.github.io/blog/hello-world/",
+  "summary": "Glancer 是一个用 Rust 编写的 Language Server Protocol (LSP) 实现，其核心亮点是内存占用比传统 LSP（如 rust-analyzer）低 100 倍。它通过极简的解析和索引策略，仅提供基础的代码导航功能（如跳转定义、查找引用），从而大幅降低资源消耗。适用于资源受限的嵌入式开发环境或大规模代码库的轻量级编辑场景，但功能丰富度有限。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-23T00:40:12.568833+00:00",
+  "analyzed_at": "2026-08-23T00:41:28.540062+00:00",
+  "organized_at": "2026-08-23T00:41:30.326085+00:00",
+  "status": "published"
+}

@@ -1,0 +1,397 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-08-23T00:40:13.047759+00:00",
+  "date": "2026-08-23",
+  "count": 20,
+  "items": [
+    {
+      "title": "Scrap",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "hn_url": "https://news.ycombinator.com/item?id=49402189",
+      "description": "",
+      "hn_score": 290,
+      "comments": 143,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "Scrap 是一个开源项目，旨在简化网页数据抓取与提取流程。它解决开发者手动编写爬虫代码、处理反爬机制和解析复杂 HTML 的痛点。核心技术亮点包括基于 LLM 的自然语言指令驱动抓取、自动生成提取规则，以及支持多种输出格式（如 JSON、CSV）。适用场景包括数据采集、市场调研、内容聚合和 AI 训练数据准备。该项目在 Hacker News 上获得 290 分，社区关注度高，适合需要快速构建数据管道的 AI 工程师。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-23T00:40:55.381061+00:00"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "source": "hackernews-top",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "hn_url": "https://news.ycombinator.com/item?id=49404380",
+      "description": "",
+      "hn_score": 37,
+      "comments": 8,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "NanoGPT Speedrun Frontier 是一个专注于加速 nanoGPT 训练的开源项目，旨在通过优化训练流程和硬件利用，在极短时间内达到基准性能。其核心技术亮点包括高效的分布式训练配置、混合精度训练、以及针对小规模 GPT 模型的精细调优策略。该项目适合研究者和开发者快速迭代 GPT 类模型，尤其适用于资源受限环境下的实验和教学场景。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-08-23T00:40:57.119400+00:00"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "source": "hackernews-top",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "hn_url": "https://news.ycombinator.com/item?id=49402232",
+      "description": "",
+      "hn_score": 161,
+      "comments": 49,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "这篇文章探讨本地LLM在推理时表现不如预期的原因，指出问题往往不在于模型本身，而在于推理配置、上下文管理和提示方式。核心亮点是分析量化误差、采样参数（如temperature、top-p）和上下文窗口截断对输出质量的影响，并提供优化建议。适用于开发者调试本地模型、提升推理准确性的场景，尤其适合使用llama.cpp或Ollama的用户。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-23T00:40:58.789245+00:00"
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "source": "hackernews-top",
+      "url": "https://quantumi.sh/public/labs.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49400408",
+      "description": "",
+      "hn_score": 292,
+      "comments": 98,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "该条目对比了三个以Labs命名的AI产品：ElevenLabs（语音合成）、TwelveLabs（视频理解）、ThirteenLabs（推测为新兴项目）。核心亮点在于命名趋势反映AI细分领域专业化，但缺乏具体技术细节。适用于关注AI产品生态的开发者，但技术深度有限。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-23T00:41:00.423250+00:00"
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
+      "source": "hackernews-top",
+      "url": "https://hister.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49351802",
+      "description": "",
+      "hn_score": 218,
+      "comments": 65,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "Hister 是一个用户完全掌控的私有全文搜索索引工具，解决数据隐私与搜索可控性问题。其核心技术亮点在于本地化索引构建与检索，不依赖外部云服务，支持自定义过滤与排序。适用场景包括个人知识库、文档管理及需要敏感数据隔离的团队协作。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-23T00:41:02.202379+00:00"
+    },
+    {
+      "title": "RF Cafe",
+      "source": "hackernews-top",
+      "url": "https://www.rfcafe.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49355659",
+      "description": "",
+      "hn_score": 142,
+      "comments": 23,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "RF Cafe 是一个面向射频/微波工程师的综合性技术资源网站，汇集了公式、计算器、图表、设计文章和行业新闻。它解决工程师在电路设计、阻抗匹配、链路预算等工作中快速查阅参考数据的需求。核心亮点是海量整理过的工程计算工具和经典技术资料，无需复杂软件即可在线使用。适用场景包括射频电路设计、通信系统分析、教学参考和日常工程计算。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-23T00:41:04.076916+00:00"
+    },
+    {
+      "title": "typ.ing",
+      "source": "hackernews-top",
+      "url": "https://typ.ing/",
+      "hn_url": "https://news.ycombinator.com/item?id=49346854",
+      "description": "",
+      "hn_score": 165,
+      "comments": 54,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "typ.ing 是一个在线打字练习平台，专注于提升用户的打字速度和准确性。它解决了传统打字软件缺乏实时反馈和个性化训练的问题，通过提供多种练习模式和实时统计，帮助用户高效提升打字技能。核心技术亮点包括自适应难度调整和详细的性能分析。适用于需要提高打字效率的程序员、学生和办公人员。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-08-23T00:41:05.838556+00:00"
+    },
+    {
+      "title": "A Friendly Introduction to Racket",
+      "source": "hackernews-top",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "hn_url": "https://news.ycombinator.com/item?id=49399898",
+      "description": "",
+      "hn_score": 183,
+      "comments": 91,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "本文是Racket编程语言的友好入门教程，面向希望了解函数式编程和语言导向编程的开发者。它解决了Racket学习曲线陡峭的问题，通过清晰示例展示其宏系统、语法规则和模块化设计等核心特性。亮点在于强调Racket作为编程语言实验室的独特定位，适合教学、原型设计和领域特定语言开发。适用场景包括教育、语言设计和需要高度抽象的项目。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-08-23T00:41:07.515963+00:00"
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "hn_url": "https://news.ycombinator.com/item?id=49387959",
+      "description": "",
+      "hn_score": 98,
+      "comments": 37,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "报道一名德州学生揭露了一次恶意AI攻击尝试，涉及通过提示注入或越狱手段操纵AI系统。该事件凸显了AI安全漏洞的紧迫性，尤其是针对个人或组织的定向攻击。核心技术亮点在于识别攻击模式并公开披露，推动社区关注防御机制。适用场景包括AI安全审计、红队测试及安全意识培训，对开发者构建健壮AI应用具有警示价值。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-23T00:41:09.972568+00:00"
+    },
+    {
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "source": "hackernews-top",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "hn_url": "https://news.ycombinator.com/item?id=49379732",
+      "description": "",
+      "hn_score": 101,
+      "comments": 13,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "ATProto spaces 是 AT Protocol 的新扩展，用于支持非公开数据。它解决 ATProto 目前仅支持公开数据、无法满足隐私和权限控制需求的问题。核心技术亮点是引入 spaces 概念，允许数据所有者定义访问控制，实现细粒度权限管理，同时保持协议的去中心化特性。适用场景包括社交应用中的私密内容、协作工具中的受限数据共享，以及需要数据主权保护的分布式应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-08-23T00:41:11.935774+00:00"
+    },
+    {
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "source": "hackernews-top",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49402741",
+      "description": "",
+      "hn_score": 157,
+      "comments": 58,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "macOS 27 Golden Gate 弃用 hdiutil，这是 Apple 用于创建和管理磁盘映像（如 DMG）的命令行工具。该变更影响依赖 hdiutil 进行软件打包、安装器制作和磁盘映像操作的开发流程。核心技术亮点是 Apple 提供替代方案（如新的 API 或工具），但具体细节尚未明确。适用场景包括 macOS 应用分发、CI/CD 流水线中的映像构建，以及系统管理自动化。开发者需迁移至新工具以避免未来兼容性问题。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-08-23T00:41:14.067780+00:00"
+    },
+    {
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "hn_url": "https://news.ycombinator.com/item?id=49397074",
+      "description": "",
+      "hn_score": 455,
+      "comments": 1197,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "这是一条关于加拿大与美国贸易谈判破裂、加拿大将进行对等关税报复的新闻，属于国际政治经济事件，不涉及任何AI或LLM技术内容。它没有解决技术问题，也没有核心技术亮点，适用场景仅限于时事讨论。",
+      "tags": [],
+      "score": 1.0,
+      "analyzed_at": "2026-08-23T00:41:15.741293+00:00"
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "source": "hackernews-top",
+      "url": "https://munderdiffl.in/",
+      "hn_url": "https://news.ycombinator.com/item?id=49398152",
+      "description": "",
+      "hn_score": 244,
+      "comments": 114,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "Munder Difflin 是一个开源 agent harness，用于运行一个由你的多个 AI 克隆体组成的“办公室”。它解决的是如何协调多个个性化 agent 并行处理任务的问题。核心技术亮点包括：基于 LLM 的 agent 编排、任务分配与协作机制，以及可定制的 agent 角色配置。适用场景包括自动化办公流程、多 agent 协作实验，以及个人 AI 助手集群的搭建。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-08-23T00:41:17.535503+00:00"
+    },
+    {
+      "title": "A week of using Codex more than Claude",
+      "source": "hackernews-top",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "hn_url": "https://news.ycombinator.com/item?id=49393051",
+      "description": "",
+      "hn_score": 117,
+      "comments": 117,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "作者对比了一周内使用 OpenAI Codex 与 Claude 的编码体验，指出 Codex 在自动化任务执行和长流程处理上更胜一筹，而 Claude 在代码理解和交互式重构方面表现更好。核心亮点是 Codex 的 agent 式自主工作流与 Claude 的深度推理能力形成互补。适用场景包括批量代码修改、测试生成、复杂重构和日常开发辅助，为开发者选择 AI 编程工具提供了实践参考。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-23T00:41:19.679438+00:00"
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "source": "hackernews-top",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "hn_url": "https://news.ycombinator.com/item?id=49376197",
+      "description": "",
+      "hn_score": 109,
+      "comments": 42,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "Autolith 是一个带有实时运行时的编程代理，旨在解决传统编程代理在代码执行与调试过程中缺乏动态反馈的问题。其核心技术亮点在于集成一个实时运行时环境，使代理能够即时观察代码执行状态、捕获错误并动态调整生成策略，从而提升代码生成与修复的准确性和效率。该工具适用于自动化软件开发、代码调试、以及需要迭代式编程辅助的场景，尤其适合开发者利用 AI 进行复杂项目开发。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-23T00:41:22.035872+00:00"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "source": "hackernews-top",
+      "url": "https://ozbrain.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49394827",
+      "description": "",
+      "hn_score": 75,
+      "comments": 46,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "OzBrain 是一个为 AI 代理和团队设计的共享知识大脑，旨在解决代理间知识孤岛和协作效率低下的问题。其核心技术亮点是提供一个统一的知识存储与检索层，支持多代理实时共享上下文，可能结合向量数据库和 RAG 机制。适用场景包括多代理系统协作、团队知识管理和自动化工作流。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "knowledge-management",
+        "rag",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-23T00:41:23.777283+00:00"
+    },
+    {
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "source": "hackernews-top",
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "hn_url": "https://news.ycombinator.com/item?id=49399524",
+      "description": "",
+      "hn_score": 193,
+      "comments": 83,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "这是一篇哲学评论文章，以康德伦理学批判贾斯汀·比伯的歌曲《Sorry》，并非AI或技术内容。文章探讨道歉的道德意义，与LLM、agent等技术无关。HN社区因文化趣味而热议，但对AI工程师无实用价值，技术深度为零，时效性一般。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-08-23T00:41:25.233178+00:00"
+    },
+    {
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "source": "hackernews-top",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "hn_url": "https://news.ycombinator.com/item?id=49398158",
+      "description": "",
+      "hn_score": 114,
+      "comments": 54,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "Z80是1970年代的8位微处理器，至今仍在嵌入式系统、复古计算和工业控制中活跃使用。文章探讨其持久生命力，核心亮点包括其简单指令集、低成本、广泛生态和向后兼容性。适用于学习计算机体系结构、开发复古硬件或维护老旧系统。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.6,
+      "analyzed_at": "2026-08-23T00:41:26.772753+00:00"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "source": "hackernews-top",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=49393052",
+      "description": "",
+      "hn_score": 392,
+      "comments": 96,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "Glancer 是一个用 Rust 编写的 Language Server Protocol (LSP) 实现，其核心亮点是内存占用比传统 LSP（如 rust-analyzer）低 100 倍。它通过极简的解析和索引策略，仅提供基础的代码导航功能（如跳转定义、查找引用），从而大幅降低资源消耗。适用于资源受限的嵌入式开发环境或大规模代码库的轻量级编辑场景，但功能丰富度有限。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-23T00:41:28.540062+00:00"
+    },
+    {
+      "title": "New MCP Roadmap",
+      "source": "hackernews-top",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "hn_url": "https://news.ycombinator.com/item?id=49399591",
+      "description": "",
+      "hn_score": 171,
+      "comments": 125,
+      "collected_at": "2026-08-23T00:40:12.568833+00:00",
+      "published_at": "2026-08-23T00:40:12.568833+00:00",
+      "summary": "MCP（Model Context Protocol）官方发布新路线图，旨在解决AI代理与外部工具、数据源集成标准化不足的问题。核心亮点包括协议演进方向、多语言SDK支持、安全与权限模型增强，以及面向生产环境的稳定性改进。适用于构建复杂AI代理、工具调用工作流及企业级集成场景，为开发者提供更清晰的协议演进路径和生态兼容性保障。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-23T00:41:30.272063+00:00"
+    }
+  ]
+}
