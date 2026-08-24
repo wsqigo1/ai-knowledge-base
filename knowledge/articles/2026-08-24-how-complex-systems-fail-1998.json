@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-24-016",
+  "title": "How Complex Systems Fail (1998)",
+  "source": "hackernews-top",
+  "url": "https://how.complexsystems.fail/",
+  "summary": "这是一篇1998年的经典系统安全论文，分析复杂系统（如医疗、航空、核电站）故障的本质。它提出系统故障是正常操作的一部分，而非异常；故障由多重微小失效叠加引发，且系统越复杂越难以完全预防。核心亮点是“系统安全是 emergent 属性”，强调通过冗余、监控和快速恢复来管理故障，而非追求零故障。适用场景包括分布式系统设计、可靠性工程、AI基础设施的容错策略，对构建稳健的LLM agent系统有启发。",
+  "tags": [
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-08-24T00:38:49.005768+00:00",
+  "analyzed_at": "2026-08-24T00:39:50.464118+00:00",
+  "organized_at": "2026-08-24T00:40:14.854792+00:00",
+  "status": "published"
+}

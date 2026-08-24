@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-24-001",
+  "title": "duty1g/x64dbg-mcp-server",
+  "source": "github-trending",
+  "url": "https://github.com/duty1g/x64dbg-mcp-server",
+  "summary": "duty1g/x64dbg-mcp-server 是一个用 Zig 编写的原生 MCP 插件，通过 HTTP 将 x64dbg 调试器的完整功能暴露给任何 MCP 兼容的 AI 助手。它解决了 AI 无法直接控制调试器进行动态分析的问题，支持设置断点、单步执行、读取内存和寄存器等操作。核心技术亮点是零依赖、单一二进制输出，跨平台支持，且性能高效。适用场景包括恶意软件分析、漏洞研究、逆向工程以及 AI 辅助的二进制调试和自动化分析。",
+  "tags": [
+    "mcp",
+    "developer-tools",
+    "ai-assistant",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-24T00:38:48.883647+00:00",
+  "analyzed_at": "2026-08-24T00:38:57.745746+00:00",
+  "organized_at": "2026-08-24T00:40:14.854792+00:00",
+  "status": "published"
+}
