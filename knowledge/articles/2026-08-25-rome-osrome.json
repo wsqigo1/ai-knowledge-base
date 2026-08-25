@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-25-001",
+  "title": "rome-os/rome",
+  "source": "github-trending",
+  "url": "https://github.com/rome-os/rome",
+  "summary": "Rome 是一个基于 TypeScript 构建的 agentic OS，旨在为 AI 代理（如 Claude Code、Codex）提供底层操作系统级支持。它解决当前 LLM 代理缺乏统一资源管理与持久化环境的问题，通过将文件系统、进程调度和工具调用抽象为代理可操作的原生接口，实现多代理协同与长期任务执行。其核心技术亮点在于将操作系统概念（如进程、文件描述符）映射到 agent 工作流，支持上下文持久化与动态工具注册。适用场景包括复杂自动化流水线、多代理协作开发环境及需要长期运行的 AI 任务编排。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.9,
+  "collected_at": "2026-08-25T00:38:16.335072+00:00",
+  "analyzed_at": "2026-08-25T00:38:34.001985+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}

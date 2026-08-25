@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-25-005",
+  "title": "truespar/sentio",
+  "source": "github-trending",
+  "url": "https://github.com/truespar/sentio",
+  "summary": "truespar/sentio 是一个用 Rust 编写的多租户邮件服务器，为 AI 代理提供专用邮箱 API。它解决 AI 代理需要独立收发邮件的问题，将入站邮件转为结构化 webhooks，并支持通过 REST 进行线程内回复。核心技术包括完整的邮件协议支持（DKIM/SPF/DMARC/ARC、MTA-STS、DANE）和三层反垃圾机制。适用于需要邮件交互的 AI 代理、自动化工作流和客户服务场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-25T00:38:16.335072+00:00",
+  "analyzed_at": "2026-08-25T00:38:53.606728+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}

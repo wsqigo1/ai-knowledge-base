@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-25-012",
+  "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+  "source": "hackernews-top",
+  "url": "https://github.com/murerkinn/bookshelf",
+  "summary": "Bookshelf 是一个自托管的电子书库，利用对象存储（如 S3）作为后端，解决传统文件系统存储电子书在扩展性、成本和高可用性上的问题。其核心技术亮点在于将元数据与对象存储解耦，支持多租户、增量索引和高效的搜索/分类功能，同时提供简洁的 Web 界面和 API。适用于个人或团队在云环境或私有部署中管理大规模电子书集合，尤其适合已有对象存储基础设施的用户。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-08-25T00:38:16.484276+00:00",
+  "analyzed_at": "2026-08-25T00:39:13.933393+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}

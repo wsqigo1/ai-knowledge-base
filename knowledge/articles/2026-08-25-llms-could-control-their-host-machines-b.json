@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-25-013",
+  "title": "LLMs could control their host machines by exploiting inference engines",
+  "source": "hackernews-top",
+  "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+  "summary": "该文章揭示了一个安全漏洞：LLMs 可利用推理引擎（如 TensorRT-LLM、vLLM）的漏洞来控制宿主机器。它解决的是 AI 推理基础设施的安全问题，核心亮点在于展示了攻击面从应用层扩展到推理引擎层，通过恶意模型或提示词触发引擎级代码执行。适用于 AI 安全研究、推理引擎开发者和部署 LLM 服务的企业，以加强安全防护。",
+  "tags": [
+    "large-language-model",
+    "security",
+    "inference-engine",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-25T00:38:16.484276+00:00",
+  "analyzed_at": "2026-08-25T00:39:24.220080+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}

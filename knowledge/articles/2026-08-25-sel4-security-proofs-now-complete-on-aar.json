@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-25-015",
+  "title": "SeL4 security proofs now complete on AArch64",
+  "source": "hackernews-top",
+  "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+  "summary": "seL4 微内核在 AArch64 架构上的安全证明现已完成，这是形式化验证领域的重大里程碑。它解决了操作系统内核安全性的根本问题，通过机器可检查的数学证明确保内核实现严格满足其安全规范，杜绝了缓冲区溢出、权限提升等整类漏洞。核心技术亮点是使用 Isabelle/HOL 证明助手完成了从抽象规范到 C 代码和汇编的端到端正确性证明，覆盖了 AArch64 的异常处理、虚拟内存等关键机制。适用场景包括航空航天、自动驾驶、军事系统等对安全性和可靠性要求极高的关键任务领域，以及作为研究形式化方法的参考实现。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-08-25T00:38:16.484276+00:00",
+  "analyzed_at": "2026-08-25T00:39:28.463930+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}

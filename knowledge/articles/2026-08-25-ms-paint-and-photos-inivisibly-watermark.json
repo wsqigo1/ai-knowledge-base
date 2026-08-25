@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-25-010",
+  "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+  "source": "hackernews-top",
+  "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+  "summary": "微软画图（MS Paint）和照片应用在本地生成的图片中嵌入不可见的GUID水印，即使输出完全在本地生成。该技术解决数字内容溯源与版权保护问题，通过隐形水印标记每张图片的唯一标识，防止未经授权的传播或篡改。核心亮点是水印对肉眼不可见，且能抵抗常规编辑操作，适用于内容创作者、企业数据泄露追踪及AI生成内容的认证场景。",
+  "tags": [
+    "multimodal",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-08-25T00:38:16.484276+00:00",
+  "analyzed_at": "2026-08-25T00:39:05.724671+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-25-014",
+  "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+  "source": "hackernews-top",
+  "url": "https://picomq.com/",
+  "summary": "PicoMQ 是一个开源项目，通过 HTTP 在对象存储上实现持久化流（durable streams），解决传统消息队列依赖专用基础设施、成本高且难以扩展的问题。其核心技术亮点是利用对象存储（如 S3）作为底层存储，通过 HTTP 协议提供流式读写，支持持久化、重放和分布式消费，无需额外运维消息中间件。适用场景包括事件驱动架构、日志收集、数据管道等，尤其适合已采用对象存储的云原生应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-08-25T00:38:16.484276+00:00",
+  "analyzed_at": "2026-08-25T00:39:26.235184+00:00",
+  "organized_at": "2026-08-25T00:39:38.969119+00:00",
+  "status": "published"
+}
