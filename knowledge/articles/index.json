@@ -1,7 +1,242 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1710,
+  "total_count": 1726,
   "entries": [
+    {
+      "id": "kb-2026-08-26-001",
+      "title": "ApodexAI/FrontierAgent",
+      "source": "github-trending",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "file": "2026-08-26-apodexaifrontieragent.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-002",
+      "title": "amosblomqvist/learn",
+      "source": "github-trending",
+      "url": "https://github.com/amosblomqvist/learn",
+      "file": "2026-08-26-amosblomqvistlearn.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-003",
+      "title": "HanyuanWang/LiveStream-Agent-Studio",
+      "source": "github-trending",
+      "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+      "file": "2026-08-26-hanyuanwanglivestream-agent-studio.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-004",
+      "title": "Polylayer-X/polylayer-app",
+      "source": "github-trending",
+      "url": "https://github.com/Polylayer-X/polylayer-app",
+      "file": "2026-08-26-polylayer-xpolylayer-app.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-005",
+      "title": "larashero3-dotcom/lieflat-less-ai-tone",
+      "source": "github-trending",
+      "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+      "file": "2026-08-26-larashero3-dotcomlieflat-less-ai-tone.json",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-006",
+      "title": "halofyai/halofy",
+      "source": "github-trending",
+      "url": "https://github.com/halofyai/halofy",
+      "file": "2026-08-26-halofyaihalofy.json",
+      "tags": [
+        "agent",
+        "access-control",
+        "governance",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-007",
+      "title": "Python's pre-declared constants are kinda weird",
+      "source": "hackernews-top",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "file": "2026-08-26-pythons-pre-declared-constants-are-kinda.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.1,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-008",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "source": "hackernews-top",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "file": "2026-08-26-fda-authorizes-first-wearable-device-tha.json",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-009",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "file": "2026-08-26-apple-introduces-m6-and-m5-ultra.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.9,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-010",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "source": "hackernews-top",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "file": "2026-08-26-openai-jalapeño-better-than-nvidia-black.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-011",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "file": "2026-08-26-new-mac-studio-with-m5-max-and-m5-ultra.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-012",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "source": "hackernews-top",
+      "url": "https://github.com/runetes/maiao",
+      "file": "2026-08-26-maiao-gerrit-style-code-review-workflow-.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-013",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "source": "hackernews-top",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "file": "2026-08-26-show-hn-texbrain-a-latex-editor-that-run.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-014",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "source": "hackernews-top",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "file": "2026-08-26-show-hn-i-made-a-raspberry-with-qwen-my-.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-015",
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "source": "hackernews-top",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "file": "2026-08-26-show-hn-latticedb-like-sqlite-but-for-gr.json",
+      "tags": [
+        "vector-database",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
+    {
+      "id": "kb-2026-08-26-016",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "source": "hackernews-top",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "file": "2026-08-26-tooltips-need-a-delay-and-then-they-need.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-08-26T00:40:30.106421+00:00"
+    },
     {
       "id": "kb-2026-08-25-001",
       "title": "rome-os/rome",
@@ -25438,5 +25673,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-25T00:39:39.147917+00:00"
+  "last_updated": "2026-08-26T00:40:30.267683+00:00"
 }

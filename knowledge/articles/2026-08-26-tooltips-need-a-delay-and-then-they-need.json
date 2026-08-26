@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-26-016",
+  "title": "Tooltips need a delay, and then they need to skip it",
+  "source": "hackernews-top",
+  "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+  "summary": "文章探讨 tooltip（工具提示）的显示延迟设计问题：用户需要延迟以避免误触，但一旦悬停意图明确，延迟应被跳过以提升响应速度。核心是提出一种自适应延迟机制，基于鼠标移动轨迹和停留时间动态调整。适用于 UI/UX 设计、前端开发及交互优化场景，对 AI 辅助界面设计有参考价值。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-08-26T00:39:01.707537+00:00",
+  "analyzed_at": "2026-08-26T00:40:27.978778+00:00",
+  "organized_at": "2026-08-26T00:40:30.106421+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-26-013",
+  "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+  "source": "hackernews-top",
+  "url": "https://github.com/swimmingbrain/texbrain",
+  "summary": "TeXbrain 是一个在浏览器中通过 WASM 运行 pdfTeX 的 LaTeX 编辑器，解决用户无需本地安装 TeX 发行版即可编译文档的问题。其核心技术亮点是利用 WebAssembly 将 pdfTeX 引擎移植到浏览器端，实现即时编译和预览。适用于需要在线协作、快速原型或轻量级 LaTeX 编辑的场景，尤其适合教育、科研写作和 Web 集成。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-08-26T00:39:01.707537+00:00",
+  "analyzed_at": "2026-08-26T00:40:05.770093+00:00",
+  "organized_at": "2026-08-26T00:40:30.106421+00:00",
+  "status": "published"
+}

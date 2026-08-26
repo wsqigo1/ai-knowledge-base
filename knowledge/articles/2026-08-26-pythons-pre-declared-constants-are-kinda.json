@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-26-007",
+  "title": "Python's pre-declared constants are kinda weird",
+  "source": "hackernews-top",
+  "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+  "summary": "文章探讨Python中预声明常量（如True、False、None）的特殊行为，指出其与常规变量赋值机制的差异，并分析这些常量在语言设计中的历史原因和潜在陷阱。核心亮点在于揭示CPython实现细节，帮助开发者避免误用常量导致的隐蔽bug。适用于Python语言进阶学习、源码阅读者及需要深入理解语言语义的AI工程师。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-08-26T00:39:01.707537+00:00",
+  "analyzed_at": "2026-08-26T00:39:49.258708+00:00",
+  "organized_at": "2026-08-26T00:40:30.106421+00:00",
+  "status": "published"
+}

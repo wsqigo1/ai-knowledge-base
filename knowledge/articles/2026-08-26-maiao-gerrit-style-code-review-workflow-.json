@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-26-012",
+  "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+  "source": "hackernews-top",
+  "url": "https://github.com/runetes/maiao",
+  "summary": "Maiao 是一个为 GitHub、GitLab、Gitea 等平台提供 Gerrit 风格代码审查工作流的开源工具。它解决了现有平台代码审查流程缺乏严格审核和提交管理的问题，通过引入类似 Gerrit 的变更集（change set）和审核队列，强化了代码审查的规范性和可追溯性。核心技术亮点包括跨平台适配、与现有 Git 工作流无缝集成，以及灵活的审核状态管理。适用场景包括需要严格代码审查流程的中大型团队、开源项目维护者，以及希望提升代码质量的开发组织。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-08-26T00:39:01.707537+00:00",
+  "analyzed_at": "2026-08-26T00:40:00.785679+00:00",
+  "organized_at": "2026-08-26T00:40:30.106421+00:00",
+  "status": "published"
+}

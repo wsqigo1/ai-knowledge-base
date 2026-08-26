@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-26-015",
+  "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+  "source": "hackernews-top",
+  "url": "https://github.com/jeffhajewski/latticedb",
+  "summary": "LatticeDB 是一款类似 SQLite 的嵌入式图数据库，旨在为开发者提供轻量级、无服务器的图存储方案。它解决了传统图数据库（如 Neo4j）部署重、依赖复杂的问题，核心亮点是单文件存储、支持 Cypher 查询语言、ACID 事务以及简单的 API 集成。适用于需要图结构数据（如社交网络、推荐系统、知识图谱）的本地应用或边缘计算场景。",
+  "tags": [
+    "vector-database",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-26T00:39:01.707537+00:00",
+  "analyzed_at": "2026-08-26T00:40:21.624361+00:00",
+  "organized_at": "2026-08-26T00:40:30.106421+00:00",
+  "status": "published"
+}
