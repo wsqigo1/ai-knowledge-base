@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-08-27-008",
+  "title": "Asahi Linux Progress Report: Linux 7.2",
+  "source": "hackernews-top",
+  "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+  "summary": "Asahi Linux 发布 7.2 版本进度报告，该版本基于 Linux 内核，旨在为 Apple Silicon Mac 提供完善的 Linux 支持。报告详细介绍了内核 7.2 中的新特性，包括对最新 M3 芯片的初始支持、GPU 驱动改进、电源管理优化以及硬件加速视频解码等。核心技术亮点在于逆向工程 Apple 硬件并实现底层驱动，解决了在非标准硬件上运行 Linux 的兼容性问题。适用场景为希望在 Apple Silicon 设备上使用 Linux 的开发者、研究人员及开源爱好者。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-08-27T05:40:58.483907+00:00",
+  "analyzed_at": "2026-08-27T05:42:09.521936+00:00",
+  "organized_at": "2026-08-27T05:42:47.453176+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-27-009",
+  "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+  "source": "hackernews-top",
+  "url": "https://github.com/tailscale/tailcat",
+  "summary": "Tailcat 是一个基于 Tailscale 数据平面的网络工具，类似于 netcat，但利用 Tailscale 的加密网络实现安全通信。它解决了在 Tailscale 网络中快速建立临时连接的问题，无需额外配置防火墙或公网 IP。核心技术亮点是复用 Tailscale 的 WireGuard 数据平面，提供端到端加密和身份验证。适用场景包括远程调试、文件传输、端口转发等，尤其适合已使用 Tailscale 的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-08-27T05:40:58.483907+00:00",
+  "analyzed_at": "2026-08-27T05:42:14.846380+00:00",
+  "organized_at": "2026-08-27T05:42:47.453176+00:00",
+  "status": "published"
+}

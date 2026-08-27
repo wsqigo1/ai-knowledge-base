@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-27-014",
+  "title": "Serve Markdown to AI Agents with Accept Headers",
+  "source": "hackernews-top",
+  "url": "https://acceptmarkdown.com/",
+  "summary": "该文章介绍如何通过HTTP Accept头向AI代理提供Markdown格式内容，解决AI代理难以解析复杂HTML页面的问题。核心亮点是定义一种内容协商机制，使服务器能根据客户端请求返回Markdown，提升AI代理的信息提取效率与准确性。适用于构建AI代理友好的API、文档站点及内容服务场景。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-27T05:40:58.483907+00:00",
+  "analyzed_at": "2026-08-27T05:42:47.384544+00:00",
+  "organized_at": "2026-08-27T05:42:47.453176+00:00",
+  "status": "published"
+}
