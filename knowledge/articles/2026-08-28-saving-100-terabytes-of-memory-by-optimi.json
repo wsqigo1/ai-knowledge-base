@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-28-004",
+  "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+  "summary": "Cloudflare 工程师通过优化 1.1.1.1 DNS 缓存的数据结构，节省了 100 TB 内存。文章深入剖析了缓存设计中的内存浪费问题，采用紧凑哈希表、分层存储和冷热数据分离等技巧，大幅降低内存占用。适用于高并发 DNS 解析、边缘计算和内存敏感型基础设施场景，展示了系统级性能优化的实战方法论。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-08-28T07:49:22.381945+00:00",
+  "analyzed_at": "2026-08-28T07:50:06.375482+00:00",
+  "organized_at": "2026-08-28T07:50:43.179697+00:00",
+  "status": "published"
+}

@@ -1,0 +1,398 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-08-28T07:49:23.248709+00:00",
+  "date": "2026-08-28",
+  "count": 20,
+  "items": [
+    {
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "source": "hackernews-top",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "hn_url": "https://news.ycombinator.com/item?id=49473483",
+      "description": "",
+      "hn_score": 123,
+      "comments": 112,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Stripe放弃以500亿美元收购PayPal的计划。该消息主要涉及金融科技领域的重大战略调整，而非具体技术产品。核心亮点在于Stripe可能转向其他增长策略或内部创新，而非依赖并购。适用场景为金融科技行业观察、企业战略分析，对AI工程师的直接技术价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-08-28T07:50:04.556093+00:00"
+    },
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "hn_url": "https://news.ycombinator.com/item?id=49468083",
+      "description": "",
+      "hn_score": 701,
+      "comments": 209,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Cloudflare 工程师通过优化 1.1.1.1 DNS 缓存的数据结构，节省了 100 TB 内存。文章深入剖析了缓存设计中的内存浪费问题，采用紧凑哈希表、分层存储和冷热数据分离等技巧，大幅降低内存占用。适用于高并发 DNS 解析、边缘计算和内存敏感型基础设施场景，展示了系统级性能优化的实战方法论。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:50:06.375482+00:00"
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "source": "hackernews-top",
+      "url": "https://calv.info/small-models-have-arrived",
+      "hn_url": "https://news.ycombinator.com/item?id=49466917",
+      "description": "",
+      "hn_score": 605,
+      "comments": 277,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "文章指出小型语言模型（Small Language Models, SLMs）已达到与大型模型相当的性能，解决了部署成本高、推理延迟大和隐私问题。核心技术亮点包括高效的架构设计、知识蒸馏和针对性微调，使SLM在特定任务上表现优异。适用场景包括边缘计算、实时应用和资源受限环境，为AI工程师提供了轻量级替代方案。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:50:08.284904+00:00"
+    },
+    {
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "source": "hackernews-top",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "hn_url": "https://news.ycombinator.com/item?id=49471965",
+      "description": "",
+      "hn_score": 147,
+      "comments": 35,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "OpenTIE 和 OpenXWA 是经典游戏《TIE Fighter》和《X-Wing Alliance》的现代开源移植版本，旨在让这些老游戏在现代操作系统上可玩。核心技术亮点包括对原版游戏引擎的重写和兼容性修复，支持高分辨率、现代硬件和社区扩展。适用场景为怀旧游戏玩家、开源游戏开发者和研究经典游戏引擎技术的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-28T07:50:09.984145+00:00"
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "source": "hackernews-top",
+      "url": "https://507movements.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49465169",
+      "description": "",
+      "hn_score": 561,
+      "comments": 70,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "《507 Mechanical Movements》是一本经典机械运动机制汇编，收录了507种机械联动、齿轮、凸轮等机构原理。它解决的是机械设计中运动转换与传动方案的系统化参考问题，通过图示和文字清晰展示每种机构的运作方式。核心技术亮点在于其百科全书式的结构化和可视化呈现，便于快速查阅和理解复杂机械逻辑。适用场景包括机械工程教育、产品设计灵感、以及AI工程师在机器人或自动化硬件开发中的机构选型参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-28T07:50:12.514140+00:00"
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "hn_url": "https://news.ycombinator.com/item?id=49468818",
+      "description": "",
+      "hn_score": 255,
+      "comments": 79,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Gemini-3.5-Transcribe 是一个基于 Gemini 3.5 模型的语音转写工具，解决高精度、多语言音频转文本的需求。核心技术亮点包括端到端的多模态处理、实时流式转写和说话人分离，支持长音频分段优化。适用于会议记录、字幕生成、语音搜索等场景，开源且易于集成。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:50:14.565497+00:00"
+    },
+    {
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "source": "hackernews-top",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "hn_url": "https://news.ycombinator.com/item?id=49468642",
+      "description": "",
+      "hn_score": 227,
+      "comments": 167,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "这是一篇关于使用vibecoded模糊测试器发现FFmpeg除零错误的技术文章。文章介绍了一种通过AI辅助生成模糊测试代码的方法，成功定位了FFmpeg中的潜在崩溃漏洞。核心技术亮点在于将AI代码生成与模糊测试结合，提高了漏洞发现的效率和覆盖率。适用于安全测试、AI辅助开发工具链优化等场景，展示了AI在软件质量保障中的实际应用价值。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-28T07:50:16.490783+00:00"
+    },
+    {
+      "title": "Microduck",
+      "source": "hackernews-top",
+      "url": "https://pollen-robotics.com/microduck/",
+      "hn_url": "https://news.ycombinator.com/item?id=49462763",
+      "description": "",
+      "hn_score": 624,
+      "comments": 209,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Microduck是一个开源项目，旨在通过将大型语言模型与结构化数据查询结合，解决自然语言到SQL转换的准确性问题。其核心技术亮点包括利用上下文感知的schema映射和动态查询生成，减少幻觉并提升复杂查询的可靠性。适用于数据分析、商业智能和自动化报表场景，尤其适合需要精确数据库交互的企业应用。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:50:18.657132+00:00"
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "source": "hackernews-top",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "hn_url": "https://news.ycombinator.com/item?id=49472820",
+      "description": "",
+      "hn_score": 70,
+      "comments": 22,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Terminal-Bench-Science 是一个用于评估 AI 代理在科学研究工作流中表现的基准测试。它解决了现有基准测试过于聚焦编程或通用任务，而缺乏对科学计算、数据分析和实验流程覆盖的问题。其核心技术亮点是构建了包含多个真实科学任务（如分子动力学模拟、基因组分析）的终端环境，要求代理通过命令行工具完成端到端研究步骤，并自动评分。适用场景包括科研自动化、AI 辅助实验设计和代理性能评测。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-28T07:50:20.642407+00:00"
+    },
+    {
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "source": "hackernews-top",
+      "url": "https://github.com/experientiallabs/experiential",
+      "hn_url": "https://news.ycombinator.com/item?id=49471407",
+      "description": "",
+      "hn_score": 167,
+      "comments": 30,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "这是一个开源项目，旨在构建一个类似OpenRouter的LLM路由平台，但核心创新在于将用户的使用数据反馈到模型优化中，实现'用即所学'。它解决的是当前模型路由服务缺乏数据闭环、无法持续改进的问题。技术亮点包括数据收集管道、模型评估与自动路由策略调整。适用于需要动态选择最优模型并持续优化性能的AI应用开发者。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-28T07:50:22.982948+00:00"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=49467922",
+      "description": "",
+      "hn_score": 235,
+      "comments": 160,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Gemini Omni 1.1 Flash 是 Google 推出的多模态模型，旨在提供低延迟、高吞吐的实时推理能力。它解决传统模型在音频、视频和文本混合输入下响应慢、成本高的问题。核心亮点在于统一的 omni 架构和 Flash 级别的效率优化，支持流式输出。适用于实时语音助手、视频理解、交互式 AI 应用等场景。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-08-28T07:50:24.935759+00:00"
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "source": "hackernews-top",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "hn_url": "https://news.ycombinator.com/item?id=49471714",
+      "description": "",
+      "hn_score": 95,
+      "comments": 9,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "AI Engineer Notebooks 提供一套免费、无框架依赖的 Colab 笔记本，覆盖 RAG、agents 和 evals 三大核心主题。它解决 AI 工程师在快速原型验证时面临的框架绑定和配置繁琐问题，直接基于原生 Python 和主流库实现，便于理解和定制。技术亮点包括模块化设计、即开即用的 Colab 环境，以及针对检索、代理行为和评估的完整示例。适用场景包括学习 RAG 流程、快速搭建 agent 原型、以及进行轻量级模型评估。",
+      "tags": [
+        "rag",
+        "agent",
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-28T07:50:27.394694+00:00"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "source": "hackernews-top",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "hn_url": "https://news.ycombinator.com/item?id=49447057",
+      "description": "",
+      "hn_score": 279,
+      "comments": 525,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "文章讨论AI领域当前动荡且快速演变的时代特征，指出技术迭代加速、模型能力跃升带来的行业不确定性。核心亮点在于分析AI发展从实验室走向产业落地的关键转折点，强调企业需适应高频变化的技术生态。适用场景为技术决策者、研究者把握AI趋势，评估技术投资方向。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-08-28T07:50:29.391918+00:00"
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "source": "hackernews-top",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "hn_url": "https://news.ycombinator.com/item?id=49461817",
+      "description": "",
+      "hn_score": 460,
+      "comments": 219,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "该文章分析Claude模型在推理时依赖的关键词汇，揭示其内部语义结构。通过识别这些“承重”词汇，帮助开发者优化prompt设计，提升模型输出质量。核心亮点是词汇级归因分析，适用于prompt工程和模型可解释性研究。",
+      "tags": [
+        "prompt-engineering",
+        "reasoning",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-28T07:50:31.273179+00:00"
+    },
+    {
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "source": "hackernews-top",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "hn_url": "https://news.ycombinator.com/item?id=49466006",
+      "description": "",
+      "hn_score": 227,
+      "comments": 132,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "这是一篇关于逆向工程的技术文章，作者在84天内成功反编译了任天堂64游戏。文章详细记录了从二进制机器码到可读C代码的完整逆向过程，涉及MIPS架构理解、静态分析、动态调试和自动化脚本编写。核心技术亮点包括利用符号执行和自定义工具链加速反编译，以及处理游戏特定数据结构的方法。适用场景包括游戏逆向工程、复古游戏移植、软件安全研究和二进制分析教学。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.7,
+      "analyzed_at": "2026-08-28T07:50:33.501706+00:00"
+    },
+    {
+      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "source": "hackernews-top",
+      "url": "https://morphing.cloud/afterglow/",
+      "hn_url": "https://news.ycombinator.com/item?id=49457722",
+      "description": "",
+      "hn_score": 143,
+      "comments": 41,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Afterglow 是一个开源项目，旨在让经典的 After Dark 屏幕保护程序在现代 macOS 上重新运行。它解决了旧版屏保因系统架构变化而无法兼容的问题。核心技术亮点包括通过模拟旧环境或使用兼容层来运行原始代码，并支持多种经典屏保。适用场景为怀旧用户、开发者研究旧代码移植，以及 macOS 系统定制。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-08-28T07:50:35.154710+00:00"
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "source": "hackernews-top",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "hn_url": "https://news.ycombinator.com/item?id=49458161",
+      "description": "",
+      "hn_score": 1882,
+      "comments": 868,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Nvidia以130亿美元收购Hugging Face，后者是开源AI模型与数据集托管平台，拥有超百万模型库和Transformers库。该交易旨在整合Nvidia的GPU算力与Hugging Face的模型分发生态，解决AI模型部署与硬件协同问题。核心技术亮点包括Hugging Face的模型中心、Transformers库及企业推理端点，结合Nvidia的CUDA和DGX云，可优化模型训练与推理效率。适用场景涵盖企业级AI开发、模型微调与部署、以及大规模推理服务。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:50:37.417922+00:00"
+    },
+    {
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "source": "hackernews-top",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "hn_url": "https://news.ycombinator.com/item?id=49464543",
+      "description": "",
+      "hn_score": 173,
+      "comments": 69,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Emacs 31 引入 Markdown-ts-mode，基于 tree-sitter 提供结构化 Markdown 编辑体验。该模式解决传统 markdown-mode 在语法高亮、导航和编辑操作上的不精确问题，利用 tree-sitter 语法树实现更准确的标题折叠、列表缩进和链接编辑。核心亮点是原生集成 tree-sitter，提升编辑流畅度。适用于 Emacs 用户进行 Markdown 文档编写，尤其是技术写作和笔记管理。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-08-28T07:50:39.478916+00:00"
+    },
+    {
+      "title": "Previewing the Model Hardware Standard",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=49468834",
+      "description": "",
+      "hn_score": 110,
+      "comments": 38,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "该条目预览了模型硬件标准（Model Hardware Standard），旨在为AI模型定义统一的硬件接口规范，解决硬件碎片化导致的部署和优化效率低下的问题。核心技术亮点包括标准化硬件抽象层、性能基准定义和跨平台兼容性设计，适用于AI芯片设计、模型部署和边缘计算场景。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-28T07:50:41.194566+00:00"
+    },
+    {
+      "title": "Suica, Japan's First IC Transit Card",
+      "source": "hackernews-top",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "hn_url": "https://news.ycombinator.com/item?id=49466894",
+      "description": "",
+      "hn_score": 233,
+      "comments": 198,
+      "collected_at": "2026-08-28T07:49:22.381945+00:00",
+      "published_at": "2026-08-28T07:49:22.381945+00:00",
+      "summary": "Suica 是日本首张 IC 交通卡，基于 FeliCa 非接触式 RFID 技术，解决公共交通快速支付与多场景小额支付问题。核心亮点包括高速近场通信、离线交易能力、以及广泛覆盖交通、零售和自动售货机。适用于通勤、旅行和日常小额支付场景，是日本基础设施的关键组成部分。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.9,
+      "analyzed_at": "2026-08-28T07:50:43.122782+00:00"
+    }
+  ]
+}

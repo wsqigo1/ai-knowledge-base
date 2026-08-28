@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-28-007",
+  "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+  "source": "hackernews-top",
+  "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+  "summary": "这是一篇关于使用vibecoded模糊测试器发现FFmpeg除零错误的技术文章。文章介绍了一种通过AI辅助生成模糊测试代码的方法，成功定位了FFmpeg中的潜在崩溃漏洞。核心技术亮点在于将AI代码生成与模糊测试结合，提高了漏洞发现的效率和覆盖率。适用于安全测试、AI辅助开发工具链优化等场景，展示了AI在软件质量保障中的实际应用价值。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-28T07:49:22.381945+00:00",
+  "analyzed_at": "2026-08-28T07:50:16.490783+00:00",
+  "organized_at": "2026-08-28T07:50:43.179697+00:00",
+  "status": "published"
+}

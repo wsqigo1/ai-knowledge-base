@@ -1,0 +1,556 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-28T07:49:23.248043+00:00",
+  "date": "2026-08-28",
+  "count": 19,
+  "items": [
+    {
+      "title": "duty1g/x64dbg-mcp-server",
+      "source": "github-trending",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "stars": 1590,
+      "language": "Zig",
+      "topics": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code",
+        "malware-analysis",
+        "malware-research",
+        "malware-scanner",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "x64dbg",
+        "x64dbg-mcp",
+        "x64dbg-plugin",
+        "x64dbg-tools",
+        "xdbg",
+        "zig",
+        "zig-lang",
+        "ziglang"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-27T07:00:07Z",
+      "summary": "x64dbg-mcp-server 是一个基于 Zig 语言编写的原生 MCP 插件，为 x64dbg 调试器提供 HTTP 接口，使任何兼容 MCP 的 AI 助手（如 Claude）能够以编程方式控制调试器，包括设置断点、单步执行、读取内存和寄存器。该项目解决了 AI 在二进制分析和逆向工程场景中缺乏直接调试器交互能力的问题，通过零依赖、单二进制输出实现轻量级集成，适用于 AI 辅助漏洞挖掘、恶意软件分析和代码审计。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:49:25.411965+00:00"
+    },
+    {
+      "title": "ApodexAI/FrontierAgent",
+      "source": "github-trending",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "stars": 1176,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-framework",
+        "ai-agents",
+        "harness",
+        "multi-agent",
+        "terminal-agent",
+        "tui"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-28T06:06:18Z",
+      "summary": "FrontierAgent 是一个开源的 agent 框架，提供原生命令行 TUI、ReAct 推理模式和 Agent Team 多智能体协作模式。它解决了 AI agent 部署复杂、依赖沉重的问题，支持 macOS 和 Linux 一键运行，无需预装环境或强制 Docker 依赖。核心技术亮点包括轻量级 harness 设计、多智能体编排和交互式终端界面。适用于开发者快速构建和调试 agent 工作流，尤其适合命令行偏好者和需要快速原型验证的场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:49:27.221699+00:00"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover",
+      "source": "github-trending",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "stars": 821,
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-skill",
+        "codex-skills",
+        "watermark"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-23T22:07:11Z",
+      "summary": "这是一个开源Python工具，用于清除多种AI生成内容的水印，包括Unicode文本清理、统计重写钩子，以及从PNG、JPEG、SVG、PDF、DOCX、HTML和MD文件中移除C2PA元数据。它解决AI生成内容溯源与合规问题，核心技术涉及文本统计分析和元数据解析。适用于需要匿名化或去除AI痕迹的内容处理场景，如数据清洗、隐私保护或内容再发布。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-28T07:49:29.212190+00:00"
+    },
+    {
+      "title": "amosblomqvist/learn",
+      "source": "github-trending",
+      "url": "https://github.com/amosblomqvist/learn",
+      "description": "My AI learning system.",
+      "stars": 547,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-25T21:49:59Z",
+      "summary": "这是一个名为 learn 的个人 AI 学习系统，使用 TypeScript 构建。它旨在帮助用户系统化地组织和管理 AI 学习资源与进度，解决学习内容分散、缺乏结构化追踪的问题。核心技术亮点可能包括模块化设计、自动化工作流或与 AI 模型的集成，但具体细节有限。适用场景为个人开发者或研究者用于持续学习 AI 领域知识，跟踪课程、论文和项目。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-08-28T07:49:31.087147+00:00"
+    },
+    {
+      "title": "Forsy-AI/biosecurity-agent",
+      "source": "github-trending",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "stars": 513,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-25T17:52:31Z",
+      "summary": "Forsy-AI/biosecurity-agent 是一个基于 TypeScript 构建的 AI agent，旨在围绕任意目标生成实时生物安全态势世界。它解决生物安全领域信息分散、威胁监测滞后的问题，通过 agent 自动聚合、分析并可视化相关生物威胁数据。核心技术亮点包括实时数据流处理、agent 自主决策和动态环境构建。适用场景包括生物安全监控、疫情预警、科研风险评估等。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-28T07:49:32.824228+00:00"
+    },
+    {
+      "title": "kgoedecke/doop",
+      "source": "github-trending",
+      "url": "https://github.com/kgoedecke/doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "stars": 466,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "design",
+        "design-tool",
+        "mcp",
+        "multiplayer"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-27T20:28:27Z",
+      "summary": "doop 是 Paper.design 的开源替代品，提供多人实时协作的设计画布，支持人类与 AI 代理共同设计。其核心亮点是内置 MCP（Model Context Protocol），使 AI 代理（如 Claude）能直接与画布交互，实现设计任务的自动化协作。适用于团队设计协作、AI 辅助原型设计及探索 MCP 在创意工具中的应用场景。",
+      "tags": [
+        "multi-agent",
+        "mcp",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-28T07:49:34.651569+00:00"
+    },
+    {
+      "title": "halofyai/halofy",
+      "source": "github-trending",
+      "url": "https://github.com/halofyai/halofy",
+      "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "stars": 428,
+      "language": "TypeScript",
+      "topics": [
+        "access-control",
+        "agent-governance",
+        "agent-memory",
+        "agent-visibility",
+        "ai-agents",
+        "audit-log",
+        "context-engineering",
+        "data-governance",
+        "data-provenance",
+        "identity-management",
+        "knowledge-management",
+        "model-context-protocol",
+        "multi-agent-systems",
+        "multi-tenant",
+        "open-source",
+        "organizational-context",
+        "pgvector",
+        "rbac",
+        "scoped-access",
+        "tenant-isolation"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-25T06:10:31Z",
+      "summary": "Halofy 是一个面向组织中 AI agent 的开放访问与治理层，提供身份、策略、来源追踪、审计和签名擦除功能。它解决 AI agent 在企业环境中缺乏统一治理和访问控制的问题。核心技术亮点包括基于 TypeScript 的实现，支持 agent 记忆和可见性管理。适用于需要安全部署和监管多个 AI agent 的企业场景。",
+      "tags": [
+        "agent",
+        "access-control",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-28T07:49:36.184341+00:00"
+    },
+    {
+      "title": "totec448-spec/chat-on-steroids",
+      "source": "github-trending",
+      "url": "https://github.com/totec448-spec/chat-on-steroids",
+      "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+      "stars": 394,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "chatgpt",
+        "chrome-extension",
+        "electron",
+        "linux",
+        "local-first",
+        "macos",
+        "mcp",
+        "multi-agent",
+        "windows"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-26T18:15:18Z",
+      "summary": "chat-on-steroids 是一个开源项目，为 ChatGPT 提供跨平台本地 MCP（Model Context Protocol）能力，通过 Chrome 扩展和 Electron 集成，支持目标设定、紧凑与恢复功能，以及持久的多智能体工作流。它解决了 ChatGPT 在本地环境中的工具调用和自动化限制，使 AI 能访问本地资源并执行复杂任务。核心技术亮点包括 MCP 集成、Chrome 扩展桥接、Electron 桌面支持，以及多智能体协作的持久化。适用于需要增强 ChatGPT 自动化、本地文件操作和长期任务管理的开发者。",
+      "tags": [
+        "mcp",
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-28T07:49:38.474017+00:00"
+    },
+    {
+      "title": "rome-os/rome",
+      "source": "github-trending",
+      "url": "https://github.com/rome-os/rome",
+      "description": "Rome is the agentic OS.",
+      "stars": 379,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-os",
+        "claude-code",
+        "codex",
+        "llm"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-28T07:47:12Z",
+      "summary": "Rome is the agentic OS, 一个基于TypeScript构建的智能体操作系统。它旨在解决AI代理（如Claude Code、Codex）在复杂任务中缺乏统一资源管理和协作能力的问题。核心技术亮点在于将操作系统级抽象引入代理环境，提供任务调度、资源分配和跨代理通信机制。适用场景包括多代理协作、自动化工作流和复杂软件开发任务。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-28T07:49:40.546728+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-excel",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-excel",
+      "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "stars": 323,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-25T17:19:22Z",
+      "summary": "huashu-excel 是一个面向数据分析与 Excel 处理的 AI skill，提供从数据体检、清洗、需求对齐、分析、对账到交付的全流程能力。它解决 AI 生成数字结果不可信、难以追溯的问题，通过结构化流程和 openpyxl 依赖实现跨 agent 通用。核心亮点是轻量级（仅依赖 openpyxl）且强调结果可验证性，适用于需要精确数据处理的业务场景，如财务对账、报表生成等。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-28T07:49:42.785540+00:00"
+    },
+    {
+      "title": "bam-bam-2/solo-skills",
+      "source": "github-trending",
+      "url": "https://github.com/bam-bam-2/solo-skills",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "stars": 321,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "korean",
+        "productivity",
+        "skills",
+        "solopreneur"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-23T11:53:32Z",
+      "summary": "bam-bam-2/solo-skills 是一个面向单人创业者的 AI 生产力工具包，公开了 26 个可直接使用的 AI agent 技能及执行脚本，帮助无员工情况下自动化 49 个业务流程。项目基于 Python，主要集成 Claude Code，通过预构建的 agent-skills 实现任务自动化，解决小团队人力不足问题。核心技术亮点是即插即用的技能脚本和自动化工作流设计，适用于个人开发者、自由职业者及小型创业团队提升运营效率。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-28T07:49:45.114656+00:00"
+    },
+    {
+      "title": "HanyuanWang/LiveStream-Agent-Studio",
+      "source": "github-trending",
+      "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+      "description": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+      "stars": 307,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "douyin",
+        "livestream",
+        "speech-to-text"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-24T02:48:43Z",
+      "summary": "LiveStream-Agent-Studio 是一个面向抖音直播电商的 Windows 本地 AI Agent Studio，将主播发现、直播洞察、直播复盘与短视频内容编导整合为统一智能工作流。它解决直播运营中数据分散、复盘低效、内容创作缺乏系统性的问题。核心技术亮点包括基于语音转文字（speech-to-text）的直播内容分析、多 Agent 协作机制，以及本地化部署保障数据隐私。适用于直播电商运营者、内容创作者和数据分析师，帮助提升直播效率与内容质量。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "speech-to-text",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-28T07:49:46.922406+00:00"
+    },
+    {
+      "title": "gtlhuyidan-sketch/life-ipo",
+      "source": "github-trending",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "stars": 305,
+      "language": "TypeScript",
+      "topics": [
+        "ai-planning",
+        "crm",
+        "health-data",
+        "knowledge-management",
+        "life-ipo",
+        "personal-finance",
+        "team-collaboration"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-28T07:38:13Z",
+      "summary": "life-ipo 是一个用 TypeScript 构建的个人数据操作系统，将财务、健康、知识、人脉、AI 决策与团队执行统一管理。它解决个人生活与工作数据分散、难以整合决策的问题，通过 AI 规划（ai-planning）和 CRM 理念整合多维度数据，提供统一视图与智能建议。核心技术亮点在于跨领域数据建模与 AI 驱动的决策支持，适用于个人成长管理、知识工作者效率提升及轻量级生活管理场景。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "knowledge-management",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-08-28T07:49:48.876874+00:00"
+    },
+    {
+      "title": "leopard627/fire-your-seo-agency",
+      "source": "github-trending",
+      "url": "https://github.com/leopard627/fire-your-seo-agency",
+      "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "stars": 276,
+      "language": null,
+      "topics": [
+        "aeo",
+        "ai-search",
+        "claude-code",
+        "claude-skills",
+        "geo",
+        "llmo",
+        "llms-txt",
+        "naver",
+        "seo"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-27T06:26:41Z",
+      "summary": "这是一个Claude Code技能，用于自动审计和优化SEO、AEO、GEO、LLMO及NEO（Naver）等AI搜索优化领域。它旨在替代每月花费50-350万韩元的AI搜索优化代理服务，通过AI代理自主执行优化任务。核心技术亮点是作为Claude Code skill集成，利用Claude的agent能力进行自动化分析和优化。适用场景包括企业网站、内容创作者和营销团队，希望降低SEO代理成本并提升AI搜索可见性。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-28T07:49:51.195273+00:00"
+    },
+    {
+      "title": "truespar/sentio",
+      "source": "github-trending",
+      "url": "https://github.com/truespar/sentio",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "stars": 221,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "dkim",
+        "dmarc",
+        "email",
+        "email-automation",
+        "mailserver",
+        "rust",
+        "smtp-library",
+        "smtp-relay",
+        "smtp-server"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-25T06:12:11Z",
+      "summary": "truespar/sentio 是一个用 Rust 编写的多租户邮件服务器，为 AI 代理提供完整的 Email Inbox API。它赋予每个代理一个真实邮箱地址，将收到的邮件转换为结构化 webhook，并支持通过 REST 在线程中回复。核心亮点包括完整的邮件收发功能、DKIM/SPF/DMARC/ARC 认证、MTA-STS 和 DANE 安全协议，以及三层反垃圾邮件机制。它解决了 AI 代理需要原生邮件通信能力的问题，适用于需要邮件交互的 AI 助手、自动化工作流和客户服务场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-28T07:49:53.122972+00:00"
+    },
+    {
+      "title": "damejan80/tokentab",
+      "source": "github-trending",
+      "url": "https://github.com/damejan80/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": 212,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python",
+        "token-optimization",
+        "token-usage"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-27T14:20:23Z",
+      "summary": "tokentab 是一个 Python 编写的 CLI 工具，用于解析 Claude Code、Codex 和 Gemini CLI 的会话日志，自动计算各模型、项目和日期的费用消耗。它解决了 AI 编码工具使用成本不透明的问题，通过日志解析和费用估算，帮助开发者或团队监控和优化 AI 使用开支。核心亮点是支持多平台日志格式、按维度聚合统计，并输出清晰的成本报告。适用于个人开发者、团队管理者或财务人员，用于预算控制和成本审计。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-08-28T07:49:55.537135+00:00"
+    },
+    {
+      "title": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "source": "github-trending",
+      "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "stars": 207,
+      "language": null,
+      "topics": [
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-26T05:47:32Z",
+      "summary": "该项目收录三个匿名化的真实 AI Coding 面试 take-home assignment 项目题，并配套一套通用解题方法论。它解决求职者在 AI 工程面试中缺乏实战项目经验、不知如何系统拆解任务的问题。核心技术亮点在于提供匿名化真实题目（保护公司隐私）和可复用的解题框架，涵盖需求分析、架构设计、代码实现与文档撰写。适用场景包括准备 AI 工程师面试、练习 agent 开发、提升 coding 项目实战能力。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-28T07:49:58.293299+00:00"
+    },
+    {
+      "title": "sqzw-x/amane",
+      "source": "github-trending",
+      "url": "https://github.com/sqzw-x/amane",
+      "description": "AI 时代的私人影库",
+      "stars": 201,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-27T19:08:44Z",
+      "summary": "amane 是一个基于 Python 的 AI 私人影库项目，旨在利用 AI 技术自动管理和组织个人影视资源。它解决用户手动整理电影、剧集元数据（如海报、简介、评分）的痛点，通过智能识别和分类提升媒体库管理效率。核心技术可能涉及图像识别（海报提取）、自然语言处理（简介生成）和自动化工作流。适用场景为个人或家庭媒体服务器（如 NAS）的影视内容管理，适合追求自动化媒体管理的技术爱好者。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-28T07:50:00.772224+00:00"
+    },
+    {
+      "title": "zhaoxuya520/MeshLAN",
+      "source": "github-trending",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "stars": 190,
+      "language": "Go",
+      "topics": [
+        "golang",
+        "mesh-network",
+        "nat-traversal",
+        "nebula",
+        "p2p",
+        "relay",
+        "self-hosted",
+        "virtual-lan",
+        "vpn",
+        "windows"
+      ],
+      "collected_at": "2026-08-28T07:49:22.233373+00:00",
+      "published_at": "2026-08-24T07:14:14Z",
+      "summary": "MeshLAN 是一个基于 Nebula 的自托管 P2P 优先虚拟局域网项目，用于解决传统 VPN 的中心化瓶颈和 NAT 穿透难题。它支持服务共享、多中继转发，并集成 AI 自动化能力，核心亮点在于利用 Nebula 的加密 mesh 网络实现高效、安全的设备互联。适用于需要低延迟、高可扩展性的分布式团队协作、边缘计算或 IoT 场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-08-28T07:50:02.789425+00:00"
+    }
+  ]
+}

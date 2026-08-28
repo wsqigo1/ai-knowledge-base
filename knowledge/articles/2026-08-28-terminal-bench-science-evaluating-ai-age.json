@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-28-009",
+  "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+  "source": "hackernews-top",
+  "url": "https://www.terminal-bench-science.ai/announcement",
+  "summary": "Terminal-Bench-Science 是一个用于评估 AI 代理在科学研究工作流中表现的基准测试。它解决了现有基准测试过于聚焦编程或通用任务，而缺乏对科学计算、数据分析和实验流程覆盖的问题。其核心技术亮点是构建了包含多个真实科学任务（如分子动力学模拟、基因组分析）的终端环境，要求代理通过命令行工具完成端到端研究步骤，并自动评分。适用场景包括科研自动化、AI 辅助实验设计和代理性能评测。",
+  "tags": [
+    "benchmark",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-28T07:49:22.381945+00:00",
+  "analyzed_at": "2026-08-28T07:50:20.642407+00:00",
+  "organized_at": "2026-08-28T07:50:43.179697+00:00",
+  "status": "published"
+}
