@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-29-020",
+  "title": "Migrating to HTTPX2",
+  "source": "hackernews-top",
+  "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+  "summary": "HTTPX2 是 Python HTTP 客户端库 HTTPX 的重大版本升级，旨在解决异步支持、连接池和 API 一致性问题。核心亮点包括改进的异步客户端性能、更稳定的连接复用、更简洁的接口设计，并增强了对 HTTP/2 的原生支持。适用于需要高性能异步请求的爬虫、微服务调用和 AI 应用中的 API 集成场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-08-29T04:44:08.005922+00:00",
+  "analyzed_at": "2026-08-29T04:45:18.271810+00:00",
+  "organized_at": "2026-08-29T04:45:25.936773+00:00",
+  "status": "published"
+}

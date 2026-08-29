@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-29-009",
+  "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+  "source": "hackernews-top",
+  "url": "https://github.com/Lakr233/vphone-cli",
+  "summary": "该项目利用 Apple 的 Virtualization.framework 在 macOS 上虚拟启动 iPhone 系统，解决开发者无法在非真机环境测试 iOS 应用的问题。核心技术亮点是直接调用 Apple 原生虚拟化框架，模拟 iPhone 硬件环境，支持启动完整的 iOS 系统。适用场景包括 iOS 应用开发调试、自动化测试和系统研究。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-08-29T04:44:08.005922+00:00",
+  "analyzed_at": "2026-08-29T04:44:50.264788+00:00",
+  "organized_at": "2026-08-29T04:45:25.936773+00:00",
+  "status": "published"
+}
