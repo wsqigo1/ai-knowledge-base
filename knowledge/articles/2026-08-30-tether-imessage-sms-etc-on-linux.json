@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-30-008",
+  "title": "Tether: iMessage, SMS, etc. on Linux",
+  "source": "hackernews-top",
+  "url": "https://zackbartel.com/blog/2026/08/tether/",
+  "summary": "Tether 是一个在 Linux 上实现 iMessage、SMS 等消息服务的开源项目。它解决了 Linux 用户无法原生使用苹果 iMessage 和传统短信服务的痛点，通过桥接技术将手机或云端消息服务集成到 Linux 桌面。核心技术亮点包括利用逆向工程和协议模拟，实现与苹果服务器的安全通信，并支持多协议统一管理。适用场景包括 Linux 用户日常通讯、跨平台消息同步，以及开发者对消息协议的研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-08-30T02:19:44.402841+00:00",
+  "analyzed_at": "2026-08-30T02:20:31.206463+00:00",
+  "organized_at": "2026-08-30T02:21:07.551823+00:00",
+  "status": "published"
+}

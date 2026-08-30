@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-30-010",
+  "title": "SQLite as a Document Database (2020)",
+  "source": "hackernews-top",
+  "url": "https://dgl.cx/2020/06/sqlite-json-support",
+  "summary": "该文章探讨如何将 SQLite 用作文档数据库，解决传统关系型数据库在灵活文档存储上的不足。核心亮点是利用 SQLite 的 JSON1 扩展和索引支持，实现类似 MongoDB 的文档查询能力，同时保持轻量级和事务性。适用场景包括嵌入式应用、本地数据存储和需要 SQL 查询能力的文档管理。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-08-30T02:19:44.402841+00:00",
+  "analyzed_at": "2026-08-30T02:20:40.541958+00:00",
+  "organized_at": "2026-08-30T02:21:07.551823+00:00",
+  "status": "published"
+}

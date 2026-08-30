@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-08-30-012",
+  "title": "Samsung's Processing-in-Memory (PIM)",
+  "source": "hackernews-top",
+  "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+  "summary": "Samsung's Processing-in-Memory (PIM) 是一种将计算单元集成到内存芯片内部的技术，旨在解决传统冯·诺依曼架构中数据搬运带来的高延迟和高功耗瓶颈。其核心亮点是在 DRAM 或 HBM 中嵌入 AI 运算逻辑，使数据在内存中直接完成矩阵乘法等操作，显著提升能效比和吞吐量。该技术适用于大规模 AI 推理、边缘计算和高性能计算场景，尤其对内存带宽受限的 LLM 推理有潜在优化价值。",
+  "tags": [
+    "hardware",
+    "memory-computing",
+    "ai-infrastructure",
+    "large-language-model"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-30T02:19:44.402841+00:00",
+  "analyzed_at": "2026-08-30T02:20:53.706774+00:00",
+  "organized_at": "2026-08-30T02:21:07.551823+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-30-011",
+  "title": "EVE Online moves to Python 3",
+  "source": "hackernews-top",
+  "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+  "summary": "EVE Online宣布将其游戏服务器代码从Python 2迁移至Python 3，解决了Python 2停止维护带来的安全与兼容性问题。该迁移涉及Stackless Python的定制版本，需处理大量异步任务和性能优化。核心技术亮点包括逐步迁移策略、使用PyPy进行性能测试，以及确保大规模并发玩家环境的稳定性。适用场景为大型分布式系统、游戏后端及需要长期维护的Python项目，对AI工程师在技术栈升级和遗留系统改造方面具有参考价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-08-30T02:19:44.402841+00:00",
+  "analyzed_at": "2026-08-30T02:20:47.467348+00:00",
+  "organized_at": "2026-08-30T02:21:07.551823+00:00",
+  "status": "published"
+}

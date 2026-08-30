@@ -1,7 +1,202 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1776,
+  "total_count": 1789,
   "entries": [
+    {
+      "id": "kb-2026-08-30-001",
+      "title": "cbrock84/headcount",
+      "source": "github-trending",
+      "url": "https://github.com/cbrock84/headcount",
+      "file": "2026-08-30-cbrock84headcount.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "claude-code",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-002",
+      "title": "hkqr/my-free-code",
+      "source": "github-trending",
+      "url": "https://github.com/hkqr/my-free-code",
+      "file": "2026-08-30-hkqrmy-free-code.json",
+      "tags": [
+        "open-source",
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-003",
+      "title": "MirroS-Lab/Code-as-World",
+      "source": "github-trending",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "file": "2026-08-30-mirros-labcode-as-world.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "code-generation",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-004",
+      "title": "AgriciDaniel/youtubepro",
+      "source": "github-trending",
+      "url": "https://github.com/AgriciDaniel/youtubepro",
+      "file": "2026-08-30-agricidanielyoutubepro.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-005",
+      "title": "LYiHub/Card-master-browser-extension-public",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+      "file": "2026-08-30-lyihubcard-master-browser-extension-publ.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-006",
+      "title": "MORTEN-BUUR/nordef-matrix-open-control",
+      "source": "github-trending",
+      "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
+      "file": "2026-08-30-morten-buurnordef-matrix-open-control.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-007",
+      "title": "Hy4 preview",
+      "source": "hackernews-top",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "file": "2026-08-30-hy4-preview.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-008",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "source": "hackernews-top",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "file": "2026-08-30-tether-imessage-sms-etc-on-linux.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-009",
+      "title": "Domain-Driven Agents",
+      "source": "hackernews-top",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "file": "2026-08-30-domain-driven-agents.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-010",
+      "title": "SQLite as a Document Database (2020)",
+      "source": "hackernews-top",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "file": "2026-08-30-sqlite-as-a-document-database-2020.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-011",
+      "title": "EVE Online moves to Python 3",
+      "source": "hackernews-top",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "file": "2026-08-30-eve-online-moves-to-python-3.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.1,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-012",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "source": "hackernews-top",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "file": "2026-08-30-samsungs-processing-in-memory-pim.json",
+      "tags": [
+        "hardware",
+        "memory-computing",
+        "ai-infrastructure",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
+    {
+      "id": "kb-2026-08-30-013",
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "source": "hackernews-top",
+      "url": "https://galaxium.app",
+      "file": "2026-08-30-show-hn-galaxium-an-experimental-webgpu-.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-08-30T02:21:07.551823+00:00"
+    },
     {
       "id": "kb-2026-08-29-001",
       "title": "Nanako0129/sepia",
@@ -26418,5 +26613,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-08-29T04:45:26.128601+00:00"
+  "last_updated": "2026-08-30T02:21:07.688393+00:00"
 }

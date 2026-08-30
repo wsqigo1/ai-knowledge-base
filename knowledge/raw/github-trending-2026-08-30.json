@@ -1,0 +1,500 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-08-30T02:19:46.536599+00:00",
+  "date": "2026-08-30",
+  "count": 19,
+  "items": [
+    {
+      "title": "XiaoDuoYa/codex-with-chatgpt",
+      "source": "github-trending",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "stars": 959,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "codex",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-30T01:38:49Z",
+      "summary": "这是一个将 ChatGPT 作为规划大脑、Codex 作为执行工具的 TypeScript 项目，通过 MCP 协议连接两者，实现 AI 代理的规划-执行分离。它解决了单一模型在复杂任务中规划与执行能力不均衡的问题，核心亮点是利用 MCP 实现模型间通信，让 ChatGPT 负责任务分解和策略制定，Codex 负责代码生成和工具调用。适用于需要高可靠代码生成的开发场景，如自动化编程、复杂软件构建。",
+      "tags": [
+        "agent",
+        "mcp",
+        "code-generation",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-30T02:19:48.507812+00:00"
+    },
+    {
+      "title": "amosblomqvist/learn",
+      "source": "github-trending",
+      "url": "https://github.com/amosblomqvist/learn",
+      "description": "My AI learning system.",
+      "stars": 779,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-25T21:49:59Z",
+      "summary": "这是一个个人AI学习系统，作者用TypeScript构建，旨在系统化管理和追踪AI学习过程。它解决的是AI知识碎片化、学习路径不清晰的问题，通过结构化方式组织学习资源、笔记和项目。核心技术亮点包括模块化设计、自动化学习流程追踪，以及与AI工具的集成。适用于希望系统化学习AI技术的开发者，可作为个人知识管理模板。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-08-30T02:19:50.270284+00:00"
+    },
+    {
+      "title": "Nanako0129/sepia",
+      "source": "github-trending",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stars": 671,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T23:19:30Z",
+      "summary": "sepia 是一个针对 AI 写作工具的 De-AI 技能包，修复叙事架构并适配专业文风，支持 Claude Code、Codex 等代理。基于 StoryScope 论文，通过 venue-matched 规则和 narrative-architecture repair 技术，解决 AI 生成文本的机械感与风格失配问题。适用于小说创作、专业写作等场景，提升输出自然度与语境贴合度。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-08-30T02:19:52.416300+00:00"
+    },
+    {
+      "title": "gtlhuyidan-sketch/life-ipo",
+      "source": "github-trending",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "stars": 449,
+      "language": "TypeScript",
+      "topics": [
+        "ai-planning",
+        "crm",
+        "health-data",
+        "knowledge-management",
+        "life-ipo",
+        "personal-finance",
+        "team-collaboration"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T08:53:41Z",
+      "summary": "life-ipo 是一个用 TypeScript 构建的个人数据操作系统，将财务、健康、知识、人脉、AI 决策与团队执行统一管理。它解决个人生活数据分散、难以整合和决策低效的问题。核心技术亮点包括 AI 规划（ai-planning）与 CRM 理念结合，支持健康数据与知识管理，并通过 AI 辅助决策和团队协作执行。适用场景为追求系统性自我管理和数据驱动生活的个人用户，以及希望整合多维度数据以优化决策的团队。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "knowledge-management",
+        "health-data",
+        "crm"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-30T02:19:54.658806+00:00"
+    },
+    {
+      "title": "kacperkapusciak/goldie",
+      "source": "github-trending",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "description": "✨ agentic app store previews and screenshots",
+      "stars": 417,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-28T13:38:20Z",
+      "summary": "goldie 是一个 TypeScript 编写的开源工具，用于生成 agentic app 的商店预览图和截图。它解决了 AI 应用开发者需要快速创建高质量、符合商店规范的应用展示素材的问题。核心技术亮点包括自动化截图生成、模板化设计、以及针对 agent 交互流程的可视化支持。适用于需要上架应用商店或进行产品演示的 AI 应用开发者，可显著提升素材制作效率。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-30T02:19:56.461078+00:00"
+    },
+    {
+      "title": "OnlyTerp/opengrok",
+      "source": "github-trending",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "stars": 369,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible",
+        "windows"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T12:51:16Z",
+      "summary": "OnlyTerp/opengrok 是一个开源工具，通过一条命令即可在 Grok Bot 中运行任何模型，提供模型选择器 UI、基于证据的 provider 映射和防更新破坏的 doctor 机制。它解决 Grok Bot 模型绑定单一、配置复杂和更新易失效的问题，核心亮点是模型路由和 OpenAI 兼容接口，适用于 AI 代理开发和模型切换场景。",
+      "tags": [
+        "model-router",
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-30T02:19:58.685135+00:00"
+    },
+    {
+      "title": "leopard627/fire-your-seo-agency",
+      "source": "github-trending",
+      "url": "https://github.com/leopard627/fire-your-seo-agency",
+      "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "stars": 344,
+      "language": null,
+      "topics": [
+        "aeo",
+        "ai-search",
+        "claude-code",
+        "claude-skills",
+        "geo",
+        "llmo",
+        "llms-txt",
+        "naver",
+        "seo"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-27T06:26:41Z",
+      "summary": "这是一个Claude Code skill，用于自动审计和优化SEO、AEO、GEO、LLMO及NEO（Naver）等AI搜索优化，旨在替代昂贵的AI搜索优化代理服务。它通过Claude Code的agent能力，自主执行网站审计、内容优化和关键词策略调整，解决企业在AI搜索时代排名下降的问题。核心技术亮点是利用Claude的tool-use和workflow-automation能力，将复杂的SEO流程自动化。适用场景包括企业网站、内容创作者和数字营销团队，希望降低SEO成本并提升AI搜索可见性。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-30T02:20:01.107254+00:00"
+    },
+    {
+      "title": "S1N6H/pentest-harness",
+      "source": "github-trending",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "stars": 289,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm",
+        "offensive-security",
+        "open-source",
+        "openai-api",
+        "pentesting",
+        "red-team",
+        "security-tools"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T20:08:30Z",
+      "summary": "Pentest Harness 是一个自托管的 AI agent 工具链，专为授权渗透测试、漏洞赏金、安全实验室和 CTF 设计。它解决安全测试中自动化与可控性难以兼顾的问题，允许用户自带 AI 模型 API，所有会话数据本地存储，确保隐私。核心技术亮点包括 TypeScript 实现、支持 Anthropic API 等主流 LLM 接口，以及 agent 驱动的任务编排。适用于安全研究人员、红队工程师和 CTF 玩家，在合规前提下提升测试效率。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-08-30T02:20:03.270679+00:00"
+    },
+    {
+      "title": "cbrock84/headcount",
+      "source": "github-trending",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "stars": 275,
+      "language": "Markdown",
+      "topics": [
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T18:32:52Z",
+      "summary": "headcount 是一个面向 Claude Code 的 agent 组织框架，将 agent 结构化为一家公司，包含 15+ 部门和 125+ 技能，每个技能可独立安装。它解决了 Claude Code 中 agent 技能分散、难以系统化组织的问题，通过模块化设计实现按需部署。核心技术亮点是部门化技能分类和独立安装机制，便于扩展和维护。适用场景包括复杂任务分解、团队协作式 agent 工作流，以及需要高度定制化 Claude Code 技能集的开发者。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "claude-code",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-30T02:20:05.511714+00:00"
+    },
+    {
+      "title": "hkqr/my-free-code",
+      "source": "github-trending",
+      "url": "https://github.com/hkqr/my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "stars": 264,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-28T09:02:17Z",
+      "summary": "hkqr/my-free-code 是一个开源的多提供商 AI 网关，专为 Claude Code 和其他编码代理设计。它解决了单一模型提供商限制和成本问题，通过模型路由、流式传输、工具调用、推理支持、故障转移和本地模型集成，提供灵活且高可用的 LLM 访问层。核心亮点包括多提供商路由和本地模型支持，适用于需要集成多种 LLM 的编码代理和 AI 工具链。",
+      "tags": [
+        "open-source",
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-30T02:20:07.327261+00:00"
+    },
+    {
+      "title": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "source": "github-trending",
+      "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "stars": 245,
+      "language": null,
+      "topics": [
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-26T05:47:32Z",
+      "summary": "这是一个GitHub仓库，收录了三个匿名化的真实AI Coding面试项目题，并附带一套通用解题方法。它解决求职者在AI编程面试中缺乏实战练习和系统方法论的问题。核心技术亮点在于提供真实场景的take-home assignment，涵盖agent开发、文档编写等任务，并总结可复用的解题框架。适用场景包括AI工程师面试准备、技术评估和项目实践参考。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-30T02:20:09.381246+00:00"
+    },
+    {
+      "title": "damejan80/tokentab",
+      "source": "github-trending",
+      "url": "https://github.com/damejan80/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": 245,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python",
+        "token-optimization",
+        "token-usage"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-27T14:20:23Z",
+      "summary": "tokentab 是一个 Python 编写的 CLI 工具，用于解析 Claude Code、Codex 和 Gemini CLI 的会话日志，自动计算各模型、项目和日期的费用消耗。它解决了 AI 编码工具使用成本不透明的问题，通过读取本地日志文件，提取 token 用量并映射到定价模型，生成按维度聚合的成本报告。核心亮点是轻量级、跨工具兼容，无需 API 调用即可离线分析。适用于个人开发者或团队监控 AI 编程助手支出，优化工具选择。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.9,
+      "analyzed_at": "2026-08-30T02:20:11.525649+00:00"
+    },
+    {
+      "title": "acryldev/acryl",
+      "source": "github-trending",
+      "url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 226,
+      "language": "TypeScript",
+      "topics": [
+        "acryl",
+        "agent-context-relay",
+        "agentic-development-environment",
+        "ai-agents",
+        "cordis",
+        "deepseek-harness"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T23:22:30Z",
+      "summary": "ACRYL 是一个为 AI 编码代理设计的持久化工作区和上下文中继系统，解决多代理协作中上下文丢失和切换成本高的问题。其核心亮点是提供单一规范上下文，支持任意编码代理接入，并管理代理生命周期。采用 TypeScript 实现，适用于复杂软件开发中的多代理协同、上下文持久化及工作流自动化场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-08-30T02:20:13.346122+00:00"
+    },
+    {
+      "title": "Merit-Systems/OpenInstinct",
+      "source": "github-trending",
+      "url": "https://github.com/Merit-Systems/OpenInstinct",
+      "description": "iMessage personal assistant + password vault",
+      "stars": 206,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "imessage"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-28T22:34:15Z",
+      "summary": "OpenInstinct 是一个基于 TypeScript 的开源项目，将 iMessage 个人助理与密码保险库功能集成于一体。它解决的是在 iMessage 平台上安全地管理密码并提供 AI 辅助交互的问题。核心技术亮点在于利用 agent 框架实现消息驱动的自动化任务，并集成密码管理功能，确保敏感信息的安全存储与调用。适用场景包括个人日常消息管理、快速检索密码、以及通过自然语言指令触发 AI 代理执行任务，适合对隐私敏感且重度使用 iMessage 的用户。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-08-30T02:20:16.001472+00:00"
+    },
+    {
+      "title": "MirroS-Lab/Code-as-World",
+      "source": "github-trending",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "stars": 181,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-28T03:58:35Z",
+      "summary": "Code-as-World 是一个利用 agent 自动发现可执行世界表示，以增强物理推理能力的开源项目。它解决 LLM 在物理世界推理中缺乏动态、可交互环境的问题，通过将物理规则编码为可执行代码，让模型在代码环境中进行模拟和推理。核心技术亮点是 agent 驱动的世界表示发现和代码执行反馈，适用于机器人、物理问答和复杂系统模拟等场景。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "code-generation",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-08-30T02:20:17.905395+00:00"
+    },
+    {
+      "title": "AgriciDaniel/youtubepro",
+      "source": "github-trending",
+      "url": "https://github.com/AgriciDaniel/youtubepro",
+      "description": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation.",
+      "stars": 180,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-27T21:17:08Z",
+      "summary": "youtubepro 是一个本地优先的 YouTube 研究工具，旨在为内容创作者提供基于 AI 的洞察、脚本撰写和缩略图生成。它解决创作者在内容策划和制作中依赖云端 AI 带来的隐私和延迟问题，通过本地处理实现数据安全与高效工作流。核心技术亮点包括本地 AI 推理、多模态理解（视频内容分析）和生成式脚本辅助。适用场景包括 YouTube 频道运营、视频内容规划、脚本初稿生成及视觉素材设计。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-30T02:20:20.142947+00:00"
+    },
+    {
+      "title": "LYiHub/Card-master-browser-extension-public",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "stars": 177,
+      "language": "TypeScript",
+      "topics": [
+        "browser-extension"
+      ],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-29T15:59:46Z",
+      "summary": "Card-master-browser-extension-public 是一个将浏览器脚本和扩展转化为可游玩卡牌的游戏化工具，同时支持利用AI自动生成全新卡牌插件。它解决了浏览器扩展生态中脚本复用和娱乐化展示的问题，核心亮点在于将技术组件抽象为卡牌形式，并集成AI生成能力，降低插件创建门槛。适用场景包括开发者社区的游戏化学习、扩展创意展示以及AI辅助的插件原型设计。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-08-30T02:20:22.582728+00:00"
+    },
+    {
+      "title": "MORTEN-BUUR/nordef-matrix-open-control",
+      "source": "github-trending",
+      "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
+      "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
+      "stars": 163,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-26T20:33:34Z",
+      "summary": "NORDEF Matrix Open Control 是一个模型无关的 AI 安全约束工具，旨在解决 AI 系统在自主决策中的安全风险。其核心技术包括 0/1/2 三级决策门控、Ed25519 根签名验证、重放攻击防护、证据链记录以及事件模式评估库。适用于需要严格安全控制的 AI 代理、自动化工作流或军事/工业级 AI 部署场景，提供可审计的决策边界。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-08-30T02:20:24.750999+00:00"
+    },
+    {
+      "title": "Straniero44/wenai",
+      "source": "github-trending",
+      "url": "https://github.com/Straniero44/wenai",
+      "description": "An intimate AI companion skill for OpenClaw — fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
+      "stars": 160,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-08-30T02:19:44.032463+00:00",
+      "published_at": "2026-08-25T05:03:45Z",
+      "summary": "wenai 是一个为 OpenClaw 设计的 AI 伴侣技能，通过集成 Pony V6 XL 视觉工作流，提供沉浸式虚拟女友交互体验。它解决的是个性化情感陪伴需求，核心亮点在于将大语言模型对话与多模态视觉生成结合，实现动态视觉反馈。适用于娱乐、社交模拟等场景，但技术深度有限，主要面向特定用户群体。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-08-30T02:20:26.737268+00:00"
+    }
+  ]
+}
