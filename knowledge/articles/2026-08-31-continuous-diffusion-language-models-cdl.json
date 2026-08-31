@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-31-006",
+  "title": "Continuous Diffusion Language Models (CDLM's)",
+  "source": "hackernews-top",
+  "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+  "summary": "CDLM是一种连续扩散语言模型，旨在解决离散token生成在自回归模型中的效率与灵活性瓶颈。其核心创新在于将文本生成视为连续空间中的去噪过程，通过扩散模型逐步精炼潜在表示，支持并行解码和更平滑的概率建模。该方法适用于需要高吞吐量生成或对生成过程有细粒度控制的任务，如长文本生成、数据增强和可控文本合成。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-08-31T02:14:48.584638+00:00",
+  "analyzed_at": "2026-08-31T02:15:46.532287+00:00",
+  "organized_at": "2026-08-31T02:16:15.155566+00:00",
+  "status": "published"
+}

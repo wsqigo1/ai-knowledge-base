@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-31-008",
+  "title": "How to build a diffusion language model",
+  "source": "hackernews-top",
+  "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+  "summary": "本文介绍如何构建扩散语言模型（diffusion language model），一种不同于自回归模型的生成方法。它解决自回归模型生成速度慢、无法并行解码的问题。核心技术亮点包括前向加噪与反向去噪的训练流程，以及如何将离散文本映射到连续空间。适用场景为需要快速生成或非自回归文本生成的研究与工程实践。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-08-31T02:14:48.584638+00:00",
+  "analyzed_at": "2026-08-31T02:15:55.402772+00:00",
+  "organized_at": "2026-08-31T02:16:15.155566+00:00",
+  "status": "published"
+}

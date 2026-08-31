@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-31-009",
+  "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+  "source": "hackernews-top",
+  "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+  "summary": "该条目披露了 QubesOS 中通过 copy-to-VM 错误报告反向通道实现任意代码执行的安全漏洞。它解决了 QubesOS 基于 Xen 的虚拟机间通信机制中错误处理不严谨的问题，攻击者可利用该通道注入恶意代码。核心技术亮点在于对 QubesOS 内部 IPC 和错误传播路径的深入分析，展示了如何将看似无害的错误报告功能转化为攻击面。适用场景为安全研究、操作系统漏洞分析和 QubesOS 用户的安全加固。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-08-31T02:14:48.584638+00:00",
+  "analyzed_at": "2026-08-31T02:15:57.573516+00:00",
+  "organized_at": "2026-08-31T02:16:15.155566+00:00",
+  "status": "published"
+}

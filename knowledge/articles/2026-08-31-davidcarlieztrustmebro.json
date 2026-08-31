@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-31-001",
+  "title": "DavidCarliez/trustmebro",
+  "source": "github-trending",
+  "url": "https://github.com/DavidCarliez/trustmebro",
+  "summary": "trustmebro 是一个用 Go 编写的开源工具，通过生成伪造的工具输出（fabricated tool output）来混淆 LLM，从而绕过其安全护栏（guardrails）。它针对依赖工具调用的 LLM 应用，利用模型对工具输出的信任漏洞，实现越狱。核心亮点是轻量级、可编程注入，适用于安全测试和红队评估。适用场景包括 LLM 安全审计、防护机制验证及渗透测试。",
+  "tags": [
+    "large-language-model",
+    "tool-use",
+    "security",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-31T02:14:48.438834+00:00",
+  "analyzed_at": "2026-08-31T02:15:12.929099+00:00",
+  "organized_at": "2026-08-31T02:16:15.155566+00:00",
+  "status": "published"
+}

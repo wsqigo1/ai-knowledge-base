@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-08-31-002",
+  "title": "JordyZomer/lemmalog",
+  "source": "github-trending",
+  "url": "https://github.com/JordyZomer/lemmalog",
+  "summary": "lemmalog 是一个用 Rust 实现的 Datalog 引擎，专为 LLM agent 记忆设计。它通过分层规则（stratified rules）、可溯源事实（provenance-tracked facts）和增量推导（incremental derivation）提供逻辑推理能力，并附带 MCP server 作为 agent 的共享记忆层。核心亮点是结合 Datalog 的声明式推理与知识图谱，支持事实溯源和高效增量更新，解决 agent 长期记忆的一致性和可解释性问题。适用于需要复杂推理、记忆管理和多 agent 协作的场景，如任务规划、知识管理和对话系统。",
+  "tags": [
+    "agent",
+    "knowledge-graph",
+    "mcp",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-08-31T02:14:48.438834+00:00",
+  "analyzed_at": "2026-08-31T02:15:26.174132+00:00",
+  "organized_at": "2026-08-31T02:16:15.155566+00:00",
+  "status": "published"
+}

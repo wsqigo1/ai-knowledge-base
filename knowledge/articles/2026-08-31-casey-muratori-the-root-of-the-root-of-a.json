@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-08-31-010",
+  "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+  "source": "hackernews-top",
+  "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+  "summary": "Casey Muratori 在 BSC 2026 演讲中探讨软件性能优化的根本问题，指出常见性能瓶颈源于算法与数据结构的低效设计，而非单纯代码微调。他提出通过剖析热点、重构数据布局和减少间接层来根治性能问题。核心技术亮点是强调“测量-定位-重构”的迭代方法论，并批判过度抽象带来的性能损耗。适用于高性能计算、游戏引擎、实时系统等对延迟敏感的场景，为开发者提供系统性的性能优化思维框架。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-08-31T02:14:48.584638+00:00",
+  "analyzed_at": "2026-08-31T02:16:08.927343+00:00",
+  "organized_at": "2026-08-31T02:16:15.155566+00:00",
+  "status": "published"
+}
