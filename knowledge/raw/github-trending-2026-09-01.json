@@ -1,0 +1,551 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-01T02:33:16.932997+00:00",
+  "date": "2026-09-01",
+  "count": 19,
+  "items": [
+    {
+      "title": "XiaoDuoYa/codex-with-chatgpt",
+      "source": "github-trending",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "stars": 1877,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "codex",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T13:17:49Z",
+      "summary": "该项目将 ChatGPT 作为规划大脑，Codex 作为执行工具，构建一个结合两者优势的 AI 代理系统。它解决了单一模型在复杂任务中规划与执行能力不足的问题，通过 MCP（Model Context Protocol）实现模型与工具的无缝集成。核心技术亮点包括 TypeScript 实现、基于 MCP 的上下文管理，以及 ChatGPT 负责任务分解与决策、Codex 负责代码生成的协作模式。适用于需要自动化编程、复杂工作流编排的开发者场景，尤其适合利用现有 LLM API 构建高效 agent 的工程师。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "mcp",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-01T02:33:19.776730+00:00"
+    },
+    {
+      "title": "Nanako0129/sepia",
+      "source": "github-trending",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stars": 1245,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T12:36:41Z",
+      "summary": "sepia 是一个开源 De-AI 写作技能，兼容 77+ 支持 Agent Skills 的智能体，并提供 Claude Code、Codex、Grok Build 和 Antigravity 的原生插件。它解决 AI 生成文本的机械感和叙事结构缺陷，通过基于 StoryScope 论文的叙事架构修复和场景匹配规则，提升小说与专业写作质量。核心亮点是跨平台兼容性和针对不同文体的自适应规则。适用于需要精细化写作辅助的 AI 工程师和内容创作者。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-01T02:33:21.927330+00:00"
+    },
+    {
+      "title": "cbrock84/headcount",
+      "source": "github-trending",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "stars": 858,
+      "language": "Markdown",
+      "topics": [
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-09-01T01:17:11Z",
+      "summary": "headcount 是一个面向 Claude Code 的 agent 组织框架，将 agent 按公司结构编排，包含 15+ 部门和 125+ 技能，每个技能可独立安装。它解决了 Claude Code 中 agent 技能分散、难以系统化组织的问题，通过模块化设计实现灵活扩展。核心技术亮点是部门化技能分类和独立安装机制，便于按需集成。适用场景包括复杂任务自动化、团队协作开发以及需要多技能协同的 AI 辅助编程环境。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "claude-code",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-01T02:33:24.358091+00:00"
+    },
+    {
+      "title": "damejan80/tokentab",
+      "source": "github-trending",
+      "url": "https://github.com/damejan80/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": 692,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python",
+        "token-optimization",
+        "token-usage"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-27T14:20:23Z",
+      "summary": "tokentab 是一个 Python 编写的 CLI 工具，用于解析 Claude Code、Codex 和 Gemini CLI 的会话日志，自动计算各模型、项目和日期的 token 消耗及费用。它解决了 AI 编码工具使用成本不透明的问题，帮助开发者或团队追踪和优化 AI 支出。核心亮点是支持多平台日志解析、按维度聚合统计，并输出清晰的费用报告。适用于个人开发者、团队管理者或财务人员监控 AI 编码工具的使用成本。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-09-01T02:33:26.512931+00:00"
+    },
+    {
+      "title": "hkqr/my-free-code",
+      "source": "github-trending",
+      "url": "https://github.com/hkqr/my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "stars": 612,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-28T09:02:17Z",
+      "summary": "hkqr/my-free-code 是一个开源的多提供商 AI 网关，专为 Claude Code 及其他编码代理设计。它解决单一模型供应商锁定和成本问题，通过统一接口实现模型路由、流式传输、工具调用、推理支持、故障转移及本地模型接入。核心亮点在于其灵活的路由策略和本地模型支持，增强了编码代理的可靠性和可扩展性。适用于需要多模型切换、高可用性及隐私保护的 AI 编码工作流。",
+      "tags": [
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-01T02:33:28.785718+00:00"
+    },
+    {
+      "title": "OnlyTerp/opengrok",
+      "source": "github-trending",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "stars": 397,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible",
+        "windows"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T22:22:56Z",
+      "summary": "OnlyTerp/opengrok 是一个开源工具，用于在 Grok Bot 中运行任意模型，提供一键设置、模型选择器 UI、基于证据的 provider 连接映射和防更新破坏的 doctor 功能。它解决了 Grok Bot 用户难以灵活切换或集成多种 LLM 模型的问题，核心亮点包括模型路由和 OpenAI 兼容接口，支持 AI 代理场景。适用于需要快速部署多模型环境或构建自定义 AI 助手的开发者。",
+      "tags": [
+        "large-language-model",
+        "model-router",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-01T02:33:30.882025+00:00"
+    },
+    {
+      "title": "leopard627/fire-your-seo-agency",
+      "source": "github-trending",
+      "url": "https://github.com/leopard627/fire-your-seo-agency",
+      "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "stars": 380,
+      "language": null,
+      "topics": [
+        "aeo",
+        "ai-search",
+        "claude-code",
+        "claude-skills",
+        "geo",
+        "llmo",
+        "llms-txt",
+        "naver",
+        "seo"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-27T06:26:41Z",
+      "summary": "这是一个Claude Code skill，用于自动审计和优化网站在AI搜索引擎（如SEO、AEO、GEO、LLMO、NEO）中的可见性。它替代昂贵的人工SEO代理服务，通过AI代理自主执行关键词分析、内容优化和结构化数据改进。核心技术亮点是利用Claude的agentic能力，结合搜索算法知识，实现自动化优化流程。适用场景包括企业网站、内容平台和电商站点，旨在提升AI搜索流量和品牌曝光。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-01T02:33:33.161560+00:00"
+    },
+    {
+      "title": "DavidCarliez/trustmebro",
+      "source": "github-trending",
+      "url": "https://github.com/DavidCarliez/trustmebro",
+      "description": "Bypass llm guardrails by confusing it with fabricated tool output.",
+      "stars": 366,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T18:14:11Z",
+      "summary": "trustmebro 是一个用 Go 编写的工具，通过向 LLM 提供伪造的工具输出（fabricated tool output）来混淆模型，从而绕过其安全护栏（guardrails）。其核心是利用模型对工具输出的信任机制，构造看似合法的数据流以触发越狱行为。适用于红队测试、安全研究及评估 LLM 在工具调用场景下的鲁棒性。技术亮点在于轻量级实现和针对 tool-use 管道的精准攻击，但需注意伦理边界。",
+      "tags": [
+        "tool-use",
+        "large-language-model",
+        "security",
+        "red-team",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-01T02:33:35.544430+00:00"
+    },
+    {
+      "title": "PAICNI/CFBox",
+      "source": "github-trending",
+      "url": "https://github.com/PAICNI/CFBox",
+      "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "stars": 343,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T12:30:29Z",
+      "summary": "CFBox 是一个运行在 Cloudflare Workers 上的代理订阅管理面板，兼容 CFnew 与 edgetunnel，在 /UUID 路径输出 VLESS/Trojan/xhttp 多协议订阅，并提供图形化配置界面（KV 存储、改完即生效），内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成及多语言支持。它解决了自建代理节点订阅管理复杂、配置不直观的问题，核心技术亮点包括 Workers 无服务器部署、KV 持久化、多协议订阅生成和连通性检测。适用场景为个人或小团队快速部署和管理代理订阅，尤其适合依赖 Cloudflare 生态的开发者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-01T02:33:38.000736+00:00"
+    },
+    {
+      "title": "MirroS-Lab/Code-as-World",
+      "source": "github-trending",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "stars": 339,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T13:48:01Z",
+      "summary": "Code-as-World 是一个将物理世界建模为可执行代码的智能体框架，旨在解决物理推理任务中世界模型难以获取和泛化的问题。其核心亮点是让 LLM 智能体通过交互探索环境，自动发现并生成可执行的 Python 代码作为世界表示，从而模拟物理规则并支持推理。该方法结合了代码生成与物理推理，适用于机器人控制、游戏 AI 和物理模拟等场景。项目提供 Python 实现，当前处于早期阶段，但思路新颖，具有研究价值。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "reasoning",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-01T02:33:40.108214+00:00"
+    },
+    {
+      "title": "S1N6H/pentest-harness",
+      "source": "github-trending",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "stars": 313,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm",
+        "offensive-security",
+        "open-source",
+        "openai-api",
+        "pentesting",
+        "red-team",
+        "security-tools"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-29T20:08:30Z",
+      "summary": "Pentest Harness 是一个自托管的 AI agent 工具链，专为授权渗透测试、漏洞赏金、安全实验室和 CTF 设计。它允许用户自带 AI 模型 API，所有会话数据本地保存，确保隐私。核心亮点是集成 LLM 驱动的自动化攻击流程，支持 Anthropic API 等，通过 agent 编排实现侦察、漏洞利用和报告生成。适用于安全研究人员和红队工程师，在合规环境中提升渗透测试效率。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-01T02:33:42.158616+00:00"
+    },
+    {
+      "title": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "source": "github-trending",
+      "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "stars": 289,
+      "language": null,
+      "topics": [
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-26T05:47:32Z",
+      "summary": "该仓库收录三个匿名化的真实 AI Coding 面试项目题，并配套一套通用解题方法论。它解决求职者在 AI 编程面试中缺乏实战演练和系统化应对策略的问题。核心技术亮点在于将真实面试题脱敏后公开，提炼出可复用的解题框架，涵盖需求分析、架构设计、代码实现与文档撰写。适用场景包括准备 AI 工程师面试、学习 agent 开发实践，以及作为教学案例。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-01T02:33:44.238291+00:00"
+    },
+    {
+      "title": "LYiHub/Card-master-browser-extension-public",
+      "source": "github-trending",
+      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "stars": 282,
+      "language": "TypeScript",
+      "topics": [
+        "browser-extension"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-29T15:59:46Z",
+      "summary": "Card-master-browser-extension-public 是一个将浏览器脚本和扩展转化为可游玩卡牌的游戏化工具，同时支持利用AI自动生成全新卡牌插件。它解决了浏览器扩展生态中脚本复用与娱乐化展示的问题，通过卡牌化封装和AI生成机制，降低了扩展开发门槛。核心技术亮点包括TypeScript编写的扩展框架、AI驱动的卡牌内容生成，以及灵活的插件系统。适用场景包括开发者社区的游戏化学习、扩展创意展示，以及AI生成内容的趣味应用。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-01T02:33:46.663347+00:00"
+    },
+    {
+      "title": "MORTEN-BUUR/nordef-matrix-open-control",
+      "source": "github-trending",
+      "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
+      "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
+      "stars": 242,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-26T20:33:34Z",
+      "summary": "NORDEF Matrix Open Control 是一个模型无关的 AI 安全控制层，通过 0/1/2 三级决策、Ed25519 根门控、重放保护、证据链和事件模式评估库，为 AI 系统提供可审计的安全约束。它解决 AI 部署中缺乏标准化安全机制的问题，核心亮点是加密签名验证和决策分级，适用于需要严格安全合规的 AI 应用场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-01T02:33:48.744813+00:00"
+    },
+    {
+      "title": "JordyZomer/lemmalog",
+      "source": "github-trending",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "stars": 237,
+      "language": "Rust",
+      "topics": [
+        "agent-memory",
+        "datalog",
+        "knowledge-graph",
+        "llm",
+        "llm-agents",
+        "mcp",
+        "neurosymbolic"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T22:47:49Z",
+      "summary": "lemmalog 是一个用 Rust 实现的 Datalog 引擎，专为 LLM agent 记忆设计。它解决 agent 状态管理中的事实一致性、推理可追溯和增量更新问题。核心亮点包括分层规则（stratified rules）、带 provenance 的事实追踪、增量推导，以及提供 MCP server 作为共享大脑，使 harness 能统一访问记忆。适用于需要复杂推理和持久记忆的 multi-agent 系统、知识图谱构建和长期任务规划场景。",
+      "tags": [
+        "agent",
+        "mcp",
+        "knowledge-graph",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-01T02:33:50.884635+00:00"
+    },
+    {
+      "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "source": "github-trending",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "stars": 192,
+      "language": "Shell",
+      "topics": [
+        "ai-seo",
+        "backlinks",
+        "claude",
+        "claude-skills",
+        "dataforseo",
+        "generative-engine-optimization",
+        "geo",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "open-source-seo",
+        "rank-tracking",
+        "seo",
+        "seo-audit"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T03:09:10Z",
+      "summary": "Ryze-AI-Adgent/open-seo-mcp-skills 是一个开源项目，提供用于 Claude 的 SEO 和 GEO（生成式引擎优化）技能集，通过 MCP 协议连接真实数据源（如 Search Console、GA4、DataForSEO），实现关键词研究、排名追踪、站点审计、外链分析和竞争对手差距分析。它解决了 SEO 从业者手动收集数据、分析效率低的问题，核心亮点是直接集成官方 API 和 MCP，使 Claude 能自主执行 SEO 任务。适用于需要自动化 SEO 工作流、提升 AI 可见性的营销团队和开发者。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-01T02:33:53.242760+00:00"
+    },
+    {
+      "title": "useagenthq/useagent",
+      "source": "github-trending",
+      "url": "https://github.com/useagenthq/useagent",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "stars": 174,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-coworker",
+        "automation",
+        "autonomous-agents",
+        "bun",
+        "claude",
+        "codex",
+        "coding-agent",
+        "computer-use",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "opencode",
+        "postgres",
+        "sandbox",
+        "self-hosted",
+        "slack-bot",
+        "typescript"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T18:37:06Z",
+      "summary": "useagent 是一个开源 AI 同事平台，为团队提供拥有独立云电脑的 AI 代理，可接入自有工具和上下文，交付完成的网站、演示文稿、电子表格、报告或 PR。它支持在用户现有订阅下运行 Claude Code、Codex 和 OpenCode，解决多代理协作与自动化任务执行的集成问题。核心技术亮点包括代理的云端环境隔离、工具调用与上下文管理，以及多模型兼容。适用场景涵盖软件开发、文档生成、数据分析等团队协作任务。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-01T02:33:55.799767+00:00"
+    },
+    {
+      "title": "Vuk97/forward-implementation-first",
+      "source": "github-trending",
+      "url": "https://github.com/Vuk97/forward-implementation-first",
+      "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+      "stars": 155,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "agents",
+        "agentskills",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "developer-tools",
+        "llm",
+        "llm-agents",
+        "openai",
+        "prompt-engineering"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-31T13:46:22Z",
+      "summary": "这是一个针对 AI 编码代理（如 Claude Code、Codex）的 Shell 技能包，旨在解决代理在自我虚构的簿记任务（如收据、哈希、锁、认证仪式）上停滞不前的问题。其核心理念是“先交付，后验证”，通过提供技能指令，引导代理优先完成实际编码工作，避免陷入不必要的流程性操作。适用于需要提升 AI 编码代理效率、减少无效中间步骤的开发场景。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-01T02:33:58.046234+00:00"
+    },
+    {
+      "title": "SpatiaOS/Procedura",
+      "source": "github-trending",
+      "url": "https://github.com/SpatiaOS/Procedura",
+      "description": "Agentic 3D Modeling with Procedural Control — turns a text prompt into an editable parametric program, with optional per-part materials and articulation.",
+      "stars": 140,
+      "language": "TypeScript",
+      "topics": [
+        "3d-generation",
+        "cad",
+        "generative-3d",
+        "llm-agent",
+        "openusd",
+        "parametric-design",
+        "procedural-modeling",
+        "robotics",
+        "shape-as-code",
+        "text-to-3d"
+      ],
+      "collected_at": "2026-09-01T02:33:15.816379+00:00",
+      "published_at": "2026-08-27T05:18:54Z",
+      "summary": "Procedura 是一个将文本提示转换为可编辑参数化程序的 Agentic 3D 建模工具，解决传统生成式 3D 模型不可编辑、缺乏控制的问题。其核心技术亮点是利用 LLM agent 生成带参数的程序化模型，支持逐部件材质和关节定义，并基于 OpenUSD 标准。适用于 CAD 设计、快速原型和需要精细控制的 3D 内容创作场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-01T02:33:59.874986+00:00"
+    }
+  ]
+}

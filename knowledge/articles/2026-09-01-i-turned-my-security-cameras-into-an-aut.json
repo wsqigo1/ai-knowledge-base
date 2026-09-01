@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-01-007",
+  "title": "I turned my security cameras into an automatic bird identification system",
+  "source": "hackernews-top",
+  "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+  "summary": "作者将家用安防摄像头改造为自动鸟类识别系统，解决野生动物观测中人工筛选视频效率低的问题。核心技术亮点包括使用运动检测触发拍摄、结合预训练图像分类模型（如ResNet或MobileNet）进行鸟类物种识别，并通过流水线自动化存储和通知。适用场景为生态监测、后院野生动物观察及低成本AI边缘计算应用。",
+  "tags": [
+    "multimodal",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-01T02:33:15.957030+00:00",
+  "analyzed_at": "2026-09-01T02:34:05.368483+00:00",
+  "organized_at": "2026-09-01T02:34:43.132427+00:00",
+  "status": "published"
+}

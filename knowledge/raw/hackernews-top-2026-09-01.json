@@ -1,0 +1,389 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-01T02:33:16.933574+00:00",
+  "date": "2026-09-01",
+  "count": 20,
+  "items": [
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "source": "hackernews-top",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "hn_url": "https://news.ycombinator.com/item?id=49514878",
+      "description": "",
+      "hn_score": 567,
+      "comments": 432,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "Google 已从 Chrome 网上应用店移除所有 MV2 扩展，包括流行的 uBlock Origin (UBO)，强制迁移至 MV3。此举解决 MV2 安全性和性能问题，但限制了广告拦截器的过滤规则能力。核心亮点是 MV3 的 declarativeNetRequest API 和 Service Worker 架构，但 UBO 等扩展功能受限。适用于依赖 Chrome 扩展的开发者、隐私保护用户及广告拦截场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-09-01T02:34:02.090776+00:00"
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "source": "hackernews-top",
+      "url": "https://www.darlinghq.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49515830",
+      "description": "",
+      "hn_score": 118,
+      "comments": 34,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "该项目旨在让 macOS 软件在 Linux 上运行，解决跨平台兼容性问题。核心技术可能涉及内核级兼容层或系统调用翻译，类似 Darling 项目。适用于需要在 Linux 环境运行 macOS 专属应用的开发者或测试场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-01T02:34:03.433345+00:00"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "source": "hackernews-top",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "hn_url": "https://news.ycombinator.com/item?id=49511856",
+      "description": "",
+      "hn_score": 370,
+      "comments": 96,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "作者将家用安防摄像头改造为自动鸟类识别系统，解决野生动物观测中人工筛选视频效率低的问题。核心技术亮点包括使用运动检测触发拍摄、结合预训练图像分类模型（如ResNet或MobileNet）进行鸟类物种识别，并通过流水线自动化存储和通知。适用场景为生态监测、后院野生动物观察及低成本AI边缘计算应用。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-01T02:34:05.368483+00:00"
+    },
+    {
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "source": "hackernews-top",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49476239",
+      "description": "",
+      "hn_score": 147,
+      "comments": 93,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "文章报道了名为“疯蜂蜜”的天然毒素（灰安息香毒素）通过在线平台销售，可能引发心脏骤停。它揭示了电商平台对高风险食品监管缺失的问题，核心亮点在于对公共健康风险的警示和监管漏洞的曝光。适用场景为食品安全监测、电商合规审查及公共卫生政策讨论，但对AI工程师的直接技术价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-01T02:34:07.569485+00:00"
+    },
+    {
+      "title": "Playa Phone",
+      "source": "hackernews-top",
+      "url": "https://playaphone.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49510514",
+      "description": "",
+      "hn_score": 507,
+      "comments": 187,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "Playa Phone 是一个基于 AI 的虚拟电话助手项目，旨在通过自然语言交互自动处理来电、语音消息和电话任务，解决传统电话系统缺乏智能响应和自动化的问题。其核心技术亮点可能涉及语音识别、大语言模型驱动的对话管理以及工具调用（如查询联系人、设置提醒），实现端到端的语音交互流程。适用于个人助理、客服自动化、智能家居控制等场景，尤其适合开发者集成到现有电话系统中。该项目在 Hacker News 上获得 507 分，社区关注度高，但具体技术实现细节未披露，需进一步评估其深度。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-01T02:34:10.503086+00:00"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "hn_url": "https://news.ycombinator.com/item?id=49512975",
+      "description": "",
+      "hn_score": 216,
+      "comments": 30,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "一个单HTML文件实现的ASCII赛博朋克城市，可交互行走探索。解决纯文本环境下的沉浸式3D体验问题，核心利用ASCII字符映射与JavaScript渲染引擎，在终端或浏览器中生成动态城市景观。适用于创意编程、游戏开发教学及复古风格视觉演示。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-01T02:34:12.326493+00:00"
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "hn_url": "https://news.ycombinator.com/item?id=49503521",
+      "description": "",
+      "hn_score": 223,
+      "comments": 26,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "菲尔兹奖得主Terence Tao通过视频讲解6个基础数学概念，面向AI工程师和研究者。视频旨在弥补LLM时代对数学直觉的缺失，帮助理解模型背后的数学原理。核心亮点是Tao以直观方式阐述关键概念，连接理论与应用。适用场景包括AI教育、模型设计中的数学基础强化，以及提升推理能力。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-01T02:34:14.209506+00:00"
+    },
+    {
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "source": "hackernews-top",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "hn_url": "https://news.ycombinator.com/item?id=49467636",
+      "description": "",
+      "hn_score": 310,
+      "comments": 112,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "Dwarf Fortress 即将推出大型魔法更新，为游戏引入全新的魔法系统。该更新解决游戏长期缺乏魔法内容的问题，增加深度和可玩性。核心技术亮点包括新的魔法技能树、法术生成机制和世界生成中的魔法元素。适用场景为游戏玩家和模组开发者，对 AI 工程师价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-01T02:34:15.862461+00:00"
+    },
+    {
+      "title": "Show HN: Laser Graffiti",
+      "source": "hackernews-top",
+      "url": "https://laser.consti.de",
+      "hn_url": "https://news.ycombinator.com/item?id=49489376",
+      "description": "",
+      "hn_score": 128,
+      "comments": 26,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "Laser Graffiti 是一个将激光投影与涂鸦艺术结合的开源项目，允许用户通过激光在墙壁等表面绘制动态图案。它解决了传统涂鸦不可逆、受限于物理媒介的问题，利用激光扫描和实时图像处理技术实现高精度投影。核心技术包括激光振镜控制、颜色映射和运动追踪，适用于艺术展览、互动广告和公共空间装饰。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-09-01T02:34:17.751699+00:00"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "source": "hackernews-top",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "hn_url": "https://news.ycombinator.com/item?id=49508982",
+      "description": "",
+      "hn_score": 304,
+      "comments": 349,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "Apple 对 Mac Mini 和 Mac Studio 的 AI 需求估计不足，导致供应短缺。该事件揭示了本地 AI 推理对高性能硬件需求的激增，尤其是开发者和小型团队在运行 LLM 时偏好本地部署。核心亮点在于 Apple 芯片的统一内存架构对 AI 工作负载的适配性，以及本地推理在隐私和延迟上的优势。适用场景包括 AI 开发者的本地模型测试、推理部署和边缘计算。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-01T02:34:20.018990+00:00"
+    },
+    {
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "source": "hackernews-top",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "hn_url": "https://news.ycombinator.com/item?id=49496292",
+      "description": "",
+      "hn_score": 147,
+      "comments": 41,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "该项目利用智能手机LED灯与AI算法检测隐藏摄像头，解决隐私安全问题。核心技术亮点在于通过LED闪烁引发摄像头反射，再利用AI图像识别分析反射特征，实现低成本、便携式检测。适用场景包括酒店、民宿、更衣室等隐私敏感场所。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-01T02:34:21.793744+00:00"
+    },
+    {
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "source": "hackernews-top",
+      "url": "https://ravynos.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49511534",
+      "description": "",
+      "hn_score": 173,
+      "comments": 105,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "RavynOS 是一个基于 Darwin、FreeBSD 和 Apple 开源组件的预 alpha 操作系统，旨在提供类似 macOS 的体验但非苹果硬件。它解决的是在非苹果设备上运行类 macOS 环境的问题，核心技术亮点包括使用 FreeBSD 内核和用户态，集成 Apple 开源框架（如 Cocoa 和 Objective-C 运行时），并支持运行部分 macOS 应用。适用场景为开发者探索操作系统移植、开源社区研究及对 macOS 替代方案感兴趣的技术爱好者。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-01T02:34:24.036285+00:00"
+    },
+    {
+      "title": "I think the military commissary's freezers were hacked",
+      "source": "hackernews-top",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "hn_url": "https://news.ycombinator.com/item?id=49508506",
+      "description": "",
+      "hn_score": 257,
+      "comments": 153,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "这是一条关于军事基地杂货店冷柜可能被黑客攻击的讨论帖，源自Hacker News，热度较高（257分）。内容推测涉及物联网设备或供应链系统的安全漏洞，可能通过远程控制冷柜温度造成破坏。核心技术点在于对嵌入式系统、网络协议或管理接口的安全分析，但缺乏具体技术细节。适用场景为物联网安全研究、关键基础设施防护讨论，对AI工程师的实用价值有限，更多是安全领域的案例探讨。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-01T02:34:26.295785+00:00"
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "source": "hackernews-top",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "hn_url": "https://news.ycombinator.com/item?id=49510000",
+      "description": "",
+      "hn_score": 184,
+      "comments": 51,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "这是一个关于ChatGPT工作工具和技能参考的资源集合，旨在为开发者提供构建ChatGPT插件、技能和自动化工作流的实用指南。它解决了开发者在利用ChatGPT进行实际任务时缺乏系统参考的问题，核心亮点是整理了工具调用（tool-use）、技能定义和API集成的具体方法。适用于需要快速实现ChatGPT定制化功能的AI工程师，特别是涉及工作流自动化和AI助手开发的场景。",
+      "tags": [
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-01T02:34:28.850988+00:00"
+    },
+    {
+      "title": "Reverse engineering my ADHD test",
+      "source": "hackernews-top",
+      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+      "hn_url": "https://news.ycombinator.com/item?id=49467700",
+      "description": "",
+      "hn_score": 154,
+      "comments": 79,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "文章逆向工程了作者本人的ADHD（注意力缺陷多动障碍）测试，分析其背后的算法和评分机制。它解决了对医疗/心理评估工具透明度的需求，通过数据分析和逆向工程揭示测试如何量化注意力指标。核心技术亮点包括对测试逻辑的拆解、特征提取和统计建模。适用于理解心理测评工具的设计、改进或批判性评估，尤其对AI在医疗诊断辅助领域的开发者有参考价值。",
+      "tags": [
+        "reasoning",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-01T02:34:31.166783+00:00"
+    },
+    {
+      "title": "Internet centralization and the original sin of NAT",
+      "source": "hackernews-top",
+      "url": "https://dreamstation.systems/personal/ntppost.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49504905",
+      "description": "",
+      "hn_score": 185,
+      "comments": 147,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "本文探讨互联网中心化问题，指出NAT（网络地址转换）作为原始设计缺陷，加剧了网络架构的层级化和控制权集中。它分析了NAT如何导致端到端连接受限、依赖中继服务器，进而使大型平台成为流量枢纽。核心亮点是揭示NAT在技术演进中的‘原罪’角色，并讨论IPv6等替代方案。适用场景包括网络架构设计、去中心化系统研究及对互联网治理的思考。",
+      "tags": [
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-09-01T02:34:33.567679+00:00"
+    },
+    {
+      "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
+      "source": "hackernews-top",
+      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+      "hn_url": "https://news.ycombinator.com/item?id=49424322",
+      "description": "",
+      "hn_score": 23,
+      "comments": 13,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "该文章是关于使用Claude（AI模型）辅助模拟QIC-117磁带驱动器，属于复古计算领域。它解决了现代系统无法访问旧磁带格式的问题，通过AI辅助逆向工程和代码生成，实现了对QIC-117接口的模拟。核心技术亮点是利用Claude的代码生成能力来解析硬件协议并编写模拟器。适用场景包括数据归档、复古计算爱好者和硬件模拟研究。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-09-01T02:34:36.084753+00:00"
+    },
+    {
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "source": "hackernews-top",
+      "url": "https://usealmanac.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49511007",
+      "description": "",
+      "hn_score": 49,
+      "comments": 43,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "Almanac 是 YC S26 推出的企业级 AI 平台，旨在让 AI 深度理解公司内部知识、流程和上下文。它解决企业 AI 应用缺乏组织记忆、回答泛化的问题。核心技术亮点包括知识图谱构建、RAG 流水线、权限感知检索和持续学习机制。适用场景包括内部知识问答、员工入职培训、决策支持等，帮助企业将分散文档和系统数据转化为可查询的智能资产。",
+      "tags": [
+        "rag",
+        "large-language-model",
+        "knowledge-graph",
+        "enterprise-ai",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-01T02:34:38.749040+00:00"
+    },
+    {
+      "title": "No country for mediocre mathematicians",
+      "source": "hackernews-top",
+      "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
+      "hn_url": "https://news.ycombinator.com/item?id=49495171",
+      "description": "",
+      "hn_score": 161,
+      "comments": 93,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "文章讨论数学能力在AI时代的重要性，指出平庸的数学技能将难以适应技术发展。核心观点是数学作为推理和问题解决的基础，对AI工程师理解算法、模型优化至关重要。技术亮点在于强调数学思维在LLM、agent等领域的实际应用，而非具体技术实现。适用场景为AI从业者自我提升和技术选型参考。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-01T02:34:40.714993+00:00"
+    },
+    {
+      "title": "The safest job from AI may be writing",
+      "source": "hackernews-top",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49512856",
+      "description": "",
+      "hn_score": 114,
+      "comments": 159,
+      "collected_at": "2026-09-01T02:33:15.957030+00:00",
+      "published_at": "2026-09-01T02:33:15.957030+00:00",
+      "summary": "这是一篇观点性文章，讨论在AI时代写作职业的相对安全性。文章认为，尽管AI能生成文本，但高质量写作涉及独特的人类判断、创造力和情感共鸣，难以被完全自动化。它解决的是AI取代工作的焦虑问题，核心亮点在于分析写作中不可量化的部分，并强调人类在复杂叙事和伦理决策中的优势。适用场景为职业规划讨论和AI影响评估。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-01T02:34:43.074073+00:00"
+    }
+  ]
+}

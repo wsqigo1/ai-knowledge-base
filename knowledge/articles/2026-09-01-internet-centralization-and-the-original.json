@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-09-01-015",
+  "title": "Internet centralization and the original sin of NAT",
+  "source": "hackernews-top",
+  "url": "https://dreamstation.systems/personal/ntppost.html",
+  "summary": "本文探讨互联网中心化问题，指出NAT（网络地址转换）作为原始设计缺陷，加剧了网络架构的层级化和控制权集中。它分析了NAT如何导致端到端连接受限、依赖中继服务器，进而使大型平台成为流量枢纽。核心亮点是揭示NAT在技术演进中的‘原罪’角色，并讨论IPv6等替代方案。适用场景包括网络架构设计、去中心化系统研究及对互联网治理的思考。",
+  "tags": [
+    "open-source",
+    "reasoning"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-09-01T02:33:15.957030+00:00",
+  "analyzed_at": "2026-09-01T02:34:33.567679+00:00",
+  "organized_at": "2026-09-01T02:34:43.132427+00:00",
+  "status": "published"
+}
