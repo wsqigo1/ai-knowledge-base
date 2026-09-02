@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-02-020",
+  "title": "Io_uring Without Readahead",
+  "source": "hackernews-top",
+  "url": "https://frn.sh/io-uring/",
+  "summary": "本文讨论 io_uring 在无 readahead 场景下的应用，解决传统 readahead 机制在高性能 I/O 中导致的延迟和资源浪费问题。核心技术亮点是直接利用 io_uring 的异步 I/O 能力，绕过内核预读，实现更精细的 I/O 控制，提升吞吐量和降低延迟。适用场景包括数据库、存储系统和高性能网络服务等对 I/O 性能要求极高的应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.9,
+  "collected_at": "2026-09-02T01:54:38.428649+00:00",
+  "analyzed_at": "2026-09-02T01:56:09.565596+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}

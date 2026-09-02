@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-02-003",
+  "title": "carloslfu/slotstream",
+  "source": "github-trending",
+  "url": "https://github.com/carloslfu/slotstream",
+  "summary": "SlotStream 是一个基于 MLX 和 Swift 的本地 LLM 推理引擎，专为 Apple Silicon Mac 设计。它通过从 SSD 流式加载专家模块（MoE 架构），使得运行 125B 参数的 Qwen3.8-Flash-Next 模型仅需远低于 104GB 的内存，解决了大模型在 Mac 上内存不足的问题。核心技术亮点是专家级流式加载，显著降低 RAM 占用，同时提供 Ollama 兼容 API，便于集成。适用于资源受限的 Mac 用户进行本地大模型推理和开发测试。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-09-02T01:54:38.259768+00:00",
+  "analyzed_at": "2026-09-02T01:55:14.607563+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}

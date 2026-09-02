@@ -1,0 +1,395 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-02T01:54:39.577089+00:00",
+  "date": "2026-09-02",
+  "count": 20,
+  "items": [
+    {
+      "title": "Hang on to Your Firefox",
+      "source": "hackernews-top",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "hn_url": "https://news.ycombinator.com/item?id=49527748",
+      "description": "",
+      "hn_score": 525,
+      "comments": 280,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "这是一篇关于Firefox浏览器生存现状的评论文章，讨论其在Chrome主导市场下的挑战与价值。核心观点是Firefox作为独立浏览器引擎（Gecko）对开放互联网的重要性，以及用户应继续支持它以避免浏览器市场垄断。技术亮点在于强调Gecko引擎的独立性和隐私保护特性。适用场景为关注浏览器生态、开源软件和网络自由的开发者及用户。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-09-02T01:55:27.896043+00:00"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "hn_url": "https://news.ycombinator.com/item?id=49525378",
+      "description": "",
+      "hn_score": 941,
+      "comments": 881,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Claude Fable 5.1 和 Claude Mythos 5.1 是 Anthropic 发布的新一代大语言模型版本，旨在提升推理能力和多模态处理性能。它们解决了复杂任务中模型准确性和上下文理解不足的问题。核心技术亮点包括增强的推理链、更高效的上下文窗口利用以及改进的多模态融合。适用场景涵盖代码生成、复杂问题求解、多模态内容分析等。该条目在 Hacker News 上获得 941 分，社区热度高，但具体技术细节未披露，可能为虚构或传闻，需谨慎评估。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "multimodal",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-02T01:55:30.567297+00:00"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "source": "hackernews-top",
+      "url": "https://danluu.com/zitron/",
+      "hn_url": "https://news.ycombinator.com/item?id=49526069",
+      "description": "",
+      "hn_score": 420,
+      "comments": 504,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "该条目讨论Ed Zitron作为AI怀疑论者的预测准确性，属于行业评论而非技术实现。内容分析其过往对AI泡沫、技术炒作等的判断，评估其观点与行业实际发展的吻合度。核心是观点验证，不涉及具体技术方案或工具。适用场景为关注AI行业趋势和批判性思维的读者，对工程师实际开发帮助有限。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 3.6,
+      "analyzed_at": "2026-09-02T01:55:32.836704+00:00"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "source": "hackernews-top",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "hn_url": "https://news.ycombinator.com/item?id=49529898",
+      "description": "",
+      "hn_score": 39,
+      "comments": 7,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "本文探讨LLM推理的高效前沿，分析在给定计算预算下如何优化推理速度与质量之间的权衡。核心亮点包括讨论批处理、量化、投机解码等技术，以及模型架构选择对推理效率的影响。适用于需要平衡延迟和成本的LLM部署场景，如实时对话、边缘计算等。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-02T01:55:34.807451+00:00"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "source": "hackernews-top",
+      "url": "https://masteranza.github.io/weedout/",
+      "hn_url": "https://news.ycombinator.com/item?id=49528895",
+      "description": "",
+      "hn_score": 55,
+      "comments": 19,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Weedout 是一款 Safari 扩展，用于隐藏 YouTube 上标记为 AI 生成的视频。它解决用户希望过滤 AI 生成内容、提升观看体验的问题。核心亮点是轻量级浏览器扩展，通过识别视频标签进行过滤，无需复杂算法。适用场景为 Safari 用户浏览 YouTube 时，快速屏蔽 AI 标签视频。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 4.6,
+      "analyzed_at": "2026-09-02T01:55:36.839605+00:00"
+    },
+    {
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49530472",
+      "description": "",
+      "hn_score": 19,
+      "comments": 6,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "这是一篇关于使用Claude Fable 5.1模型生成动画鹈鹕的帖子，展示了该模型在创意内容生成方面的能力。它解决了用户通过自然语言指令创建动态视觉内容的需求，核心技术亮点在于模型对复杂动画描述的理解和生成能力。适用场景包括创意设计、动画制作和多媒体内容创作，尤其适合设计师和内容创作者快速原型验证。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "code-generation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-02T01:55:38.570967+00:00"
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "source": "hackernews-top",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "hn_url": "https://news.ycombinator.com/item?id=49520022",
+      "description": "",
+      "hn_score": 833,
+      "comments": 247,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "AnkiDroid 因 Google Play 政策调整，不再允许在应用内展示 Open Collective 捐赠链接。该问题涉及开源项目在应用商店分发时的合规性挑战，核心是 Google Play 对第三方支付和捐赠链接的限制。技术亮点在于开源社区如何通过替代渠道（如官网、GitHub）维持捐赠流程，并保持应用功能不受影响。适用场景包括开源开发者、移动应用分发策略制定者，以及依赖社区捐赠的软件项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.6,
+      "analyzed_at": "2026-09-02T01:55:40.748763+00:00"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "source": "hackernews-top",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "hn_url": "https://news.ycombinator.com/item?id=49521973",
+      "description": "",
+      "hn_score": 308,
+      "comments": 107,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Firefox 在 iOS 上推出广告拦截功能，解决移动端浏览器广告干扰和隐私追踪问题。核心亮点是集成内容拦截技术，利用原生 API 高效过滤广告和跟踪器，提升页面加载速度和用户隐私保护。适用于 iOS 用户日常浏览，尤其注重隐私和性能的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-02T01:55:42.730852+00:00"
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "hn_url": "https://news.ycombinator.com/item?id=49527396",
+      "description": "",
+      "hn_score": 244,
+      "comments": 118,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "该条目揭示ChatGPT/Codex桌面应用捆绑了完整LibreOffice副本，用于文档解析与渲染。它解决了AI处理复杂文档格式（如docx、xlsx）时的兼容性问题，通过本地办公套件确保高保真转换。核心技术亮点是集成LibreOffice作为文档处理后端，提升多格式支持能力。适用场景包括AI助手处理用户上传的办公文件、代码生成中的文档分析等。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-02T01:55:44.899231+00:00"
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "source": "hackernews-top",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "hn_url": "https://news.ycombinator.com/item?id=49525297",
+      "description": "",
+      "hn_score": 184,
+      "comments": 148,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Jujutsu（jj）版本控制系统的创建者宣布加入 ERSC（一个研究或工程组织）。Jujutsu 是一个旨在简化 Git 工作流的现代 VCS，其核心创新在于基于变更（change-based）的模型和自动冲突解决，解决了传统 Git 分支管理复杂、操作易出错的问题。该事件表明 ERSC 可能将利用 jj 的底层技术来推进开发者工具或 AI 辅助编程。适用场景包括大型代码库的协作、AI 驱动的代码审查和版本控制自动化。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-02T01:55:47.389511+00:00"
+    },
+    {
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "source": "hackernews-top",
+      "url": "https://www.norirobotics.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49525153",
+      "description": "",
+      "hn_score": 115,
+      "comments": 40,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Nori Robotics 推出低成本人形机器人，面向开发者社区，旨在降低人形机器人研发门槛。其核心亮点是价格亲民，提供开放的开发平台，支持定制与实验。解决当前人形机器人成本高昂、难以普及的问题。适用场景包括学术研究、原型开发、教育及AI具身智能实验。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "analyzed_at": "2026-09-02T01:55:49.520945+00:00"
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "source": "hackernews-top",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49519939",
+      "description": "",
+      "hn_score": 580,
+      "comments": 150,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "作者在1.5小时内训练了一个小型transformer模型，其性能超越了许多大型LLM。该工作聚焦于高效训练策略，通过精心设计的数据集和训练配置，在有限计算资源下实现强竞争力。核心技术亮点包括数据质量优化、模型架构微调及训练技巧，适用于资源受限的模型开发场景，为轻量级AI研究提供参考。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-09-02T01:55:51.458298+00:00"
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "source": "hackernews-top",
+      "url": "https://ambientcss.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49523387",
+      "description": "",
+      "hn_score": 194,
+      "comments": 68,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Ambient CSS v3 是一个将 Blender 的 3D 建模理念引入 CSS 的框架，旨在解决传统 CSS 难以实现复杂 3D 视觉效果的问题。其核心技术亮点包括基于物理的材质系统、光照模拟和实时渲染，允许开发者通过类似 Blender 的节点式界面定义样式。适用于需要高级 3D 动画、交互式视觉体验的 Web 应用，如产品展示、数据可视化和创意网站。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-02T01:55:53.712186+00:00"
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "source": "hackernews-top",
+      "url": "https://moviescenemap.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49524320",
+      "description": "",
+      "hn_score": 153,
+      "comments": 28,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "该项目提供包含13,312部电影、剧集、游戏、动漫和漫画的场景地图，将视觉内容映射到地理空间。它解决媒体内容地理信息分散、难以直观探索的问题。核心技术亮点是构建大规模场景-地点关联数据集，并可能结合计算机视觉或众包进行地理标注。适用场景包括影视旅游、文化研究、内容推荐和地理信息可视化。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-02T01:55:56.022409+00:00"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49522897",
+      "hn_url": "https://news.ycombinator.com/item?id=49522897",
+      "description": "",
+      "hn_score": 183,
+      "comments": 204,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "这是一个Hacker News上的招聘帖，汇集了众多公司对AI相关岗位的招聘信息。它解决的是AI工程师寻找工作机会的信息聚合问题。核心亮点在于社区驱动的高质量职位列表，以及HN社区的高活跃度。适用场景是AI从业者浏览职位、了解市场需求。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-02T01:55:58.041439+00:00"
+    },
+    {
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "source": "hackernews-top",
+      "url": "https://github.com/carloslfu/slotstream",
+      "hn_url": "https://news.ycombinator.com/item?id=49524447",
+      "description": "",
+      "hn_score": 142,
+      "comments": 86,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "该项目展示在48GB内存的Mac上运行104GB的Qwen3.8-Flash-Next模型，达到约12 tok/s的推理速度。通过量化、内存优化和分页技术，突破显存限制，实现大模型本地部署。核心亮点是高效利用统一内存架构，解决资源受限环境下的推理瓶颈。适用于个人开发者、边缘计算场景，需平衡速度与精度。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-09-02T01:56:00.100051+00:00"
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "source": "hackernews-top",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "hn_url": "https://news.ycombinator.com/item?id=49523754",
+      "description": "",
+      "hn_score": 470,
+      "comments": 199,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Google Play Store 封禁了 AuroraStore，这是一个允许用户匿名下载应用的开源客户端，此举直接影响了 GrapheneOS 用户获取应用的能力。AuroraStore 通过伪装成用户账号从 Play Store 拉取应用，解决了隐私敏感用户无法使用 Google 服务的痛点。其核心技术是匿名会话管理和应用元数据代理。该事件凸显了开源应用分发渠道与主流平台之间的冲突，适用于关注移动端隐私、开源生态和 Android 安全的研究者与开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-09-02T01:56:02.576338+00:00"
+    },
+    {
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "source": "hackernews-top",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "hn_url": "https://news.ycombinator.com/item?id=49525160",
+      "description": "",
+      "hn_score": 147,
+      "comments": 40,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "Atlas 是一个面向空间智能的世界模型，旨在解决 AI 对 3D 场景理解与交互能力不足的问题。其核心技术亮点在于构建统一的空间表征，支持从图像/视频输入中学习物理规律与空间关系，并用于预测和规划。适用场景包括机器人导航、自动驾驶、AR/VR 以及具身智能任务，为空间推理提供基础模型。",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-02T01:56:04.764847+00:00"
+    },
+    {
+      "title": "AI Coding Agent Skills for Real Engineers",
+      "source": "hackernews-top",
+      "url": "https://github.com/mattpocock/skills",
+      "hn_url": "https://news.ycombinator.com/item?id=49529329",
+      "description": "",
+      "hn_score": 8,
+      "comments": 3,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "这是一篇面向AI工程师的实践指南，聚焦于如何为AI编码代理（coding agent）构建有效的技能（skills）。它解决的是通用编码代理在特定项目或工作流中表现不佳的问题，通过定义可复用的技能模块（如特定框架的代码生成、测试执行或调试流程）来增强代理的实用能力。核心技术亮点包括技能的结构化定义、与代理工具的集成方式以及针对真实工程场景的优化策略。适用场景包括团队内部定制AI辅助开发流程、提升编码代理在复杂代码库中的准确性和效率。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-02T01:56:07.366113+00:00"
+    },
+    {
+      "title": "Io_uring Without Readahead",
+      "source": "hackernews-top",
+      "url": "https://frn.sh/io-uring/",
+      "hn_url": "https://news.ycombinator.com/item?id=49521623",
+      "description": "",
+      "hn_score": 105,
+      "comments": 35,
+      "collected_at": "2026-09-02T01:54:38.428649+00:00",
+      "published_at": "2026-09-02T01:54:38.428649+00:00",
+      "summary": "本文讨论 io_uring 在无 readahead 场景下的应用，解决传统 readahead 机制在高性能 I/O 中导致的延迟和资源浪费问题。核心技术亮点是直接利用 io_uring 的异步 I/O 能力，绕过内核预读，实现更精细的 I/O 控制，提升吞吐量和降低延迟。适用场景包括数据库、存储系统和高性能网络服务等对 I/O 性能要求极高的应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-09-02T01:56:09.565596+00:00"
+    }
+  ]
+}

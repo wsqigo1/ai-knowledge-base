@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-02-002",
+  "title": "Player-YN/PawWork_ZhuaZhua",
+  "source": "github-trending",
+  "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+  "summary": "PawWork_ZhuaZhua 是一个基于 Chrome 扩展的 selection-first web agent，用户可在实时网页上选择元素并描述期望结果，自动生成可编辑的 Office 文件。它解决传统网页自动化工具需要编写选择器或脚本的问题，采用 BYOK（自带 API key）模式，沙箱化运行，无需服务器。核心技术亮点包括 LLM 驱动的元素识别与操作生成，以及浏览器端本地执行。适用于办公自动化、数据提取和网页交互任务，尤其适合非程序员快速生成结构化文档。",
+  "tags": [
+    "agent",
+    "browser-agent",
+    "tool-use",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-09-02T01:54:38.259768+00:00",
+  "analyzed_at": "2026-09-02T01:55:00.089695+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}

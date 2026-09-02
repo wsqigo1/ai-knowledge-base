@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-02-007",
+  "title": "localai-org/skin-tokens.cpp",
+  "source": "github-trending",
+  "url": "https://github.com/localai-org/skin-tokens.cpp",
+  "summary": "skin-tokens.cpp 是 VAST-AI SkinTokens 的 C++/GGML 实现，用于自动为 3D 网格绑定骨骼（auto-rigging），使其可直接用于动画。它解决了传统手动蒙皮耗时且依赖专业软件的问题，通过机器学习模型预测骨骼位置和权重，核心亮点是利用 GGML 实现高效推理，支持跨平台部署。适用于游戏开发、虚拟角色制作和动画流水线自动化，尤其适合需要快速生成可动画角色的场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "multimodal"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-09-02T01:54:38.259768+00:00",
+  "analyzed_at": "2026-09-02T01:55:23.335773+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}

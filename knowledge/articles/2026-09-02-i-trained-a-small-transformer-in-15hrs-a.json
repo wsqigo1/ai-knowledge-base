@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-02-014",
+  "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+  "source": "hackernews-top",
+  "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "summary": "作者在1.5小时内训练了一个小型transformer模型，其性能超越了许多大型LLM。该工作聚焦于高效训练策略，通过精心设计的数据集和训练配置，在有限计算资源下实现强竞争力。核心技术亮点包括数据质量优化、模型架构微调及训练技巧，适用于资源受限的模型开发场景，为轻量级AI研究提供参考。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 8.1,
+  "collected_at": "2026-09-02T01:54:38.428649+00:00",
+  "analyzed_at": "2026-09-02T01:55:51.458298+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}

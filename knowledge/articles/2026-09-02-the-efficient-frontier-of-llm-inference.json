@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-02-010",
+  "title": "The efficient frontier of LLM inference",
+  "source": "hackernews-top",
+  "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+  "summary": "本文探讨LLM推理的高效前沿，分析在给定计算预算下如何优化推理速度与质量之间的权衡。核心亮点包括讨论批处理、量化、投机解码等技术，以及模型架构选择对推理效率的影响。适用于需要平衡延迟和成本的LLM部署场景，如实时对话、边缘计算等。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-02T01:54:38.428649+00:00",
+  "analyzed_at": "2026-09-02T01:55:34.807451+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}

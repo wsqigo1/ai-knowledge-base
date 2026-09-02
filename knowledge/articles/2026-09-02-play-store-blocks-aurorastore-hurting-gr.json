@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-02-017",
+  "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+  "source": "hackernews-top",
+  "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+  "summary": "Google Play Store 封禁了 AuroraStore，这是一个允许用户匿名下载应用的开源客户端，此举直接影响了 GrapheneOS 用户获取应用的能力。AuroraStore 通过伪装成用户账号从 Play Store 拉取应用，解决了隐私敏感用户无法使用 Google 服务的痛点。其核心技术是匿名会话管理和应用元数据代理。该事件凸显了开源应用分发渠道与主流平台之间的冲突，适用于关注移动端隐私、开源生态和 Android 安全的研究者与开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.9,
+  "collected_at": "2026-09-02T01:54:38.428649+00:00",
+  "analyzed_at": "2026-09-02T01:56:02.576338+00:00",
+  "organized_at": "2026-09-02T01:56:09.633086+00:00",
+  "status": "published"
+}
