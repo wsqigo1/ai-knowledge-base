@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-03-001",
+  "title": "2akouwu/reverify",
+  "source": "github-trending",
+  "url": "https://github.com/2akouwu/reverify",
+  "summary": "reverify 是一个将 AI 逆向工程与确定性工具结合的 Python 项目，解决 AI 在二进制分析中产生幻觉结果的问题。其核心亮点是使用 agentic workflow 驱动 AI 代理（如 Codex）执行逆向任务，并通过确定性工具对输出进行验证，确保结果与二进制文件实际行为一致。适用于安全研究、恶意软件分析、固件逆向等场景，提升自动化逆向的可靠性和可信度。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-09-03T02:00:11.503893+00:00",
+  "analyzed_at": "2026-09-03T02:00:24.584758+00:00",
+  "organized_at": "2026-09-03T02:01:38.235755+00:00",
+  "status": "published"
+}

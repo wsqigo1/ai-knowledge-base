@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-03-015",
+  "title": "WebLLM: high-performance in-browser LLM inference engine",
+  "source": "hackernews-top",
+  "url": "https://github.com/mlc-ai/web-llm",
+  "summary": "WebLLM 是一个高性能的浏览器内 LLM 推理引擎，旨在解决在客户端直接运行大模型的需求，避免服务器端推理的延迟和隐私问题。其核心技术亮点包括利用 WebGPU 加速、流式输出、支持多种模型架构（如 Llama、Phi 等），并通过优化内存和计算图实现接近原生性能。适用场景包括隐私敏感的本地 AI 助手、离线应用、低延迟交互式聊天，以及边缘计算环境下的模型部署。该项目开源，社区活跃，为 AI 工程师提供了在 Web 端部署 LLM 的实用工具。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-09-03T02:00:11.610192+00:00",
+  "analyzed_at": "2026-09-03T02:01:36.161290+00:00",
+  "organized_at": "2026-09-03T02:01:38.235755+00:00",
+  "status": "published"
+}

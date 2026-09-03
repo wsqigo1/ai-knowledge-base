@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-09-03-009",
+  "title": "Reverse Engineering Unknown File Formats with ImHex",
+  "source": "hackernews-top",
+  "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+  "summary": "ImHex 是一个开源十六进制编辑器，专用于逆向工程未知文件格式。它解决了解析二进制数据时缺乏可视化与模式识别的问题。核心亮点包括内置字节模式语言（Pattern Language）用于定义文件结构、图形化数据预览、魔数识别以及脚本化分析。适用于安全研究、恶意软件分析、固件逆向和文件格式恢复等场景。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-03T02:00:11.610192+00:00",
+  "analyzed_at": "2026-09-03T02:01:05.078778+00:00",
+  "organized_at": "2026-09-03T02:01:38.235755+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-03-005",
+  "title": "LunarXuan/image-prompt-reverse",
+  "source": "github-trending",
+  "url": "https://github.com/LunarXuan/image-prompt-reverse",
+  "summary": "image-prompt-reverse 是一个为 Codex 设计的 AI 图像提示词逆向工程技能，用于从图像中高保真地还原生成该图像的 prompt。它解决了用户难以精确描述图像风格、构图和细节的问题，通过结构化分析图像特征并生成详细、可复用的 prompt。核心技术亮点包括多维度视觉特征提取（如主体、风格、光线、色彩）和基于 skill-md 的模块化设计，便于集成到 Codex 工作流中。适用场景包括图像生成复现、风格迁移参考、AI 绘画教学和创意灵感获取。",
+  "tags": [
+    "prompt-engineering",
+    "multimodal",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-09-03T02:00:11.503893+00:00",
+  "analyzed_at": "2026-09-03T02:00:52.447724+00:00",
+  "organized_at": "2026-09-03T02:01:38.235755+00:00",
+  "status": "published"
+}
