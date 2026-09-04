@@ -1,7 +1,254 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1854,
+  "total_count": 1870,
   "entries": [
+    {
+      "id": "kb-2026-09-04-001",
+      "title": "gozen3ji/consulting-pptx-skill",
+      "source": "github-trending",
+      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+      "file": "2026-09-04-gozen3jiconsulting-pptx-skill.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-002",
+      "title": "Albert-Weasker/niubigeo",
+      "source": "github-trending",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "file": "2026-09-04-albert-weaskerniubigeo.json",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-003",
+      "title": "kydlikebtc/awesome-grokbot",
+      "source": "github-trending",
+      "url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "file": "2026-09-04-kydlikebtcawesome-grokbot.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-004",
+      "title": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "source": "github-trending",
+      "url": "https://github.com/Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "file": "2026-09-04-mercor-intelligenceapexagents-skyrl-reci.json",
+      "tags": [
+        "agent",
+        "reinforcement-learning",
+        "fine-tuning",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-005",
+      "title": "coleam00/ai-software-factory",
+      "source": "github-trending",
+      "url": "https://github.com/coleam00/ai-software-factory",
+      "file": "2026-09-04-coleam00ai-software-factory.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-006",
+      "title": "AlephAITech/DoubaoWorkGuide",
+      "source": "github-trending",
+      "url": "https://github.com/AlephAITech/DoubaoWorkGuide",
+      "file": "2026-09-04-alephaitechdoubaoworkguide.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-007",
+      "title": "Agenta-AI/awesome-ai-agent-platforms",
+      "source": "github-trending",
+      "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+      "file": "2026-09-04-agenta-aiawesome-ai-agent-platforms.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-008",
+      "title": "GPT-6 Astra",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "file": "2026-09-04-gpt-6-astra.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "multimodal",
+        "code-generation",
+        "agent"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-009",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "source": "hackernews-top",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "file": "2026-09-04-qwen-38-27b-available-on-cerebras-at-150.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 8.6,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-010",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "source": "hackernews-top",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "file": "2026-09-04-which-tools-do-claude-codex-and-cursor-c.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-011",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "source": "hackernews-top",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "file": "2026-09-04-porting-my-1993-amiga-game-to-godot-with.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-012",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "source": "hackernews-top",
+      "url": "https://ifm.ai/blog/k2/",
+      "file": "2026-09-04-k2-horizon-a-connected-fleet-of-six-open.json",
+      "tags": [
+        "open-source",
+        "multi-agent",
+        "workflow-automation",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-013",
+      "title": "Xanadu was waiting for agents",
+      "source": "hackernews-top",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "file": "2026-09-04-xanadu-was-waiting-for-agents.json",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-014",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "source": "hackernews-top",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "file": "2026-09-04-go-grandmaster-shin-defeats-ai-katago-wi.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.1,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-015",
+      "title": "Audacity 4.0",
+      "source": "hackernews-top",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "file": "2026-09-04-audacity-40.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
+    {
+      "id": "kb-2026-09-04-016",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "source": "hackernews-top",
+      "url": "https://arcprize.org/blog/astra",
+      "file": "2026-09-04-openais-gpt-6-astra-on-arc-agi-3.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "multimodal",
+        "large-language-model"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-09-04T01:57:19.543945+00:00"
+    },
     {
       "id": "kb-2026-09-03-001",
       "title": "2akouwu/reverify",
@@ -27580,5 +27827,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-03T02:01:38.410399+00:00"
+  "last_updated": "2026-09-04T01:57:19.716550+00:00"
 }

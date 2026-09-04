@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-04-010",
+  "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+  "source": "hackernews-top",
+  "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+  "summary": "该研究对Claude、Codex和Cursor等AI编程工具在17k次运行中的工具选择行为进行量化分析，旨在揭示不同模型在代码生成任务中偏好哪些外部工具及调用模式。核心亮点是构建大规模实测数据集，对比工具使用频率、成功率与任务类型关联，发现模型对特定工具的倾向性及上下文影响。适用于AI编程工具优化、agent工具调用策略设计及benchmark参考。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-09-04T01:55:47.482553+00:00",
+  "analyzed_at": "2026-09-04T01:56:43.014194+00:00",
+  "organized_at": "2026-09-04T01:57:19.543945+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-04-009",
+  "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+  "source": "hackernews-top",
+  "url": "https://inference-docs.cerebras.ai/models/overview",
+  "summary": "Qwen 3.8 27B模型现已在Cerebras推理平台上可用，提供高达1500 tokens/s的生成速度。该模型是Qwen系列的中型版本，具备强大的多语言和推理能力。Cerebras通过其定制化硬件（Wafer Scale Engine）实现了极高的推理吞吐量，解决了大规模模型部署中的延迟和成本问题。核心技术亮点在于Cerebras的硬件架构与模型优化相结合，实现了比传统GPU快数倍的推理速度。适用场景包括实时对话系统、代码生成、高并发API服务等对延迟敏感的应用。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 8.6,
+  "collected_at": "2026-09-04T01:55:47.482553+00:00",
+  "analyzed_at": "2026-09-04T01:56:37.730473+00:00",
+  "organized_at": "2026-09-04T01:57:19.543945+00:00",
+  "status": "published"
+}

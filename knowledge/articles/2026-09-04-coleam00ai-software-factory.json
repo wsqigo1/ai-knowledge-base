@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-04-005",
+  "title": "coleam00/ai-software-factory",
+  "source": "github-trending",
+  "url": "https://github.com/coleam00/ai-software-factory",
+  "summary": "ai-software-factory 是一个基于 AI 的软件工厂自动化仓库，核心能力是自动将 GitHub issue 转化为合并的 pull request，全程无需人工审查代码 diff。它解决的是 AI 生成代码在真实工程流程中的可信交付问题，通过内置质量门禁（如测试、构建检查）确保自动化产出的代码可合并、可维护。技术亮点在于将 LLM 驱动的代码生成与 CI/CD 流水线深度集成，形成闭环的 issue-to-PR 工作流。适用场景包括开源维护、内部工具迭代和自动化开发流水线建设。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-09-04T01:55:47.251822+00:00",
+  "analyzed_at": "2026-09-04T01:56:27.309014+00:00",
+  "organized_at": "2026-09-04T01:57:19.543945+00:00",
+  "status": "published"
+}

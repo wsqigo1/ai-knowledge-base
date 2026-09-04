@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-04-013",
+  "title": "Xanadu was waiting for agents",
+  "source": "hackernews-top",
+  "url": "https://zed.dev/blog/agentic-xanadu",
+  "summary": "Xanadu 是一个面向 agent 的等待/同步机制项目，旨在解决多 agent 协作中任务依赖与异步执行的问题。其核心技术亮点是提供类似数据库事务的等待原语，使 agent 能高效协调状态。适用于需要复杂任务编排的 multi-agent 系统，如工作流自动化。HN 社区讨论热度较高，但项目具体实现细节和生态成熟度尚待观察。",
+  "tags": [
+    "multi-agent",
+    "workflow-automation",
+    "agent",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-04T01:55:47.482553+00:00",
+  "analyzed_at": "2026-09-04T01:56:53.965775+00:00",
+  "organized_at": "2026-09-04T01:57:19.543945+00:00",
+  "status": "published"
+}
