@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-05-011",
+  "title": "Solving the Jane Street reverse engineering challenge",
+  "source": "hackernews-top",
+  "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+  "summary": "这是一篇关于解决Jane Street逆向工程挑战的技术文章。该挑战要求参与者逆向工程一个未知的二进制程序，并找出其内部逻辑以生成正确的输出。文章详细描述了逆向工程的过程，包括使用静态分析和动态调试工具（如Ghidra、gdb）来理解程序行为，识别加密算法，并最终编写脚本破解。核心技术亮点在于系统化的逆向工程方法论和对二进制分析工具的熟练运用。适用场景包括安全研究、CTF竞赛、软件漏洞分析等，对AI工程师而言，可借鉴其问题分解和逻辑推理思路，但直接关联性较低。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-05T01:56:20.294634+00:00",
+  "analyzed_at": "2026-09-05T01:57:21.952121+00:00",
+  "organized_at": "2026-09-05T01:57:29.374092+00:00",
+  "status": "published"
+}

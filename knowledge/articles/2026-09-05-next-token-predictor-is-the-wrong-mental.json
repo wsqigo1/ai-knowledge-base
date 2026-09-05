@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-05-012",
+  "title": "“Next-token predictor” is the wrong mental model for LLMs",
+  "source": "hackernews-top",
+  "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+  "summary": "该文章批判了将LLM仅视为“next-token predictor”的简化心智模型，指出这种理解会误导对模型能力、局限性和内部机制的认识。它主张更全面的视角，强调模型在训练中形成的世界模型、推理能力和任务泛化，而非单纯的统计预测。核心亮点是提供认知框架的转变，帮助开发者更好地设计提示、评估模型行为和调试应用。适用于AI工程师理解LLM本质、优化应用架构及避免常见误解。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-05T01:56:20.294634+00:00",
+  "analyzed_at": "2026-09-05T01:57:25.447072+00:00",
+  "organized_at": "2026-09-05T01:57:29.374092+00:00",
+  "status": "published"
+}

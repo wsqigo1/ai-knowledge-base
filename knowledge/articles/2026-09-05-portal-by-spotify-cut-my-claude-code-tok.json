@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-05-008",
+  "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+  "source": "hackernews-top",
+  "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+  "summary": "Spotify 开源 Portal，一种用于减少 Claude Code token 消耗的代理层，通过智能缓存和请求合并，将 token 使用量降低 90%。它解决 LLM 编码工具在长会话中重复发送上下文导致的高成本问题，核心亮点是上下文压缩与缓存策略。适用于高频使用 AI 编程助手的开发团队，可显著降低 API 费用。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-05T01:56:20.294634+00:00",
+  "analyzed_at": "2026-09-05T01:57:08.021150+00:00",
+  "organized_at": "2026-09-05T01:57:29.374092+00:00",
+  "status": "published"
+}

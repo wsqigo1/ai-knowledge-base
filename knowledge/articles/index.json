@@ -1,7 +1,187 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1870,
+  "total_count": 1882,
   "entries": [
+    {
+      "id": "kb-2026-09-05-001",
+      "title": "jarrenrocks/bot-crossing",
+      "source": "github-trending",
+      "url": "https://github.com/jarrenrocks/bot-crossing",
+      "file": "2026-09-05-jarrenrocksbot-crossing.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "multi-agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-002",
+      "title": "yizhi-chengzi/video-ai-talking",
+      "source": "github-trending",
+      "url": "https://github.com/yizhi-chengzi/video-ai-talking",
+      "file": "2026-09-05-yizhi-chengzivideo-ai-talking.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-003",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "source": "hackernews-top",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "file": "2026-09-05-actively-exploited-sandbox-rce-in-all-ch.json",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.1,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-004",
+      "title": "Formalizing Fermat's Last Theorem",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "file": "2026-09-05-formalizing-fermats-last-theorem.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-005",
+      "title": "Discovery of a new OpenAI agent message board",
+      "source": "hackernews-top",
+      "url": "https://collusion.wiki/",
+      "file": "2026-09-05-discovery-of-a-new-openai-agent-message-.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-006",
+      "title": "GPT-6 Astra on OpenRouter",
+      "source": "hackernews-top",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "file": "2026-09-05-gpt-6-astra-on-openrouter.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "reasoning",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-007",
+      "title": "Can AI design circuit boards yet?",
+      "source": "hackernews-top",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "file": "2026-09-05-can-ai-design-circuit-boards-yet.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "benchmark",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.7,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-008",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "source": "hackernews-top",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "file": "2026-09-05-portal-by-spotify-cut-my-claude-code-tok.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-009",
+      "title": "The Rust React Compiler is now native in Vite",
+      "source": "hackernews-top",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "file": "2026-09-05-the-rust-react-compiler-is-now-native-in.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-010",
+      "title": "IBM Bob",
+      "source": "hackernews-top",
+      "url": "https://bob.ibm.com/",
+      "file": "2026-09-05-ibm-bob.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-011",
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "source": "hackernews-top",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "file": "2026-09-05-solving-the-jane-street-reverse-engineer.json",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
+    {
+      "id": "kb-2026-09-05-012",
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
+      "source": "hackernews-top",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "file": "2026-09-05-next-token-predictor-is-the-wrong-mental.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-05T01:57:29.374092+00:00"
+    },
     {
       "id": "kb-2026-09-04-001",
       "title": "gozen3ji/consulting-pptx-skill",
@@ -27827,5 +28007,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-04T01:57:19.716550+00:00"
+  "last_updated": "2026-09-05T01:57:29.505087+00:00"
 }

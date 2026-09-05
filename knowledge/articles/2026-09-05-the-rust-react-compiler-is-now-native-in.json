@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-05-009",
+  "title": "The Rust React Compiler is now native in Vite",
+  "source": "hackernews-top",
+  "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+  "summary": "Rust 实现的 React Compiler 现已原生集成于 Vite，取代原先基于 Babel 的插件方案。该编译器将 React 组件自动记忆化，减少不必要的重新渲染，提升应用性能。其核心亮点是利用 Rust 的高性能和内存安全特性，显著加快编译速度，并简化构建工具链。适用于使用 Vite 的 React 开发者，尤其是大型项目，可优化开发体验和运行时效率。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-09-05T01:56:20.294634+00:00",
+  "analyzed_at": "2026-09-05T01:57:16.133054+00:00",
+  "organized_at": "2026-09-05T01:57:29.374092+00:00",
+  "status": "published"
+}
