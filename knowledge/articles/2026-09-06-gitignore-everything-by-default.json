@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-06-008",
+  "title": ".gitignore Everything by Default",
+  "source": "hackernews-top",
+  "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+  "summary": "该条目讨论一种.gitignore配置策略，即默认忽略所有文件，再通过白名单模式显式允许特定文件或目录加入版本控制。它解决仓库中意外提交临时文件、构建产物或敏感文件的问题。核心技术亮点是使用`*`作为起始规则，配合`!`否定模式及必要的目录重新包含规则（如`!*/`）实现精细控制。适用场景包括个人项目、多语言混合仓库或需要严格文件管控的团队，能显著减少误提交风险。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-09-06T01:50:44.829506+00:00",
+  "analyzed_at": "2026-09-06T01:51:51.154466+00:00",
+  "organized_at": "2026-09-06T01:51:57.881519+00:00",
+  "status": "published"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-09-06-005",
+  "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+  "source": "hackernews-top",
+  "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+  "summary": "本文深入剖析 Rust 中 dyn Trait 的内存布局，通过可视化方式解释 vtable 的结构与工作原理。它解决开发者对动态分派底层机制理解不清的问题，详细展示了 trait object 如何存储数据指针与 vtable 指针，以及 vtable 中各条目（析构函数、方法、大小等）的排列。核心技术亮点是结合图示逐步拆解内存中的实际布局，并对比静态分派与动态分派的性能差异。适用场景包括 Rust 系统编程、性能敏感应用开发及编译器原理学习，帮助开发者优化 trait object 使用并避免常见陷阱。",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-09-06T01:50:44.829506+00:00",
+  "analyzed_at": "2026-09-06T01:51:33.485129+00:00",
+  "organized_at": "2026-09-06T01:51:57.881519+00:00",
+  "status": "published"
+}

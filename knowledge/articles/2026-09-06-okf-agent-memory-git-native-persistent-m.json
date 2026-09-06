@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-06-007",
+  "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+  "source": "hackernews-top",
+  "url": "https://github.com/okf-memory/okf-agent-memory",
+  "summary": "OKF Agent Memory 是一个 Git 原生的持久化记忆系统，专为 AI 编码代理设计。它解决 AI 代理在长时间任务中丢失上下文和状态的问题，通过将记忆以 Git 仓库形式存储，实现版本控制、分支和合并，确保记忆的可追溯性和一致性。核心技术亮点是利用 Git 作为底层存储，提供类似文件系统的接口，支持代理高效读写和检索历史记忆。适用场景包括需要长期运行的编码代理、多代理协作以及需要审计和回滚的软件开发流程。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-06T01:50:44.829506+00:00",
+  "analyzed_at": "2026-09-06T01:51:41.291377+00:00",
+  "organized_at": "2026-09-06T01:51:57.881519+00:00",
+  "status": "published"
+}
