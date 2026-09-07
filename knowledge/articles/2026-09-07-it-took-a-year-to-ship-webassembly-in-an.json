@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-07-005",
+  "title": "It took a year to ship WebAssembly in Anubis",
+  "source": "hackernews-top",
+  "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+  "summary": "Anubis项目作者分享将WebAssembly集成到该项目耗时一年的经验。文章解决的是在现有系统中引入Wasm作为插件或执行引擎时面临的工程挑战，如编译目标适配、运行时集成、性能调优和兼容性问题。核心技术亮点包括对Wasm模块的加载、沙箱执行以及与宿主语言交互的详细处理。适用场景为需要安全、可移植代码执行的系统开发，特别是对Wasm运行时集成有需求的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-09-07T01:48:01.230626+00:00",
+  "analyzed_at": "2026-09-07T01:48:47.230447+00:00",
+  "organized_at": "2026-09-07T01:49:23.368123+00:00",
+  "status": "published"
+}

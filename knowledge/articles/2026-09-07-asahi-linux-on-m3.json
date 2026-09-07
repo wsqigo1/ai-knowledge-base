@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-09-07-007",
+  "title": "Asahi Linux on M3",
+  "source": "hackernews-top",
+  "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+  "summary": "Asahi Linux 项目宣布支持 Apple M3 芯片，为 Apple Silicon 设备提供原生 Linux 发行版。该项目解决 Apple 硬件上无法运行主流 Linux 的问题，通过逆向工程和底层驱动开发实现 GPU、Wi-Fi 等硬件的完整支持。核心技术亮点包括基于 Rust 的 GPU 驱动和电源管理优化。适用场景为开发者希望在 M3 Mac 上使用 Linux 进行开发或服务器部署。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-09-07T01:48:01.230626+00:00",
+  "analyzed_at": "2026-09-07T01:49:01.033993+00:00",
+  "organized_at": "2026-09-07T01:49:23.368123+00:00",
+  "status": "published"
+}

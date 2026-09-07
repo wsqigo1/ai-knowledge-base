@@ -1,0 +1,468 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-07T01:48:03.701316+00:00",
+  "date": "2026-09-07",
+  "count": 19,
+  "items": [
+    {
+      "title": "anthropics/commerce-agents",
+      "source": "github-trending",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "stars": 2224,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-01T20:41:14Z",
+      "summary": "anthropics/commerce-agents 是 Anthropic 官方发布的参考蓝图，用于构建基于 Claude 的购物和商家智能体。它解决了电商、零售、电信和娱乐等领域中智能体开发缺乏标准化起点的问题，提供可复用的示例代码。核心技术亮点包括利用 Claude 的函数调用和 tool-use 能力，以及多智能体协作模式来处理复杂商业流程。适用场景包括自动化购物助手、商品推荐、订单管理等商业应用开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-07T01:48:05.940407+00:00"
+    },
+    {
+      "title": "pierrenade/short-video-generator-AI",
+      "source": "github-trending",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stars": 902,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-video",
+        "python",
+        "short-video-maker",
+        "video-generation"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-05T12:12:29Z",
+      "summary": "pierrenade/short-video-generator-AI 是一个开源 Python 项目，旨在将 YouTube 长视频自动转化为适合病毒传播的短视频。它解决内容创作者在视频二次创作中面临的剪辑、字幕、翻译和配音等耗时问题。核心技术包括高光片段检测、自动字幕生成、多语言翻译和语音合成，集成于统一工作流。适用于社交媒体运营、内容营销和视频创作者，可显著提升视频再创作效率。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:08.047724+00:00"
+    },
+    {
+      "title": "Albert-Weasker/niubigeo",
+      "source": "github-trending",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "stars": 609,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-06T03:08:03Z",
+      "summary": "niubigeo 是一个开源 AI 品牌可见度与竞品报告工具，基于 TypeScript 构建。它解决企业难以自动追踪自身及竞品在 AI 领域曝光度的问题，通过聚合分析品牌提及、关键词排名等数据生成报告。核心技术亮点包括自动化数据采集与报告生成流程，可能集成搜索或社交媒体 API。适用场景为市场调研、品牌监测和竞品分析。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-07T01:48:09.816278+00:00"
+    },
+    {
+      "title": "okf-memory/okf-agent-memory",
+      "source": "github-trending",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "stars": 359,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-06T15:20:56Z",
+      "summary": "okf-agent-memory 是一个为 AI 编码代理设计的 Git 原生持久化记忆系统，解决代理跨会话上下文丢失和 token 消耗过大的问题。它实现了 Google OKF v0.2 规范，核心亮点包括亚 300 微秒的内存 BM25 搜索、内嵌 MCP 服务器、渐进式信息揭示，以及纯 Go 实现且零外部依赖，可将 token 开销降低 80%。适用于需要高效记忆管理的 AI 编程助手和 agent 工作流。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-07T01:48:11.648446+00:00"
+    },
+    {
+      "title": "kydlikebtc/awesome-grokbot",
+      "source": "github-trending",
+      "url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "description": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "stars": 331,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "ai-tools",
+        "awesome",
+        "awesome-list",
+        "bot-templates",
+        "catalog",
+        "cursor",
+        "directory",
+        "grok",
+        "grok-bot",
+        "grokbot",
+        "llm",
+        "prompt-engineering",
+        "xai"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-06T14:05:49Z",
+      "summary": "这是一个精选Grok Bot共享链接的awesome列表，收录598个经状态检查的x.ai/bot链接，每条均标注来源。项目提供中英双语目录、JSON schema、CI自动化检查及可搜索网站，解决Grok Bot资源分散、链接失效和检索困难的问题。技术亮点包括结构化数据格式、持续集成验证和双语支持，适合AI开发者、研究人员及Grok Bot用户快速发现和复用高质量bot资源。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:13.846765+00:00"
+    },
+    {
+      "title": "adtexterry-lgtm/unigit-ecosystem",
+      "source": "github-trending",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "stars": 304,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp",
+        "productivity",
+        "unigit"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-02T12:51:17Z",
+      "summary": "UNIGIT 是一个公开品牌与生态系统中心，旨在让 AI 为所有人服务。它作为项目聚合枢纽，整合 agentic AI、AI 工具、AI 工作台及 MCP 相关资源，解决 AI 工具碎片化与可访问性问题。核心亮点是提供统一的生态入口，支持 MCP 协议集成，促进 AI 工作流自动化。适用于开发者探索 AI 工具链、构建 agent 应用或参与开源生态建设。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "analyzed_at": "2026-09-07T01:48:15.878045+00:00"
+    },
+    {
+      "title": "LunarXuan/image-prompt-reverse",
+      "source": "github-trending",
+      "url": "https://github.com/LunarXuan/image-prompt-reverse",
+      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+      "stars": 304,
+      "language": null,
+      "topics": [
+        "codex",
+        "skill",
+        "skill-md",
+        "skills"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-06T07:16:55Z",
+      "summary": "image-prompt-reverse 是一个面向 Codex 的高保真 AI 图像提示词逆向工程技能包，以 skill-md 格式封装。它解决从现有图像精确还原生成提示词的问题，核心技术亮点包括结构化的逆向分析流程、细节捕捉与风格还原策略，并集成到 Codex 工作流中。适用于图像生成调试、风格迁移、创意参考和 prompt 优化场景，帮助用户理解并复现高质量图像生成逻辑。",
+      "tags": [
+        "prompt-engineering",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-09-07T01:48:17.682635+00:00"
+    },
+    {
+      "title": "gozen3ji/consulting-pptx-skill",
+      "source": "github-trending",
+      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "stars": 248,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-05T13:09:29Z",
+      "summary": "gozen3ji/consulting-pptx-skill 是一个 Claude Code 技能，用于生成专业级 PPTX 演示文稿。它解决 AI 生成幻灯片时结构混乱、设计不规范的问题，通过定义幻灯片规约、62 种幻灯片类型目录（SlideSpec 36 型 + 自由描述 27 部分）、生成流水线和机械检查，确保输出符合咨询标准。核心技术亮点是结构化类型系统与自动化质量校验，适用于咨询报告、商业提案等场景。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "prompt-engineering",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-07T01:48:19.882232+00:00"
+    },
+    {
+      "title": "joeseesun/qiaomu-book-reader",
+      "source": "github-trending",
+      "url": "https://github.com/joeseesun/qiaomu-book-reader",
+      "description": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
+      "stars": 234,
+      "language": "JavaScript",
+      "topics": [
+        "brat",
+        "chinese",
+        "ebook-reader",
+        "epub",
+        "obsidian",
+        "obsidian-plugin",
+        "pdf",
+        "reading-notes"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-05T08:50:56Z",
+      "summary": "qiaomu-book-reader 是一个 Obsidian 插件，用于在笔记软件内直接阅读 EPUB/PDF 电子书，并支持在页面旁调用 AI 进行问答，回答可保存为 Markdown 笔记。它解决了阅读与笔记分离、AI 交互上下文割裂的问题，核心亮点是本地优先的笔记存储和紧密的 AI 集成。适用于研究者、学生及知识工作者在 Obsidian 中构建个人阅读与学习工作流。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:22.026386+00:00"
+    },
+    {
+      "title": "Agenta-AI/awesome-ai-agent-platforms",
+      "source": "github-trending",
+      "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+      "stars": 230,
+      "language": "Astro",
+      "topics": [
+        "agent-frameworks",
+        "ai-agent-platforms",
+        "ai-agents",
+        "ai-coworker",
+        "awesome",
+        "awesome-list",
+        "browser-agents",
+        "coding-agents",
+        "llm",
+        "open-source",
+        "self-hosted",
+        "workflow-automation"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-03T16:17:23Z",
+      "summary": "这是一个精选的开源AI Agent平台列表，涵盖AI同事/协作者、Agent构建框架、工作流自动化平台、浏览器Agent及编码Agent，并标注各项目许可证。它解决AI工程师在选型时缺乏系统性对比的问题，按类别整理并附许可信息，便于快速筛选合规可商用的方案。核心亮点是分类清晰、覆盖主流生态，并持续更新。适用于技术选型调研、架构设计参考及跟踪Agent平台发展趋势。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:24.280909+00:00"
+    },
+    {
+      "title": "techjanitor/botmaker",
+      "source": "github-trending",
+      "url": "https://github.com/techjanitor/botmaker",
+      "description": "A Hermes Agent skill + SOUL for a bot whose only job is minting other specialist bots",
+      "stars": 210,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-01T15:45:25Z",
+      "summary": "Botmaker 是一个基于 Hermes Agent 的 skill 和 SOUL 配置，用于创建能自动生成其他专业 bot 的 bot。它解决的是多智能体系统中 bot 的自动化生成与定制问题，核心亮点是利用 Hermes Agent 框架和 SOUL 机制实现 bot 的元编程，即通过一个主 bot 调用其他 specialist bots 的生成逻辑。适用于需要快速部署多个专用 AI 助手的场景，如自动化工作流中的任务分解与执行。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-09-07T01:48:26.662750+00:00"
+    },
+    {
+      "title": "BoardUI/boardui",
+      "source": "github-trending",
+      "url": "https://github.com/BoardUI/boardui",
+      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "stars": 183,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-chat",
+        "boardui",
+        "design-system",
+        "nextjs",
+        "react",
+        "react-components",
+        "tailwindcss",
+        "ui-components",
+        "vercel"
+      ],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-05T17:06:44Z",
+      "summary": "BoardUI 是一个面向 agentic interfaces 的 React 设计系统，提供可复用的 UI 组件源码，并附带一个基于自有模型 key 的 AI 聊天应用作为演示主页。它解决了 AI 代理界面（如聊天、工具调用展示）缺乏统一设计规范的问题，核心亮点是组件完全开源、可定制，并深度集成 AI 交互场景。适用于快速构建 AI 聊天助手、代理工作流界面等，帮助开发者节省 UI 开发时间，专注于 agent 逻辑。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:29.027006+00:00"
+    },
+    {
+      "title": "jarrenrocks/bot-crossing",
+      "source": "github-trending",
+      "url": "https://github.com/jarrenrocks/bot-crossing",
+      "description": "A video game for AI agents.",
+      "stars": 179,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-03T22:57:43Z",
+      "summary": "bot-crossing 是一个专为 AI agents 设计的视频游戏环境，旨在测试和训练智能体的决策与交互能力。它通过游戏化场景提供可重复的挑战，核心亮点是模拟真实世界任务，支持多智能体协作与竞争。适用于 AI 研究、强化学习训练及 agent 性能基准测试。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-07T01:48:30.628556+00:00"
+    },
+    {
+      "title": "coleam00/ai-software-factory",
+      "source": "github-trending",
+      "url": "https://github.com/coleam00/ai-software-factory",
+      "description": "A repository that ships without anyone reading the diff: GitHub issues in, merged pull requests out, with the gates that make that defensible.",
+      "stars": 177,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-07T00:37:24Z",
+      "summary": "ai-software-factory 是一个基于 AI 的自动化软件开发仓库，实现从 GitHub issue 到合并 pull request 的全流程自动化，无需人工阅读代码差异。它解决软件交付中的人工审查瓶颈，通过自动化门控机制确保代码质量与安全性。核心技术亮点包括智能代码生成、自动测试与门控检查，以及多智能体协作流程。适用场景为需要快速迭代的开源项目或内部工具开发，尤其适合自动化处理重复性编码任务。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "workflow-automation",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-07T01:48:32.887659+00:00"
+    },
+    {
+      "title": "dreamers-laboratory/agent-fleet-manager",
+      "source": "github-trending",
+      "url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
+      "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers.",
+      "stars": 171,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-02T06:38:16Z",
+      "summary": "agent-fleet-manager 是一个通用引擎，用于大规模、重复性的信息收集任务，由一组 worker 代理并行执行。它解决了传统单代理在批量数据采集、监控和调研场景中效率低、管理复杂的问题。核心技术亮点包括任务编排、worker 生命周期管理、结果聚合与容错机制，支持 Python 扩展。适用场景包括市场调研、舆情监控、批量数据抓取等需要高频重复信息获取的自动化工作流。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:35.039935+00:00"
+    },
+    {
+      "title": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "source": "github-trending",
+      "url": "https://github.com/Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "description": "RL-training knowledge-work agents on APEX-Agents data with SkyRL + Harbor",
+      "stars": 154,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-01T18:55:50Z",
+      "summary": "这是一个基于SkyRL和Harbor框架，利用APEX-Agents数据训练知识工作智能体的强化学习配方仓库。它解决了如何高效训练具备复杂知识工作能力的AI代理的问题，核心亮点在于结合了SkyRL的强化学习算法与Harbor的数据处理管线，提供了可复现的训练流程。适用于需要构建高级任务执行、决策支持或自动化知识工作的agent场景，如企业级AI助手或研究辅助工具。",
+      "tags": [
+        "agent",
+        "reinforcement-learning",
+        "fine-tuning",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-07T01:48:36.963133+00:00"
+    },
+    {
+      "title": "blendi-remade/unreel",
+      "source": "github-trending",
+      "url": "https://github.com/blendi-remade/unreel",
+      "description": "Your personal AI video streaming service",
+      "stars": 135,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-03T01:52:05Z",
+      "summary": "unreel 是一个基于 TypeScript 构建的个人 AI 视频流媒体服务，旨在将 AI 生成的视频内容（如文本转视频、图像动画等）聚合为个性化流媒体体验。它解决用户难以高效管理和消费 AI 生成视频的问题，提供统一接口和播放界面。核心技术亮点包括模块化架构、流式处理及与主流 AI 视频生成 API 的集成。适用于 AI 内容创作者、开发者构建个人视频应用或研究 AI 视频分发场景。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-07T01:48:39.375990+00:00"
+    },
+    {
+      "title": "niawjunior/aipass-bridge",
+      "source": "github-trending",
+      "url": "https://github.com/niawjunior/aipass-bridge",
+      "description": "make aipass great again",
+      "stars": 126,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-05T11:03:38Z",
+      "summary": "aipass-bridge 是一个 JavaScript 开源项目，旨在增强或桥接 AIPass 的功能，使其更强大易用。它解决 AIPass 在集成或扩展方面的限制，通过提供中间层或工具，简化与 AIPass 的交互或功能补充。核心技术亮点可能包括 API 封装、事件驱动或模块化设计，便于开发者集成。适用场景为需要扩展 AIPass 能力的开发者或团队，尤其关注 AI 助手或工作流自动化。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-09-07T01:48:41.337534+00:00"
+    },
+    {
+      "title": "dreamers-laboratory/ai-evaluation-framework",
+      "source": "github-trending",
+      "url": "https://github.com/dreamers-laboratory/ai-evaluation-framework",
+      "description": "Accuracy, latency p95, and cost benchmarking for model-based solutions, with per-field ground-truth scoring.",
+      "stars": 124,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-07T01:48:00.977474+00:00",
+      "published_at": "2026-09-02T06:46:06Z",
+      "summary": "ai-evaluation-framework 是一个用于模型驱动解决方案的基准测试工具，专注于准确性、p95 延迟和成本评估，支持按字段进行 ground-truth 打分。它解决了 AI 应用在生产环境中缺乏统一、细粒度性能度量的问题，帮助开发者对比不同模型或配置。核心亮点是结合准确性、延迟和成本的多维度评估，以及字段级评分能力，适用于 RAG、agent 或 LLM 应用的性能调优和选型。",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "agent",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-07T01:48:43.241957+00:00"
+    }
+  ]
+}

@@ -1,7 +1,156 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1890,
+  "total_count": 1900,
   "entries": [
+    {
+      "id": "kb-2026-09-07-001",
+      "title": "adtexterry-lgtm/unigit-ecosystem",
+      "source": "github-trending",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "file": "2026-09-07-adtexterry-lgtmunigit-ecosystem.json",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.9,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-002",
+      "title": "techjanitor/botmaker",
+      "source": "github-trending",
+      "url": "https://github.com/techjanitor/botmaker",
+      "file": "2026-09-07-techjanitorbotmaker.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-003",
+      "title": "blendi-remade/unreel",
+      "source": "github-trending",
+      "url": "https://github.com/blendi-remade/unreel",
+      "file": "2026-09-07-blendi-remadeunreel.json",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-004",
+      "title": "dreamers-laboratory/ai-evaluation-framework",
+      "source": "github-trending",
+      "url": "https://github.com/dreamers-laboratory/ai-evaluation-framework",
+      "file": "2026-09-07-dreamers-laboratoryai-evaluation-framewo.json",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "agent",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-005",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "source": "hackernews-top",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "file": "2026-09-07-it-took-a-year-to-ship-webassembly-in-an.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-006",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "file": "2026-09-07-harnessing-the-universal-geometry-of-emb.json",
+      "tags": [
+        "vector-database",
+        "rag",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.9,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-007",
+      "title": "Asahi Linux on M3",
+      "source": "hackernews-top",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "file": "2026-09-07-asahi-linux-on-m3.json",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.3,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-008",
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "file": "2026-09-07-research-acceleration-the-view-inside-op.json",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-009",
+      "title": "AI, Tools and Transformation",
+      "source": "hackernews-top",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "file": "2026-09-07-ai-tools-and-transformation.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
+    {
+      "id": "kb-2026-09-07-010",
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "source": "hackernews-top",
+      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "file": "2026-09-07-rocm-100-a-decade-of-open-compute-built-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "workflow-automation"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-09-07T01:49:23.368123+00:00"
+    },
     {
       "id": "kb-2026-09-06-001",
       "title": "pierrenade/short-video-generator-AI",
@@ -28126,5 +28275,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-06T01:51:57.981027+00:00"
+  "last_updated": "2026-09-07T01:49:23.486134+00:00"
 }

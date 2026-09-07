@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-07-006",
+  "title": "Harnessing the Universal Geometry of Embeddings",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2505.12540",
+  "summary": "该文章探讨嵌入向量的通用几何结构，旨在解决不同嵌入模型间表示空间不一致的问题。核心亮点是提出一种利用几何普适性实现跨模型嵌入对齐与迁移的方法，无需重新训练即可提升下游任务性能。适用于 embedding 模型选择、多模型融合及检索增强生成（RAG）等场景，为理解嵌入空间提供新视角。",
+  "tags": [
+    "vector-database",
+    "rag",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 6.9,
+  "collected_at": "2026-09-07T01:48:01.230626+00:00",
+  "analyzed_at": "2026-09-07T01:48:52.638316+00:00",
+  "organized_at": "2026-09-07T01:49:23.368123+00:00",
+  "status": "published"
+}
