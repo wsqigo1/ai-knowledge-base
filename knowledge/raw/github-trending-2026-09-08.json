@@ -1,0 +1,487 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-08T01:59:21.624048+00:00",
+  "date": "2026-09-08",
+  "count": 20,
+  "items": [
+    {
+      "title": "pierrenade/short-video-generator-AI",
+      "source": "github-trending",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stars": 1178,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-video",
+        "python",
+        "short-video-maker",
+        "video-generation"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-07T17:08:34Z",
+      "summary": "这是一个开源工具，将YouTube长视频自动转化为适合传播的短视频。它解决内容创作者在视频二次创作中面临的剪辑、字幕、翻译和配音耗时问题。核心技术亮点包括高光片段检测、自动字幕生成、多语言翻译和AI语音合成，全部集成于一个Python工作流。适用于社交媒体运营者、自媒体人和营销团队，用于快速生成多语言短视频内容。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T01:59:24.058659+00:00"
+    },
+    {
+      "title": "Albert-Weasker/niubigeo",
+      "source": "github-trending",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "stars": 676,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-06T03:08:03Z",
+      "summary": "niubigeo 是一个开源 AI 品牌可见度与竞品报告工具，用 TypeScript 构建。它解决企业难以自动追踪 AI 领域品牌提及和竞品动态的问题，通过数据抓取与分析生成结构化报告。核心技术亮点包括自动化数据采集、自然语言处理和可视化报告生成。适用场景包括市场调研、品牌监控和竞争情报分析。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-08T01:59:25.978525+00:00"
+    },
+    {
+      "title": "okf-memory/okf-agent-memory",
+      "source": "github-trending",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "stars": 461,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-07T10:10:05Z",
+      "summary": "okf-agent-memory 是一个为 AI 编码代理设计的 Git 原生持久化内存系统，旨在解决代理在长会话中上下文丢失和 token 消耗过大的问题。它实现了 Google OKF v0.2 规范，核心亮点包括亚 300 微秒的内存 BM25 搜索、嵌入式 MCP 服务器以及渐进式披露机制，可将 token 开销削减 80%，且无需外部数据库或依赖，纯 Go 编写。适用于需要高效记忆管理的 AI 编码代理、IDE 插件及本地开发工具链。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "rag",
+        "open-source"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-09-08T01:59:28.460041+00:00"
+    },
+    {
+      "title": "adtexterry-lgtm/unigit-ecosystem",
+      "source": "github-trending",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "stars": 323,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp",
+        "productivity",
+        "unigit"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-02T12:51:17Z",
+      "summary": "UNIGIT 是一个公开品牌与生态系统中心，旨在让 AI 为所有人服务。它作为项目聚合枢纽，整合 agentic AI、AI 工具与工作台，并支持 MCP 协议。核心亮点是提供统一的生态入口，降低 AI 工具集成与使用门槛。适用于开发者探索和连接多种 AI 资源，推动 AI 普惠化。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-09-08T01:59:30.645785+00:00"
+    },
+    {
+      "title": "carnot-tech/consulting-pptx-skill",
+      "source": "github-trending",
+      "url": "https://github.com/carnot-tech/consulting-pptx-skill",
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "stars": 273,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-08T01:06:23Z",
+      "summary": "carnot-tech/consulting-pptx-skill 是一个专为 Claude Code 设计的技能包，用于自动生成专业咨询级 PPTX。它解决 AI 生成幻灯片时结构混乱、格式不规范的问题，通过定义幻灯片规约、62 种幻灯片类型目录（SlideSpec 36 型 + 自由描述 27 部件）、生成流水线和机械检查，确保输出符合咨询行业标准。核心亮点是系统化的类型约束与自动化质量校验。适用于咨询报告、商业方案等需要高规范演示文稿的场景。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T01:59:33.199163+00:00"
+    },
+    {
+      "title": "Agenta-AI/awesome-ai-agent-platforms",
+      "source": "github-trending",
+      "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+      "stars": 264,
+      "language": "Astro",
+      "topics": [
+        "agent-frameworks",
+        "ai-agent-platforms",
+        "ai-agents",
+        "ai-coworker",
+        "awesome",
+        "awesome-list",
+        "browser-agents",
+        "coding-agents",
+        "llm",
+        "open-source",
+        "self-hosted",
+        "workflow-automation"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-03T16:17:23Z",
+      "summary": "这是一个精选的开源AI智能体平台列表，涵盖AI同事/队友、智能体构建器与框架、工作流自动化平台、浏览器智能体及编码智能体，并标注许可证。它解决了AI工程师在众多开源智能体方案中难以快速筛选和比较的问题。核心亮点是系统化分类和许可证信息，便于技术选型。适用于寻找合适智能体框架、平台或工作流工具的开发者。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-08T01:59:35.495837+00:00"
+    },
+    {
+      "title": "achimala/dream-loop",
+      "source": "github-trending",
+      "url": "https://github.com/achimala/dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "stars": 190,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-07T16:14:23Z",
+      "summary": "dream-loop 是一个开源 Agent skill，利用 Blender 生成 3D 视觉内容，结合图像生成模型和子代理批评机制，实现高质量 3D 场景的自动迭代优化。它解决了 AI 生成 3D 视觉内容时缺乏精细控制和艺术质量反馈的问题。核心技术亮点包括多代理协作（生成与批评循环）和 Blender 与图像生成模型的集成。适用于创意设计、游戏资产预可视化、影视预演等场景，提升 AI 辅助 3D 创作的效率与效果。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "multimodal",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-09-08T01:59:37.993868+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-mac-use",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-mac-use",
+      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
+      "stars": 190,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-06T15:04:55Z",
+      "summary": "huashu-mac-use 是一个基于 Swift 的 Agent Skill，使 AI agent 能够操控 Mac 上无 API 的原生应用。它通过读取后台界面数据、模拟用户操作且不打扰用户，并为每一步操作保留取证记录，解决了 agent 在 macOS 上无法直接控制原生 GUI 应用的问题。核心技术亮点包括后台 UI 读取、非侵入式写入和操作留痕机制，适用于自动化桌面工作流、UI 测试和 AI 助手集成场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-08T01:59:40.537497+00:00"
+    },
+    {
+      "title": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "source": "github-trending",
+      "url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "description": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
+      "stars": 173,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-07T15:15:02Z",
+      "summary": "StrikeAgent_AtkBrain-Flash是夜安团队开发的AI渗透测试平台，专攻红队打点、SRC漏洞挖掘与CTF竞赛。其核心亮点在于将LLM推理能力与自动化攻击流程结合，实现智能化的漏洞发现与利用决策，在红队场景中表现突出。平台提供Python接口，支持自定义攻击策略，适用于安全测试人员快速评估目标系统安全性。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-08T01:59:43.006395+00:00"
+    },
+    {
+      "title": "dreamers-laboratory/agent-fleet-manager",
+      "source": "github-trending",
+      "url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
+      "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers.",
+      "stars": 170,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-02T06:38:16Z",
+      "summary": "agent-fleet-manager 是一个通用引擎，用于大规模、重复性的信息收集任务，由一组 worker 代理协同执行。它解决了传统单代理在处理海量数据抓取、监控或批量查询时的效率与扩展性问题。核心技术亮点包括任务分发、worker 生命周期管理、结果聚合与容错机制，基于 Python 实现。适用场景包括网络爬虫、市场调研、持续监控等需要高并发信息采集的自动化工作流。",
+      "tags": [
+        "multi-agent",
+        "workflow-automation",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T01:59:45.431651+00:00"
+    },
+    {
+      "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+      "stars": 158,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-06T03:57:39Z",
+      "summary": "Manware-s-AI-Learning-Toolkit 是一个开源 AI 工具包，核心理念是将 AI agent 从“代码生成机器”转变为“教学者”，旨在帮助开发者通过交互式对话学习技术概念。它解决了传统 AI 编程助手只给答案、不解释原理的问题，通过引导式提问、逐步拆解和反馈机制，促进用户深度理解。技术亮点在于 agent 行为设计，强调教学策略而非单纯 code generation。适用于技术学习、新手引导、知识问答等场景，尤其适合希望利用 LLM 进行个性化教育的开发者。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T01:59:48.196856+00:00"
+    },
+    {
+      "title": "blendi-remade/unreel",
+      "source": "github-trending",
+      "url": "https://github.com/blendi-remade/unreel",
+      "description": "Your personal AI video streaming service",
+      "stars": 137,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-03T01:52:05Z",
+      "summary": "unreel 是一个基于 TypeScript 构建的个人 AI 视频流媒体服务，将 AI 生成的视频内容以流媒体形式呈现。它解决了个性化视频内容聚合与播放的问题，核心亮点在于利用 AI 技术自动生成或推荐视频流，提供类似 Netflix 的交互体验。适用于希望搭建个人 AI 视频平台或探索 AI 内容生成与流媒体结合的开发者。项目当前热度较低，技术深度有限，但概念新颖，适合作为实验性项目参考。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-08T01:59:50.609798+00:00"
+    },
+    {
+      "title": "dreamers-laboratory/ai-evaluation-framework",
+      "source": "github-trending",
+      "url": "https://github.com/dreamers-laboratory/ai-evaluation-framework",
+      "description": "Accuracy, latency p95, and cost benchmarking for model-based solutions, with per-field ground-truth scoring.",
+      "stars": 129,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-02T06:46:06Z",
+      "summary": "ai-evaluation-framework 是一个用于评估基于模型解决方案的基准测试工具，专注于准确性、p95 延迟和成本三大维度，并提供逐字段的 ground-truth 评分机制。它解决了模型选型和优化过程中缺乏统一量化指标的问题，帮助开发者客观比较不同模型或提示词配置的性能与成本权衡。核心技术亮点包括细粒度的字段级评分、延迟分布统计（p95）以及成本核算，支持 JavaScript 环境。适用场景包括 LLM 应用的性能调优、模型对比选型、以及生产环境中的持续监控。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T01:59:53.121840+00:00"
+    },
+    {
+      "title": "agfnow/agentflow",
+      "source": "github-trending",
+      "url": "https://github.com/agfnow/agentflow",
+      "description": "File-logged conversation protocol and on-demand development pipeline",
+      "stars": 108,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-04T05:08:20Z",
+      "summary": "agentflow 是一个基于文件日志的对话协议和按需开发流水线，用 JavaScript 实现。它解决 AI 代理开发中对话状态持久化与任务流程管理问题，通过文件系统记录对话，支持按需触发开发任务，核心亮点是轻量级协议与流水线集成。适用于需要可追溯、可复现的 AI 辅助开发场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-08T01:59:55.335079+00:00"
+    },
+    {
+      "title": "bangtutorial/bang-motion",
+      "source": "github-trending",
+      "url": "https://github.com/bangtutorial/bang-motion",
+      "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
+      "stars": 108,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-06T02:22:15Z",
+      "summary": "bang-motion 是一个面向 AI 代理的浏览器动态图形技能包，用于生成视频风格的开场、宣传片、片头、动态排版及五种讲解动画，而非幻灯片式过渡。它输出单一 HTML 文件，兼容 Claude Code、Codex、Gemini CLI 和 Cursor 等工具。核心亮点在于将运动图形设计模式封装为可复用的 agent skill，使 LLM 能直接生成高质量动画内容，降低视频制作门槛。适用场景包括 AI 辅助内容创作、营销素材快速生成及教育演示。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T01:59:57.679013+00:00"
+    },
+    {
+      "title": "int64ago/vistep",
+      "source": "github-trending",
+      "url": "https://github.com/int64ago/vistep",
+      "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
+      "stars": 105,
+      "language": "TypeScript",
+      "topics": [
+        "astro",
+        "bilingual",
+        "education",
+        "react",
+        "simulation",
+        "threejs",
+        "typescript",
+        "visualization"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-08T01:23:08Z",
+      "summary": "vistep 是一个基于 Astro 和 React 构建的开源教育项目，旨在通过 AI 驱动的双语视觉解释、交互式模型和同步叙述，将复杂技术概念逐步可视化。它解决传统技术文档静态、难以理解的问题，核心亮点是结合 AI 生成内容与交互模拟，提升学习体验。适用于技术教程、文档演示和在线教育场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-09-08T01:59:59.670975+00:00"
+    },
+    {
+      "title": "Apeireth/Apeireth",
+      "source": "github-trending",
+      "url": "https://github.com/Apeireth/Apeireth",
+      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "stars": 105,
+      "language": "Rust",
+      "topics": [
+        "agi",
+        "ai-agents",
+        "autonomous-agents",
+        "cognitive-architecture",
+        "microkernel",
+        "operating-system",
+        "pure-safe-rust",
+        "rust",
+        "topological-memory",
+        "zero-trust"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-07T08:10:04Z",
+      "summary": "Apeireth 是一个用纯安全 Rust 实现的 AGI 操作系统与认知微内核，由 16 个 crate 组成，提供连续拓扑记忆、因果世界模型、认知调度器、Ember HUD、三重洋葱安全机制，并支持便携 USB agent。它旨在为自主智能体构建一个底层运行时环境，解决传统 AI 框架缺乏持久记忆、因果推理和系统级安全隔离的问题。核心技术亮点在于将认知架构与微内核设计结合，强调内存连续性和安全分层。适用于需要高可靠性和安全性的自主 agent 系统、边缘设备或嵌入式 AI 场景。",
+      "tags": [
+        "agent",
+        "cognitive-architecture",
+        "open-source",
+        "rust",
+        "autonomous-agents"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-09-08T02:00:01.976574+00:00"
+    },
+    {
+      "title": "shtjww/llm-inference-capacity-handbook",
+      "source": "github-trending",
+      "url": "https://github.com/shtjww/llm-inference-capacity-handbook",
+      "description": "大模型推理案头手册（开源版）：给定 GPU 算力，一个模型能扛多少 QPS？三层模型 × 三面墙 × 排队论 × 开环压测",
+      "stars": 104,
+      "language": null,
+      "topics": [
+        "capacity-planning",
+        "gpu",
+        "llm-inference",
+        "llmops",
+        "queueing-theory",
+        "vllm"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-02T11:05:33Z",
+      "summary": "这是一份面向大模型推理容量规划的实战手册，解决在给定GPU算力下预测模型可承载QPS的问题。其核心技术亮点在于结合三层模型（硬件、运行时、业务）、三面墙（计算、内存、带宽瓶颈）与排队论，并通过开环压测验证容量模型。适用于LLMOps工程师进行容量规划、性能调优与成本估算，为GPU资源采购和弹性伸缩提供数据支撑。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 8.1,
+      "analyzed_at": "2026-09-08T02:00:05.579198+00:00"
+    },
+    {
+      "title": "lotchuazzz-crypto/papergraph-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
+      "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+      "stars": 99,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "arxiv",
+        "knowledge-graph",
+        "latex",
+        "mathematics",
+        "mcp",
+        "model-context-protocol",
+        "python",
+        "research-tools",
+        "skills"
+      ],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-06T16:47:40Z",
+      "summary": "papergraph-mcp 是一个将 arXiv 和 LaTeX 数学论文转化为定理依赖图的开源工具，通过 MCP 协议为 AI agents 提供结构化知识。它解决 AI 在数学推理中难以理解论文逻辑结构的问题，核心亮点是解析 LaTeX 源码并构建定理间的依赖关系，形成可查询的图数据。适用于数学研究辅助、AI 推理增强及知识图谱构建场景。",
+      "tags": [
+        "mcp",
+        "knowledge-graph",
+        "agent",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-08T02:00:16.684998+00:00"
+    },
+    {
+      "title": "internetphysics/live-classroom",
+      "source": "github-trending",
+      "url": "https://github.com/internetphysics/live-classroom",
+      "description": "A live TV channel that teaches whatever you type — LLM-planned lessons rendered just-in-time as 1970s-style cartoons by MiniMax H3 Max Turbo, playing on a CRT in a 3D classroom. Bring your own fal key.",
+      "stars": 98,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-08T01:59:19.935462+00:00",
+      "published_at": "2026-09-02T19:38:44Z",
+      "summary": "live-classroom 是一个将 LLM 课程计划实时渲染为 1970 年代风格卡通片的直播电视频道，用户输入任意主题即生成教学内容。它利用 MiniMax H3 Max Turbo 模型进行课程规划与内容生成，并通过 3D 教室中的 CRT 屏幕呈现，需自备 fal key。核心亮点是结合 LLM 与多媒体渲染的创意教育形式，适用于趣味教学、内容生成演示等场景。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-08T02:00:19.531608+00:00"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-08T01:59:21.624591+00:00",
+  "date": "2026-09-08",
+  "count": 20,
+  "items": [
+    {
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "source": "hackernews-top",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49601655",
+      "description": "",
+      "hn_score": 220,
+      "comments": 107,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "该条目展示洛杉矶从1880年至2026年的建筑演变过程，以可视化方式呈现城市发展。它解决的是如何直观理解城市历史变迁的问题，核心亮点在于时间序列数据的动态展示。适用场景包括城市规划教育、历史研究展示及数据可视化演示。",
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-09-08T02:00:22.076173+00:00"
+    },
+    {
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "hn_url": "https://news.ycombinator.com/item?id=49575515",
+      "description": "",
+      "hn_score": 149,
+      "comments": 35,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "该文探讨针对整个Linux发行版的Trusting-Trust攻击，一种经典的编译器后门攻击。它通过恶意编译器在编译自身及系统工具时植入后门，从而在源码看似安全的情况下实现持久控制。核心亮点是展示了供应链攻击的隐蔽性和信任链的脆弱性，适用于安全研究、系统审计和供应链防御场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-09-08T02:00:24.685604+00:00"
+    },
+    {
+      "title": "WeatherNext 3",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/science/weathernext/",
+      "hn_url": "https://news.ycombinator.com/item?id=49552299",
+      "description": "",
+      "hn_score": 236,
+      "comments": 56,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "WeatherNext 3 是 Google 推出的新一代天气预报 AI 模型，旨在解决传统数值天气预报计算成本高、预测精度不足的问题。其核心技术亮点在于采用图神经网络（GNN）和扩散模型，能够高效处理多尺度气象数据，实现分钟级更新和更长期（10-15天）的精准预测。该模型支持全球范围的高分辨率预报，适用于极端天气预警、农业规划、能源调度等场景。相比前代，WeatherNext 3 在推理速度和准确性上均有显著提升，展示了 AI 在科学计算领域的强大潜力。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-08T02:00:27.598697+00:00"
+    },
+    {
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "source": "hackernews-top",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "hn_url": "https://news.ycombinator.com/item?id=49569838",
+      "description": "",
+      "hn_score": 142,
+      "comments": 36,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "实验首次在量子系统中观测到引力引起的量子纠缠，验证了爱因斯坦广义相对论与量子力学兼容的假设。该研究解决了量子引力实验验证难题，利用极低温悬浮粒子与超导电路实现引力场下的纠缠探测。适用于基础物理验证及未来量子传感技术开发。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-08T02:00:30.205581+00:00"
+    },
+    {
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "hn_url": "https://news.ycombinator.com/item?id=49592375",
+      "description": "",
+      "hn_score": 525,
+      "comments": 729,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "该视频揭示LG智能电视存在216M台设备可被远程控制的安全漏洞，攻击者可利用电视的隐藏功能（如guest模式）进行屏幕劫持、数据窃取。核心问题在于LG的Smart TV平台缺乏严格的访问控制和漏洞修补机制。视频通过实际演示展示攻击过程，强调物联网设备安全风险。适用场景为安全研究、智能设备漏洞分析和消费者警示。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-09-08T02:00:33.252781+00:00"
+    },
+    {
+      "title": "This Month in Ladybird – August 2026",
+      "source": "hackernews-top",
+      "url": "https://ladybird.org/newsletter/2026-08-31/",
+      "hn_url": "https://news.ycombinator.com/item?id=49571096",
+      "description": "",
+      "hn_score": 167,
+      "comments": 41,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "Ladybird 浏览器项目发布 2026 年 8 月月度进展报告。该项目是独立开发的非商业浏览器引擎，旨在摆脱对主流浏览器引擎的依赖。报告涵盖渲染引擎改进、Web 标准兼容性提升、性能优化及新功能实现等核心进展。亮点包括 CSS 布局、JavaScript 引擎优化及对更多 Web API 的支持。适用场景为关注开源浏览器技术、Web 平台标准演进及系统级软件开发的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.7,
+      "analyzed_at": "2026-09-08T02:00:36.083239+00:00"
+    },
+    {
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "source": "hackernews-top",
+      "url": "https://mathathonchallenge.com/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49596055",
+      "description": "",
+      "hn_score": 232,
+      "comments": 82,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "Caltech Mathathon 是首个专注于研究级数学的黑客马拉松活动，旨在将数学研究中的开放问题与编程实践结合。其核心亮点是让参与者利用计算工具和算法探索数学猜想或证明辅助，而非传统应用开发。该活动适合对数学、算法和形式化验证感兴趣的开发者，推动数学与AI交叉领域的创新。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-09-08T02:00:39.091845+00:00"
+    },
+    {
+      "title": "Icy Moons Are Ocean Worlds",
+      "source": "hackernews-top",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "hn_url": "https://news.ycombinator.com/item?id=49586207",
+      "description": "",
+      "hn_score": 134,
+      "comments": 12,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "这是关于冰卫星（如木卫二、土卫二）被证实为海洋世界的科学报道，非AI技术内容。它探讨了这些卫星冰层下液态海洋的存在及其对天体生物学的影响。核心技术亮点在于使用遥感与引力测量数据分析冰层结构。适用场景为行星科学教育与研究，对AI工程师无直接实用价值。",
+      "tags": [
+        "open-source"
+      ],
+      "score": 1.0,
+      "analyzed_at": "2026-09-08T02:00:41.025434+00:00"
+    },
+    {
+      "title": "Decoding the NEC V20 Microcode",
+      "source": "hackernews-top",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49561002",
+      "description": "",
+      "hn_score": 118,
+      "comments": 8,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "这是一篇对NEC V20微处理器微码进行逆向工程的技术文章，详细解析了其微码架构和指令执行流程。它解决了老式x86兼容芯片内部微码不透明的问题，通过反汇编和逻辑分析揭示了微码的编码方式、调度机制及与硬件的交互。核心技术亮点包括对微码ROM的逐位分析和执行单元映射。适用场景为计算机体系结构研究、复古计算爱好者和微码逆向工程教学。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.6,
+      "analyzed_at": "2026-09-08T02:00:43.302703+00:00"
+    },
+    {
+      "title": "Simple Is Not Small",
+      "source": "hackernews-top",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "hn_url": "https://news.ycombinator.com/item?id=49558685",
+      "description": "",
+      "hn_score": 210,
+      "comments": 64,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "文章讨论软件设计中'简单'与'规模小'的区别，强调简单是设计原则，小是代码规模，二者不必然相关。它解决开发者常将代码行数少等同于简单的问题，指出真正的简单在于清晰的结构和低复杂度。核心亮点是区分概念，提倡通过抽象和模块化实现简单性，而非盲目缩减代码。适用场景包括系统架构设计、代码评审和开发者教育。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.1,
+      "analyzed_at": "2026-09-08T02:00:45.760946+00:00"
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "source": "hackernews-top",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "hn_url": "https://news.ycombinator.com/item?id=49593563",
+      "description": "",
+      "hn_score": 955,
+      "comments": 247,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "这是一篇关于服务器运维可靠性的技术文章，核心问题是服务器宕机导致的服务中断。文章强调通过冗余设计、监控告警、自动化故障转移等工程实践来保持服务持续运行。技术亮点在于系统化的运维策略和故障恢复机制。适用场景为需要高可用性的生产环境，如云服务、在线应用等。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-08T02:00:48.311020+00:00"
+    },
+    {
+      "title": "bzip3",
+      "source": "hackernews-top",
+      "url": "https://github.com/iczelia/bzip3",
+      "hn_url": "https://news.ycombinator.com/item?id=49598291",
+      "description": "",
+      "hn_score": 381,
+      "comments": 110,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "bzip3 是一个开源压缩工具，旨在解决 bzip2 压缩率不足和速度较慢的问题。它采用改进的 Burrows-Wheeler 变换、上下文混合编码和快速熵编码等核心技术，实现了更高的压缩比和更快的解压速度。适用于需要高效数据存储和传输的场景，如大数据备份、归档和网络传输。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-08T02:00:50.665542+00:00"
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "source": "hackernews-top",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "hn_url": "https://news.ycombinator.com/item?id=49595865",
+      "description": "",
+      "hn_score": 187,
+      "comments": 77,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "这是一个比利时公共交通的实时地图可视化项目，展示全国公交、火车等车辆的实时位置。它解决公众出行时获取实时车辆位置信息的需求，核心亮点是数据聚合与前端地图渲染技术，可能涉及 WebSocket 或轮询更新。适用于日常通勤、旅行规划及交通数据爱好者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-09-08T02:00:52.899311+00:00"
+    },
+    {
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "source": "hackernews-top",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "hn_url": "https://news.ycombinator.com/item?id=49596054",
+      "description": "",
+      "hn_score": 130,
+      "comments": 47,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "vLLM 在 AMD GPU 上实现投机解码（Speculative Decoding），通过草稿模型快速生成候选 token 并由目标模型验证，减少推理延迟。文章解决 AMD 平台（如 MI300）上 vLLM 推理性能优化问题，核心亮点包括利用 AMD ROCm 软件栈适配投机解码流程，支持多模型协同。适用场景为 AMD GPU 集群上的 LLM 服务部署，尤其对延迟敏感的应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-08T02:00:54.802440+00:00"
+    },
+    {
+      "title": "Initial effects of AI technology on employment look positive",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "hn_url": "https://news.ycombinator.com/item?id=49596610",
+      "description": "",
+      "hn_score": 67,
+      "comments": 106,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "该文章基于初步数据探讨AI技术对就业的初期影响，结论指向积极面，即AI并未大规模取代岗位，反而可能提升生产力和创造新机会。它解决的是公众对AI取代工作的焦虑，通过分析实际就业数据和经济指标，而非技术细节。核心亮点在于用实证方法评估AI的经济效应，而非算法创新。适用场景为政策制定者、经济学家和关注劳动力市场的AI从业者，用于理解技术落地的社会影响。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-09-08T02:00:57.043799+00:00"
+    },
+    {
+      "title": "I'm a seeing-eye dog for a computer",
+      "source": "hackernews-top",
+      "url": "https://claytonwramsey.com/blog/seeing-eye/",
+      "hn_url": "https://news.ycombinator.com/item?id=49550276",
+      "description": "",
+      "hn_score": 104,
+      "comments": 88,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "这是一篇关于AI辅助视觉障碍人士使用计算机的报道，将导盲犬概念类比为AI视觉助手。它解决视障用户无法有效感知屏幕内容的问题，通过实时图像识别、语音反馈和智能导航，帮助用户操作界面、阅读文本和识别图像。核心技术亮点包括多模态模型、低延迟推理和自适应交互设计。适用场景为无障碍计算、辅助技术研究和人机交互优化。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-08T02:00:59.757742+00:00"
+    },
+    {
+      "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+      "source": "hackernews-top",
+      "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+      "hn_url": "https://news.ycombinator.com/item?id=49602582",
+      "description": "",
+      "hn_score": 140,
+      "comments": 94,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "报道特斯拉事故，涉及其Full Self-Driving/Autopilot系统在停车标志处未停车致人死亡。该事件暴露自动驾驶系统在复杂道路场景下的感知与决策缺陷，核心争议在于系统边界与驾驶员责任。技术亮点在于事故数据对自动驾驶算法安全性的验证意义，适用于自动驾驶安全评估与法规讨论。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "multimodal"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-08T02:01:02.469661+00:00"
+    },
+    {
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "source": "hackernews-top",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "hn_url": "https://news.ycombinator.com/item?id=49599481",
+      "description": "",
+      "hn_score": 351,
+      "comments": 240,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "这是一条2003年比尔·盖茨尝试安装MovieMaker的趣味历史视频，在Hacker News获得351分高热度。内容本身无技术深度，但折射出早期软件安装体验的痛点，对理解开发者工具演进有历史参考价值。核心亮点是真实还原经典Windows安装流程，适合作为技术文化讨论素材或产品设计反思案例。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-09-08T02:01:04.786634+00:00"
+    },
+    {
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "hn_url": "https://news.ycombinator.com/item?id=49597189",
+      "description": "",
+      "hn_score": 270,
+      "comments": 168,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "文章报道智能手机厂商普遍忽视欧盟可维修性法规要求，指出法规执行与合规性存在显著缺口。核心问题在于厂商设计趋向不可维修（如胶合电池、专有零件），与欧盟推动的环保和消费者权益目标冲突。技术亮点涉及产品设计中的模块化、标准化零件和维修文档公开等可维修性实践，但厂商因成本与商业利益抵触。适用场景为政策制定者、产品设计师及关注可持续技术的工程师，用于理解法规落地挑战与设计权衡。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-09-08T02:01:08.165532+00:00"
+    },
+    {
+      "title": "De-Brainrot Vacations",
+      "source": "hackernews-top",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "hn_url": "https://news.ycombinator.com/item?id=49597907",
+      "description": "",
+      "hn_score": 466,
+      "comments": 189,
+      "collected_at": "2026-09-08T01:59:20.097604+00:00",
+      "published_at": "2026-09-08T01:59:20.097604+00:00",
+      "summary": "De-Brainrot Vacations 是一个针对数字时代信息过载问题的项目，旨在帮助用户摆脱低质量、碎片化内容（即“脑腐”内容）的困扰，提供结构化、高质量的度假式信息消费体验。其核心技术亮点在于通过内容筛选与推荐机制，结合用户偏好设定，过滤噪音信息，聚焦深度阅读与学习。适用场景包括个人知识管理、专注力训练、以及希望减少社交媒体依赖的AI工程师日常信息获取。",
+      "tags": [
+        "workflow-automation",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-09-08T02:01:15.956425+00:00"
+    }
+  ]
+}

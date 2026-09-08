@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-08-016",
+  "title": "Speculative Decoding in vLLM on AMD GPUs",
+  "source": "hackernews-top",
+  "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+  "summary": "vLLM 在 AMD GPU 上实现投机解码（Speculative Decoding），通过草稿模型快速生成候选 token 并由目标模型验证，减少推理延迟。文章解决 AMD 平台（如 MI300）上 vLLM 推理性能优化问题，核心亮点包括利用 AMD ROCm 软件栈适配投机解码流程，支持多模型协同。适用场景为 AMD GPU 集群上的 LLM 服务部署，尤其对延迟敏感的应用。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-09-08T01:59:20.097604+00:00",
+  "analyzed_at": "2026-09-08T02:00:54.802440+00:00",
+  "organized_at": "2026-09-08T02:01:16.025943+00:00",
+  "status": "published"
+}

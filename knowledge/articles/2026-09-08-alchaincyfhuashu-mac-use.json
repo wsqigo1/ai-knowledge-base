@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-08-003",
+  "title": "alchaincyf/huashu-mac-use",
+  "source": "github-trending",
+  "url": "https://github.com/alchaincyf/huashu-mac-use",
+  "summary": "huashu-mac-use 是一个基于 Swift 的 Agent Skill，使 AI agent 能够操控 Mac 上无 API 的原生应用。它通过读取后台界面数据、模拟用户操作且不打扰用户，并为每一步操作保留取证记录，解决了 agent 在 macOS 上无法直接控制原生 GUI 应用的问题。核心技术亮点包括后台 UI 读取、非侵入式写入和操作留痕机制，适用于自动化桌面工作流、UI 测试和 AI 助手集成场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-09-08T01:59:19.935462+00:00",
+  "analyzed_at": "2026-09-08T01:59:40.537497+00:00",
+  "organized_at": "2026-09-08T02:01:16.025943+00:00",
+  "status": "published"
+}

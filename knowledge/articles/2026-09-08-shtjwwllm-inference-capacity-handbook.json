@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-08-010",
+  "title": "shtjww/llm-inference-capacity-handbook",
+  "source": "github-trending",
+  "url": "https://github.com/shtjww/llm-inference-capacity-handbook",
+  "summary": "这是一份面向大模型推理容量规划的实战手册，解决在给定GPU算力下预测模型可承载QPS的问题。其核心技术亮点在于结合三层模型（硬件、运行时、业务）、三面墙（计算、内存、带宽瓶颈）与排队论，并通过开环压测验证容量模型。适用于LLMOps工程师进行容量规划、性能调优与成本估算，为GPU资源采购和弹性伸缩提供数据支撑。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 8.1,
+  "collected_at": "2026-09-08T01:59:19.935462+00:00",
+  "analyzed_at": "2026-09-08T02:00:05.579198+00:00",
+  "organized_at": "2026-09-08T02:01:16.025943+00:00",
+  "status": "published"
+}
