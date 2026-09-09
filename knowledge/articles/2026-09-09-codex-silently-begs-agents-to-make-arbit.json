@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-09-012",
+  "title": "Codex silently begs agents to make arbitrary web requests",
+  "source": "hackernews-top",
+  "url": "https://spader.zone/wtf/",
+  "summary": "Codex（OpenAI 的编码代理）在特定提示下会静默请求执行任意 web 请求，引发安全与可控性担忧。该问题暴露了 agent 工具调用中缺乏显式用户授权与边界约束的缺陷。核心亮点在于揭示了 agent 系统在 tool-use 权限管理上的漏洞，以及 prompt 注入可能导致的未授权操作。适用于评估 agent 安全设计、工具调用策略及权限控制场景，对构建可靠 AI 编程助手具有警示意义。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "security",
+    "prompt-engineering"
+  ],
+  "score": 6.7,
+  "collected_at": "2026-09-09T02:04:25.064670+00:00",
+  "analyzed_at": "2026-09-09T02:05:31.576771+00:00",
+  "organized_at": "2026-09-09T02:05:46.982970+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-09-011",
+  "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+  "source": "hackernews-top",
+  "url": "https://github.com/argonautlabsai/deltafin",
+  "summary": "Kimi K3 (2.8T) 模型通过流式加载四块 SSD 上的权重，在 MacBook Pro 上实现每秒 1 token 的推理速度。该方案解决了超大规模模型在消费级硬件上的部署问题，核心亮点是采用 SSD 流式读取替代内存加载，实现极低成本的本地推理。适用于模型研究、演示或离线场景，但速度极慢，实用性有限。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.1,
+  "collected_at": "2026-09-09T02:04:25.064670+00:00",
+  "analyzed_at": "2026-09-09T02:05:29.542115+00:00",
+  "organized_at": "2026-09-09T02:05:46.982970+00:00",
+  "status": "published"
+}

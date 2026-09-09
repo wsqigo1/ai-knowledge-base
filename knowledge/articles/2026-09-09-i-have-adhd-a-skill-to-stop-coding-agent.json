@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-09-010",
+  "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+  "source": "hackernews-top",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "summary": "该项目是一个针对编码智能体（coding agents）的技能包，旨在解决智能体在输出答案时信息被淹没、用户难以快速定位关键内容的问题。其核心技术亮点是通过结构化输出和重点标记，强制智能体将最终结论置于显眼位置，并压缩冗余推理过程。适用于使用AI编程助手进行代码审查、调试或文档查询的场景，尤其对注意力易分散的开发者（如ADHD患者）友好，能显著提升信息获取效率。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "prompt-engineering",
+    "code-generation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-09T02:04:25.064670+00:00",
+  "analyzed_at": "2026-09-09T02:05:27.957730+00:00",
+  "organized_at": "2026-09-09T02:05:46.982970+00:00",
+  "status": "published"
+}

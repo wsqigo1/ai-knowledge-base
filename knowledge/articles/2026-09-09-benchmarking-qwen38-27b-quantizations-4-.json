@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-09-008",
+  "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+  "source": "hackernews-top",
+  "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+  "summary": "该文对Qwen3.8 27B模型的不同量化级别进行基准测试，重点评估4-bit与1-bit量化性能。结果显示4-bit量化在保持模型能力方面表现良好，而1-bit量化则导致性能严重下降。文章解决量化选择中的精度与资源权衡问题，通过系统测试提供数据支撑。核心技术亮点在于对比多档位量化对推理质量的影响，并揭示极端低比特的局限性。适用场景为模型部署优化、边缘设备推理及资源受限环境下的LLM选型。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-09T02:04:25.064670+00:00",
+  "analyzed_at": "2026-09-09T02:05:23.378859+00:00",
+  "organized_at": "2026-09-09T02:05:46.982970+00:00",
+  "status": "published"
+}
