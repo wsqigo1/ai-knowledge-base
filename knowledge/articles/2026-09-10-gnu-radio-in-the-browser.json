@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-10-017",
+  "title": "GNU Radio in the browser",
+  "source": "hackernews-top",
+  "url": "https://gnuradioworld.com/",
+  "summary": "GNU Radio 是开源软件定义无线电（SDR）信号处理框架，本项目将其核心运行时通过 WebAssembly 移植到浏览器中运行，使工程师无需本地安装即可在网页端搭建和调试 DSP 信号处理流图。核心技术亮点在于将 C++/Python 混合的 GNU Radio 运行时编译为 WASM，并借助 Web Audio、WebUSB 等浏览器 API 接入实时信号流，同时保留原有的 flowgraph 可视化编排范式。适用场景包括 SDR 教学演示、无线电协议快速原型验证、跨平台信号处理实验，以及远程协作调试。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "multimodal"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:20.589699+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

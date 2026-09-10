@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-10-019",
+  "title": "Understanding the recent DDoS attack against Read the Docs",
+  "source": "hackernews-top",
+  "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+  "summary": "该文章复盘了 Read the Docs 近期遭遇的一次大规模 DDoS 攻击事件。Read the Docs 是广泛服务于开源社区的文档托管与自动构建平台，此次攻击导致其服务中断，影响大量依赖其托管文档的开发者与项目。文章核心亮点在于从工程与运维视角还原攻击流量特征、触发机制、缓解策略与恢复过程，并讨论 CDN、限流、缓存与源站防护等防御手段的实际效果。适用场景包括基础设施运维、开源平台安全加固、DDoS 防御方案评估，以及对托管服务可用性风险有需求的工程团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:24.136855+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

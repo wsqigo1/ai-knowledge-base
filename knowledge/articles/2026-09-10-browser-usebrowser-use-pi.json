@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-10-004",
+  "title": "browser-use/browser-use-pi",
+  "source": "github-trending",
+  "url": "https://github.com/browser-use/browser-use-pi",
+  "summary": "browser-use-pi 是 browser-use 团队推出的轻量级 TypeScript Web Agent，通过真实浏览器评测（real browser evals）进行 hill climbing 式迭代优化。它解决的是 LLM Agent 在网页自动化任务中泛化能力差、评测脱离真实环境的问题，核心亮点在于以真实浏览器交互作为评测基准来驱动 Agent 能力提升，而非依赖合成数据集。该工具适合需要构建网页操作 Agent 的开发者，用于表单填写、信息抓取、多步网页任务自动化等场景，也可作为 Agent 评测方法论的研究参考。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-10T02:01:10.507102+00:00",
+  "analyzed_at": "2026-09-10T02:01:41.181595+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

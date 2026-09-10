@@ -1,0 +1,504 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-10T02:01:29.216613+00:00",
+  "date": "2026-09-10",
+  "count": 20,
+  "items": [
+    {
+      "title": "okf-memory/okf-agent-memory",
+      "source": "github-trending",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "stars": 521,
+      "language": "Go",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools",
+        "git-native",
+        "go",
+        "golang",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm-memory",
+        "markdown",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "okf",
+        "open-knowledge-format",
+        "persistent-memory"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-09T18:13:11Z",
+      "summary": "okf-agent-memory 是一个纯 Go 实现的 Git 原生持久化记忆系统，专为 AI coding agents 设计，遵循 Google OKF v0.2 规范。它解决了编码代理在长会话中上下文膨胀、token 消耗过高的问题，通过内存内 BM25 检索实现低于 300µs 的查询延迟，并内置 MCP server 与渐进式披露机制，将 token 冗余削减约 80%，且无需外部数据库或依赖。适用于需要跨会话记忆、低延迟检索和轻量部署的 AI 编程助手与 agent 工作流。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-09-10T02:01:30.778172+00:00"
+    },
+    {
+      "title": "achimala/dream-loop",
+      "source": "github-trending",
+      "url": "https://github.com/achimala/dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "stars": 475,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-09T22:43:38Z",
+      "summary": "dream-loop 是一个面向 Blender 3D 视觉创作的 Agent skill，通过组合图像生成模型与 subagent critic 机制，让 LLM Agent 自动完成从概念到 3D 场景的迭代生成流程。它解决的核心问题是：传统 3D 内容创作依赖人工反复调参和审美判断，而该工具引入 critic subagent 对生成结果进行自动评估与反馈，形成生成-批评-修正的闭环。技术亮点在于多 agent 协作架构与视觉生成工具链的深度集成，使用 JavaScript 实现，可直接接入现有 Agent 框架。适用场景包括游戏资产快速原型、概念设计自动化、AI 辅助 3D 建模教学等。",
+      "tags": [
+        "multi-agent",
+        "multimodal",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:32.374464+00:00"
+    },
+    {
+      "title": "lfzk550/fanzha-ai-proxy",
+      "source": "github-trending",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "stars": 387,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-07T08:44:24Z",
+      "summary": "该项目是一个反向代理服务，将国家反诈中心AI接口转换为OpenAI兼容的API格式，使开发者能够通过标准OpenAI SDK调用反诈AI能力。核心亮点在于协议适配层的实现，将非标准上游接口统一封装为/v1/chat/completions等标准端点，降低了接入门槛。适用于需要集成反诈识别能力、但又希望复用现有OpenAI调用链的开发者进行学习与实验。项目明确标注仅限学习用途，生产环境使用需注意合规风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 6.0,
+      "analyzed_at": "2026-09-10T02:01:33.813716+00:00"
+    },
+    {
+      "title": "yudaprasetya007/routeVSCODE",
+      "source": "github-trending",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "stars": 326,
+      "language": "JavaScript",
+      "topics": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "deepseek",
+        "local-proxy",
+        "model-switcher",
+        "vscode",
+        "vscode-extension"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-10T01:25:05Z",
+      "summary": "routeVSCODE 是一个面向 VSCode Copilot Chat 的动态 AI 模型切换器与本地代理工具，通过 9Router 实现零重载（Zero-reload）的模型热切换。它解决了开发者在 Copilot Chat 中无法灵活切换底层模型（如 ChatGPT、Claude 等）的痛点，无需重启编辑器即可在不同 LLM 之间切换。核心技术亮点在于本地代理架构与 9Router 路由机制，将请求动态转发至不同模型端点，同时保持 Copilot Chat 的原生交互体验。适用于需要多模型对比、成本优化或特定任务选用特定模型的开发者，尤其适合日常依赖 VSCode 进行 AI 辅助编码的工程师。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-10T02:01:35.329001+00:00"
+    },
+    {
+      "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+      "stars": 296,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-06T03:57:39Z",
+      "summary": "Manware-s-AI-Learning-Toolkit 是一个开源 AI 工具包，旨在将 AI agent 从单纯生成代码的「输出机器」转变为具备教学能力的「导师」。它针对当前 agent 普遍缺乏解释性与引导性的问题，通过结构化 prompt 与交互流程设计，让 agent 在辅助编程或学习时主动讲解原理、拆解思路，而非直接给出答案。核心技术亮点在于将教学法融入 agent 工作流，强调 reasoning 过程的显式化与 tool-use 的教学化编排。适用场景包括编程学习辅助、代码审查教学、AI 编程助手增强，以及希望提升 agent 交互质量的开发者工具链。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:36.916189+00:00"
+    },
+    {
+      "title": "ScottStevenson/SuperAstra",
+      "source": "github-trending",
+      "url": "https://github.com/ScottStevenson/SuperAstra",
+      "description": "Change SNES games with AI while you play them.",
+      "stars": 239,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-06T18:41:51Z",
+      "summary": "SuperAstra 是一个基于 Python 的开源项目，通过 AI 在玩家游玩 SNES 游戏时实时修改游戏内容。它解决了传统模拟器无法动态调整游戏逻辑的问题，核心亮点在于将 LLM 或视觉模型与模拟器状态实时联动，实现游戏内元素（如角色、关卡、道具）的即时替换。适用场景包括游戏直播互动、AI 游戏研究以及复古游戏的可玩性扩展。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "agent",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-10T02:01:38.151544+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-mac-use",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-mac-use",
+      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
+      "stars": 228,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-08T03:36:57Z",
+      "summary": "huashu-mac-use 是一个基于 Swift 开发的 macOS Agent Skill，让任意 AI agent 能够操控 Mac 上没有开放 API 的原生应用。它解决了 agent 在桌面端无法与封闭应用交互的痛点，通过读取后台状态、非侵入式写入操作、以及每步操作留取证的方式实现可靠的 computer use 能力。核心技术亮点在于无需目标应用提供 API 即可完成读写操控，且强调操作的可追溯性与不打扰用户体验。适用场景包括桌面自动化工作流、agent 驱动的本地应用集成、以及需要跨应用操作的 AI 助手开发。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-10T02:01:39.704932+00:00"
+    },
+    {
+      "title": "browser-use/browser-use-pi",
+      "source": "github-trending",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "stars": 214,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-09T18:46:28Z",
+      "summary": "browser-use-pi 是 browser-use 团队推出的轻量级 TypeScript Web Agent，通过真实浏览器评测（real browser evals）进行 hill climbing 式迭代优化。它解决的是 LLM Agent 在网页自动化任务中泛化能力差、评测脱离真实环境的问题，核心亮点在于以真实浏览器交互作为评测基准来驱动 Agent 能力提升，而非依赖合成数据集。该工具适合需要构建网页操作 Agent 的开发者，用于表单填写、信息抓取、多步网页任务自动化等场景，也可作为 Agent 评测方法论的研究参考。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:41.181595+00:00"
+    },
+    {
+      "title": "ikevss/wechat-ai-memory",
+      "source": "github-trending",
+      "url": "https://github.com/ikevss/wechat-ai-memory",
+      "description": "本地优先的 Windows 微信个人记忆库：筛选、归档并导出可追溯的聊天上下文",
+      "stars": 175,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-08-25T07:35:30Z",
+      "summary": "该项目是一个本地优先的 Windows 微信个人记忆库工具，通过筛选、归档并导出可追溯的聊天上下文，为个人用户构建结构化的对话数据资产。它解决的核心问题是微信聊天记录难以检索、无法作为长期记忆被 AI 利用的痛点。技术亮点在于本地化存储与可追溯性设计，避免云端隐私风险，同时输出格式适配 LLM 上下文注入。适用场景包括个人知识管理、基于微信对话的 RAG 检索增强、以及为 AI assistant 提供长期记忆支撑。",
+      "tags": [
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:42.590954+00:00"
+    },
+    {
+      "title": "noskillish/bankmcp",
+      "source": "github-trending",
+      "url": "https://github.com/noskillish/bankmcp",
+      "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+      "stars": 173,
+      "language": "TypeScript",
+      "topics": [
+        "chatgpt",
+        "claude",
+        "enable-banking",
+        "mcp",
+        "mcp-server",
+        "ollama",
+        "open-banking",
+        "personal-finance",
+        "psd2",
+        "self-hosted"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-08T18:24:21Z",
+      "summary": "BankMCP 是一个基于 TypeScript 的自托管 MCP server，通过 Enable Banking 的开放银行接口，让 AI 助手以只读方式访问用户自己的银行账户数据。它解决了 LLM 无法安全、合规获取个人金融信息的问题，核心亮点在于标准 MCP 协议兼容、只读权限设计、自托管保障隐私，并已通过 Claude 和 Ollama 测试。适用场景包括个人财务分析、AI 驱动的预算管理、自动化记账，以及需要将银行数据接入 LLM 工作流的开发者。",
+      "tags": [
+        "mcp",
+        "open-source",
+        "tool-use",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-10T02:01:43.948849+00:00"
+    },
+    {
+      "title": "int64ago/vistep",
+      "source": "github-trending",
+      "url": "https://github.com/int64ago/vistep",
+      "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
+      "stars": 162,
+      "language": "TypeScript",
+      "topics": [
+        "astro",
+        "bilingual",
+        "education",
+        "react",
+        "simulation",
+        "threejs",
+        "typescript",
+        "visualization"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-08T01:23:08Z",
+      "summary": "vistep 是一个基于 TypeScript 的开源可视化教学工具，通过 AI 生成双语视觉解释、交互式模型和同步旁白，将抽象概念或算法步骤逐步可视化呈现。它解决的是技术教育与知识传播中「过程不可见」的问题——学习者难以直观理解算法执行、模型推理或系统流程的中间状态。核心技术亮点在于结合 Astro 静态站点框架与 React 交互组件，并引入 AI 自动生成分步解说与双语内容，降低教学内容制作成本。适用于编程教学、算法演示、AI 原理科普等场景，尤其适合需要中英双语受众的教育产品。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "education",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:45.679445+00:00"
+    },
+    {
+      "title": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "source": "github-trending",
+      "url": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution.",
+      "stars": 141,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-10T01:18:18Z",
+      "summary": "Omni-Interaction-Agent 是一个开源端到端全双工交互智能体，旨在解决传统语音助手无法同时进行自然对话、持续视听感知与长周期异步任务执行的问题。其核心亮点在于支持 full-duplex 语音协作（可边听边说）、continuous audio-visual perception（持续多模态环境感知），以及 asynchronous long-horizon agentic execution（异步长时程任务规划与执行）。项目基于 Python 实现，当前处于早期阶段（141 stars），适用于需要实时多模态交互与复杂任务编排的场景，如智能座舱、陪伴机器人、远程协作助手等。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-10T02:01:47.361943+00:00"
+    },
+    {
+      "title": "xflare-bot/pokemonlive",
+      "source": "github-trending",
+      "url": "https://github.com/xflare-bot/pokemonlive",
+      "description": "Local Pokemon battle prototype with AI-generated cinematics",
+      "stars": 136,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-07T04:21:24Z",
+      "summary": "pokemonlive 是一个基于 JavaScript 的本地宝可梦对战原型项目，通过 AI 生成过场动画（cinematics）为传统回合制对战注入动态视觉表现。它解决的核心问题是：在缺乏美术资源的独立开发场景下，如何用生成式 AI 自动产出战斗动画与演出效果，降低游戏原型的视觉制作门槛。技术亮点在于将本地对战逻辑与 AI 生成内容解耦，前端负责战斗状态机与渲染，AI 层负责按事件触发 cinematic 片段，形成可替换的生成管线。适用场景包括独立游戏原型验证、AI 驱动游戏演出实验、以及作为学习 LLM/生成模型接入游戏循环的教学案例。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.4,
+      "analyzed_at": "2026-09-10T02:01:49.138898+00:00"
+    },
+    {
+      "title": "agfnow/agentflow",
+      "source": "github-trending",
+      "url": "https://github.com/agfnow/agentflow",
+      "description": "File-logged conversation protocol and on-demand development pipeline",
+      "stars": 119,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-04T05:08:20Z",
+      "summary": "agentflow 是一个基于文件日志的对话协议与按需开发流水线工具，用 JavaScript 实现。它通过将 agent 对话状态持久化到文件日志中，解决多轮对话上下文丢失、状态不可追溯的问题，同时提供按需触发的开发流水线机制。核心技术亮点在于轻量级的 file-logged 协议设计，无需数据库即可实现对话历史与任务状态的可靠记录，并支持按需执行开发步骤。适用于需要可审计、可回溯的 AI agent 开发场景，如自动化编码助手、多步骤任务编排等。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:50.579180+00:00"
+    },
+    {
+      "title": "bangtutorial/bang-motion",
+      "source": "github-trending",
+      "url": "https://github.com/bangtutorial/bang-motion",
+      "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
+      "stars": 118,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-06T02:22:15Z",
+      "summary": "bang-motion 是一个面向 AI Agent 的浏览器动态图形技能包，通过单一 index.html 输出实现 opener、promo、bumper、kinetic typography 及五种 explainer 风格的视频级动效。它解决的是 AI 生成内容普遍缺乏视觉表现力、动效停留在幻灯片式切换的问题，核心亮点在于将 motion graphics 能力封装为可被 Claude Code、Codex、Gemini CLI、Cursor 等编码 Agent 直接调用的 skill，无需复杂构建工具链。适用场景包括产品发布视频、社交媒体推广素材、品牌 bumper 以及技术概念解释动画的快速生成。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:51.978086+00:00"
+    },
+    {
+      "title": "Apeireth/Apeireth",
+      "source": "github-trending",
+      "url": "https://github.com/Apeireth/Apeireth",
+      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "stars": 115,
+      "language": "Rust",
+      "topics": [
+        "agi",
+        "ai-agents",
+        "autonomous-agents",
+        "cognitive-architecture",
+        "microkernel",
+        "operating-system",
+        "pure-safe-rust",
+        "rust",
+        "topological-memory",
+        "zero-trust"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-10T01:20:34Z",
+      "summary": "Apeireth 是一个用纯 Safe Rust 编写的 AGI 操作系统与认知微内核，包含 16 个 crate，涵盖连续拓扑记忆、因果世界模型、认知调度器、Ember HUD、三重洋葱安全机制及可移植 USB agent。它试图为自主智能体提供底层运行时与认知架构，而非仅停留在 prompt 编排层，解决的是 agent 长期记忆、因果推理与安全隔离的系统级问题。技术亮点在于微内核设计、拓扑记忆与因果世界模型的结合，以及 Safe Rust 带来的内存安全保证。适用场景包括自主 agent 研究、认知架构实验、边缘设备上的可移植智能体部署。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-10T02:01:53.660161+00:00"
+    },
+    {
+      "title": "fidetolabs/qanat",
+      "source": "github-trending",
+      "url": "https://github.com/fidetolabs/qanat",
+      "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
+      "stars": 107,
+      "language": "Python",
+      "topics": [
+        "alpha-research",
+        "backtesting",
+        "dag",
+        "duckdb",
+        "mcp",
+        "quantitative-finance",
+        "trading-toolkit"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-10T01:55:44Z",
+      "summary": "Qanat 是一个面向 Agent 的量化研究工作流引擎，将 alpha 因子的构建与回测建模为 DAG（有向无环图），使 AI Agent 能够以原生方式编排和自动化因子研究流程。它解决的核心问题是传统量化回测框架与 Agent 生态割裂、难以让 LLM 驱动的智能体直接参与因子挖掘与验证的问题。技术亮点包括：基于 DAG 的任务编排、集成 DuckDB 做高效列式数据处理、支持 MCP 协议以便与 Agent 工具链对接，以及内置回测能力。适用场景为量化研究员和 AI 工程师构建 Agent 驱动的 alpha 研究流水线、自动化因子回测与迭代。",
+      "tags": [
+        "agent",
+        "mcp",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-10T02:01:55.052204+00:00"
+    },
+    {
+      "title": "MahdiKordian/MahdiKordian",
+      "source": "github-trending",
+      "url": "https://github.com/MahdiKordian/MahdiKordian",
+      "description": "Machine Learning Engineer | Deep Learning | Generative AI | Agentic AI",
+      "stars": 104,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-09T02:36:12Z",
+      "summary": "MahdiKordian/MahdiKordian 是一个 GitHub 个人主页型仓库，作者定位为 Machine Learning Engineer，聚焦 Deep Learning、Generative AI 与 Agentic AI 方向。该仓库本身并非可复用的框架或工具库，而是个人技术档案与作品集入口，用于展示其在生成式 AI 与智能体领域的技术积累。核心价值在于通过作者的项目索引与背景信息，帮助工程师快速定位其相关开源工作与研究方向。适用场景包括寻找 Agentic AI 方向的合作者、参考个人技术路线规划，或作为招聘与技术选型的线索来源。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-10T02:01:56.488447+00:00"
+    },
+    {
+      "title": "punkpeye/awesome-remote-mcp-servers",
+      "source": "github-trending",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "description": "A collection of remote MCP servers.",
+      "stars": 98,
+      "language": null,
+      "topics": [
+        "mcp"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-10T01:32:03Z",
+      "summary": "punkpeye/awesome-remote-mcp-servers 是一个收录远程 MCP（Model Context Protocol）服务器的精选列表，由社区维护。它解决了 AI 应用开发者在集成外部工具与数据源时缺乏统一、可发现资源的问题。核心亮点在于聚焦远程 MCP 服务器，区别于本地实现，便于云端部署和跨平台调用，并借助 MCP 标准实现 LLM 与外部系统的标准化交互。适用场景包括构建基于 LLM 的 agent、tool-use 工作流、AI 助手以及需要动态接入远程服务的自动化系统。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-10T02:01:58.012810+00:00"
+    },
+    {
+      "title": "amirmushichge/video-states-website",
+      "source": "github-trending",
+      "url": "https://github.com/amirmushichge/video-states-website",
+      "description": "Build a cinematic click-driven video website: LTX footage, image/video prompts, coding-agent build spec, workflow and seam-safe playback guide.",
+      "stars": 98,
+      "language": "JavaScript",
+      "topics": [
+        "ai-video",
+        "creative-coding",
+        "ltx",
+        "prompts",
+        "react",
+        "video-interface",
+        "web-design"
+      ],
+      "collected_at": "2026-09-10T02:01:10.507102+00:00",
+      "published_at": "2026-09-04T15:28:02Z",
+      "summary": "该项目是一个基于 React 的点击驱动视频网站构建方案，利用 LTX 视频生成模型产出电影感素材，并提供图像/视频提示词、coding-agent 构建规范、工作流说明及无缝播放（seam-safe playback）指南。它解决的是 AI 生成视频在网页端落地时素材拼接不连贯、播放接缝明显、缺乏可复用工程规范的问题。核心技术亮点在于将 LTX 生成管线与前端播放逻辑结合，给出可执行的 agent 构建规格与提示词模板。适用于 AI 视频创作者、creative-coding 开发者及需要快速搭建交互式视频站点的工程师。",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-10T02:01:59.524305+00:00"
+    }
+  ]
+}

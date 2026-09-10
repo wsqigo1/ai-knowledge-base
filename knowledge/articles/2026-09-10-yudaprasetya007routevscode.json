@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-10-002",
+  "title": "yudaprasetya007/routeVSCODE",
+  "source": "github-trending",
+  "url": "https://github.com/yudaprasetya007/routeVSCODE",
+  "summary": "routeVSCODE 是一个面向 VSCode Copilot Chat 的动态 AI 模型切换器与本地代理工具，通过 9Router 实现零重载（Zero-reload）的模型热切换。它解决了开发者在 Copilot Chat 中无法灵活切换底层模型（如 ChatGPT、Claude 等）的痛点，无需重启编辑器即可在不同 LLM 之间切换。核心技术亮点在于本地代理架构与 9Router 路由机制，将请求动态转发至不同模型端点，同时保持 Copilot Chat 的原生交互体验。适用于需要多模型对比、成本优化或特定任务选用特定模型的开发者，尤其适合日常依赖 VSCode 进行 AI 辅助编码的工程师。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "code-generation",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-10T02:01:10.507102+00:00",
+  "analyzed_at": "2026-09-10T02:01:35.329001+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

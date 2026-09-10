@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-10-001",
+  "title": "lfzk550/fanzha-ai-proxy",
+  "source": "github-trending",
+  "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+  "summary": "该项目是一个反向代理服务，将国家反诈中心AI接口转换为OpenAI兼容的API格式，使开发者能够通过标准OpenAI SDK调用反诈AI能力。核心亮点在于协议适配层的实现，将非标准上游接口统一封装为/v1/chat/completions等标准端点，降低了接入门槛。适用于需要集成反诈识别能力、但又希望复用现有OpenAI调用链的开发者进行学习与实验。项目明确标注仅限学习用途，生产环境使用需注意合规风险。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "ai-assistant",
+    "large-language-model"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-09-10T02:01:10.507102+00:00",
+  "analyzed_at": "2026-09-10T02:01:33.813716+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

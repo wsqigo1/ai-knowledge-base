@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-10-016",
+  "title": "Desert Ant Labs: local, fast models that run on device",
+  "source": "hackernews-top",
+  "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+  "summary": "Desert Ant Labs 推出可在设备端本地运行的快速模型，旨在解决云端推理延迟高、隐私泄露和网络依赖等问题。核心技术亮点在于模型轻量化与端侧优化，实现低延迟、离线可用的推理能力，无需将数据上传至服务器。适用场景包括移动端 AI 助手、隐私敏感的本地数据处理、边缘计算以及无网络环境下的智能应用。该项目在 Hacker News 获得 396 分，反映出开发者对端侧 AI 部署方案的强烈关注。",
+  "tags": [
+    "open-source",
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:17.053258+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

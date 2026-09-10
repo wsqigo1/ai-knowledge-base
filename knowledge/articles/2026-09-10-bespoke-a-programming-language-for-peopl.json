@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-10-021",
+  "title": "Bespoke: A programming language for people who say please",
+  "source": "hackernews-top",
+  "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+  "summary": "Bespoke 是一门面向自然语言编程的实验性编程语言，其核心理念是允许用户用日常英语（如包含 please 的请求）直接描述程序意图，由语言运行时借助 LLM 将自然语言指令翻译为可执行代码。它试图解决传统编程中语法门槛高、非专业用户难以表达逻辑的问题，通过将 prompt 工程与语言设计结合，把自然语言作为一等公民的源码形式。技术亮点在于语言层面的语义解析与代码生成管线，可能涉及约束解码、意图消歧和运行时反馈。适用场景包括快速原型、教育编程、自动化脚本生成以及 AI 辅助开发工具链。",
+  "tags": [
+    "code-generation",
+    "prompt-engineering",
+    "developer-tools",
+    "open-source",
+    "large-language-model"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:27.371718+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

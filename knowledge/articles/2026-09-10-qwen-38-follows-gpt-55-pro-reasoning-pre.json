@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-10-015",
+  "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+  "source": "hackernews-top",
+  "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+  "summary": "该条目讨论 Qwen 3.8 模型在推理能力上跟随 GPT-5.5 Pro 的 reasoning prefills 策略，即通过预填充推理链来引导模型输出更高质量的推理结果。核心在于将 GPT-5.5 Pro 的推理前缀模式迁移至 Qwen 3.8，解决开源模型在复杂推理任务中缺乏结构化思维链的问题。技术亮点包括 reasoning prefills 的跨模型迁移与对齐，可能涉及 prompt engineering 和推理轨迹蒸馏。适用场景为需要高精度推理的 agent 任务、代码生成及复杂问答系统。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "prompt-engineering",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:15.709389+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-10-018",
+  "title": "How I advertise malicious software on Google Ads",
+  "source": "hackernews-top",
+  "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+  "summary": "该文章是作者对Google Ads广告投放系统的安全研究，详细披露了如何利用Google Ads平台审核漏洞投放恶意软件广告。作者通过构造伪装成合法软件的广告落地页、利用Google Ads的自动审核机制缺陷以及规避人工审查的策略，成功将恶意软件推送给目标用户。核心技术亮点在于对广告平台审核流程的逆向分析与绕过手法，包括域名轮换、落地页动态切换和广告文案伪装等。该内容对安全研究人员、广告平台风控工程师以及恶意软件防御方具有参考价值，可用于理解广告生态中的威胁模式并改进检测策略。",
+  "tags": [
+    "security",
+    "adversarial",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:22.191223+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

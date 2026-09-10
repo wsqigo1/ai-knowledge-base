@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-10-023",
+  "title": "Microsoft says email spammers are adopting ASCII smuggling",
+  "source": "hackernews-top",
+  "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+  "summary": "Microsoft 披露垃圾邮件发送者正采用 ASCII smuggling 技术绕过邮件安全检测。该技术利用 Unicode 隐藏字符（如零宽字符、双向控制符）将恶意文本编码进看似正常的邮件内容中，使传统基于关键词和文本匹配的过滤器无法识别。核心亮点在于攻击者将不可见字符嵌入邮件正文或链接，人类阅读时无异常，但机器解析时隐藏内容可被提取执行，从而绕过安全网关。该手法此前多用于 LLM prompt injection 和钓鱼攻击，现被垃圾邮件规模化利用。适用场景包括邮件安全防护、内容过滤系统设计，以及对 LLM 输入输出安全有要求的 AI 工程师。",
+  "tags": [
+    "prompt-engineering",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:30.898261+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

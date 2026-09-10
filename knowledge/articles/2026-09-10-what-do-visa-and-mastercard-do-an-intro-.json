@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-10-011",
+  "title": "What do Visa and Mastercard do? An intro to card networks",
+  "source": "hackernews-top",
+  "url": "https://tautology.town/2026/06/01/card-networks.html",
+  "summary": "该文章系统介绍 Visa 与 Mastercard 两大卡组织（card network）的运作机制，属于支付基础设施科普。核心在于解释卡组织作为中介方，连接发卡行（issuer）、收单行（acquirer）与商户，通过清算与结算（clearing & settlement）完成跨行资金流转，并从中赚取交换费（interchange fee）与网络费。技术亮点在于对授权（authorization）、清算、结算三阶段的拆解，以及 tokenization、3-D Secure 等风控环节的说明。适用场景为支付系统从业者、金融科技产品经理、以及需要理解支付链路的后端工程师。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:05.153803+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}

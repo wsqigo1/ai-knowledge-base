@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-10-014",
+  "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+  "source": "hackernews-top",
+  "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+  "summary": "该条目讨论 GPT-6 Astra 的传闻、looped transformers 架构以及 hidden reasoning（隐式推理）机制。looped transformers 通过循环复用层参数来提升推理深度而不显著增加参数量，hidden reasoning 则让模型在输出前进行内部多步推理而不暴露中间过程。这些技术旨在解决大模型推理能力与计算效率的平衡问题，适用于复杂推理任务、agent 规划及需要深度思考的场景。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "agent",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-10T02:01:11.213941+00:00",
+  "analyzed_at": "2026-09-10T02:02:12.858151+00:00",
+  "organized_at": "2026-09-10T02:02:32.557832+00:00",
+  "status": "published"
+}
