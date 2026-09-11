@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-11-007",
+  "title": "showlab/Show-Harness",
+  "source": "github-trending",
+  "url": "https://github.com/showlab/Show-Harness",
+  "summary": "Show-Harness 是 showlab 开源的具身智能框架，核心思路是让一个 VLM（视觉语言模型）Agent 直接驱动机器人完成任务，无需为每个任务单独训练策略网络。它提供了一套 harness 层，将 VLM 的视觉理解与语言推理能力桥接到机器人底层控制接口，使通用基础模型能够充当机器人的\"大脑\"。技术亮点在于用统一的 Agent 范式替代传统分任务策略学习，降低机器人编程门槛。适用场景包括具身智能研究、机器人操作任务快速原型验证，以及探索 VLM 在物理世界中的泛化能力。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-11T01:59:29.859910+00:00",
+  "analyzed_at": "2026-09-11T02:00:03.953815+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

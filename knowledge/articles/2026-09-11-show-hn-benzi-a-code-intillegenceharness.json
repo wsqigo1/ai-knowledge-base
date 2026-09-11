@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-11-016",
+  "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+  "source": "hackernews-top",
+  "url": "https://benzi.fly.dev/benchmark",
+  "summary": "Benzi 是一个面向代码智能（Code Intelligence）的开源工具，定位为代码理解与生成的 harness 框架，声称在性能上超越 Claude Code 和 CodeGraph。它解决的核心问题是：现有 LLM 驱动的代码助手在大型代码库中缺乏高效的上下文检索与结构化代码图分析能力，导致生成质量受限。其技术亮点可能包括基于代码图（CodeGraph）的索引机制、针对 LLM 的上下文压缩与检索增强，以及可插拔的 harness 架构以适配不同模型。适用场景包括 IDE 辅助编程、代码库问答、自动化重构与代码审查等开发者工作流。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "agent",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:35.057456+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

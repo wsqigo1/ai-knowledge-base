@@ -1,0 +1,507 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-11T01:59:31.304904+00:00",
+  "date": "2026-09-11",
+  "count": 20,
+  "items": [
+    {
+      "title": "iamzulx/crypto-rag",
+      "source": "github-trending",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "stars": 899,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-07T13:39:44Z",
+      "summary": "iamzulx/crypto-rag 是一个面向印尼语用户的加密货币智能助手，基于 RAG 架构整合 267 个知识主题与实时市场数据。它解决了加密领域信息碎片化、语言壁垒高的问题，让印尼语用户能以自然语言查询行情与链上数据。核心技术亮点包括：多源实时数据接入（6 家交易所 WebSocket、衍生品、on-chain、TVL、DeFi）、tool-calling agent 调度、LLM synthesis 生成回答。适用场景为本地化加密投研助手、多语言 RAG 应用参考、实时金融数据 agent 开发。",
+      "tags": [
+        "rag",
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-11T01:59:33.822550+00:00"
+    },
+    {
+      "title": "achimala/dream-loop",
+      "source": "github-trending",
+      "url": "https://github.com/achimala/dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "stars": 736,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-09T22:43:38Z",
+      "summary": "dream-loop 是一个面向 Blender 3D 视觉创作的 Agent skill，通过将图像生成模型与 Blender 脚本执行串联，让 LLM Agent 能够自动完成从概念图到三维场景的搭建流程。它解决的核心问题是：传统 3D 建模需要人工反复调整参数与材质，而 Agent 缺乏对渲染结果的自我评估能力。该项目引入 subagent critic 机制，由独立的评审子代理对渲染输出进行质量打分与反馈，形成生成-渲染-评审-迭代的闭环。技术亮点在于多模态反馈驱动的自动化 3D 工作流，以及将 Blender 作为可编程工具接入 Agent 工具链。适用场景包括快速概念可视化、游戏/影视前期资产草稿生成、以及需要批量产出 3D 视觉素材的创意自动化管线。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "tool-use",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-11T01:59:36.720546+00:00"
+    },
+    {
+      "title": "okf-memory/okf-agent-memory",
+      "source": "github-trending",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "stars": 549,
+      "language": "Go",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools",
+        "git-native",
+        "go",
+        "golang",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm-memory",
+        "markdown",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "okf",
+        "open-knowledge-format",
+        "persistent-memory"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-10T07:03:21Z",
+      "summary": "okf-agent-memory 是纯 Go 实现的 Git 原生持久化记忆层，面向 AI 编码代理，落地 Google OKF v0.2 规范。它解决代理长上下文导致的 token 膨胀与外部数据库依赖问题：通过内存内 BM25 检索（延迟低于 300µs）、内嵌 MCP server 与渐进式披露机制，将 token 开销削减约 80%，且无需任何外部数据库或依赖。适用于需要跨会话记忆、低延迟检索与轻量部署的 coding agent 与开发者工具链场景。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-11T01:59:38.327939+00:00"
+    },
+    {
+      "title": "lfzk550/fanzha-ai-proxy",
+      "source": "github-trending",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "stars": 423,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-07T08:44:24Z",
+      "summary": "fanzha-ai-proxy 是一个将国家反诈中心 AI 接口转换为 OpenAI 兼容格式的反向代理服务，开发者可通过标准 OpenAI SDK 直接调用该接口。它解决了非标准 API 难以接入现有 LLM 工具链的问题，核心亮点在于协议适配层设计，将私有接口映射为 /v1/chat/completions 等标准端点，降低集成成本。适用于需要快速验证反诈相关 AI 能力的开发者、研究 LLM 代理模式的学习者，以及构建统一多模型网关的场景。项目明确标注仅学习用途，423 stars 表明社区对 API 兼容层方案有持续关注。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-11T01:59:40.345808+00:00"
+    },
+    {
+      "title": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "source": "github-trending",
+      "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+      "stars": 331,
+      "language": "C++",
+      "topics": [
+        "baldurs-gate-3",
+        "dlss",
+        "dlss-neural-rendering",
+        "optiscaler"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-11T00:50:35Z",
+      "summary": "OptiScaler-DLSSNR-PreSR-Multipass 是一个基于 C++ 的游戏模组，利用 NVIDIA DLSS Neural Rendering（DLSS NR）技术对游戏光照、细节和色彩进行 AI 增强，并提供强度与性能的调节选项。它解决的是传统游戏渲染中光照与画质难以兼顾性能的问题，通过 AI 推理替代部分传统渲染管线。核心技术亮点在于将 DLSS NR 与 Pre-SR、Multipass 流程结合，实现可调的神经渲染效果。适用场景为支持 DLSS 的 PC 游戏（如 Baldur's Gate 3）画质增强与性能调优，面向游戏模组开发者和高端 PC 玩家。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-11T01:59:42.383325+00:00"
+    },
+    {
+      "title": "yudaprasetya007/routeVSCODE",
+      "source": "github-trending",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "stars": 326,
+      "language": "JavaScript",
+      "topics": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "deepseek",
+        "local-proxy",
+        "model-switcher",
+        "vscode",
+        "vscode-extension"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-10T01:25:05Z",
+      "summary": "routeVSCODE 是一个基于 9Router 构建的 VSCode Copilot Chat 动态 AI 模型切换器与本地代理工具，使用 JavaScript 开发。它解决了开发者在 Copilot Chat 中无法灵活切换底层 AI 模型（如 ChatGPT、Claude 等）的痛点，通过本地代理层实现零重载的模型热切换。核心技术亮点在于 9Router 路由机制与 VSCode 扩展的深度集成，允许用户在不重启编辑器的情况下动态指定请求转发至不同 LLM 后端。适用场景包括需要对比不同模型输出质量的开发者、希望统一管理多模型 API 密钥的团队，以及在本地环境中进行 AI 辅助编码工作流定制的工程师。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-11T01:59:44.076062+00:00"
+    },
+    {
+      "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+      "stars": 325,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-06T03:57:39Z",
+      "summary": "Manware-s-AI-Learning-Toolkit 是一个开源 AI 工具包，旨在将 AI agent 从单纯的代码生成器转变为具备教学能力的智能导师。它解决的核心问题是当前多数 agent 仅擅长生成代码片段，却缺乏对学习者的引导、解释与知识传递能力。该工具包通过重构 agent 的交互范式，使其在编程辅助场景中能主动讲解思路、拆解问题并给出学习路径，而非直接输出代码。技术亮点在于将教学策略融入 agent 的 prompt 与工作流设计，强调解释性输出与渐进式引导。适用场景包括编程教育、开发者自学、代码审查辅助以及需要 AI 进行知识传递的交互式学习环境。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T01:59:45.877642+00:00"
+    },
+    {
+      "title": "browser-use/browser-use-pi",
+      "source": "github-trending",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "stars": 266,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-09T18:46:28Z",
+      "summary": "browser-use-pi 是 browser-use 团队推出的轻量级 TypeScript Web Agent，通过真实浏览器评测（real browser evals）进行 hill climbing 式迭代优化。它解决的是 LLM Agent 在网页自动化任务中泛化能力弱、评测与优化脱节的问题，将 agent 行为直接放在真实浏览器环境中评估并持续调优。核心技术亮点在于极小的 TypeScript 实现体积、以 eval 驱动的开发范式，以及面向 Web 交互场景的端到端闭环。适用场景包括网页自动化、表单填写、信息抓取、浏览器端 tool-use 类 Agent 的快速原型与基准测试。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-11T01:59:47.784352+00:00"
+    },
+    {
+      "title": "Colafornia/short-video-generator-AI",
+      "source": "github-trending",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stars": 264,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-generation",
+        "short-video",
+        "short-video-maker"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-08T15:05:46Z",
+      "summary": "Colafornia/short-video-generator-AI 是一个基于 Python 的开源工具，旨在将 YouTube 长视频自动转化为适合短视频平台传播的 viral short videos。它解决的核心问题是长视频内容二次分发的效率瓶颈——创作者需要手动剪辑高光片段、添加字幕、翻译并配音，流程繁琐且耗时。该项目的技术亮点在于将多个 AI 能力集成到统一 pipeline 中：highlight detection（高光检测）自动定位精彩片段，subtitles 生成与 translation 支持多语言字幕，voiceover 实现自动配音，形成端到端的内容再生产工作流。适用场景包括内容创作者、MCN 机构、社交媒体运营者以及需要批量处理视频素材的营销团队，尤其适合希望低成本将长视频内容分发到 TikTok、YouTube Shorts 等平台的用户。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "workflow-automation",
+        "ai-generation",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-11T01:59:49.784554+00:00"
+    },
+    {
+      "title": "crwdla/tokentab",
+      "source": "github-trending",
+      "url": "https://github.com/crwdla/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": 251,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-token-monitor",
+        "claude-code",
+        "token-optimization",
+        "token-usage"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-07T17:20:54Z",
+      "summary": "tokentab 是一个 Python 编写的 CLI 工具，读取 Claude Code、Codex 和 Gemini CLI 的会话日志，按模型、项目和日期维度统计 token 消耗与费用。它解决了多 AI 编码助手并用时成本不透明、难以归因的问题，核心亮点在于跨工具日志解析与结构化成本聚合，无需侵入式埋点即可实现 token 用量监控。适用于重度使用 AI 编码助手的开发者、团队负责人及需要控制 LLM 调用预算的工程场景。",
+      "tags": [
+        "developer-tools",
+        "large-language-model",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-11T01:59:51.676237+00:00"
+    },
+    {
+      "title": "SpaceDudem/text-humanizer",
+      "source": "github-trending",
+      "url": "https://github.com/SpaceDudem/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "stars": 244,
+      "language": "Python",
+      "topics": [
+        "ai-humanizer",
+        "gpt-zero",
+        "text-humanizer"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-08T15:37:07Z",
+      "summary": "text-humanizer 是一个开源 Python 工具，旨在将 AI 生成的文本改写为更接近人类写作风格的版本，从而绕过 Turnitin、GPTZero 等主流 AI 检测器。其核心技术在于对 LLM 输出进行风格扰动与语义保持改写，降低文本的统计特征规律性，使其在困惑度、突发性等检测指标上更接近人类写作。该项目适用于需要规避 AI 检测的写作场景，如学术辅助、内容创作与 SEO 文案，但需注意其伦理与合规边界。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-11T01:59:53.480068+00:00"
+    },
+    {
+      "title": "ScottStevenson/SuperAstra",
+      "source": "github-trending",
+      "url": "https://github.com/ScottStevenson/SuperAstra",
+      "description": "Change SNES games with AI while you play them.",
+      "stars": 243,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-06T18:41:51Z",
+      "summary": "SuperAstra 是一个基于 Python 的开源项目，通过 AI 在玩家游玩 SNES 游戏时实时修改游戏内容。它解决了传统模拟器无法动态调整游戏逻辑的问题，核心技术亮点在于将 LLM 或 AI 模型与 SNES 模拟器深度集成，实现游戏状态的实时感知与干预，例如动态改变关卡、敌人行为或道具。适用场景包括游戏 AI 研究、强化学习环境构建、以及互动娱乐实验，为开发者提供可编程的游戏修改接口。",
+      "tags": [
+        "open-source",
+        "agent",
+        "multimodal",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T01:59:55.584489+00:00"
+    },
+    {
+      "title": "alchaincyf/huashu-mac-use",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-mac-use",
+      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
+      "stars": 232,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-08T03:36:57Z",
+      "summary": "huashu-mac-use 是一个基于 Swift 开发的 Agent Skill，专为 macOS computer use 场景设计，让任意 AI agent 能够操控 Mac 上没有 API 的原生应用。它解决了 agent 无法与封闭原生 app 交互的痛点，通过读取后台状态、执行不打扰用户的写入操作，并在每一步留下取证记录，实现安全可控的自动化。核心技术亮点在于绕过 API 限制直接操作原生界面，同时兼顾非侵入式交互与操作可追溯性。适用场景包括桌面自动化、agent 驱动的本地工作流、以及需要与 macOS 原生软件深度集成的 AI 助手开发。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-11T01:59:57.468258+00:00"
+    },
+    {
+      "title": "yi1108/printfilm",
+      "source": "github-trending",
+      "url": "https://github.com/yi1108/printfilm",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "stars": 188,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-10T02:18:36Z",
+      "summary": "PRINTFILM 是一个基于 Python 的开源 AI 科普视频与漫剧创作平台，旨在降低 AI 内容创作者在视频脚本生成、分镜设计与漫剧制作上的技术门槛。项目通过整合大语言模型（LLM）进行文本生成与剧情编排，结合多模态能力实现图像与视频素材的自动化生产，形成从创意到成片的端到端工作流。其核心亮点在于将 prompt-engineering 与 workflow-automation 封装为面向内容创作者的易用工具，适合 AI 科普自媒体、漫剧创作者及教育内容生产者快速产出结构化视频内容。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "large-language-model",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T01:59:59.728791+00:00"
+    },
+    {
+      "title": "noskillish/bankmcp",
+      "source": "github-trending",
+      "url": "https://github.com/noskillish/bankmcp",
+      "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+      "stars": 178,
+      "language": "TypeScript",
+      "topics": [
+        "chatgpt",
+        "claude",
+        "enable-banking",
+        "mcp",
+        "mcp-server",
+        "ollama",
+        "open-banking",
+        "personal-finance",
+        "psd2",
+        "self-hosted"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-08T18:24:21Z",
+      "summary": "BankMCP 是一个基于 TypeScript 的自托管 MCP server，通过 Enable Banking 的开放银行接口，让 AI 助手以只读方式访问用户自己的银行账户数据。它解决了 LLM 无法安全、合规地获取个人金融信息的问题，核心亮点在于遵循标准 MCP 协议、只读权限设计、自托管保障隐私，并已验证兼容 Claude 和 Ollama。适用于个人财务管理、AI 记账助手、消费分析等需要将银行数据接入对话式 AI 的场景。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-11T02:00:01.898301+00:00"
+    },
+    {
+      "title": "showlab/Show-Harness",
+      "source": "github-trending",
+      "url": "https://github.com/showlab/Show-Harness",
+      "description": "Just a VLM Agent Can Play Robots 🦾",
+      "stars": 171,
+      "language": "Python",
+      "topics": [
+        "embodied-agent",
+        "foundation-models",
+        "harness",
+        "robotics"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-10T13:14:56Z",
+      "summary": "Show-Harness 是 showlab 开源的具身智能框架，核心思路是让一个 VLM（视觉语言模型）Agent 直接驱动机器人完成任务，无需为每个任务单独训练策略网络。它提供了一套 harness 层，将 VLM 的视觉理解与语言推理能力桥接到机器人底层控制接口，使通用基础模型能够充当机器人的\"大脑\"。技术亮点在于用统一的 Agent 范式替代传统分任务策略学习，降低机器人编程门槛。适用场景包括具身智能研究、机器人操作任务快速原型验证，以及探索 VLM 在物理世界中的泛化能力。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:03.953815+00:00"
+    },
+    {
+      "title": "int64ago/vistep",
+      "source": "github-trending",
+      "url": "https://github.com/int64ago/vistep",
+      "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
+      "stars": 164,
+      "language": "TypeScript",
+      "topics": [
+        "astro",
+        "bilingual",
+        "education",
+        "react",
+        "simulation",
+        "threejs",
+        "typescript",
+        "visualization"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-10T12:52:05Z",
+      "summary": "vistep 是一个基于 TypeScript 的开源可视化教学工具，通过 AI 生成双语视觉解释、交互式模型与同步旁白，将抽象概念或算法流程逐步拆解为可交互的视觉演示。它解决的是技术教育与知识传播中「静态图文难以呈现动态过程」的问题，核心技术亮点在于 AI 驱动的分步讲解生成、Astro + React 构建的交互式模拟组件，以及双语旁白与视觉内容的同步编排。适用场景包括在线课程、技术文档演示、算法教学与跨语言知识科普。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "ai-assistant",
+        "education"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:05.800480+00:00"
+    },
+    {
+      "title": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "source": "github-trending",
+      "url": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution.",
+      "stars": 162,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-10T13:34:22Z",
+      "summary": "Omni-Interaction-Agent 是一个开源端到端全双工交互智能体，面向自然语音协作、持续音视频感知与异步长时程任务执行。它解决传统语音助手无法同时听与说、缺乏视觉上下文、难以处理跨时段复杂任务的问题。核心技术亮点包括全双工语音交互架构、连续 audio-visual 感知融合，以及支持异步 long-horizon 的 agentic 执行引擎。适用于实时人机协作、智能会议助手、具身交互与需要持续环境感知的自动化工作流场景。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:08.515844+00:00"
+    },
+    {
+      "title": "xflare-bot/pokemonlive",
+      "source": "github-trending",
+      "url": "https://github.com/xflare-bot/pokemonlive",
+      "description": "Local Pokemon battle prototype with AI-generated cinematics",
+      "stars": 138,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-07T04:21:24Z",
+      "summary": "xflare-bot/pokemonlive 是一个基于 JavaScript 的本地宝可梦对战原型项目，核心思路是将经典回合制对战玩法与 AI 生成的过场动画（cinematics）相结合。它解决的是传统游戏原型中战斗过程视觉表现单一、缺乏动态叙事感的问题，通过调用生成式 AI 模型实时产出战斗动画或场景片段，让每场对战拥有独特的视觉反馈。技术亮点在于本地运行架构与 AI 生成内容的轻量集成，降低了对外部服务的依赖，同时保留了可扩展的 bot 对战逻辑。适用场景包括 AI 游戏原型验证、生成式 AI 在互动娱乐中的实验、以及开发者学习如何将 LLM/多模态生成能力嵌入实时对战系统。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "agent",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-11T02:00:11.244015+00:00"
+    },
+    {
+      "title": "viettranx/3dviz-pro-max",
+      "source": "github-trending",
+      "url": "https://github.com/viettranx/3dviz-pro-max",
+      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "stars": 136,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "agent-skill",
+        "blender",
+        "claude-code",
+        "codex",
+        "gltf",
+        "threejs",
+        "visualization"
+      ],
+      "collected_at": "2026-09-11T01:59:29.859910+00:00",
+      "published_at": "2026-09-11T01:01:12Z",
+      "summary": "viettranx/3dviz-pro-max 是一个面向 Claude Code 和 Codex 的 Agent skill 插件，将自然语言创意想法转化为可探索的 Three.js/Blender 3D 场景。它解决了 AI 编程助手在 3D 可视化领域缺乏结构化知识的问题，通过内置 223 条 recipes、440 条 knowledge records、22 个已验证 kits 和 37 个可运行 studies，为 Agent 提供可检索的 3D 生成上下文。核心技术亮点在于以 skill 形式封装领域知识库，让 LLM 在代码生成时能调用经过验证的 3D 场景模板与配方。适用场景包括快速原型设计、创意可视化、Three.js 学习辅助以及 Blender 脚本自动化生成。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:14.196940+00:00"
+    }
+  ]
+}

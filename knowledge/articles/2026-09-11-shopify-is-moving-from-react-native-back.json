@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-11-010",
+  "title": "Shopify is moving from React Native back to Swift and Kotlin",
+  "source": "hackernews-top",
+  "url": "https://shopify.engineering/back-to-native",
+  "summary": "Shopify 宣布将其移动应用从 React Native 迁移回原生 Swift 和 Kotlin 开发。此举旨在解决跨平台框架在性能、复杂交互和长期维护上的瓶颈，通过原生技术栈获得更优的渲染效率、系统 API 访问能力及团队协作模式。核心技术亮点在于放弃单一 JavaScript 代码库，转而利用平台特定语言实现更精细的性能调优和原生体验。该决策对大型电商应用、高频交互场景及追求极致性能的移动端团队具有参考价值，也反映了跨平台方案在超大规模产品中的适用边界。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:16.324166+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

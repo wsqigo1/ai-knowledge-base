@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-11-012",
+  "title": "OpenAI Agents API",
+  "source": "hackernews-top",
+  "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "summary": "OpenAI Agents API 是 OpenAI 推出的面向 agent 构建的开发者接口，旨在解决此前开发者需自行拼接 function calling、状态管理与工具编排的问题。其核心亮点在于原生支持 tool-use、多轮任务编排与内置的 agent 运行时抽象，将工具调用、指令遵循和对话状态统一封装为可复用组件。适用场景包括自动化工作流、多步骤任务代理、企业级 ai-assistant 以及需要与外部 API 深度集成的 agent 应用，尤其适合希望快速从原型走向生产的工程团队。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:21.501857+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

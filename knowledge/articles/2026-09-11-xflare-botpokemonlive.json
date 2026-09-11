@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-11-008",
+  "title": "xflare-bot/pokemonlive",
+  "source": "github-trending",
+  "url": "https://github.com/xflare-bot/pokemonlive",
+  "summary": "xflare-bot/pokemonlive 是一个基于 JavaScript 的本地宝可梦对战原型项目，核心思路是将经典回合制对战玩法与 AI 生成的过场动画（cinematics）相结合。它解决的是传统游戏原型中战斗过程视觉表现单一、缺乏动态叙事感的问题，通过调用生成式 AI 模型实时产出战斗动画或场景片段，让每场对战拥有独特的视觉反馈。技术亮点在于本地运行架构与 AI 生成内容的轻量集成，降低了对外部服务的依赖，同时保留了可扩展的 bot 对战逻辑。适用场景包括 AI 游戏原型验证、生成式 AI 在互动娱乐中的实验、以及开发者学习如何将 LLM/多模态生成能力嵌入实时对战系统。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "agent",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-11T01:59:29.859910+00:00",
+  "analyzed_at": "2026-09-11T02:00:11.244015+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-11-020",
+  "title": "Detecting and countering misuse of AI: September 2026",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+  "summary": "OpenAI 发布的 2026 年 9 月 AI 滥用检测与反制报告，系统梳理了当前针对大模型恶意使用的威胁态势与防御手段。报告聚焦于模型被用于欺诈、虚假信息生成、网络攻击辅助等滥用场景，披露了检测管线、分类器与红队评估等核心技术手段，并介绍了对违规账户与 API 滥用的处置机制。内容偏向安全治理与政策实践，适合 AI 安全工程师、平台风控团队及关注 AI 治理的研究者参考，对具体模型架构与训练技术涉及较少。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:51.268250+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

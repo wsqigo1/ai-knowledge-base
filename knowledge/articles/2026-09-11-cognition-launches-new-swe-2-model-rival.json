@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-11-014",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "source": "hackernews-top",
+  "url": "https://cognition.com/blog/swe-2",
+  "summary": "Cognition 发布新一代 SWE-2 模型，定位为自主软件工程 agent，对标 Fable 5.1 与 GPT-Astra。该模型旨在解决真实代码仓库中端到端任务自动化问题，如缺陷修复、功能实现与 PR 生成。核心技术亮点在于强化长程推理与工具调用能力，结合代码执行反馈进行迭代修正，提升复杂多步任务的完成率。适用场景包括自动化代码审查、CI 流水线集成、遗留系统维护及大规模重构辅助，面向希望将 agent 嵌入研发工作流的工程团队。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:30.183795+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

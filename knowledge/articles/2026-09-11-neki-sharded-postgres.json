@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-11-017",
+  "title": "Neki – Sharded Postgres",
+  "source": "hackernews-top",
+  "url": "https://planetscale.com/blog/introducing-neki",
+  "summary": "Neki 是一个面向 PostgreSQL 的分片（sharding）中间件，旨在解决单机 Postgres 在数据量和并发增长后遇到的扩展瓶颈。它通过将数据水平拆分到多个 Postgres 实例，让应用在保持 SQL 语义和事务能力的前提下获得近线性扩展。核心技术亮点在于对 Postgres 原生协议的兼容、分片路由与查询下推，以及尽量降低对现有应用的侵入性。适用场景包括 SaaS 多租户、高写入吞吐的 OLTP 系统，以及希望在不迁移到分布式 NewSQL 的前提下扩展 Postgres 的团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:40.185188+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

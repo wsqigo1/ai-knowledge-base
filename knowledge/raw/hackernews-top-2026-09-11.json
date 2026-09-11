@@ -1,0 +1,408 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-11T01:59:31.305495+00:00",
+  "date": "2026-09-11",
+  "count": 20,
+  "items": [
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "source": "hackernews-top",
+      "url": "https://shopify.engineering/back-to-native",
+      "hn_url": "https://news.ycombinator.com/item?id=49643982",
+      "description": "",
+      "hn_score": 785,
+      "comments": 531,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "Shopify 宣布将其移动应用从 React Native 迁移回原生 Swift 和 Kotlin 开发。此举旨在解决跨平台框架在性能、复杂交互和长期维护上的瓶颈，通过原生技术栈获得更优的渲染效率、系统 API 访问能力及团队协作模式。核心技术亮点在于放弃单一 JavaScript 代码库，转而利用平台特定语言实现更精细的性能调优和原生体验。该决策对大型电商应用、高频交互场景及追求极致性能的移动端团队具有参考价值，也反映了跨平台方案在超大规模产品中的适用边界。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-11T02:00:16.324166+00:00"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "source": "hackernews-top",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "hn_url": "https://news.ycombinator.com/item?id=49639408",
+      "description": "",
+      "hn_score": 677,
+      "comments": 633,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "该条目讨论数学研究者对OpenAI的信任危机：OpenAI在未发表数学成果的评审与合作中，被质疑可能利用研究者提交的未公开证明、猜想或数据训练模型，从而损害学术优先权与保密性。核心争议在于缺乏透明的数据使用政策、第三方审计机制和可验证的隔离承诺。技术亮点涉及LLM训练数据溯源、差分隐私与数据访问控制等方向。适用场景为AI公司与学术界的合作治理、研究伦理审查、以及开源社区对闭源模型数据合规性的监督。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:18.958821+00:00"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "source": "hackernews-top",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "hn_url": "https://news.ycombinator.com/item?id=49649213",
+      "description": "",
+      "hn_score": 134,
+      "comments": 87,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "OpenAI Agents API 是 OpenAI 推出的面向 agent 构建的开发者接口，旨在解决此前开发者需自行拼接 function calling、状态管理与工具编排的问题。其核心亮点在于原生支持 tool-use、多轮任务编排与内置的 agent 运行时抽象，将工具调用、指令遵循和对话状态统一封装为可复用组件。适用场景包括自动化工作流、多步骤任务代理、企业级 ai-assistant 以及需要与外部 API 深度集成的 agent 应用，尤其适合希望快速从原型走向生产的工程团队。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:21.501857+00:00"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "source": "hackernews-top",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "hn_url": "https://news.ycombinator.com/item?id=49645393",
+      "description": "",
+      "hn_score": 330,
+      "comments": 255,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "该条目是 Hacker News 上一篇标题为《Don't let anyone take away your big box of cables》的讨论帖，核心并非 AI/LLM 技术，而是围绕硬件线缆囤积、电子垃圾与个人数据/设备自主权的隐喻性话题。文章借'一大盒线缆'这一日常物件，探讨在云服务与订阅制盛行的时代，个人对物理硬件和本地数据控制权被逐步剥夺的现象，呼吁保留可离线、可自持的技术资产。技术亮点在于以生活化叙事切入数字主权与反 vendor lock-in 议题，引发工程师对本地优先、可维修性与数据所有权的共鸣。适用场景为技术社区文化讨论、数字主权与开源理念传播，对 AI 工程实践无直接技术指导价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-11T02:00:24.454475+00:00"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "source": "hackernews-top",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49651372",
+      "description": "",
+      "hn_score": 32,
+      "comments": 22,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "System76 推出的 Thelio Mira AI Linux Workstation 是一款面向本地 AI 工作负载的高性能工作站，最高可配置 192 GB GPU 显存（多卡 NVIDIA 专业显卡组合），并原生运行 Linux 系统。它解决的是大模型本地训练、微调与推理时显存不足、依赖云端算力成本高且数据隐私受限的问题。核心技术亮点在于超大显存池支持运行 70B 乃至更大参数模型的量化推理与 LoRA fine-tuning，配合 Linux 生态对 CUDA、PyTorch 的完整支持。适用场景包括本地 LLM 开发、私有化 RAG 部署、多模态实验及对数据合规要求高的企业 AI 研发团队。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-11T02:00:27.343320+00:00"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "source": "hackernews-top",
+      "url": "https://cognition.com/blog/swe-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49645443",
+      "description": "",
+      "hn_score": 355,
+      "comments": 144,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "Cognition 发布新一代 SWE-2 模型，定位为自主软件工程 agent，对标 Fable 5.1 与 GPT-Astra。该模型旨在解决真实代码仓库中端到端任务自动化问题，如缺陷修复、功能实现与 PR 生成。核心技术亮点在于强化长程推理与工具调用能力，结合代码执行反馈进行迭代修正，提升复杂多步任务的完成率。适用场景包括自动化代码审查、CI 流水线集成、遗留系统维护及大规模重构辅助，面向希望将 agent 嵌入研发工作流的工程团队。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:30.183795+00:00"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "source": "hackernews-top",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "hn_url": "https://news.ycombinator.com/item?id=49645437",
+      "description": "",
+      "hn_score": 275,
+      "comments": 42,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "该技术源自卫星图像处理领域，通过改进的算法从现代卫星照片中提取并重建古代地貌与遗迹的隐藏影像。它解决了传统考古遥感中因植被覆盖、地表侵蚀和现代建筑遮挡导致古代遗迹难以识别的问题。核心技术亮点在于利用多光谱波段分离与图像反演算法，结合历史地形数据，将现代卫星影像中的干扰层剥离，还原出古代地表特征。适用场景包括考古勘探、历史地理研究、文化遗产保护及地质变迁分析。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:32.932670+00:00"
+    },
+    {
+      "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+      "source": "hackernews-top",
+      "url": "https://benzi.fly.dev/benchmark",
+      "hn_url": "https://news.ycombinator.com/item?id=49652389",
+      "description": "",
+      "hn_score": 7,
+      "comments": 2,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "Benzi 是一个面向代码智能（Code Intelligence）的开源工具，定位为代码理解与生成的 harness 框架，声称在性能上超越 Claude Code 和 CodeGraph。它解决的核心问题是：现有 LLM 驱动的代码助手在大型代码库中缺乏高效的上下文检索与结构化代码图分析能力，导致生成质量受限。其技术亮点可能包括基于代码图（CodeGraph）的索引机制、针对 LLM 的上下文压缩与检索增强，以及可插拔的 harness 架构以适配不同模型。适用场景包括 IDE 辅助编程、代码库问答、自动化重构与代码审查等开发者工作流。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:35.057456+00:00"
+    },
+    {
+      "title": "Music Theory for the 21st-Century Classroom",
+      "source": "hackernews-top",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49647134",
+      "description": "",
+      "hn_score": 163,
+      "comments": 80,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "《Music Theory for the 21st-Century Classroom》是一本面向现代课堂的开源音乐理论教材，由Mark Gotham等人编写，以网页形式免费发布。它解决传统乐理教材内容陈旧、脱离当代音乐实践（如流行、爵士、影视配乐）的问题，并支持交互式谱例与在线练习。核心技术亮点在于采用开放许可、可自由改编的HTML/PDF双版本，并整合了MusicXML与音频示例，便于教师定制课程。适用场景包括高校音乐通识课、自学乐理、以及AI音乐生成项目中的乐理知识参考。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-11T02:00:37.753198+00:00"
+    },
+    {
+      "title": "Neki – Sharded Postgres",
+      "source": "hackernews-top",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "hn_url": "https://news.ycombinator.com/item?id=49645686",
+      "description": "",
+      "hn_score": 200,
+      "comments": 111,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "Neki 是一个面向 PostgreSQL 的分片（sharding）中间件，旨在解决单机 Postgres 在数据量和并发增长后遇到的扩展瓶颈。它通过将数据水平拆分到多个 Postgres 实例，让应用在保持 SQL 语义和事务能力的前提下获得近线性扩展。核心技术亮点在于对 Postgres 原生协议的兼容、分片路由与查询下推，以及尽量降低对现有应用的侵入性。适用场景包括 SaaS 多租户、高写入吞吐的 OLTP 系统，以及希望在不迁移到分布式 NewSQL 的前提下扩展 Postgres 的团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:40.185188+00:00"
+    },
+    {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "source": "hackernews-top",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49645907",
+      "description": "",
+      "hn_score": 154,
+      "comments": 57,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "Forgejo 16.0.3 及更早版本存在一个严重远程代码执行（RCE）漏洞，攻击者可通过构造恶意请求在目标服务器上执行任意代码。该漏洞源于对用户输入的不安全处理，影响自托管 Git 服务的安全性。核心技术亮点在于利用路径遍历或命令注入实现未授权访问与代码执行。适用场景为使用 Forgejo 作为代码托管平台的企业或开发者，需立即升级至修复版本。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security",
+        "rce",
+        "git"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:42.667085+00:00"
+    },
+    {
+      "title": "Rust is tier-1 language at Microsoft",
+      "source": "hackernews-top",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "hn_url": "https://news.ycombinator.com/item?id=49643546",
+      "description": "",
+      "hn_score": 607,
+      "comments": 347,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "微软正式将 Rust 列为一级（tier-1）开发语言，意味着 Rust 在 Windows、Azure 等核心产品线中获得与 C/C++ 同等的官方工具链、SDK 和工程支持。此举解决了系统级开发中长期存在的内存安全与并发缺陷问题，通过所有权模型在编译期消除数据竞争和空指针等隐患。核心技术亮点在于微软内部对 Rust 编译器、Windows API 绑定及 cargo 生态的深度集成，并推动 Rust 在操作系统组件、云基础设施和高性能服务中的落地。适用场景包括系统编程、云原生基础设施、安全敏感型后端服务，以及需要兼顾性能与内存安全的 AI 推理引擎底层开发。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:45.178537+00:00"
+    },
+    {
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "source": "hackernews-top",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "hn_url": "https://news.ycombinator.com/item?id=49627634",
+      "description": "",
+      "hn_score": 285,
+      "comments": 229,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "日立发布 CO2 热泵热水器，支持与太阳能发电及分时电价联动的智能控制。该产品解决传统热水器高能耗、与光伏自消费不匹配的问题，通过 CO2 冷媒实现高效制热，并内置太阳能友好型电价控制逻辑，可在光伏出力高峰或低电价时段主动加热储水。核心技术亮点包括自然冷媒 CO2 热泵循环、与家庭能源管理系统（HEMS）联动的 tariff 控制策略。适用场景为住宅及小型商业建筑，尤其适合已安装光伏、追求电气化与需量响应的用户。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-11T02:00:47.007353+00:00"
+    },
+    {
+      "title": "iPhone Duo",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/iphone-duo/",
+      "hn_url": "https://news.ycombinator.com/item?id=49630931",
+      "description": "",
+      "hn_score": 1414,
+      "comments": 2439,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "iPhone Duo 是 Hacker News 上引发热议的技术项目，从命名与社区讨论热度推测，其核心方向是将两台 iPhone 组合为双屏协同工作环境，或实现类似桌面级多任务处理的移动端方案。它试图解决单台手机屏幕空间受限、多任务切换效率低的问题，通过硬件级或系统级协同让两台设备形成统一工作区。技术亮点可能涉及跨设备通信、屏幕扩展协议、低延迟同步以及输入输出重定向。适用场景包括移动办公、开发者随身调试、双屏阅读与内容创作，对追求便携生产力的工程师有一定吸引力。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:49.246108+00:00"
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=49647300",
+      "description": "",
+      "hn_score": 86,
+      "comments": 155,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "OpenAI 发布的 2026 年 9 月 AI 滥用检测与反制报告，系统梳理了当前针对大模型恶意使用的威胁态势与防御手段。报告聚焦于模型被用于欺诈、虚假信息生成、网络攻击辅助等滥用场景，披露了检测管线、分类器与红队评估等核心技术手段，并介绍了对违规账户与 API 滥用的处置机制。内容偏向安全治理与政策实践，适合 AI 安全工程师、平台风控团队及关注 AI 治理的研究者参考，对具体模型架构与训练技术涉及较少。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:51.268250+00:00"
+    },
+    {
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "hn_url": "https://news.ycombinator.com/item?id=49587121",
+      "description": "",
+      "hn_score": 145,
+      "comments": 74,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "Douglas Hofstadter 的经典演讲，主张类比（analogy）是人类认知的核心机制，而非边缘能力。他通过字母变换、类比谜题等案例，论证思维的本质是在不同情境间建立映射与概念滑动。该理论对 AI 的启示在于：当前 LLM 的推理能力可能受限于缺乏显式的类比机制，而类比驱动的架构或提示策略有望提升抽象迁移与跨域推理。适用于认知科学、AI 推理架构、以及探索 LLM 泛化边界的工程师。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-11T02:00:53.607171+00:00"
+    },
+    {
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "source": "hackernews-top",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "hn_url": "https://news.ycombinator.com/item?id=49650326",
+      "description": "",
+      "hn_score": 139,
+      "comments": 137,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "OpenAI 发布的 Navier-Stokes 相关工作附带了一份 Lean 4 形式化证明，将流体力学方程相关的数学论证以机器可验证的方式呈现。此举旨在解决 AI 生成数学内容可信度不足的问题，通过 Lean 4 的严格类型检查与证明助手能力，确保推导过程无逻辑漏洞。核心技术亮点在于将大模型输出与形式化验证工具链结合，形成可审计的数学证明流程。适用场景包括 AI 辅助数学研究、形式化验证、科学计算中的可信推导，以及需要高可靠性证明的工程与学术领域。",
+      "tags": [
+        "reasoning",
+        "code-generation",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-11T02:00:55.405774+00:00"
+    },
+    {
+      "title": "Embedding a bitmap font in your HyperCard stack",
+      "source": "hackernews-top",
+      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49618633",
+      "description": "",
+      "hn_score": 19,
+      "comments": 1,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "该条目介绍如何在 HyperCard 堆栈中嵌入位图字体（bitmap font），属于复古计算与经典 Mac 开发技术。HyperCard 是苹果早期超媒体开发环境，位图字体嵌入可解决自定义字形渲染与跨平台显示一致性问题。核心技术涉及字体资源格式解析、Mac 资源分支（resource fork）操作及 HyperCard 外部命令（XCMD）集成。适用场景为复古软件修复、经典 Mac 应用开发及计算机历史研究，对现代 AI 工程无直接关联。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-11T02:00:57.347768+00:00"
+    },
+    {
+      "title": "Silicon Valley is transforming the military-industrial complex? (2024)",
+      "source": "hackernews-top",
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "hn_url": "https://news.ycombinator.com/item?id=49645754",
+      "description": "",
+      "hn_score": 151,
+      "comments": 306,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "该条目讨论硅谷科技公司（如Palantir、Anduril、OpenAI等）正深度介入美国军事工业复合体，推动国防技术从传统承包商向软件定义、AI驱动的模式转型。核心问题在于现代战争对实时数据分析、自主系统和AI决策支持的需求激增，而传统军工体系响应缓慢。技术亮点包括大规模数据融合平台、边缘AI部署、自主无人机集群及LLM辅助情报分析。适用场景涵盖国防情报、战场态势感知、自动化指挥控制及军民两用技术转化。",
+      "tags": [
+        "ai-assistant",
+        "multi-agent",
+        "reasoning",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-11T02:00:59.417113+00:00"
+    },
+    {
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "source": "hackernews-top",
+      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "hn_url": "https://news.ycombinator.com/item?id=49642531",
+      "description": "",
+      "hn_score": 369,
+      "comments": 122,
+      "collected_at": "2026-09-11T01:59:30.029604+00:00",
+      "published_at": "2026-09-11T01:59:30.029604+00:00",
+      "summary": "该条目是 Hacker News 上整理的一份索尼（Sony）官方网站页面引用清单，汇总了索尼在多个官方渠道中关于玩家「拥有」（owning）其数字游戏的相关表述。它并非技术项目，而是围绕数字版权与消费者权益的争议性资料汇编，核心价值在于揭示数字内容购买与所有权之间的法律与商业矛盾。技术亮点在于通过公开网页存档与引用溯源，形成可验证的证据链。适用场景包括数字版权研究、消费者权益倡导、平台政策分析及游戏行业法律讨论。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-09-11T02:01:01.386299+00:00"
+    }
+  ]
+}

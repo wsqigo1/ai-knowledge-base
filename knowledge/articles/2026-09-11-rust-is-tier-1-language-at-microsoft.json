@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-11-019",
+  "title": "Rust is tier-1 language at Microsoft",
+  "source": "hackernews-top",
+  "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+  "summary": "微软正式将 Rust 列为一级（tier-1）开发语言，意味着 Rust 在 Windows、Azure 等核心产品线中获得与 C/C++ 同等的官方工具链、SDK 和工程支持。此举解决了系统级开发中长期存在的内存安全与并发缺陷问题，通过所有权模型在编译期消除数据竞争和空指针等隐患。核心技术亮点在于微软内部对 Rust 编译器、Windows API 绑定及 cargo 生态的深度集成，并推动 Rust 在操作系统组件、云基础设施和高性能服务中的落地。适用场景包括系统编程、云原生基础设施、安全敏感型后端服务，以及需要兼顾性能与内存安全的 AI 推理引擎底层开发。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:45.178537+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}

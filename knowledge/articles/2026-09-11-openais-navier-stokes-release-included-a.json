@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-11-022",
+  "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+  "source": "hackernews-top",
+  "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+  "summary": "OpenAI 发布的 Navier-Stokes 相关工作附带了一份 Lean 4 形式化证明，将流体力学方程相关的数学论证以机器可验证的方式呈现。此举旨在解决 AI 生成数学内容可信度不足的问题，通过 Lean 4 的严格类型检查与证明助手能力，确保推导过程无逻辑漏洞。核心技术亮点在于将大模型输出与形式化验证工具链结合，形成可审计的数学证明流程。适用场景包括 AI 辅助数学研究、形式化验证、科学计算中的可信推导，以及需要高可靠性证明的工程与学术领域。",
+  "tags": [
+    "reasoning",
+    "code-generation",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-11T01:59:30.029604+00:00",
+  "analyzed_at": "2026-09-11T02:00:55.405774+00:00",
+  "organized_at": "2026-09-11T02:01:01.447875+00:00",
+  "status": "published"
+}
