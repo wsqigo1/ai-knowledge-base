@@ -1,7 +1,256 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 1977,
+  "total_count": 1993,
   "entries": [
+    {
+      "id": "kb-2026-09-12-001",
+      "title": "unstablebuild/rune",
+      "source": "github-trending",
+      "url": "https://github.com/unstablebuild/rune",
+      "file": "2026-09-12-unstablebuildrune.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-002",
+      "title": "VaderChen/YourDesk",
+      "source": "github-trending",
+      "url": "https://github.com/VaderChen/YourDesk",
+      "file": "2026-09-12-vaderchenyourdesk.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-003",
+      "title": "eternityspring/reelbench-skills",
+      "source": "github-trending",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "file": "2026-09-12-eternityspringreelbench-skills.json",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-004",
+      "title": "xiaYuTian11/maskit",
+      "source": "github-trending",
+      "url": "https://github.com/xiaYuTian11/maskit",
+      "file": "2026-09-12-xiayutian11maskit.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-005",
+      "title": "feitangyuan/motion-web",
+      "source": "github-trending",
+      "url": "https://github.com/feitangyuan/motion-web",
+      "file": "2026-09-12-feitangyuanmotion-web.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-006",
+      "title": "A misalignment of AI in mathematics",
+      "source": "hackernews-top",
+      "url": "https://mathandai.org/",
+      "file": "2026-09-12-a-misalignment-of-ai-in-mathematics.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-007",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "source": "hackernews-top",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "file": "2026-09-12-i-spent-220-on-google-app-ads-and-60-of-.json",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-008",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "source": "hackernews-top",
+      "url": "https://www.rubyhack.ai/",
+      "file": "2026-09-12-openai-agents-carried-out-an-undisclosed.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-009",
+      "title": "A Design Space Exploration of Async/Await",
+      "source": "hackernews-top",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "file": "2026-09-12-a-design-space-exploration-of-asyncawait.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-010",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "source": "hackernews-top",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "file": "2026-09-12-ai-researchers-debate-how-close-we-are-t.json",
+      "tags": [
+        "reasoning",
+        "agent",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-011",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "source": "hackernews-top",
+      "url": "https://github.com/kennethwolters/litelm",
+      "file": "2026-09-12-litelm-litellm-without-the-bloat.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-012",
+      "title": "Rune is now open source",
+      "source": "hackernews-top",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "file": "2026-09-12-rune-is-now-open-source.json",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "agent",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-013",
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "source": "hackernews-top",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "file": "2026-09-12-ive-operated-petabyte-scale-clickhouse-c.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-014",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/zachsaw/graphify-csharp",
+      "file": "2026-09-12-show-hn-graphify-c-compiler-accurate-fin.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-015",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "source": "hackernews-top",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "file": "2026-09-12-rtk-reports-token-savings-but-our-cost-b.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
+    {
+      "id": "kb-2026-09-12-016",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "file": "2026-09-12-google-will-buy-half-the-electricity-fro.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-12T02:06:12.225552+00:00"
+    },
     {
       "id": "kb-2026-09-11-001",
       "title": "iamzulx/crypto-rag",
@@ -29458,5 +29707,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-11T02:01:01.701458+00:00"
+  "last_updated": "2026-09-12T02:06:12.421233+00:00"
 }

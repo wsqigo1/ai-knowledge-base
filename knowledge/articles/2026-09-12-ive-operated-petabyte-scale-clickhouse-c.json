@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-12-013",
+  "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+  "source": "hackernews-top",
+  "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+  "summary": "一位工程师分享其五年来运维 petabyte 级 ClickHouse 集群的实战经验，聚焦大规模 OLAP 场景下的稳定性与性能挑战。内容涵盖分片与副本架构设计、MergeTree 引擎调优、写入放大与后台合并（merge）压力控制、查询资源隔离、以及硬件与 ZooKeeper/Keeper 协调层的运维陷阱。核心亮点是来自真实生产环境的故障复盘与容量规划经验，而非官方文档式介绍。适用于正在或计划将 ClickHouse 用于日志分析、可观测性、实时数仓等大数据场景的 SRE、数据平台工程师与架构师。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-09-12T02:04:52.659128+00:00",
+  "analyzed_at": "2026-09-12T02:05:55.563314+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-12-011",
+  "title": "Litelm: LiteLLM Without the Bloat",
+  "source": "hackernews-top",
+  "url": "https://github.com/kennethwolters/litelm",
+  "summary": "Litelm 是 LiteLLM 的轻量级替代实现，旨在去除原项目在依赖、抽象层和运行时开销上的臃肿问题。LiteLLM 本身用于统一调用 OpenAI、Anthropic、Gemini 等多家 LLM 提供商的 API，但随功能扩张引入了大量非核心依赖和复杂配置。Litelm 保留核心的 provider 路由与统一接口能力，重写或精简内部实现，降低包体积与启动延迟，使开发者能以更少依赖完成多模型调用。其技术亮点在于接口兼容性与最小化依赖设计，适合对部署体积、冷启动速度敏感的 serverless 或边缘场景，以及只需基础多 provider 路由的工程项目。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "tool-use"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-12T02:04:52.659128+00:00",
+  "analyzed_at": "2026-09-12T02:05:46.971367+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

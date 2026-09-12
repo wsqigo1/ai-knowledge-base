@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-12-006",
+  "title": "A misalignment of AI in mathematics",
+  "source": "hackernews-top",
+  "url": "https://mathandai.org/",
+  "summary": "该 HN 热帖讨论 AI 在数学领域的「错位」（misalignment）现象：当前 LLM 在数学推理任务上表现出的能力与数学研究实际需求之间存在结构性偏差，模型擅长竞赛题式的形式化推导，却难以胜任真正的数学发现与证明创新。文章剖析了 benchmark 驱动的优化如何扭曲模型能力分布，导致 AI 在辅助数学家时出现「高分低能」。核心亮点在于从数学实践视角重新审视 reasoning 能力的评估标准，而非单纯刷分。适用于 AI for Math、reasoning 评估、benchmark 设计等方向的研究者与工程师参考。",
+  "tags": [
+    "reasoning",
+    "benchmark",
+    "large-language-model",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-12T02:04:52.659128+00:00",
+  "analyzed_at": "2026-09-12T02:05:36.308715+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

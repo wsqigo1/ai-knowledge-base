@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-12-003",
+  "title": "eternityspring/reelbench-skills",
+  "source": "github-trending",
+  "url": "https://github.com/eternityspring/reelbench-skills",
+  "summary": "reelbench-skills 是一个面向 AI 视频处理的开源技能库，以 Claude Code Skills 形式提供学习笔记与工具脚本。它解决的核心问题是：AI 视频分析工作流中缺乏标准化、可复用的技能封装，开发者往往需要从零搭建 ffmpeg 调用、镜头切分与结构化分析流程。项目通过 Claude Skills 机制将 ffmpeg 操作、shot-analysis 镜头分析等能力封装为可被 agent 直接调用的技能，并附带学习笔记降低上手门槛。技术亮点在于将传统视频处理工具链与 LLM agent 的 tool-use 范式结合，让 AI assistant 能自主完成视频拆解、镜头识别等任务。适用场景包括 AI 视频内容分析、自动化剪辑预处理、多模态数据标注管线搭建，以及研究 Claude Skills 扩展机制的开发者参考。",
+  "tags": [
+    "multimodal",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-12T02:04:52.477133+00:00",
+  "analyzed_at": "2026-09-12T02:05:24.150181+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

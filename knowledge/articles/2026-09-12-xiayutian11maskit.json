@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-12-004",
+  "title": "xiaYuTian11/maskit",
+  "source": "github-trending",
+  "url": "https://github.com/xiaYuTian11/maskit",
+  "summary": "maskit 是一个面向大模型的本地隐私脱敏网关，通过代理任意可配置 Base URL 的 LLM 工具（如 Cursor、Claude Code、Codex、Pi），在请求发出前自动对敏感数据打码，并在流式回复中实时还原原始信息。它解决了开发者在使用云端大模型时隐私数据外泄的核心痛点，核心技术亮点在于请求侧自动脱敏与响应侧流式还原的双向处理机制，且完全本地运行。适用场景包括企业内代码辅助、个人开发者使用云端 AI 编程工具时的数据合规保护，以及对隐私敏感的 LLM 应用集成。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "open-source",
+    "tool-use",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-12T02:04:52.477133+00:00",
+  "analyzed_at": "2026-09-12T02:05:30.675339+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

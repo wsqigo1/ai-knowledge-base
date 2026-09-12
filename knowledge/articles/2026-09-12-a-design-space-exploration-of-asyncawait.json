@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-12-009",
+  "title": "A Design Space Exploration of Async/Await",
+  "source": "hackernews-top",
+  "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+  "summary": "该文对 async/await 异步编程模型进行设计空间探索，系统梳理不同语言与运行时在语法、调度、错误传播、取消机制等方面的实现取舍。它解决的是异步代码在可读性、性能与可组合性之间难以兼顾的问题，通过对比多种设计维度揭示各自权衡。核心技术亮点在于将 async/await 拆解为可比较的设计轴，而非单一实现介绍。适用场景为语言/运行时设计者、并发编程库作者，以及需要深入理解异步模型以优化高并发服务的工程师。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-12T02:04:52.659128+00:00",
+  "analyzed_at": "2026-09-12T02:05:41.602179+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-12-012",
+  "title": "Rune is now open source",
+  "source": "hackernews-top",
+  "url": "https://rune.build/blog/rune-is-now-open-source",
+  "summary": "Rune 是一个新近开源的项目，具体定位为面向 AI 工程师的代码执行与工具调用运行时环境。它解决的核心问题是：LLM 生成的代码或工具调用指令缺乏安全、可复现的执行沙箱，导致 agent 工作流难以落地。核心技术亮点在于提供轻量级隔离执行层，支持多语言代码片段的即时运行与结果回传，并可与 agent 框架集成实现 tool-use 闭环。适用场景包括 code-generation 验证、agent 工具调用、自动化 workflow 中的动态代码执行等。",
+  "tags": [
+    "open-source",
+    "code-generation",
+    "agent",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-12T02:04:52.659128+00:00",
+  "analyzed_at": "2026-09-12T02:05:52.347501+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}

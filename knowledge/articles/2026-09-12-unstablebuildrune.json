@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-12-001",
+  "title": "unstablebuild/rune",
+  "source": "github-trending",
+  "url": "https://github.com/unstablebuild/rune",
+  "summary": "Rune 是一个用 Go 编写的开发环境工具，定位为面向专业开发者的 AI 编码代理编排平台。它解决的核心问题是：当前 coding agents（如 Claude Code、Cursor 等）各自为政，缺乏统一的本地编排与工作流管理能力。Rune 通过 CLI 形式提供 agent-orchestration 能力，让开发者能在终端中协调多个 AI 编码代理协同工作，并集成到日常开发流程中。技术亮点在于 Go 语言带来的高性能与单二进制分发优势，以及面向 developer-tool 场景的 agent 编排抽象。适用场景包括：需要多 agent 协作完成复杂编码任务的团队、希望将 AI 编码代理深度嵌入本地开发工作流的工程师，以及关注 agent-orchestration 基础设施的技术团队。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "multi-agent",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-12T02:04:52.477133+00:00",
+  "analyzed_at": "2026-09-12T02:05:18.548686+00:00",
+  "organized_at": "2026-09-12T02:06:12.225552+00:00",
+  "status": "published"
+}
