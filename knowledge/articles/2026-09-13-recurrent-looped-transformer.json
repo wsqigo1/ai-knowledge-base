@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-13-007",
+  "title": "Recurrent Looped Transformer",
+  "source": "hackernews-top",
+  "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+  "summary": "Recurrent Looped Transformer 是一种将循环机制引入 Transformer 架构的研究方向，通过让同一组层在推理时反复迭代执行，以固定参数量换取更强的推理深度。它主要解决标准 Transformer 层数固定、难以在测试时动态扩展计算量的问题，核心亮点在于权重共享的循环结构配合自适应停止或迭代步数控制，使模型能在复杂推理任务上按需分配更多计算。适用场景包括需要多步推理的数学、算法与逻辑任务，以及希望在有限参数预算下提升推理能力的 LLM 训练与推理优化。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-13T01:59:18.320102+00:00",
+  "analyzed_at": "2026-09-13T02:00:12.890993+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-13-001",
+  "title": "Phyzicalorg/Phyzical_org",
+  "source": "github-trending",
+  "url": "https://github.com/Phyzicalorg/Phyzical_org",
+  "summary": "Phyzical_org 是一个面向具身智能（embodied AI）的浏览器遥操作数据平台，提供 elizaOS 可直接消费的 episode 数据集、trajectory_db 转换器以及链上溯源（onchain provenance）机制。它解决的核心问题是机器人模仿学习（imitation learning）中高质量遥操作数据稀缺、格式碎片化、来源不可验证的痛点。技术亮点在于将浏览器端采集的遥操作轨迹标准化为 agent 可训练的数据格式，并通过链上记录保证数据来源可信。适用场景包括机器人学习数据管线搭建、elizaOS agent 训练、以及需要可追溯数据来源的具身 AI 研究。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-13T01:59:18.024223+00:00",
+  "analyzed_at": "2026-09-13T01:59:40.735117+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}

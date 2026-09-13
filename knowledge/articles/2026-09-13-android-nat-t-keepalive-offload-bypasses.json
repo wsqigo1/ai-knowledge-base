@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-13-012",
+  "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+  "source": "hackernews-top",
+  "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+  "summary": "Android 系统中 NAT-T keepalive offload 机制可绕过 VPN lockdown 策略，导致本应强制走 VPN 的流量通过底层硬件直接发送 keepalive 包，暴露真实 IP 或泄露连接状态。该问题源于 Android 将 NAT-T keepalive 卸载到调制解调器/硬件层，绕过了 VPN 服务的路由与锁定逻辑，影响所有依赖 VPN lockdown 保障隐私与安全的场景，如企业移动设备管理、隐私保护工具及零信任网络接入。核心技术点在于 offload 路径与 VPN 策略的权限边界冲突，属于移动操作系统网络栈安全缺陷。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-13T01:59:18.320102+00:00",
+  "analyzed_at": "2026-09-13T02:00:27.090585+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}

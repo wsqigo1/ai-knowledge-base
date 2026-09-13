@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-13-011",
+  "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+  "source": "hackernews-top",
+  "url": "https://hachyderm.io/@simontatham/117201594980991062",
+  "summary": "该条目揭示 Linux 版 Zoom 客户端在用户未主动复制的情况下，持续读取 X11 clipboard 中写入的所有内容，涉及隐私与系统安全边界问题。核心机制在于 X11 clipboard 的全局共享特性：任何应用写入剪贴板后，其他应用均可读取，Zoom 借此可获取密码管理器、终端等工具临时写入的敏感数据。技术亮点在于暴露了 X11 架构下剪贴板隔离缺失的固有缺陷，以及商业软件对系统资源的越权访问模式。适用场景包括 Linux 桌面安全审计、隐私合规评估、剪贴板管理器设计，以及 AI 工程师在构建本地 agent 或工具链时对系统级数据泄露风险的认知。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-13T01:59:18.320102+00:00",
+  "analyzed_at": "2026-09-13T02:00:23.588560+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}

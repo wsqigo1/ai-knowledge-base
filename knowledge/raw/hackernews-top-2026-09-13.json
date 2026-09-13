@@ -1,0 +1,397 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-13T01:59:20.302796+00:00",
+  "date": "2026-09-13",
+  "count": 20,
+  "items": [
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "source": "hackernews-top",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "hn_url": "https://news.ycombinator.com/item?id=49674050",
+      "description": "",
+      "hn_score": 333,
+      "comments": 78,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "OpenStreetMap 入门编辑指南，面向零基础用户介绍如何为全球开源地图贡献第一条数据。该教程解决地图数据贡献门槛高、新手不知从何下手的问题，通过分步引导完成账号注册、编辑器选择（如 iD 编辑器）和实际编辑操作。核心技术亮点在于基于浏览器的可视化编辑流程与社区审核机制，降低参与门槛。适用场景为地理信息爱好者、开源贡献者入门，以及需要理解众包地图数据生产流程的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-13T01:59:57.620006+00:00"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "source": "hackernews-top",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "hn_url": "https://news.ycombinator.com/item?id=49676820",
+      "description": "",
+      "hn_score": 120,
+      "comments": 63,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Real-SWE 是一个面向 AI 编程能力的基准测试，专门评估模型在私有、真实企业级代码库上的表现。现有 SWE-bench 等基准多基于开源仓库，无法反映企业内网代码的复杂性、私有依赖与业务上下文。Real-SWE 的核心亮点在于使用真实企业代码库构建任务，覆盖缺陷修复、功能实现等场景，并强调私有环境下的可复现评测。它适用于评估 code-generation 与 agent 类模型在企业落地中的实际能力，帮助团队判断模型能否处理内部代码。",
+      "tags": [
+        "benchmark",
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-13T01:59:59.571341+00:00"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49673098",
+      "description": "",
+      "hn_score": 401,
+      "comments": 270,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该文章将 Nvidia 类比为 AI 时代的「中央银行」，探讨其在 AI 算力供应链中的核心地位与定价权。文章指出 Nvidia 通过 GPU 硬件、CUDA 软件生态及 NVLink 互联技术，实质上掌控了全球 AI 训练与推理的算力发行权，类似央行调控货币供应。核心技术亮点在于分析 Nvidia 如何利用软硬件垂直整合构建护城河，以及这种中心化格局对 AI 研究成本、创业门槛和行业竞争的影响。适用场景为 AI 基础设施投资分析、算力战略规划及技术生态风险评估。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-13T02:00:01.484013+00:00"
+    },
+    {
+      "title": "Align AI and Mathematics–To Something Else",
+      "source": "hackernews-top",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "hn_url": "https://news.ycombinator.com/item?id=49678783",
+      "description": "",
+      "hn_score": 7,
+      "comments": 0,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该条目讨论AI与数学对齐（Align AI and Mathematics）应指向'其他目标'的哲学与技术命题，核心观点是当前将AI推理能力与形式化数学证明对齐的研究方向可能存在目标偏差。文章主张AI不应仅被训练为模仿数学家的证明过程，而应服务于更广泛的科学发现与工程问题求解。技术亮点在于反思benchmark驱动的数学推理评估范式，提出对齐目标应扩展至物理、生物等非形式化领域。适用场景包括AI推理研究、数学形式化（如Lean/Isabelle）、以及LLM科学应用方向的研究者参考。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-13T02:00:03.777294+00:00"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "source": "hackernews-top",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "hn_url": "https://news.ycombinator.com/item?id=49619848",
+      "description": "",
+      "hn_score": 124,
+      "comments": 26,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Apple iPod Engraver 是一个复刻 Apple 官方 iPod 镌刻服务的开源 Web 工具，用户输入文字即可生成模拟 Apple 官方字体与排版风格的镌刻预览图。它解决了 iPod 停产多年后爱好者无法再体验官方镌刻定制、也难以在购买二手设备前预览镌刻效果的问题。核心技术亮点在于对 Apple 镌刻字体、字号、行距与居中对齐规则的逆向还原，并通过前端 Canvas 或 SVG 渲染实现即时预览。该项目属于怀旧向开发者工具，适用于复古数码爱好者、二手 iPod 卖家展示商品，以及前端工程师学习字体排版与图形渲染的参考案例。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-13T02:00:05.726009+00:00"
+    },
+    {
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "source": "hackernews-top",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49636479",
+      "description": "",
+      "hn_score": 75,
+      "comments": 12,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该文章探讨如何从 Apple Neural Engine (ANE) 中恢复约 50 GB/s 的内存带宽，属于底层硬件性能优化实践。核心问题在于 ANE 在特定工作负载下带宽利用率不足，作者通过分析内存访问模式、数据布局与调度策略，定位瓶颈并给出优化方案。技术亮点包括对 ANE 架构的逆向分析、带宽测量方法及缓存/预取策略调整。适用场景为在 Apple 芯片上部署端侧 AI 推理、多模态模型或高吞吐量神经网络时，需要压榨硬件极限性能的工程师。",
+      "tags": [
+        "benchmark",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-13T02:00:08.473721+00:00"
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "source": "hackernews-top",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "hn_url": "https://news.ycombinator.com/item?id=49678683",
+      "description": "",
+      "hn_score": 109,
+      "comments": 21,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该条目是 Hacker News 上一篇观点性文章，标题讽刺了 AI 安全讨论中的双重标准现象：许多呼吁暂停或放缓 AI 发展的声音，往往隐含'除了我自己'的例外逻辑。文章并非提出具体技术方案，而是从治理与伦理角度审视 AI 开发节奏之争，揭示监管倡导者与竞争者之间的利益张力。核心亮点在于以反讽框架拆解'AI 暂停论'的动机结构，适用于关注 AI 治理、政策辩论与行业生态的工程师和研究者，帮助其理解技术社区内部关于发展速度的分歧。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-13T02:00:10.916142+00:00"
+    },
+    {
+      "title": "Recurrent Looped Transformer",
+      "source": "hackernews-top",
+      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49678548",
+      "description": "",
+      "hn_score": 11,
+      "comments": 2,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Recurrent Looped Transformer 是一种将循环机制引入 Transformer 架构的研究方向，通过让同一组层在推理时反复迭代执行，以固定参数量换取更强的推理深度。它主要解决标准 Transformer 层数固定、难以在测试时动态扩展计算量的问题，核心亮点在于权重共享的循环结构配合自适应停止或迭代步数控制，使模型能在复杂推理任务上按需分配更多计算。适用场景包括需要多步推理的数学、算法与逻辑任务，以及希望在有限参数预算下提升推理能力的 LLM 训练与推理优化。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-13T02:00:12.890993+00:00"
+    },
+    {
+      "title": "Stabilizing Rust's Never Type",
+      "source": "hackernews-top",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "hn_url": "https://news.ycombinator.com/item?id=49625056",
+      "description": "",
+      "hn_score": 136,
+      "comments": 33,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Rust 的 never type（`!`）长期处于 unstable 状态，其类型系统语义在类型推断、coercion 和 trait 实现中存在不一致，导致编译器行为和用户预期出现偏差。该提案旨在为 never type 制定稳定的语义规则，明确其在类型推断中的 fallback 行为、与 `!` 相关的 coercion 规则，以及如何与 `Result`、`match` 等控制流结构正确交互。核心技术亮点在于通过类型论分析统一 never type 的 subtyping 与 coercion 语义，并给出可落地的编译器实现路径。适用场景为 Rust 编译器开发者、类型系统研究者及依赖 never type 进行错误处理或泛型编程的 Rust 工程师。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-13T02:00:14.991541+00:00"
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "hn_url": "https://news.ycombinator.com/item?id=49645480",
+      "description": "",
+      "hn_score": 442,
+      "comments": 361,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "LG 针对其智能电视被指控进行用户追踪和窥探的报道作出公开否认，称相关担忧'不属实'。该事件源于安全研究人员和媒体对 LG 电视数据采集行为的调查，涉及电视自动识别用户观看内容并向服务器回传数据的机制。核心技术争议点在于智能电视的 ACR（自动内容识别）技术是否在未经用户充分知情同意的情况下采集屏幕内容指纹，以及语音助手常驻监听功能的数据处理边界。该事件对智能家居隐私合规、IoT 设备数据采集透明度具有参考意义，适用于关注消费电子隐私政策和 IoT 安全的研究者与开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-13T02:00:17.107976+00:00"
+    },
+    {
+      "title": "We must pace the frontier",
+      "source": "hackernews-top",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "hn_url": "https://news.ycombinator.com/item?id=49672510",
+      "description": "",
+      "hn_score": 549,
+      "comments": 783,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "《We must pace the frontier》是 Hacker News 上引发广泛讨论的一篇观点文章，核心主张是 AI 前沿能力的推进速度应当被主动放缓，而非一味追求更快更强的模型迭代。文章从安全、对齐（alignment）、社会影响与治理角度出发，讨论当前 frontier model 快速扩张带来的风险，呼吁研究社区、企业与政策制定者共同建立节奏控制与评估机制。技术亮点在于将 AI 能力增长视为需要治理的变量，而非单纯工程指标，涉及 capability evaluation、safety research 与 deployment policy 的交叉议题。适用场景包括 AI 治理讨论、模型发布策略制定、安全研究议程设定，以及工程师理解行业节奏与监管趋势。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-13T02:00:19.147222+00:00"
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "source": "hackernews-top",
+      "url": "https://agentsdock.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49678435",
+      "description": "",
+      "hn_score": 5,
+      "comments": 2,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "AgentsDock 是一款面向 agentic AI 研究的专用 IDE，旨在解决当前 agent 开发过程中调试、观测与迭代效率低下的问题。其核心亮点在于将 agent 运行轨迹、工具调用链、prompt 状态与代码编辑环境深度整合，为开发者提供统一的实验与调试界面，而非依赖零散的日志或 notebook。该工具适用于 multi-agent 系统开发、tool-use 流程验证、prompt-engineering 迭代以及 agent 行为可解释性研究等场景，尤其适合需要频繁调试复杂 agent workflow 的研究人员与工程师。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multi-agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-13T02:00:21.403384+00:00"
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "source": "hackernews-top",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "hn_url": "https://news.ycombinator.com/item?id=49675902",
+      "description": "",
+      "hn_score": 199,
+      "comments": 61,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该条目揭示 Linux 版 Zoom 客户端在用户未主动复制的情况下，持续读取 X11 clipboard 中写入的所有内容，涉及隐私与系统安全边界问题。核心机制在于 X11 clipboard 的全局共享特性：任何应用写入剪贴板后，其他应用均可读取，Zoom 借此可获取密码管理器、终端等工具临时写入的敏感数据。技术亮点在于暴露了 X11 架构下剪贴板隔离缺失的固有缺陷，以及商业软件对系统资源的越权访问模式。适用场景包括 Linux 桌面安全审计、隐私合规评估、剪贴板管理器设计，以及 AI 工程师在构建本地 agent 或工具链时对系统级数据泄露风险的认知。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-13T02:00:23.588560+00:00"
+    },
+    {
+      "title": "LG Says We're Fake News [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "hn_url": "https://news.ycombinator.com/item?id=49676324",
+      "description": "",
+      "hn_score": 169,
+      "comments": 76,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该条目为 Hacker News 上的一段视频讨论，标题为「LG Says We're Fake News」，HN 得分 169。内容涉及 LG 公司对某媒体或评测机构报道的公开回应，指控对方发布不实信息。从 AI 工程师视角看，该条目与 AI/LLM 技术无直接关联，属于科技公司公关争议或消费电子领域的舆论事件。核心技术亮点缺失，不涉及模型、算法、工具链或工程实践。适用场景仅限于了解科技行业舆情动态，对 AI 研发工作无实质参考价值。",
+      "tags": [
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-09-13T02:00:24.962839+00:00"
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "source": "hackernews-top",
+      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "hn_url": "https://news.ycombinator.com/item?id=49665502",
+      "description": "",
+      "hn_score": 175,
+      "comments": 44,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Android 系统中 NAT-T keepalive offload 机制可绕过 VPN lockdown 策略，导致本应强制走 VPN 的流量通过底层硬件直接发送 keepalive 包，暴露真实 IP 或泄露连接状态。该问题源于 Android 将 NAT-T keepalive 卸载到调制解调器/硬件层，绕过了 VPN 服务的路由与锁定逻辑，影响所有依赖 VPN lockdown 保障隐私与安全的场景，如企业移动设备管理、隐私保护工具及零信任网络接入。核心技术点在于 offload 路径与 VPN 策略的权限边界冲突，属于移动操作系统网络栈安全缺陷。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-13T02:00:27.090585+00:00"
+    },
+    {
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "source": "hackernews-top",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "hn_url": "https://news.ycombinator.com/item?id=49658672",
+      "description": "",
+      "hn_score": 104,
+      "comments": 108,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该条目讨论的是 John Deere 农机自维修服务的实际使用体验，属于硬件维修权（right-to-repair）议题，而非 AI/LLM 技术内容。作者尝试通过官方自助维修渠道修复拖拉机，但农民群体对该服务并不买账，反映出厂商锁定、诊断软件访问受限等现实问题。核心技术争议在于嵌入式系统与专有诊断工具的访问控制，以及维修权立法对农业设备的影响。该内容对 AI 工程师的直接技术参考价值有限，但作为技术伦理与开源硬件生态的案例具有一定讨论意义。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-13T02:00:28.967552+00:00"
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "source": "hackernews-top",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49672365",
+      "description": "",
+      "hn_score": 86,
+      "comments": 17,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Anthropic 提出的 Transformer 电路数学框架，将 Transformer 分解为可解释的计算电路，通过残差流、注意力头和 MLP 的交互分析模型内部机制。解决 Transformer 黑箱不可解释问题，核心亮点是用线性代数工具（如 QK 电路、OV 电路）刻画注意力头的功能角色，并揭示 induction head 等涌现结构。适用于 mechanistic interpretability 研究、模型安全审计与可解释性驱动的架构改进。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-09-13T02:00:30.781506+00:00"
+    },
+    {
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "source": "hackernews-top",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "hn_url": "https://news.ycombinator.com/item?id=49671237",
+      "description": "",
+      "hn_score": 54,
+      "comments": 31,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "Trail of Bits 对 Signal 聊天完整性验证机制的技术分析，聚焦于 Signal 如何通过密码学手段确保消息不被篡改。该工作解决了端到端加密通信中用户无法独立验证客户端代码与协议实现是否可信的问题，核心亮点在于结合形式化验证与二进制分析，审计 Signal 桌面版的关键加密路径。适用场景为安全审计、隐私通信工具的可信度评估，对 AI 工程师理解安全关键系统的验证方法有参考价值，但与 LLM/Agent 等主流 AI 工程实践的直接关联较弱。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-09-13T02:00:32.465663+00:00"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "source": "hackernews-top",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "hn_url": "https://news.ycombinator.com/item?id=49626718",
+      "description": "",
+      "hn_score": 424,
+      "comments": 123,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "该条目探讨 async/await 异步编程模型的设计空间，系统梳理不同语言与运行时在语法、调度、错误传播、取消机制等方面的取舍。核心亮点在于将分散的实现方案归纳为可比较的设计维度，帮助工程师理解 async/await 背后的权衡而非仅停留在 API 使用层面。适用于语言设计者、运行时开发者以及需要深入理解异步模型以优化高并发服务的工程师，对日常业务开发直接价值有限。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-13T02:00:34.069282+00:00"
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "hn_url": "https://news.ycombinator.com/item?id=49639647",
+      "description": "",
+      "hn_score": 563,
+      "comments": 155,
+      "collected_at": "2026-09-13T01:59:18.320102+00:00",
+      "published_at": "2026-09-13T01:59:18.320102+00:00",
+      "summary": "宜家为《上古卷轴5：天际》制作了一个官方 Mod，将现实中的家具目录与游戏内建造系统打通。该 Mod 解决的是玩家在游戏内缺乏真实家具设计参考、建造体验与品牌脱节的问题。核心技术亮点在于跨媒介资产映射与游戏引擎内的参数化家具生成，可能涉及 3D 模型转换、材质适配和脚本化放置逻辑。适用场景包括游戏 Mod 开发、品牌虚拟植入、以及游戏内建筑系统的交互设计研究。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-13T02:00:36.362761+00:00"
+    }
+  ]
+}

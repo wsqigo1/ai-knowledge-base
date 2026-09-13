@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-13-006",
+  "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+  "source": "hackernews-top",
+  "url": "https://eiln.github.io/posts/ane-dma.html",
+  "summary": "该文章探讨如何从 Apple Neural Engine (ANE) 中恢复约 50 GB/s 的内存带宽，属于底层硬件性能优化实践。核心问题在于 ANE 在特定工作负载下带宽利用率不足，作者通过分析内存访问模式、数据布局与调度策略，定位瓶颈并给出优化方案。技术亮点包括对 ANE 架构的逆向分析、带宽测量方法及缓存/预取策略调整。适用场景为在 Apple 芯片上部署端侧 AI 推理、多模态模型或高吞吐量神经网络时，需要压榨硬件极限性能的工程师。",
+  "tags": [
+    "benchmark",
+    "multimodal",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-13T01:59:18.320102+00:00",
+  "analyzed_at": "2026-09-13T02:00:08.473721+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}

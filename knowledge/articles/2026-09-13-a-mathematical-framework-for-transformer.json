@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-13-013",
+  "title": "A Mathematical Framework for Transformer Circuits (2021)",
+  "source": "hackernews-top",
+  "url": "https://transformer-circuits.pub/2021/framework/index.html",
+  "summary": "Anthropic 提出的 Transformer 电路数学框架，将 Transformer 分解为可解释的计算电路，通过残差流、注意力头和 MLP 的交互分析模型内部机制。解决 Transformer 黑箱不可解释问题，核心亮点是用线性代数工具（如 QK 电路、OV 电路）刻画注意力头的功能角色，并揭示 induction head 等涌现结构。适用于 mechanistic interpretability 研究、模型安全审计与可解释性驱动的架构改进。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-09-13T01:59:18.320102+00:00",
+  "analyzed_at": "2026-09-13T02:00:30.781506+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}

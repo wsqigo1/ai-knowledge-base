@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-13-008",
+  "title": "Stabilizing Rust's Never Type",
+  "source": "hackernews-top",
+  "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+  "summary": "Rust 的 never type（`!`）长期处于 unstable 状态，其类型系统语义在类型推断、coercion 和 trait 实现中存在不一致，导致编译器行为和用户预期出现偏差。该提案旨在为 never type 制定稳定的语义规则，明确其在类型推断中的 fallback 行为、与 `!` 相关的 coercion 规则，以及如何与 `Result`、`match` 等控制流结构正确交互。核心技术亮点在于通过类型论分析统一 never type 的 subtyping 与 coercion 语义，并给出可落地的编译器实现路径。适用场景为 Rust 编译器开发者、类型系统研究者及依赖 never type 进行错误处理或泛型编程的 Rust 工程师。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-13T01:59:18.320102+00:00",
+  "analyzed_at": "2026-09-13T02:00:14.991541+00:00",
+  "organized_at": "2026-09-13T02:00:36.436328+00:00",
+  "status": "published"
+}
