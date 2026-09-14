@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-14-002",
+  "title": "Qiuner/birdview",
+  "source": "github-trending",
+  "url": "https://github.com/Qiuner/birdview",
+  "summary": "Birdview 是一款面向 AI 编码代理的架构可视化工具，核心思路是在每次代码变更前先构建并展示项目架构地图，避免 AI 在缺乏全局理解的情况下盲目修改代码。该项目以 JavaScript 实现，主打 architecture-as-code 理念，将代码库结构转化为可被 agent 消费的架构视图，属于 agent-tools 与 ai-workflow 交叉领域。其技术亮点在于把架构感知能力前置到编码代理的工作流中，让 AI 在动手改代码之前先理解模块依赖与调用关系，从而降低破坏性变更的风险。适用场景包括使用 coding agent 进行大型项目重构、多模块协作开发，以及需要 AI 辅助但要求变更可控的工程团队。目前 212 stars，属于早期项目，生态成熟度有限。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-14T02:17:14.313968+00:00",
+  "analyzed_at": "2026-09-14T02:17:36.679779+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

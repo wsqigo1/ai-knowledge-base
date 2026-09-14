@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-14-013",
+  "title": "I added a non-wi-fi Mitsubishi AC to Home Assistant",
+  "source": "hackernews-top",
+  "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+  "summary": "该条目介绍如何将一台不支持 Wi-Fi 的三菱空调接入 Home Assistant 智能家居系统。核心问题在于老旧或低端空调缺乏网络模块，无法直接集成到现代自动化平台。作者通过红外发射器（如 Broadlink 或 ESP8266 红外模块）模拟原厂遥控信号，结合 Home Assistant 的 climate 组件与自定义红外码库，实现温度、模式、风速的远程控制与自动化联动。技术亮点在于逆向解析空调红外协议并封装为可复用的 HA 实体，无需改动空调硬件。适用场景为智能家居爱好者、Home Assistant 用户以及希望低成本改造非智能家电的工程师。",
+  "tags": [
+    "workflow-automation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:11.544084+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-14-016",
+  "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+  "source": "hackernews-top",
+  "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+  "summary": "该文章通过逆向工程分析 Anthropic Claude Web 服务背后的 MicroVM 架构，揭示其内部代号为 Antspace 的隐藏基础设施。核心在于剖析 Claude Web 如何利用轻量级虚拟机实现代码执行、工具调用等沙箱隔离能力，涉及容器化、微虚拟机（如 Firecracker 类）与安全边界设计。技术亮点包括对 Anthropic 未公开的运行时环境进行黑盒探测与结构还原，展示了大模型产品在 agent 场景下的底层执行层实现思路。适用场景为 AI 工程师研究 LLM 产品架构、设计安全的代码解释器或 agent 沙箱环境，以及理解商业闭源模型的工程化落地方式。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:19.041765+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-14-012",
+  "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+  "source": "hackernews-top",
+  "url": "https://bensimms.moe/reverse-engineering-scooter/",
+  "summary": "作者对电动滑板车的控制器固件进行逆向工程，并用 Rust 重写固件。项目涉及对原厂 MCU 固件的反汇编与协议分析，识别电机控制、BLE 通信和电池管理等模块，随后基于 Rust 的嵌入式生态（如 embedded-hal、RTIC 或 Embassy）重新实现，兼顾内存安全与实时性。核心技术亮点在于固件逆向方法论、外设寄存器级调试以及 Rust 在 no_std 环境下的落地。适用场景包括嵌入式安全研究、IoT 设备固件改造、Rust 嵌入式学习，对 AI 工程师的直接相关性较低，但可作为工具链与逆向工程思路的参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:05.718411+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-14-015",
+  "title": "CUDA for AMD on Windows",
+  "source": "hackernews-top",
+  "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+  "summary": "该项目旨在让 AMD GPU 在 Windows 上运行 CUDA 代码，通过兼容层或转译方案将 NVIDIA 的 CUDA 生态引入 AMD 硬件。它解决的是 Windows 平台下 AMD 用户无法直接使用 CUDA 加速的痛点，核心亮点在于绕过官方限制，利用 HIP 或 ZLUDA 等技术实现二进制兼容。适用场景包括本地 AI 推理、科学计算及需要 CUDA 加速的 Windows 应用，尤其适合没有 NVIDIA 显卡但想尝试 CUDA 生态的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:15.044322+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-14-011",
+  "title": "Data collected by cars and sold to third parties",
+  "source": "hackernews-top",
+  "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+  "summary": "该条目讨论现代联网汽车采集的驾驶数据（位置轨迹、驾驶行为、车内语音、摄像头影像等）被车企收集后转售给第三方数据经纪商、保险公司及广告商的产业链现状。核心问题在于用户对数据流向缺乏知情权与选择权，隐私边界模糊，且现有法规（如GDPR、CCPA）对车载数据场景覆盖不足。技术层面涉及车联网数据管道、边缘采集与云端聚合、去标识化与再识别风险。对AI工程师而言，该议题直接关联多模态数据采集伦理、联邦学习与差分隐私在车端部署的可行性，以及训练数据合规来源的审查。适用于自动驾驶数据闭环、车联网隐私合规、AI训练数据治理等场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:04.045468+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

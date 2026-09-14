@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-14-003",
+  "title": "yjz211/vivid-figures-skill",
+  "source": "github-trending",
+  "url": "https://github.com/yjz211/vivid-figures-skill",
+  "summary": "vivid-figures-skill 是一个面向科研场景的 Python 工具集，通过 108 个预设配方让 AI 助手（如 Claude、GPT）直接调用用户数据生成出版级科研图表。它解决了科研人员反复手写 matplotlib/seaborn 绘图代码、配色与风格难以统一的问题，提供鲜艳与稳重两套视觉风格及多套配色方案，最终交付图片与可复用源码。核心亮点在于将图表生成抽象为可被 LLM 调用的 skill 配方，降低 prompt 到成图的链路成本。适用于论文配图、组会汇报、数据探索等需要快速产出规范图表的场景，但仅限个人非商业使用。",
+  "tags": [
+    "open-source",
+    "code-generation",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-14T02:17:14.313968+00:00",
+  "analyzed_at": "2026-09-14T02:17:45.642711+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

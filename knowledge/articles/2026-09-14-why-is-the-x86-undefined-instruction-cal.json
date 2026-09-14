@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-14-014",
+  "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+  "source": "hackernews-top",
+  "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+  "summary": "该条目讨论 x86 架构中未定义指令 ud2 的命名由来，特别是为何后缀为 2。ud2 是 x86 指令集中用于显式触发无效操作码异常的指令，常用于编译器标记不可达代码或内核中的 BUG() 宏。文章从历史角度追溯 Intel 指令编码设计，解释 ud2 与早期 ud0、ud1 的关系，以及为何只有 ud2 被正式定义为保证触发异常。核心技术亮点在于指令编码的位模式分析与 Intel 手册的演变，属于底层系统编程与体系结构知识。适用场景为编译器开发、操作系统内核调试、逆向工程及对 x86 指令集历史感兴趣的工程师。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:13.462812+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}

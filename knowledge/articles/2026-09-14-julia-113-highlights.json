@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-14-009",
+  "title": "Julia 1.13 highlights",
+  "source": "hackernews-top",
+  "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+  "summary": "Julia 1.13 是 Julia 语言的最新版本发布说明，属于通用高性能科学计算编程语言的常规迭代。该版本主要解决编译延迟、多线程调度和包管理体验等长期痛点，核心亮点包括改进的预编译缓存机制、更快的首次执行速度（TTFX）、增强的 GC 与任务调度性能，以及工具链和 REPL 体验优化。Julia 本身面向数值计算、科学模拟、数据科学与机器学习等高性能场景，对需要 Python 级易用性但追求 C/Fortran 级性能的 AI 工程师具有参考价值，但并非直接面向 LLM 应用开发。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-14T02:17:14.495679+00:00",
+  "analyzed_at": "2026-09-14T02:18:00.364560+00:00",
+  "organized_at": "2026-09-14T02:18:28.906983+00:00",
+  "status": "published"
+}
