@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-004",
+  "title": "agent-launch/agent-launcher",
+  "source": "github-trending",
+  "url": "https://github.com/agent-launch/agent-launcher",
+  "summary": "agent-launcher 是一个基于 TypeScript 的跨平台桌面应用，用于统一配置和运行已有的 coding-agent CLI 工具（如 Claude Code、Codex 等）。它解决的核心问题是：当前各类 coding agent 均以独立 CLI 形式分发，开发者需分别管理配置、环境变量和启动参数，切换成本高且缺乏统一入口。该项目的技术亮点在于将多个 agent CLI 抽象为可配置的启动器，通过桌面 GUI 管理 API key、模型选择、工作目录等参数，并支持跨平台运行。适用场景包括日常使用多个 coding agent 的开发者、需要快速对比不同 agent 输出质量的工程师，以及希望降低 CLI 配置门槛的团队。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "code-generation",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-15T02:23:02.634892+00:00",
+  "analyzed_at": "2026-09-15T02:23:34.885198+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

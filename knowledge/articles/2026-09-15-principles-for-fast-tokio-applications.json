@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-15-012",
+  "title": "Principles for Fast Tokio Applications",
+  "source": "hackernews-top",
+  "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+  "summary": "该文章总结了构建高性能 Tokio 异步应用的核心原则，针对 Rust 异步运行时中常见的性能陷阱与反模式。文章聚焦于任务调度、阻塞操作处理、channel 使用、锁竞争以及 runtime 配置等关键问题，帮助开发者避免因不当使用 async/await 导致的延迟抖动和吞吐下降。核心技术亮点包括区分 CPU-bound 与 IO-bound 任务的调度策略、合理使用 spawn_blocking、避免在异步上下文中持有同步锁，以及针对多线程 runtime 的调优建议。适用于使用 Rust 构建高并发网络服务、微服务或实时数据管道的后端工程师。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:23:57.318391+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

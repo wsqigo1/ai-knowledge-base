@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-010",
+  "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+  "source": "hackernews-top",
+  "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+  "summary": "该条目讨论 OpenAI 的 AI 爬虫/机器人（bots）在 RubyGems 缓存漏洞被公开披露之前就已抓取并知晓该漏洞相关信息，引发关于 AI 训练数据时效性与安全情报边界的讨论。核心问题在于：AI 系统通过大规模网页抓取可能提前获取未公开或刚披露的安全漏洞细节，从而带来信息不对称与潜在滥用风险。技术亮点涉及爬虫抓取时序分析、漏洞披露流程（responsible disclosure）与 AI 训练语料时间线的交叉验证。适用场景包括安全研究、AI 数据合规治理以及漏洞情报监测。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:23:53.049841+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

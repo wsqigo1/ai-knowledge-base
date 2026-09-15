@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-15-011",
+  "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+  "source": "hackernews-top",
+  "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+  "summary": "该文章介绍通过记忆化（memoization）技术将 eBPF 程序的 CPU 开销降低约 90%。eBPF 广泛用于内核态网络、可观测性和安全监控，但其 JIT 编译与验证过程在高频调用场景下会产生显著 CPU 负担。作者的核心思路是对 eBPF 程序的编译结果或执行路径进行缓存复用，避免重复的验证与编译开销，从而大幅削减 CPU 占用。该方案适用于高频触发 eBPF 钩子的生产环境，如容器网络、服务网格和系统调用追踪等场景，对内核与可观测性工程师具有直接参考价值。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:23:54.847700+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

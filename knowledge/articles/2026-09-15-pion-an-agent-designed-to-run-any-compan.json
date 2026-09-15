@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-007",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "source": "hackernews-top",
+  "url": "https://andonlabs.com/blog/why-we-built-pion",
+  "summary": "Pion 是一款旨在自主运营公司的 AI agent，目标是将企业日常运营流程交由 LLM 驱动的智能体自动执行。它解决的核心问题是企业运营中大量重复性决策与流程编排依赖人工的问题，通过 agent 架构实现任务规划、工具调用与执行闭环。核心技术亮点在于面向真实业务场景的 autonomous agent 设计，可能涉及 multi-agent 协作、tool-use 及 workflow-automation 能力。适用场景包括初创公司轻量化运营、企业内部流程自动化及 agent 商业化探索。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:23:45.217887+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

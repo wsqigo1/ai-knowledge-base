@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-005",
+  "title": "FankChen/tracecrate",
+  "source": "github-trending",
+  "url": "https://github.com/FankChen/tracecrate",
+  "summary": "TraceCrate 是一个 local-first 的 AI agent 追踪工作台，用于检查 Claude Code、Codex 及 OTLP 格式的运行日志，支持多次运行对比与隐私友好的报告导出。它解决的是 AI agent 调试与可观测性缺失的问题——开发者难以复现 agent 行为、定位失败步骤或对比不同 prompt/模型配置的效果。核心技术亮点在于完全本地运行，无需后端服务或 API key，日志与数据不出本机，兼顾隐私与零配置上手。适用场景包括 agent 开发调试、prompt 迭代效果对比、团队内部 trace 复盘，以及需要合规审计的本地化 agent 工作流。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "open-source",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-15T02:23:02.634892+00:00",
+  "analyzed_at": "2026-09-15T02:23:36.784524+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

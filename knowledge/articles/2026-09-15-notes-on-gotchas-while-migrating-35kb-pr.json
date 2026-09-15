@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-15-017",
+  "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+  "source": "hackernews-top",
+  "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+  "summary": "该文记录了作者将约35KB的preprompt（预置提示词）从Anthropic Opus迁移到自托管Ollama模型时遇到的各种坑点。核心问题在于闭源大模型与开源本地模型在prompt遵循能力、上下文处理、格式解析上的差异，导致原本在Opus上稳定运行的复杂prompt在Ollama上出现指令丢失、格式错乱、角色混淆等问题。技术亮点是作者系统梳理了迁移过程中的具体失败模式与调试经验，包括tokenizer差异、system prompt处理方式、停止序列行为等细节。适用于正在做LLM本地化部署、prompt移植或成本优化的AI工程师参考。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:24:10.905818+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

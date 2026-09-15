@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-013",
+  "title": "Why don't machine learning research agents overfit?",
+  "source": "hackernews-top",
+  "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "summary": "该文章探讨机器学习研究型 agent（如自动化科研、实验设计类 LLM agent）为何不像传统模型那样出现明显过拟合现象。核心问题在于：当 agent 在开放式研究任务中反复迭代时，理论上应会记忆训练分布而丧失泛化能力，但实际观察并非如此。文章可能从任务多样性、环境反馈的稀疏性、agent 的推理与工具调用机制等角度解释这一现象，并讨论其对构建更鲁棒 autonomous research agent 的启示。适用场景包括自动化实验设计、AI for Science、以及需要长期泛化的 LLM agent 系统设计。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "large-language-model",
+    "benchmark",
+    "multi-agent"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:24:03.245575+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

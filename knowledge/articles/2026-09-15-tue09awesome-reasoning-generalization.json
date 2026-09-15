@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-15-003",
+  "title": "tue09/awesome-reasoning-generalization",
+  "source": "github-trending",
+  "url": "https://github.com/tue09/awesome-reasoning-generalization",
+  "summary": "该项目是面向 LLM 推理泛化（reasoning generalization）的论文精选列表，系统整理了关于模型在分布外（out-of-distribution）场景下保持推理能力的相关研究。它解决的核心问题是：当前大模型在训练分布内表现优异，但面对新任务、新领域或更复杂推理链时泛化能力显著下降，而相关文献分散、缺乏统一索引。项目以 awesome list 形式按主题归类论文，覆盖 OOD 泛化、推理链迁移、组合泛化等方向，并附 Python 工具便于检索。适合从事 LLM 推理能力研究、评测与改进的工程师和研究者作为文献入口与方向参考。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-15T02:23:02.634892+00:00",
+  "analyzed_at": "2026-09-15T02:23:33.088906+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

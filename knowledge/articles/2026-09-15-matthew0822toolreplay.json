@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-002",
+  "title": "Matthew0822/ToolReplay",
+  "source": "github-trending",
+  "url": "https://github.com/Matthew0822/ToolReplay",
+  "summary": "ToolReplay 是一个零依赖的 Python CLI 工具，用于审计 AI agent 的工具调用记录（tool-call transcripts）。它针对 agent 在生产环境中工具调用不可追溯、难以复现的问题，提供哈希链密封（hash-chain sealing）确保记录防篡改、确定性重放（deterministic replay）还原调用过程，以及作用域越权检查（scope overreach checks）识别 agent 超出授权范围的行为。核心亮点在于无第三方依赖、纯 Python 实现，便于嵌入现有 agent 工作流。适用于需要对 agent 行为做合规审计、调试复现或安全边界验证的工程团队。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-15T02:23:02.634892+00:00",
+  "analyzed_at": "2026-09-15T02:23:31.095652+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

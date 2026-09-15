@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-008",
+  "title": "Charts built for Chat",
+  "source": "hackernews-top",
+  "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+  "summary": "Charts built for Chat 是一套专为对话式 AI 场景设计的图表渲染方案，旨在解决 LLM 输出结构化数据时传统图表库难以在聊天流中动态、轻量呈现的问题。其核心亮点在于将图表生成与对话上下文深度绑定，支持流式渲染、自适应布局，并针对 token 输出做了格式优化，使 AI 助手能直接生成可交互的图表而非静态图片。适用场景包括 AI 数据分析助手、BI 对话机器人、以及需要在 chat 界面中实时可视化查询结果的 agent 工作流。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools",
+    "multimodal",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:23:47.118324+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}

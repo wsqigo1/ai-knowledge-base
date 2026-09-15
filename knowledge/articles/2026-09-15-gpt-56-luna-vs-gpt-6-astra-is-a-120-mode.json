@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-15-018",
+  "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+  "source": "hackernews-top",
+  "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+  "summary": "该条目对比了 GPT-5.6 Luna 与 GPT-6 Astra 两款模型在代码审查（code review）任务上的表现，核心问题是：定价仅 $1.20 的低成本模型是否足以胜任代码审查这一对 reasoning 和 code-generation 要求较高的场景。文章通过实测对比，探讨低成本模型在准确性、误报率、上下文理解等维度的能力边界，为工程团队在 CI/CD 流程中集成 AI code review 提供选型参考。适用场景包括开发者工具链搭建、代码质量自动化、以及 LLM 成本与性能的权衡决策。",
+  "tags": [
+    "code-generation",
+    "benchmark",
+    "reasoning",
+    "developer-tools",
+    "large-language-model"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-15T02:23:02.831198+00:00",
+  "analyzed_at": "2026-09-15T02:24:16.460786+00:00",
+  "organized_at": "2026-09-15T02:24:19.998972+00:00",
+  "status": "published"
+}
