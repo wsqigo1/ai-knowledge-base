@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-16-006",
+  "title": "Introducing System One Models and Jev",
+  "source": "hackernews-top",
+  "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+  "summary": "System One Models 与 Jev 是面向 AI 推理与智能体执行的新一代模型与运行时系统，旨在解决传统 LLM 在复杂多步任务中推理链脆弱、工具调用不稳定、状态管理缺失的问题。其核心技术亮点包括显式系统化推理架构、可持久化的执行状态与工具调用编排，以及面向 agent 场景优化的推理-行动循环。Jev 作为配套运行时，支持任务分解、中间结果缓存与失败恢复。适用场景涵盖自动化工作流、多步代码生成、复杂 agent 任务编排及需要高可靠推理的开发者工具链。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "reasoning",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:08.147615+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-16-013",
+  "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+  "source": "hackernews-top",
+  "url": "https://withcapsule.app/",
+  "summary": "Capsule 是一个单文件 Web 应用框架，将应用代码与数据统一打包进单个可执行文件，数据持久化直接写入内嵌的 SQLite 数据库。它解决了传统 Web 应用部署时依赖外部数据库、配置复杂、迁移困难的问题，让开发者能像分发桌面软件一样分发完整的数据驱动型 Web 应用。核心技术亮点在于将 SQLite 作为嵌入式存储引擎与单文件打包机制结合，无需独立数据库服务，应用启动即用，数据随文件迁移。适用场景包括个人工具、内部小工具、原型验证、边缘计算及需要离线运行的轻量级数据应用。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:25.854184+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-16-018",
+  "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+  "source": "hackernews-top",
+  "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+  "summary": "该条目是 Hacker News 上一篇观点文章，作者在 LLM 于 Navier-Stokes 方程相关任务上取得进展后，仍对 LLM 的能力边界持看空态度。文章核心在于讨论 LLM 在数学推理与科学发现中的真实能力：即便模型能在某些偏微分方程问题上给出看似正确的结果，作者认为这更多是模式匹配与训练数据覆盖的产物，而非真正的物理理解或符号推理能力。技术亮点在于以 Navier-Stokes 这一经典难题为切入点，剖析 LLM 在 reasoning 与科学计算场景下的泛化缺陷。适用场景为 AI 研究者、LLM 能力评估者以及对 reasoning benchmark 可信度存疑的工程师。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:39.175285+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-16-015",
+  "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+  "source": "hackernews-top",
+  "url": "https://github.com/pizza-bot-app/pizza-bot",
+  "summary": "Pizza Bot 是一个面向 AI agent 的收件箱（inbox）系统，让后台运行的 agent 能够异步执行任务并将结果汇总到统一界面。它解决的是当前 agent 工具多为同步交互、缺乏持久化任务队列和结果追踪机制的问题。核心技术亮点在于将 agent 视为可后台工作的\"员工\"，通过 inbox 模式实现任务分发、状态跟踪与结果回收，类似为 agent 构建了一套异步消息与工作流管理层。适用场景包括自动化研究、定时数据采集、多步骤后台任务编排等需要 agent 长时间运行且人工无需实时盯守的工程场景。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "ai-assistant",
+    "developer-tools",
+    "tool-use"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:33.238293+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

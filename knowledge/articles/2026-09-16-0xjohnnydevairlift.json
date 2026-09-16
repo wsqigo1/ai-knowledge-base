@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-16-005",
+  "title": "0xjohnnydev/airlift",
+  "source": "github-trending",
+  "url": "https://github.com/0xjohnnydev/airlift",
+  "summary": "AirLift 是一个针对 iOS 27.0 的配对 Mac 沙箱逃逸工具，利用 AirTraffic 与 ATAirlock 两个系统服务之间的信任关系实现越狱式逃逸。它解决的是在最新 iOS 版本中，攻击者或安全研究者如何突破应用沙箱限制、获取更高权限的问题。核心技术亮点在于通过配对 Mac 作为可信中继，滥用 AirTraffic 的文件传输通道与 ATAirlock 的访问控制逻辑，绕过沙箱隔离机制。该项目以 Objective-C 实现，属于 iOS 安全研究领域的底层漏洞利用工具，适用于越狱开发、移动安全评估、漏洞挖掘及 iOS 系统安全机制研究等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "security-research",
+    "ios-exploit",
+    "sandbox-escape"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-16T02:16:31.147670+00:00",
+  "analyzed_at": "2026-09-16T02:17:06.501847+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

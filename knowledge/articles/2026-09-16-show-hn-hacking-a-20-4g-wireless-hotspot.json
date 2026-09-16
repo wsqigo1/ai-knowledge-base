@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-16-016",
+  "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+  "source": "hackernews-top",
+  "url": "https://bkovac.github.io/modem-thing/",
+  "summary": "该项目展示如何将售价仅20美元的4G无线热点设备通过逆向工程改造为可发送短信的终端。核心在于利用设备固件中的隐藏AT指令接口或Web管理API，绕过厂商限制直接操控基带模块收发SMS。技术亮点包括硬件拆解、固件分析、串口通信协议逆向以及轻量级脚本封装。适用场景为低成本物联网通信、嵌入式开发教学、以及需要批量短信能力的边缘设备原型验证。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:34.977546+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

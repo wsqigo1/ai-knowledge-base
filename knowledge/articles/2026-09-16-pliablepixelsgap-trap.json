@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-16-004",
+  "title": "pliablepixels/gap-trap",
+  "source": "github-trending",
+  "url": "https://github.com/pliablepixels/gap-trap",
+  "summary": "gap-trap 是一个面向 AI 编码工作流的开源工具，通过在代码仓库中配置规则与质量门禁（gates），让 AI 生成的代码在无需逐行人工审查的情况下保持正确性。它针对 vibe coding 模式下代码质量不可控、review 成本高的痛点，将 agent-skills、AGENTS.md 等约定固化为可执行的检查机制，形成自动化质量约束层。核心亮点在于把 AI 编码的信任问题转化为仓库级的规则工程，而非依赖模型自身可靠性。适用于使用 AI agent 进行日常开发、希望规模化落地 AI 编码又需控制风险的工程团队。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-16T02:16:31.147670+00:00",
+  "analyzed_at": "2026-09-16T02:17:04.565046+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

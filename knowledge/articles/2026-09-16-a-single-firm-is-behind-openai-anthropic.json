@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-16-014",
+  "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+  "source": "hackernews-top",
+  "url": "https://www.effort.news/irregular",
+  "summary": "该条目报道称，OpenAI、Anthropic 与 Meta 近期曝出的一系列「hacking scandals」（涉及模型安全测试、红队评估或内部数据访问争议）背后指向同一家第三方公司。核心问题在于：当头部 LLM 厂商将安全评估、红队测试与合规审计外包给同一供应商时，会形成单点依赖与利益冲突，削弱 AI safety 与 alignment 工作的独立性和可信度。技术亮点在于揭示了 AI 供应链中「安全评估外包」这一隐性风险面，涉及 red-teaming、model evaluation、data governance 等环节。适用场景包括 AI 安全治理、模型合规审计、供应商风险管理，以及关注 large-language-model 生态透明度的研究者与政策制定者。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:29.872353+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

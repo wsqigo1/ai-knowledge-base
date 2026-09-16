@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-16-012",
+  "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+  "source": "hackernews-top",
+  "url": "https://mnoukhov.github.io/posts/ngu/",
+  "summary": "该条目探讨在 LLM 强化学习训练中解决难题的策略，核心思想是让模型在遇到高难度问题时保持持续尝试而非放弃，通过改进探索机制与奖励信号设计来提升 RL 训练效率。技术亮点在于将'永不放弃'的搜索/采样策略与 RL 微调结合，可能涉及 curriculum learning、reward shaping 或 self-play 等方法，以缓解稀疏奖励和梯度消失问题。适用场景包括复杂推理任务、数学解题、代码生成等需要多步决策的 LLM 训练场景，对从事 RLHF、推理增强的研究者和工程师有参考价值。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "fine-tuning",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:20.425976+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-16-009",
+  "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "summary": "Google 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking，属于 Gemini 3.8 系列的实时交互与深度推理双版本。前者面向低延迟多模态对话场景，后者通过 Extended Thinking 机制在响应前进行更长的内部推理链，以提升复杂任务的准确率。核心技术亮点在于将实时流式交互与可扩展推理预算结合，让开发者按任务复杂度动态切换模型行为。适用场景包括实时语音/视频助手、复杂代码生成、多步 agent 规划与需要高可靠性的 reasoning 任务。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "multimodal",
+    "ai-assistant",
+    "agent"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:14.798671+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

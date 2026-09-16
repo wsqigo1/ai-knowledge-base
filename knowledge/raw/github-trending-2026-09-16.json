@@ -1,0 +1,501 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-16T02:16:33.289901+00:00",
+  "date": "2026-09-16",
+  "count": 18,
+  "items": [
+    {
+      "title": "kruzovic7/ai-data-extractor",
+      "source": "github-trending",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stars": 822,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-data-extraction",
+        "claude-code",
+        "cursor"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-11T18:20:56Z",
+      "summary": "kruzovic7/ai-data-extractor 是一款免费开源的 AI 编程助手对话历史提取工具，支持 Claude Code、Cursor、Windsurf、Aider、Cline/Roo Code 等主流 AI coding assistant。它解决了开发者在使用多个 AI 编程工具时，聊天记录分散、格式各异、难以统一导出与二次利用的痛点。核心技术亮点在于针对不同工具的本地存储格式（如 JSON、SQLite、日志文件）做适配解析，统一抽取为结构化数据，便于后续分析、微调数据集构建或归档。适用场景包括：构建代码生成模型的 fine-tuning 数据集、分析个人 prompt 使用习惯、跨工具迁移对话历史，以及团队内部 AI 辅助编码行为的审计与复盘。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "ai-assistant",
+        "fine-tuning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-16T02:16:35.674821+00:00"
+    },
+    {
+      "title": "ai-sucks-butt/ai-sucks-butt",
+      "source": "github-trending",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "description": "If you think AI sucks, star the repo.",
+      "stars": 812,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-14T04:16:21Z",
+      "summary": "ai-sucks-butt 是一个 GitHub 上的讽刺性仓库，其唯一功能是让对 AI 持负面态度的开发者通过 star 表达立场，描述直白地写着「If you think AI sucks, star the repo」。它并不解决任何技术问题，也没有代码实现或工具链，本质上是一个情绪宣泄型 meme 项目，核心技术亮点为零。适用场景仅限于社区调侃、表达对当前 AI 炒作的反感，或作为观察开发者情绪风向的趣味指标。对 AI 工程师而言，该仓库没有工程参考价值，但可作为社区舆论的轻量样本。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-09-16T02:16:37.527241+00:00"
+    },
+    {
+      "title": "eternityspring/reelbench-skills",
+      "source": "github-trending",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "stars": 695,
+      "language": "HTML",
+      "topics": [
+        "ai-video",
+        "claude-skills",
+        "ffmpeg",
+        "shot-analysis",
+        "video-analysis"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-14T00:51:09Z",
+      "summary": "reelbench-skills 是一个面向 AI 视频处理的开源技能库，以 HTML 为主要载体，提供学习笔记与可复用的工具技能。它针对 AI 视频分析流程中缺乏标准化操作指引的问题，将 ffmpeg 视频处理、shot-analysis 镜头分析与 video-analysis 视频分析等能力封装为 Claude Skills 形式的可调用技能。核心技术亮点在于把视频处理工具链与 LLM agent 的 tool-use 机制结合，让 AI 助手能直接执行镜头切分、视频解析等任务。适用于需要自动化视频内容分析、AI 视频剪辑辅助或构建视频理解 agent 的开发者与研究者。",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "claude-skills",
+        "video-analysis",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-16T02:16:39.323536+00:00"
+    },
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "source": "github-trending",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "stars": 688,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-14T06:12:48Z",
+      "summary": "Awesome-Astra-Embodied-AI 是一个围绕 GPT-6 Astra 构建的具身智能（embodied AI）与机器人方向的开源资源合集，汇集论文、模型、数据集、仿真环境与工具链。它解决的是具身智能领域资料分散、缺乏统一入口的问题，帮助研究者快速定位从感知、规划到控制的完整技术栈。核心亮点在于以 Astra 多模态大模型为中枢，串联视觉-语言-动作（VLA）范式与机器人策略学习，覆盖 sim-to-real 迁移等关键环节。适用场景包括机器人操作、导航、人形控制及多模态 agent 研究。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "open-source",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-16T02:16:41.188305+00:00"
+    },
+    {
+      "title": "unstablebuild/rune",
+      "source": "github-trending",
+      "url": "https://github.com/unstablebuild/rune",
+      "description": "the development environment for pros",
+      "stars": 634,
+      "language": "Go",
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "cli",
+        "coding-agents",
+        "developer-tool",
+        "devtools",
+        "go",
+        "golang",
+        "ide",
+        "rune",
+        "terminal-multiplexer",
+        "text-editor",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-15T23:58:06Z",
+      "summary": "Rune 是一个用 Go 编写的开发环境工具，定位为面向专业开发者的 CLI 环境，核心聚焦于 agent-orchestration 与 coding-agents。它试图解决多编码代理协同、任务编排与本地开发工作流割裂的问题，通过命令行统一调度 AI 编码代理。技术亮点在于以 Go 实现的高性能 CLI、面向 agent 编排的抽象层，以及对 developer-tool 场景的深度整合。适用场景包括需要多代理协作完成代码生成、重构、测试的工程团队，以及希望将 AI 编码代理嵌入日常终端工作流的开发者。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-16T02:16:43.187594+00:00"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS",
+      "source": "github-trending",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "stars": 598,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-12T19:17:57Z",
+      "summary": "AgentVerse-OS 是一个面向开发者及其 AI agents 的个人云操作系统，部署在单台 Ubuntu 服务器上，一条命令即可完成安装。它解决了开发者需要同时管理多个 AI 编码工具（Claude Code、Codex）与开发环境时缺乏统一隔离平台的问题。核心亮点包括：Rust 编写的核心引擎、Svelte 前端、浏览器内窗口化桌面、隔离工作区内置 VS Code、944 个自托管应用商店、备份与更新机制，并通过 Tailscale 实现零公网暴露的安全访问。适用场景为个人开发者或小团队希望以私有化方式集中运行 AI agent 与开发工具链。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-16T02:16:45.046664+00:00"
+    },
+    {
+      "title": "yi1108/printfilm",
+      "source": "github-trending",
+      "url": "https://github.com/yi1108/printfilm",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "stars": 479,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-10T02:18:36Z",
+      "summary": "PRINTFILM 是一个基于 Python 的 AI 科普视频与漫剧创作平台，面向内容创作者提供从脚本生成到视频合成的自动化工作流。它解决的是传统视频制作中脚本撰写、分镜设计、配音与画面生成环节割裂、门槛高的问题。核心技术亮点在于将 large-language-model 驱动的脚本生成与 multimodal 图像/视频生成能力串联为统一 pipeline，支持漫剧风格化输出。适用场景包括科普短视频批量生产、漫画短剧创作、教育内容自动化生成，以及个人创作者的低成本视频制作。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-16T02:16:46.657606+00:00"
+    },
+    {
+      "title": "youngyangyang04/llm-master",
+      "source": "github-trending",
+      "url": "https://github.com/youngyangyang04/llm-master",
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "stars": 459,
+      "language": null,
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "llm-learning",
+        "llm-tutorial",
+        "rag"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-13T08:32:08Z",
+      "summary": "llm-master 是一个面向中文开发者的大模型全栈学习路线与教程仓库，系统梳理了从 Transformer 基础到生产落地的完整知识体系。它解决了 LLM 学习路径碎片化、中文资料零散的问题，核心亮点在于覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署及 AI 编程等关键环节，并整合大厂面试内容。适合希望系统入门 LLM 全栈、准备相关岗位面试或从传统开发转向 AI 工程的开发者按图索骥地学习。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "rag",
+        "prompt-engineering",
+        "fine-tuning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-16T02:16:48.448221+00:00"
+    },
+    {
+      "title": "viettranx/3dviz-pro-max",
+      "source": "github-trending",
+      "url": "https://github.com/viettranx/3dviz-pro-max",
+      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "stars": 403,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "agent-skill",
+        "blender",
+        "claude-code",
+        "codex",
+        "gltf",
+        "threejs",
+        "visualization"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-11T01:01:12Z",
+      "summary": "viettranx/3dviz-pro-max 是一个面向 Claude Code 与 Codex 的 Agent Skill 插件，将自然语言创意想法转化为可探索的 Three.js/Blender 3D 场景。它解决的是 AI 编码助手在 3D 可视化任务中缺乏领域知识与可复用资产的问题，通过内置 223 条 recipes、440 条 knowledge records、22 个 proved kits 和 37 个 runnable studies 构建结构化知识库。核心技术亮点在于将 agent skill 机制与 3D 创作流程结合，让 LLM 能按配方调用 Three.js/Blender 能力，而非从零生成代码。适用场景包括快速原型 3D 场景、教学演示、创意可视化探索，以及为 AI 工程师提供可复用的 3D 生成工作流。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-16T02:16:50.122083+00:00"
+    },
+    {
+      "title": "Qiuner/birdview",
+      "source": "github-trending",
+      "url": "https://github.com/Qiuner/birdview",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "stars": 286,
+      "language": "JavaScript",
+      "topics": [
+        "agent-tools",
+        "ai-workflow",
+        "architecture-as-code",
+        "code-visualization",
+        "coding-agents",
+        "developer-tools",
+        "diagram-as-code",
+        "software-architecture"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-15T03:32:52Z",
+      "summary": "Birdview 是一款面向 AI 编码代理的架构可视化工具，核心思路是在每次代码变更前先构建项目架构地图，让 AI 不再「盲写代码」。它通过解析代码库生成结构化的架构视图（architecture-as-code），为 coding agent 提供上下文感知能力，减少跨文件修改时的错误与幻觉。项目以 JavaScript 实现，定位为 agent-tools 与 ai-workflow 环节中的前置步骤，适用于使用 Claude Code、Cursor 等编码代理进行中大型项目重构、多文件改动或新成员快速理解代码库的场景。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-16T02:16:51.822172+00:00"
+    },
+    {
+      "title": "groundboxerrespect/Dlls5-auto",
+      "source": "github-trending",
+      "url": "https://github.com/groundboxerrespect/Dlls5-auto",
+      "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
+      "stars": 244,
+      "language": "Python",
+      "topics": [
+        "dlls",
+        "dlls-5",
+        "dlls-enabler",
+        "dlls-neural-rendering",
+        "dlls-swapper",
+        "dlls5",
+        "dlls5-menu",
+        "dllsideloading",
+        "nvidia-dlss-5",
+        "optiscaler"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-12T15:04:01Z",
+      "summary": "groundboxerrespect/Dlls5-auto 是一个自托管的神经渲染与 AI 图像增强服务，灵感来自 NVIDIA DLSS 5，旨在将普通照片、截图或游戏画面转化为具有电影质感的写实渲染图。项目通过 Python + FastAPI 构建 REST API，支持批量处理，并集成 bloom、filmic tone mapping 及 6 种风格预设，Docker 化部署降低了使用门槛。其核心亮点在于将神经渲染管线封装为可自托管的开源服务，适合游戏截图增强、内容创作及需要本地化图像美化 API 的开发者场景。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-16T02:16:53.680982+00:00"
+    },
+    {
+      "title": "yjz211/vivid-figures-skill",
+      "source": "github-trending",
+      "url": "https://github.com/yjz211/vivid-figures-skill",
+      "description": "让 AI 用你的数据生成科研图表：108 个配方，鲜艳与稳重两种风格，多套配色，交付图片与源码。仅限个人非商业使用。",
+      "stars": 240,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-15T15:36:04Z",
+      "summary": "vivid-figures-skill 是一个面向科研场景的 AI 图表生成技能包，通过 108 个预设配方（recipe）让 LLM 或 AI Agent 直接基于用户数据产出可直接用于论文的科研图表。它解决了科研人员反复手写 matplotlib/绘图代码、配色不专业、风格不统一的问题，核心亮点在于将图表类型、配色方案、视觉风格（鲜艳/稳重）封装为可被 AI 调用的结构化配方，并同时交付图片与可复现源码。项目以 HTML 为主要载体，240 stars，适合需要批量出图、追求出版级视觉规范的科研工作者与 AI 辅助写作流程集成。",
+      "tags": [
+        "tool-use",
+        "code-generation",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-16T02:16:55.562734+00:00"
+    },
+    {
+      "title": "yudaprasetya007/routeVSCODE",
+      "source": "github-trending",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "stars": 239,
+      "language": "JavaScript",
+      "topics": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "deepseek",
+        "local-proxy",
+        "model-switcher",
+        "vscode",
+        "vscode-extension"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-10T01:25:05Z",
+      "summary": "routeVSCODE 是一个基于 9Router 构建的 VSCode Copilot Chat 动态 AI 模型切换器与本地代理工具。它解决了开发者在 VSCode 中无法灵活切换底层 AI 模型（如 ChatGPT、Claude）的痛点，通过零重载（zero-reload）机制实现模型热切换。核心技术亮点在于本地代理架构与 9Router 路由层，能够在不重启编辑器的情况下动态路由请求至不同模型提供商。适用场景包括需要多模型对比调试的开发者、希望统一管理 AI 编码助手的团队，以及需要本地代理保障隐私的 Copilot Chat 用户。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-16T02:16:57.436702+00:00"
+    },
+    {
+      "title": "AetherLabsAI/RSIAgent",
+      "source": "github-trending",
+      "url": "https://github.com/AetherLabsAI/RSIAgent",
+      "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+      "stars": 198,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-16T01:01:57Z",
+      "summary": "RSIAgent 是一个免训练的多智能体框架，旨在让智能体在新环境中通过递归自我改进实现能力提升。它解决的核心问题是智能体面对陌生任务时缺乏自主探索与经验积累能力，传统方法依赖微调或人工设计。其技术亮点在于采用先广后深的自主探索策略，结合可复用记忆机制，无需额外训练即可实现跨环境适应。该框架适用于需要快速部署、动态适应新场景的自动化任务，如机器人控制、复杂工作流编排和开放域问题求解。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "reasoning",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-16T02:16:59.172781+00:00"
+    },
+    {
+      "title": "agent-launch/agent-launcher",
+      "source": "github-trending",
+      "url": "https://github.com/agent-launch/agent-launcher",
+      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+      "stars": 181,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "codex",
+        "cross-platform",
+        "desktop-app",
+        "developer-tools",
+        "electron",
+        "gemini-cli",
+        "macos"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-10T22:21:23Z",
+      "summary": "agent-launcher 是一个基于 TypeScript 的跨平台桌面应用，用于统一配置和运行现有的 coding-agent CLI 工具（如 Claude Code、Codex 等）。它解决的核心问题是：当前各类 coding agent 以独立 CLI 形式存在，开发者需要在不同终端、不同配置间频繁切换，缺乏统一入口。该工具通过桌面 GUI 封装多个 agent CLI，提供集中化的配置管理与启动能力，降低多 agent 并行使用的操作成本。适用场景包括：需要同时使用多个 coding agent 进行代码生成与调试的开发者、希望快速对比不同 agent 输出质量的研究人员，以及偏好图形界面而非纯命令行的工程团队。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-16T02:17:00.876149+00:00"
+    },
+    {
+      "title": "Matthew0822/ToolReplay",
+      "source": "github-trending",
+      "url": "https://github.com/Matthew0822/ToolReplay",
+      "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+      "stars": 170,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "audit",
+        "cli",
+        "determinism",
+        "hash-chain",
+        "jsonl",
+        "permissions",
+        "python",
+        "replay",
+        "scope",
+        "security",
+        "tool-call"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-14T12:09:08Z",
+      "summary": "ToolReplay 是一个零依赖的 Python CLI 工具，用于审计 AI agent 的工具调用记录（tool-call transcripts）。它解决 agent 执行过程不可追溯、难以复现和权限越界的问题：通过 hash-chain 对调用链进行密封，确保记录防篡改；支持确定性重放（deterministic replay），可在相同输入下复现 agent 行为；并提供 scope overreach 检查，识别工具调用是否超出授权范围。核心亮点是无需外部依赖、纯 Python 实现，适合在 CI 或本地对 agent 执行日志做合规审计与调试。适用于多 agent 系统、tool-use 流程的可观测性与安全审计场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-16T02:17:02.679740+00:00"
+    },
+    {
+      "title": "pliablepixels/gap-trap",
+      "source": "github-trending",
+      "url": "https://github.com/pliablepixels/gap-trap",
+      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "stars": 147,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "agentic-coding",
+        "agents-md",
+        "ai-agents",
+        "ai-coding",
+        "ci-cd",
+        "claude-code",
+        "claude-skills",
+        "code-quality",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "github-actions",
+        "llm",
+        "mutation-testing",
+        "quality-gates",
+        "tdd",
+        "testing",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-15T11:01:30Z",
+      "summary": "gap-trap 是一个面向 AI 编码工作流的开源工具，通过在代码仓库中配置规则与质量门禁（gates），让 AI 生成的代码在无需逐行人工审查的情况下保持正确性。它针对 vibe coding 模式下代码质量不可控、review 成本高的痛点，将 agent-skills、AGENTS.md 等约定固化为可执行的检查机制，形成自动化质量约束层。核心亮点在于把 AI 编码的信任问题转化为仓库级的规则工程，而非依赖模型自身可靠性。适用于使用 AI agent 进行日常开发、希望规模化落地 AI 编码又需控制风险的工程团队。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-16T02:17:04.565046+00:00"
+    },
+    {
+      "title": "0xjohnnydev/airlift",
+      "source": "github-trending",
+      "url": "https://github.com/0xjohnnydev/airlift",
+      "description": "AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0",
+      "stars": 146,
+      "language": "Objective-C",
+      "topics": [],
+      "collected_at": "2026-09-16T02:16:31.147670+00:00",
+      "published_at": "2026-09-15T12:59:27Z",
+      "summary": "AirLift 是一个针对 iOS 27.0 的配对 Mac 沙箱逃逸工具，利用 AirTraffic 与 ATAirlock 两个系统服务之间的信任关系实现越狱式逃逸。它解决的是在最新 iOS 版本中，攻击者或安全研究者如何突破应用沙箱限制、获取更高权限的问题。核心技术亮点在于通过配对 Mac 作为可信中继，滥用 AirTraffic 的文件传输通道与 ATAirlock 的访问控制逻辑，绕过沙箱隔离机制。该项目以 Objective-C 实现，属于 iOS 安全研究领域的底层漏洞利用工具，适用于越狱开发、移动安全评估、漏洞挖掘及 iOS 系统安全机制研究等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security-research",
+        "ios-exploit",
+        "sandbox-escape"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-16T02:17:06.501847+00:00"
+    }
+  ]
+}

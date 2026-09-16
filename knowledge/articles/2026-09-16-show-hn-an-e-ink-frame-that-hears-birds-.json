@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-16-007",
+  "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+  "source": "hackernews-top",
+  "url": "https://github.com/arnegiacomo/fugleramme",
+  "summary": "该项目是一个电子墨水屏相框，通过麦克风实时监听鸟鸣声，利用音频识别模型判断鸟的种类，再调用图像生成模型将其绘制成19世纪博物学插画风格并显示在屏幕上。核心亮点在于将边缘端音频事件检测、鸟类分类模型与生成式AI图像管线整合到低功耗e-ink硬件中，实现环境感知与艺术化输出的闭环。技术上涉及音频信号处理、物种识别、风格迁移或文生图prompt控制，以及嵌入式部署优化。适用于智能家居装饰、自然观察辅助、儿童科普教育等场景，对探索多模态感知与生成式AI在嵌入式设备上的落地具有参考价值。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:09.817183+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

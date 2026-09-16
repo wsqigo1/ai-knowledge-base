@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-16-010",
+  "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+  "source": "hackernews-top",
+  "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+  "summary": "该条目披露了安全研究者仅用25分钟便获取了AI推理平台Baseten生产环境GitHub管理员权限的攻击过程，属于真实世界漏洞披露与红队渗透案例。它解决的核心问题是揭示AI基础设施供应商在供应链安全、CI/CD权限配置及内部仓库访问控制上的薄弱环节，为安全团队提供可复现的攻击路径参考。技术亮点在于利用GitHub组织级配置缺陷、OAuth令牌滥用或第三方集成信任链实现权限提升，而非依赖0day。适用场景包括AI平台安全审计、DevSecOps流程加固、红队演练以及MLOps供应链风险评估。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:16.818007+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-16-020",
+  "title": "The CSS Zen Garden dream, finally shipped",
+  "source": "hackernews-top",
+  "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+  "summary": "该项目将经典的 CSS Zen Garden 理念（同一 HTML 结构通过替换 CSS 实现完全不同的视觉设计）真正落地为可运行的工具。它解决了前端开发中样式与结构解耦的验证难题，让开发者能直观测试 CSS 的独立表现力。核心技术亮点在于构建了一套自动化替换与预览机制，可能涉及 CSS 作用域隔离、动态注入和实时渲染对比。适用场景包括 CSS 教学演示、设计系统主题切换验证，以及前端架构中样式层与结构层分离的工程实践。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-16T02:16:31.431677+00:00",
+  "analyzed_at": "2026-09-16T02:17:42.825782+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}

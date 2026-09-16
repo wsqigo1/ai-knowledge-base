@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-16-003",
+  "title": "AetherLabsAI/RSIAgent",
+  "source": "github-trending",
+  "url": "https://github.com/AetherLabsAI/RSIAgent",
+  "summary": "RSIAgent 是一个免训练的多智能体框架，旨在让智能体在新环境中通过递归自我改进实现能力提升。它解决的核心问题是智能体面对陌生任务时缺乏自主探索与经验积累能力，传统方法依赖微调或人工设计。其技术亮点在于采用先广后深的自主探索策略，结合可复用记忆机制，无需额外训练即可实现跨环境适应。该框架适用于需要快速部署、动态适应新场景的自动化任务，如机器人控制、复杂工作流编排和开放域问题求解。",
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-16T02:16:31.147670+00:00",
+  "analyzed_at": "2026-09-16T02:16:59.172781+00:00",
+  "organized_at": "2026-09-16T02:17:42.892686+00:00",
+  "status": "published"
+}
