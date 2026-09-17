@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-002",
+  "title": "mpociot/claude-siri-ai",
+  "source": "github-trending",
+  "url": "https://github.com/mpociot/claude-siri-ai",
+  "summary": "mpociot/claude-siri-ai 是一个实验性 macOS 27 App Intents 模型委派提供器（model delegation provider），通过 Claude Code 为 Siri 提供后端推理能力。它解决的核心问题是：Apple 原生 Siri 在复杂推理与代码生成任务上能力有限，而开发者希望在不离开系统生态的前提下调用 Claude 的强模型。技术亮点在于利用 macOS 27 新增的 App Intents 框架实现模型委派，将 Siri 的语音/系统级入口与 Claude Code 的 agentic 能力打通，属于系统级 AI 集成探索。适用场景包括 macOS 开发者在 Siri 中触发代码辅助、自动化脚本生成，以及研究 Apple 生态与第三方 LLM 集成的可行性验证。",
+  "tags": [
+    "ai-assistant",
+    "agent",
+    "developer-tools",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-17T02:20:46.149631+00:00",
+  "analyzed_at": "2026-09-17T02:21:09.065963+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

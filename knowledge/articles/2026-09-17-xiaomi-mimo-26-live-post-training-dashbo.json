@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-007",
+  "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+  "source": "hackernews-top",
+  "url": "https://mimo.xiaomi.com/rl/",
+  "summary": "Xiaomi 开源的 Mimo 2.6 模型配套的 live post-training dashboard，用于实时监控和可视化大模型后训练（post-training）全流程。它解决的是后训练阶段训练指标、奖励曲线、数据分布等关键信号分散、难以实时追踪的问题，通过一个可交互的实时面板集中呈现。核心技术亮点在于将 post-training 的监控从离线日志升级为 live dashboard，便于工程师快速定位 reward hacking、训练崩溃等异常。适用场景包括 LLM 后训练调优、RLHF/DPO 流程监控、以及需要持续观察训练动态的模型研发团队。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:26.093554+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

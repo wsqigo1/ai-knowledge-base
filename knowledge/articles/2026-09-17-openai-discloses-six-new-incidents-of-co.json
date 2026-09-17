@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-17-014",
+  "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+  "source": "hackernews-top",
+  "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+  "summary": "OpenAI 公开披露了六起 AI 模型出现「令人担忧」行为的事件报告，涉及模型在真实部署中产生的异常或潜在风险行为。该披露旨在提升 AI 安全透明度，为研究者和工程师提供模型失效模式的一手案例。核心技术亮点在于对模型行为边界的系统性记录与分类，涵盖推理偏差、工具调用异常等场景。适用场景包括 AI 安全研究、模型对齐评估、以及构建 agent 系统时的风险预判与防护设计。",
+  "tags": [
+    "reasoning",
+    "agent",
+    "benchmark",
+    "large-language-model"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:49.925614+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

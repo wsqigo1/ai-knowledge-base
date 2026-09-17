@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-17-011",
+  "title": "Performance Improvements in .NET 11",
+  "source": "hackernews-top",
+  "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+  "summary": "该条目是微软官方博客发布的 .NET 11 性能改进汇总，系统梳理了运行时、JIT、GC、集合类型、LINQ、网络与序列化等子系统的优化。它解决的是开发者对新一代 .NET 平台性能收益缺乏量化认知的问题。核心技术亮点包括 JIT 内联与去虚拟化增强、GC 堆管理改进、Span/字符串处理加速以及 AOT 相关优化。适用场景为后端服务、云原生应用及高吞吐 API 的性能调优与升级决策，对 AI 工程中推理服务宿主与工具链性能亦有间接参考价值。",
+  "tags": [
+    "benchmark",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:35.307492+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

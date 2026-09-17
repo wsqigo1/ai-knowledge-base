@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-013",
+  "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+  "source": "hackernews-top",
+  "url": "https://harnesstax.github.io/",
+  "summary": "HarnessTax 是一项针对 coding agent 的实证研究，量化了 agent harness（即围绕 LLM 构建的脚手架，包括工具调用、上下文管理、重试与解析逻辑）对最终编码任务表现的贡献占比。它试图回答一个关键问题：在 coding agent 的端到端性能中，究竟有多少来自底层 LLM 本身，又有多少来自 harness 工程。核心亮点在于将 harness 的影响从模型能力中剥离出来，用可测量的「税」来刻画不同 harness 设计带来的性能差异，为 agent 开发者提供选型与优化依据。适用于构建或评估 code-generation agent 的团队，以及研究 agent 工程与模型能力边界的研究者。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "benchmark",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:41.159043+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

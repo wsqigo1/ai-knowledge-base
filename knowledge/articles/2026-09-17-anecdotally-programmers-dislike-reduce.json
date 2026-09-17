@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-17-015",
+  "title": "Anecdotally, programmers dislike \"reduce\"",
+  "source": "hackernews-top",
+  "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+  "summary": "该 HN 讨论围绕函数式编程中常用的 reduce（又称 fold）操作展开，指出许多程序员在直觉上不喜欢甚至回避使用 reduce。问题在于 reduce 的抽象层级较高、参数顺序和初始值语义容易造成理解负担，导致代码可读性下降，尤其在团队协作中容易引发维护困难。讨论中涉及的核心技术点包括 reduce 与 for 循环、map/filter 的可读性对比，以及不同语言（如 JavaScript、Python、Haskell）中 reduce 的 API 设计差异。适用场景主要是日常业务代码编写、代码审查规范制定，以及函数式编程教学与团队编码风格讨论。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:52.281732+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

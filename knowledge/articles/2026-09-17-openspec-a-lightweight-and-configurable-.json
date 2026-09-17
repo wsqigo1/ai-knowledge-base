@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-010",
+  "title": "OpenSpec – A lightweight and configurable AI spec framework",
+  "source": "hackernews-top",
+  "url": "https://openspec.dev/",
+  "summary": "OpenSpec 是一个轻量级、可配置的 AI spec 框架，旨在为 LLM 应用提供结构化的规范定义与执行能力。它解决的是当前 AI 应用开发中缺乏统一 spec 标准、prompt 与工具调用逻辑散落难以维护的问题。核心技术亮点在于以声明式配置驱动 AI 行为，支持灵活组合 prompt、tool-use 与 workflow，降低框架侵入性。适用场景包括需要快速搭建可配置 AI agent、构建可复用的 LLM 工作流，以及希望以 spec 方式管理 AI 逻辑的开发者工具链。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:33.551326+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

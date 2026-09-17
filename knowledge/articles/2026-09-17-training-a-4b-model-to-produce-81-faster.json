@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-006",
+  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+  "source": "hackernews-top",
+  "url": "https://rohanbansal.com/qorl",
+  "summary": "该项目训练了一个4B参数的小型语言模型，用于生成比Postgres原生查询计划器快81%的查询执行计划。核心思路是将数据库查询优化问题转化为序列生成任务，通过fine-tuning让LLM学习查询计划的结构与代价特征，从而在推理阶段直接输出高质量计划，绕过传统基于代价模型的搜索过程。技术亮点在于用较小模型实现显著性能提升，验证了LLM在数据库内核优化中的可行性。适用场景包括数据库查询优化、SQL性能调优、以及LLM与传统系统组件的深度集成探索。",
+  "tags": [
+    "fine-tuning",
+    "large-language-model",
+    "benchmark",
+    "code-generation",
+    "developer-tools"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:24.123409+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-016",
+  "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.14858",
+  "summary": "Dream-RSI 提出一种通过演化虚拟世界实现递归自我改进（Recursive Self-Improvement）的框架，旨在解决 AI 系统在开放环境中持续提升能力而无需人工设计任务的问题。其核心思路是让模型在自动生成并不断演化的世界（Evolving Worlds）中反复训练与评估，形成「生成环境→学习→改进→再生成」的闭环，从而突破静态 benchmark 的能力上限。技术亮点包括环境生成与课程演化的耦合、自我对弈式训练信号，以及可扩展的 RSI 循环。适用场景为 autonomous agent 训练、开放-ended 学习、以及需要持续自我提升的 reasoning 系统研究。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "benchmark",
+    "open-source",
+    "multi-agent"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:54.498219+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

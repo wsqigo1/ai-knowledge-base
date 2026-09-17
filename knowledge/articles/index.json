@@ -1,7 +1,285 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2062,
+  "total_count": 2080,
   "entries": [
+    {
+      "id": "kb-2026-09-17-001",
+      "title": "modelscope/ms-cookbook",
+      "source": "github-trending",
+      "url": "https://github.com/modelscope/ms-cookbook",
+      "file": "2026-09-17-modelscopems-cookbook.json",
+      "tags": [
+        "open-source",
+        "fine-tuning",
+        "rag",
+        "agent",
+        "multimodal"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-002",
+      "title": "mpociot/claude-siri-ai",
+      "source": "github-trending",
+      "url": "https://github.com/mpociot/claude-siri-ai",
+      "file": "2026-09-17-mpociotclaude-siri-ai.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-003",
+      "title": "danielroe/airspace",
+      "source": "github-trending",
+      "url": "https://github.com/danielroe/airspace",
+      "file": "2026-09-17-danielroeairspace.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "atproto",
+        "cms",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-004",
+      "title": "LanyXiaosheng/bookflow-skill",
+      "source": "github-trending",
+      "url": "https://github.com/LanyXiaosheng/bookflow-skill",
+      "file": "2026-09-17-lanyxiaoshengbookflow-skill.json",
+      "tags": [
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source",
+        "agent"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-005",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "source": "hackernews-top",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "file": "2026-09-17-nvidia-announces-native-gpu-programming-.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-006",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "source": "hackernews-top",
+      "url": "https://rohanbansal.com/qorl",
+      "file": "2026-09-17-training-a-4b-model-to-produce-81-faster.json",
+      "tags": [
+        "fine-tuning",
+        "large-language-model",
+        "benchmark",
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-007",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "source": "hackernews-top",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "file": "2026-09-17-xiaomi-mimo-26-live-post-training-dashbo.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-008",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "file": "2026-09-17-breaking-the-158-bit-barrier-for-ternary.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-009",
+      "title": "Small programming tricks",
+      "source": "hackernews-top",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "file": "2026-09-17-small-programming-tricks.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-010",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "source": "hackernews-top",
+      "url": "https://openspec.dev/",
+      "file": "2026-09-17-openspec-a-lightweight-and-configurable-.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-011",
+      "title": "Performance Improvements in .NET 11",
+      "source": "hackernews-top",
+      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "file": "2026-09-17-performance-improvements-in-net-11.json",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-012",
+      "title": "Reversing Factorio's RNG",
+      "source": "hackernews-top",
+      "url": "https://gegell.github.io/posts/factorio-rng/",
+      "file": "2026-09-17-reversing-factorios-rng.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-013",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "source": "hackernews-top",
+      "url": "https://harnesstax.github.io/",
+      "file": "2026-09-17-harnesstax-how-much-does-the-harness-mat.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "benchmark",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-014",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "file": "2026-09-17-openai-discloses-six-new-incidents-of-co.json",
+      "tags": [
+        "reasoning",
+        "agent",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-015",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "source": "hackernews-top",
+      "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+      "file": "2026-09-17-anecdotally-programmers-dislike-reduce.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-016",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "file": "2026-09-17-dream-rsi-recursive-self-improvement-thr.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "multi-agent"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-017",
+      "title": "The DeepMind Institute",
+      "source": "hackernews-top",
+      "url": "https://institute.deepmind.com/",
+      "file": "2026-09-17-the-deepmind-institute.json",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
+    {
+      "id": "kb-2026-09-17-018",
+      "title": "Hackers Got Inside a Flock Camera",
+      "source": "hackernews-top",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "file": "2026-09-17-hackers-got-inside-a-flock-camera.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-17T02:21:58.719720+00:00"
+    },
     {
       "id": "kb-2026-09-16-001",
       "title": "youngyangyang04/llm-master",
@@ -30763,5 +31041,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-16T02:17:43.140737+00:00"
+  "last_updated": "2026-09-17T02:21:58.919475+00:00"
 }

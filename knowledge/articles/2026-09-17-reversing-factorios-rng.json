@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-17-012",
+  "title": "Reversing Factorio's RNG",
+  "source": "hackernews-top",
+  "url": "https://gegell.github.io/posts/factorio-rng/",
+  "summary": "该文章逆向分析了游戏 Factorio 的随机数生成器（RNG）实现，揭示其内部算法与种子机制。它解决了玩家和模组开发者无法精确预测或复现游戏内随机事件的问题，核心技术亮点在于通过逆向工程还原了 RNG 的底层逻辑，并可能提供可复现的随机序列。适用场景包括游戏模组开发、速通策略优化以及随机算法教学研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:37.346943+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

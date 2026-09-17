@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-17-003",
+  "title": "danielroe/airspace",
+  "source": "github-trending",
+  "url": "https://github.com/danielroe/airspace",
+  "summary": "airspace 是一个基于 AT Protocol（atproto）构建的轻量级 CMS/数据库工具，核心理念是复用开发者已有的 PDS（Personal Data Server）作为后端存储，而非引入独立数据库。它通过 Lexicon 定义数据结构，将 Bluesky 生态的去中心化数据层转化为可直接读写的内容管理后端，解决个人开发者或小团队在搭建博客、文档站时需额外维护数据库和 API 层的痛点。技术亮点在于深度绑定 atproto 的 record 模型与 OAuth 授权流，数据天然可移植、可联邦。适用场景包括个人站点、去中心化社交应用原型、以及希望以最小基础设施成本接入 Bluesky 生态的内容型产品。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "atproto",
+    "cms",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-17T02:20:46.149631+00:00",
+  "analyzed_at": "2026-09-17T02:21:16.651840+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

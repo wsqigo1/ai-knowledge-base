@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-17-005",
+  "title": "Nvidia announces native GPU programming in Rust",
+  "source": "hackernews-top",
+  "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+  "summary": "Nvidia 宣布为 Rust 提供原生 GPU 编程支持，允许开发者用 Rust 直接编写运行在 CUDA 核心上的并行计算代码。这解决了此前 Rust 生态缺乏官方 GPU 计算路径、只能依赖 C/C++ 绑定或第三方 crate 的问题。核心技术亮点在于将 Rust 的内存安全与所有权模型引入 GPU kernel 开发，减少数据竞争和越界访问等常见错误。适用场景包括高性能计算、AI 推理加速、科学仿真以及需要安全并发的 GPU 密集型应用。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:22.363264+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}

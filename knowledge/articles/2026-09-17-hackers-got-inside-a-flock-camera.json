@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-17-018",
+  "title": "Hackers Got Inside a Flock Camera",
+  "source": "hackernews-top",
+  "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+  "summary": "该条目报道了安全研究人员成功入侵 Flock 车牌识别摄像头系统的案例。Flock 摄像头是一种广泛应用于美国社区和执法机构的 AI 驱动车辆监控设备，通过自动车牌识别（ALPR）技术实时追踪车辆行踪。此次事件揭示了此类 AI 监控设备在固件、网络通信和身份认证方面存在的安全漏洞，攻击者可借此获取摄像头控制权、访问实时视频流及车牌数据库。核心技术问题涉及 IoT 设备安全、AI 视觉系统的对抗性攻击面以及大规模监控基础设施的隐私风险。适用场景包括 AI 安全研究、IoT 设备渗透测试、监控系统合规审计以及隐私保护技术评估。",
+  "tags": [
+    "multimodal",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-17T02:20:46.335598+00:00",
+  "analyzed_at": "2026-09-17T02:21:58.644706+00:00",
+  "organized_at": "2026-09-17T02:21:58.719720+00:00",
+  "status": "published"
+}
