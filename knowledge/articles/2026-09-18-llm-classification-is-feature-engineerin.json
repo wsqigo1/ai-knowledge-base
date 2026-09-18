@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-18-021",
+  "title": "LLM Classification Is Feature Engineering",
+  "source": "hackernews-top",
+  "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+  "summary": "该文章将 LLM 分类任务重新定义为特征工程问题，主张通过精心设计的 prompt 特征而非微调来提升分类效果。核心观点是：LLM 对文本分类的表现高度依赖输入特征的构造方式，包括标签描述、示例选择、输出格式约束等，本质上与传统机器学习中的特征工程逻辑一致。技术亮点在于提出了一套系统化的 prompt 特征设计方法论，将分类准确率的提升归因于特征质量而非模型能力。适用场景包括文本分类、情感分析、意图识别等需要高精度标签预测的工程任务，尤其适合无法进行 fine-tuning 的闭源模型场景。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:32.403754+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

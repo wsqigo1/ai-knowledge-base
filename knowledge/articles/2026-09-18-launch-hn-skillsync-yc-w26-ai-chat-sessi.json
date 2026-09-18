@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-019",
+  "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=49743049",
+  "summary": "Skillsync 是 YC W26 孵化的开源项目，旨在让 AI 聊天会话（chat sessions）在不同 agent 之间可移植。它解决的核心问题是：当前用户与 ChatGPT、Claude、Cursor 等不同 AI 工具产生的对话上下文彼此隔离，切换 agent 时需重新建立上下文，效率低下。其技术亮点在于定义了一套会话导出/导入的标准化格式，并可能通过 MCP 或类似协议实现跨 agent 的上下文迁移，使 agent 能继承历史对话中的技能与偏好。适用场景包括多 agent 协作开发、跨平台 AI 辅助工作流，以及需要长期记忆延续的复杂任务。",
+  "tags": [
+    "multi-agent",
+    "mcp",
+    "developer-tools",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:29.104067+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

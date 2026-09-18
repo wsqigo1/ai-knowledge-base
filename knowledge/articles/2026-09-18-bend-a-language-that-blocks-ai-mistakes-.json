@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-011",
+  "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+  "source": "hackernews-top",
+  "url": "https://bend-lang.com/",
+  "summary": "Bend 是一门面向 CPU 与 GPU 的并行编程语言，通过类型系统与形式化证明机制在编译期拦截 AI 生成代码中的逻辑错误与不安全操作。它解决的核心问题是：LLM 生成代码速度快但正确性难以保证，传统测试覆盖不足，而 Bend 将证明义务嵌入语言层，使 AI 产出的程序在运行前即被验证。技术亮点包括基于交互组合子（interaction combinators）的自动并行化、无需显式线程管理的 GPU 卸载，以及可证明终止与内存安全的类型系统。适用场景为 AI 辅助的高性能计算、并行算法开发及对正确性要求严苛的 GPU 加速任务。",
+  "tags": [
+    "code-generation",
+    "open-source",
+    "developer-tools",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:02.501729+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

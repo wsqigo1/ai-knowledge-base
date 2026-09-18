@@ -1,0 +1,481 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-18T02:06:23.907251+00:00",
+  "date": "2026-09-18",
+  "count": 18,
+  "items": [
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "source": "github-trending",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "stars": 825,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T02:24:27Z",
+      "summary": "Awesome-Astra-Embodied-AI 是一个围绕 GPT-6 Astra 在具身智能（embodied AI）与机器人领域应用的开源资源合集，以 GitHub 仓库形式维护。它解决的核心问题是：具身智能研究者与机器人工程师缺乏一个系统化追踪 Astra 模型在感知、规划、控制、仿真到真机部署全链路应用与工具链的入口。技术亮点在于聚合了多模态感知、任务规划、sim-to-real 迁移、机器人操作与导航等方向的论文、代码与基准，并可能涵盖 agent 与 tool-use 在物理世界中的落地范式。适用场景包括机器人学习研究、具身 agent 开发、多模态模型在真实环境中的评测与工程化落地。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-18T02:06:26.203184+00:00"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS",
+      "source": "github-trending",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "stars": 751,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-12T19:17:57Z",
+      "summary": "AgentVerse-OS 是一个面向开发者及其 AI agents 的个人云操作系统，部署在单台服务器上。它解决的核心问题是：开发者需要同时管理多个 AI 编码工具（Claude Code、Codex 等）和自托管应用，却缺乏统一、安全、隔离的运行环境。技术亮点包括：Rust 核心提供高性能与安全性，Svelte 构建浏览器端窗口化桌面，通过 Tailscale 实现零公网暴露的私有访问，内置 944 个自托管应用商店，支持隔离工作区与一键备份更新。适用场景为：个人开发者或小团队在私有服务器上搭建 AI 驱动的开发环境，统一调度多个 coding agents 并保障数据安全。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-18T02:06:28.475146+00:00"
+    },
+    {
+      "title": "youngyangyang04/llm-master",
+      "source": "github-trending",
+      "url": "https://github.com/youngyangyang04/llm-master",
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "stars": 688,
+      "language": null,
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "llm-learning",
+        "llm-tutorial",
+        "rag"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-13T08:32:08Z",
+      "summary": "llm-master 是一份面向中文开发者的 LLM 全栈学习路线与教程合集，系统梳理了从 Transformer 基础到生产落地的完整知识体系。它解决了中文社区 LLM 学习资料碎片化、缺乏体系化路径的问题，核心亮点在于覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署及 AI 编程等关键环节，并整合大厂面试内容。适合希望系统入门或进阶 LLM 工程能力的开发者、求职者及团队培训使用。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "prompt-engineering",
+        "fine-tuning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-18T02:06:29.745397+00:00"
+    },
+    {
+      "title": "shinthink/blitzstrike",
+      "source": "github-trending",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "stars": 634,
+      "language": "TypeScript",
+      "topics": [
+        "active-directory",
+        "blue-team",
+        "bug-bounty",
+        "cve",
+        "defensive-security",
+        "exploit",
+        "mcp",
+        "mcp-server",
+        "nuclei",
+        "offensive-security",
+        "payloads",
+        "pentest",
+        "reconnaissance",
+        "red-team",
+        "reverse-engineering",
+        "security",
+        "security-tools",
+        "vulnerability-scanning",
+        "wordpress"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T12:53:33Z",
+      "summary": "Blitz Strike 是一个基于 MCP（Model Context Protocol）的通用渗透测试工具带，将结构化安全方法论封装为可供 AI agent 调用的统一服务器。它解决的核心问题是：安全测试流程碎片化、工具链分散、agent 难以标准化执行侦察与攻击验证。技术亮点包括侦察与攻击面测绘、source-to-sink 分析、实时验证三大阶段，内置 57 条 escalation chains、130 个工具目录及情报数据层，单一服务器即可对接任意 agent。适用于 bug bounty、红队/蓝队对抗、Active Directory 渗透及 CVE 验证等场景，尤其适合将 LLM agent 接入自动化安全测试工作流。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-09-18T02:06:31.803336+00:00"
+    },
+    {
+      "title": "jarrodwatts/jev-trader",
+      "source": "github-trending",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "stars": 530,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T02:48:22Z",
+      "summary": "jev-trader 是一个基于 Monad 区块链的 AI 自动交易代理，每个 Monad 区块执行一次 AI 交易决策，在 Kuru 去中心化交易所上进行 MON-USDC 交易对的自动化操作。该项目解决了链上高频交易中人工决策延迟高、策略执行不及时的问题，通过将 LLM 推理嵌入区块级交易循环实现全自动交易。核心技术亮点在于将 AI 决策与区块链出块节奏对齐，利用 TypeScript 构建，结合链上数据实时驱动交易逻辑。适用场景包括 DeFi 自动化做市、链上量化策略实验以及 AI agent 与区块链交互的研究与开发。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-18T02:06:33.991353+00:00"
+    },
+    {
+      "title": "korcarc/text-humanizer",
+      "source": "github-trending",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "stars": 394,
+      "language": "Python",
+      "topics": [
+        "ai-humanization",
+        "gptzero",
+        "gptzero-bypass",
+        "text-humanizer",
+        "turnitin",
+        "turnitin-bypass"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-16T13:36:23Z",
+      "summary": "text-humanizer 是一个基于 Python 的开源工具，旨在将 AI 生成的文本改写为更接近人类写作风格的版本，从而绕过 Turnitin、GPTZero 等主流 AI 文本检测器。其核心技术在于对 LLM 输出进行风格扰动与语义保持的文本重写，降低检测模型对困惑度（perplexity）和突发性（burstiness）等统计特征的识别率。该项目适用于需要提交 AI 辅助写作内容但面临检测审查的场景，如学术写作、内容创作与 SEO 文案。当前 394 stars，属于早期项目，技术方案透明度与鲁棒性仍需进一步验证。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-18T02:06:35.693862+00:00"
+    },
+    {
+      "title": "Qiuner/birdview",
+      "source": "github-trending",
+      "url": "https://github.com/Qiuner/birdview",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "stars": 380,
+      "language": "JavaScript",
+      "topics": [
+        "agent-tools",
+        "ai-workflow",
+        "architecture-as-code",
+        "code-visualization",
+        "coding-agents",
+        "developer-tools",
+        "diagram-as-code",
+        "software-architecture"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-18T00:53:20Z",
+      "summary": "Birdview 是一款面向 AI 编码代理的架构可视化工具，通过将代码库结构映射为可读的架构图，让 AI 在修改代码前先理解整体设计。它解决的核心问题是 AI 编码代理在缺乏全局架构认知时进行盲改，导致破坏性变更和上下文丢失。技术亮点在于 architecture-as-code 理念，将架构信息以代码形式维护，并与 agent-tools 工作流集成，使 coding agents 在每次变更前自动获取架构上下文。适用场景包括使用 AI 代理进行大型项目重构、多文件修改以及需要保持架构一致性的持续开发流程。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-18T02:06:37.670426+00:00"
+    },
+    {
+      "title": "AetherLabsAI/RSIAgent",
+      "source": "github-trending",
+      "url": "https://github.com/AetherLabsAI/RSIAgent",
+      "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+      "stars": 309,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-16T04:05:23Z",
+      "summary": "RSIAgent 是 AetherLabsAI 推出的免训练多智能体框架，旨在让 LLM 智能体在新环境中实现递归式自我改进。它通过「先广后深」的自主探索策略，先广泛扫描环境以建立全局认知，再针对关键区域深入挖掘，并将探索所得沉淀为可复用记忆，供后续任务调用。核心亮点在于无需 fine-tuning 即可跨环境迁移，降低部署成本。适用于需要自主探索与持续进化的 agent 场景，如自动化研究、复杂任务求解和开放环境决策。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "large-language-model",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-18T02:06:39.229507+00:00"
+    },
+    {
+      "title": "Mak5er/AirCard",
+      "source": "github-trending",
+      "url": "https://github.com/Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "stars": 277,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T11:57:26Z",
+      "summary": "AirCard 是一个针对 iOS 18+ 的 Apple Wallet 卡片外观定制工具，无需越狱即可修改钱包中卡片（如登机牌、会员卡、活动门票）的视觉样式。它解决了原生 Wallet 卡片样式固定、无法个性化的问题，通过利用 iOS 18 引入的 PassKit 相关接口或系统级渲染机制，在沙盒限制下实现卡片皮肤替换。核心技术亮点在于绕过越狱依赖，以 Swift 实现轻量级注入或配置生成。适用场景包括个人用户美化 Wallet 界面、开发者研究 iOS 卡片渲染机制，以及为品牌方提供定制化卡片展示方案。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-18T02:06:41.237843+00:00"
+    },
+    {
+      "title": "groundboxerrespect/Dlls5-auto",
+      "source": "github-trending",
+      "url": "https://github.com/groundboxerrespect/Dlls5-auto",
+      "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
+      "stars": 271,
+      "language": "Python",
+      "topics": [
+        "dlls",
+        "dlls-5",
+        "dlls-enabler",
+        "dlls-neural-rendering",
+        "dlls-swapper",
+        "dlls5",
+        "dlls5-menu",
+        "dllsideloading",
+        "nvidia-dlss-5",
+        "optiscaler"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-12T15:04:01Z",
+      "summary": "groundboxerrespect/Dlls5-auto 是一个自托管的神经渲染与 AI 图像增强服务，灵感来自 NVIDIA DLSS 5。它解决的是普通照片、截图或游戏画面缺乏电影级质感的问题，通过神经渲染管线实现 bloom、filmic tone mapping 等后处理效果，并内置 6 种风格预设。技术栈为 Python + FastAPI + Docker，提供 REST API 和批量处理模式，便于集成到自动化工作流中。适合游戏玩家、内容创作者或开发者快速为图像添加影视级视觉风格，也可作为自托管图像增强后端使用。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-18T02:06:42.797714+00:00"
+    },
+    {
+      "title": "fhshaik/typesafe-mario",
+      "source": "github-trending",
+      "url": "https://github.com/fhshaik/typesafe-mario",
+      "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state.",
+      "stars": 218,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-16T04:59:33Z",
+      "summary": "fhshaik/typesafe-mario 是一个基于 TypeSafe/Jev 框架的 AI agent，能够从结构化模拟器状态中学习并游玩《超级马里奥兄弟》。该项目解决的核心问题是：如何让 agent 不依赖原始像素输入，而是通过结构化游戏状态（如马里奥坐标、敌人位置、砖块布局等）进行高效决策。技术亮点在于将强化学习或规则推理与结构化状态表示结合，降低了视觉感知的复杂度，同时利用 Jev 框架实现类型安全的 agent 行为定义。适用场景包括游戏 AI 研究、强化学习教学演示、以及作为结构化状态决策 agent 的参考实现。",
+      "tags": [
+        "agent",
+        "open-source",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-09-18T02:06:44.444169+00:00"
+    },
+    {
+      "title": "mpociot/claude-siri-ai",
+      "source": "github-trending",
+      "url": "https://github.com/mpociot/claude-siri-ai",
+      "description": "Experimental macOS 27 App Intents model delegation provider backed by Claude Code",
+      "stars": 204,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-15T05:11:18Z",
+      "summary": "mpociot/claude-siri-ai 是一个实验性 macOS 27 App Intents 模型委派提供程序，通过 Claude Code 为 Siri 提供底层大模型能力。它解决的核心问题是 Apple 原生 Siri 在复杂推理与代码任务上的能力不足，让开发者能够将 Siri 的意图请求委派给 Claude Code 处理。技术亮点在于利用 macOS 27 新增的 App Intents 模型委派机制，将 Claude Code 作为后端 provider 接入系统级语音助手，实现本地系统集成与外部 LLM 的桥接。适用场景包括在 macOS 上构建语音驱动的 AI 助手、探索 Siri 与第三方 LLM 的集成方案，以及为开发者提供系统级 AI 委派的参考实现。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:06:46.126232+00:00"
+    },
+    {
+      "title": "Matthew0822/ToolReplay",
+      "source": "github-trending",
+      "url": "https://github.com/Matthew0822/ToolReplay",
+      "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+      "stars": 179,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "audit",
+        "cli",
+        "determinism",
+        "hash-chain",
+        "jsonl",
+        "permissions",
+        "python",
+        "replay",
+        "scope",
+        "security",
+        "tool-call"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-14T12:09:08Z",
+      "summary": "ToolReplay 是一个零依赖的 Python CLI 工具，用于审计 AI agent 的工具调用记录（tool-call transcripts）。它针对 agent 在生产环境中行为不可追溯、难以复现的问题，提供三项核心能力：基于 hash-chain 的密封机制确保调用日志防篡改，确定性重放（deterministic replay）让历史工具调用可精确复现，以及 scope overreach 检查用于识别 agent 越权调用工具的行为。工具以 CLI 形式交付，无需额外依赖，便于集成到现有 agent 工作流中。适用于需要对 agent 行为做合规审计、调试异常调用链或验证工具权限边界的工程团队。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-18T02:06:47.697220+00:00"
+    },
+    {
+      "title": "0xjohnnydev/airlift",
+      "source": "github-trending",
+      "url": "https://github.com/0xjohnnydev/airlift",
+      "description": "AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0",
+      "stars": 175,
+      "language": "Objective-C",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-15T12:59:27Z",
+      "summary": "AirLift 是一个针对 iOS 27.0 的配对 Mac 设备沙箱逃逸工具，利用 AirTraffic/ATAirlock 组件中的漏洞实现越狱级权限突破。该项目解决的是 iOS 27 新版本中沙箱隔离机制对安全研究和渗透测试造成的阻碍，核心亮点在于通过配对 Mac 的信任通道绕过系统沙箱限制，属于典型的 iOS 安全研究工具。适用场景包括 iOS 安全研究、漏洞挖掘、渗透测试及越狱开发，对 AI 工程师的日常开发工作无直接关联。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-18T02:06:49.220550+00:00"
+    },
+    {
+      "title": "devagrawal09/jev-review",
+      "source": "github-trending",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "stars": 175,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "code-review",
+        "jev",
+        "typesafe-ai",
+        "typescript"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T00:29:25Z",
+      "summary": "jev-review 是一个基于 TypeSafe Jev 构建的分阶段代码审查工作流与本地仪表盘，旨在解决传统代码审查流程中步骤混乱、缺乏结构化引导的问题。其核心技术亮点在于利用 TypeScript 的类型安全特性，将 AI 辅助的代码审查拆解为多个可控阶段，并通过本地 dashboard 提供可视化交互界面。该项目将 LLM 能力与类型系统结合，确保审查提示和输出格式在编译期即可验证，减少运行时错误。适用场景包括开发团队内部代码审查流程自动化、AI 辅助的 pull request 审查，以及需要结构化审查步骤的工程实践。",
+      "tags": [
+        "code-review",
+        "developer-tools",
+        "typescript",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:06:51.124182+00:00"
+    },
+    {
+      "title": "pliablepixels/gap-trap",
+      "source": "github-trending",
+      "url": "https://github.com/pliablepixels/gap-trap",
+      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "stars": 168,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "agentic-coding",
+        "agents-md",
+        "ai-agents",
+        "ai-coding",
+        "ci-cd",
+        "claude-code",
+        "claude-skills",
+        "code-quality",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "github-actions",
+        "llm",
+        "mutation-testing",
+        "quality-gates",
+        "tdd",
+        "testing",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T23:44:28Z",
+      "summary": "gap-trap 是一个面向 AI 编码工作流的开源工具，通过在代码仓库中预设规则与质量门禁（gates），约束 AI 生成代码的正确性。它解决的核心问题是 vibe coding 模式下开发者需逐行审查 AI 代码的负担，让 AI 写出的代码在提交前自动通过校验。技术亮点在于将 agent-skills、agents-md 等约定式配置与仓库级 gate 机制结合，形成可复用的自动化质量护栏。适用场景包括使用 AI agent 进行日常开发、希望减少人工 review 成本同时保持代码质量的工程团队。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:06:52.916713+00:00"
+    },
+    {
+      "title": "Qiuner/agent-isles",
+      "source": "github-trending",
+      "url": "https://github.com/Qiuner/agent-isles",
+      "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+      "stars": 124,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-coding",
+        "deepseek",
+        "developer-tools",
+        "gamification",
+        "godot",
+        "learn-to-code",
+        "vibe-coding"
+      ],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T13:33:31Z",
+      "summary": "Qiuner/agent-isles 是一个基于 TypeScript 构建的可探索岛屿世界，旨在通过游戏化方式帮助开发者学习 AI coding 并使用 AI agents 构建真实项目。它解决的核心问题是 AI 编程学习门槛高、缺乏实践场景，通过将学习过程嵌入可交互的岛屿探索中降低入门难度。核心技术亮点在于集成 DeepSeek Harness 驱动 AI agents，结合 gamification 机制让开发者在任务中逐步掌握 agent 编排与代码生成。适用场景包括 AI 编程初学者、希望快速上手 agent 开发的工程师，以及探索 gamification 与 developer-tools 结合的教育类产品团队。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-18T02:06:55.029927+00:00"
+    },
+    {
+      "title": "zihenghe04/AIBro",
+      "source": "github-trending",
+      "url": "https://github.com/zihenghe04/AIBro",
+      "description": "AI Bro — a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
+      "stars": 122,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-18T02:06:21.145794+00:00",
+      "published_at": "2026-09-17T15:17:13Z",
+      "summary": "AIBro 是一个 local-first 的 AI 对话工作空间，将对话、来源可追溯的知识库与任务管理整合在本地运行。它解决的是云端 AI 助手数据隐私与知识碎片化问题，让用户在不依赖外部服务的前提下沉淀对话记录并建立 source-linked 知识关联。核心技术亮点在于本地优先架构与对话-知识-任务三者的联动设计，基于 JavaScript 实现，便于二次开发与浏览器端部署。适用场景包括个人知识管理、隐私敏感型团队的 AI 辅助工作流，以及需要将对话内容结构化沉淀为可检索知识的开发者。",
+      "tags": [
+        "ai-assistant",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-18T02:06:56.747614+00:00"
+    }
+  ]
+}

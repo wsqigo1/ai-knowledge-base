@@ -1,0 +1,404 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-18T02:06:23.907869+00:00",
+  "date": "2026-09-18",
+  "count": 20,
+  "items": [
+    {
+      "title": "Astra for Law",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/astra-for-law/",
+      "hn_url": "https://news.ycombinator.com/item?id=49745940",
+      "description": "",
+      "hn_score": 323,
+      "comments": 351,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Astra for Law 是一款面向法律行业的 AI 助手产品，基于大语言模型构建，旨在帮助律师和法律从业者处理合同审查、法律检索、文书起草等高重复性工作。其核心技术亮点在于将 LLM 与法律领域知识库结合，可能涉及 RAG 检索增强生成和 agent 工作流编排，以提升法律问答和文档分析的准确性。适用场景包括律所日常合规审查、企业法务合同管理和法律咨询服务自动化。该项目在 Hacker News 获得 323 分，说明开发者社区对垂直领域 AI 应用有较高关注度，但具体技术细节和开源程度尚不明确。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-18T02:06:58.685727+00:00"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "source": "hackernews-top",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=49746618",
+      "description": "",
+      "hn_score": 236,
+      "comments": 71,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Bonsai 2 27B 是一种针对大语言模型的高效压缩方案，通过量化与结构化剪枝技术，将原始 27B 参数模型压缩至约 1/9 的存储与显存占用，同时保持接近无损的推理质量。其核心亮点在于结合了低比特量化（如 4-bit 或更低）与稀疏化策略，在压缩率与精度之间取得平衡，并可能支持在消费级 GPU 或边缘设备上部署。该技术适用于需要本地化部署、资源受限场景下的 LLM 推理，如个人助手、离线代码生成或隐私敏感应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-18T02:07:00.669184+00:00"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "source": "hackernews-top",
+      "url": "https://bend-lang.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49746163",
+      "description": "",
+      "hn_score": 291,
+      "comments": 150,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Bend 是一门面向 CPU 与 GPU 的并行编程语言，通过类型系统与形式化证明机制在编译期拦截 AI 生成代码中的逻辑错误与不安全操作。它解决的核心问题是：LLM 生成代码速度快但正确性难以保证，传统测试覆盖不足，而 Bend 将证明义务嵌入语言层，使 AI 产出的程序在运行前即被验证。技术亮点包括基于交互组合子（interaction combinators）的自动并行化、无需显式线程管理的 GPU 卸载，以及可证明终止与内存安全的类型系统。适用场景为 AI 辅助的高性能计算、并行算法开发及对正确性要求严苛的 GPU 加速任务。",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-18T02:07:02.501729+00:00"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "source": "hackernews-top",
+      "url": "https://github.com/asciimoo/hister",
+      "hn_url": "https://news.ycombinator.com/item?id=49743097",
+      "description": "",
+      "hn_score": 467,
+      "comments": 136,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Hister 是一款面向个人用户的私有搜索引擎，能够索引用户访问过的网页和本地保存的文件，提供本地化、可离线使用的全文检索能力。它解决的核心问题是：浏览器历史与本地文件散落在不同工具中难以统一检索，且云端搜索服务存在隐私泄露风险。技术亮点在于完全本地运行、无需上传数据，支持对网页内容与文件进行统一索引和快速查询，可能采用轻量级索引结构与本地存储方案。适用场景包括个人知识管理、隐私敏感用户的资料检索、开发者快速查找本地文档与历史浏览记录。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "rag"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:07:04.340368+00:00"
+    },
+    {
+      "title": "Wax motor",
+      "source": "hackernews-top",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "hn_url": "https://news.ycombinator.com/item?id=49726007",
+      "description": "",
+      "hn_score": 248,
+      "comments": 48,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Wax motor 是 Hacker News 上讨论热度较高的一个硬件/机械类项目，指的是一种利用蜡的热胀冷缩特性驱动的微型电机（thermal wax actuator）。它解决的问题是在极低成本、极小体积下实现可靠的直线或旋转驱动，无需传统电磁线圈和齿轮组。核心技术亮点在于利用石蜡相变产生巨大推力，结构简单、静音、可微型化，且功耗极低。适用场景包括微型机器人、可穿戴设备、智能家居执行器、以及需要低成本批量部署的机电一体化系统。该条目与 AI/LLM 领域无直接关联，但对机器人硬件和边缘执行器设计有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-18T02:07:06.315142+00:00"
+    },
+    {
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "source": "hackernews-top",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "hn_url": "https://news.ycombinator.com/item?id=49715813",
+      "description": "",
+      "hn_score": 519,
+      "comments": 196,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Fujitsu 发布日本本土制造的下一代 CPU FUJITSU-MONAKA，定位为面向 AI 与高性能计算场景的通用处理器。该芯片旨在解决数据中心在 AI 推理与科学计算中面临的能效与算力瓶颈，同时回应日本半导体自主化需求。核心技术亮点包括采用先进制程、Arm 架构设计、针对 AI 负载优化的高带宽内存与能效比，并强调日本国内制造供应链。适用场景涵盖数据中心、AI 推理服务器、HPC 集群及边缘计算。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-18T02:07:08.161793+00:00"
+    },
+    {
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "source": "hackernews-top",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49710447",
+      "description": "",
+      "hn_score": 30,
+      "comments": 19,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "该条目报道了一项古生物学发现：此前被认为仅分布于北美洲的梁龙（Diplodocus）化石在西班牙被发现。研究通过化石形态学对比与地层年代分析，确认了梁龙属恐龙在欧洲的存在，挑战了长期以来关于梁龙地理分布仅限于美洲的学术共识。核心技术亮点在于跨大陆化石记录的对比鉴定与古地理重建，涉及系统古生物学与生物地层学方法。该发现对理解侏罗纪晚期恐龙演化与大陆漂移背景下的生物迁徙具有参考价值，适用于古生物学、地质学及演化生物学领域的研究者。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-18T02:07:10.037259+00:00"
+    },
+    {
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+      "hn_url": "https://news.ycombinator.com/item?id=49746117",
+      "description": "",
+      "hn_score": 123,
+      "comments": 117,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，主题是日本百岁及以上人口突破 10 万这一人口统计学新闻，而非 AI/LLM 技术内容。帖子本身不涉及任何模型、算法或工程实现，讨论焦点集中在日本老龄化社会、医疗进步、养老金压力及人口结构变化等社会议题。其技术价值在于可作为人口数据趋势的参考素材，可能对构建社会数据分析 pipeline 或训练领域语料时的数据来源选择有间接启发，但缺乏可复用的技术方案或工程实践。适用场景主要是社会研究、数据新闻及跨学科背景知识补充。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-18T02:07:11.737193+00:00"
+    },
+    {
+      "title": "CrowdSec Source Code Leak",
+      "source": "hackernews-top",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "hn_url": "https://news.ycombinator.com/item?id=49742355",
+      "description": "",
+      "hn_score": 129,
+      "comments": 38,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "CrowdSec 是一款开源的行为检测与协作式安全防护工具，通过分析日志和网络流量识别恶意 IP 并生成阻断规则。此次源代码泄露事件意味着攻击者可提前获知其检测逻辑、规则引擎实现及潜在漏洞，从而绕过防护或构造针对性攻击。核心技术涉及日志解析、场景规则匹配、IP 信誉共享与 remediation 组件。对安全工程师而言，该事件影响 CrowdSec 部署的防御有效性评估与应急响应策略；对 AI 工程师而言，其规则引擎与异常检测思路可借鉴至日志异常检测、agent 安全防护等场景，但与 LLM/Agent 核心技术栈关联较弱。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-18T02:07:13.598670+00:00"
+    },
+    {
+      "title": "How Uber Protects Against Retry Storms",
+      "source": "hackernews-top",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "hn_url": "https://news.ycombinator.com/item?id=49746628",
+      "description": "",
+      "hn_score": 44,
+      "comments": 23,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Uber 工程团队分享其防止重试风暴（Retry Storms）的架构实践。重试风暴指下游服务故障时，大量客户端同时重试导致故障扩散甚至雪崩。Uber 的核心方案包括：基于令牌桶的客户端重试预算（Retry Budget）、自适应限流、指数退避加抖动（Exponential Backoff with Jitter），以及服务网格层面的熔断与请求对冲控制。亮点在于将重试策略从单客户端视角提升到全局流量治理层面，通过集中式预算分配避免重试放大效应。该方案适用于大规模微服务架构、高并发分布式系统，尤其适合有服务网格基础设施的团队参考。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-18T02:07:15.243421+00:00"
+    },
+    {
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "hn_url": "https://news.ycombinator.com/item?id=49743483",
+      "description": "",
+      "hn_score": 114,
+      "comments": 34,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Infinite-Parameter LLMs 提出一种从实时数据动态生成并适配模型权重的架构思路，突破传统 LLM 参数在训练后固定的限制。其核心在于让模型权重随输入数据流持续演化，而非依赖静态 checkpoint，从而解决知识过时、无法在线学习新信息的问题。技术亮点包括权重生成机制与 live data 的耦合、参数空间的动态扩展策略，以及适配过程中的稳定性控制。适用场景涵盖需要持续吸收新知识的对话系统、实时决策 agent、以及无法频繁重训的部署环境。目前该方向仍偏研究性质，工程落地成熟度待验证。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:07:16.968939+00:00"
+    },
+    {
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "source": "hackernews-top",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "hn_url": "https://news.ycombinator.com/item?id=49738091",
+      "description": "",
+      "hn_score": 210,
+      "comments": 309,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "这是一篇数学家对 Fields 奖得主联名公开信的回应文章，作者解释自己为何拒绝签署该信件。该信涉及 AI 对数学研究的冲击与学术规范议题，作者从数学界内部视角出发，讨论了对 AI 辅助证明、署名伦理及公开信措辞的保留意见。核心技术亮点在于对 AI 与形式化证明（如 Lean）交叉领域的学术治理讨论，而非工程实现。适用场景为关注 AI for Math、学术伦理与科研政策的研究者与工程师。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-18T02:07:18.817775+00:00"
+    },
+    {
+      "title": "Rate limits on GitLab.com are changing",
+      "source": "hackernews-top",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=49742353",
+      "description": "",
+      "hn_score": 155,
+      "comments": 106,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "GitLab.com 宣布调整其 API 速率限制策略，主要针对 CI/CD 流水线、API 调用及 Git 操作等高频场景。此举旨在应对平台资源滥用、保障服务稳定性，并优化多租户环境下的公平性。核心技术亮点在于引入更细粒度的限流维度（如按项目、用户、IP 分层）和动态阈值调整机制。该变更直接影响依赖 GitLab 进行自动化构建、AI 代码生成工具集成及大规模仓库管理的工程团队，需重新评估调用频率与重试策略。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:07:20.472031+00:00"
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "source": "hackernews-top",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "hn_url": "https://news.ycombinator.com/item?id=49737787",
+      "description": "",
+      "hn_score": 338,
+      "comments": 180,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "CCC（Chaos Computer Club）向所有'模型公民'发出邀请，参与第40届混沌通信大会（40C3）。该条目本质是黑客/技术社区年度大会的公开征稿与参会通知，并非AI技术项目或论文。其解决的问题是：为关注AI安全、隐私、开源模型治理的工程师与研究者提供线下交流与议题提交渠道。核心技术亮点在于大会长期聚焦密码学、逆向工程、AI伦理与模型权属等议题，40C3预计延续对LLM安全、模型越狱、数据隐私的批判性讨论。适用场景为AI安全研究者、开源模型维护者、隐私倡导者寻找同行网络与议题投稿。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-18T02:07:22.215729+00:00"
+    },
+    {
+      "title": "TSMC revealing details about next gen A14 node",
+      "source": "hackernews-top",
+      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "hn_url": "https://news.ycombinator.com/item?id=49714096",
+      "description": "",
+      "hn_score": 92,
+      "comments": 34,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "TSMC 披露下一代 A14 制程节点细节，A14 是其继 N2 之后的又一先进逻辑制程，计划于 2028 年量产。该节点旨在解决 AI 芯片、HPC 与移动 SoC 对更高晶体管密度和能效的持续需求，核心亮点包括采用第二代 GAA 纳米片晶体管架构、更激进的背面供电（backside power delivery）方案，以及相比 N2 在同等功耗下约 15%-20% 的速度提升或同等速度下约 25%-30% 的功耗降低。适用场景涵盖 AI 加速器、数据中心 CPU/GPU、高端智能手机与自动驾驶芯片等对制程极为敏感的高性能计算领域。",
+      "tags": [
+        "benchmark",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:07:23.968934+00:00"
+    },
+    {
+      "title": "The American Religion of Self-Storage Facilities",
+      "source": "hackernews-top",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "hn_url": "https://news.ycombinator.com/item?id=49740260",
+      "description": "",
+      "hn_score": 193,
+      "comments": 339,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "该条目是 Hacker News 上一篇题为《The American Religion of Self-Storage Facilities》的文章，探讨美国自助仓储（self-storage）文化现象及其背后的社会与宗教隐喻，并非 AI/LLM 技术内容。文章以文化评论视角分析自助仓储如何成为美国消费主义、囤积心理与精神寄托的象征，不涉及任何算法、模型或工程实现。其价值主要在于人文社科讨论，对 AI 工程师的技术工作无直接参考意义，仅可作为跨领域阅读素材。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-09-18T02:07:25.760762+00:00"
+    },
+    {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "source": "hackernews-top",
+      "url": "https://mysetup.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49740105",
+      "description": "",
+      "hn_score": 188,
+      "comments": 101,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "这是一个 Hacker News 上的 Show HN 帖子，主题是让用户分享各自的 AI 配置方案（AI Setup）并互相学习。它解决的是 AI 工程师在搭建 LLM 应用栈时缺乏横向参考、选型信息碎片化的问题。核心亮点在于社区驱动的配置集合，涵盖模型选择、工具链、prompt 策略、agent 框架等实践细节，而非单一技术突破。适用场景包括个人开发者或团队在搭建 AI 工作流、选择 LLM 工具链、优化现有 AI 开发环境时，作为经验借鉴和方案对比的参考来源。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-18T02:07:27.399789+00:00"
+    },
+    {
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "hn_url": "https://news.ycombinator.com/item?id=49743049",
+      "description": "",
+      "hn_score": 48,
+      "comments": 48,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Skillsync 是 YC W26 孵化的开源项目，旨在让 AI 聊天会话（chat sessions）在不同 agent 之间可移植。它解决的核心问题是：当前用户与 ChatGPT、Claude、Cursor 等不同 AI 工具产生的对话上下文彼此隔离，切换 agent 时需重新建立上下文，效率低下。其技术亮点在于定义了一套会话导出/导入的标准化格式，并可能通过 MCP 或类似协议实现跨 agent 的上下文迁移，使 agent 能继承历史对话中的技能与偏好。适用场景包括多 agent 协作开发、跨平台 AI 辅助工作流，以及需要长期记忆延续的复杂任务。",
+      "tags": [
+        "multi-agent",
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-18T02:07:29.104067+00:00"
+    },
+    {
+      "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+      "source": "hackernews-top",
+      "url": "https://www.air.security/blog-posts/plugin4shell",
+      "hn_url": "https://news.ycombinator.com/item?id=49745809",
+      "description": "",
+      "hn_score": 8,
+      "comments": 2,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "Plugin4Shell 是一个影响四款主流编码代理（coding agents）的零点击远程代码执行（Zero Click RCE）漏洞。该漏洞利用插件（plugin）机制中的不安全设计，使攻击者无需用户交互即可在目标系统上执行任意代码。核心技术亮点在于揭示了 AI 编码代理在工具调用（tool-use）与插件扩展架构中的信任边界缺陷，属于 AI 供应链安全的新兴风险类别。适用场景包括使用 Cursor、GitHub Copilot、Windsurf 等编码代理的开发者与企业安全团队，需紧急评估插件权限模型与沙箱隔离策略。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-18T02:07:30.619738+00:00"
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "source": "hackernews-top",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "hn_url": "https://news.ycombinator.com/item?id=49742437",
+      "description": "",
+      "hn_score": 90,
+      "comments": 19,
+      "collected_at": "2026-09-18T02:06:21.397087+00:00",
+      "published_at": "2026-09-18T02:06:21.397087+00:00",
+      "summary": "该文章将 LLM 分类任务重新定义为特征工程问题，主张通过精心设计的 prompt 特征而非微调来提升分类效果。核心观点是：LLM 对文本分类的表现高度依赖输入特征的构造方式，包括标签描述、示例选择、输出格式约束等，本质上与传统机器学习中的特征工程逻辑一致。技术亮点在于提出了一套系统化的 prompt 特征设计方法论，将分类准确率的提升归因于特征质量而非模型能力。适用场景包括文本分类、情感分析、意图识别等需要高精度标签预测的工程任务，尤其适合无法进行 fine-tuning 的闭源模型场景。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-18T02:07:32.403754+00:00"
+    }
+  ]
+}

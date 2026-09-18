@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-18-003",
+  "title": "korcarc/text-humanizer",
+  "source": "github-trending",
+  "url": "https://github.com/korcarc/text-humanizer",
+  "summary": "text-humanizer 是一个基于 Python 的开源工具，旨在将 AI 生成的文本改写为更接近人类写作风格的版本，从而绕过 Turnitin、GPTZero 等主流 AI 文本检测器。其核心技术在于对 LLM 输出进行风格扰动与语义保持的文本重写，降低检测模型对困惑度（perplexity）和突发性（burstiness）等统计特征的识别率。该项目适用于需要提交 AI 辅助写作内容但面临检测审查的场景，如学术写作、内容创作与 SEO 文案。当前 394 stars，属于早期项目，技术方案透明度与鲁棒性仍需进一步验证。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-18T02:06:21.145794+00:00",
+  "analyzed_at": "2026-09-18T02:06:35.693862+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

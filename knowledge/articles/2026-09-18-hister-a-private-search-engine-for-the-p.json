@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-18-012",
+  "title": "Hister: A private search engine for the pages you visit and the files you keep",
+  "source": "hackernews-top",
+  "url": "https://github.com/asciimoo/hister",
+  "summary": "Hister 是一款面向个人用户的私有搜索引擎，能够索引用户访问过的网页和本地保存的文件，提供本地化、可离线使用的全文检索能力。它解决的核心问题是：浏览器历史与本地文件散落在不同工具中难以统一检索，且云端搜索服务存在隐私泄露风险。技术亮点在于完全本地运行、无需上传数据，支持对网页内容与文件进行统一索引和快速查询，可能采用轻量级索引结构与本地存储方案。适用场景包括个人知识管理、隐私敏感用户的资料检索、开发者快速查找本地文档与历史浏览记录。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "rag"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:04.340368+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

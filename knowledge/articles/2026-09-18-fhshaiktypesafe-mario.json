@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-18-005",
+  "title": "fhshaik/typesafe-mario",
+  "source": "github-trending",
+  "url": "https://github.com/fhshaik/typesafe-mario",
+  "summary": "fhshaik/typesafe-mario 是一个基于 TypeSafe/Jev 框架的 AI agent，能够从结构化模拟器状态中学习并游玩《超级马里奥兄弟》。该项目解决的核心问题是：如何让 agent 不依赖原始像素输入，而是通过结构化游戏状态（如马里奥坐标、敌人位置、砖块布局等）进行高效决策。技术亮点在于将强化学习或规则推理与结构化状态表示结合，降低了视觉感知的复杂度，同时利用 Jev 框架实现类型安全的 agent 行为定义。适用场景包括游戏 AI 研究、强化学习教学演示、以及作为结构化状态决策 agent 的参考实现。",
+  "tags": [
+    "agent",
+    "open-source",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 6.3,
+  "collected_at": "2026-09-18T02:06:21.145794+00:00",
+  "analyzed_at": "2026-09-18T02:06:44.444169+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

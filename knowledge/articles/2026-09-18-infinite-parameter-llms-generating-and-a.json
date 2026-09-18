@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-015",
+  "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.18842",
+  "summary": "Infinite-Parameter LLMs 提出一种从实时数据动态生成并适配模型权重的架构思路，突破传统 LLM 参数在训练后固定的限制。其核心在于让模型权重随输入数据流持续演化，而非依赖静态 checkpoint，从而解决知识过时、无法在线学习新信息的问题。技术亮点包括权重生成机制与 live data 的耦合、参数空间的动态扩展策略，以及适配过程中的稳定性控制。适用场景涵盖需要持续吸收新知识的对话系统、实时决策 agent、以及无法频繁重训的部署环境。目前该方向仍偏研究性质，工程落地成熟度待验证。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "agent",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:16.968939+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

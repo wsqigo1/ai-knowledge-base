@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-020",
+  "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+  "source": "hackernews-top",
+  "url": "https://www.air.security/blog-posts/plugin4shell",
+  "summary": "Plugin4Shell 是一个影响四款主流编码代理（coding agents）的零点击远程代码执行（Zero Click RCE）漏洞。该漏洞利用插件（plugin）机制中的不安全设计，使攻击者无需用户交互即可在目标系统上执行任意代码。核心技术亮点在于揭示了 AI 编码代理在工具调用（tool-use）与插件扩展架构中的信任边界缺陷，属于 AI 供应链安全的新兴风险类别。适用场景包括使用 Cursor、GitHub Copilot、Windsurf 等编码代理的开发者与企业安全团队，需紧急评估插件权限模型与沙箱隔离策略。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:30.619738+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

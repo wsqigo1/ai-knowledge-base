@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-001",
+  "title": "shinthink/blitzstrike",
+  "source": "github-trending",
+  "url": "https://github.com/shinthink/blitzstrike",
+  "summary": "Blitz Strike 是一个基于 MCP（Model Context Protocol）的通用渗透测试工具带，将结构化安全方法论封装为可供 AI agent 调用的统一服务器。它解决的核心问题是：安全测试流程碎片化、工具链分散、agent 难以标准化执行侦察与攻击验证。技术亮点包括侦察与攻击面测绘、source-to-sink 分析、实时验证三大阶段，内置 57 条 escalation chains、130 个工具目录及情报数据层，单一服务器即可对接任意 agent。适用于 bug bounty、红队/蓝队对抗、Active Directory 渗透及 CVE 验证等场景，尤其适合将 LLM agent 接入自动化安全测试工作流。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-09-18T02:06:21.145794+00:00",
+  "analyzed_at": "2026-09-18T02:06:31.803336+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

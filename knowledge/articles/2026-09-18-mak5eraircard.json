@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-18-004",
+  "title": "Mak5er/AirCard",
+  "source": "github-trending",
+  "url": "https://github.com/Mak5er/AirCard",
+  "summary": "AirCard 是一个针对 iOS 18+ 的 Apple Wallet 卡片外观定制工具，无需越狱即可修改钱包中卡片（如登机牌、会员卡、活动门票）的视觉样式。它解决了原生 Wallet 卡片样式固定、无法个性化的问题，通过利用 iOS 18 引入的 PassKit 相关接口或系统级渲染机制，在沙盒限制下实现卡片皮肤替换。核心技术亮点在于绕过越狱依赖，以 Swift 实现轻量级注入或配置生成。适用场景包括个人用户美化 Wallet 界面、开发者研究 iOS 卡片渲染机制，以及为品牌方提供定制化卡片展示方案。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-18T02:06:21.145794+00:00",
+  "analyzed_at": "2026-09-18T02:06:41.237843+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

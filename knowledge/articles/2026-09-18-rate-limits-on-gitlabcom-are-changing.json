@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-18-016",
+  "title": "Rate limits on GitLab.com are changing",
+  "source": "hackernews-top",
+  "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+  "summary": "GitLab.com 宣布调整其 API 速率限制策略，主要针对 CI/CD 流水线、API 调用及 Git 操作等高频场景。此举旨在应对平台资源滥用、保障服务稳定性，并优化多租户环境下的公平性。核心技术亮点在于引入更细粒度的限流维度（如按项目、用户、IP 分层）和动态阈值调整机制。该变更直接影响依赖 GitLab 进行自动化构建、AI 代码生成工具集成及大规模仓库管理的工程团队，需重新评估调用频率与重试策略。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:20.472031+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

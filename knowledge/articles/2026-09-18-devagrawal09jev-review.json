@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-006",
+  "title": "devagrawal09/jev-review",
+  "source": "github-trending",
+  "url": "https://github.com/devagrawal09/jev-review",
+  "summary": "jev-review 是一个基于 TypeSafe Jev 构建的分阶段代码审查工作流与本地仪表盘，旨在解决传统代码审查流程中步骤混乱、缺乏结构化引导的问题。其核心技术亮点在于利用 TypeScript 的类型安全特性，将 AI 辅助的代码审查拆解为多个可控阶段，并通过本地 dashboard 提供可视化交互界面。该项目将 LLM 能力与类型系统结合，确保审查提示和输出格式在编译期即可验证，减少运行时错误。适用场景包括开发团队内部代码审查流程自动化、AI 辅助的 pull request 审查，以及需要结构化审查步骤的工程实践。",
+  "tags": [
+    "code-review",
+    "developer-tools",
+    "typescript",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-18T02:06:21.145794+00:00",
+  "analyzed_at": "2026-09-18T02:06:51.124182+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

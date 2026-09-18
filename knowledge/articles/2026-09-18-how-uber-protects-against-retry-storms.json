@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-18-014",
+  "title": "How Uber Protects Against Retry Storms",
+  "source": "hackernews-top",
+  "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+  "summary": "Uber 工程团队分享其防止重试风暴（Retry Storms）的架构实践。重试风暴指下游服务故障时，大量客户端同时重试导致故障扩散甚至雪崩。Uber 的核心方案包括：基于令牌桶的客户端重试预算（Retry Budget）、自适应限流、指数退避加抖动（Exponential Backoff with Jitter），以及服务网格层面的熔断与请求对冲控制。亮点在于将重试策略从单客户端视角提升到全局流量治理层面，通过集中式预算分配避免重试放大效应。该方案适用于大规模微服务架构、高并发分布式系统，尤其适合有服务网格基础设施的团队参考。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-18T02:06:21.397087+00:00",
+  "analyzed_at": "2026-09-18T02:07:15.243421+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}

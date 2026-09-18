@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-18-002",
+  "title": "jarrodwatts/jev-trader",
+  "source": "github-trending",
+  "url": "https://github.com/jarrodwatts/jev-trader",
+  "summary": "jev-trader 是一个基于 Monad 区块链的 AI 自动交易代理，每个 Monad 区块执行一次 AI 交易决策，在 Kuru 去中心化交易所上进行 MON-USDC 交易对的自动化操作。该项目解决了链上高频交易中人工决策延迟高、策略执行不及时的问题，通过将 LLM 推理嵌入区块级交易循环实现全自动交易。核心技术亮点在于将 AI 决策与区块链出块节奏对齐，利用 TypeScript 构建，结合链上数据实时驱动交易逻辑。适用场景包括 DeFi 自动化做市、链上量化策略实验以及 AI agent 与区块链交互的研究与开发。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-18T02:06:21.145794+00:00",
+  "analyzed_at": "2026-09-18T02:06:33.991353+00:00",
+  "organized_at": "2026-09-18T02:07:32.481141+00:00",
+  "status": "published"
+}
