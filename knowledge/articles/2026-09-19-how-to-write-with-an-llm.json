@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-19-014",
+  "title": "How to Write with an LLM",
+  "source": "hackernews-top",
+  "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+  "summary": "该文章探讨如何利用 LLM 进行写作，属于 prompt-engineering 与 ai-assistant 交叉领域的实践指南。核心问题在于：LLM 生成文本常出现风格平淡、结构松散、缺乏个人声音等缺陷，直接使用难以产出高质量内容。文章提出的技术亮点包括：将写作拆解为构思、草稿、修订等阶段并分别设计 prompt 策略，强调通过提供范例文本、约束语气与结构、迭代式反馈来引导模型输出，而非一次性生成。适用场景涵盖技术博客、文档撰写、创意写作辅助等需要人机协作的文本生产流程。HN 395 分表明社区对该话题有较高关注度，但内容偏方法论而非底层技术突破。",
+  "tags": [
+    "prompt-engineering",
+    "ai-assistant",
+    "large-language-model",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:01.834083+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

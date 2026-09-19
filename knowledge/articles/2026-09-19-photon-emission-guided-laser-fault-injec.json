@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-19-015",
+  "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+  "source": "hackernews-top",
+  "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+  "summary": "该研究利用光子发射（photon emission）引导激光故障注入（laser fault injection），成功绕过 RP2350 微控制器的安全调试保护机制。RP2350 是 Raspberry Pi 基金会推出的新一代微控制器，内置安全启动与调试锁定功能。研究通过捕捉芯片运行时的光子发射热点，精确定位激光注入的靶点，从而以更低成本和更高效率实现故障注入攻击。核心技术亮点在于将光子发射分析作为激光攻击的导航手段，显著降低了传统盲扫式故障注入的复杂度。适用于硬件安全评估、嵌入式系统渗透测试及芯片抗故障注入能力验证等场景。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:05.554495+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

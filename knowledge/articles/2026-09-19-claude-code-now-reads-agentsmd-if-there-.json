@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-020",
+  "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+  "source": "hackernews-top",
+  "url": "https://code.claude.com/docs/en/changelog",
+  "summary": "Claude Code 新增对 AGENTS.md 文件的读取支持，当项目根目录不存在 CLAUDE.md 时，会自动回退读取 AGENTS.md 作为项目级指令来源。这一改动解决了多 AI 编码工具（如 Cursor、Codex、Claude Code 等）各自维护独立配置文件导致的碎片化问题，使开发者只需维护一份 AGENTS.md 即可跨工具复用上下文与规则。核心技术亮点在于配置文件的优先级回退机制与跨工具约定对齐，降低了 agent 配置的重复维护成本。适用场景包括使用多种 AI coding agent 的团队、开源项目统一 agent 指令、以及希望标准化 AI 辅助开发工作流的工程师。",
+  "tags": [
+    "developer-tools",
+    "agent",
+    "code-generation",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:15.190525+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

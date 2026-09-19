@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-006",
+  "title": "kitze/skillbox",
+  "source": "github-trending",
+  "url": "https://github.com/kitze/skillbox",
+  "summary": "Skillbox 是一个自托管、带版本管理的 AI Agent 技能库，通过 MCP 协议向客户端暴露可复用的技能集合。它解决的核心问题是：当前 Agent 技能（prompt、工具定义、工作流）散落在各项目中，缺乏统一的版本控制、分发和复用机制。技术亮点包括基于 MCP 的标准接口、scoped client 权限隔离，以及可选的 Jev 推荐引擎来动态建议技能。适用场景为多 Agent 团队协作、企业内部技能资产沉淀，以及需要审计和回滚技能变更的生产环境。",
+  "tags": [
+    "mcp",
+    "agent",
+    "open-source",
+    "developer-tools",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:47.731457+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

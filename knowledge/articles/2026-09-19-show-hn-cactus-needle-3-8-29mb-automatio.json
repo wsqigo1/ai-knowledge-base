@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-017",
+  "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+  "source": "hackernews-top",
+  "url": "https://cactuscompute.com/needle",
+  "summary": "Cactus Needle 3 是 Cactus 团队发布的超小型自动化模型系列，参数量对应的模型体积仅 8-29MB，却宣称在自动化任务上可匹配 DeepSeek V4 Flash 等大型模型的表现。其核心思路是通过面向 agent/tool-use 场景的极端压缩与蒸馏，将模型部署到手机、浏览器、嵌入式设备等端侧环境，解决云端大模型延迟高、成本高、隐私差的问题。技术亮点在于极小体积下的指令遵循与工具调用能力，适合端侧 AI assistant、workflow-automation、离线 agent 等场景。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:08.713497+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

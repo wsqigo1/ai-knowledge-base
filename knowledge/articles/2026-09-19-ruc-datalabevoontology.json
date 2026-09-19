@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-007",
+  "title": "ruc-datalab/EvoOntology",
+  "source": "github-trending",
+  "url": "https://github.com/ruc-datalab/EvoOntology",
+  "summary": "EvoOntology 是面向 Data Agent 的自进化本体层插件，为 Claude Code 和 Codex 等编码智能体构建并持续演化领域本体（ontology），解决数据智能体在分析任务中缺乏结构化语义理解、上下文易漂移的问题。核心亮点在于将本体层作为可自我进化的中间表示，让 agent 在数据探索过程中动态积累实体、关系与约束，而非依赖静态 schema 或一次性 prompt。适用于数据分析、BI 自动化、多轮数据问答等需要长期语义一致性的 agentic 工作流场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:49.587012+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

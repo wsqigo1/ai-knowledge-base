@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-19-012",
+  "title": "Cloudflare Quick Tunnels",
+  "source": "hackernews-top",
+  "url": "https://try.cloudflare.com/",
+  "summary": "Cloudflare Quick Tunnels 是 Cloudflare 提供的零配置内网穿透工具，通过 cloudflared 命令行即可将本地服务暴露到公网，无需注册账号或配置 DNS。它解决了开发者在本地调试 Webhook、演示 demo、临时共享服务时缺乏公网入口的痛点。核心技术亮点在于基于 Cloudflare 全球边缘网络自动分配 trycloudflare.com 临时域名，并内置 TLS 加密与 DDoS 防护，启动即用、进程退出即销毁。适用场景包括本地 AI 应用/Agent 服务的临时外网访问、Webhook 回调测试、以及快速原型演示，对需要将本地 LLM 服务或 MCP server 暴露给外部调用的 AI 工程师尤为实用。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:10:58.413239+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

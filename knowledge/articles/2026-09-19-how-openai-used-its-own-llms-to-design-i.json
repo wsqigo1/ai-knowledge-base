@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-016",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source": "hackernews-top",
+  "url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "summary": "OpenAI 利用自家 LLM 辅助设计自研 Jalapeño 芯片，将大模型引入芯片架构探索、RTL 代码生成与验证流程。核心在于用 LLM 加速硬件设计迭代，降低对资深芯片工程师的依赖，并探索 AI 辅助 EDA 的可行性。技术亮点包括领域适配的 prompt 工程、代码生成与形式化验证结合。适用于 AI 芯片自研团队及 EDA 工具链智能化场景。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "prompt-engineering",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:07.016661+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

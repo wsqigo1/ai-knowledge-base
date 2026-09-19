@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-19-021",
+  "title": "The Implications of Linguistic Illegibility for LLM Security",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.02852",
+  "summary": "该研究探讨了语言不可读性（Linguistic Illegibility）对LLM安全性的影响，即当模型输入或输出使用人类难以理解的语言形式（如编码、低资源语言、混淆文本）时，安全对齐机制可能失效。核心发现是现有安全过滤器与对齐训练主要依赖可读文本，攻击者可利用这一盲区绕过防护，实现越狱或有害内容生成。技术亮点在于系统性地揭示了多语言与编码空间中的安全漏洞，并提出了评估框架。适用于LLM安全研究、红队测试及对齐策略设计场景。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:18.658141+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

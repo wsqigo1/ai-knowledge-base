@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-005",
+  "title": "yibie/awesome-jev",
+  "source": "github-trending",
+  "url": "https://github.com/yibie/awesome-jev",
+  "summary": "awesome-jev 是围绕 TypeSafe AI 的 System One 模型（Jev）构建的公开项目、集成与讨论的精选列表，聚焦于 typed decisions（类型化决策）这一 LLM 应用范式。它解决的核心问题是：当前 LLM 输出多为非结构化文本，难以在工程系统中可靠消费，而 Jev 通过类型系统约束模型输出，使决策结果可直接映射为程序可用的结构化数据。该列表汇集了基于 Jev 的集成方案、工具链与社区讨论，帮助开发者快速上手类型安全的 LLM 决策工作流。适用场景包括需要高可靠性结构化输出的 agent 决策、workflow automation 中的条件分支、以及将 LLM 嵌入强类型系统的后端服务。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "tool-use",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:43.164039+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

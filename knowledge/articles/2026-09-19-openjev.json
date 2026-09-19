@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-019",
+  "title": "OpenJev",
+  "source": "hackernews-top",
+  "url": "https://openjev.com/",
+  "summary": "OpenJev 是近期在 Hacker News 上获得 560 分高热度讨论的开源项目，定位为面向 AI 工程师的 LLM 应用开发工具。它试图解决当前大模型应用开发中工具链碎片化、Agent 编排与调试成本高的问题，通过统一的开发框架整合 prompt 管理、tool-use 调用与工作流编排能力。核心技术亮点在于其模块化架构与对多模型后端的兼容性，降低了从原型到生产的迁移成本。适用场景包括构建 AI assistant、multi-agent 系统以及需要 tool-use 能力的自动化工作流，尤其适合希望快速验证 LLM 应用想法并保持代码可控性的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "agent",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:13.793871+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

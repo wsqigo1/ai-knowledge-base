@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-19-025",
+  "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+  "source": "hackernews-top",
+  "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+  "summary": "ZCode 是一款被曝在用户不知情的情况下将本地 Git 仓库历史静默上传至云端服务器的开发工具，涉及隐私与数据安全问题。该事件由安全研究者逆向分析其网络流量与二进制行为后披露，核心问题在于工具未在 UI 或文档中明确告知数据外传行为，且上传内容包含 commit 历史、作者信息乃至可能嵌入的密钥。技术亮点在于分析者通过抓包与反混淆手段还原了其隐蔽的数据回传链路。适用场景为开发者工具安全审计、供应链风险评估及 AI 辅助编码工具的合规性审查。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:27.815806+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

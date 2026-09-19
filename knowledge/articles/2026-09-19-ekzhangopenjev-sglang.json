@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-008",
+  "title": "ekzhang/openjev-sglang",
+  "source": "github-trending",
+  "url": "https://github.com/ekzhang/openjev-sglang",
+  "summary": "openjev-sglang 是一个基于开源模型构建的 Jev 兼容 API 端点，采用 prefill-only 推理模式。它解决的核心问题是：在结构化生成场景下，如何用开放模型复现 Jev（推测为某闭源结构化输出服务）的接口行为，使开发者无需依赖专有 API 即可获得兼容的调用体验。技术亮点在于借助 SGLang 的高效推理能力，仅执行 prefill 阶段即可完成结构化输出，跳过逐 token decode，从而大幅降低延迟与算力开销。适用场景包括需要 JSON/schema 约束输出的 LLM 应用、对推理成本敏感的批量结构化生成任务，以及希望自托管替代闭源结构化生成服务的工程团队。",
+  "tags": [
+    "large-language-model",
+    "structured-generation",
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:51.584996+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

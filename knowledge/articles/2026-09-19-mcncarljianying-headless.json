@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-001",
+  "title": "mcncarl/jianying-headless",
+  "source": "github-trending",
+  "url": "https://github.com/mcncarl/jianying-headless",
+  "summary": "jianying-headless 是一个基于 Python 的开源项目，通过无头（headless）方式驱动剪映（Jianying）原生草稿，实现隔离的编辑与导出流程。它解决的核心问题是：剪映作为闭源桌面工具，难以被自动化流水线或 AI Agent 直接调用，而该项目绕开 GUI，直接操作原生草稿数据，使视频剪辑可编程化。技术亮点包括原生草稿解析、隔离编辑/导出环境，以及独立的 Agent Skill 封装，便于接入 LLM 驱动的自动化工作流。适用场景为批量视频生产、AI 内容生成流水线、Agent 驱动的多媒体编辑自动化。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "multimodal",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:21.836023+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

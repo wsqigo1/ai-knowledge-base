@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-010",
+  "title": "kiyoakii/is-gpt-nerfed",
+  "source": "github-trending",
+  "url": "https://github.com/kiyoakii/is-gpt-nerfed",
+  "summary": "is-gpt-nerfed 是一个 Python 工具，用于检测 Codex（GPT 系列代码模型）是否出现性能退化（即所谓的 'nerf' 或缩水）。它通过对比模型在不同时间点的输出质量、响应模式或特定任务表现，量化模型能力是否被暗中削弱。核心技术亮点在于自动化基准测试与差异分析，可能结合历史输出缓存或标准测试集。适用场景包括开发者监控 API 模型更新后的实际表现、研究模型退化现象，以及为社区提供客观的模型质量追踪依据。",
+  "tags": [
+    "benchmark",
+    "code-generation",
+    "large-language-model",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:54.955508+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

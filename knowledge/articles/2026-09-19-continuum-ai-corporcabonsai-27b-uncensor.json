@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-19-002",
+  "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+  "source": "github-trending",
+  "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+  "summary": "OrcaBonsai-27B-Uncensored 是 OrcaRouter 团队推出的运行时行为消融（runtime behavioral ablation）工具，首个目标为 Ternary Bonsai 2 27B 压缩模型。它解决的核心问题是：在不修改权重、不重新量化的前提下，对已压缩的 LLM 进行行为层面的干预与调控。技术亮点在于将行为消融从训练/微调阶段前移到推理运行时，避免破坏三值量化结构，同时实现对模型输出行为的动态控制。适用场景包括对压缩模型进行安全对齐调整、去审查（uncensored）行为定制，以及资源受限环境下的模型行为研究。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-19T02:10:18.256874+00:00",
+  "analyzed_at": "2026-09-19T02:10:26.766157+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

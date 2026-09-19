@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-19-018",
+  "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2510.03215",
+  "summary": "Cache-to-Cache 提出一种让多个 LLM 之间直接通过 KV Cache 进行语义通信的方法，替代传统的文本序列化中转。它解决的是多模型协作中信息在文本层面反复编解码导致的语义损失与延迟开销问题。核心技术亮点在于对齐不同模型的隐空间表示，使一个模型的缓存状态可被另一个模型直接消费，从而保留更丰富的上下文语义。适用场景包括多智能体协作、模型级联推理以及需要低延迟跨模型传递上下文的生产系统。",
+  "tags": [
+    "large-language-model",
+    "multi-agent",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:11:10.354887+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}

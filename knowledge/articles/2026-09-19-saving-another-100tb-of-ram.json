@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-19-013",
+  "title": "Saving another 100TB of RAM",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+  "summary": "该文章介绍了一种进一步节省 100TB 内存的优化技术，属于大规模系统内存效率提升的工程实践。它针对的是大规模数据处理或模型训练中内存占用过高的问题，通过更精细的内存管理、数据结构优化或压缩策略来降低整体 RAM 消耗。核心技术亮点在于在已有优化基础上再削减 100TB 级别的内存使用，体现了极致的资源效率追求。适用场景包括大规模分布式训练、海量数据处理管道以及内存敏感型高性能计算任务。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-19T02:10:18.449496+00:00",
+  "analyzed_at": "2026-09-19T02:10:59.813393+00:00",
+  "organized_at": "2026-09-19T02:11:29.633865+00:00",
+  "status": "published"
+}
