@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-20-008",
+  "title": "Tin: full-text search for Postgres",
+  "source": "hackernews-top",
+  "url": "https://planetscale.com/blog/introducing-tin",
+  "summary": "Tin 是一个为 PostgreSQL 提供全文搜索能力的开源扩展，旨在解决 Postgres 原生 tsvector/tsquery 在相关性排序、分词灵活性和查询表达力上的不足。其核心技术亮点在于将倒排索引与 BM25 等排序算法深度集成进 Postgres 存储引擎，支持自定义分词器、短语查询和模糊匹配，同时保持 ACID 事务与 SQL 原生接口。适用场景包括需要在现有 Postgres 架构内构建站内搜索、日志检索或轻量级 RAG 检索层的 AI 工程师，避免引入 Elasticsearch 等外部依赖。",
+  "tags": [
+    "open-source",
+    "rag",
+    "vector-database",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:17:57.556518+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

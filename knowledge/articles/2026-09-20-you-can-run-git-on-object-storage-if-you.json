@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-20-014",
+  "title": "You can run Git on object storage if you re-make packfiles",
+  "source": "hackernews-top",
+  "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+  "summary": "该项目探讨了在对象存储（如 S3）上运行 Git 的可行性，核心思路是重新制作 packfiles 以适配对象存储的不可变特性。传统 Git 依赖本地文件系统的随机读写和增量更新，而对象存储仅支持整体读写，导致直接托管 Git 仓库效率低下。作者通过重构 packfile 的生成与索引机制，使 Git 操作能高效利用对象存储的扁平命名空间和最终一致性。技术亮点在于绕过 Git 对文件系统的假设，将版本控制数据抽象为对象存储友好的格式。适用于需要低成本、高持久性代码托管或备份的场景，尤其适合云原生环境下的 CI/CD 流水线。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:18:17.315714+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

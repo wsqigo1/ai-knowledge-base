@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-20-010",
+  "title": "Can you tell which images are AI-generated?",
+  "source": "hackernews-top",
+  "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+  "summary": "这是一个基于 Hacker News 热榜的互动测试类项目，核心目的是让用户通过视觉判断来区分 AI 生成图像与真实照片。它解决的是当前多模态生成模型（如 Stable Diffusion、DALL·E、Midjourney）产出图像日益逼真、人类肉眼难以辨别的问题。技术亮点在于以轻量级交互方式呈现 AI 图像检测的挑战，可能涉及对生成图像伪影、纹理一致性和语义合理性的观察训练。适用场景包括 AI 素养教育、多模态模型能力评估、以及图像鉴伪工具的辅助验证。",
+  "tags": [
+    "multimodal",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:18:05.748630+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

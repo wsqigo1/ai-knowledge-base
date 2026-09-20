@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-20-003",
+  "title": "coldteadotai/abide",
+  "source": "github-trending",
+  "url": "https://github.com/coldteadotai/abide",
+  "summary": "abide 是一个面向 Claude Code 的 TypeScript 插件/钩子工具，通过 claude-code-hooks 与 skill 机制，让 coding agent 在生成代码时强制遵循项目自定义规则（如代码风格、目录约定、命名规范等）。它解决的问题是 AI 编码助手容易忽略项目既有约定、产出不符合团队规范的代码。核心技术亮点在于利用 Claude Code 的 hook 与 plugin 体系，将项目规则以可配置方式注入 agent 执行流程，实现规则约束的自动化而非依赖提示词自觉。适用场景包括团队协作开发、大型代码库维护、需要统一编码规范的 AI 辅助编程工作流。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-20T02:17:09.769504+00:00",
+  "analyzed_at": "2026-09-20T02:17:46.545994+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

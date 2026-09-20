@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-20-007",
+  "title": "AI-generated posters don’t have to be horrible",
+  "source": "hackernews-top",
+  "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "summary": "该项目针对 AI 生成海报普遍存在的排版混乱、文字错位、视觉廉价感等问题，提出一套提升生成质量的方案。核心思路是通过结构化 prompt 模板与布局约束，引导扩散模型或 LLM 在生成海报时遵循设计规范，而非自由发挥。技术亮点在于将设计原则（层级、对齐、留白）编码为可复用的 prompt 组件，并结合后处理校正文字渲染。适用场景包括营销物料快速生成、社交媒体配图、活动海报初稿等需要批量产出且对视觉质量有基本要求的场景。",
+  "tags": [
+    "prompt-engineering",
+    "multimodal",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:17:56.157113+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

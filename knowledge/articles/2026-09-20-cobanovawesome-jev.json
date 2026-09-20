@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-20-001",
+  "title": "cobanov/awesome-jev",
+  "source": "github-trending",
+  "url": "https://github.com/cobanov/awesome-jev",
+  "summary": "cobanov/awesome-jev 是一个精选资源列表，收录基于 TypeSafe AI 的 System One 模型构建的项目，该模型专注于类型化决策（typed decisions）。它解决的核心问题是：在 AI Agent 和决策系统中，如何让模型输出具备类型安全性和置信度感知能力，避免传统 LLM 输出不可靠、难以结构化验证的痛点。技术亮点在于 System One 模型将决策过程与类型系统结合，支持 confidence-aware AI，使 Agent 在工具调用、工作流分支等场景下能输出可验证的结构化决策。适用场景包括 AI Agent 开发、决策智能系统、需要高可靠结构化输出的自动化工作流，以及研究类型安全 LLM 决策的工程师。",
+  "tags": [
+    "ai-agents",
+    "reasoning",
+    "open-source",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-20T02:17:09.769504+00:00",
+  "analyzed_at": "2026-09-20T02:17:34.639691+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

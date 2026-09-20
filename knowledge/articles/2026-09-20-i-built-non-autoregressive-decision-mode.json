@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-20-005",
+  "title": "I built non-autoregressive decision models with RL a year ago",
+  "source": "hackernews-top",
+  "url": "https://laya.convaiinnovations.com/",
+  "summary": "该项目探索用强化学习训练非自回归决策模型，替代传统逐token生成的自回归范式。核心思路是通过RL直接优化决策序列的整体回报，避免自回归模型在长序列推理中的误差累积与延迟问题。技术亮点在于将RL的序列决策能力与非自回归并行生成结合，可能提升推理效率与全局一致性。适用于需要快速决策、低延迟响应的场景，如游戏AI、机器人控制、实时规划等。HN热度极高（1096分），表明社区对非自回归+RL方向有强烈兴趣，但项目细节披露有限，实际落地效果待验证。",
+  "tags": [
+    "reasoning",
+    "open-source",
+    "benchmark",
+    "agent"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:17:51.580723+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

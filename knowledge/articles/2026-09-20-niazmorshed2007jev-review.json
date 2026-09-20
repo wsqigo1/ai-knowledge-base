@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-20-002",
+  "title": "NiazMorshed2007/jev-review",
+  "source": "github-trending",
+  "url": "https://github.com/NiazMorshed2007/jev-review",
+  "summary": "jev-review 是一个基于 MCP（Model Context Protocol）的本地优先插件，为 AI 编码代理提供持续性的软件质量审查能力。它解决的是 AI 生成代码后缺乏自动化质量把关的问题，让 Claude Code、Codex 等编码代理在开发流程中实时获得代码审查反馈。核心技术亮点在于采用 local-first 架构，通过 MCP 协议与代理集成，无需将代码上传至云端即可完成审查，兼顾隐私与效率。项目使用 TypeScript 编写，以 agent-plugin 形式分发。适用场景包括：AI 辅助编程工作流中的代码质量管控、本地开发环境的自动化 review、以及需要数据不出本地的企业级 AI 编码场景。",
+  "tags": [
+    "mcp",
+    "code-review",
+    "ai-agents",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-20T02:17:09.769504+00:00",
+  "analyzed_at": "2026-09-20T02:17:44.745733+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}

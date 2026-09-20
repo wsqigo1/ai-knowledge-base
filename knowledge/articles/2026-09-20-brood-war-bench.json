@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-20-006",
+  "title": "Brood War Bench",
+  "source": "hackernews-top",
+  "url": "https://bw.swerdlow.dev/report",
+  "summary": "Brood War Bench 是一个基于经典即时战略游戏《星际争霸：母巢之战》的 AI 基准测试环境，旨在评估 LLM 与 Agent 在长时程规划、实时决策和复杂资源管理中的表现。它解决了现有 benchmark 多为静态问答或短任务、难以衡量动态对抗下持续推理能力的问题。核心技术亮点在于将游戏 API 封装为可交互环境，支持多步工具调用与状态追踪，并可能提供标准化评估指标。适用场景包括 LLM 规划能力研究、多智能体协作测试以及 Agent 在部分可观测环境下的鲁棒性评估。",
+  "tags": [
+    "benchmark",
+    "agent",
+    "reasoning",
+    "multi-agent",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-20T02:17:10.000714+00:00",
+  "analyzed_at": "2026-09-20T02:17:54.728547+00:00",
+  "organized_at": "2026-09-20T02:18:19.041487+00:00",
+  "status": "published"
+}
