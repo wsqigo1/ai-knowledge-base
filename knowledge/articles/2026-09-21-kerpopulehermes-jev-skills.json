@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-21-005",
+  "title": "kerpopule/hermes-jev-skills",
+  "source": "github-trending",
+  "url": "https://github.com/kerpopule/hermes-jev-skills",
+  "summary": "hermes-jev-skills 是面向 Hermes agents（同时兼容 Claude Code 与 Codex）的技能与运行时增强层，由 Jev 驱动，提供 model routing、memory、compaction、skill selection 以及 computer/browser use 能力。它解决的核心问题是：多模型 agent 在长任务中缺乏统一的路由决策、上下文压缩与技能调度机制，导致 token 浪费、记忆断裂和工具调用低效。技术亮点在于将模型选择、记忆管理与技能检索整合为可插拔的 skill 体系，并支持浏览器与桌面级 computer use。适用场景包括构建复杂多步 agent、跨模型工作流编排、需要持久记忆与自动压缩的 coding assistant。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-21T02:16:48.654011+00:00",
+  "analyzed_at": "2026-09-21T02:17:14.776572+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

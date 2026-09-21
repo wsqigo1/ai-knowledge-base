@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-21-001",
+  "title": "zai-org/ZCode",
+  "source": "github-trending",
+  "url": "https://github.com/zai-org/ZCode",
+  "summary": "ZCode 是 Z.ai 推出的开源 coding agent harness，以 TypeScript 实现，定位为强大、智能、可扩展的编码智能体框架。它解决的是开发者将 LLM 能力落地到实际编码工作流时缺乏统一编排层的问题，提供 agent 循环、工具调用、上下文管理与扩展机制等基础设施。核心技术亮点在于 harness 抽象：将模型推理、tool-use、文件操作与终端执行解耦，便于接入不同 LLM 与自定义工具，同时保持可插拔扩展。适用场景包括自动化代码生成与重构、仓库级任务执行、CI 辅助开发，以及作为研究 coding agent 行为的实验平台。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-09-21T02:16:48.654011+00:00",
+  "analyzed_at": "2026-09-21T02:16:55.196674+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

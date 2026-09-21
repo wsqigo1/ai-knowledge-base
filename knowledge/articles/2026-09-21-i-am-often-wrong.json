@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-21-015",
+  "title": "I am often wrong",
+  "source": "hackernews-top",
+  "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+  "summary": "《I am often wrong》是 Hacker News 上一篇高热度讨论文章（HN Score 119），核心探讨 AI/LLM 系统在推理与输出中频繁出错的现象及其认知根源。文章指出当前大模型在复杂推理任务中常表现出过度自信，导致幻觉与错误传播，并提出通过不确定性量化、自我校验与反思机制来缓解该问题。技术亮点在于将'承认错误'作为工程化设计原则，而非仅依赖模型能力提升。适用场景包括 reasoning 系统开发、AI assistant 可靠性优化、以及需要高可信输出的 agent 工作流。",
+  "tags": [
+    "reasoning",
+    "ai-assistant",
+    "agent",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-21T02:16:48.821457+00:00",
+  "analyzed_at": "2026-09-21T02:17:52.545965+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

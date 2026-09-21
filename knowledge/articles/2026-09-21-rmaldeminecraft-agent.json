@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-21-004",
+  "title": "rmalde/minecraft-agent",
+  "source": "github-trending",
+  "url": "https://github.com/rmalde/minecraft-agent",
+  "summary": "rmalde/minecraft-agent 是一个面向 Minecraft 的自主智能体项目，核心由 Astra planner 与 JEV controller 两部分组成，前者负责高层任务规划，后者负责底层动作执行与控制。项目解决的是在开放沙盒环境中让 LLM 驱动的 agent 稳定完成长程任务的问题，通过原生录制、经过测试的路线（tested routes）以及运行验证（run verification）机制，降低随机性与失败率，提升任务可复现性。技术亮点在于将规划与执行解耦、引入可回放验证的路线库，并以 JavaScript 实现便于集成。适用场景包括游戏 AI 研究、具身智能与长程规划 benchmark、agent 工具调用与多步决策实验。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "open-source",
+    "benchmark",
+    "tool-use"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-21T02:16:48.654011+00:00",
+  "analyzed_at": "2026-09-21T02:17:11.067301+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

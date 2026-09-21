@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-21-008",
+  "title": "Google's Open Agentic Orchestrator",
+  "source": "hackernews-top",
+  "url": "https://agentexecutor.io",
+  "summary": "Google 开源了 Agentic Orchestrator，一个用于编排多智能体（multi-agent）工作流的框架。它解决的是复杂任务中多个 LLM agent 协作、工具调用（tool-use）与状态管理难以统一调度的问题。核心亮点在于提供标准化的 agent 编排抽象，支持任务分解、agent 间通信与工具集成，可能兼容 MCP 等协议。适用场景包括自动化工作流、复杂推理任务、企业级 AI 助手及需要多 agent 协同的开发者工具链。",
+  "tags": [
+    "multi-agent",
+    "agent",
+    "open-source",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-21T02:16:48.821457+00:00",
+  "analyzed_at": "2026-09-21T02:17:25.646326+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

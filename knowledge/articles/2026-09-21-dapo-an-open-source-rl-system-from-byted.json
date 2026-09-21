@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-21-014",
+  "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+  "source": "hackernews-top",
+  "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+  "summary": "DAPO 是字节跳动 Seed 团队与清华 AIR 联合开源的一套强化学习（RL）系统，面向大语言模型（LLM）的后训练与推理能力优化。它针对现有 RLHF/RLVR 流程中训练不稳定、工程链路复杂、复现困难等痛点，提供端到端的开源实现。核心技术亮点包括解耦的 RL 训练架构、对 policy optimization 与 reward 建模的工程化封装，以及面向 reasoning 任务的训练配方。适用场景为 LLM 的强化学习后训练、数学与代码等可验证推理任务的性能提升，以及研究者对 RL 算法的复现与二次开发。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-21T02:16:48.821457+00:00",
+  "analyzed_at": "2026-09-21T02:17:50.856737+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

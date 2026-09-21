@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-21-006",
+  "title": "sutro-sh/jev-align",
+  "source": "github-trending",
+  "url": "https://github.com/sutro-sh/jev-align",
+  "summary": "jev-align 是一个基于 Python 的开源 CLI 工具，旨在通过人类反馈构建经过校准的 AI Functions。它结合了 Jev 框架与 GEPA（一种基于遗传算法的提示优化方法），解决的核心问题是：如何利用少量人工标注数据自动优化 LLM 提示词，使模型输出更符合人类预期。核心技术亮点在于将 active-learning 与 human-in-the-loop 流程集成到命令行工作流中，支持分类任务的提示词自动校准。适用场景包括需要快速迭代 prompt 的 AI 工程师、构建分类管线的团队，以及希望以低成本引入人类反馈优化 LLM 输出的开发者。",
+  "tags": [
+    "prompt-engineering",
+    "human-in-the-loop",
+    "active-learning",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-21T02:16:48.654011+00:00",
+  "analyzed_at": "2026-09-21T02:17:18.608318+00:00",
+  "organized_at": "2026-09-21T02:17:59.815092+00:00",
+  "status": "published"
+}

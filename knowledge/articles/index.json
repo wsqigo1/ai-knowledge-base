@@ -1,7 +1,268 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2141,
+  "total_count": 2158,
   "entries": [
+    {
+      "id": "kb-2026-09-21-001",
+      "title": "zai-org/ZCode",
+      "source": "github-trending",
+      "url": "https://github.com/zai-org/ZCode",
+      "file": "2026-09-21-zai-orgzcode.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-002",
+      "title": "v-modal/awesome-jev-tools",
+      "source": "github-trending",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "file": "2026-09-21-v-modalawesome-jev-tools.json",
+      "tags": [
+        "large-language-model",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-003",
+      "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "source": "github-trending",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "file": "2026-09-21-pallavi-shekharai-engineering-interview-.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "prompt-engineering",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-004",
+      "title": "rmalde/minecraft-agent",
+      "source": "github-trending",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "file": "2026-09-21-rmaldeminecraft-agent.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-005",
+      "title": "kerpopule/hermes-jev-skills",
+      "source": "github-trending",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "file": "2026-09-21-kerpopulehermes-jev-skills.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-006",
+      "title": "sutro-sh/jev-align",
+      "source": "github-trending",
+      "url": "https://github.com/sutro-sh/jev-align",
+      "file": "2026-09-21-sutro-shjev-align.json",
+      "tags": [
+        "prompt-engineering",
+        "human-in-the-loop",
+        "active-learning",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-007",
+      "title": "huangbai-AI/post-production-skill",
+      "source": "github-trending",
+      "url": "https://github.com/huangbai-AI/post-production-skill",
+      "file": "2026-09-21-huangbai-aipost-production-skill.json",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-008",
+      "title": "Google's Open Agentic Orchestrator",
+      "source": "hackernews-top",
+      "url": "https://agentexecutor.io",
+      "file": "2026-09-21-googles-open-agentic-orchestrator.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-009",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "source": "hackernews-top",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "file": "2026-09-21-samsung-is-expected-to-more-than-double-.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-010",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "source": "hackernews-top",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "file": "2026-09-21-chatgpt-now-knows-what-you-do-on-other-w.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-011",
+      "title": "Qwen Image 2.1",
+      "source": "hackernews-top",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "file": "2026-09-21-qwen-image-21.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-012",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "source": "hackernews-top",
+      "url": "https://pirateface.co/",
+      "file": "2026-09-21-pirate-face-rescues-llm-models-from-dele.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-013",
+      "title": "Nobody pays for FOSS, we can force them to",
+      "source": "hackernews-top",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "file": "2026-09-21-nobody-pays-for-foss-we-can-force-them-t.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-014",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "source": "hackernews-top",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "file": "2026-09-21-dapo-an-open-source-rl-system-from-byted.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-015",
+      "title": "I am often wrong",
+      "source": "hackernews-top",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "file": "2026-09-21-i-am-often-wrong.json",
+      "tags": [
+        "reasoning",
+        "ai-assistant",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-016",
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "source": "hackernews-top",
+      "url": "https://tinybrains.dev",
+      "file": "2026-09-21-show-hn-a-competition-for-small-neural-n.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
+    {
+      "id": "kb-2026-09-21-017",
+      "title": "Why do we need human mathematicians anymore?",
+      "source": "hackernews-top",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "file": "2026-09-21-why-do-we-need-human-mathematicians-anym.json",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-21T02:17:59.815092+00:00"
+    },
     {
       "id": "kb-2026-09-20-001",
       "title": "cobanov/awesome-jev",
@@ -31980,5 +32241,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-20T02:18:19.215305+00:00"
+  "last_updated": "2026-09-21T02:18:00.020493+00:00"
 }
