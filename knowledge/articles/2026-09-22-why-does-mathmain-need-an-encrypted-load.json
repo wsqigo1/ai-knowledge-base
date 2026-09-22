@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-22-012",
+  "title": "Why does mathmain need an encrypted loader?",
+  "source": "hackernews-top",
+  "url": "https://safedep.io/mathmain-encrypted-loader/",
+  "summary": "mathmain 是一个数学计算工具/库，其作者提出为何需要加密加载器（encrypted loader）的问题，探讨在开源数学软件中引入加密加载机制的必要性与安全考量。核心争议在于：加密加载器通常用于保护商业代码或防止逆向工程，但 mathmain 作为数学工具，其算法逻辑本身并不构成商业机密，加密反而可能阻碍社区审计、调试与二次开发。技术亮点在于对加载器加密方案（如代码签名、运行时解密、反调试）的权衡分析，以及开源许可与安全边界之间的冲突。适用场景包括开源项目维护者、安全工程师评估代码保护策略，以及对数学计算库分发方式感兴趣的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "security",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:21:45.338681+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

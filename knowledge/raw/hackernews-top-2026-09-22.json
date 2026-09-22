@@ -1,0 +1,404 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-22T02:20:50.490804+00:00",
+  "date": "2026-09-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "Xiaomi MiMo v2.6",
+      "source": "hackernews-top",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "hn_url": "https://news.ycombinator.com/item?id=49792730",
+      "description": "",
+      "hn_score": 566,
+      "comments": 289,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Xiaomi MiMo v2.6 是小米开源的新一代大语言模型，在 Hacker News 上获得 566 分的高热度关注。该模型主要面向推理与代码生成任务，通过架构优化和训练策略改进，在数学推理、逻辑推断及编程能力上实现显著提升。核心技术亮点包括更强的 reasoning 能力、对 tool-use 和 agent 场景的适配，以及开源权重带来的可定制性。适用场景涵盖智能助手、代码辅助开发、复杂问题求解及多步骤任务自动化，适合 AI 工程师进行二次微调与本地部署。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-09-22T02:21:25.771268+00:00"
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "source": "hackernews-top",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "hn_url": "https://news.ycombinator.com/item?id=49795579",
+      "description": "",
+      "hn_score": 60,
+      "comments": 35,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Claude Status 是 Anthropic 官方发布的服务状态页面，本次条目反映多个 Claude 模型出现 elevated errors（错误率升高）的告警事件。该页面用于实时监控 Claude 各模型与 API 的可用性、延迟和故障状态，帮助开发者快速判断服务异常是否源于官方侧而非自身代码。核心技术亮点在于提供分模型的细粒度状态追踪与事件历史记录，便于定位影响范围。适用场景包括依赖 Claude API 的生产系统运维、故障排查、SLA 监控以及多模型路由的降级决策。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-22T02:21:27.732778+00:00"
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "source": "hackernews-top",
+      "url": "https://brand.io/article/spymarks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49794615",
+      "description": "",
+      "hn_score": 130,
+      "comments": 32,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Spymarks 是一种针对 LLM 生成文本溯源的新机制，旨在替代传统 watermarks（水印）。传统水印通过在生成时嵌入统计偏置来标记 AI 文本，但易被改写、翻译或对抗攻击移除，且对模型输出质量有影响。Spymarks 的核心思路是让模型在生成内容中植入可验证但不可见的秘密标记，只有持有密钥的一方能检测，攻击者难以在不破坏语义的情况下移除。该技术适用于 AI 内容溯源、版权保护、虚假信息检测以及平台对 AI 生成内容的合规审查等场景。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-22T02:21:29.629801+00:00"
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "source": "hackernews-top",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "hn_url": "https://news.ycombinator.com/item?id=49794330",
+      "description": "",
+      "hn_score": 290,
+      "comments": 109,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该条目是一篇关于AI生成内容与人类原创性讨论的文章，标题直译为「我不想读你没写的东西」。文章核心观点是：在LLM大规模生成文本的时代，读者对「作者是否真正亲笔撰写」产生了强烈的信任危机，作者身份的真实性成为内容价值的重要维度。文章探讨了AI辅助写作与完全AI代写之间的边界问题，涉及署名伦理、内容可信度以及读者预期管理等议题。技术亮点在于从社会与伦理角度切入AI生成内容的信任机制，而非纯技术方案。适用场景包括AI写作工具的产品设计、内容平台的真伪标注策略、以及开发者对LLM输出透明度的思考。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-22T02:21:31.812529+00:00"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "source": "hackernews-top",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49792342",
+      "description": "",
+      "hn_score": 217,
+      "comments": 37,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Transformers Explained Visually 是一篇面向工程师的可视化技术教程，系统拆解 Transformer 架构的内部机制。它解决的是 Transformer 论文抽象、公式密集、初学者难以建立直觉的问题，通过图解方式呈现 self-attention、multi-head attention、positional encoding、encoder-decoder 结构及残差连接等核心组件的数据流动。技术亮点在于将 Q/K/V 矩阵运算、softmax 归一化和前馈网络逐步可视化，帮助读者理解 token 如何在不同层间传递与聚合信息。适用场景包括 LLM 入门学习、面试准备、向团队讲解注意力机制，以及为 fine-tuning 和 prompt engineering 打下架构层面的认知基础。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-22T02:21:33.866832+00:00"
+    },
+    {
+      "title": "What Sun got wrong",
+      "source": "hackernews-top",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "hn_url": "https://news.ycombinator.com/item?id=49787436",
+      "description": "",
+      "hn_score": 507,
+      "comments": 295,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "这是一篇关于 Sun Microsystems 战略失误的回顾性技术评论文章，源自 Hacker News 热门讨论。文章深入剖析了 Sun 在技术路线、产品决策和商业模式上的关键错误，包括对开源策略的摇摆、硬件与软件整合的失败，以及未能及时拥抱 x86 架构和云计算趋势。核心技术亮点在于从工程与商业双重视角复盘大型技术公司的兴衰逻辑，对理解技术战略决策具有参考价值。适用场景为技术管理者、架构师及对科技史感兴趣的工程师，用于反思平台生态与开源商业化路径。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-22T02:21:35.931788+00:00"
+    },
+    {
+      "title": "Attention is all you have",
+      "source": "hackernews-top",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "hn_url": "https://news.ycombinator.com/item?id=49787726",
+      "description": "",
+      "hn_score": 595,
+      "comments": 179,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该条目标题为「Attention is all you have」，源自 Hacker News 热榜，HN 得分 595，但描述信息缺失，无法确认其具体内容是指经典 Transformer 论文《Attention Is All You Need》的讨论、衍生技术文章，还是对注意力机制局限性的批判性分析。从标题措辞推测，可能探讨注意力机制在 LLM 中的核心地位及其边界问题。若为技术分析类文章，其价值在于帮助工程师理解 attention 的计算复杂度、长上下文瓶颈及替代方案（如 SSM、线性注意力）。适用场景包括模型架构选型、长序列建模优化及 LLM 推理加速研究。由于缺乏原文链接与摘要，实际参考价值受限。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-09-22T02:21:37.757393+00:00"
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "hn_url": "https://news.ycombinator.com/item?id=49791939",
+      "description": "",
+      "hn_score": 318,
+      "comments": 252,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "NASA 火星样本返回（Mars Sample Return, MSR）任务被确认终止，该任务原计划将毅力号采集的火星岩芯样本送回地球进行实验室分析。终止原因主要是预算超支与进度严重滞后，预计总成本已膨胀至 110 亿美元以上，且样本返回时间可能推迟至 2040 年。核心技术挑战涉及火星表面发射、轨道交会、样本封装与地球再入等多环节的复杂系统集成。该事件对行星科学、天体生物学及深空探测工程领域有重大影响，也间接影响依赖火星样本数据的地外生命探测与地质演化研究。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-22T02:21:39.688847+00:00"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "source": "hackernews-top",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "hn_url": "https://news.ycombinator.com/item?id=49792067",
+      "description": "",
+      "hn_score": 146,
+      "comments": 149,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该文章讨论 AI coding 工具（如 Copilot、Cursor 等）大幅提升代码产出速度后，传统 CI 流水线成为新的瓶颈。作者团队重新设计了 CI 架构以匹配 AI 驱动的开发节奏，核心思路包括并行化构建任务、缩短反馈回路、优化测试选择策略以及缓存与增量构建的深度整合。技术亮点在于将 CI 从串行等待模式转变为与 AI 代码生成速率匹配的高吞吐流水线，减少开发者等待时间。适用于已大规模采用 AI coding assistant、CI 排队时间显著增长的工程团队，尤其是中大型代码仓库场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-22T02:21:41.389114+00:00"
+    },
+    {
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "source": "hackernews-top",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "hn_url": "https://news.ycombinator.com/item?id=49795718",
+      "description": "",
+      "hn_score": 31,
+      "comments": 1,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该条目报道了 Robin Williams 的女儿对粉丝使用 AI 生成其父亲视频的公开谴责，属于 AI 伦理与社会影响议题。事件本身不涉及具体技术方案，而是聚焦生成式 AI（如 deepfake、AI 视频合成）在未经授权情况下对逝者形象进行再创作所引发的伦理争议。核心矛盾在于 AI 视频生成技术的低门槛与个人形象权、逝者尊严之间的冲突。适用场景为 AI 伦理讨论、深度伪造治理、内容平台审核政策制定，以及 AI 生成内容的法律与道德边界研究。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-22T02:21:43.267030+00:00"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "source": "hackernews-top",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "hn_url": "https://news.ycombinator.com/item?id=49791378",
+      "description": "",
+      "hn_score": 111,
+      "comments": 31,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "mathmain 是一个数学计算工具/库，其作者提出为何需要加密加载器（encrypted loader）的问题，探讨在开源数学软件中引入加密加载机制的必要性与安全考量。核心争议在于：加密加载器通常用于保护商业代码或防止逆向工程，但 mathmain 作为数学工具，其算法逻辑本身并不构成商业机密，加密反而可能阻碍社区审计、调试与二次开发。技术亮点在于对加载器加密方案（如代码签名、运行时解密、反调试）的权衡分析，以及开源许可与安全边界之间的冲突。适用场景包括开源项目维护者、安全工程师评估代码保护策略，以及对数学计算库分发方式感兴趣的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-22T02:21:45.338681+00:00"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "source": "hackernews-top",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "hn_url": "https://news.ycombinator.com/item?id=49791647",
+      "description": "",
+      "hn_score": 107,
+      "comments": 54,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该条目探讨在本地硬件上运行前沿AI模型（Frontier AI）的可行方案，核心是解决云端大模型依赖网络、隐私泄露和高昂API成本的问题。技术亮点包括量化压缩（如GGUF、AWQ）、推理优化框架（llama.cpp、vLLM）及消费级GPU/Apple Silicon的适配策略。适用场景为隐私敏感的数据处理、离线环境部署、个人开发者低成本实验及边缘AI应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-22T02:21:46.702908+00:00"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "source": "hackernews-top",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "hn_url": "https://news.ycombinator.com/item?id=49790409",
+      "description": "",
+      "hn_score": 245,
+      "comments": 165,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该条目介绍如何在 Mac 上关闭并限制 Apple Intelligence 功能的访问，属于系统隐私与安全配置指南。它解决的是用户对本地 AI 功能可能带来的隐私泄露、数据上传及非预期行为等担忧。核心技术亮点在于通过系统设置、MDM 配置描述文件或终端命令等途径，精细控制 Apple Intelligence 的启用状态与访问权限。适用场景包括企业 IT 管理员批量部署合规策略、隐私敏感用户主动禁用 AI 特性，以及开发者调试相关功能时的环境隔离。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-22T02:21:48.488834+00:00"
+    },
+    {
+      "title": "Grok 4.7",
+      "source": "hackernews-top",
+      "url": "https://x.ai/news/grok-4-7",
+      "hn_url": "https://news.ycombinator.com/item?id=49788838",
+      "description": "",
+      "hn_score": 505,
+      "comments": 419,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Grok 4.7 是 xAI 推出的新一代大语言模型，作为 Grok 系列的迭代版本，主要解决复杂推理、代码生成与多轮对话场景下的能力瓶颈。核心技术亮点包括增强的 reasoning 能力、更长的上下文窗口以及对 tool-use 和 agent 工作流的原生支持，同时在 benchmark 测试中展现出与主流前沿模型竞争的性能。适用场景涵盖开发者辅助编程、复杂问题求解、AI assistant 构建以及需要高推理深度的企业级应用。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-22T02:21:50.302876+00:00"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "source": "hackernews-top",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "hn_url": "https://news.ycombinator.com/item?id=49783999",
+      "description": "",
+      "hn_score": 408,
+      "comments": 185,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Kev 是一个基于 Qwen3.5 构建的轻量级决策模型家族，其设计思路借鉴了 Jev 系列模型。该项目旨在以极小的参数量实现高效的决策推理能力，解决在资源受限环境下部署决策模型的需求。核心技术亮点在于利用 Qwen3.5 作为基座进行蒸馏或微调，使模型在保持紧凑体积的同时具备可用的决策能力，可能涉及结构化输出与推理链优化。适用场景包括边缘设备上的智能决策、轻量级 agent 的决策模块、以及需要低延迟推理的自动化工作流。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "agent",
+        "fine-tuning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-22T02:21:51.956520+00:00"
+    },
+    {
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "source": "hackernews-top",
+      "url": "https://www.pagetable.com/300",
+      "hn_url": "https://news.ycombinator.com/item?id=49791125",
+      "description": "",
+      "hn_score": 104,
+      "comments": 30,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该项目将 Apple 1990 年代未完成的 Copland 操作系统 D11E4 版本移植到浏览器中运行，通过 WebAssembly 或 JavaScript 模拟器实现复古系统在网页端的启动与交互。它解决了老旧系统难以在现代硬件上运行、依赖特定模拟器环境的问题，核心技术亮点在于浏览器内完整模拟 Macintosh 硬件与 Copland 内核，无需本地安装。适用场景包括复古计算研究、操作系统历史教学、浏览器端系统模拟实验，对 AI 工程师的直接实用价值有限，但可作为 WebAssembly 系统模拟的参考案例。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-22T02:21:53.564461+00:00"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "hn_url": "https://news.ycombinator.com/item?id=49787142",
+      "description": "",
+      "hn_score": 186,
+      "comments": 32,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Cloudflare Workers 正式支持 Python 运行时，标志着边缘计算平台对 Python 生态的原生兼容。该功能解决了 Python 开发者无法在边缘节点直接部署无服务器函数的痛点，此前需依赖 JavaScript 或 WASM 桥接。核心技术亮点包括基于 V8 隔离的 Pyodide 运行时、冷启动优化及与 Workers 生态（KV、D1、R2）的无缝集成。适用场景涵盖 API 网关、轻量级 AI 推理代理、实时数据处理及边缘侧 RAG 检索服务。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-22T02:21:55.216389+00:00"
+    },
+    {
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "hn_url": "https://news.ycombinator.com/item?id=49789228",
+      "description": "",
+      "hn_score": 100,
+      "comments": 42,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "HERMES 是一种基于无线电的远距离语音与数据通信系统，旨在解决传统无线电通信在极远距离下带宽低、可靠性差的问题。其核心技术亮点在于采用新型调制解调方案与自适应跳频技术，在低信噪比环境下仍能维持稳定的语音和数据传输，并支持多跳中继扩展覆盖范围。该系统适用于应急通信、偏远地区网络覆盖、军事及户外探险等场景，为无蜂窝网络环境提供了一种低成本、易部署的通信替代方案。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-22T02:21:56.656983+00:00"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "hn_url": "https://news.ycombinator.com/item?id=49791509",
+      "description": "",
+      "hn_score": 204,
+      "comments": 116,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "该条目报道美国东海岸多个繁忙机场因光纤线路被切断而暂停航班，属于基础设施故障类新闻，而非 AI/LLM 技术内容。事件本身涉及通信网络物理层中断对航空调度系统的连锁影响，暴露出关键基础设施对单一光纤链路的高度依赖。核心技术看点在于光纤中断如何快速传导至空中交通管制与航班运营系统，以及应急切换机制的失效原因。适用场景为基础设施韧性评估、网络冗余设计及关键系统灾备规划，但与 AI 工程师的日常技术工作关联极弱。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-09-22T02:21:58.456280+00:00"
+    },
+    {
+      "title": "Fable 5 – Median thinking declined in August",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "hn_url": "https://news.ycombinator.com/item?id=49789224",
+      "description": "",
+      "hn_score": 364,
+      "comments": 248,
+      "collected_at": "2026-09-22T02:20:49.005861+00:00",
+      "published_at": "2026-09-22T02:20:49.005861+00:00",
+      "summary": "Fable 5 是一个针对 LLM 推理行为进行监测与分析的观察性项目，其最新报告指出 2025 年 8 月模型在「median thinking」指标上出现下降。该指标用于衡量模型在推理链中投入的中间思考步骤长度或深度，下降意味着模型倾向于用更少的中间推理步骤直接给出答案。核心技术亮点在于将「思考量」作为可量化信号进行时间序列追踪，而非仅关注最终准确率，从而揭示模型行为随版本迭代或提示策略变化的隐性漂移。适用场景包括 LLM 推理能力评估、模型版本回归监测、prompt-engineering 策略调优以及 reasoning 模型的部署前验证。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-22T02:22:00.568554+00:00"
+    }
+  ]
+}

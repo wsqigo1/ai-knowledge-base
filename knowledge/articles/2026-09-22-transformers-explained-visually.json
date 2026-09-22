@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-22-009",
+  "title": "Transformers Explained Visually",
+  "source": "hackernews-top",
+  "url": "https://poloclub.github.io/transformer-explainer/",
+  "summary": "Transformers Explained Visually 是一篇面向工程师的可视化技术教程，系统拆解 Transformer 架构的内部机制。它解决的是 Transformer 论文抽象、公式密集、初学者难以建立直觉的问题，通过图解方式呈现 self-attention、multi-head attention、positional encoding、encoder-decoder 结构及残差连接等核心组件的数据流动。技术亮点在于将 Q/K/V 矩阵运算、softmax 归一化和前馈网络逐步可视化，帮助读者理解 token 如何在不同层间传递与聚合信息。适用场景包括 LLM 入门学习、面试准备、向团队讲解注意力机制，以及为 fine-tuning 和 prompt engineering 打下架构层面的认知基础。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:21:33.866832+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

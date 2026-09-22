@@ -1,0 +1,480 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-22T02:20:50.490470+00:00",
+  "date": "2026-09-22",
+  "count": 19,
+  "items": [
+    {
+      "title": "browser-use/jev-ultrafast",
+      "source": "github-trending",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "stars": 15979,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-18T16:28:35Z",
+      "summary": "browser-use/jev-ultrafast 是 browser-use 组织推出的超高速 Web Agent 实现，主打「最快且最便宜」的网页自动化智能体。它解决传统浏览器 Agent 调用 LLM 频繁、token 消耗高、响应延迟大的问题，通过精简推理链路与高效 DOM 交互降低单步成本。核心技术亮点在于对浏览器操作序列的极致优化，减少冗余 LLM 调用，同时保持任务完成率。适用场景包括大规模网页数据采集、自动化表单填写、电商比价、RPA 流程替代等需要低成本高频调用的生产环境。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-22T02:20:52.306014+00:00"
+    },
+    {
+      "title": "zai-org/ZCode",
+      "source": "github-trending",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "stars": 5740,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-21T00:02:36Z",
+      "summary": "ZCode 是 Z.ai 推出的开源 coding agent harness，以 TypeScript 实现，定位为可扩展的编码智能体运行框架。它解决的是开发者将 LLM 接入真实代码库时缺乏统一编排层的问题：如何管理上下文、调用工具、执行多步任务并保持可插拔。核心技术亮点在于 harness 抽象——将 agent 循环、tool-use、上下文管理与模型调用解耦，便于替换底层模型或扩展自定义工具。适用场景包括自动化代码生成与重构、仓库级任务执行、CI 中的智能体集成，以及研究者构建 coding agent 实验平台。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-22T02:20:54.115514+00:00"
+    },
+    {
+      "title": "jarrodwatts/jev-trader",
+      "source": "github-trending",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "stars": 1868,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-17T02:48:22Z",
+      "summary": "jev-trader 是一个部署在 Monad 区块链上的 AI 自动交易代理，每个 Monad 区块执行一次 AI 交易决策，在 Kuru 去中心化交易所上交易 MON-USDC 交易对。它解决的核心问题是链上高频自动化交易中决策延迟与执行效率的矛盾——通过将 LLM 推理嵌入区块级循环，实现与出块节奏同步的实时交易。技术亮点在于 TypeScript 构建的 agent 架构，结合链上数据读取、AI 决策生成与 DEX 交互的完整闭环，展示了 AI agent 在低延迟区块链环境中的落地范式。适用场景包括链上量化交易策略验证、AI agent 与 DeFi 协议集成研究，以及 Monad 生态开发者参考。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:20:56.026965+00:00"
+    },
+    {
+      "title": "Mak5er/AirCard",
+      "source": "github-trending",
+      "url": "https://github.com/Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "stars": 1484,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-21T06:10:20Z",
+      "summary": "AirCard 是一个针对 iOS 18+ 的 Apple Wallet 卡片外观定制工具，无需越狱即可修改 Wallet 中卡片的视觉样式。它解决了 iOS 用户无法个性化 Apple Wallet 卡片外观的痛点，通过利用 iOS 18 引入的 Pass 自定义机制或系统 API 实现皮肤替换。核心技术亮点在于绕过沙盒限制、无需越狱即可注入自定义卡片样式，使用 Swift 编写，适配最新系统版本。适用场景包括希望个性化 Wallet 界面的 iOS 用户、研究 iOS 系统 UI 定制与安全边界的开发者，以及探索非越狱环境下系统级定制的技术爱好者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-22T02:20:57.845079+00:00"
+    },
+    {
+      "title": "jev-chat/jev-chat-jarvis",
+      "source": "github-trending",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "stars": 1300,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq",
+        "wechat"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-22T02:09:03Z",
+      "summary": "jev-chat-jarvis 是一款 Android 端对话副驾应用，基于 Kotlin 开发，通过 Accessibility Service 只读屏幕内容，在微信、QQ、X、飞书等社交应用中实时解析对方消息，调用 LLM 生成候选回复并一键填入输入框，发送决策权完全交给用户。其核心亮点在于非侵入式设计——不 hook、不改包、不注入进程，仅依赖系统无障碍服务读取界面文本，兼顾了功能可用性与账号安全性。该项目将 LLM 能力嵌入高频 IM 场景，降低了 AI 辅助沟通的使用门槛。适用场景包括社交回复辅助、客服话术建议、跨语言聊天辅助等需要实时生成对话内容的移动端场景。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-22T02:20:59.650320+00:00"
+    },
+    {
+      "title": "yibie/awesome-jev",
+      "source": "github-trending",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "stars": 998,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jev",
+        "llm"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-21T23:35:16Z",
+      "summary": "awesome-jev 是围绕 TypeSafe AI 的 System One 模型构建的公开项目、集成与讨论的精选列表。System One 专注于 typed decisions（类型化决策），即让 LLM 输出结构化、类型安全的结果而非自由文本。该列表汇集了基于 Jev 的生态资源，帮助开发者快速了解如何在应用中实现可靠的类型化 AI 决策。核心技术亮点在于将类型系统与 LLM 推理结合，降低输出解析错误率。适用场景包括需要严格结构化输出的 agent 工作流、tool-use 集成、以及任何要求 LLM 返回可验证数据结构的工程场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:01.224558+00:00"
+    },
+    {
+      "title": "korcarc/text-humanizer",
+      "source": "github-trending",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "stars": 740,
+      "language": "Python",
+      "topics": [
+        "ai-humanization",
+        "gptzero",
+        "gptzero-bypass",
+        "text-humanizer",
+        "turnitin",
+        "turnitin-bypass"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-19T20:43:14Z",
+      "summary": "text-humanizer 是一个 Python 开源工具，用于将 AI 生成的文本改写为更接近人类写作风格的版本，从而绕过 Turnitin、GPTZero 等主流 AI 检测器。其核心思路是通过改写句式、调整用词分布和文本统计特征，降低文本在困惑度（perplexity）和突发性（burstiness）等检测维度上的机器痕迹。该项目在 GitHub 上获得 740 星，属于 AI 文本对抗检测方向的实际应用工具。适用场景包括学术写作辅助、内容创作者规避平台 AI 检测，以及研究 AI 检测器鲁棒性的对抗测试。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-22T02:21:02.643145+00:00"
+    },
+    {
+      "title": "v-modal/awesome-jev-tools",
+      "source": "github-trending",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "stars": 628,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "jev",
+        "llm",
+        "robotics",
+        "robotics-algorithms",
+        "robotics-control",
+        "robotics-simulation"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-19T17:02:33Z",
+      "summary": "v-modal/awesome-jev-tools 是一个面向 Jev 模型的工具资源精选列表。Jev 是 TypeSafe AI 推出的 System One 模型，专注于类型化决策（typed decisions），即在结构化输出和类型安全约束下进行推理与判断。该仓库汇集了围绕 Jev 构建的各类工具，涵盖集成、开发辅助和生态扩展，帮助开发者快速接入并利用 Jev 的类型化决策能力。核心亮点在于将 LLM 决策过程与类型系统结合，降低输出不确定性，提升下游系统可靠性。适用场景包括需要严格结构化输出的 agent 工作流、类型安全的 AI 辅助编程、以及将 LLM 嵌入强类型系统的工程实践。",
+      "tags": [
+        "large-language-model",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:04.543812+00:00"
+    },
+    {
+      "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "source": "github-trending",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "stars": 602,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions",
+        "company-wise-prep",
+        "company-wise-questions",
+        "interview-questions",
+        "llm-inference",
+        "questions-and-answers"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-19T10:40:41Z",
+      "summary": "该项目是面向AI工程岗位面试的题库型Markdown仓库，按公司维度汇总了各大AI公司的面试问题与参考答案。它解决的是AI工程师准备面试时信息分散、缺少针对性题库的问题。核心亮点在于按公司分类组织，覆盖AI工程、LLM应用等方向，内容以问答形式呈现，便于快速查阅和背诵。适用场景包括求职者面试冲刺、团队内部技术考核参考，以及了解不同AI公司对工程能力的具体考察侧重点。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:06.183461+00:00"
+    },
+    {
+      "title": "hydra-db/open-glean",
+      "source": "github-trending",
+      "url": "https://github.com/hydra-db/open-glean",
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "stars": 600,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-17T05:46:34Z",
+      "summary": "Open Glean 是 hydra-db 推出的开源 AI 知识工作平台，定位为企业级 AI 助手与知识检索系统。它通过连接 Slack、Google Drive、Notion 等常用应用，构建统一的企业知识索引，让用户以自然语言提问并快速获得答案。核心技术亮点包括多源数据连接器、基于 RAG 的语义检索与答案生成、以及面向知识工作的 agent 工作流编排。项目以 TypeScript 实现，便于前端与全栈工程师二次开发。适用场景涵盖企业内部知识库问答、跨应用信息聚合、团队协作效率提升，以及希望自建 AI 助手替代闭源 SaaS 方案的组织。",
+      "tags": [
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-22T02:21:08.227738+00:00"
+    },
+    {
+      "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "source": "github-trending",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "description": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+      "stars": 519,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-18T12:58:46Z",
+      "summary": "OrcaBonsai-27B-Uncensored 是 OrcaRouter 团队推出的运行时行为消融（runtime behavioral ablation）工具，首个目标为 Ternary Bonsai 2 27B 压缩模型。它解决的是压缩 LLM 在部署后行为受限、难以灵活调整的问题，无需修改权重或重新量化即可在推理阶段干预模型行为。核心技术亮点在于运行时层面的行为消融机制，绕过了传统 fine-tuning 和 re-quantization 的高成本路径。适用场景包括对已量化大模型进行快速行为定制、安全对齐调整及研究性实验。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-22T02:21:09.905187+00:00"
+    },
+    {
+      "title": "devagrawal09/jev-review",
+      "source": "github-trending",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "stars": 494,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "code-review",
+        "jev",
+        "typesafe-ai",
+        "typescript"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-17T00:29:25Z",
+      "summary": "jev-review 是一个基于 TypeSafe Jev 构建的分阶段代码审查工作流与本地仪表盘，旨在解决传统 code review 流程中缺乏结构化阶段划分和本地可视化追踪的问题。其核心技术亮点在于利用 TypeScript 类型系统对 AI 驱动的审查流程进行类型安全约束，通过分阶段（staged）设计将审查任务拆解为可管理的步骤，并提供本地 dashboard 实时展示审查状态与结果。该项目适用于需要将 LLM 集成到代码审查环节的工程团队，尤其适合追求类型安全与本地化部署的 TypeScript 开发者，可作为 AI 辅助 code review 的轻量级工作流编排工具。",
+      "tags": [
+        "code-review",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:11.548910+00:00"
+    },
+    {
+      "title": "rmalde/minecraft-agent",
+      "source": "github-trending",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "stars": 475,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-20T05:05:16Z",
+      "summary": "rmalde/minecraft-agent 是一个面向 Minecraft 的自主智能体项目，核心由 Astra planner 与 JEV controller 两部分组成。Astra planner 负责高层任务规划，JEV controller 负责底层动作执行与状态控制，二者协同让 LLM 驱动的 agent 能在 Minecraft 环境中完成复杂目标。项目提供原生录制能力、经过测试的路线库以及运行验证机制，提升了任务执行的可靠性与可复现性。技术亮点在于将规划与执行解耦，并通过录制与验证形成闭环，降低调试成本。适用于研究 LLM agent 在开放世界游戏中的长程规划、工具调用与具身决策，也可作为 agent 评测与教学演示平台。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-22T02:21:13.478522+00:00"
+    },
+    {
+      "title": "AbdelStark/awesome-typesafe-jev",
+      "source": "github-trending",
+      "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+      "description": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
+      "stars": 430,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "awesome-jev",
+        "awesome-list",
+        "awesome-lists",
+        "curated-list",
+        "developer-tools",
+        "jev",
+        "llm",
+        "llm-routing",
+        "machine-learning",
+        "model-evaluation",
+        "semantic-routing",
+        "structured-output",
+        "system-one-models",
+        "typed-decisions",
+        "typesafe",
+        "typesafe-ai"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-21T22:19:05Z",
+      "summary": "该项目是围绕 TypeSafe 的 System One 模型构建的 awesome 资源集合，以 HTML 形式呈现，汇集了 SDK、实时演示、agent 工具及独立评测。它解决的问题是 AI 工程师在探索 TypeSafe System One 时缺乏统一、可溯源的信息入口，避免碎片化搜索。核心技术亮点在于 source-backed 的整理方式，强调每个条目有出处，并整合了 agent-skills 与 ai-agents 相关工具链。适用场景包括 AI agent 开发者调研 System One 能力边界、选型 SDK、复现演示，以及需要独立评测参考的工程团队。",
+      "tags": [
+        "agent",
+        "ai-agents",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:15.267228+00:00"
+    },
+    {
+      "title": "kerpopule/hermes-jev-skills",
+      "source": "github-trending",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "stars": 398,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-21T17:01:50Z",
+      "summary": "hermes-jev-skills 是一个面向 Hermes agents（同时兼容 Claude Code 与 Codex）的 Python 技能框架，通过 Jev 驱动的 model routing 实现多模型动态调度，并整合 memory 管理、context compaction、skill selection 以及 computer/browser use 能力。它解决的核心问题是 agent 在长任务中上下文膨胀、技能选择混乱、模型调用缺乏统一编排的痛点，让 agent 能自主压缩记忆、按需选取技能并操作浏览器与桌面环境。技术亮点在于将路由、记忆、压缩、技能选择统一为可插拔模块，并跨多个 agent runtime 复用。适用场景包括自动化工作流、浏览器自动化、多步骤任务编排及需要长期记忆的 AI assistant 开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-22T02:21:16.833048+00:00"
+    },
+    {
+      "title": "wuyoscar/jev-skill",
+      "source": "github-trending",
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "description": "An awesome collection of Jev use cases, workflows, and agent skills.",
+      "stars": 372,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-21T23:10:39Z",
+      "summary": "wuyoscar/jev-skill 是一个 Python 开源项目，收集了 Jev 的用例、工作流和 agent skills，旨在为开发者提供可复用的 agent 能力模板与编排范式。项目聚焦于将 agent 技能模块化、场景化，降低构建复杂 agent 工作流的门槛，核心亮点在于以集合形式沉淀真实用例与 workflow 配置，便于快速集成与二次开发。适用于需要快速搭建 agent 应用、探索多步骤任务编排或参考 agent skill 设计模式的 AI 工程师。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:18.498734+00:00"
+    },
+    {
+      "title": "Mak5er/AirCard-iOS",
+      "source": "github-trending",
+      "url": "https://github.com/Mak5er/AirCard-iOS",
+      "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "stars": 355,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-20T21:01:12Z",
+      "summary": "AirCard-iOS 是一个基于 Swift 开发的开源 iOS 项目，为 Apple Wallet 卡片和锁屏密码界面提供自定义皮肤与主题。它解决了 iOS 系统原生 Wallet 卡片和锁屏密码样式单一、缺乏个性化的问题，通过注入或替换系统 UI 资源实现视觉定制。核心技术亮点在于对 iOS 27 系统 UI 层的逆向分析与资源替换，涉及 Swift 运行时和系统框架调用。适用场景包括越狱或侧载环境下的 iOS 个性化美化，以及研究 iOS 系统 UI 定制机制的安全与逆向工程学习。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-22T02:21:20.207146+00:00"
+    },
+    {
+      "title": "fhshaik/typesafe-mario",
+      "source": "github-trending",
+      "url": "https://github.com/fhshaik/typesafe-mario",
+      "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state.",
+      "stars": 335,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-16T04:59:33Z",
+      "summary": "该项目实现了一个基于 TypeSafe/Jev 的 AI agent，通过读取结构化模拟器状态来玩《超级马里奥兄弟》。它解决的问题是：传统游戏 AI 依赖原始像素输入，学习效率低且难以泛化，而该项目将游戏状态解析为结构化数据（如马里奥位置、敌人坐标、关卡信息），让 agent 在更抽象、更紧凑的表示空间中进行决策。核心技术亮点在于状态抽象与 agent 框架的结合，降低了强化学习或规则策略的输入维度，同时保留了游戏动态的关键信息。适用场景包括游戏 AI 研究、agent 决策系统教学、以及作为结构化状态输入下强化学习算法的基准测试环境。",
+      "tags": [
+        "agent",
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-22T02:21:22.073438+00:00"
+    },
+    {
+      "title": "cobanov/awesome-jev",
+      "source": "github-trending",
+      "url": "https://github.com/cobanov/awesome-jev",
+      "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+      "stars": 310,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "confidence-aware-ai",
+        "decision-intelligence",
+        "jev",
+        "llm-guardrails",
+        "model-routing",
+        "open-source",
+        "structured-output",
+        "system-one-models",
+        "typesafe-ai"
+      ],
+      "collected_at": "2026-09-22T02:20:48.812195+00:00",
+      "published_at": "2026-09-22T01:37:39Z",
+      "summary": "cobanov/awesome-jev 是一个精选资源列表，收录基于 TypeSafe AI 的 System One 模型构建的项目，该模型专注于 typed decisions（类型化决策）。它解决的是 AI agent 在决策过程中缺乏类型安全与置信度感知的问题，通过结构化输出和 confidence-aware 机制提升决策可靠性。核心技术亮点在于将类型系统引入 LLM 决策流程，使 agent 输出可验证、可组合。适用场景包括需要高可靠性决策的 AI agent 开发、decision intelligence 系统以及 confidence-aware AI 应用。",
+      "tags": [
+        "ai-agents",
+        "open-source",
+        "reasoning",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-22T02:21:23.924880+00:00"
+    }
+  ]
+}

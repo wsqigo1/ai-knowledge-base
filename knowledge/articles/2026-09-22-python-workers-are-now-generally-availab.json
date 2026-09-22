@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-22-017",
+  "title": "Python Workers are now generally available",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/python-workers-ga/",
+  "summary": "Cloudflare Workers 正式支持 Python 运行时，标志着边缘计算平台对 Python 生态的原生兼容。该功能解决了 Python 开发者无法在边缘节点直接部署无服务器函数的痛点，此前需依赖 JavaScript 或 WASM 桥接。核心技术亮点包括基于 V8 隔离的 Pyodide 运行时、冷启动优化及与 Workers 生态（KV、D1、R2）的无缝集成。适用场景涵盖 API 网关、轻量级 AI 推理代理、实时数据处理及边缘侧 RAG 检索服务。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:21:55.216389+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-22-019",
+  "title": "Fable 5 – Median thinking declined in August",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/Lon/status/2101793422487204027",
+  "summary": "Fable 5 是一个针对 LLM 推理行为进行监测与分析的观察性项目，其最新报告指出 2025 年 8 月模型在「median thinking」指标上出现下降。该指标用于衡量模型在推理链中投入的中间思考步骤长度或深度，下降意味着模型倾向于用更少的中间推理步骤直接给出答案。核心技术亮点在于将「思考量」作为可量化信号进行时间序列追踪，而非仅关注最终准确率，从而揭示模型行为随版本迭代或提示策略变化的隐性漂移。适用场景包括 LLM 推理能力评估、模型版本回归监测、prompt-engineering 策略调优以及 reasoning 模型的部署前验证。",
+  "tags": [
+    "reasoning",
+    "benchmark",
+    "large-language-model",
+    "prompt-engineering",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:22:00.568554+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

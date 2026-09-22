@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-22-002",
+  "title": "jev-chat/jev-chat-jarvis",
+  "source": "github-trending",
+  "url": "https://github.com/jev-chat/jev-chat-jarvis",
+  "summary": "jev-chat-jarvis 是一款 Android 端对话副驾应用，基于 Kotlin 开发，通过 Accessibility Service 只读屏幕内容，在微信、QQ、X、飞书等社交应用中实时解析对方消息，调用 LLM 生成候选回复并一键填入输入框，发送决策权完全交给用户。其核心亮点在于非侵入式设计——不 hook、不改包、不注入进程，仅依赖系统无障碍服务读取界面文本，兼顾了功能可用性与账号安全性。该项目将 LLM 能力嵌入高频 IM 场景，降低了 AI 辅助沟通的使用门槛。适用场景包括社交回复辅助、客服话术建议、跨语言聊天辅助等需要实时生成对话内容的移动端场景。",
+  "tags": [
+    "ai-assistant",
+    "large-language-model",
+    "open-source",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-22T02:20:48.812195+00:00",
+  "analyzed_at": "2026-09-22T02:20:59.650320+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

@@ -1,7 +1,299 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2158,
+  "total_count": 2177,
   "entries": [
+    {
+      "id": "kb-2026-09-22-001",
+      "title": "browser-use/jev-ultrafast",
+      "source": "github-trending",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "file": "2026-09-22-browser-usejev-ultrafast.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-002",
+      "title": "jev-chat/jev-chat-jarvis",
+      "source": "github-trending",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "file": "2026-09-22-jev-chatjev-chat-jarvis.json",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-003",
+      "title": "hydra-db/open-glean",
+      "source": "github-trending",
+      "url": "https://github.com/hydra-db/open-glean",
+      "file": "2026-09-22-hydra-dbopen-glean.json",
+      "tags": [
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-004",
+      "title": "AbdelStark/awesome-typesafe-jev",
+      "source": "github-trending",
+      "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+      "file": "2026-09-22-abdelstarkawesome-typesafe-jev.json",
+      "tags": [
+        "agent",
+        "ai-agents",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-005",
+      "title": "wuyoscar/jev-skill",
+      "source": "github-trending",
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "file": "2026-09-22-wuyoscarjev-skill.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-006",
+      "title": "Xiaomi MiMo v2.6",
+      "source": "hackernews-top",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "file": "2026-09-22-xiaomi-mimo-v26.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-007",
+      "title": "Spymarks, Not Watermarks",
+      "source": "hackernews-top",
+      "url": "https://brand.io/article/spymarks/",
+      "file": "2026-09-22-spymarks-not-watermarks.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-008",
+      "title": "I don't want to read what you didn't write",
+      "source": "hackernews-top",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "file": "2026-09-22-i-dont-want-to-read-what-you-didnt-write.json",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-009",
+      "title": "Transformers Explained Visually",
+      "source": "hackernews-top",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "file": "2026-09-22-transformers-explained-visually.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-010",
+      "title": "What Sun got wrong",
+      "source": "hackernews-top",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "file": "2026-09-22-what-sun-got-wrong.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-011",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "source": "hackernews-top",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "file": "2026-09-22-ai-coding-has-made-ci-a-bottleneck-so-we.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-012",
+      "title": "Why does mathmain need an encrypted loader?",
+      "source": "hackernews-top",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "file": "2026-09-22-why-does-mathmain-need-an-encrypted-load.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-013",
+      "title": "Frontier AI on Your Own Hardware",
+      "source": "hackernews-top",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "file": "2026-09-22-frontier-ai-on-your-own-hardware.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-014",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "source": "hackernews-top",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "file": "2026-09-22-turn-off-and-restrict-access-to-apple-in.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-015",
+      "title": "Grok 4.7",
+      "source": "hackernews-top",
+      "url": "https://x.ai/news/grok-4-7",
+      "file": "2026-09-22-grok-47.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "tool-use",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-016",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "source": "hackernews-top",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "file": "2026-09-22-kev-tiny-jev-like-family-of-decision-mod.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "agent",
+        "fine-tuning"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-017",
+      "title": "Python Workers are now generally available",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "file": "2026-09-22-python-workers-are-now-generally-availab.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-018",
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "file": "2026-09-22-hermes-radio-enables-voice-and-data-comm.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
+    {
+      "id": "kb-2026-09-22-019",
+      "title": "Fable 5 – Median thinking declined in August",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "file": "2026-09-22-fable-5-median-thinking-declined-in-augu.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-22T02:22:00.605904+00:00"
+    },
     {
       "id": "kb-2026-09-21-001",
       "title": "zai-org/ZCode",
@@ -32241,5 +32533,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-21T02:18:00.020493+00:00"
+  "last_updated": "2026-09-22T02:22:00.736124+00:00"
 }

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-22-001",
+  "title": "browser-use/jev-ultrafast",
+  "source": "github-trending",
+  "url": "https://github.com/browser-use/jev-ultrafast",
+  "summary": "browser-use/jev-ultrafast 是 browser-use 组织推出的超高速 Web Agent 实现，主打「最快且最便宜」的网页自动化智能体。它解决传统浏览器 Agent 调用 LLM 频繁、token 消耗高、响应延迟大的问题，通过精简推理链路与高效 DOM 交互降低单步成本。核心技术亮点在于对浏览器操作序列的极致优化，减少冗余 LLM 调用，同时保持任务完成率。适用场景包括大规模网页数据采集、自动化表单填写、电商比价、RPA 流程替代等需要低成本高频调用的生产环境。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source",
+    "large-language-model"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-22T02:20:48.812195+00:00",
+  "analyzed_at": "2026-09-22T02:20:52.306014+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

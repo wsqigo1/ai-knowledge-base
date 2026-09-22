@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-22-011",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "source": "hackernews-top",
+  "url": "https://linear.app/now/ci-bottleneck-reworked",
+  "summary": "该文章讨论 AI coding 工具（如 Copilot、Cursor 等）大幅提升代码产出速度后，传统 CI 流水线成为新的瓶颈。作者团队重新设计了 CI 架构以匹配 AI 驱动的开发节奏，核心思路包括并行化构建任务、缩短反馈回路、优化测试选择策略以及缓存与增量构建的深度整合。技术亮点在于将 CI 从串行等待模式转变为与 AI 代码生成速率匹配的高吞吐流水线，减少开发者等待时间。适用于已大规模采用 AI coding assistant、CI 排队时间显著增长的工程团队，尤其是中大型代码仓库场景。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:21:41.389114+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

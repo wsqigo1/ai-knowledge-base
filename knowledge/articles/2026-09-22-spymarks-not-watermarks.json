@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-22-007",
+  "title": "Spymarks, Not Watermarks",
+  "source": "hackernews-top",
+  "url": "https://brand.io/article/spymarks/",
+  "summary": "Spymarks 是一种针对 LLM 生成文本溯源的新机制，旨在替代传统 watermarks（水印）。传统水印通过在生成时嵌入统计偏置来标记 AI 文本，但易被改写、翻译或对抗攻击移除，且对模型输出质量有影响。Spymarks 的核心思路是让模型在生成内容中植入可验证但不可见的秘密标记，只有持有密钥的一方能检测，攻击者难以在不破坏语义的情况下移除。该技术适用于 AI 内容溯源、版权保护、虚假信息检测以及平台对 AI 生成内容的合规审查等场景。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:21:29.629801+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}

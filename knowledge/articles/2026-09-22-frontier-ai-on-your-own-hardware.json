@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-22-013",
+  "title": "Frontier AI on Your Own Hardware",
+  "source": "hackernews-top",
+  "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+  "summary": "该条目探讨在本地硬件上运行前沿AI模型（Frontier AI）的可行方案，核心是解决云端大模型依赖网络、隐私泄露和高昂API成本的问题。技术亮点包括量化压缩（如GGUF、AWQ）、推理优化框架（llama.cpp、vLLM）及消费级GPU/Apple Silicon的适配策略。适用场景为隐私敏感的数据处理、离线环境部署、个人开发者低成本实验及边缘AI应用。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-22T02:20:49.005861+00:00",
+  "analyzed_at": "2026-09-22T02:21:46.702908+00:00",
+  "organized_at": "2026-09-22T02:22:00.605904+00:00",
+  "status": "published"
+}
