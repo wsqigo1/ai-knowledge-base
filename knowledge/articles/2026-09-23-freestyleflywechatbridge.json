@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-003",
+  "title": "freestylefly/WeChatBridge",
+  "source": "github-trending",
+  "url": "https://github.com/freestylefly/WeChatBridge",
+  "summary": "WeChatBridge 是一款原生 macOS 工具，通过 Share Extension 将微信聊天记录一键转发至 AI Agent 与 Obsidian。它解决了微信封闭生态中聊天数据难以导出、无法直接喂给 LLM 或知识库的痛点。核心亮点在于利用 macOS 原生分享扩展机制，无需越狱或逆向即可捕获聊天内容，并以结构化格式传递给下游 AI 工具或笔记系统。适用场景包括：将微信对话作为 context 输入 AI assistant 进行总结或问答、构建个人知识库时自动归档重要聊天记录、以及为 agent 提供真实社交语料。",
+  "tags": [
+    "ai-assistant",
+    "workflow-automation",
+    "open-source",
+    "tool-use",
+    "macos"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-23T02:21:01.274759+00:00",
+  "analyzed_at": "2026-09-23T02:21:30.052545+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

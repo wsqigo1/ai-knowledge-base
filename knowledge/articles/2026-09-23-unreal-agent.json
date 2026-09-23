@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-014",
+  "title": "Unreal Agent",
+  "source": "hackernews-top",
+  "url": "https://unreallabs.ai/blog/unreal-agent/",
+  "summary": "Unreal Agent 是 Hacker News 上引发关注的开源项目，定位为面向 Unreal Engine 的 AI Agent 框架。它试图解决游戏开发中重复性编辑器操作、蓝图逻辑搭建与资产管线管理难以自动化的问题，让 LLM 驱动的 agent 能够直接操控引擎完成开发任务。核心技术亮点在于将 agent 的 tool-use 能力与 Unreal 的编辑器 API、Python 脚本接口打通，使自然语言指令可转化为实际的引擎操作与代码生成。适用场景包括游戏原型快速迭代、关卡与资产的批量处理、以及为技术美术和独立开发者降低引擎操作门槛。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-23T02:21:01.374947+00:00",
+  "analyzed_at": "2026-09-23T02:21:58.380158+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

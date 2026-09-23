@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-006",
+  "title": "GPT-6 Sol and Luna",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+  "summary": "GPT-6 Sol and Luna 是 OpenAI 下一代旗舰大语言模型，据称采用双模型架构（Sol 与 Luna），分别面向高复杂度推理与高效轻量响应场景。该模型旨在解决当前 LLM 在推理深度与推理成本之间难以兼顾的问题，通过动态路由机制在两类模型间分配任务，兼顾性能与效率。核心技术亮点包括双模型协同推理、自适应计算分配以及可能的多模态能力增强。适用场景涵盖复杂 agent 任务、多步推理、代码生成及企业级 AI 助手部署，对追求推理质量与成本平衡的 AI 工程师具有较高参考价值。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "agent",
+    "multimodal",
+    "benchmark"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-09-23T02:21:01.374947+00:00",
+  "analyzed_at": "2026-09-23T02:21:37.052579+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

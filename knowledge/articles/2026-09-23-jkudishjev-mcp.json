@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-004",
+  "title": "jkudish/jev-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/jkudish/jev-mcp",
+  "summary": "jev-mcp 是 TypeSafe 的 Jev 模型通过 MCP（Model Context Protocol）协议暴露为可调用工具的封装项目，使用 JavaScript 实现。它解决的核心问题是：AI Agent 在需要快速、低成本且带类型约束的判断（judgment）能力时，往往依赖昂贵的大模型推理或缺乏结构化输出。该项目将 Jev 模型的判断能力以 MCP tool 形式接入，让 Claude、Cursor 等支持 MCP 的客户端可直接调用，获得 typed judgments，兼顾速度与成本。技术亮点在于 MCP 标准化接口与类型化输出的结合，降低了 Agent 集成判断能力的门槛。适用场景包括 Agent 工作流中的分类、路由、质量评估等需要轻量判断的环节。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "agent",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-23T02:21:01.274759+00:00",
+  "analyzed_at": "2026-09-23T02:21:31.682456+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

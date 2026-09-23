@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-001",
+  "title": "unreallabsai/unreal-agent",
+  "source": "github-trending",
+  "url": "https://github.com/unreallabsai/unreal-agent",
+  "summary": "unreal-agent 是 Unreal Labs 推出的 async-first agent harness，用 Go 编写，为构建 LLM agent 提供异步优先的运行时骨架。它解决的是现有 agent 框架普遍同步阻塞、并发工具调用与流式事件处理效率低的问题，通过 Go 的 goroutine 与 channel 实现非阻塞的任务编排、工具调用和事件流。核心亮点在于 async-first 设计、轻量级 harness 抽象以及 Go 带来的高并发与低资源开销。适用于需要高吞吐、低延迟的多工具 agent 服务、后端自动化流程以及生产级 agent 基础设施搭建。",
+  "tags": [
+    "agent",
+    "open-source",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-23T02:21:01.274759+00:00",
+  "analyzed_at": "2026-09-23T02:21:09.032831+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

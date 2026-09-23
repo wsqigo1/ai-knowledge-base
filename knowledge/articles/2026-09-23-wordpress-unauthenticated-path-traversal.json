@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-23-011",
+  "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+  "source": "hackernews-top",
+  "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+  "summary": "该条目披露了 WordPress 中一个未授权路径遍历漏洞，可导致条件性远程代码执行（conditional RCE）。攻击者无需登录即可利用路径遍历读取或包含任意文件，在特定配置（如存在可写目录或可利用的文件包含链）下进一步触发 RCE。核心技术点在于绕过 WordPress 的输入校验与文件路径规范化逻辑，结合插件或主题中的不安全文件操作实现利用。该漏洞影响面广，适用于安全研究、渗透测试及 WordPress 站点运维人员评估风险与修复。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-23T02:21:01.374947+00:00",
+  "analyzed_at": "2026-09-23T02:21:51.148884+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

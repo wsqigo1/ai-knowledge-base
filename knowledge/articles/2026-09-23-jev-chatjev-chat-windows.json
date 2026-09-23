@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-005",
+  "title": "jev-chat/jev-chat-windows",
+  "source": "github-trending",
+  "url": "https://github.com/jev-chat/jev-chat-windows",
+  "summary": "jev-chat-windows 是一款运行于 Windows 平台的微信 4.x 旁挂式回复辅助工具，通过窗口截图结合本地离线 OCR 识别对方消息内容，再由 Jev 模型进行意图判断并生成 3 条候选回复，用户可一键填入输入框但发送始终手动完成。其核心亮点在于 local-first 架构，OCR 与推理均在本地执行，避免聊天数据上传云端，兼顾隐私与低延迟。该项目以 Python 实现，适合关注本地化 LLM 应用、隐私敏感场景下的 AI 辅助输入，以及希望研究旁挂式桌面 agent 交互范式的开发者参考。",
+  "tags": [
+    "ai-assistant",
+    "large-language-model",
+    "workflow-automation",
+    "open-source",
+    "multimodal"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-23T02:21:01.274759+00:00",
+  "analyzed_at": "2026-09-23T02:21:33.679128+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

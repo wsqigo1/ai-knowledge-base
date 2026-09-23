@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-23-013",
+  "title": "How did AMD Ryzen get 50% faster in two years?",
+  "source": "hackernews-top",
+  "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+  "summary": "该条目讨论 AMD Ryzen 处理器在两年内实现约 50% 性能提升的技术原因，属于硬件架构与性能优化分析。核心亮点在于揭示 AMD 通过 Zen 架构迭代、制程升级（如从 GF 14nm 转向 TSMC 7nm）、chiplet 设计、缓存与频率优化等手段实现代际飞跃。适用场景为关注 CPU 微架构、性能工程、硬件选型与 AI 推理部署成本优化的工程师。对 AI 工程师而言，其价值在于理解 CPU 性能演进对推理、数据预处理和边缘部署的影响，但并非直接 LLM 技术内容。",
+  "tags": [
+    "benchmark",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-23T02:21:01.374947+00:00",
+  "analyzed_at": "2026-09-23T02:21:54.690414+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

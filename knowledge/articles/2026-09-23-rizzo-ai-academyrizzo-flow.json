@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-23-002",
+  "title": "Rizzo-AI-Academy/rizzo-flow",
+  "source": "github-trending",
+  "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+  "summary": "rizzo-flow 是 Jev 的开源本地替代方案，核心思路是让 LLM 输出结构化、带类型的决策结果，而非自由文本 token 流。它解决的是传统 LLM 调用中输出不可控、难以直接接入下游程序逻辑的问题——通过约束解码或类型系统引导模型直接产出可编程消费的决策对象，省去解析自然语言的中间环节。技术亮点在于'不生成任何 token'的决策范式，将 LLM 定位为分类器/路由器而非文本生成器，降低延迟与不确定性。适用于 agent 编排、工作流自动化、工具调用路由等需要 LLM 做确定性判断的场景。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "workflow-automation",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-23T02:21:01.274759+00:00",
+  "analyzed_at": "2026-09-23T02:21:28.153503+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

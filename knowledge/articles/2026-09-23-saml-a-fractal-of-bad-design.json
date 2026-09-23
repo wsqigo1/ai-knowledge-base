@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-23-009",
+  "title": "SAML: A fractal of bad design",
+  "source": "hackernews-top",
+  "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+  "summary": "SAML（Security Assertion Markup Language）是一套基于 XML 的企业级单点登录与身份联邦协议，广泛用于 IdP 与 SP 之间的认证断言交换。该文以尖锐批评视角剖析 SAML 规范在 XML 签名验证、断言包装、命名空间处理等环节的设计缺陷，指出其复杂性与实现不一致导致大量安全漏洞（如 XSW 攻击）。核心价值在于揭示协议设计如何因过度灵活而滋生实现分歧与攻击面，对身份安全审计与协议设计反思具有参考意义。适用于安全工程师、身份认证系统开发者及协议设计研究者。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-23T02:21:01.374947+00:00",
+  "analyzed_at": "2026-09-23T02:21:47.408900+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}

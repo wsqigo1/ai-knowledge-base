@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-23-017",
+  "title": "Show HN: Training a model to identify AI web content from structure alone",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.15369",
+  "summary": "该项目通过分析网页的 HTML 结构特征（而非文本语义）来训练模型识别 AI 生成内容，旨在解决当前 AI 文本检测器依赖语言模式、易被改写绕过的问题。核心技术亮点在于将检测维度从内容语义转向 DOM 结构、标签分布、排版模式等结构性信号，可能利用分类模型（如 GBDT 或轻量神经网络）对结构特征进行建模。适用场景包括内容平台反垃圾、搜索引擎质量评估、学术诚信辅助判断等，但需注意结构特征可能随网站模板变化而漂移，泛化能力待验证。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-23T02:21:01.374947+00:00",
+  "analyzed_at": "2026-09-23T02:22:09.339710+00:00",
+  "organized_at": "2026-09-23T02:22:11.005384+00:00",
+  "status": "published"
+}
