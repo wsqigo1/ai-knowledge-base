@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-008",
+  "title": "Mercury 2.5 LLM hits 770 tokens per second",
+  "source": "hackernews-top",
+  "url": "https://artificialanalysis.ai/models/mercury-2-5",
+  "summary": "Mercury 2.5 是一款主打极致推理速度的 LLM，在特定硬件与推理配置下实现 770 tokens/秒的生成吞吐，显著高于当前主流商用模型的典型输出速度。其核心亮点在于推理加速与低延迟优化，可能涉及模型架构精简、KV Cache 管理、批处理调度或专用推理引擎适配，而非单纯依赖更大参数规模。该模型适用于对实时性要求极高的场景，如流式对话、代码补全、agent 工具调用循环以及高并发 API 服务，能有效降低单位 token 的响应延迟与推理成本。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "code-generation",
+    "agent",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-24T02:08:51.369303+00:00",
+  "analyzed_at": "2026-09-24T02:09:29.076860+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-002",
+  "title": "nokia-applied-research/AnyJev",
+  "source": "github-trending",
+  "url": "https://github.com/nokia-applied-research/AnyJev",
+  "summary": "AnyJev 是 Nokia 应用研究团队开源的工具，将任意 LLM 转化为 Jev 风格的决策模型，无需任何训练或微调。它解决的核心问题是 LLM 在需要输出结构化决策时概率不可靠、缺乏校准的问题。技术亮点在于通过 typed decisions（类型化决策）让模型输出带真实概率的决策结果，并借助 calibration 机制提升概率可信度，全程零训练成本。适用场景包括需要可解释、可量化概率输出的决策支持系统、风险评估、自动化 agent 中的分支决策，以及任何要求 LLM 给出校准概率而非简单文本的工程场景。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source",
+    "agent",
+    "benchmark"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-09-24T02:08:51.268479+00:00",
+  "analyzed_at": "2026-09-24T02:09:14.106555+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

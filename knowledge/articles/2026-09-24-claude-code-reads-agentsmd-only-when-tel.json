@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-016",
+  "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+  "source": "hackernews-top",
+  "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+  "summary": "Claude Code 是 Anthropic 推出的终端 AI 编程助手，该条目揭示了一个隐蔽行为：只有当遥测（telemetry）开启时，Claude Code 才会读取项目根目录下的 AGENTS.md 文件。AGENTS.md 是社区约定用于向 AI 编码代理传递项目规范、构建命令与代码风格的配置文件，本应作为 agent 上下文的一部分被无条件加载。该问题意味着关闭遥测的用户其 agent 无法获取项目级指令，导致代码生成偏离预期。核心亮点在于暴露了 AI 编程工具中配置加载与隐私开关耦合的设计缺陷，涉及 agent 上下文注入与 tool-use 流程。适用于使用 Claude Code 或类似 AI 编码代理的开发者，以及关注 agent 配置管理机制的研究者。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "developer-tools",
+    "ai-assistant",
+    "tool-use"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-24T02:08:51.369303+00:00",
+  "analyzed_at": "2026-09-24T02:09:48.056236+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-003",
+  "title": "jev-chat/jev-chat-jarvis-mac",
+  "source": "github-trending",
+  "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+  "summary": "jev-chat-jarvis-mac 是一款 macOS 悬浮窗工具，通过屏幕 OCR 读取微信聊天内容，结合本地小模型进行意图识别与风险判断，再按预设话术生成回复候选。它解决的是在不侵入微信客户端的前提下，辅助用户快速理解消息意图并准备回复的问题。核心技术亮点在于纯只读设计、本地优先的隐私保护架构，以及 OCR 与 LLM 意图分类的流水线组合。适用场景包括客服辅助、社交消息管理、隐私敏感环境下的消息处理，以及本地 LLM 在桌面自动化中的探索性应用。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "multimodal",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-24T02:08:51.268479+00:00",
+  "analyzed_at": "2026-09-24T02:09:18.923304+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

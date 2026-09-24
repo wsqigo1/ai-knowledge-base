@@ -1,0 +1,511 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-24T02:08:52.474379+00:00",
+  "date": "2026-09-24",
+  "count": 19,
+  "items": [
+    {
+      "title": "zai-org/ZCode",
+      "source": "github-trending",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "stars": 6548,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T13:25:04Z",
+      "summary": "ZCode 是 Z.ai 推出的开源 coding agent harness，基于 TypeScript 构建，定位为强大、智能、可扩展的编程智能体框架。它解决的是开发者将 LLM 接入实际编码工作流时缺乏统一编排层的问题，提供工具调用、上下文管理与任务执行的基础设施。核心技术亮点在于其 harness 架构设计，支持灵活扩展自定义工具与 agent 行为，便于集成到现有开发环境。适用场景包括自动化代码生成、仓库级重构、CI 辅助编程以及构建定制化 coding assistant，适合需要深度定制 agent 能力的工程团队与研究者。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-09-24T02:08:54.021311+00:00"
+    },
+    {
+      "title": "jev-chat/jev-chat-jarvis",
+      "source": "github-trending",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "stars": 5298,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq",
+        "wechat"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-24T02:04:10Z",
+      "summary": "jev-chat-jarvis 是一款基于 Android Accessibility Service 的对话副驾应用，以 Kotlin 编写。它通过只读屏幕的方式，在微信、QQ、X、飞书等社交应用中实时读取聊天上下文，调用 LLM 生成候选回复并一键填入输入框，最终是否发送由用户决定。核心亮点在于非侵入式设计：不 hook、不修改目标应用、不依赖逆向工程，仅利用系统无障碍服务获取屏幕文本，兼顾了功能可用性与账号安全性。适用场景包括日常社交沟通辅助、跨平台消息统一处理，以及希望借助 LLM 提升回复效率但不愿承担封号风险的 Android 用户。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-24T02:08:55.385570+00:00"
+    },
+    {
+      "title": "unreallabsai/unreal-agent",
+      "source": "github-trending",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "stars": 1733,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T19:08:26Z",
+      "summary": "unreal-agent 是 Unreal Labs AI 推出的 async-first agent harness，用 Go 编写，为构建和运行 LLM agent 提供异步优先的运行时框架。它解决的是传统 agent 框架在并发任务、长时工具调用和流式响应场景下阻塞严重、吞吐低的问题，通过 Go 的 goroutine 与 channel 原生并发模型实现非阻塞调度。核心亮点在于 async-first 设计、轻量级 harness 抽象以及对 tool-use 流程的编排支持，适合需要高并发、低延迟的 agent 服务端部署、多工具编排与生产级 agent 基础设施搭建。",
+      "tags": [
+        "agent",
+        "open-source",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-24T02:08:57.145281+00:00"
+    },
+    {
+      "title": "kerpopule/hermes-jev-skills",
+      "source": "github-trending",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "stars": 709,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T19:49:40Z",
+      "summary": "hermes-jev-skills 是面向 Hermes agents（同时兼容 Claude Code 和 Codex）的技能与运行时框架，由 kerpopule 开源。它解决 agent 在长任务中模型选择、上下文记忆、压缩与技能调度分散、难以统一编排的问题。核心亮点包括 Jev 驱动的 model routing、memory 管理、context compaction、skill selection，以及 computer use 和 browser use 能力，使 agent 能自主操作桌面与网页。项目以 Python 实现，适合构建多工具、长周期自主 agent 的开发者，也适合研究 agent 记忆与技能路由机制的研究者。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "multi-agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-09-24T02:08:58.670788+00:00"
+    },
+    {
+      "title": "v-modal/awesome-jev-tools",
+      "source": "github-trending",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "stars": 697,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "jev",
+        "llm",
+        "robotics",
+        "robotics-algorithms",
+        "robotics-control",
+        "robotics-simulation"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-19T17:02:33Z",
+      "summary": "awesome-jev-tools 是围绕 TypeSafe AI 的 System One 模型 Jev 构建的工具资源合集，Jev 专注于类型化决策（typed decisions）场景。该列表汇总了与 Jev 集成的开发工具、库和示例，帮助工程师在 LLM 应用中实现结构化、可验证的决策输出。核心亮点在于将类型系统引入 LLM 决策流程，降低幻觉和格式错误风险，提升下游系统可靠性。适用于需要严格输出约束的 agent 工作流、tool-use 编排及企业级 AI 应用开发。",
+      "tags": [
+        "large-language-model",
+        "tool-use",
+        "agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-24T02:09:00.153452+00:00"
+    },
+    {
+      "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "source": "github-trending",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "stars": 640,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions",
+        "company-wise-prep",
+        "company-wise-questions",
+        "interview-questions",
+        "llm-inference",
+        "questions-and-answers"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-19T10:40:41Z",
+      "summary": "该项目是面向AI工程岗位面试的题库合集，按公司维度整理问题与参考答案，覆盖LLM、RAG、Agent等方向。它解决的是AI工程师面试准备资料分散、缺乏体系化参考的问题。核心亮点在于按目标公司分类组织，便于针对性复习，内容以Markdown形式呈现，轻量易读。适用场景为求职者面试冲刺、团队招聘出题参考，以及工程师自查知识盲区。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-24T02:09:01.407794+00:00"
+    },
+    {
+      "title": "Mak5er/AirCard-iOS",
+      "source": "github-trending",
+      "url": "https://github.com/Mak5er/AirCard-iOS",
+      "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "stars": 612,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-20T21:01:12Z",
+      "summary": "AirCard-iOS 是一个基于 Swift 开发的开源 iOS 项目，为 Apple Wallet 卡片和锁屏密码界面提供自定义皮肤与主题。它解决了 iOS 系统原生 Wallet 卡片和锁屏密码界面视觉风格单一、缺乏个性化定制的问题。核心技术亮点在于利用 iOS 27 的新 API 对系统级 UI 组件进行外观重绘，实现卡片皮肤与密码主题的动态切换。该项目面向希望个性化 iPhone 锁屏与 Wallet 体验的 iOS 用户及 Swift 开发者，也可作为研究 iOS 系统 UI 定制与逆向工程的参考案例。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-24T02:09:02.944442+00:00"
+    },
+    {
+      "title": "freestylefly/WeChatBridge",
+      "source": "github-trending",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "stars": 566,
+      "language": "Swift",
+      "topics": [
+        "ai-agent",
+        "chat-history",
+        "macos",
+        "obsidian",
+        "share-extension",
+        "swift",
+        "wechat"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T15:43:39Z",
+      "summary": "WeChatBridge 是一款原生 macOS 工具，通过系统 Share Extension 将微信聊天记录一键转发至 AI Agent 与 Obsidian 知识库。它解决了微信封闭生态中聊天数据难以导出、无法直接喂给 LLM 或沉淀为个人知识资产的痛点。核心技术亮点在于利用 macOS 原生分享扩展机制，无需侵入微信客户端即可捕获聊天内容，并以 Swift 实现轻量级本地转发管道，支持对接 AI Agent 进行对话分析或写入 Obsidian 做长期笔记管理。适用场景包括：将微信中的技术讨论、灵感碎片自动归档至 Obsidian，或把聊天上下文直接送入 AI Agent 做摘要、翻译、问答等二次处理。",
+      "tags": [
+        "ai-agent",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-24T02:09:04.677322+00:00"
+    },
+    {
+      "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "source": "github-trending",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "description": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+      "stars": 533,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-22T21:35:31Z",
+      "summary": "OrcaBonsai-27B-Uncensored 是 OrcaRouter 团队推出的运行时行为消融（runtime behavioral ablation）工具，首个目标为 Ternary Bonsai 2 27B 压缩模型。它解决的是压缩/量化 LLM 在部署后难以灵活调整行为（如去除审查、改变输出风格）的问题，无需修改权重或重新量化。核心技术亮点在于运行时层面的行为干预，保持模型压缩结构不变，降低二次部署成本。适用于需要在边缘或低资源环境运行大模型、同时要求行为可定制的研究与工程场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-24T02:09:06.483958+00:00"
+    },
+    {
+      "title": "rmalde/minecraft-agent",
+      "source": "github-trending",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "stars": 531,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-20T05:05:16Z",
+      "summary": "rmalde/minecraft-agent 是一个面向 Minecraft 的自主智能体项目，核心由 Astra planner 与 JEV controller 两部分组成，前者负责高层任务规划，后者负责底层动作执行与控制。项目针对 Minecraft 这类长时序、开放世界任务中规划与执行脱节、路线不可复现的问题，提供原生录制、经过测试的路线以及运行验证机制，使智能体行为可追踪、可回放、可校验。技术亮点在于将 planner 与 controller 解耦并引入 route recording 与 run verification，提升任务执行的稳定性与可复现性。适用于 LLM agent 研究、具身智能仿真、游戏 AI 自动化测试等场景。",
+      "tags": [
+        "agent",
+        "open-source",
+        "reasoning",
+        "tool-use",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-24T02:09:08.080418+00:00"
+    },
+    {
+      "title": "wuyoscar/jev-skill",
+      "source": "github-trending",
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "description": "An awesome collection of Jev use cases, workflows, and agent skills.",
+      "stars": 464,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T15:03:58Z",
+      "summary": "jev-skill 是 wuyoscar 在 GitHub 上开源的 Jev 用例、工作流与 agent skills 集合，以 Python 实现。它针对 LLM agent 落地时缺乏可复用技能模板与工作流范例的问题，将常见任务封装为标准化 skill，覆盖 tool-use、任务编排与多步推理等场景。核心亮点在于以 skill 为粒度组织 agent 能力，降低从零构建 agent 的门槛，并提供可直接参考的 workflow 示例。适用于 AI 工程师快速搭建 agent 原型、复用 prompt 与工具调用模式，以及研究 agent skill 组织方式的开发者。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-24T02:09:09.593415+00:00"
+    },
+    {
+      "title": "jev-chat/jev-chat-windows",
+      "source": "github-trending",
+      "url": "https://github.com/jev-chat/jev-chat-windows",
+      "description": "微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "stars": 446,
+      "language": "Python",
+      "topics": [
+        "chat-assistant",
+        "jev",
+        "llm",
+        "local-first",
+        "ocr",
+        "privacy",
+        "pyqt",
+        "python",
+        "wechat",
+        "windows"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T21:44:13Z",
+      "summary": "jev-chat-windows 是一款运行于 Windows 平台的微信 4.x 旁挂式回复辅助工具，通过窗口截图结合本地离线 OCR 识别对方消息内容，再由 Jev（LLM）判断对话意图并生成 3 条候选回复，用户可一键填入输入框，但发送操作始终由人工手动完成。其核心亮点在于 local-first 架构：OCR 与意图判断均在本地完成，避免聊天数据上传云端，兼顾隐私与低延迟；同时采用旁挂而非注入方式，降低对微信客户端的侵入性与封号风险。适用场景包括高频客服沟通、社交消息批量处理以及注重隐私的日常聊天辅助。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "local-first",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-24T02:09:11.099467+00:00"
+    },
+    {
+      "title": "rgem227/knoweldge-base",
+      "source": "github-trending",
+      "url": "https://github.com/rgem227/knoweldge-base",
+      "description": "Personal or team knowledge base, supports MCP API calls.",
+      "stars": 424,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-22T05:28:17Z",
+      "summary": "rgem227/knoweldge-base 是一个基于 Python 的个人/团队知识库系统，核心亮点是原生支持 MCP（Model Context Protocol）API 调用，使知识库可作为工具被 LLM Agent 直接检索和调用。它解决的是团队或个人知识散落、难以被 AI 助手结构化访问的问题，通过 MCP 将知识库暴露为标准化工具接口，便于接入 Claude、Cursor 等支持 MCP 的客户端。适用场景包括个人笔记管理、团队文档沉淀、以及为 AI assistant 构建可调用的私有知识源，属于 RAG 与 tool-use 结合的轻量级实践。",
+      "tags": [
+        "mcp",
+        "rag",
+        "ai-assistant",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-24T02:09:12.522385+00:00"
+    },
+    {
+      "title": "nokia-applied-research/AnyJev",
+      "source": "github-trending",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+      "stars": 393,
+      "language": "Python",
+      "topics": [
+        "calibration",
+        "decision-model",
+        "jev",
+        "jev-model",
+        "llm",
+        "system-one",
+        "transformers",
+        "vllm"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T20:55:55Z",
+      "summary": "AnyJev 是 Nokia 应用研究团队开源的工具，将任意 LLM 转化为 Jev 风格的决策模型，无需任何训练或微调。它解决的核心问题是 LLM 在需要输出结构化决策时概率不可靠、缺乏校准的问题。技术亮点在于通过 typed decisions（类型化决策）让模型输出带真实概率的决策结果，并借助 calibration 机制提升概率可信度，全程零训练成本。适用场景包括需要可解释、可量化概率输出的决策支持系统、风险评估、自动化 agent 中的分支决策，以及任何要求 LLM 给出校准概率而非简单文本的工程场景。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-09-24T02:09:14.106555+00:00"
+    },
+    {
+      "title": "Rizzo-AI-Academy/rizzo-flow",
+      "source": "github-trending",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "stars": 392,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-21T23:31:43Z",
+      "summary": "rizzo-flow 是 Rizzo-AI-Academy 推出的开源本地化方案，对标 Jev 类工具，核心思路是让 LLM 输出结构化、带类型的决策结果，而非生成自然语言 token。它解决的是传统 LLM 调用中输出不可控、难以直接接入下游程序逻辑的问题，通过类型约束将模型能力收敛为可编程的决策接口。技术亮点在于完全本地运行、零 token 生成开销，适合需要低延迟、高确定性、数据不出本地的 agent 决策与 workflow-automation 场景，Python 实现便于集成。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-24T02:09:15.674329+00:00"
+    },
+    {
+      "title": "cobanov/awesome-jev",
+      "source": "github-trending",
+      "url": "https://github.com/cobanov/awesome-jev",
+      "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+      "stars": 377,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "confidence-aware-ai",
+        "decision-intelligence",
+        "jev",
+        "llm-guardrails",
+        "model-routing",
+        "open-source",
+        "structured-output",
+        "system-one-models",
+        "typesafe-ai"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T19:37:22Z",
+      "summary": "awesome-jev 是围绕 TypeSafe AI 的 System One 模型构建的项目精选列表，聚焦于「类型化决策」（typed decisions）这一 AI 应用范式。它解决的是当前 LLM 输出不可控、缺乏结构化保证的问题，通过类型系统约束模型决策路径，使 agent 行为可验证、可组合。核心技术亮点在于 confidence-aware 的决策机制与类型安全约束的结合，让 AI 输出从自由文本转向可编程的 typed 结构。适用场景包括需要高可靠性决策的 AI agent 系统、多步骤 workflow automation，以及要求输出可校验的 tool-use 场景。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-24T02:09:17.487091+00:00"
+    },
+    {
+      "title": "jev-chat/jev-chat-jarvis-mac",
+      "source": "github-trending",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+      "description": "微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。",
+      "stars": 311,
+      "language": "Python",
+      "topics": [
+        "llm",
+        "local-first",
+        "macos",
+        "ocr",
+        "privacy",
+        "pyobjc",
+        "python",
+        "wechat"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-23T21:01:26Z",
+      "summary": "jev-chat-jarvis-mac 是一款 macOS 悬浮窗工具，通过屏幕 OCR 读取微信聊天内容，结合本地小模型进行意图识别与风险判断，再按预设话术生成回复候选。它解决的是在不侵入微信客户端的前提下，辅助用户快速理解消息意图并准备回复的问题。核心技术亮点在于纯只读设计、本地优先的隐私保护架构，以及 OCR 与 LLM 意图分类的流水线组合。适用场景包括客服辅助、社交消息管理、隐私敏感环境下的消息处理，以及本地 LLM 在桌面自动化中的探索性应用。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-24T02:09:18.923304+00:00"
+    },
+    {
+      "title": "Oldcircle/geo-sleuth",
+      "source": "github-trending",
+      "url": "https://github.com/Oldcircle/geo-sleuth",
+      "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+      "stars": 296,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-vision",
+        "cursor",
+        "gemini-cli",
+        "geoguessr",
+        "geoint",
+        "geolocation",
+        "github-copilot",
+        "image-geolocation",
+        "opencode",
+        "openstreetmap",
+        "osint",
+        "photo-geolocation",
+        "reverse-image-search",
+        "satellite-imagery"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-21T03:43:02Z",
+      "summary": "geo-sleuth 是一个面向 AI agent 的图像地理定位技能，通过整合 OpenStreetMap 几何数据、海拔天际线、卫星影像与街景信息，推断照片的拍摄位置，并展示完整推理过程。它解决了传统图像地理定位依赖单一模型、缺乏可解释性的问题，核心亮点在于将多源地理空间数据作为 agent 工具链，支持 Claude Code、Codex、Cursor、Gemini CLI 等主流 agent 框架。适用于 OSINT 调查、新闻核实、地理推理 benchmark 构建及多模态 agent 工具调用研究。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "tool-use",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-24T02:09:20.338044+00:00"
+    },
+    {
+      "title": "sutro-sh/jev-align",
+      "source": "github-trending",
+      "url": "https://github.com/sutro-sh/jev-align",
+      "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
+      "stars": 284,
+      "language": "Python",
+      "topics": [
+        "active-learning",
+        "classification",
+        "cli",
+        "gepa",
+        "human-in-the-loop",
+        "jev",
+        "prompt-optimization",
+        "typesafe-ai"
+      ],
+      "collected_at": "2026-09-24T02:08:51.268479+00:00",
+      "published_at": "2026-09-20T20:50:08Z",
+      "summary": "jev-align 是一个基于 Python 的开源 CLI 工具，用于从人类反馈中构建经过校准的 AI Functions。它解决的核心问题是：LLM 生成的分类或判断结果往往缺乏可靠性校准，难以直接用于生产环境。项目结合 Jev 和 GEPA 两种机制，通过 human-in-the-loop 的主动学习流程，让开发者以少量人工标注持续优化 AI Function 的输出质量与置信度。其技术亮点在于将主动学习、分类校准与 CLI 工作流整合，降低了构建可信 AI 判断模块的门槛。适用场景包括文本分类、数据标注辅助、需要置信度校准的 LLM 判断任务，以及希望以低成本引入人工反馈闭环的 AI 工程团队。",
+      "tags": [
+        "active-learning",
+        "human-in-the-loop",
+        "developer-tools",
+        "classification",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-24T02:09:21.991880+00:00"
+    }
+  ]
+}

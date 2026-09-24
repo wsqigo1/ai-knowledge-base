@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-017",
+  "title": "Once Claude can measure something, it can make it faster",
+  "source": "hackernews-top",
+  "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+  "summary": "该条目讨论 Claude 在具备对某项指标进行量化测量的能力后，即可针对该指标进行优化提速，核心思路是将「可测量性」作为性能优化的前提。文章很可能展示了通过让 Claude 接入可观测工具（如 profiling、benchmark、日志指标）形成测量—反馈—改进的闭环，从而让模型自主或半自主地优化代码、prompt 或工作流。技术亮点在于把 LLM 与可量化反馈信号结合，避免纯靠猜测的优化，适用于代码性能调优、agent 工作流加速、prompt 迭代等需要可度量改进的场景。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "benchmark",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-24T02:08:51.369303+00:00",
+  "analyzed_at": "2026-09-24T02:09:50.084579+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

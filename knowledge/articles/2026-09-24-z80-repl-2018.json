@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-24-015",
+  "title": "Z80 REPL (2018)",
+  "source": "hackernews-top",
+  "url": "https://abagames.github.io/z80-repl/index.html",
+  "summary": "Z80 REPL 是一个在浏览器中运行的 Z80 汇编交互式解释器，允许开发者直接输入 Z80 汇编指令并即时查看寄存器状态与内存变化。它解决了复古计算、嵌入式教学和底层编程学习中缺乏轻量级即时反馈环境的问题。核心技术亮点在于用 JavaScript 实现了 Z80 CPU 的指令解码与执行循环，并配合终端式 UI 提供 REPL 体验。适用场景包括计算机体系结构教学、Z80 汇编入门练习、复古计算爱好者快速验证代码片段，以及作为更复杂模拟器的调试前端。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-24T02:08:51.369303+00:00",
+  "analyzed_at": "2026-09-24T02:09:46.237760+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

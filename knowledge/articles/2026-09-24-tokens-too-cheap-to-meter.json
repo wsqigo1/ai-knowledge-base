@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-011",
+  "title": "Tokens too cheap to meter",
+  "source": "hackernews-top",
+  "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+  "summary": "该文章探讨了LLM推理成本急剧下降的趋势，提出token价格已低至近乎可忽略的程度（too cheap to meter）。核心论点是：随着推理优化、硬件进步和模型效率提升，token成本不再是AI应用的主要瓶颈，开发者应重新思考产品设计范式——从节省token转向充分利用token。技术亮点在于对成本曲线的量化分析及对应用架构的影响推演，涉及批处理、缓存、模型蒸馏等降本手段的经济性讨论。适用场景包括AI产品定价策略、Agent系统设计、大规模LLM应用的成本规划，以及评估token密集型工作流（如长上下文推理、多轮Agent）的可行性。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "reasoning",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-24T02:08:51.369303+00:00",
+  "analyzed_at": "2026-09-24T02:09:40.084496+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

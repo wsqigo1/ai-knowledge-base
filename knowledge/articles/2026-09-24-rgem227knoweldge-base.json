@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-001",
+  "title": "rgem227/knoweldge-base",
+  "source": "github-trending",
+  "url": "https://github.com/rgem227/knoweldge-base",
+  "summary": "rgem227/knoweldge-base 是一个基于 Python 的个人/团队知识库系统，核心亮点是原生支持 MCP（Model Context Protocol）API 调用，使知识库可作为工具被 LLM Agent 直接检索和调用。它解决的是团队或个人知识散落、难以被 AI 助手结构化访问的问题，通过 MCP 将知识库暴露为标准化工具接口，便于接入 Claude、Cursor 等支持 MCP 的客户端。适用场景包括个人笔记管理、团队文档沉淀、以及为 AI assistant 构建可调用的私有知识源，属于 RAG 与 tool-use 结合的轻量级实践。",
+  "tags": [
+    "mcp",
+    "rag",
+    "ai-assistant",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-24T02:08:51.268479+00:00",
+  "analyzed_at": "2026-09-24T02:09:12.522385+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

@@ -1,7 +1,267 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2194,
+  "total_count": 2211,
   "entries": [
+    {
+      "id": "kb-2026-09-24-001",
+      "title": "rgem227/knoweldge-base",
+      "source": "github-trending",
+      "url": "https://github.com/rgem227/knoweldge-base",
+      "file": "2026-09-24-rgem227knoweldge-base.json",
+      "tags": [
+        "mcp",
+        "rag",
+        "ai-assistant",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-002",
+      "title": "nokia-applied-research/AnyJev",
+      "source": "github-trending",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "file": "2026-09-24-nokia-applied-researchanyjev.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-003",
+      "title": "jev-chat/jev-chat-jarvis-mac",
+      "source": "github-trending",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+      "file": "2026-09-24-jev-chatjev-chat-jarvis-mac.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-004",
+      "title": "Oldcircle/geo-sleuth",
+      "source": "github-trending",
+      "url": "https://github.com/Oldcircle/geo-sleuth",
+      "file": "2026-09-24-oldcirclegeo-sleuth.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "tool-use",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-005",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "source": "hackernews-top",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "file": "2026-09-24-linux-support-is-coming-to-snapdragon-x2.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-006",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "file": "2026-09-24-claude-discovers-a-novel-enzyme-system-w.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-007",
+      "title": "Meta VR Glasses",
+      "source": "hackernews-top",
+      "url": "https://www.meta.com/vr-glasses/",
+      "file": "2026-09-24-meta-vr-glasses.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-008",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "source": "hackernews-top",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "file": "2026-09-24-mercury-25-llm-hits-770-tokens-per-secon.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "code-generation",
+        "agent",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-009",
+      "title": "Making Tailscale Faster",
+      "source": "hackernews-top",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "file": "2026-09-24-making-tailscale-faster.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-010",
+      "title": "Gemini 3.8 text-to-speech",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "file": "2026-09-24-gemini-38-text-to-speech.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-011",
+      "title": "Tokens too cheap to meter",
+      "source": "hackernews-top",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "file": "2026-09-24-tokens-too-cheap-to-meter.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-012",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "source": "hackernews-top",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "file": "2026-09-24-radicle-disclosure-of-vulnerability-in-t.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-013",
+      "title": "Australia says OpenAI agent hacked into government website",
+      "source": "hackernews-top",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+      "file": "2026-09-24-australia-says-openai-agent-hacked-into-.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-014",
+      "title": "I don't want the details",
+      "source": "hackernews-top",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "file": "2026-09-24-i-dont-want-the-details.json",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-015",
+      "title": "Z80 REPL (2018)",
+      "source": "hackernews-top",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "file": "2026-09-24-z80-repl-2018.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-016",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "source": "hackernews-top",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "file": "2026-09-24-claude-code-reads-agentsmd-only-when-tel.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
+    {
+      "id": "kb-2026-09-24-017",
+      "title": "Once Claude can measure something, it can make it faster",
+      "source": "hackernews-top",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "file": "2026-09-24-once-claude-can-measure-something-it-can.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "benchmark",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-24T02:09:53.462958+00:00"
+    },
     {
       "id": "kb-2026-09-23-001",
       "title": "unreallabsai/unreal-agent",
@@ -32795,5 +33055,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-23T02:22:11.213238+00:00"
+  "last_updated": "2026-09-24T02:09:53.673242+00:00"
 }

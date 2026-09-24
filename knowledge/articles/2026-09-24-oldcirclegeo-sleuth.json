@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-24-004",
+  "title": "Oldcircle/geo-sleuth",
+  "source": "github-trending",
+  "url": "https://github.com/Oldcircle/geo-sleuth",
+  "summary": "geo-sleuth 是一个面向 AI agent 的图像地理定位技能，通过整合 OpenStreetMap 几何数据、海拔天际线、卫星影像与街景信息，推断照片的拍摄位置，并展示完整推理过程。它解决了传统图像地理定位依赖单一模型、缺乏可解释性的问题，核心亮点在于将多源地理空间数据作为 agent 工具链，支持 Claude Code、Codex、Cursor、Gemini CLI 等主流 agent 框架。适用于 OSINT 调查、新闻核实、地理推理 benchmark 构建及多模态 agent 工具调用研究。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "tool-use",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-24T02:08:51.268479+00:00",
+  "analyzed_at": "2026-09-24T02:09:20.338044+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}

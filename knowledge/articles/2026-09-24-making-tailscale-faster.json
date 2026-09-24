@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-24-009",
+  "title": "Making Tailscale Faster",
+  "source": "hackernews-top",
+  "url": "https://tailscale.com/blog/making-tailscale-faster",
+  "summary": "Tailscale 官方博客披露其网络性能优化实践，通过重构 DERP 中继架构、优化 WireGuard 数据路径、改进 NAT 穿透算法等手段，显著降低连接建立延迟与传输抖动。核心亮点在于将控制平面与数据平面解耦，并引入更激进的直连探测策略，使 P2P 成功率与吞吐量大幅提升。该内容对构建分布式 AI 训练集群、远程推理服务、多节点 Agent 通信等场景下的底层网络优化具有直接参考价值。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-24T02:08:51.369303+00:00",
+  "analyzed_at": "2026-09-24T02:09:36.949606+00:00",
+  "organized_at": "2026-09-24T02:09:53.462958+00:00",
+  "status": "published"
+}
