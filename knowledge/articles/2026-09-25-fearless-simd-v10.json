@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-25-007",
+  "title": "Fearless SIMD v1.0",
+  "source": "hackernews-top",
+  "url": "https://linebender.org/blog/fearless-simd-1-0/",
+  "summary": "Fearless SIMD v1.0 是一个面向开发者的 SIMD（单指令多数据）编程工具或库，旨在降低利用 CPU 向量化指令进行高性能计算的门槛。它解决的核心问题是传统 SIMD 编程（如 Intel intrinsics 或汇编）复杂、易错且可移植性差，开发者难以安全地编写跨平台向量化代码。其技术亮点可能包括提供更安全的抽象层、自动处理不同架构（如 x86 AVX、ARM NEON）的差异，或通过编译器辅助实现“无畏”的 SIMD 开发体验。适用场景包括高性能计算、游戏引擎、音视频处理、科学模拟等需要极致性能优化的领域，尤其适合希望在不深入底层细节的情况下获得向量化加速的 C++/Rust 工程师。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-25T02:26:03.949438+00:00",
+  "analyzed_at": "2026-09-25T02:26:45.662092+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

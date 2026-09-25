@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-005",
+  "title": "malevrigns/agent-jev",
+  "source": "github-trending",
+  "url": "https://github.com/malevrigns/agent-jev",
+  "summary": "AgentJev-0.6B 是一个面向 AI Agent 的轻量级'System One'决策模型，仅 0.6B 参数。它接收任意非结构化状态（如代码 diff、执行 trace、日志）与结构化问题，通过单次前向传播在约 50ms 内输出校准后的概率分布，完全跳过输出 token 解码环节。核心亮点在于将 Agent 的快速决策建模为概率分布预测而非文本生成，大幅降低延迟，适合需要高频、低开销判断的 Agent 场景，如工具调用选择、状态分类、风险打分等。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "open-source",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-25T02:26:03.730496+00:00",
+  "analyzed_at": "2026-09-25T02:26:36.827435+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

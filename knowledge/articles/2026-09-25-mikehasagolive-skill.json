@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-001",
+  "title": "mikehasa/golive-skill",
+  "source": "github-trending",
+  "url": "https://github.com/mikehasa/golive-skill",
+  "summary": "golive-skill 是一个面向 agent 构建产品的开源 Agent Skill 与零依赖 Node CLI，帮助开发者将 AI agent 生成的应用真正上线。它解决的核心问题是：agent 能写代码，却难以完成托管、数据库、域名、邮件、支付等真实部署环节。项目采用 detect → plan → approve → apply → verify 五步流程，全程使用用户自有账号，无需 GoLive 后端、账号或遥测，强调本地化与隐私。技术亮点在于零依赖 CLI 与 Agent Skill 结合，支持 Claude Code 等 agent 环境，并覆盖 Cloudflare 等部署目标。适用于希望把 agent 原型快速转为可运营产品的独立开发者与 AI 工程团队。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-09-25T02:26:03.730496+00:00",
+  "analyzed_at": "2026-09-25T02:26:12.245286+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

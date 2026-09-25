@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-003",
+  "title": "kydlikebtc/awesome-jev",
+  "source": "github-trending",
+  "url": "https://github.com/kydlikebtc/awesome-jev",
+  "summary": "awesome-jev 是围绕 TypeSafe AI 的 System One 决策模型（Jev）构建的资源索引库，收录 1207 个公开资源，按决策模式（decision pattern）分类整理。它解决的核心问题是：AI agent 在决策与校准（calibration）环节缺乏系统化的参考素材，开发者难以快速定位可复用的决策模式与调用示例。技术亮点包括来源引用（source citations）、带日期的链接有效性检查、以及定时执行的 call-site 文本校验，并提供 EN/中文双语、JSON schema 与平台兼容性说明。需注意其运行时与性能未经独立测试。适用场景为 agent 决策逻辑设计、校准策略调研与 awesome-list 式资料检索。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-09-25T02:26:03.730496+00:00",
+  "analyzed_at": "2026-09-25T02:26:32.550876+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

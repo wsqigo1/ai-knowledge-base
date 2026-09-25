@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-25-011",
+  "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+  "source": "hackernews-top",
+  "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+  "summary": "Sourcehut 平台因 ansi2html 工具存在 XSS 漏洞，攻击者可通过构建日志注入恶意脚本，实现账户接管。该漏洞源于 ansi2html 在将 ANSI 转义序列转换为 HTML 时未充分过滤用户输入，导致存储型 XSS。核心技术点在于利用构建日志作为攻击载体，绕过常规安全边界。适用于 CI/CD 平台、代码托管服务及任何使用 ansi2html 渲染终端输出的场景，提醒开发者重视日志渲染安全。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-25T02:26:03.949438+00:00",
+  "analyzed_at": "2026-09-25T02:27:03.581595+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

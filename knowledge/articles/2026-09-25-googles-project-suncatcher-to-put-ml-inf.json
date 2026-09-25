@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-009",
+  "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+  "summary": "Google 的 Project Suncatcher 探索将 ML 训练与推理基础设施部署到太空，利用轨道环境中的太阳能与散热条件缓解地面数据中心的能耗和散热瓶颈。核心思路是把计算节点置于卫星或空间站，通过高速激光链路与地面网络协同，可能结合分布式训练与容错调度技术。技术亮点在于极端环境下的硬件可靠性、能源自给与低延迟通信架构。适用场景包括超大规模模型训练、边缘推理及对能源成本敏感的长周期计算任务，目前仍属早期概念验证。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-25T02:26:03.949438+00:00",
+  "analyzed_at": "2026-09-25T02:26:56.813305+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

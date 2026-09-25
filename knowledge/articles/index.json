@@ -1,7 +1,224 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2211,
+  "total_count": 2225,
   "entries": [
+    {
+      "id": "kb-2026-09-25-001",
+      "title": "mikehasa/golive-skill",
+      "source": "github-trending",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "file": "2026-09-25-mikehasagolive-skill.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-002",
+      "title": "yetone/magpie",
+      "source": "github-trending",
+      "url": "https://github.com/yetone/magpie",
+      "file": "2026-09-25-yetonemagpie.json",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "large-language-model",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-003",
+      "title": "kydlikebtc/awesome-jev",
+      "source": "github-trending",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "file": "2026-09-25-kydlikebtcawesome-jev.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-004",
+      "title": "Yinsongxu/LLM2Jev",
+      "source": "github-trending",
+      "url": "https://github.com/Yinsongxu/LLM2Jev",
+      "file": "2026-09-25-yinsongxullm2jev.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-005",
+      "title": "malevrigns/agent-jev",
+      "source": "github-trending",
+      "url": "https://github.com/malevrigns/agent-jev",
+      "file": "2026-09-25-malevrignsagent-jev.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-006",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "source": "hackernews-top",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "file": "2026-09-25-show-hn-whiteboard-yc-w26-an-open-source.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-007",
+      "title": "Fearless SIMD v1.0",
+      "source": "hackernews-top",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "file": "2026-09-25-fearless-simd-v10.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-008",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "source": "hackernews-top",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "file": "2026-09-25-using-llms-to-trace-alchemical-knowledge.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-009",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "file": "2026-09-25-googles-project-suncatcher-to-put-ml-inf.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-010",
+      "title": "Two-tier encryption in the UK",
+      "source": "hackernews-top",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "file": "2026-09-25-two-tier-encryption-in-the-uk.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-011",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "source": "hackernews-top",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "file": "2026-09-25-sourcehut-account-takeover-via-build-log.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-012",
+      "title": "Security auditing in the age of (good enough) AI",
+      "source": "hackernews-top",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "file": "2026-09-25-security-auditing-in-the-age-of-good-eno.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-013",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "source": "hackernews-top",
+      "url": "https://transluce.org/agent-activity",
+      "file": "2026-09-25-early-rogue-ai-agent-activity-and-attemp.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
+    {
+      "id": "kb-2026-09-25-014",
+      "title": "Opus 5.5 is good at explainer videos",
+      "source": "hackernews-top",
+      "url": "https://launchvideo.io",
+      "file": "2026-09-25-opus-55-is-good-at-explainer-videos.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "code-generation",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-25T02:27:12.570237+00:00"
+    },
     {
       "id": "kb-2026-09-24-001",
       "title": "rgem227/knoweldge-base",
@@ -33055,5 +33272,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-24T02:09:53.673242+00:00"
+  "last_updated": "2026-09-25T02:27:12.745218+00:00"
 }

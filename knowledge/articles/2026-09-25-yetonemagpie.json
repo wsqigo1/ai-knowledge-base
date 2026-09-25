@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-002",
+  "title": "yetone/magpie",
+  "source": "github-trending",
+  "url": "https://github.com/yetone/magpie",
+  "summary": "magpie 是一个用 Go 编写的菜单栏工具，让开发者可以在同一入口自由切换不同 LLM 后端来驱动各类 coding agent，例如让 Codex 跑在 DeepSeek 上、Claude Code 跑在 Kimi 上。它解决的核心问题是各家 agent CLI 与模型强绑定、切换成本高、配置分散的痛点，通过统一代理层把 agent 与具体模型解耦。技术亮点在于以轻量菜单栏形态实现多 provider 路由与配置管理，覆盖 claude-code、codex、gemini-cli 等主流 agent。适合需要横向对比不同模型效果、或想用低成本模型替代高价 API 的 AI 工程师与重度 agent 用户。",
+  "tags": [
+    "developer-tools",
+    "agent",
+    "large-language-model",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-25T02:26:03.730496+00:00",
+  "analyzed_at": "2026-09-25T02:26:19.154490+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

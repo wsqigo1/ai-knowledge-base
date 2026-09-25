@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-012",
+  "title": "Security auditing in the age of (good enough) AI",
+  "source": "hackernews-top",
+  "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+  "summary": "该文章探讨在AI能力已足够实用的当下，如何利用LLM辅助安全审计工作。核心问题在于传统安全审计依赖人工审查代码与配置，效率低且易遗漏，而当前LLM在代码理解与模式识别上已达到可用水平。技术亮点包括将LLM用于静态代码分析、漏洞模式匹配、日志异常检测等审计环节，并讨论误报率控制与人工复核的协作流程。适用场景为DevSecOps团队、安全工程师及需要自动化代码审计的中小型研发组织。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-25T02:26:03.949438+00:00",
+  "analyzed_at": "2026-09-25T02:27:05.393764+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}

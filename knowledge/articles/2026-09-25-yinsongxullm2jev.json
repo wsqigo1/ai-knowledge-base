@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-25-004",
+  "title": "Yinsongxu/LLM2Jev",
+  "source": "github-trending",
+  "url": "https://github.com/Yinsongxu/LLM2Jev",
+  "summary": "LLM2Jev 是一个将本地语言模型转化为 Jev 风格结构化决策模型的开源工具，核心创新在于仅通过 prefill 阶段即可从文本和图像中直接获取结构化结果，无需传统的 token-by-token 自回归解码。这大幅降低了推理延迟，同时保留了多模态输入能力。项目以 Python 实现，适合需要在本地部署、对响应速度和结构化输出有要求的场景，如自动化决策、agent 工具调用、多模态信息抽取等。其思路对探索非自回归生成与结构化推理的工程师具有参考价值。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "reasoning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-25T02:26:03.730496+00:00",
+  "analyzed_at": "2026-09-25T02:26:33.955443+00:00",
+  "organized_at": "2026-09-25T02:27:12.570237+00:00",
+  "status": "published"
+}
