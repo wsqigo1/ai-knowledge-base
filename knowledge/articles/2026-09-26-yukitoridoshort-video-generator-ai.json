@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-26-001",
+  "title": "yukitorido/short-video-generator-AI",
+  "source": "github-trending",
+  "url": "https://github.com/yukitorido/short-video-generator-AI",
+  "summary": "yukitorido/short-video-generator-AI 是一个基于 Python 的开源 AI 视频处理流水线，专为将长视频自动转化为竖屏短视频而设计。它解决了内容创作者手动剪辑高光片段的效率瓶颈，通过集成 LLM 进行语义理解、Whisper 完成语音转录、高光检测算法定位精彩片段，并自动完成剪辑、字幕和竖屏适配。核心技术亮点在于多模态流水线的编排：LLM 负责内容摘要与片段筛选，Whisper 提供时间戳对齐，自动化编辑模块输出可直接发布的短视频。适用场景包括社交媒体内容批量生产、播客/访谈切片、在线课程精华提取以及个人创作者的低成本视频运营。",
+  "tags": [
+    "multimodal",
+    "large-language-model",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-26T02:29:22.354697+00:00",
+  "analyzed_at": "2026-09-26T02:29:37.899288+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

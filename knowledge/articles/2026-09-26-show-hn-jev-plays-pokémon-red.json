@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-26-008",
+  "title": "Show HN: Jev Plays Pokémon Red",
+  "source": "hackernews-top",
+  "url": "https://jev-pokemon.vercel.app/",
+  "summary": "Jev Plays Pokémon Red 是一个基于 LLM 的 agent 项目，让大语言模型自主游玩经典 Game Boy 游戏《宝可梦 红》。它解决的核心问题是：如何让 LLM 在长周期、状态复杂的游戏环境中进行持续决策与规划。技术亮点在于将游戏画面解析为结构化状态，通过 prompt engineering 驱动模型输出操作指令，并维护跨回合的记忆与目标追踪。适用场景包括 LLM agent 的长期规划能力评测、多模态状态理解研究，以及游戏 AI 的快速原型验证。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "multimodal",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:02.074450+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

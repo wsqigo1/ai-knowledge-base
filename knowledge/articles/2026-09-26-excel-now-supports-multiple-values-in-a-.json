@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-26-012",
+  "title": "Excel now supports multiple values in a single cell",
+  "source": "hackernews-top",
+  "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+  "summary": "Microsoft Excel 新增在单个单元格内存储多个值的能力，本质上是对传统二维表格数据模型的扩展，解决了长期以来一行一列只能容纳单一标量、导致一对多关系需要拆表或冗余存储的问题。核心技术亮点在于引入了类似数组或结构化值的单元格表示，可能依托动态数组（Dynamic Arrays）与新的数据类型机制，使公式、筛选、透视表等操作能识别并展开多值内容。适用场景包括数据清洗、报表建模、轻量级关系数据管理以及业务人员无需 SQL 即可处理嵌套数据。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:08.544033+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

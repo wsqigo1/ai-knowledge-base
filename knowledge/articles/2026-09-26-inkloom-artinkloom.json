@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-26-003",
+  "title": "Inkloom-art/inkloom",
+  "source": "github-trending",
+  "url": "https://github.com/Inkloom-art/inkloom",
+  "summary": "Inkloom 是一套面向 logo 设计的专用 AI 模型组合，由品牌分析模型将业务信息转化为设计约束，再由字体（typography）与符号（symbol）模型分别生成视觉元素，最终通过 composition engine 输出真实可用的 lockup 与 clear-space 规则。它解决的是通用图像生成模型难以产出符合品牌规范、可落地排版的专业 logo 问题，核心亮点在于将品牌分析、字体、符号与构图拆分为多个专用模型协同工作，而非依赖单一 prompt。项目基于 TypeScript 与 Cloudflare Workers 构建，适合品牌设计工具开发者、设计系统团队及需要自动化品牌视觉生成的场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "generative-ai"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-26T02:29:22.354697+00:00",
+  "analyzed_at": "2026-09-26T02:29:52.592758+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

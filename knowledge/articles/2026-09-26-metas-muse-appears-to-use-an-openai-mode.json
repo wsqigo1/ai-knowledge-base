@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-26-019",
+  "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+  "source": "hackernews-top",
+  "url": "https://mouse.dev/blog/muse-special/",
+  "summary": "该条目指出 Meta 的 Muse 产品疑似调用了标注为 muse-special 的 OpenAI 模型，而非完全自研模型。这揭示了大型科技公司在 AI 产品中可能隐藏的第三方模型依赖问题，涉及模型溯源、供应链透明度与竞争策略。核心技术看点在于通过 API 特征、输出风格或模型指纹识别出底层模型来源，属于模型归因与逆向分析范畴。适用场景包括 AI 产品竞品分析、模型供应链审计、以及开发者对平台真实技术栈的评估。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:28.239654+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

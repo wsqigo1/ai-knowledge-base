@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-26-007",
+  "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+  "source": "hackernews-top",
+  "url": "https://ollaya.dev/",
+  "summary": "Ollaya 是一个将 Ollama 本地大模型运行能力与 Jev-style 决策模型相结合的开源项目，旨在为开发者提供可本地部署的决策推理框架。它解决了传统决策模型依赖云端 API、数据隐私难以保障、以及通用 LLM 在结构化决策场景中输出不稳定的问题。核心技术亮点在于复用 Ollama 的模型管理与推理接口，并引入 Jev 风格的决策建模方式，使模型输出更贴近可解释、可复现的决策逻辑。适用场景包括本地化 AI 助手、自动化工作流中的决策节点、以及需要隐私保护的 agent 系统。",
+  "tags": [
+    "open-source",
+    "reasoning",
+    "ai-assistant",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:00.396651+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

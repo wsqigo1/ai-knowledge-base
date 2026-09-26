@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-26-009",
+  "title": "Plan mode is dead",
+  "source": "hackernews-top",
+  "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+  "summary": "该条目源自 Hacker News 热门讨论，标题「Plan mode is dead」指向 AI Agent 领域中对传统「先规划再执行」（plan-then-execute）范式的反思与批判。核心观点认为，随着 LLM 推理能力与 tool-use 能力的提升，静态的 plan mode 已不再必要，Agent 应转向更动态的边推理边执行（interleaved reasoning and acting）模式。技术亮点在于对 agent 架构设计范式的讨论，涉及 reasoning、tool-use 与 workflow-automation 的融合。适用场景为构建自主 Agent 系统的 AI 工程师，尤其是正在设计 agent loop 与任务编排逻辑的开发者。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:03.710495+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-26-010",
+  "title": "Platform-independent SIMD in Go",
+  "source": "hackernews-top",
+  "url": "https://go.dev/blog/simd-experiment",
+  "summary": "该项目探讨在 Go 语言中实现平台无关的 SIMD（Single Instruction Multiple Data）编程方案。Go 原生缺乏 SIMD 支持，导致高性能计算场景（如向量运算、图像处理、AI 推理）难以充分利用现代 CPU 的并行能力。核心技术亮点在于通过汇编封装、编译器内建或第三方库（如 simd 包）抽象不同架构（x86 AVX/SSE、ARM NEON）的指令差异，提供统一 API。适用场景包括需要高性能数值计算的 Go 服务，如 embedding 计算、向量相似度检索、实时数据处理等。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:05.370558+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-26-011",
+  "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+  "source": "hackernews-top",
+  "url": "https://github.com/git-bug/git-bug",
+  "summary": "Git-bug 是一个将 bug 追踪系统直接嵌入 Git 仓库的开源工具，无需依赖中心化服务器即可实现分布式、离线优先的缺陷管理。它解决了传统 bug tracker（如 Jira、GitHub Issues）强依赖网络与中心化服务、数据难以随代码一同版本化的问题。核心技术亮点在于将 issue 作为 Git 对象存储，利用 Git 的分布式特性实现离线创建、编辑与同步，并通过桥接机制与 GitHub、GitLab 等平台双向同步。适用场景包括开源项目、离线开发环境、以及对数据主权和隐私有要求的团队，尤其适合希望将 issue 与代码同仓管理的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "git"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-26T02:29:22.525869+00:00",
+  "analyzed_at": "2026-09-26T02:30:06.901353+00:00",
+  "organized_at": "2026-09-26T02:30:30.106187+00:00",
+  "status": "published"
+}
