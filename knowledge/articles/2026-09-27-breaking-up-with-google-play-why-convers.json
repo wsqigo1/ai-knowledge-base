@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-27-015",
+  "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+  "source": "hackernews-top",
+  "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+  "summary": "Conversations 是一款基于 XMPP 的开源即时通讯应用，此前依赖 Google Play 服务实现推送通知，导致在无 GMS 设备上无法正常使用。该项目通过自建推送方案（基于 XMPP 的持久连接与统一推送协议）替代 FCM，解决了去 Google 化场景下的消息实时送达问题。核心技术亮点在于将推送通道与 XMPP 协议栈深度整合，避免依赖专有推送服务，同时保持低功耗与高可靠性。适用场景包括注重隐私的用户、去 Google 化 Android 设备（如 GrapheneOS）、以及需要自主可控推送基础设施的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:23.890902+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

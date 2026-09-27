@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-27-013",
+  "title": "The Lost Atomic Update on Loongson CPU",
+  "source": "hackernews-top",
+  "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+  "summary": "该文章记录了在 Loongson（龙芯）CPU 上发现的一个丢失的原子更新（atomic update）问题，属于底层硬件与并发编程交叉领域的技术分析。文章核心在于揭示特定 CPU 架构下原子操作实现可能存在的缺陷，导致多线程或并发场景下数据一致性被破坏。技术亮点在于对 Loongson 指令集与内存模型的具体剖析，以及问题复现与定位过程。适用场景为嵌入式系统、国产化平台开发、操作系统内核及并发程序开发者，对关注硬件可靠性与并发正确性的工程师有参考价值。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:19.985196+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-005",
+  "title": "DeepSeek Elastic Compute (DSec)",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.22978",
+  "summary": "DeepSeek Elastic Compute (DSec) 是 DeepSeek 推出的弹性计算框架，旨在解决大模型推理与训练场景下算力资源动态调度与高效利用的问题。其核心技术亮点在于支持弹性伸缩的计算资源编排，能够根据负载自动调整 GPU/CPU 资源分配，降低推理延迟与成本。该框架可能集成分布式推理、动态批处理等优化手段，适用于 LLM 服务部署、Agent 工作流执行以及需要高吞吐低延迟的 AI 应用场景，尤其适合对成本敏感的规模化推理任务。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "agent"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:26:59.793295+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

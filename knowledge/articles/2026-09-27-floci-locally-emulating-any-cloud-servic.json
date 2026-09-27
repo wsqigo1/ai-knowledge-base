@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-016",
+  "title": "Floci: Locally emulating any cloud service",
+  "source": "hackernews-top",
+  "url": "https://floci.io",
+  "summary": "Floci 是一个开源工具，用于在本地环境中模拟任意云服务（如 AWS、GCP、Azure 等），使开发者无需连接真实云端即可进行开发、测试和调试。它解决了云服务依赖导致的开发环境配置复杂、网络延迟、费用高昂以及离线不可用等问题。核心技术亮点在于通过轻量级本地服务模拟云 API 行为，支持多种云服务接口，并可能结合容器化或进程内模拟实现快速启动。适用场景包括本地开发、CI/CD 流水线、教学演示以及需要隔离云依赖的自动化测试。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "cloud-emulation",
+    "local-development"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:27.924778+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

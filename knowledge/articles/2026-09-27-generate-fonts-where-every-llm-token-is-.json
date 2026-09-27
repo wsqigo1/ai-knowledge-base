@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-27-011",
+  "title": "Generate fonts where every LLM token is the same width",
+  "source": "hackernews-top",
+  "url": "https://ampdot.mesh.host/token-space-fonts.html",
+  "summary": "该项目生成一种特殊字体，使每个 LLM token 在视觉上占据相同宽度，解决 LLM 输出中 token 边界不可见、难以对齐分析的问题。核心技术亮点在于将 tokenization 结果映射到等宽字形设计，让开发者能直观看到 token 切分位置，便于调试 prompt、分析 tokenizer 行为及研究 token 级对齐。适用场景包括 prompt engineering 调试、tokenizer 可视化教学、LLM 输出对齐分析及多语言 token 切分对比研究。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:14.924972+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

@@ -1,0 +1,404 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-27T02:26:21.822881+00:00",
+  "date": "2026-09-27",
+  "count": 20,
+  "items": [
+    {
+      "title": "Does Georgism work? Five years later",
+      "source": "hackernews-top",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "hn_url": "https://news.ycombinator.com/item?id=49844657",
+      "description": "",
+      "hn_score": 140,
+      "comments": 79,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目讨论 Henry George 的土地价值税（Land Value Tax, LVT）理论在五年实践后的效果评估，属于经济学与公共政策领域。核心问题是：单一税收制度能否在现实中有效运作并产生预期社会效益。文章通过实证数据回顾了 Georgism 在部分地区的落地情况，分析其税收效率、土地投机抑制效果及对住房市场的影响。技术亮点在于结合经济学模型与政策实验数据进行量化评估。适用场景为公共政策研究、城市经济学分析及税制改革讨论。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-27T02:26:58.031822+00:00"
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "hn_url": "https://news.ycombinator.com/item?id=49859112",
+      "description": "",
+      "hn_score": 164,
+      "comments": 50,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "DeepSeek Elastic Compute (DSec) 是 DeepSeek 推出的弹性计算框架，旨在解决大模型推理与训练场景下算力资源动态调度与高效利用的问题。其核心技术亮点在于支持弹性伸缩的计算资源编排，能够根据负载自动调整 GPU/CPU 资源分配，降低推理延迟与成本。该框架可能集成分布式推理、动态批处理等优化手段，适用于 LLM 服务部署、Agent 工作流执行以及需要高吞吐低延迟的 AI 应用场景，尤其适合对成本敏感的规模化推理任务。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-27T02:26:59.793295+00:00"
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "source": "hackernews-top",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "hn_url": "https://news.ycombinator.com/item?id=49842764",
+      "description": "",
+      "hn_score": 324,
+      "comments": 182,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "PipePipe 是 NewPipe 的硬分叉版本，在原有开源 YouTube 客户端基础上集成了 SponsorBlock 功能，可自动跳过视频中的赞助商广告、片头片尾等非内容片段。NewPipe 本身以轻量、无 Google 服务依赖著称，PipePipe 继承了这些特性并解决了用户手动跳过赞助内容的痛点。核心技术亮点在于将 SponsorBlock 的众包片段数据库与 NewPipe 的播放器深度整合，实现无缝跳过。适用场景为注重隐私、希望获得无广告干扰观看体验的 Android 用户，对 AI 工程师而言参考价值有限，但作为开源社区驱动的工具集成案例有一定借鉴意义。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-27T02:27:01.350933+00:00"
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "source": "hackernews-top",
+      "url": "https://github.com/reladraw/reladraw",
+      "hn_url": "https://news.ycombinator.com/item?id=49858513",
+      "description": "",
+      "hn_score": 194,
+      "comments": 56,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "Reladraw 是一个开源图表描述语言，核心特点是允许用户显式指定图中各元素的放置位置，而非依赖自动布局算法。它解决的是传统图表工具（如 Mermaid、Graphviz）在自动排版时无法精确控制元素位置、导致输出不符合预期的问题。技术亮点在于将「布局决策权」交还给用户，通过声明式语法描述节点与连线的坐标或相对位置，兼顾可读性与精确控制。适用场景包括需要精细排版的技术架构图、流程图、论文插图，以及任何对图表布局有严格要求的工程文档场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-27T02:27:02.846729+00:00"
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "source": "hackernews-top",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "hn_url": "https://news.ycombinator.com/item?id=49839567",
+      "description": "",
+      "hn_score": 35,
+      "comments": 18,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目探讨 AI 时代编程语言的演进方向，核心议题是传统通用语言（如 Python、JavaScript）在 LLM 驱动的 code-generation 与 agent 工作流中暴露出的表达力与安全性不足。文章可能涉及面向 AI 原生场景的语言设计思路，例如更强的类型系统以约束 LLM 输出、内建 prompt-engineering 原语、以及对 tool-use 和 multi-agent 编排的一等公民支持。技术亮点在于将语言设计与 AI 辅助开发范式深度耦合，而非仅把 LLM 当作代码补全工具。适用场景包括 AI 应用开发框架选型、DSL 设计、以及构建可靠 code-generation 流水线的工程团队。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-27T02:27:04.506637+00:00"
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "source": "hackernews-top",
+      "url": "https://www.movingimagearchive.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49832768",
+      "description": "",
+      "hn_score": 118,
+      "comments": 25,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目是一个可搜索的公共领域电影片段库，收录1915年以来的历史影像素材。它解决了AI训练数据中早期影视素材稀缺、版权受限、检索困难的问题，通过结构化索引与搜索接口让开发者能快速定位特定年代、场景或主题的视频片段。核心技术亮点在于对公共领域影片进行元数据标注与全文检索，可能涉及视频内容理解与多模态索引。适用场景包括多模态模型训练数据采集、视频生成模型的历史风格微调、以及影视研究与教育素材检索。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-27T02:27:06.416984+00:00"
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "source": "hackernews-top",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "hn_url": "https://news.ycombinator.com/item?id=49857729",
+      "description": "",
+      "hn_score": 112,
+      "comments": 32,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "Drawgent 是一个运行在实时 Excalidraw 画布上的编码智能体（coding agent），将 LLM 驱动的代码生成能力直接嵌入可视化白板环境。它解决的核心问题是：传统 coding agent 多以纯文本/终端交互为主，缺乏对架构草图、流程图等视觉上下文的感知与联动。其技术亮点在于将 agent 的推理与工具调用绑定到 Excalidraw 的实时画布状态上，使模型能读取、修改画布元素并据此生成或调整代码，实现「边画边写」的交互范式。适用场景包括系统设计讨论、快速原型搭建、教学演示以及需要视觉与代码协同的头脑风暴工作流。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "multimodal",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-27T02:27:08.156635+00:00"
+    },
+    {
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "source": "hackernews-top",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "hn_url": "https://news.ycombinator.com/item?id=49839438",
+      "description": "",
+      "hn_score": 18,
+      "comments": 7,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目探讨生物学系统虽非量子系统，但其数学描述与量子力学形式高度相似，如概率幅、非交换算符和希尔伯特空间结构在基因调控、进化动力学和神经科学中的类比应用。核心亮点在于揭示量子数学工具（如密度矩阵、路径积分）可迁移至生物网络建模，为复杂生物系统提供新计算框架。适用场景包括系统生物学、计算神经科学及跨学科AI建模，对AI工程师理解非经典概率推理与生物启发算法有潜在参考价值，但直接工程落地路径尚不明确。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-27T02:27:09.896496+00:00"
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "source": "hackernews-top",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "hn_url": "https://news.ycombinator.com/item?id=49854693",
+      "description": "",
+      "hn_score": 348,
+      "comments": 89,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目回顾了 Apple Cards（后演变为 Apple News 等产品的卡片式交互范式）的起源故事，属于产品设计史与交互技术回顾类内容。它解决的是理解现代卡片式 UI 设计思想来源的问题，核心技术亮点在于早期原型如何通过物理隐喻、动效与信息层级设计影响后续 iOS 生态。适用场景为 UI/UX 设计师、产品经理及对 Apple 设计语言演进感兴趣的工程师，但与当前 AI/LLM 工程实践的直接关联较弱。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-09-27T02:27:11.835706+00:00"
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "hn_url": "https://news.ycombinator.com/item?id=49844663",
+      "description": "",
+      "hn_score": 159,
+      "comments": 438,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目报道 ASML 在 2026 年于欧洲市场未售出任何光刻设备，反映全球半导体设备采购重心向亚洲（尤其是中国台湾、韩国、中国大陆）转移。核心问题在于欧洲本土缺乏先进制程晶圆厂投资，导致 EUV/DUV 设备需求归零。技术亮点是揭示了地缘政治与产业政策对半导体供应链的直接影响。适用场景为半导体行业分析师、政策制定者及 AI 芯片供应链研究者，用于评估先进制程产能分布与设备采购趋势。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-09-27T02:27:13.536651+00:00"
+    },
+    {
+      "title": "Generate fonts where every LLM token is the same width",
+      "source": "hackernews-top",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49851883",
+      "description": "",
+      "hn_score": 28,
+      "comments": 7,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该项目生成一种特殊字体，使每个 LLM token 在视觉上占据相同宽度，解决 LLM 输出中 token 边界不可见、难以对齐分析的问题。核心技术亮点在于将 tokenization 结果映射到等宽字形设计，让开发者能直观看到 token 切分位置，便于调试 prompt、分析 tokenizer 行为及研究 token 级对齐。适用场景包括 prompt engineering 调试、tokenizer 可视化教学、LLM 输出对齐分析及多语言 token 切分对比研究。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-27T02:27:14.924972+00:00"
+    },
+    {
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "source": "hackernews-top",
+      "url": "https://castle-engine.io/modern_pascal",
+      "hn_url": "https://news.ycombinator.com/item?id=49829202",
+      "description": "",
+      "hn_score": 148,
+      "comments": 60,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "Modern Object Pascal Introduction for Programmers 是一份面向程序员的现代 Object Pascal 语言入门指南，系统介绍了该语言在当代开发中的语法特性与工程实践。它解决了传统 Pascal 教材内容陈旧、无法反映现代语言能力的问题，帮助开发者快速掌握 Object Pascal 在类型系统、泛型、匿名方法、属性、单元系统等方面的现代特性。核心技术亮点在于以对比方式呈现语言演进，并强调可读性与工程可用性。适用场景包括 Delphi 与 Free Pascal 开发者学习、跨平台桌面应用开发，以及作为编程语言教学参考。该内容与 AI/LLM 工程领域关联较弱，但对需要维护或迁移 Pascal 代码库的工程师具有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-27T02:27:16.888017+00:00"
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "source": "hackernews-top",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "hn_url": "https://news.ycombinator.com/item?id=49836579",
+      "description": "",
+      "hn_score": 142,
+      "comments": 141,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "一位教师发现AI（如ChatGPT）能完成其布置的全部作业后，被迫重新设计教学与评估方式。该文探讨的核心问题是：当LLM可轻易生成高质量作业答案时，传统以课后作业为核心的教学评估体系失效，教育者需转向过程性评价、课堂口头答辩、AI辅助下的批判性思维训练等新范式。技术亮点在于将LLM作为教学设计的反向压力测试工具，暴露评估漏洞。适用场景包括高校课程设计、K-12教育、企业培训及任何依赖书面作业考核的AI时代教学场景。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-27T02:27:18.417598+00:00"
+    },
+    {
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "source": "hackernews-top",
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "hn_url": "https://news.ycombinator.com/item?id=49827900",
+      "description": "",
+      "hn_score": 113,
+      "comments": 6,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该文章记录了在 Loongson（龙芯）CPU 上发现的一个丢失的原子更新（atomic update）问题，属于底层硬件与并发编程交叉领域的技术分析。文章核心在于揭示特定 CPU 架构下原子操作实现可能存在的缺陷，导致多线程或并发场景下数据一致性被破坏。技术亮点在于对 Loongson 指令集与内存模型的具体剖析，以及问题复现与定位过程。适用场景为嵌入式系统、国产化平台开发、操作系统内核及并发程序开发者，对关注硬件可靠性与并发正确性的工程师有参考价值。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-27T02:27:19.985196+00:00"
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "source": "hackernews-top",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "hn_url": "https://news.ycombinator.com/item?id=49854875",
+      "description": "",
+      "hn_score": 163,
+      "comments": 216,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该 HN 讨论帖探讨在 LLM 大规模介入编程工作流的背景下，开发者如何保持对编程的乐趣与掌控感。核心问题在于 AI 代码生成工具（如 Copilot、Cursor）虽提升效率，却可能导致开发者陷入被动审阅、丧失心流与创造快感。文章主张将 LLM 定位为辅助而非替代，通过明确分工（如让 AI 处理样板代码、测试生成，人类专注架构与问题拆解）、保留手写核心逻辑的习惯、以及建立个人化的 AI 使用边界来维持技术成长与职业满足感。适用场景包括日常使用 AI 编程助手的工程师、技术团队管理者，以及关注开发者体验与长期职业发展的从业者。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-27T02:27:22.124402+00:00"
+    },
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "source": "hackernews-top",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "hn_url": "https://news.ycombinator.com/item?id=49855315",
+      "description": "",
+      "hn_score": 642,
+      "comments": 255,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "Conversations 是一款基于 XMPP 的开源即时通讯应用，此前依赖 Google Play 服务实现推送通知，导致在无 GMS 设备上无法正常使用。该项目通过自建推送方案（基于 XMPP 的持久连接与统一推送协议）替代 FCM，解决了去 Google 化场景下的消息实时送达问题。核心技术亮点在于将推送通道与 XMPP 协议栈深度整合，避免依赖专有推送服务，同时保持低功耗与高可靠性。适用场景包括注重隐私的用户、去 Google 化 Android 设备（如 GrapheneOS）、以及需要自主可控推送基础设施的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-27T02:27:23.890902+00:00"
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "source": "hackernews-top",
+      "url": "https://jev-pokemon.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49845172",
+      "description": "",
+      "hn_score": 260,
+      "comments": 109,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "Jev Plays Pokémon Red 是一个基于 LLM 的 agent 项目，让 AI 自主游玩经典 Game Boy 游戏《宝可梦 红》。它解决的核心问题是：如何让语言模型在长时序、部分可观测、需多步规划的环境中持续做出有效决策。技术亮点在于将游戏画面与状态转化为文本/结构化输入，结合 tool-use 与记忆机制驱动模型输出操作指令，并处理回合制战斗、地图探索等复杂子任务。该项目属于 LLM agent 在游戏环境中的探索性实践，适合研究 agent 规划、长期记忆、多模态状态感知以及 benchmark 构建的工程师参考。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-27T02:27:25.942767+00:00"
+    },
+    {
+      "title": "Floci: Locally emulating any cloud service",
+      "source": "hackernews-top",
+      "url": "https://floci.io",
+      "hn_url": "https://news.ycombinator.com/item?id=49854416",
+      "description": "",
+      "hn_score": 164,
+      "comments": 38,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "Floci 是一个开源工具，用于在本地环境中模拟任意云服务（如 AWS、GCP、Azure 等），使开发者无需连接真实云端即可进行开发、测试和调试。它解决了云服务依赖导致的开发环境配置复杂、网络延迟、费用高昂以及离线不可用等问题。核心技术亮点在于通过轻量级本地服务模拟云 API 行为，支持多种云服务接口，并可能结合容器化或进程内模拟实现快速启动。适用场景包括本地开发、CI/CD 流水线、教学演示以及需要隔离云依赖的自动化测试。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "cloud-emulation",
+        "local-development"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-27T02:27:27.924778+00:00"
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "hn_url": "https://news.ycombinator.com/item?id=49857442",
+      "description": "",
+      "hn_score": 175,
+      "comments": 336,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该条目讨论的是美国K-12教育中标准化考试成绩持续下滑的现象，被作者称为\"slow-moving catastrophe\"。文章通过数据分析揭示疫情后学生数学和阅读成绩的显著下降趋势，探讨了远程教育、学习中断等因素对教育系统的长期影响。核心价值在于用数据可视化方式呈现教育危机的严重程度，并引发对教育政策和技术干预手段的讨论。适用场景为教育政策制定者、EdTech从业者以及对教育数据感兴趣的技术人员。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-27T02:27:29.610467+00:00"
+    },
+    {
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49848955",
+      "hn_url": "https://news.ycombinator.com/item?id=49848955",
+      "description": "",
+      "hn_score": 243,
+      "comments": 265,
+      "collected_at": "2026-09-27T02:26:20.515800+00:00",
+      "published_at": "2026-09-27T02:26:20.515800+00:00",
+      "summary": "该 HN 讨论帖征集仍依赖 DOS 机器维持业务运转的真实案例，核心在于揭示遗留系统（legacy system）在现代生产环境中的持续存在及其运维困境。帖子本身并非技术方案，而是经验分享与问题诊断，涉及硬件老化、备件稀缺、数据迁移风险、与现代系统集成困难等。技术亮点在于社区汇总的应对策略，如虚拟机封装、DOSBox 模拟、串口/并口桥接、增量迁移路径。适用场景为工业控制、医疗设备、制造业、金融后台等仍运行关键 DOS 应用的领域，对从事系统现代化改造、遗留系统维护的工程师有参考价值。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-27T02:27:31.356258+00:00"
+    }
+  ]
+}

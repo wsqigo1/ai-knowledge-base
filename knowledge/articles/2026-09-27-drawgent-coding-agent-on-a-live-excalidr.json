@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-009",
+  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "source": "hackernews-top",
+  "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+  "summary": "Drawgent 是一个运行在实时 Excalidraw 画布上的编码智能体（coding agent），将 LLM 驱动的代码生成能力直接嵌入可视化白板环境。它解决的核心问题是：传统 coding agent 多以纯文本/终端交互为主，缺乏对架构草图、流程图等视觉上下文的感知与联动。其技术亮点在于将 agent 的推理与工具调用绑定到 Excalidraw 的实时画布状态上，使模型能读取、修改画布元素并据此生成或调整代码，实现「边画边写」的交互范式。适用场景包括系统设计讨论、快速原型搭建、教学演示以及需要视觉与代码协同的头脑风暴工作流。",
+  "tags": [
+    "code-generation",
+    "agent",
+    "developer-tools",
+    "multimodal",
+    "tool-use"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:08.156635+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

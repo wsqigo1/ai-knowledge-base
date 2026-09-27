@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-27-006",
+  "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+  "source": "hackernews-top",
+  "url": "https://github.com/reladraw/reladraw",
+  "summary": "Reladraw 是一个开源图表描述语言，核心特点是允许用户显式指定图中各元素的放置位置，而非依赖自动布局算法。它解决的是传统图表工具（如 Mermaid、Graphviz）在自动排版时无法精确控制元素位置、导致输出不符合预期的问题。技术亮点在于将「布局决策权」交还给用户，通过声明式语法描述节点与连线的坐标或相对位置，兼顾可读性与精确控制。适用场景包括需要精细排版的技术架构图、流程图、论文插图，以及任何对图表布局有严格要求的工程文档场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:02.846729+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

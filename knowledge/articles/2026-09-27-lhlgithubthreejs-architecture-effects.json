@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-003",
+  "title": "lhlGitHub/threejs-architecture-effects",
+  "source": "github-trending",
+  "url": "https://github.com/lhlGitHub/threejs-architecture-effects",
+  "summary": "该项目是一个面向 AI Agent 的 Skill 实现，基于 Three.js 构建可交互、可自组装的 3D 建筑场景。它解决的是 LLM Agent 在生成 3D 空间内容时缺乏结构化、可复用能力的问题，通过将建筑生成逻辑封装为 Agent Skill，使模型能够按需调用并动态搭建 3D 建筑。核心技术亮点在于将 Three.js 的 3D 渲染能力与 Agent 的 tool-use 机制结合，支持自组装动画与交互操作，语言为 TypeScript，便于集成到现有前端或 Agent 工作流中。适用场景包括 AI 辅助建筑设计原型、交互式 3D 展示、Agent 驱动的空间内容生成，以及教育类可视化应用。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-27T02:26:20.320394+00:00",
+  "analyzed_at": "2026-09-27T02:26:54.638688+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

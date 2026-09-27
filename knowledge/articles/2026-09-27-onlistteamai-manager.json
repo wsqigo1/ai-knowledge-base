@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-002",
+  "title": "OnlistTeam/ai-manager",
+  "source": "github-trending",
+  "url": "https://github.com/OnlistTeam/ai-manager",
+  "summary": "OnlistTeam/ai-manager 是一款基于 Rust 构建的桌面应用，用于统一管理多种 AI coding 工具。它解决开发者在日常编码中需要在多个 AI 助手（如代码补全、对话式编程工具）之间频繁切换、配置分散、上下文割裂的问题。核心技术亮点在于以 Rust 实现高性能、低资源占用的本地桌面客户端，提供集中化的工具接入与管理界面，可能涉及对 MCP 等协议或本地进程的编排调度。适用场景包括：需要同时使用多个 AI coding 助手的开发者、希望统一管理 API key 与模型配置的团队，以及追求轻量本地工具链的工程师。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "code-generation",
+    "mcp",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-27T02:26:20.320394+00:00",
+  "analyzed_at": "2026-09-27T02:26:50.014182+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

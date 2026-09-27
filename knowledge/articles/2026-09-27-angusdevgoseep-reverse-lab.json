@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-004",
+  "title": "angusdevgo/Seep-Reverse-Lab",
+  "source": "github-trending",
+  "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+  "summary": "Seep-Reverse-Lab 是一个 Agent-Native 的多平台逆向工程与 CWE-602 客户端授权审计工作台，用 Python 实现。它针对移动端与 Web 应用中客户端授权逻辑被绕过（CWE-602）这一常见安全缺陷，将 LLM Agent 引入逆向分析与授权审计流程，自动完成多平台二进制/字节码的静态与动态分析、授权路径追踪与漏洞定位。核心亮点在于 Agent 驱动的自动化审计编排、多平台逆向适配层以及对 CWE-602 的专项检测能力。适用于安全研究、渗透测试、移动应用合规审计及 DevSecOps 场景。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.1,
+  "collected_at": "2026-09-27T02:26:20.320394+00:00",
+  "analyzed_at": "2026-09-27T02:26:56.456429+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}

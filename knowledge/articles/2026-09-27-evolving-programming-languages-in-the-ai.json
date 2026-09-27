@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-27-007",
+  "title": "Evolving programming languages in the AI era",
+  "source": "hackernews-top",
+  "url": "https://dashbit.co/blog/evolving-ai-era",
+  "summary": "该条目探讨 AI 时代编程语言的演进方向，核心议题是传统通用语言（如 Python、JavaScript）在 LLM 驱动的 code-generation 与 agent 工作流中暴露出的表达力与安全性不足。文章可能涉及面向 AI 原生场景的语言设计思路，例如更强的类型系统以约束 LLM 输出、内建 prompt-engineering 原语、以及对 tool-use 和 multi-agent 编排的一等公民支持。技术亮点在于将语言设计与 AI 辅助开发范式深度耦合，而非仅把 LLM 当作代码补全工具。适用场景包括 AI 应用开发框架选型、DSL 设计、以及构建可靠 code-generation 流水线的工程团队。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "large-language-model",
+    "agent",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-27T02:26:20.515800+00:00",
+  "analyzed_at": "2026-09-27T02:27:04.506637+00:00",
+  "organized_at": "2026-09-27T02:27:31.439584+00:00",
+  "status": "published"
+}
