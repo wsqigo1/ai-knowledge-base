@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-28-014",
+  "title": "Don't couple your Go code to GitHub",
+  "source": "hackernews-top",
+  "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+  "summary": "该文章讨论 Go 项目中避免将代码与 GitHub 平台强耦合的工程实践，核心思路是通过抽象版本控制、CI/CD 和依赖获取接口，使代码可迁移至 GitLab、Gitea 或自建基础设施。技术亮点在于利用 Go 的 interface 和依赖注入解耦平台特定逻辑，并借助 go mod 的 replace 指令与私有代理实现模块路径无关化。适用场景包括需要多云部署、代码托管迁移或构建平台无关开源项目的 Go 工程团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:30:53.229247+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-28-006",
+  "title": "leter/zh-tech-writing",
+  "source": "github-trending",
+  "url": "https://github.com/leter/zh-tech-writing",
+  "summary": "leter/zh-tech-writing 是一个面向 Claude Code 等 Agent 的中文技术文档写作 Skill，将阮一峰《中文技术文档的写作规范》编码为可复用的 Agent 指令集。它解决的核心问题是：LLM 生成的中文技术文档普遍存在「AI 腔」——冗长堆砌、句式模板化、术语翻译生硬。该 Skill 通过约束短句、平实表达、去除套话等规则，引导 Agent 输出符合中文技术写作惯例的内容。技术亮点在于以 Skill 形式轻量集成到 Agent 工作流，无需微调即可生效。适用场景包括技术博客撰写、README 与 API 文档生成、开源项目文档本地化等需要高质量中文输出的开发流程。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "prompt-engineering",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-28T02:30:04.184580+00:00",
+  "analyzed_at": "2026-09-28T02:30:35.511838+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

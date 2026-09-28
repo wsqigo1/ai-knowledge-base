@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-28-001",
+  "title": "dzhng/jevgrep",
+  "source": "github-trending",
+  "url": "https://github.com/dzhng/jevgrep",
+  "summary": "jevgrep 是一个面向 coding agents 的 CLI 工具，通过自然语言描述代码功能来定位相关文件与源码上下文。它解决的是传统 grep/ripgrep 只能做字面匹配、无法理解语义意图的问题，让 agent 在大型代码库中快速找到「做某件事的代码」。核心亮点是集成 Jev 做语义检索，并基于 ai-sdk 与 Claude Code、Codex 等 agent 工作流打通，输出可直接喂给 LLM 的 source context。适用场景包括 AI 编码助手上下文构建、代码库探索、agent 自动化重构与调试。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-09-28T02:30:04.184580+00:00",
+  "analyzed_at": "2026-09-28T02:30:12.633929+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

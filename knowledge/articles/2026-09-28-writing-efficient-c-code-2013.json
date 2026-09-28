@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-28-015",
+  "title": "Writing Efficient C++ Code (2013)",
+  "source": "hackernews-top",
+  "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+  "summary": "《Writing Efficient C++ Code》是2013年发布的一篇经典技术文章，系统梳理了C++性能优化的核心实践。文章针对C++程序常见的性能瓶颈，从内存分配、对象拷贝、虚函数开销、缓存友好性、内联与模板等维度给出可落地的优化建议，强调以数据驱动的方式定位热点而非过早优化。其技术亮点在于将底层硬件特性（如cache locality、分支预测）与C++语言机制结合讲解，兼顾理论依据与代码示例。该文适用于高性能计算、游戏引擎、嵌入式及对延迟敏感的后端服务等场景，对需要深入理解C++运行时开销的工程师具有长期参考价值，但部分内容随现代编译器与C++标准演进而需结合新实践更新。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:31:00.750762+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

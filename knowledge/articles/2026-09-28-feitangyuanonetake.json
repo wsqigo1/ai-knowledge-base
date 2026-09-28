@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-28-002",
+  "title": "feitangyuan/onetake",
+  "source": "github-trending",
+  "url": "https://github.com/feitangyuan/onetake",
+  "summary": "onetake 是一个基于 Claude Agent Skill 的开源工具，用于自动生成产品发布影片和功能演示视频。它解决的核心问题是传统演示视频需要多镜头剪辑、转场生硬、缺乏视觉连续性的痛点。其技术亮点在于采用单一连续镜头（one continuous camera）的生成范式，每个画面节拍（beat）都从前一个自然生长演化，并通过 oracle 机制量化评估画面间的连续性，确保视觉叙事流畅无断裂。项目以 Python 实现，结合 canvas 动画渲染与 agent 编排能力，将视频生成任务拆解为可由 LLM 驱动的技能调用流程。适用场景包括产品发布宣传片、功能演示视频、营销素材自动化生产，以及需要高视觉连贯性的 AI 生成视频工作流。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-28T02:30:04.184580+00:00",
+  "analyzed_at": "2026-09-28T02:30:18.221123+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

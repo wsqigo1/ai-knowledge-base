@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-28-003",
+  "title": "lemomo-ai/lemo-opuscar",
+  "source": "github-trending",
+  "url": "https://github.com/lemomo-ai/lemo-opuscar",
+  "summary": "lemo-opuscar 是 GitHub 上的开源项目，提供 39 种影片风格模板，每种包含可复用的 style prompt 以及完全由 Claude Opus 5.5 通过代码生成的短片样片。它解决的是 AI 视频创作中风格难以复用、缺乏可执行参考的问题，让用户选定风格后带入自己的故事，由 agent 完成导演与生成。核心技术亮点在于将 prompt-engineering 与 code-generation 结合，用 JavaScript/Canvas 渲染纯代码影片，并附带导演与技术指南。适用场景包括 AI 视频原型制作、agent 驱动的动画生成、以及多模态创作流程的快速验证。",
+  "tags": [
+    "prompt-engineering",
+    "code-generation",
+    "multimodal",
+    "agent",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-28T02:30:04.184580+00:00",
+  "analyzed_at": "2026-09-28T02:30:26.444482+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-28-019",
+  "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+  "source": "hackernews-top",
+  "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+  "summary": "该条目讨论的是 NeoVim 与 Vim 之间的兼容性问题：NeoVim 在运行时会删除 Vim 的 undo 文件（undofile），导致用户丢失撤销历史，本质上是一个编辑器数据安全问题。核心亮点在于揭示了两个编辑器共享同一 undo 目录时的冲突机制，以及如何通过配置隔离 undo 文件路径来规避数据丢失。适用场景为同时使用 Vim 和 NeoVim 的开发者，以及关注本地开发工具数据持久化与用户数据保护的技术人员。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:31:12.682695+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

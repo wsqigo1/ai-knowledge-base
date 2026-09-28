@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-28-011",
+  "title": "Ember-1",
+  "source": "hackernews-top",
+  "url": "https://fireworks.ai/blog/ember-1",
+  "summary": "Ember-1 是近期在 Hacker News 上引发关注的开源项目，定位为面向 AI 工程师的推理与智能体能力增强方案。它主要解决现有 LLM 在复杂多步推理、工具调用与任务编排中稳定性不足的问题，通过引入结构化推理链与可组合的 agent 工作流来提升任务完成率。核心技术亮点包括轻量级推理框架、对 tool-use 的原生支持以及与主流 LLM 接口的兼容设计，强调可复现与可扩展。适用场景涵盖自动化研究助手、代码生成流水线、多步骤数据分析以及需要可靠 reasoning 的 agent 系统构建。",
+  "tags": [
+    "reasoning",
+    "agent",
+    "tool-use",
+    "open-source",
+    "large-language-model"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:30:47.204842+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

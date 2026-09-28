@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-09-28-021",
+  "title": "Flip Fluid on Flip Dots",
+  "source": "hackernews-top",
+  "url": "https://mitxela.com/projects/flipflip",
+  "summary": "Flip Fluid on Flip Dots 是一个将流体模拟算法（Flip Fluid）映射到机械翻页点阵显示器（Flip Dots）上的创意技术项目，通过物理硬件实时呈现流体动力学效果。它解决了传统流体模拟仅停留在屏幕像素层面的问题，将计算流体力学与机电显示结合，探索物理像素作为动态可视化媒介的可能性。核心技术亮点在于将 FLIP（Fluid Implicit Particle）方法的粒子-网格混合求解适配到离散机械翻页单元，并处理低刷新率与机械延迟带来的视觉连续性挑战。适用场景包括物理计算艺术装置、交互式展览、以及作为教学工具演示流体算法与硬件映射的工程实践。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:31:16.011814+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

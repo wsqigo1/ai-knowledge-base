@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-28-012",
+  "title": "The state of SIMD in Rust in 2026",
+  "source": "hackernews-top",
+  "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+  "summary": "该文系统梳理了 Rust 生态中 SIMD（Single Instruction Multiple Data）在 2026 年的现状，涵盖 std::simd 稳定化进展、portable_simd 特性、以及 wide、pulp 等第三方 crate 的成熟度。核心解决 Rust 在高性能数值计算、向量化加速场景下缺乏统一稳定 SIMD 抽象的问题，亮点在于对比了自动向量化与手写 SIMD 的边界、跨平台可移植性方案及编译器优化现状。适用于 AI 推理引擎、向量数据库、图像处理等对底层性能敏感的 Rust 工程场景。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:30:49.109734+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

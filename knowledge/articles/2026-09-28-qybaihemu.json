@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-28-008",
+  "title": "qybaihe/mu",
+  "source": "github-trending",
+  "url": "https://github.com/qybaihe/mu",
+  "summary": "mu 是一个基于 TypeScript 构建的开源 coding agent，核心设计是「先思考再行动」的双模型协作架构：由一个小而快的 judge 模型负责处理常规判断与路由决策，大模型则专注于实际代码生成与复杂推理任务。项目构建在 pi 和 AionUi 之上，旨在解决 coding agent 在延迟与成本之间的权衡问题——通过将高频轻量决策下沉到小模型，降低整体推理开销并提升响应速度。技术亮点在于模型分工调度机制，属于 agent 架构层面的工程优化。适用场景包括 IDE 辅助编程、自动化代码生成流水线以及对延迟敏感的开发者工具集成。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-28T02:30:04.184580+00:00",
+  "analyzed_at": "2026-09-28T02:30:39.391559+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}

@@ -1,7 +1,330 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2260,
+  "total_count": 2281,
   "entries": [
+    {
+      "id": "kb-2026-09-28-001",
+      "title": "dzhng/jevgrep",
+      "source": "github-trending",
+      "url": "https://github.com/dzhng/jevgrep",
+      "file": "2026-09-28-dzhngjevgrep.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-002",
+      "title": "feitangyuan/onetake",
+      "source": "github-trending",
+      "url": "https://github.com/feitangyuan/onetake",
+      "file": "2026-09-28-feitangyuanonetake.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-003",
+      "title": "lemomo-ai/lemo-opuscar",
+      "source": "github-trending",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "file": "2026-09-28-lemomo-ailemo-opuscar.json",
+      "tags": [
+        "prompt-engineering",
+        "code-generation",
+        "multimodal",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-004",
+      "title": "zouyuxuan122/dsh-our-free-model",
+      "source": "github-trending",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "file": "2026-09-28-zouyuxuan122dsh-our-free-model.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-005",
+      "title": "bridge-mind/bridgeclip",
+      "source": "github-trending",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "file": "2026-09-28-bridge-mindbridgeclip.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-006",
+      "title": "leter/zh-tech-writing",
+      "source": "github-trending",
+      "url": "https://github.com/leter/zh-tech-writing",
+      "file": "2026-09-28-leterzh-tech-writing.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "prompt-engineering",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-007",
+      "title": "win4r/MuseAI-Skills",
+      "source": "github-trending",
+      "url": "https://github.com/win4r/MuseAI-Skills",
+      "file": "2026-09-28-win4rmuseai-skills.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-008",
+      "title": "qybaihe/mu",
+      "source": "github-trending",
+      "url": "https://github.com/qybaihe/mu",
+      "file": "2026-09-28-qybaihemu.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-009",
+      "title": "timoncool/YuE2-Studio",
+      "source": "github-trending",
+      "url": "https://github.com/timoncool/YuE2-Studio",
+      "file": "2026-09-28-timoncoolyue2-studio.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-010",
+      "title": "glanderness/BeefTV",
+      "source": "github-trending",
+      "url": "https://github.com/glanderness/BeefTV",
+      "file": "2026-09-28-glandernessbeeftv.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-011",
+      "title": "Ember-1",
+      "source": "hackernews-top",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "file": "2026-09-28-ember-1.json",
+      "tags": [
+        "reasoning",
+        "agent",
+        "tool-use",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-012",
+      "title": "The state of SIMD in Rust in 2026",
+      "source": "hackernews-top",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "file": "2026-09-28-the-state-of-simd-in-rust-in-2026.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-013",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "source": "hackernews-top",
+      "url": "https://loficities.com/",
+      "file": "2026-09-28-show-hn-lofi-cities-pixel-art-city-night.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-014",
+      "title": "Don't couple your Go code to GitHub",
+      "source": "hackernews-top",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "file": "2026-09-28-dont-couple-your-go-code-to-github.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-015",
+      "title": "Writing Efficient C++ Code (2013)",
+      "source": "hackernews-top",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "file": "2026-09-28-writing-efficient-c-code-2013.json",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-016",
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "source": "hackernews-top",
+      "url": "https://fakecloud.dev/",
+      "file": "2026-09-28-fakecloud-local-aws-cloud-emulator-for-i.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-017",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "source": "hackernews-top",
+      "url": "https://tinyaiarena.com/",
+      "file": "2026-09-28-show-hn-tinyaiarena-watch-ai-agents-batt.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-018",
+      "title": "The Normalization of Inexplicable Failures",
+      "source": "hackernews-top",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "file": "2026-09-28-the-normalization-of-inexplicable-failur.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-019",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "source": "hackernews-top",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "file": "2026-09-28-on-caring-for-user-data-neovim-caused-vi.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-020",
+      "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+      "file": "2026-09-28-openai-pauses-training-of-latest-models-.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "tool-use",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
+    {
+      "id": "kb-2026-09-28-021",
+      "title": "Flip Fluid on Flip Dots",
+      "source": "hackernews-top",
+      "url": "https://mitxela.com/projects/flipflip",
+      "file": "2026-09-28-flip-fluid-on-flip-dots.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-09-28T02:31:19.539374+00:00"
+    },
     {
       "id": "kb-2026-09-27-001",
       "title": "amitshekhariitbhu/ai-system-design",
@@ -33810,5 +34133,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-27T02:27:31.638788+00:00"
+  "last_updated": "2026-09-28T02:31:19.727492+00:00"
 }

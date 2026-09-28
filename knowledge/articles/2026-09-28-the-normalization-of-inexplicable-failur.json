@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-28-018",
+  "title": "The Normalization of Inexplicable Failures",
+  "source": "hackernews-top",
+  "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+  "summary": "该文章探讨了软件系统中不可解释故障逐渐被正常化的现象，即工程师对无法复现、无法定位根因的系统异常逐渐习以为常。文章指出，随着系统复杂度提升（尤其是分布式系统与AI系统），故障的不可解释性正在被组织文化默认为可接受状态，从而削弱了工程严谨性。核心亮点在于从工程文化视角剖析技术债与可观测性缺失的深层原因，而非单纯讨论工具。适用于AI/LLM系统运维、SRE、平台工程等场景，提醒团队警惕对异常状态的麻木。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-28T02:30:04.374151+00:00",
+  "analyzed_at": "2026-09-28T02:31:09.389854+00:00",
+  "organized_at": "2026-09-28T02:31:19.539374+00:00",
+  "status": "published"
+}
