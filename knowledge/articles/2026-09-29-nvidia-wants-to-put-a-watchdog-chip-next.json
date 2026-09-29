@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-29-014",
+  "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+  "source": "hackernews-top",
+  "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+  "summary": "Nvidia 提出为每个 AI agent 配备专用 watchdog 芯片的构想，旨在解决自主 agent 在长时间运行中可能出现的失控、死循环或异常行为等安全问题。核心技术思路是通过硬件级监控单元实时检测 agent 的运行状态，在检测到异常时执行中断或隔离操作，形成独立于主计算单元的硬件安全层。该方案将安全机制从软件层下沉到芯片层，可提升 agent 系统的可靠性与可审计性。适用场景包括多 agent 协作系统、自主决策流水线、以及需要高保障等级的 AI 部署环境。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-29T03:13:13.534990+00:00",
+  "analyzed_at": "2026-09-29T03:14:09.227153+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

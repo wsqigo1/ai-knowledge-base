@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-29-011",
+  "title": "Hijacking the PS5's RTMP stream",
+  "source": "hackernews-top",
+  "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+  "summary": "该文章逆向分析了 PlayStation 5 的 RTMP 直播推流机制，通过抓包与协议解析定位其内置的 RTMP 推流端点与鉴权流程，进而实现将 PS5 画面流劫持到自建服务器。核心亮点在于对闭源主机私有 RTMP 握手与 token 校验的逆向工程，以及绕过官方限制的流重定向方案。适用于流媒体安全研究、游戏直播自托管、以及嵌入式协议逆向学习场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "multimodal",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-29T03:13:13.534990+00:00",
+  "analyzed_at": "2026-09-29T03:13:59.266428+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

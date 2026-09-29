@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-29-004",
+  "title": "diggerhq/shipvideo",
+  "source": "github-trending",
+  "url": "https://github.com/diggerhq/shipvideo",
+  "summary": "ShipVideo 是一个开源工具，用户粘贴 URL 或输入 prompt 即可自动生成产品发布视频。它解决的是营销视频制作门槛高、耗时长的问题。核心技术亮点在于将 LLM 代码生成与无服务器渲染结合：Opus 5.5 负责编写 HTML/CSS 动画代码，OpenComputer 的无服务器 agent 在云端渲染成视频，实现从文本到视频的端到端自动化。适用场景包括产品发布、社交媒体营销、快速原型演示等需要低成本批量产出视频的场合。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "agent",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-29T03:13:13.374645+00:00",
+  "analyzed_at": "2026-09-29T03:13:44.811510+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

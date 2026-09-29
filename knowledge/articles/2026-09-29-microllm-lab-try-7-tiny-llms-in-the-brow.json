@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-29-008",
+  "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+  "source": "hackernews-top",
+  "url": "https://stateofutopia.com/experiments/microllmlab/",
+  "summary": "MicroLLM Lab 是一个在浏览器中直接运行 7 个微型大语言模型（tiny LLM）的交互式实验平台。它解决了开发者无需本地部署或调用云端 API 即可快速体验和对比不同小型 LLM 推理效果的问题。核心技术亮点在于利用 WebAssembly 或 WebGPU 等浏览器端推理技术，将模型完全运行在客户端，保证低延迟与数据隐私。适用场景包括 LLM 教学演示、模型选型快速验证、以及边缘设备上的轻量级 AI 应用原型开发。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-29T03:13:13.534990+00:00",
+  "analyzed_at": "2026-09-29T03:13:54.105097+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

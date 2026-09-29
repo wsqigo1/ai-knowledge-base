@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-29-007",
+  "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+  "source": "hackernews-top",
+  "url": "https://github.com/firelex/jeff",
+  "summary": "Jeff 是一组与 Jev-compatible 的 0.8B 参数决策模型，由个人开发者在家中训练完成，推理延迟约 30ms。它针对的是轻量级决策/推理任务中，大模型成本高、延迟大的问题，通过极小参数量实现快速本地部署。核心技术亮点在于 0.8B 的紧凑规模、与 Jev 接口兼容、以及家庭级硬件可训练，强调低延迟与可复现性。适用场景包括边缘设备上的 agent 决策、实时工具调用、本地化推理流水线，以及对延迟敏感的轻量 AI 助手。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "agent",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-29T03:13:13.534990+00:00",
+  "analyzed_at": "2026-09-29T03:13:49.536262+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

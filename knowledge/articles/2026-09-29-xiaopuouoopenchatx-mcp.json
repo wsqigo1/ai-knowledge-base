@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-29-006",
+  "title": "XiaoPuOuO/openchatx-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+  "summary": "openchatx-mcp 是一个基于 TypeScript 的开源 MCP 连接器，将 ChatGPT 转变为本地 agent runtime。它通过单一 MCP 连接让 ChatGPT 能够操作本机、调用本地工具、自动发现 MCP servers，并把任务委派给用户自有的模型执行。核心亮点在于以 MCP 协议为统一接口，打通云端对话模型与本地执行环境，实现工具调用与任务编排的本地化。适用于 macOS 用户构建个人 AI 助手、本地自动化工作流，以及希望将 ChatGPT 接入自有模型与本地工具链的开发者。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-29T03:13:13.374645+00:00",
+  "analyzed_at": "2026-09-29T03:13:48.006815+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

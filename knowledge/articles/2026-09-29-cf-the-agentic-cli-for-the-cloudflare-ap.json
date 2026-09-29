@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-29-016",
+  "title": "Cf: The Agentic CLI for the Cloudflare API",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+  "summary": "Cf 是一个面向 Cloudflare API 的 agentic CLI 工具，将自然语言指令转化为对 Cloudflare 各项服务（如 Workers、KV、R2、DNS 等）的 API 调用。它解决了开发者记忆大量 Cloudflare API 端点、参数和认证流程的痛点，通过 LLM 驱动的 agent 自动规划并执行多步操作。核心技术亮点在于将 CLI 与 agent 循环结合，支持 tool-use 模式调用 Cloudflare API，并可能集成 MCP 协议以扩展能力边界。适用场景包括 Cloudflare 资源管理、自动化运维脚本生成、以及快速原型开发中的基础设施配置。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "mcp",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-29T03:13:13.534990+00:00",
+  "analyzed_at": "2026-09-29T03:14:13.030991+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}

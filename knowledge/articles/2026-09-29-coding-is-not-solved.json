@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-29-017",
+  "title": "Coding is not solved",
+  "source": "hackernews-top",
+  "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+  "summary": "该 HN 热帖《Coding is not solved》针对当前业界普遍宣称的「AI 已解决编程」论调提出反驳，指出 LLM 在真实软件工程场景中仍存在显著短板。文章核心论点在于：现有 code-generation 模型在 benchmark 上的高分并不等同于复杂代码库中的可靠表现，涉及长上下文理解、跨文件依赖推理、需求歧义消解与回归风险控制等未解难题。技术亮点在于区分了「生成代码片段」与「维护生产级系统」的本质差异，并讨论了 agent 与 tool-use 在真实 IDE 工作流中的局限。适用场景包括 AI 编程助手产品评估、code-generation 研究方向定位，以及工程团队对 AI 编码工具的能力预期管理。",
+  "tags": [
+    "code-generation",
+    "large-language-model",
+    "agent",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-09-29T03:13:13.534990+00:00",
+  "analyzed_at": "2026-09-29T03:14:16.435975+00:00",
+  "organized_at": "2026-09-29T03:14:21.670034+00:00",
+  "status": "published"
+}
