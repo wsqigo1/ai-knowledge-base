@@ -1,0 +1,541 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-09-30T02:55:28.219223+00:00",
+  "date": "2026-09-30",
+  "count": 20,
+  "items": [
+    {
+      "title": "KKKKhazix/AIHOT",
+      "source": "github-trending",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "stars": 3336,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "rss",
+        "self-hosted"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T18:02:56Z",
+      "summary": "AIHOT 是一个基于 TypeScript 的开源热点聚合与日报生成框架，核心能力是自动抓取多源信息（RSS、网页等）、按可配置的精选标准筛选内容，并生成结构化日报。它解决的是行业信息过载与人工筛选成本高的问题，用户只需替换信源和筛选规则，即可快速搭建垂直领域的行业热点站。技术亮点在于集成 MCP 协议与 LLM 能力，实现内容理解、去重与摘要生成，同时提供可扩展的聚合工作流。适用场景包括 AI 行业资讯站、企业内部情报监控、垂直领域内容运营及个人知识管理。",
+      "tags": [
+        "mcp",
+        "large-language-model",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-30T02:55:30.454437+00:00"
+    },
+    {
+      "title": "dzhng/jevgrep",
+      "source": "github-trending",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "stars": 1788,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T07:30:22Z",
+      "summary": "jevgrep 是一个面向 coding agents 的 CLI 工具，通过自然语言描述代码功能来定位相关文件与源码上下文。它解决的是传统 grep/正则搜索无法按语义意图检索代码的问题，让 agent 在大型代码库中快速找到真正相关的实现。核心技术亮点在于集成 Jev 做语义发现，并基于 ai-sdk 对接 Claude Code、Codex 等 agent 工作流，以 TypeScript 实现。适用场景包括 AI 编程助手上下文构建、代码库语义检索、agent 自动化开发流程。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-30T02:55:31.728335+00:00"
+    },
+    {
+      "title": "feitangyuan/onetake",
+      "source": "github-trending",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "stars": 986,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "animation",
+        "canvas",
+        "claude-skill",
+        "launch-video",
+        "motion-graphics",
+        "video"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T01:53:46Z",
+      "summary": "onetake 是一个基于 Claude Agent Skill 的开源工具，用于生成产品发布影片和功能演示视频。它解决传统幻灯片式视频中镜头频繁切换、节奏断裂的问题，通过让每个画面节拍从前一个自然生长，实现单一连续镜头（one continuous camera）的视觉效果。核心技术亮点在于引入 oracle 机制来度量画面连续性，并结合 canvas 动画与 agent 工作流自动编排叙事节奏。适用场景包括产品发布视频、功能演示、营销短片等需要流畅叙事与视觉连贯性的内容创作。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:55:33.401746+00:00"
+    },
+    {
+      "title": "kaankiziltug/logo-design-skill",
+      "source": "github-trending",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "stars": 854,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "branding",
+        "claude",
+        "claude-skills",
+        "codex",
+        "gemini-cli",
+        "logo-design",
+        "svg"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T08:27:51Z",
+      "summary": "该项目为 Claude、Gemini CLI、Codex 等 AI agent 提供了一套完整的 logo 设计技能包，包含设计原则、流程规范、SVG 手工编码技巧、测试工具以及 1400+ logo 参考库。它解决的是通用 AI agent 在品牌视觉设计任务中缺乏结构化方法论和领域知识的问题。核心亮点在于将设计流程拆解为可被 agent 执行的技能模块，并内置参考库辅助生成与评估，语言为 HTML 便于集成展示。适用场景包括 AI 辅助品牌设计、agent 技能扩展开发、以及需要自动化 logo 生成与迭代的工作流。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:55:34.835265+00:00"
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar",
+      "source": "github-trending",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "stars": 617,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "canvas",
+        "claude",
+        "claude-code",
+        "creative-coding",
+        "ffmpeg",
+        "filmmaking",
+        "motion-graphics",
+        "prompt-library",
+        "text-to-speech",
+        "threejs",
+        "video-production",
+        "webgl"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-30T00:32:28Z",
+      "summary": "lemo-opuscar 是一个基于 Claude Opus 5.5 的开源项目，收录 43 种影片风格，每种风格包含可复用的 style prompt、纯代码生成的样片以及导演与技术指南。它解决的核心问题是：让 AI agent 能够按指定电影风格自动完成视频创作，用户只需提供故事内容，agent 即可完成导演与渲染。技术亮点在于以 JavaScript/Canvas 实现纯代码动画渲染，并将风格提示词与 agent 工作流深度结合，形成可复用的 prompt-engineering 资产。适用场景包括 AI 视频生成、agent 驱动的创意自动化、以及 prompt 风格迁移研究。",
+      "tags": [
+        "prompt-engineering",
+        "agent",
+        "multimodal",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:55:36.419546+00:00"
+    },
+    {
+      "title": "glanderness/BeefTV",
+      "source": "github-trending",
+      "url": "https://github.com/glanderness/BeefTV",
+      "description": "Local-first, lightweight, AI-native video workspace.",
+      "stars": 551,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T20:11:41Z",
+      "summary": "BeefTV 是一个 local-first、AI-native 的视频工作空间，基于 TypeScript 构建。它试图解决传统云端视频编辑工具在隐私、延迟和离线可用性上的痛点，将视频处理与 AI 能力下沉到本地运行。核心技术亮点在于 local-first 架构与 AI-native 工作流的结合，可能集成多模态模型用于视频理解、剪辑辅助或内容生成，并通过本地推理降低对云服务的依赖。适用场景包括个人创作者、隐私敏感团队以及需要离线或低延迟视频处理的 AI 工程师，尤其适合探索本地多模态 agent 与视频工作流自动化的开发者。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:55:37.890270+00:00"
+    },
+    {
+      "title": "amitshekhariitbhu/ai-system-design",
+      "source": "github-trending",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "stars": 469,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design",
+        "ai-systems",
+        "ai-systems-design",
+        "llm",
+        "system-design",
+        "system-design-interview"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-25T04:53:31Z",
+      "summary": "该项目是一份以 Markdown 编写的 AI 系统设计学习指南，聚焦于基于 LLM、RAG 和 AI Agents 的系统架构设计。它解决的核心问题是：当前 AI 工程师普遍缺乏从零到一设计生产级 AI 系统的结构化方法论，碎片化知识难以串联为完整设计能力。内容以 step by step 方式组织，覆盖 LLM 应用架构、RAG 检索增强流程、Agent 编排等关键设计环节，强调系统层面的权衡与决策而非单一技术点。适合 AI 工程师、后端架构师及技术负责人作为设计参考与学习路线，尤其适用于需要快速建立 AI 系统设计全局认知的开发者。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "ai-system-design",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:55:40.001480+00:00"
+    },
+    {
+      "title": "zouyuxuan122/dsh-our-free-model",
+      "source": "github-trending",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "stars": 427,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-27T09:32:50Z",
+      "summary": "dsh-our-free-model 是 dsh（DeepSeek Harness）生态下的 JavaScript 插件，安装后无需登录、注册或配置 API Key，即可直接调用 Muse Spark 1.3、MiMo V2.6 等前沿大模型，且完全免费、无使用上限。它解决的是开发者接入 LLM 时面临的鉴权繁琐、额度受限与成本问题，通过插件化方式将模型能力内嵌到 dsh 工作流中。核心亮点在于零配置接入与不限量调用，适合 AI agent 开发、快速原型验证及本地开发者工具链集成等场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:55:41.426954+00:00"
+    },
+    {
+      "title": "JoasASantos/Offensive-Security-AI-Models",
+      "source": "github-trending",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "stars": 417,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-28T14:34:47Z",
+      "summary": "该项目汇集了未经审查（uncensored）或针对网络安全任务微调的开源 AI 模型，旨在解决通用大模型在渗透测试、漏洞分析、恶意代码理解等 offensive security 场景中因安全对齐而拒绝执行或能力不足的问题。核心技术亮点在于提供去审查模型与安全领域 fine-tuning 权重，使模型能够处理敏感的安全研究查询。适用场景包括红队演练、CTF 竞赛、漏洞挖掘、安全工具开发及 AI 安全对抗研究，适合安全研究员和 AI 工程师探索模型在 offensive 领域的边界。",
+      "tags": [
+        "fine-tuning",
+        "open-source",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:55:43.282635+00:00"
+    },
+    {
+      "title": "AgentSystemLabs/agent-office",
+      "source": "github-trending",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "stars": 393,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-30T01:55:17Z",
+      "summary": "AgentSystemLabs/agent-office 是一个基于 TypeScript 构建的卡通 3D 虚拟办公室，将 Claude Code 作为可雇佣的 AI 员工安置在工位上。它解决的核心问题是多 AI Agent 协作缺乏直观的可视化与交互界面——开发者难以同时管理多个编码 Agent 的状态、通信与任务分配。技术亮点包括：3D 场景中共享实时终端（live terminals）、语音对话交互、以及 GitHub Issues 和 PR 的自动追踪与关联。每个 Agent 拥有独立工位，支持团队级并行编码任务编排。适用场景为需要多 Agent 协同完成代码生成、Issue 修复和 PR 管理的开发团队，尤其适合希望以低门槛方式体验 multi-agent 编码工作流的工程师。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:55:45.102123+00:00"
+    },
+    {
+      "title": "CaptureGrubEnchant/SolidWorks",
+      "source": "github-trending",
+      "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
+      "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
+      "stars": 372,
+      "language": "TypeScript",
+      "topics": [
+        "3d-modelling",
+        "3d-modelling-software",
+        "3d-rendering",
+        "3d-rendering-software",
+        "3d-rendering-tools",
+        "3dexperience",
+        "3dprinting",
+        "cad-tools",
+        "solidworks",
+        "solidworks-addin",
+        "solidworks-ai",
+        "solidworks-automation",
+        "solidworks-free",
+        "solidworks-tutorial",
+        "solidworksapi",
+        "solidworksmacro"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T19:04:17Z",
+      "summary": "SolidWorks MCP Server 是一个基于 TypeScript 开发的开源项目，通过 Model Context Protocol (MCP) 将 AI 助手连接到正在运行的 SolidWorks 实例。它解决了 AI 无法直接操控专业 CAD 软件的痛点，让 LLM 能够以自然语言驱动三维建模操作。核心技术亮点在于利用 MCP 协议实现 tool-use 能力，支持草图绘制、拉伸、圆角、导出 STEP/STL 及宏生成等完整建模流程。适用场景包括 AI 辅助机械设计、CAD 工作流自动化、以及探索 LLM 在工业软件中的 agent 化落地。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-09-30T02:55:46.687874+00:00"
+    },
+    {
+      "title": "bridge-mind/bridgeclip",
+      "source": "github-trending",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
+      "stars": 339,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-30T01:48:16Z",
+      "summary": "BridgeClip 是 BridgeMind 推出的开源 AI 视频剪辑桌面应用，基于 Python 构建。它面向内容创作者和视频编辑者，解决传统剪辑软件操作门槛高、手动切片耗时的问题，通过 AI 自动识别视频中的高光片段并完成智能裁剪。核心技术亮点在于将视频理解与自动化剪辑流程集成到本地桌面端，降低对云端服务的依赖。适用场景包括短视频二次创作、播客切片、直播回放精华提取等需要快速产出多段短视频的工作流。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:55:48.058420+00:00"
+    },
+    {
+      "title": "leter/zh-tech-writing",
+      "source": "github-trending",
+      "url": "https://github.com/leter/zh-tech-writing",
+      "description": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "stars": 310,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "chinese",
+        "claude-code",
+        "documentation",
+        "style-guide",
+        "technical-writing"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-24T17:49:53Z",
+      "summary": "leter/zh-tech-writing 是一个面向 Claude Code 等 Agent 的中文技术文档写作 Skill，基于阮一峰《中文技术文档的写作规范》提炼规则，核心目标是消除 AI 生成文本常见的空话、套话与翻译腔，让输出回归短句、平实、可读的中文表达。它以 style-guide 形式注入 Agent 的写作流程，约束句式长度、术语使用和段落结构，属于 prompt-engineering 与 developer-tools 交叉的轻量方案。适用于中文技术博客、README、API 文档、内部知识库等需要批量生成或润色中文内容的场景，尤其适合用 Agent 自动产出文档的团队。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-30T02:55:49.681525+00:00"
+    },
+    {
+      "title": "win4r/MuseAI-Skills",
+      "source": "github-trending",
+      "url": "https://github.com/win4r/MuseAI-Skills",
+      "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "stars": 305,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "meta",
+        "muse",
+        "skills"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-28T00:49:54Z",
+      "summary": "win4r/MuseAI-Skills 是 muse.ai 平台技能与运行环境的非官方存档仓库，收录 68 个 skills、workflow guides 及 connector manifests。它解决的是第三方开发者难以获取 muse.ai 官方技能定义与连接器配置、无法复现或迁移 agent 能力的问题。核心亮点在于以 HTML 形式完整快照了技能清单与工作流指南，可作为 agent-skills 生态的参考样本。适用场景包括 agent 技能体系设计、connector 集成参考、以及多 agent 工作流自动化研究。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "mcp"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-09-30T02:55:51.491736+00:00"
+    },
+    {
+      "title": "zhuyansen/awesome-claude-video-skills",
+      "source": "github-trending",
+      "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+      "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+      "stars": 298,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "awesome-list",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "opus-5-5",
+        "remotion",
+        "video"
+      ],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-28T09:30:21Z",
+      "summary": "awesome-claude-video-skills 是一个开源资源集合，收录了 180 个按类型分类的仓库，旨在让 Claude Code、Codex 等 coding agent 具备视频制作能力。它解决了 AI 编程助手缺乏视频生成与编辑工具链的问题，通过 agent-skills 形式扩展 agent 的多媒体处理边界。核心亮点在于按类型组织并附带安全评级，同时支持中英双语。适用场景包括开发者希望为 coding agent 集成视频生成、剪辑、合成等自动化工作流。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "open-source",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-30T02:55:52.765189+00:00"
+    },
+    {
+      "title": "openJiuwen-ai/iCode",
+      "source": "github-trending",
+      "url": "https://github.com/openJiuwen-ai/iCode",
+      "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+      "stars": 256,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T15:42:57Z",
+      "summary": "iCode 是 openJiuwen-ai 推出的轻量级、可扩展、完全离线的 AI 开发平台与 agent/workflow 工具包，提供直观的 TUI 界面。它解决的是开发者在构建 AI agent 与工作流时对数据隐私、部署复杂度和平台锁定等痛点，通过完全离线运行让用户对数据、agent 和工作流拥有完整控制权。核心技术亮点包括轻量可扩展架构、TUI 交互、便捷部署以及 agent/workflow 编排能力。适用场景为需要本地化、数据敏感或内网环境下的 AI agent 开发、工作流自动化与私有化部署。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:55:54.245508+00:00"
+    },
+    {
+      "title": "openai/mcp-extensions",
+      "source": "github-trending",
+      "url": "https://github.com/openai/mcp-extensions",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "stars": 252,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T19:30:39Z",
+      "summary": "openai/mcp-extensions 是 OpenAI 官方推出的 TypeScript 扩展库，用于构建能与 ChatGPT 深度集成的插件，使其体验如同原生功能。它解决了第三方开发者难以将外部工具、数据源和服务无缝嵌入 ChatGPT 交互流程的问题。核心技术基于 MCP（Model Context Protocol），通过标准化协议让插件声明能力、处理调用并返回结构化结果，从而被 ChatGPT 直接识别与调度。该库降低了插件开发门槛，提供类型定义、运行时辅助和最佳实践示例。适用场景包括：为 ChatGPT 添加自定义工具调用、连接企业私有 API、扩展多轮对话中的外部操作能力，以及构建面向特定领域的 AI 助手。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-30T02:55:56.013856+00:00"
+    },
+    {
+      "title": "diggerhq/shipvideo",
+      "source": "github-trending",
+      "url": "https://github.com/diggerhq/shipvideo",
+      "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+      "stars": 220,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-24T23:17:03Z",
+      "summary": "ShipVideo 是一个开源工具，用户只需粘贴 URL 或输入 prompt，即可自动生成产品发布视频。它解决的是传统视频制作门槛高、耗时的问题，通过 LLM 驱动 HTML 生成与无服务器渲染实现端到端自动化。核心技术亮点在于 Opus 5.5 负责编写 HTML 页面，再由 OpenComputer 无服务器 agent 完成视频渲染，将 code-generation 与 agent 执行链路结合。适用场景包括产品发布、营销推广、社交媒体内容快速产出，尤其适合需要批量生成视频的开发者与增长团队。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-09-30T02:55:57.576219+00:00"
+    },
+    {
+      "title": "imikerussell/beebots",
+      "source": "github-trending",
+      "url": "https://github.com/imikerussell/beebots",
+      "description": "Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
+      "stars": 174,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-27T05:07:43Z",
+      "summary": "beebots 是一个基于 TypeScript 的开源项目，在 OKX 交易所上运行三只 AI 交易蜜蜂，所有交易决策均由 LLM（Jev）驱动。项目默认采用 paper trading（模拟交易）模式，避免真实资金风险，同时明确声明不构成投资建议。核心技术亮点在于将 multi-agent 架构与加密货币交易场景结合，通过 LLM 进行实时决策，并集成交易所 API 实现自动化下单流程。适用场景包括 AI 交易策略研究、multi-agent 协作决策实验、以及 LLM 在金融领域的 tool-use 实践探索。",
+      "tags": [
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:55:59.011248+00:00"
+    },
+    {
+      "title": "czg86389-hub/muse2api",
+      "source": "github-trending",
+      "url": "https://github.com/czg86389-hub/muse2api",
+      "description": "把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+      "stars": 171,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-09-30T02:55:25.871694+00:00",
+      "published_at": "2026-09-29T16:42:29Z",
+      "summary": "该项目将 Muse.ai 的逆向接口封装为 OpenAI 兼容 API，开发者可像调用 OpenAI 一样使用其对话、文生图、文生视频及图生视频能力。核心亮点在于多账号池轮转与 48 小时自动续期机制，有效规避单账号限流与凭证过期问题，提升服务稳定性。适用于需要低成本接入多模态生成能力、快速构建 AI 应用原型的开发者，也可作为多模态 agent 或内容生成工作流的后端服务。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:56:00.434984+00:00"
+    }
+  ]
+}

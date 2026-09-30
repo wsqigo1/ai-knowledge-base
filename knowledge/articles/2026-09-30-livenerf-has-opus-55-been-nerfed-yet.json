@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-30-007",
+  "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+  "source": "hackernews-top",
+  "url": "https://github.com/ninjahawk/livenerf",
+  "summary": "Livenerf 是一个针对 LLM 推理性能的基准测试与监测项目，标题以调侃方式询问 Opus 5.5 是否已被厂商\"削弱\"（nerfed）。它解决的核心问题是：闭源大模型在发布后常被静默更新，导致推理能力、代码生成质量等指标出现不可预期的退化，而开发者缺乏透明手段来追踪这些变化。项目通过定期对同一组 prompt 进行回归测试，量化模型在 reasoning、code-generation 等任务上的表现波动，并公开对比历史数据。技术亮点在于将\"模型退化监测\"工程化、可复现化，形成持续 benchmark 流程。适用场景包括：依赖特定模型版本的生产系统、模型选型评估、以及关注 API 模型质量稳定性的 AI 工程师。",
+  "tags": [
+    "benchmark",
+    "large-language-model",
+    "reasoning",
+    "code-generation",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-30T02:55:26.098354+00:00",
+  "analyzed_at": "2026-09-30T02:56:02.791048+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

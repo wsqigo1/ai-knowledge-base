@@ -1,0 +1,400 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-09-30T02:55:28.219888+00:00",
+  "date": "2026-09-30",
+  "count": 20,
+  "items": [
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "source": "hackernews-top",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "hn_url": "https://news.ycombinator.com/item?id=49901736",
+      "description": "",
+      "hn_score": 288,
+      "comments": 128,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "Livenerf 是一个针对 LLM 推理性能的基准测试与监测项目，标题以调侃方式询问 Opus 5.5 是否已被厂商\"削弱\"（nerfed）。它解决的核心问题是：闭源大模型在发布后常被静默更新，导致推理能力、代码生成质量等指标出现不可预期的退化，而开发者缺乏透明手段来追踪这些变化。项目通过定期对同一组 prompt 进行回归测试，量化模型在 reasoning、code-generation 等任务上的表现波动，并公开对比历史数据。技术亮点在于将\"模型退化监测\"工程化、可复现化，形成持续 benchmark 流程。适用场景包括：依赖特定模型版本的生产系统、模型选型评估、以及关注 API 模型质量稳定性的 AI 工程师。",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-30T02:56:02.791048+00:00"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "source": "hackernews-top",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "hn_url": "https://news.ycombinator.com/item?id=49899090",
+      "description": "",
+      "hn_score": 180,
+      "comments": 107,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "美国邮政检查局（U.S. Postal Inspectors）关闭了一家销售伪造邮资标签（counterfeit postage labels）的网站。该网站通过伪造邮政标签帮助用户以低于正常价格寄送包裹，直接造成美国邮政（USPS）收入损失，并可能被用于欺诈和洗钱等犯罪活动。核心技术亮点在于执法部门通过域名查封、支付渠道追踪和网络取证手段定位并关停非法平台，涉及数字取证与网络犯罪打击流程。该事件与 AI/LLM 技术无直接关联，属于网络安全与执法领域，对 AI 工程师的实际技术参考价值有限，仅可作为网络犯罪治理的案例参考。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-09-30T02:56:04.677757+00:00"
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "source": "hackernews-top",
+      "url": "https://space.bl2.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49898778",
+      "description": "",
+      "hn_score": 128,
+      "comments": 32,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "这是一个基于 Web 的实时太阳系可视化项目，在浏览器中渲染 526,000 颗小行星及所有已追踪卫星的轨道运动。它解决了传统天文可视化工具在数据规模与实时性上的瓶颈，让用户能直观观察近地天体与卫星分布。核心技术亮点在于大规模实例化渲染、轨道力学计算与实时数据流的高效整合，可能使用了 WebGL/WebGPU 或类似图形管线。适用场景包括天文教育、航天态势感知演示、轨道数据分析以及作为大规模粒子渲染的技术参考。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-30T02:56:06.147646+00:00"
+    },
+    {
+      "title": "America.gov",
+      "source": "hackernews-top",
+      "url": "https://america.gov/",
+      "hn_url": "https://news.ycombinator.com/item?id=49893509",
+      "description": "",
+      "hn_score": 392,
+      "comments": 315,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "America.gov 是 Hacker News 上引发热议的一个条目，标题指向美国政府官方门户网站，但结合 HN 392 分的高热度讨论，实际内容更可能涉及该网站在技术架构、可访问性、隐私政策或政府数字化服务方面的争议与改进。该项目并非 AI/LLM 领域的技术工具或框架，而是公共部门网站工程与信息架构的案例。核心技术亮点可能包括政府级 Web 标准合规、无障碍访问（accessibility）实现、以及大规模公共服务网站的部署与运维经验。适用场景为关注政府数字化、Web 工程最佳实践、公共信息平台设计的工程师与产品人员。对 AI 工程师的直接技术参考价值有限，但可作为大型组织 Web 基础设施的参考案例。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-30T02:56:08.074158+00:00"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "hn_url": "https://news.ycombinator.com/item?id=49896586",
+      "description": "",
+      "hn_score": 809,
+      "comments": 746,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "该条目讨论的是名为 GPT 6.1 Sol 的模型，宣称以约五分之一的价格提供接近 Astra 级别的智能水平。核心问题在于当前顶级大模型推理成本高昂，普通开发者难以负担。技术亮点可能涉及模型架构优化、推理效率提升或蒸馏/量化等手段，在保持较强 reasoning 与通用能力的同时大幅降低调用成本。适用场景包括对成本敏感的 AI 应用开发、大规模 agent 部署、以及需要高性价比推理的开发者工具链。需注意该标题命名方式存疑，实际可信度有待验证。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-30T02:56:10.024926+00:00"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "hn_url": "https://news.ycombinator.com/item?id=49892245",
+      "description": "",
+      "hn_score": 448,
+      "comments": 261,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "该条目报道印度德里通过智能电网改造、配电自动化与实时线损监测，将电力输配损耗从50%降至5%。核心亮点在于结合智能电表数据采集、AI驱动的异常用电检测与分区能耗分析，实现精准定位窃电与线路故障。技术路径涉及物联网传感、边缘计算与数据闭环优化，属于基础设施数字化与能源AI交叉领域。适用场景包括城市配电网运维、公用事业反窃电及智慧城市能源管理，对AI工程师理解时序数据异常检测与大规模IoT系统落地有参考价值。",
+      "tags": [
+        "benchmark",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-09-30T02:56:12.102365+00:00"
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "hn_url": "https://news.ycombinator.com/item?id=49897993",
+      "description": "",
+      "hn_score": 105,
+      "comments": 85,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "Vermont州正推进以家庭储能电池替代传统调峰电厂的电网改造方案，通过分布式户用电池聚合参与电网调度，解决可再生能源间歇性与峰值负荷问题。核心技术亮点在于虚拟电厂（VPP）架构，将分散的Powerwall等家用电池通过云端聚合为可调度资源，配合需求响应与分时电价机制实现削峰填谷。适用场景为高比例可再生能源电网、极端天气频发地区的电力系统韧性建设，对AI工程师而言，其调度优化算法与分布式资源聚合策略具有参考价值。",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-30T02:56:13.858651+00:00"
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "source": "hackernews-top",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "hn_url": "https://news.ycombinator.com/item?id=49895304",
+      "description": "",
+      "hn_score": 238,
+      "comments": 131,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "PS5 Relapse Exploit 是针对索尼 PlayStation 5 主机固件漏洞的利用工具，属于主机安全研究领域的开源项目。该项目解决了在特定 PS5 固件版本上实现代码执行与系统权限提升的问题，核心亮点在于利用新发现的漏洞链绕过索尼的安全缓解机制，实现持久化或非持久化的内核级访问。技术手段涉及逆向工程、内存破坏利用及固件版本适配。适用场景主要为安全研究人员进行漏洞验证、主机破解社区探索系统边界，以及推动厂商修复安全缺陷。该项目与 AI/LLM 技术栈无直接关联，但对理解底层系统安全与漏洞利用工程具有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-09-30T02:56:15.786931+00:00"
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "source": "hackernews-top",
+      "url": "https://somethingbig.ai/computer",
+      "hn_url": "https://news.ycombinator.com/item?id=49871018",
+      "description": "",
+      "hn_score": 112,
+      "comments": 61,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "NAND-16 是一个完全由 277,248 个 NAND 门搭建的 16 位计算机项目，旨在从最基础的逻辑门出发，完整实现一台可运行程序的通用计算机。它解决了“计算机如何从零构建”这一教育性与工程性难题，核心技术亮点在于纯 NAND 门级设计、大规模门电路布局与验证、以及配套的指令集与软件工具链。该项目适合计算机体系结构教学、数字逻辑设计实践、以及硬件爱好者深入理解 CPU 底层工作原理。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-30T02:56:17.511084+00:00"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "source": "hackernews-top",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "hn_url": "https://news.ycombinator.com/item?id=49880411",
+      "description": "",
+      "hn_score": 263,
+      "comments": 45,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "Phyllotaxis 是一个音频反应式 LED 显示装置，利用植物叶序（phyllotaxis）的数学规律——即向日葵种子排列所遵循的黄金角螺旋模式——来驱动 LED 灯珠的空间布局与动态响应。它解决的问题是如何将抽象的数学美学与实时音频信号结合，生成视觉上自然且富有节奏感的灯光效果。核心技术亮点在于将音频频谱分析结果映射到基于黄金角（约137.5°）的螺旋坐标系统，使每个 LED 的亮度和颜色随音乐节奏变化，同时保持几何结构的自相似性。该项目适合对生成艺术、嵌入式系统、音频可视化及数学可视化感兴趣的开发者，可用于互动装置、舞台灯光或创客项目。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-09-30T02:56:19.250809+00:00"
+    },
+    {
+      "title": "Ask HN: What are you reading?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49893157",
+      "hn_url": "https://news.ycombinator.com/item?id=49893157",
+      "description": "",
+      "hn_score": 157,
+      "comments": 402,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "这是 Hacker News 上的一则社区讨论帖，标题为「Ask HN: What are you reading?」，属于 HN 经典的读书分享类话题，并非具体的技术项目或论文。帖子本身不解决技术问题，而是汇集工程师群体近期阅读的书籍、文章与技术资料，反映开发者社区的知识关注点。核心技术亮点在于社区众包式的知识推荐与筛选机制，通过高赞评论沉淀出高质量阅读清单。适用场景为 AI 工程师拓展技术视野、寻找学习资料、了解同行关注方向，但需注意其内容泛化、缺乏结构化技术深度，对具体工程实践的指导价值有限。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-09-30T02:56:20.922598+00:00"
+    },
+    {
+      "title": "Tcl/Tk 9.1",
+      "source": "hackernews-top",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49896712",
+      "description": "",
+      "hn_score": 247,
+      "comments": 90,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "Tcl/Tk 9.1 是经典脚本语言 Tcl 及其 GUI 工具包 Tk 的最新稳定版本。该版本解决了长期存在的性能瓶颈与现代化需求，核心亮点包括：引入更高效的字节码编译器、改进的 Unicode 与字符串处理、增强的线程支持，以及 Tk 对高分屏和现代图形后端的适配。此外，9.1 优化了内存管理并修复了大量历史遗留问题。适用场景包括快速 GUI 原型开发、自动化测试脚本、嵌入式系统配置界面，以及需要轻量级跨平台桌面工具的场景。对 AI 工程师而言，Tcl/Tk 仍可作为模型训练监控面板或实验管理工具的快速实现方案。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-30T02:56:22.840938+00:00"
+    },
+    {
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "source": "hackernews-top",
+      "url": "https://sujithjay.com/inventing-work",
+      "hn_url": "https://news.ycombinator.com/item?id=49878857",
+      "description": "",
+      "hn_score": 199,
+      "comments": 41,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "该文章由资深 Staff Engineer 撰写，探讨工程师如何在组织内主动创造有价值的工作，而非被动等待任务分配。核心问题在于高级工程师常陷入执行他人规划、缺乏影响力的困境。文章提出一套方法论：识别组织痛点、提出有说服力的提案、跨团队协作推动落地，并强调技术判断力与沟通能力的结合。亮点在于将职业发展从'完成任务'转向'定义问题'，提供了可操作的框架而非空泛建议。适用场景包括大型科技公司中的高级工程师、技术负责人，以及希望在 AI 工程团队中扩大技术影响力的从业者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-30T02:56:24.586938+00:00"
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "source": "hackernews-top",
+      "url": "https://github.com/PostHog/jeeves",
+      "hn_url": "https://news.ycombinator.com/item?id=49891290",
+      "description": "",
+      "hn_score": 231,
+      "comments": 88,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "Jeeves 是一项针对 Jev-like 决策模型（基于价值函数的决策架构）的推理增强方法，通过引入显式 reasoning 步骤来提升模型在复杂决策任务中的表现。其核心思路是将推理过程与价值估计解耦，让模型在做出决策前先进行链式思考，从而改善传统 Jev 模型在稀疏奖励或长程依赖场景下的决策质量。技术亮点在于将 reasoning 能力与决策模型融合，而非简单堆叠 LLM。适用场景包括强化学习中的策略优化、agent 决策规划以及需要可解释推理的自动化系统。",
+      "tags": [
+        "reasoning",
+        "agent",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:56:26.215470+00:00"
+    },
+    {
+      "title": "Everybody’s home. No one’s coming over",
+      "source": "hackernews-top",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "hn_url": "https://news.ycombinator.com/item?id=49891295",
+      "description": "",
+      "hn_score": 744,
+      "comments": 675,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，标题「Everybody's home. No one's coming over」以隐喻方式探讨当前 AI 行业的一个现象：大量团队和开发者涌入本地部署开源模型（如 Llama、Mistral 等），构建个人或小团队的 AI 工作流，但缺乏外部用户访问和协作生态。帖子核心并非具体技术方案，而是对开源 AI 社区「自给自足但封闭」趋势的观察与反思。技术亮点在于引发对本地推理、隐私优先架构与社区协作模式之间张力的讨论。适用场景为 AI 工程师评估开源模型部署策略、社区运营者思考生态建设方向。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-09-30T02:56:27.913286+00:00"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/introducing-dots/",
+      "hn_url": "https://news.ycombinator.com/item?id=49896604",
+      "description": "",
+      "hn_score": 475,
+      "comments": 357,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "Dots 是一款常驻后台的 AI agent 产品，主打「always-on」概念，即 agent 持续运行并主动感知上下文，而非仅在用户提问时被动响应。它解决的是传统 chatbot 式交互中 agent 缺乏持续状态和主动性的问题，让 agent 能跨会话保持记忆、监听事件并自主触发任务。核心技术亮点在于持久化运行架构与上下文管理机制，使 agent 具备长期记忆和事件驱动能力。适用场景包括个人助理、自动化监控、信息聚合与主动提醒等需要 agent 长期在线的任务。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-09-30T02:56:29.733802+00:00"
+    },
+    {
+      "title": "Sustainable energy without the hot air (2008)",
+      "source": "hackernews-top",
+      "url": "https://www.withouthotair.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49892175",
+      "description": "",
+      "hn_score": 137,
+      "comments": 80,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "《Sustainable Energy — without the hot air》是 David JC MacKay 于 2008 年出版的能源科普著作，通过严谨的物理量级估算（back-of-the-envelope calculation）逐项拆解英国可再生能源与核能的实际供给能力，并与交通、供暖、发电等终端能耗需求做同尺度对比。核心亮点在于用统一单位（kWh/人/天）量化风能、太阳能、生物质、核能等方案，破除'绿色能源无限充足'的直觉误区，强调可持续能源方案必须通过算术而非口号来验证。该书面向能源政策制定者、工程师及关注气候与能源转型的技术读者，是能源系统思维与量级估算方法的经典参考。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-09-30T02:56:31.505499+00:00"
+    },
+    {
+      "title": "Using any C++ library in Godot",
+      "source": "hackernews-top",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49890051",
+      "description": "",
+      "hn_score": 157,
+      "comments": 56,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "该技术条目介绍如何在 Godot 游戏引擎中集成任意 C++ 库，通过 GDExtension 机制将原生 C++ 代码编译为动态库并暴露给 Godot 的脚本层调用。它解决了 Godot 开发者无法直接复用成熟 C++ 生态（如物理引擎、AI 推理库、图像处理库）的痛点，核心技术亮点在于利用 GDExtension 的跨语言绑定能力，无需修改引擎源码即可实现高性能原生扩展。适用场景包括游戏开发中需要接入第三方 C++ 库、性能敏感模块加速，以及将 AI 推理能力嵌入 Godot 项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-09-30T02:56:33.022025+00:00"
+    },
+    {
+      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "source": "hackernews-top",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "hn_url": "https://news.ycombinator.com/item?id=49898931",
+      "description": "",
+      "hn_score": 44,
+      "comments": 10,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "TurboGPT 是一个极简 Transformer 训练项目，能在 13 秒内训练出仅 22KiB 参数量的微型语言模型。它解决了在资源极度受限环境下快速验证 Transformer 架构与训练流程的问题，核心技术亮点在于极致压缩模型规模与训练时间，可能采用精简架构、高效 tokenizer 和优化训练循环。适用场景包括教学演示、边缘设备原型验证、快速实验迭代以及理解 Transformer 最小可行实现。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-30T02:56:34.504340+00:00"
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "source": "hackernews-top",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49890226",
+      "description": "",
+      "hn_score": 411,
+      "comments": 130,
+      "collected_at": "2026-09-30T02:55:26.098354+00:00",
+      "published_at": "2026-09-30T02:55:26.098354+00:00",
+      "summary": "该论文对网页端与移动端对话式 AI Agent 进行系统性隐私分析，针对用户与 AI 助手交互过程中潜在的敏感数据泄露与第三方追踪问题展开研究。核心方法包括对主流 Web 与移动端 Conversational AI Agent 的网络流量、权限调用与数据流向进行实证测量，识别出输入内容、上下文信息及设备标识符在传输与存储环节的隐私风险。技术亮点在于跨平台对比框架与真实场景下的数据采集方法，揭示了不同部署形态下隐私暴露面的差异。适用于 AI 产品隐私合规评估、Agent 安全设计及监管政策制定等场景。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-09-30T02:56:36.290843+00:00"
+    }
+  ]
+}

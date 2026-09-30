@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-30-004",
+  "title": "openai/mcp-extensions",
+  "source": "github-trending",
+  "url": "https://github.com/openai/mcp-extensions",
+  "summary": "openai/mcp-extensions 是 OpenAI 官方推出的 TypeScript 扩展库，用于构建能与 ChatGPT 深度集成的插件，使其体验如同原生功能。它解决了第三方开发者难以将外部工具、数据源和服务无缝嵌入 ChatGPT 交互流程的问题。核心技术基于 MCP（Model Context Protocol），通过标准化协议让插件声明能力、处理调用并返回结构化结果，从而被 ChatGPT 直接识别与调度。该库降低了插件开发门槛，提供类型定义、运行时辅助和最佳实践示例。适用场景包括：为 ChatGPT 添加自定义工具调用、连接企业私有 API、扩展多轮对话中的外部操作能力，以及构建面向特定领域的 AI 助手。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-09-30T02:55:25.871694+00:00",
+  "analyzed_at": "2026-09-30T02:55:56.013856+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

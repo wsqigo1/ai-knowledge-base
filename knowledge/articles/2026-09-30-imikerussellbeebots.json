@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-30-005",
+  "title": "imikerussell/beebots",
+  "source": "github-trending",
+  "url": "https://github.com/imikerussell/beebots",
+  "summary": "beebots 是一个基于 TypeScript 的开源项目，在 OKX 交易所上运行三只 AI 交易蜜蜂，所有交易决策均由 LLM（Jev）驱动。项目默认采用 paper trading（模拟交易）模式，避免真实资金风险，同时明确声明不构成投资建议。核心技术亮点在于将 multi-agent 架构与加密货币交易场景结合，通过 LLM 进行实时决策，并集成交易所 API 实现自动化下单流程。适用场景包括 AI 交易策略研究、multi-agent 协作决策实验、以及 LLM 在金融领域的 tool-use 实践探索。",
+  "tags": [
+    "multi-agent",
+    "tool-use",
+    "open-source",
+    "agent",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-09-30T02:55:25.871694+00:00",
+  "analyzed_at": "2026-09-30T02:55:59.011248+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

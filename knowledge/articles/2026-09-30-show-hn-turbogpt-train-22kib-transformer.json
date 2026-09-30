@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-30-018",
+  "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+  "source": "hackernews-top",
+  "url": "https://github.com/lostmsu/TurboGPT",
+  "summary": "TurboGPT 是一个极简 Transformer 训练项目，能在 13 秒内训练出仅 22KiB 参数量的微型语言模型。它解决了在资源极度受限环境下快速验证 Transformer 架构与训练流程的问题，核心技术亮点在于极致压缩模型规模与训练时间，可能采用精简架构、高效 tokenizer 和优化训练循环。适用场景包括教学演示、边缘设备原型验证、快速实验迭代以及理解 Transformer 最小可行实现。",
+  "tags": [
+    "open-source",
+    "large-language-model",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-30T02:55:26.098354+00:00",
+  "analyzed_at": "2026-09-30T02:56:34.504340+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

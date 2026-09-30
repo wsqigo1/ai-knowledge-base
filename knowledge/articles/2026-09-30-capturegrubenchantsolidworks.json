@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-09-30-002",
+  "title": "CaptureGrubEnchant/SolidWorks",
+  "source": "github-trending",
+  "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
+  "summary": "SolidWorks MCP Server 是一个基于 TypeScript 开发的开源项目，通过 Model Context Protocol (MCP) 将 AI 助手连接到正在运行的 SolidWorks 实例。它解决了 AI 无法直接操控专业 CAD 软件的痛点，让 LLM 能够以自然语言驱动三维建模操作。核心技术亮点在于利用 MCP 协议实现 tool-use 能力，支持草图绘制、拉伸、圆角、导出 STEP/STL 及宏生成等完整建模流程。适用场景包括 AI 辅助机械设计、CAD 工作流自动化、以及探索 LLM 在工业软件中的 agent 化落地。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "ai-assistant",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-09-30T02:55:25.871694+00:00",
+  "analyzed_at": "2026-09-30T02:55:46.687874+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-30-017",
+  "title": "Using any C++ library in Godot",
+  "source": "hackernews-top",
+  "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+  "summary": "该技术条目介绍如何在 Godot 游戏引擎中集成任意 C++ 库，通过 GDExtension 机制将原生 C++ 代码编译为动态库并暴露给 Godot 的脚本层调用。它解决了 Godot 开发者无法直接复用成熟 C++ 生态（如物理引擎、AI 推理库、图像处理库）的痛点，核心技术亮点在于利用 GDExtension 的跨语言绑定能力，无需修改引擎源码即可实现高性能原生扩展。适用场景包括游戏开发中需要接入第三方 C++ 库、性能敏感模块加速，以及将 AI 推理能力嵌入 Godot 项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-09-30T02:55:26.098354+00:00",
+  "analyzed_at": "2026-09-30T02:56:33.022025+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

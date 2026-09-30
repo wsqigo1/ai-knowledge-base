@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-30-014",
+  "title": "Jeeves. Reasoning improves Jev-like decision models",
+  "source": "hackernews-top",
+  "url": "https://github.com/PostHog/jeeves",
+  "summary": "Jeeves 是一项针对 Jev-like 决策模型（基于价值函数的决策架构）的推理增强方法，通过引入显式 reasoning 步骤来提升模型在复杂决策任务中的表现。其核心思路是将推理过程与价值估计解耦，让模型在做出决策前先进行链式思考，从而改善传统 Jev 模型在稀疏奖励或长程依赖场景下的决策质量。技术亮点在于将 reasoning 能力与决策模型融合，而非简单堆叠 LLM。适用场景包括强化学习中的策略优化、agent 决策规划以及需要可解释推理的自动化系统。",
+  "tags": [
+    "reasoning",
+    "agent",
+    "large-language-model",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-09-30T02:55:26.098354+00:00",
+  "analyzed_at": "2026-09-30T02:56:26.215470+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}

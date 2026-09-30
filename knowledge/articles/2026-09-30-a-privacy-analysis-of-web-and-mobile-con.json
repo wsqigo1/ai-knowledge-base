@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-09-30-019",
+  "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+  "source": "hackernews-top",
+  "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "summary": "该论文对网页端与移动端对话式 AI Agent 进行系统性隐私分析，针对用户与 AI 助手交互过程中潜在的敏感数据泄露与第三方追踪问题展开研究。核心方法包括对主流 Web 与移动端 Conversational AI Agent 的网络流量、权限调用与数据流向进行实证测量，识别出输入内容、上下文信息及设备标识符在传输与存储环节的隐私风险。技术亮点在于跨平台对比框架与真实场景下的数据采集方法，揭示了不同部署形态下隐私暴露面的差异。适用于 AI 产品隐私合规评估、Agent 安全设计及监管政策制定等场景。",
+  "tags": [
+    "agent",
+    "ai-assistant",
+    "benchmark",
+    "large-language-model"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-09-30T02:55:26.098354+00:00",
+  "analyzed_at": "2026-09-30T02:56:36.290843+00:00",
+  "organized_at": "2026-09-30T02:56:36.376028+00:00",
+  "status": "published"
+}
