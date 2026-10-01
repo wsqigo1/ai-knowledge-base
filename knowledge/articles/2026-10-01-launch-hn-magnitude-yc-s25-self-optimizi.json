@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-01-008",
+  "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+  "source": "hackernews-top",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "summary": "Magnitude 是 YC S25 孵化的开源项目，定位为面向 AI agent 的自优化推理引擎。它解决的核心问题是：agent 工作负载具有高度动态性和不确定性，传统静态推理配置（如固定 batch size、KV cache 策略）难以在延迟与吞吐间取得最优平衡。Magnitude 通过运行时自动调优推理参数，针对 agent 特有的多轮工具调用、变长上下文和突发并发模式进行自适应优化。技术亮点在于将推理引擎的配置空间搜索与 agent 执行轨迹结合，实现持续自我优化。适用场景包括需要低延迟高吞吐的 agent 部署、多 agent 编排系统以及 tool-use 密集型应用。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "large-language-model",
+    "tool-use"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:26.139518+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

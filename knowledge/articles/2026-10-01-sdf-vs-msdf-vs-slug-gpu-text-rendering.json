@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-01-016",
+  "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+  "source": "hackernews-top",
+  "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+  "summary": "该条目对比了 SDF、MSDF 与 Slug 三种 GPU 文本渲染方案。SDF 以单通道距离场实现平滑缩放，MSDF 通过多通道距离场保留锐利转角，Slug 则采用 CPU 预计算曲线与 GPU 求交的混合策略。三者均解决传统位图字体在缩放、旋转时模糊或锯齿的问题，核心差异在于精度、内存占用与着色器复杂度。适用于游戏引擎、地图标注、UI 框架等需要高质量动态文本渲染的场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "multimodal",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:45.100267+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

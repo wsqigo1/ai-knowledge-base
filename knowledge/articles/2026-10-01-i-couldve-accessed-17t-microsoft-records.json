@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-01-014",
+  "title": "I could've accessed 17T Microsoft records",
+  "source": "hackernews-top",
+  "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+  "summary": "该条目是 Hacker News 上一篇关于 Microsoft 数据暴露漏洞的安全披露文章，作者声称曾可访问高达 17TB 的 Microsoft 内部记录。文章核心并非 AI 技术，而是云数据存储配置错误导致的越权访问风险，涉及 Azure Blob 存储、SAS token 权限过大或公开访问设置不当等常见云安全配置问题。技术亮点在于展示了攻击面发现过程与数据暴露规模评估方法，对云安全审计、权限最小化实践有参考意义。适用场景包括云安全评估、DevSecOps 流程加固、企业数据治理与合规审计。对 AI 工程师而言，其价值在于提醒训练数据与模型资产在云端的存储安全风险。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:38.687582+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

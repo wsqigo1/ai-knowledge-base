@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-01-007",
+  "title": "EDG C++ front-end goes public",
+  "source": "hackernews-top",
+  "url": "https://edgcpp.org/#transition",
+  "summary": "EDG C++ front-end 是 EDG（Edison Design Group）开发的商业级 C++ 编译器前端，现已公开。它解决了 C++ 编译器前端实现复杂、标准符合性难以保证的问题，为编译器开发者、静态分析工具和 IDE 提供高兼容性的解析与语义分析能力。核心技术亮点包括对最新 C++ 标准的完整支持、成熟的模板实例化机制和高效的 AST 构建。适用场景包括构建自定义编译器、代码分析工具、语言服务器以及 C++ 教学与研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:24.454650+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

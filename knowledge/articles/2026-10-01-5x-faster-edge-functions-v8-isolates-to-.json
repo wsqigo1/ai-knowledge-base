@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-01-009",
+  "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+  "source": "hackernews-top",
+  "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+  "summary": "该技术条目讨论将 Edge Functions 的执行环境从 V8 isolates 迁移到 Firecracker MicroVMs，实现约 5 倍性能提升。V8 isolates 虽启动快但隔离性弱、冷启动受限，Firecracker MicroVMs 提供更强安全隔离与接近原生的执行效率。核心技术亮点在于利用轻量级虚拟化在边缘节点实现低延迟、高密度的函数执行，兼顾安全与性能。适用场景包括边缘计算、Serverless 平台、多租户函数托管及对隔离性要求高的 AI 推理服务。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:27.602798+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

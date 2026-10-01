@@ -1,7 +1,299 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2319,
+  "total_count": 2338,
   "entries": [
+    {
+      "id": "kb-2026-10-01-001",
+      "title": "feder-cr/dots",
+      "source": "github-trending",
+      "url": "https://github.com/feder-cr/dots",
+      "file": "2026-10-01-feder-crdots.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-002",
+      "title": "rehan-remade/universal-modder",
+      "source": "github-trending",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "file": "2026-10-01-rehan-remadeuniversal-modder.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "multimodal",
+        "code-generation",
+        "developer-tools"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-003",
+      "title": "echris6/motion-video-kit",
+      "source": "github-trending",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "file": "2026-10-01-echris6motion-video-kit.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-004",
+      "title": "nanaism/yomiyasu",
+      "source": "github-trending",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "file": "2026-10-01-nanaismyomiyasu.json",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "ai-assistant",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-005",
+      "title": "edenfunf/reelmimic",
+      "source": "github-trending",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "file": "2026-10-01-edenfunfreelmimic.json",
+      "tags": [
+        "multi-agent",
+        "ai-video",
+        "2d-animation",
+        "claude-code",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-006",
+      "title": "Gemini 4 Argon",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "file": "2026-10-01-gemini-4-argon.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "reasoning",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-007",
+      "title": "EDG C++ front-end goes public",
+      "source": "hackernews-top",
+      "url": "https://edgcpp.org/#transition",
+      "file": "2026-10-01-edg-c-front-end-goes-public.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-008",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "file": "2026-10-01-launch-hn-magnitude-yc-s25-self-optimizi.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-009",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "source": "hackernews-top",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "file": "2026-10-01-5x-faster-edge-functions-v8-isolates-to-.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-010",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "file": "2026-10-01-singapore-govt-dating-app-uses-gale-shap.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-011",
+      "title": "A brief history of the Bloomberg terminal",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "file": "2026-10-01-a-brief-history-of-the-bloomberg-termina.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-012",
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "source": "hackernews-top",
+      "url": "https://lathoa.ai/en",
+      "file": "2026-10-01-show-hn-lathoa-a-math-app-for-kids-where.json",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-013",
+      "title": "What TLA+ can and can't check",
+      "source": "hackernews-top",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "file": "2026-10-01-what-tla-can-and-cant-check.json",
+      "tags": [
+        "reasoning",
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-014",
+      "title": "I could've accessed 17T Microsoft records",
+      "source": "hackernews-top",
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "file": "2026-10-01-i-couldve-accessed-17t-microsoft-records.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-015",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "source": "hackernews-top",
+      "url": "https://agmai.org/general-sep29/",
+      "file": "2026-10-01-responsible-release-of-ai-generated-math.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-016",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "source": "hackernews-top",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "file": "2026-10-01-sdf-vs-msdf-vs-slug-gpu-text-rendering.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-017",
+      "title": "LinkedIn Larpmaxxing",
+      "source": "hackernews-top",
+      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "file": "2026-10-01-linkedin-larpmaxxing.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-018",
+      "title": "You said no MCP",
+      "source": "hackernews-top",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "file": "2026-10-01-you-said-no-mcp.json",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "agent",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
+    {
+      "id": "kb-2026-10-01-019",
+      "title": "Commit description as a thinking tool",
+      "source": "hackernews-top",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "file": "2026-10-01-commit-description-as-a-thinking-tool.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "reasoning",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-01T03:02:50.489556+00:00"
+    },
     {
       "id": "kb-2026-09-30-001",
       "title": "JoasASantos/Offensive-Security-AI-Models",
@@ -34718,5 +35010,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-09-30T02:56:36.590379+00:00"
+  "last_updated": "2026-10-01T03:02:50.738591+00:00"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-01-010",
+  "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+  "summary": "新加坡政府推出官方约会应用，采用 Gale-Shapley 稳定婚姻算法（stable marriage algorithm）进行用户匹配。该算法通过延迟接受机制（deferred acceptance）确保匹配结果不存在任何一对男女更偏好彼此却未被配对的\"不稳定\"情况，从而提升配对满意度与公平性。核心亮点在于将经典博弈论/算法设计应用于真实婚恋场景，替代常见的协同过滤或向量相似度匹配。适用场景包括政府主导的公共婚恋服务、需要公平稳定配对的资源分配系统，以及任何强调匹配稳定性而非即时偏好的双边市场。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:29.181594+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

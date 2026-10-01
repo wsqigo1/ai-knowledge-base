@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-01-018",
+  "title": "You said no MCP",
+  "source": "hackernews-top",
+  "url": "https://earendil.com/posts/you-said-no-mcp/",
+  "summary": "标题「You said no MCP」指向围绕 Model Context Protocol (MCP) 的争议性讨论，核心在于部分开发者主张在构建 LLM agent 工具调用链路时不必引入 MCP 这一标准化协议，而可用更轻量的 function calling、OpenAPI schema 或自定义 tool-use 层替代。该条目在 HN 获得 618 分，说明社区对 MCP 是否被过度神化、其抽象层是否带来额外复杂度与延迟存在真实分歧。技术亮点在于对比 MCP 与原生 tool-use 在集成成本、可移植性、状态管理上的取舍。适用场景为正在设计 agent 工具调用架构、评估是否采纳 MCP 的 AI 工程师。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "agent",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:48.762492+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

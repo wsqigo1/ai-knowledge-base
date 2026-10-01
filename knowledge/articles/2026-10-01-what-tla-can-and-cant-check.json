@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-01-013",
+  "title": "What TLA+ can and can't check",
+  "source": "hackernews-top",
+  "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+  "summary": "TLA+ 是 Leslie Lamport 提出的形式化规约语言，用于对并发与分布式系统进行建模和验证。本文讨论 TLA+ 的能力边界：它能通过 TLC 模型检验器穷举有限状态空间，发现死锁、不变式违反、活性违背等设计级缺陷，也能借助 TLAPS 进行定理证明；但它无法验证代码实现与规约的一致性，无法处理无限状态或真实环境中的时序、性能与硬件故障，也不适合验证数值计算与安全属性。核心亮点在于明确区分「设计验证」与「实现验证」，帮助工程师判断何时该用 TLA+、何时该转向测试或运行时监控。适用于分布式协议、并发算法、一致性模型的设计阶段评审。",
+  "tags": [
+    "reasoning",
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-01T03:01:41.838211+00:00",
+  "analyzed_at": "2026-10-01T03:02:36.551562+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}

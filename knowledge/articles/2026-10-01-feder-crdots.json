@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-01-001",
+  "title": "feder-cr/dots",
+  "source": "github-trending",
+  "url": "https://github.com/feder-cr/dots",
+  "summary": "dots 是一个开源 AI agent 项目，为 agent 配备独立浏览器并具备反检测能力，解决自动化 agent 在访问网页时被反爬系统识别和封锁的问题。核心技术亮点在于集成 anti-detect-browser，使 agent 能以接近真实用户的方式浏览和操作网页，绕过常见 bot 检测机制。项目基于 Python 实现，定位为 web 场景下的自主浏览 agent，适用于需要 agent 自主完成网页信息采集、表单填写、在线任务执行等场景，尤其适合对反爬对抗有需求的自动化工作流。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-01T03:01:41.703601+00:00",
+  "analyzed_at": "2026-10-01T03:01:46.577078+00:00",
+  "organized_at": "2026-10-01T03:02:50.489556+00:00",
+  "status": "published"
+}
