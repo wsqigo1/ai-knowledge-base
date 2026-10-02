@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-020",
+  "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=49911500",
+  "summary": "该项目为编码代理（coding agents）提供开源模型路由（model routing）方案，目标是在 Astra 级性能下实现多模型动态调度。它解决的核心问题是：单一 LLM 在代码生成任务中难以兼顾成本、延迟与质量，而手动切换模型又缺乏统一抽象。技术亮点在于路由策略可依据任务类型、上下文长度或实时性能指标，将请求分发至不同模型（如 Claude、GPT、本地开源模型），并保持与 agent 框架的兼容。适用场景包括 AI 编程助手、自动化代码审查、多模型编排的开发者工具链。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "code-generation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:05:10.790241+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

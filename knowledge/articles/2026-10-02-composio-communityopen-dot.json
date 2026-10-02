@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-004",
+  "title": "composio-community/open-dot",
+  "source": "github-trending",
+  "url": "https://github.com/composio-community/open-dot",
+  "summary": "open-dot 是 Composio 社区推出的开源个人 AI agent 项目，以 Mac 桌面应用形式运行，让 agent 在独立虚拟计算机上自主执行任务。它解决的是现有 AI 助手只能被动响应、无法长时间自主操作电脑的问题——agent 拥有自己的运行环境，可独立完成多步骤工作流。核心技术亮点在于集成 OpenAI 模型与 Composio 工具调用框架，通过 tool-use 实现 agent 对操作系统和第三方服务的自主操作，并以桌面应用降低使用门槛。适用场景包括个人自动化助手、跨应用任务编排、以及开发者研究 agent 自主性与工具调用的实验平台。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-02T03:04:02.633333+00:00",
+  "analyzed_at": "2026-10-02T03:04:34.205970+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

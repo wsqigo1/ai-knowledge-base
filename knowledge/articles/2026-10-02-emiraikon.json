@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-005",
+  "title": "emir/aikon",
+  "source": "github-trending",
+  "url": "https://github.com/emir/aikon",
+  "summary": "该项目将 Claude、ChatGPT、Gemini、Grok 四大 LLM 接入一台 2007 年的诺基亚 S40/S60 功能机，通过 J2ME 客户端与一个轻量 Go 服务器通信，让无法再访问 Google 的老旧设备重新获得 AI 问答能力。核心亮点在于极端的端侧适配：J2ME 负责 UI 与请求封装，Go 服务端统一代理多家 LLM API 并处理鉴权与协议转换，形成「老终端 + 新模型」的桥接架构。适用于复古设备改造、嵌入式/低资源终端接入 LLM、多模型统一网关等场景，也可作为学习 J2ME 与 Go 后端协作的教学案例。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "ai-assistant",
+    "tool-use"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-02T03:04:02.633333+00:00",
+  "analyzed_at": "2026-10-02T03:04:37.587609+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

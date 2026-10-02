@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-02-015",
+  "title": "Cloudflare K2: serverless event streams",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+  "summary": "Cloudflare K2 是 Cloudflare 推出的 serverless event streams 服务，旨在解决传统事件流系统（如 Kafka）在运维复杂度和弹性伸缩上的痛点。其核心技术亮点在于将事件流能力完全 serverless 化，开发者无需管理 broker 集群，即可通过 API 直接生产和消费事件流，并天然集成 Cloudflare Workers 生态。K2 支持持久化存储、按需扩展和低延迟投递，适合构建事件驱动架构、实时数据处理管道、以及需要与边缘计算结合的异步任务编排场景，尤其适用于希望降低基础设施运维成本的中小型团队。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "serverless"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:05:00.240183+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

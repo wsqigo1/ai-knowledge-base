@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-02-014",
+  "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+  "source": "hackernews-top",
+  "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+  "summary": "ESP32 微控制器被发现具备隐藏的软件定义无线电（SDR）能力，多个开源项目通过直接操作其射频外设和时钟系统，实现了对 WiFi/BT 频段信号的原始采样与发射。这解决了低成本 SDR 硬件门槛高的问题，使开发者能用约 5 美元的 ESP32 进行频谱感知、信号捕获甚至简易通信。核心技术亮点在于绕过官方 SDK 的抽象层，利用 I2S 总线与 RF 前端直接交互，并借助 DMA 实现高速数据流。适用场景包括无线电教学、IoT 频谱监测、低成本信号实验及嵌入式安全研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:04:58.637124+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-009",
+  "title": "Pi Durable",
+  "source": "hackernews-top",
+  "url": "https://earendil.com/posts/pi-durable/",
+  "summary": "Pi Durable 是 Hacker News 上引发关注的技术项目，从名称和上下文推测，它聚焦于为 AI 应用（尤其是 LLM 驱动的 agent 或 assistant）提供持久化（durable）执行能力。核心问题在于：当前多数 agent 框架在进程崩溃、网络中断或长时间运行任务中容易丢失状态，导致工作流不可靠。Pi Durable 通过持久化执行引擎（durable execution）记录每一步状态与副作用，支持断点恢复、重试和幂等性保证，使 agent 工作流具备生产级可靠性。技术亮点可能包括事件溯源、状态快照、与 LLM tool-use 循环的集成。适用场景：长时间运行的 multi-agent 编排、需要容错的 workflow-automation、以及将 AI assistant 部署到生产环境的开发者。",
+  "tags": [
+    "agent",
+    "workflow-automation",
+    "developer-tools",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:04:49.766049+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

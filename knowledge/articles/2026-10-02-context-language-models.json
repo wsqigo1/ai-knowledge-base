@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-017",
+  "title": "Context Language Models",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.37725",
+  "summary": "Context Language Models（上下文语言模型）是一类将长上下文处理能力作为核心设计目标的语言模型研究方向，旨在解决传统 LLM 在超长文本理解、跨文档推理和持久记忆场景下上下文窗口受限、信息丢失的问题。其核心技术亮点在于通过改进注意力机制、上下文压缩、检索增强或状态记忆等方式，使模型能够在数万至百万级 token 范围内保持语义连贯与推理一致性。适用场景包括长文档问答、代码库级理解、多轮 agent 记忆管理以及需要跨会话状态保持的 ai-assistant 系统。该方向与 RAG、agent memory 等工程实践高度互补，对构建生产级长上下文应用具有参考价值。",
+  "tags": [
+    "large-language-model",
+    "rag",
+    "agent",
+    "reasoning",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:05:03.905590+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

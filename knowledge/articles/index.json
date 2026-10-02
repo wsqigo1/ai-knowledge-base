@@ -1,7 +1,345 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2338,
+  "total_count": 2360,
   "entries": [
+    {
+      "id": "kb-2026-10-02-001",
+      "title": "Louis-CFM/coucou",
+      "source": "github-trending",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "file": "2026-10-02-louis-cfmcoucou.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "agent",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-002",
+      "title": "Edwardxlai/easyread",
+      "source": "github-trending",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "file": "2026-10-02-edwardxlaieasyread.json",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "rag"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-003",
+      "title": "CopilotKit/OpenDots",
+      "source": "github-trending",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "file": "2026-10-02-copilotkitopendots.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "multi-agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-004",
+      "title": "composio-community/open-dot",
+      "source": "github-trending",
+      "url": "https://github.com/composio-community/open-dot",
+      "file": "2026-10-02-composio-communityopen-dot.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-005",
+      "title": "emir/aikon",
+      "source": "github-trending",
+      "url": "https://github.com/emir/aikon",
+      "file": "2026-10-02-emiraikon.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-006",
+      "title": "Pi 1.0",
+      "source": "hackernews-top",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "file": "2026-10-02-pi-10.json",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-007",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "file": "2026-10-02-clef-open-weight-decision-models-and-new.json",
+      "tags": [
+        "open-source",
+        "fine-tuning",
+        "reasoning",
+        "agent",
+        "tool-use"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-008",
+      "title": "SvelteKit 3",
+      "source": "hackernews-top",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "file": "2026-10-02-sveltekit-3.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-009",
+      "title": "Pi Durable",
+      "source": "hackernews-top",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "file": "2026-10-02-pi-durable.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-010",
+      "title": "StreetComplete on iOS is now in public beta",
+      "source": "hackernews-top",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "file": "2026-10-02-streetcomplete-on-ios-is-now-in-public-b.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-011",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "source": "hackernews-top",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "file": "2026-10-02-git-30s-upcoming-sha-256-default-will-be.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-012",
+      "title": "RIP, vector database",
+      "source": "hackernews-top",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "file": "2026-10-02-rip-vector-database.json",
+      "tags": [
+        "vector-database",
+        "rag",
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-013",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "source": "hackernews-top",
+      "url": "https://stoppels.ch/goalposts/",
+      "file": "2026-10-02-vote-on-which-of-hacker-news-challenges-.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-014",
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "source": "hackernews-top",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "file": "2026-10-02-various-projects-find-hidden-sdr-capabil.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-015",
+      "title": "Cloudflare K2: serverless event streams",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "file": "2026-10-02-cloudflare-k2-serverless-event-streams.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "serverless"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-016",
+      "title": "Aweb – Communication for AI Agents",
+      "source": "hackernews-top",
+      "url": "https://aweb.ai",
+      "file": "2026-10-02-aweb-communication-for-ai-agents.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-017",
+      "title": "Context Language Models",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "file": "2026-10-02-context-language-models.json",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-018",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "source": "hackernews-top",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "file": "2026-10-02-automatic-transmission-a-data-privacy-st.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-019",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "source": "hackernews-top",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "file": "2026-10-02-how-to-speed-up-the-rust-compiler-in-sep.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-020",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49911500",
+      "file": "2026-10-02-show-hn-open-source-model-routing-for-co.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-021",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "source": "hackernews-top",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "file": "2026-10-02-gpt-synopsys-frontier-intelligence-to-re.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
+    {
+      "id": "kb-2026-10-02-022",
+      "title": "The death of web development education",
+      "source": "hackernews-top",
+      "url": "https://molily.de/web-dev-education/",
+      "file": "2026-10-02-the-death-of-web-development-education.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-02T03:05:14.162208+00:00"
+    },
     {
       "id": "kb-2026-10-01-001",
       "title": "feder-cr/dots",
@@ -35010,5 +35348,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-01T03:02:50.738591+00:00"
+  "last_updated": "2026-10-02T03:05:14.372842+00:00"
 }

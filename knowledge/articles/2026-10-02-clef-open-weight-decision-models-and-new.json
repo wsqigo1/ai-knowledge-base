@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-007",
+  "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/clef-decision-models/",
+  "summary": "Clef 是面向决策场景的开源权重决策模型，并配套发布新的强化学习微调平台。它针对通用 LLM 在结构化决策、策略优化任务上表现不足的问题，通过 RL fine-tuning 让模型在特定决策环境中持续优化策略。核心技术亮点在于开放权重与训练平台一体化，降低从数据到策略模型的工程门槛，支持自定义奖励信号与迭代训练。适用场景包括 agent 决策、工具调用策略优化、workflow automation 中的动作选择，以及需要可复现 RL 微调流程的研究与工程团队。",
+  "tags": [
+    "open-source",
+    "fine-tuning",
+    "reasoning",
+    "agent",
+    "tool-use"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:04:44.463251+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

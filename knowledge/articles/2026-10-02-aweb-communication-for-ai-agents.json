@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-016",
+  "title": "Aweb – Communication for AI Agents",
+  "source": "hackernews-top",
+  "url": "https://aweb.ai",
+  "summary": "Aweb 是一个面向 AI Agent 的通信协议/框架，旨在解决多个 AI Agent 之间以及 Agent 与外部工具、服务之间的互操作与消息传递问题。其核心亮点在于为 Agent 提供统一的通信抽象层，可能涉及消息路由、会话管理和跨 Agent 协作机制，使不同来源的 Agent 能够以标准化方式交换信息与协调任务。适用场景包括 multi-agent 系统编排、tool-use 集成、workflow-automation 以及需要多个 AI assistant 协同完成复杂任务的开发场景。该项目在 HN 上获得 27 分，属于早期关注阶段，社区热度有限，但方向契合当前 Agent 生态对通信标准化的迫切需求。",
+  "tags": [
+    "multi-agent",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:05:01.794281+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

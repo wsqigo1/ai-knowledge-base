@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-02-018",
+  "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+  "source": "hackernews-top",
+  "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+  "summary": "该研究对联网汽车（connected vehicles）进行了数据隐私分析，重点检查了车辆自动变速箱（Automatic Transmission）相关数据在传输、存储与共享过程中的隐私泄露风险。通过逆向工程与流量分析，揭示了车辆如何将驾驶行为、位置及变速箱状态等敏感数据上传至厂商服务器，并评估了现有隐私政策的合规性。核心技术亮点在于结合静态固件分析与动态网络嗅探，量化了数据采集频率与第三方共享范围。适用场景包括汽车安全研究、隐私合规审计以及车联网数据治理。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:05:07.267368+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

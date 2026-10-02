@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-012",
+  "title": "RIP, vector database",
+  "source": "hackernews-top",
+  "url": "https://turbopuffer.com/blog/rip-vector-database",
+  "summary": "该条目是 Hacker News 上一篇题为《RIP, vector database》的讨论帖，核心观点是质疑独立向量数据库（vector database）作为独立产品形态的长期价值。文章认为，随着 pgvector、Postgres、Elasticsearch 等传统数据库快速集成向量检索能力，以及 LLM 应用架构从「专用向量库」向「混合检索 + 关系存储」演进，独立向量数据库的护城河正在被侵蚀。技术亮点在于对 RAG 基础设施选型趋势的反思，涉及 embedding 存储、ANN 索引、混合搜索等议题。适用场景为 AI 工程师在做 RAG 系统架构选型、评估是否引入专用向量数据库时的决策参考。",
+  "tags": [
+    "vector-database",
+    "rag",
+    "large-language-model",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:04:55.090524+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

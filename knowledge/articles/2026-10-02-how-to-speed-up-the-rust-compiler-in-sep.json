@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-02-019",
+  "title": "How to speed up the Rust compiler in September 2026",
+  "source": "hackernews-top",
+  "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+  "summary": "该文章记录了 Rust 编译器在 2026 年 9 月的性能优化进展，属于 Rust 官方或核心团队定期发布的编译器提速系列报告。文章聚焦于编译速度这一长期痛点，通过分析编译流水线中的瓶颈环节（如类型检查、借用检查、代码生成、增量编译等），介绍了一系列工程优化手段，包括算法改进、并行化、缓存策略调整以及 LLVM 后端交互优化。核心技术亮点在于将编译器内部 profiling 数据与具体 PR 改动对应，展示可量化的编译时间下降。适用场景为 Rust 大型项目开发者、编译器工程师及关注构建性能的 AI 基础设施团队，尤其是使用 Rust 编写高性能推理或训练组件的工程师。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:05:08.987039+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

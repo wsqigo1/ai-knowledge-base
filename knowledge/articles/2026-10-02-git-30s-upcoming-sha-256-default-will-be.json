@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-02-011",
+  "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+  "source": "hackernews-top",
+  "url": "https://blog.gitbutler.com/git-3-sha-256",
+  "summary": "该条目讨论 Git 3.0 计划将默认哈希算法从 SHA-1 切换为 SHA-256，作者认为这一变更代价高昂。核心问题在于：SHA-1 已被证明存在碰撞攻击风险，迁移到 SHA-256 是安全上的必要之举，但 Git 的哈希值深度嵌入对象存储、提交引用、签名、子模块、缓存及第三方工具链中，全面切换将带来兼容性断裂、性能开销与生态迁移成本。文章的技术亮点在于剖析哈希算法变更对 Git 内部数据结构与分布式协作流程的连锁影响，而非单纯讨论密码学强度。适用场景为版本控制系统维护者、DevOps 工程师及依赖 Git 底层接口的工具开发者评估升级风险。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:04:53.621904+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

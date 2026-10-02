@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-02-001",
+  "title": "Louis-CFM/coucou",
+  "source": "github-trending",
+  "url": "https://github.com/Louis-CFM/coucou",
+  "summary": "Louis-CFM/coucou 是一款基于 Swift 开发的轻量级桌面常驻工具，运行于 macOS 刘海区域或 Windows/Linux 屏幕顶部，用于实时监控 Claude Code、Gemini CLI、Antigravity 等编码类 AI agent 的运行状态。它解决了开发者同时使用多个 CLI 编码 agent 时无法直观感知其进度、状态与异常的问题，将分散的 agent 活动聚合为一个始终可见的悬浮指示器。核心技术亮点在于跨平台原生实现（Swift 为主）与对多种 agent 协议的适配层设计，属于 developer-tools 与 ai-assistant 交叉品类。适用场景为多 agent 并行编码工作流、CLI agent 重度用户的日常开发环境。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "agent",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-02T03:04:02.633333+00:00",
+  "analyzed_at": "2026-10-02T03:04:07.650617+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}

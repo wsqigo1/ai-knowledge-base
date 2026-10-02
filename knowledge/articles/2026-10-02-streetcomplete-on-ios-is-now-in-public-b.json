@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-02-010",
+  "title": "StreetComplete on iOS is now in public beta",
+  "source": "hackernews-top",
+  "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+  "summary": "StreetComplete 是一款基于 OpenStreetMap 的众包地图编辑应用，此前仅限 Android 平台，现正式推出 iOS 公开测试版。该应用将地图数据补全任务转化为轻量级问答式交互，用户无需掌握 OSM 编辑语法即可通过回答「这条路有路灯吗」「这家店的营业时间」等问题完成数据贡献。核心技术亮点在于将复杂的 OSM 标签体系映射为结构化问卷，并通过本地规则引擎动态生成问题，降低编辑门槛。此次 iOS 版本基于 SwiftUI 重写，适配 iOS 交互范式。适用场景包括地理信息众包采集、城市规划数据补充、以及 OSM 社区移动端贡献。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-02T03:04:02.754164+00:00",
+  "analyzed_at": "2026-10-02T03:04:51.821144+00:00",
+  "organized_at": "2026-10-02T03:05:14.162208+00:00",
+  "status": "published"
+}
