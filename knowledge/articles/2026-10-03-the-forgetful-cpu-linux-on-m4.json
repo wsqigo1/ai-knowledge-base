@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-03-007",
+  "title": "The Forgetful CPU (Linux on M4)",
+  "source": "hackernews-top",
+  "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+  "summary": "该文章探讨在 Apple M4 芯片上运行 Linux 时遇到的 CPU 缓存一致性问题，作者称之为\"健忘的 CPU\"。核心问题在于 M4 的异构架构（P核与E核混合）在 Linux 调度下出现缓存刷新异常，导致数据不一致或性能退化。技术亮点在于深入分析了 ARM 架构下缓存维护指令与内核调度器的交互缺陷，并给出了复现方法和初步修复思路。适用场景为底层系统开发者、内核工程师及对 Apple Silicon 运行非 macOS 系统感兴趣的嵌入式研究者。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:08.133285+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

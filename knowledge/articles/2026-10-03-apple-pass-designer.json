@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-03-009",
+  "title": "Apple Pass Designer",
+  "source": "hackernews-top",
+  "url": "https://developer.apple.com/pass-designer/",
+  "summary": "Apple Pass Designer 是一个用于创建 Apple Wallet 通行证（Pass）的开源设计工具，帮助开发者无需深入掌握 PassKit 规范即可生成 .pkpass 文件。它解决了手动编写 pass.json、处理证书签名和资源打包流程繁琐的问题，通过可视化或简化配置的方式降低门槛。核心技术亮点在于封装了 Apple Pass 的签名机制、模板渲染与资源管理，并可能提供实时预览。适用场景包括活动票务、会员卡、优惠券、登机牌等需要快速集成 Apple Wallet 的移动应用开发与原型验证。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:15.063948+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

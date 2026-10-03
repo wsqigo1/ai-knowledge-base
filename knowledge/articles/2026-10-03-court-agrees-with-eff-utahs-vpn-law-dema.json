@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-03-008",
+  "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+  "source": "hackernews-top",
+  "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+  "summary": "美国联邦法院裁定犹他州要求VPN服务商默认屏蔽色情内容的法案在技术上不可行，支持EFF的诉讼立场。该法案要求VPN在用户未主动选择退出时过滤特定内容，但VPN的加密隧道架构使服务商无法在不破坏隐私和安全的前提下检查用户流量。核心技术争议在于端到端加密与内容过滤的根本矛盾，法院认可了EFF关于技术不可能性的论证。此案对AI工程师的启示在于：涉及加密流量分析、内容审核系统设计时，需正视技术边界，避免立法或产品需求脱离工程现实。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:10.209957+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

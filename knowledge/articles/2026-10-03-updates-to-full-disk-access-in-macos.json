@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-03-014",
+  "title": "Updates to Full Disk Access in macOS",
+  "source": "hackernews-top",
+  "url": "https://developer.apple.com/news/?id=p6zjojqw",
+  "summary": "Apple 更新了 macOS 的 Full Disk Access（完全磁盘访问）权限机制，调整了哪些应用需要用户手动授权才能读取受保护目录（如 Mail、Messages、Safari 数据、Time Machine 备份等）。该变更解决的是第三方工具（备份、安全、同步类应用）在升级 macOS 后因权限模型收紧而静默失效的问题，核心在于权限授予粒度、TCC 数据库行为以及系统对未授权访问的拦截策略变化。对 AI 工程师而言，若开发本地数据采集、RAG 索引或桌面 agent 类工具，需重新适配该权限模型，否则无法读取用户本地文件。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:27.547103+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

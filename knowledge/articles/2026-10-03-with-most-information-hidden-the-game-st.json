@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-03-010",
+  "title": "With most information hidden, the game Stratego had stumped AI until now",
+  "source": "hackernews-top",
+  "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+  "summary": "Stratego 是一种信息不完全的两人策略棋盘游戏，玩家只能看到己方棋子，需在隐藏信息下推理对手布局。此前 AI 在该游戏上表现不佳，最新研究通过结合深度强化学习与博弈论中的不完美信息处理方法（如 CFR 类算法或信念状态建模），使 AI 达到超越人类顶尖水平的表现。核心技术亮点在于对隐藏信息的概率建模与搜索策略的融合，解决了传统搜索算法在信息不完全场景下的失效问题。适用场景包括不完美信息博弈 AI、军事推演、谈判策略等需要处理隐藏信息的决策系统。",
+  "tags": [
+    "reasoning",
+    "benchmark",
+    "multi-agent",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:19.428182+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

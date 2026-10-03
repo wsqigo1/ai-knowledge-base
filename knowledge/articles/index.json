@@ -1,7 +1,299 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2360,
+  "total_count": 2379,
   "entries": [
+    {
+      "id": "kb-2026-10-03-001",
+      "title": "nykooi1/vibe-wise",
+      "source": "github-trending",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "file": "2026-10-03-nykooi1vibe-wise.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "prompt-engineering",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-002",
+      "title": "alpcanaydin/tusk",
+      "source": "github-trending",
+      "url": "https://github.com/alpcanaydin/tusk",
+      "file": "2026-10-03-alpcanaydintusk.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-003",
+      "title": "strands-labs/strands-decider",
+      "source": "github-trending",
+      "url": "https://github.com/strands-labs/strands-decider",
+      "file": "2026-10-03-strands-labsstrands-decider.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "open-source",
+        "workflow-automation",
+        "multi-agent"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-004",
+      "title": "blendi-remade/dioramas",
+      "source": "github-trending",
+      "url": "https://github.com/blendi-remade/dioramas",
+      "file": "2026-10-03-blendi-remadedioramas.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-005",
+      "title": "justxor/claude-code-pro-course",
+      "source": "github-trending",
+      "url": "https://github.com/justxor/claude-code-pro-course",
+      "file": "2026-10-03-justxorclaude-code-pro-course.json",
+      "tags": [
+        "claude",
+        "ai-coding",
+        "mcp",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-006",
+      "title": "guanmo-ai/awesome-ai-motion",
+      "source": "github-trending",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion",
+      "file": "2026-10-03-guanmo-aiawesome-ai-motion.json",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-007",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "source": "hackernews-top",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "file": "2026-10-03-the-forgetful-cpu-linux-on-m4.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-008",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "source": "hackernews-top",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "file": "2026-10-03-court-agrees-with-eff-utahs-vpn-law-dema.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-009",
+      "title": "Apple Pass Designer",
+      "source": "hackernews-top",
+      "url": "https://developer.apple.com/pass-designer/",
+      "file": "2026-10-03-apple-pass-designer.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-010",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "file": "2026-10-03-with-most-information-hidden-the-game-st.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-011",
+      "title": "Muse Gadgets",
+      "source": "hackernews-top",
+      "url": "https://gadgets.muse.ai",
+      "file": "2026-10-03-muse-gadgets.json",
+      "tags": [
+        "developer-tools",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "prompt-engineering"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-012",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "source": "hackernews-top",
+      "url": "https://dwarfstar.sh/",
+      "file": "2026-10-03-from-the-creator-of-redis-run-llm-locall.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-013",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "file": "2026-10-03-greg-kroah-hartman-security-in-the-llm-a.json",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-014",
+      "title": "Updates to Full Disk Access in macOS",
+      "source": "hackernews-top",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "file": "2026-10-03-updates-to-full-disk-access-in-macos.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-015",
+      "title": "FLUX 3 Image",
+      "source": "hackernews-top",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "file": "2026-10-03-flux-3-image.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-016",
+      "title": "Sites in ChatGPT",
+      "source": "hackernews-top",
+      "url": "https://chatgpt.com/features/sites/",
+      "file": "2026-10-03-sites-in-chatgpt.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-017",
+      "title": "One month coding with GLM 5.3 Flash",
+      "source": "hackernews-top",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "file": "2026-10-03-one-month-coding-with-glm-53-flash.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-018",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "source": "hackernews-top",
+      "url": "https://stillwet.art/",
+      "file": "2026-10-03-show-hn-giving-opus-55-a-simulated-paint.json",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "agent",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
+    {
+      "id": "kb-2026-10-03-019",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "source": "hackernews-top",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "file": "2026-10-03-show-hn-made-an-open-source-lego-ai-gene.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-03T02:51:39.180102+00:00"
+    },
     {
       "id": "kb-2026-10-02-001",
       "title": "Louis-CFM/coucou",
@@ -35348,5 +35640,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-02T03:05:14.372842+00:00"
+  "last_updated": "2026-10-03T02:51:39.413942+00:00"
 }

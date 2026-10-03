@@ -1,0 +1,401 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-03T02:50:33.770490+00:00",
+  "date": "2026-10-03",
+  "count": 20,
+  "items": [
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "source": "hackernews-top",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49933869",
+      "description": "",
+      "hn_score": 123,
+      "comments": 50,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该文章探讨在 Apple M4 芯片上运行 Linux 时遇到的 CPU 缓存一致性问题，作者称之为\"健忘的 CPU\"。核心问题在于 M4 的异构架构（P核与E核混合）在 Linux 调度下出现缓存刷新异常，导致数据不一致或性能退化。技术亮点在于深入分析了 ARM 架构下缓存维护指令与内核调度器的交互缺陷，并给出了复现方法和初步修复思路。适用场景为底层系统开发者、内核工程师及对 Apple Silicon 运行非 macOS 系统感兴趣的嵌入式研究者。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-03T02:51:08.133285+00:00"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "source": "hackernews-top",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "hn_url": "https://news.ycombinator.com/item?id=49927754",
+      "description": "",
+      "hn_score": 530,
+      "comments": 232,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "美国联邦法院裁定犹他州要求VPN服务商默认屏蔽色情内容的法案在技术上不可行，支持EFF的诉讼立场。该法案要求VPN在用户未主动选择退出时过滤特定内容，但VPN的加密隧道架构使服务商无法在不破坏隐私和安全的前提下检查用户流量。核心技术争议在于端到端加密与内容过滤的根本矛盾，法院认可了EFF关于技术不可能性的论证。此案对AI工程师的启示在于：涉及加密流量分析、内容审核系统设计时，需正视技术边界，避免立法或产品需求脱离工程现实。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-03T02:51:10.209957+00:00"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "hn_url": "https://news.ycombinator.com/item?id=49925184",
+      "description": "",
+      "hn_score": 313,
+      "comments": 85,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该条目讲述 Mike Tomlin 耗时 12 年用 Minecraft 搭建一座完整城市，属于个人长期创作项目而非 AI 技术成果。其核心价值在于展示大规模体素建造中的规划、模块化设计与持续迭代方法，涉及红石自动化、区块管理与资源调度等工程化思路。对 AI 工程师而言，可类比为长周期复杂系统的架构演进与工具链沉淀案例，适用于理解 agent 长期任务规划、workflow-automation 与大型项目状态管理等场景，但缺乏直接可复用的 AI 技术组件。",
+      "tags": [
+        "workflow-automation",
+        "agent",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-03T02:51:11.785754+00:00"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "source": "hackernews-top",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "hn_url": "https://news.ycombinator.com/item?id=49932147",
+      "description": "",
+      "hn_score": 207,
+      "comments": 49,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该条目展示了一段长达12年的望远镜图像序列，记录了一颗恒星及其四颗行星的轨道运动。它解决的是天文观测中系外行星长期轨道验证与可视化的问题，通过时间序列成像直接呈现多行星系统的动态行为。核心技术亮点在于长时间跨度的观测数据整合与图像序列对齐，可能涉及轨道拟合与运动学建模。适用场景包括天文学教育、系外行星系统研究以及科学可视化演示。该内容与AI/LLM工程领域无直接关联，但可作为多模态时序数据处理的参考案例。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-03T02:51:13.540344+00:00"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "source": "hackernews-top",
+      "url": "https://developer.apple.com/pass-designer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49937276",
+      "description": "",
+      "hn_score": 334,
+      "comments": 223,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "Apple Pass Designer 是一个用于创建 Apple Wallet 通行证（Pass）的开源设计工具，帮助开发者无需深入掌握 PassKit 规范即可生成 .pkpass 文件。它解决了手动编写 pass.json、处理证书签名和资源打包流程繁琐的问题，通过可视化或简化配置的方式降低门槛。核心技术亮点在于封装了 Apple Pass 的签名机制、模板渲染与资源管理，并可能提供实时预览。适用场景包括活动票务、会员卡、优惠券、登机牌等需要快速集成 Apple Wallet 的移动应用开发与原型验证。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-03T02:51:15.063948+00:00"
+    },
+    {
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "source": "hackernews-top",
+      "url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
+      "hn_url": "https://news.ycombinator.com/item?id=49940505",
+      "description": "",
+      "hn_score": 45,
+      "comments": 33,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该条目来自 Hacker News 热榜，讨论 Ozempic（司美格鲁肽）使用者在脱发之外还报告了指甲问题。内容属于药物副作用观察与用户社区反馈，而非 AI/LLM 技术研究。核心信息是 GLP-1 类药物在减重和糖尿病治疗之外可能引发新的不良反应信号，涉及药物警戒和患者报告数据。对 AI 工程师而言，仅在构建药物副作用挖掘、患者社区文本分析或药物警戒 NLP 系统时具有间接参考价值，不涉及模型、算法或工程实践。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-03T02:51:16.563840+00:00"
+    },
+    {
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "source": "hackernews-top",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49940467",
+      "description": "",
+      "hn_score": 16,
+      "comments": 10,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "NTSB针对Prime Air 767货机跑道冲出的初步调查报告PDF。该报告详细记录了事故经过、飞行数据、机组操作及可能原因，涉及自动刹车系统、反推装置和跑道条件等航空安全技术细节。核心技术亮点在于事故链分析和飞行数据解读，对航空安全工程和自动驾驶系统可靠性研究有参考价值。适用场景为航空安全分析、自动驾驶系统故障排查及事故调查方法论学习。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-03T02:51:17.948746+00:00"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "hn_url": "https://news.ycombinator.com/item?id=49933740",
+      "description": "",
+      "hn_score": 189,
+      "comments": 91,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "Stratego 是一种信息不完全的两人策略棋盘游戏，玩家只能看到己方棋子，需在隐藏信息下推理对手布局。此前 AI 在该游戏上表现不佳，最新研究通过结合深度强化学习与博弈论中的不完美信息处理方法（如 CFR 类算法或信念状态建模），使 AI 达到超越人类顶尖水平的表现。核心技术亮点在于对隐藏信息的概率建模与搜索策略的融合，解决了传统搜索算法在信息不完全场景下的失效问题。适用场景包括不完美信息博弈 AI、军事推演、谈判策略等需要处理隐藏信息的决策系统。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:19.428182+00:00"
+    },
+    {
+      "title": "Muse Gadgets",
+      "source": "hackernews-top",
+      "url": "https://gadgets.muse.ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49937504",
+      "description": "",
+      "hn_score": 142,
+      "comments": 68,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "Muse Gadgets 是 Hacker News 上获得 142 分的热门项目，定位为面向 AI 工程师的创意工具集。它通过提供轻量化的交互式组件或实验性 gadget，解决开发者在构建 LLM 应用时快速原型验证与功能演示的痛点。核心技术亮点在于将大模型能力封装为可复用的模块化工具，可能涉及 tool-use、prompt-engineering 或 agent 编排等机制，降低集成门槛。适用场景包括 AI 产品原型设计、教学演示、以及需要快速验证多模态或对话式交互的工程团队。",
+      "tags": [
+        "developer-tools",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "prompt-engineering"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:21.133972+00:00"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "source": "hackernews-top",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "hn_url": "https://news.ycombinator.com/item?id=49926411",
+      "description": "",
+      "hn_score": 184,
+      "comments": 49,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "两篇新论文提出衰老的核心机制是细胞身份丧失（loss of cell identity），而非传统认为的DNA损伤累积或端粒缩短。研究通过单细胞转录组分析发现，衰老细胞逐渐偏离其原始细胞类型特征，表观遗传调控网络失稳导致身份基因表达漂移。核心技术亮点在于构建了细胞身份评分体系，并证明恢复关键转录因子可部分逆转衰老表型。该发现对衰老生物学和再生医学有重要启示，但并非AI/LLM领域技术，与AI工程师日常工作关联度低。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-03T02:51:22.829575+00:00"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "source": "hackernews-top",
+      "url": "https://dwarfstar.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49936575",
+      "description": "",
+      "hn_score": 162,
+      "comments": 41,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "ds4 是由 Redis 创始人 Salvatore Sanfilippo（antirez）发起的开源项目，旨在让开发者在本地运行 LLM。它解决的是云端推理依赖、隐私泄露和 API 成本问题，通过轻量化本地推理引擎实现模型在个人设备上的部署。核心技术亮点在于作者对底层系统性能的极致优化经验，可能涉及高效内存管理与推理调度。适用场景包括隐私敏感的本地 AI 助手、离线开发环境、以及希望低成本实验 LLM 的工程师。该项目因作者影响力获得 HN 162 分关注，但具体技术细节和成熟度仍需进一步验证。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:24.370219+00:00"
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "hn_url": "https://news.ycombinator.com/item?id=49929391",
+      "description": "",
+      "hn_score": 186,
+      "comments": 49,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "这是 Linux 内核维护者 Greg Kroah-Hartman 关于 LLM 时代安全议题的演讲视频。核心问题是：当 LLM 被用于代码生成、漏洞挖掘和自动化安全分析时，传统安全模型面临哪些新挑战。Kroah-Hartman 从内核维护者视角出发，讨论了 AI 生成代码的审查负担、供应链安全、以及 LLM 辅助漏洞发现对开源项目安全响应流程的冲击。亮点在于其来自一线维护者的实践观察，而非泛泛的 AI 安全讨论。适合关注开源安全、AI 辅助开发、供应链风险管理的工程师和安全研究者观看。",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-03T02:51:25.958285+00:00"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "source": "hackernews-top",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "hn_url": "https://news.ycombinator.com/item?id=49937631",
+      "description": "",
+      "hn_score": 136,
+      "comments": 76,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "Apple 更新了 macOS 的 Full Disk Access（完全磁盘访问）权限机制，调整了哪些应用需要用户手动授权才能读取受保护目录（如 Mail、Messages、Safari 数据、Time Machine 备份等）。该变更解决的是第三方工具（备份、安全、同步类应用）在升级 macOS 后因权限模型收紧而静默失效的问题，核心在于权限授予粒度、TCC 数据库行为以及系统对未授权访问的拦截策略变化。对 AI 工程师而言，若开发本地数据采集、RAG 索引或桌面 agent 类工具，需重新适配该权限模型，否则无法读取用户本地文件。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-03T02:51:27.547103+00:00"
+    },
+    {
+      "title": "FLUX 3 Image",
+      "source": "hackernews-top",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "hn_url": "https://news.ycombinator.com/item?id=49925974",
+      "description": "",
+      "hn_score": 281,
+      "comments": 63,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "FLUX 3 Image 是 Black Forest Labs 推出的新一代文生图模型，作为 FLUX 系列的最新迭代，主要解决前代在图像真实感、文字渲染准确性和复杂提示词遵循度上的不足。核心技术亮点包括改进的流匹配（flow matching）架构、更强的多模态理解能力，以及对长文本提示的精准解析，显著提升了生成图像中文字和细节的保真度。适用场景涵盖创意设计、广告素材生成、电商产品图制作以及需要高精度文字渲染的视觉内容生产。该模型在 HN 上获得 281 分，反映出社区对开源高质量图像生成模型的持续关注。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:28.980532+00:00"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "source": "hackernews-top",
+      "url": "https://chatgpt.com/features/sites/",
+      "hn_url": "https://news.ycombinator.com/item?id=49927747",
+      "description": "",
+      "hn_score": 221,
+      "comments": 224,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "ChatGPT 新增 Sites 功能，允许用户在对话中直接创建和托管可交互的网页应用，将 LLM 从纯文本生成扩展为可部署的轻量级 Web 产物。它解决了 AI 生成内容难以直接落地为可访问、可分享的交互界面的问题。核心技术亮点在于将代码生成、实时预览与托管能力整合进对话流，降低从 prompt 到可运行站点的门槛。适用场景包括快速原型搭建、内部工具生成、教学演示及个人项目发布，尤其适合非专业开发者借助自然语言完成 Web 应用构建。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:30.670827+00:00"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "source": "hackernews-top",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=49934620",
+      "description": "",
+      "hn_score": 121,
+      "comments": 91,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该条目是开发者使用智谱 GLM 5.3 Flash 模型进行一个月实际编码的体验总结，属于第一手工程实践报告。核心内容围绕该模型在真实开发工作流中的表现展开，包括代码生成质量、上下文理解、多轮对话稳定性、响应速度与成本等维度的主观评估。技术亮点在于以长期真实项目为测试场景，而非标准 benchmark，能反映模型在复杂工程任务中的可用性与边界。适用场景为 AI 工程师评估国产大模型作为日常 coding assistant 的可行性，以及为团队选型提供参考。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-03T02:51:32.159567+00:00"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49933235",
+      "description": "",
+      "hn_score": 248,
+      "comments": 141,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "这是1973年发表的关于约翰·冯·诺依曼的传记性文章（PDF），回顾了这位数学家和计算机科学先驱的生平、学术贡献及其对现代计算架构的深远影响。文章核心亮点在于梳理了von Neumann架构的提出背景、博弈论奠基工作以及他在量子力学和数值分析等领域的跨学科成就。该内容属于计算机科学史与经典理论文献，适合对计算理论基础、计算机体系结构演进以及AI发展思想源头感兴趣的工程师和研究者阅读，但对当前AI工程实践的直接指导价值有限。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-03T02:51:33.885969+00:00"
+    },
+    {
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "source": "hackernews-top",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "hn_url": "https://news.ycombinator.com/item?id=49933230",
+      "description": "",
+      "hn_score": 82,
+      "comments": 24,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该条目讲述威尼斯与君士坦丁堡的战争失败如何催生了历史上第一个债券市场，属于经济史/金融史内容，与 AI/LLM 技术无直接关联。其核心价值在于揭示金融工具（政府债券）的起源机制：战争融资需求推动信用工具创新。技术亮点在于历史因果分析，而非工程实现。适用场景为金融史研究、经济学通识教育，对 AI 工程师的日常开发、模型训练或系统设计无直接帮助。HN 热度 82 表明社区有一定关注，但领域匹配度极低。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-03T02:51:35.635676+00:00"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "source": "hackernews-top",
+      "url": "https://stillwet.art/",
+      "hn_url": "https://news.ycombinator.com/item?id=49928566",
+      "description": "",
+      "hn_score": 211,
+      "comments": 70,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该项目在 Hacker News 上展示了一个为 Opus 5.5 模型构建的模拟画布（paint canvas）环境，让 LLM 通过工具调用在虚拟画布上执行绘制操作。它解决的是当前大模型在空间推理与视觉创作任务中缺乏可交互、可验证操作环境的问题。核心技术亮点在于将画布抽象为可编程接口，模型通过 tool-use 逐步生成图形指令，并即时获得渲染反馈，形成闭环的视觉推理链路。适用场景包括多模态 agent 开发、视觉推理 benchmark 构建、AI 辅助设计工具原型以及 LLM 空间能力评估。",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "agent",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:37.497671+00:00"
+    },
+    {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "source": "hackernews-top",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "hn_url": "https://news.ycombinator.com/item?id=49937916",
+      "description": "",
+      "hn_score": 74,
+      "comments": 41,
+      "collected_at": "2026-10-03T02:50:33.074461+00:00",
+      "published_at": "2026-10-03T02:50:33.074461+00:00",
+      "summary": "该项目是一个开源 Lego AI 生成器，用户输入文本描述即可自动生成可拼搭的 Lego 模型方案。它解决了传统 Lego 设计门槛高、需要专业软件和积木知识的问题，通过 AI 将自然语言转化为结构化积木布局。核心技术亮点在于结合 LLM 理解语义并映射到 Lego 零件库与空间约束，可能涉及多模态或代码生成技术。适用场景包括创意设计、教育演示、玩具原型快速验证以及 AI 生成 3D 结构的实验。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-03T02:51:39.092501+00:00"
+    }
+  ]
+}

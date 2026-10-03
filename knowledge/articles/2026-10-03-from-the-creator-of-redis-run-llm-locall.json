@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-03-012",
+  "title": "From the creator of Redis; run LLM locally with ds4",
+  "source": "hackernews-top",
+  "url": "https://dwarfstar.sh/",
+  "summary": "ds4 是由 Redis 创始人 Salvatore Sanfilippo（antirez）发起的开源项目，旨在让开发者在本地运行 LLM。它解决的是云端推理依赖、隐私泄露和 API 成本问题，通过轻量化本地推理引擎实现模型在个人设备上的部署。核心技术亮点在于作者对底层系统性能的极致优化经验，可能涉及高效内存管理与推理调度。适用场景包括隐私敏感的本地 AI 助手、离线开发环境、以及希望低成本实验 LLM 的工程师。该项目因作者影响力获得 HN 162 分关注，但具体技术细节和成熟度仍需进一步验证。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:24.370219+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

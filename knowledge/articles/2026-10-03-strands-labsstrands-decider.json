@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-03-003",
+  "title": "strands-labs/strands-decider",
+  "source": "github-trending",
+  "url": "https://github.com/strands-labs/strands-decider",
+  "summary": "strands-decider 是 strands-labs 推出的轻量级决策模型，专为 agentic workflows 设计。它解决的核心问题是：在 Agent 工作流中频繁需要从多个选项中选择或对结果打分，而调用完整 LLM 成本高、延迟大。该项目提供一个比 LLM 更快的小型决策系统，支持二选一或量表评分，并对每次决策输出经过校准的置信度（calibrated confidence），便于上层逻辑做阈值判断或回退。技术亮点在于用专用小模型替代通用 LLM 做决策子任务，兼顾速度与可靠性。适用场景包括多 Agent 路由、工具选择、输出质量打分、workflow 分支控制等需要高频、低延迟决策的环节。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "open-source",
+    "workflow-automation",
+    "multi-agent"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-03T02:50:32.973206+00:00",
+  "analyzed_at": "2026-10-03T02:51:01.905924+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

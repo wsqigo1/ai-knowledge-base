@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-03-013",
+  "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+  "source": "hackernews-top",
+  "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+  "summary": "这是 Linux 内核维护者 Greg Kroah-Hartman 关于 LLM 时代安全议题的演讲视频。核心问题是：当 LLM 被用于代码生成、漏洞挖掘和自动化安全分析时，传统安全模型面临哪些新挑战。Kroah-Hartman 从内核维护者视角出发，讨论了 AI 生成代码的审查负担、供应链安全、以及 LLM 辅助漏洞发现对开源项目安全响应流程的冲击。亮点在于其来自一线维护者的实践观察，而非泛泛的 AI 安全讨论。适合关注开源安全、AI 辅助开发、供应链风险管理的工程师和安全研究者观看。",
+  "tags": [
+    "open-source",
+    "code-generation",
+    "developer-tools",
+    "large-language-model"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:25.958285+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-03-015",
+  "title": "FLUX 3 Image",
+  "source": "hackernews-top",
+  "url": "https://bfl.ai/models/flux-3-image",
+  "summary": "FLUX 3 Image 是 Black Forest Labs 推出的新一代文生图模型，作为 FLUX 系列的最新迭代，主要解决前代在图像真实感、文字渲染准确性和复杂提示词遵循度上的不足。核心技术亮点包括改进的流匹配（flow matching）架构、更强的多模态理解能力，以及对长文本提示的精准解析，显著提升了生成图像中文字和细节的保真度。适用场景涵盖创意设计、广告素材生成、电商产品图制作以及需要高精度文字渲染的视觉内容生产。该模型在 HN 上获得 281 分，反映出社区对开源高质量图像生成模型的持续关注。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-03T02:50:33.074461+00:00",
+  "analyzed_at": "2026-10-03T02:51:28.980532+00:00",
+  "organized_at": "2026-10-03T02:51:39.180102+00:00",
+  "status": "published"
+}
