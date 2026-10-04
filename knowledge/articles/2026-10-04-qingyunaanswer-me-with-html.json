@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-001",
+  "title": "QingYunA/answer-me-with-html",
+  "source": "github-trending",
+  "url": "https://github.com/QingYunA/answer-me-with-html",
+  "summary": "answer-me-with-html 是一个面向 AI Agent 的 skill，让 Agent 将复杂问题的回答渲染为单页 HTML 而非纯文本。它解决的是 LLM 长文本回答可读性差、结构混乱、难以呈现图表与层级信息的问题。核心亮点在于以 HTML 作为 Agent 的输出载体，天然支持排版、CSS 样式、SVG/图表嵌入与交互，并通过 CLI 形式集成到 Claude Code 等 agent 工作流中。适用场景包括技术方案讲解、架构对比、学习笔记生成、数据可视化解释等需要结构化呈现的问答任务。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-04T03:20:32.231090+00:00",
+  "analyzed_at": "2026-10-04T03:20:52.954282+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

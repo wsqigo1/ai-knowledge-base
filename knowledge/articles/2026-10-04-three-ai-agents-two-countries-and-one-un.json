@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-013",
+  "title": "Three AI agents, two countries, and one uneven world wide web",
+  "source": "hackernews-top",
+  "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+  "summary": "该条目探讨三个 AI agent 在跨越两个国家时所遭遇的全球网络（World Wide Web）不均衡问题，核心在于揭示不同地区网络基础设施、内容可访问性与延迟差异如何影响 agent 的实际表现。技术亮点在于通过多 agent 跨国部署实验，量化了网络条件对 agent 任务完成率、响应延迟和工具调用成功率的影响，涉及 multi-agent 协作与 tool-use 在真实网络环境下的鲁棒性评估。适用场景包括跨国部署的 AI assistant、依赖外部 API 的 agent 工作流，以及需要评估网络异构性的分布式 AI 系统设计。",
+  "tags": [
+    "multi-agent",
+    "agent",
+    "tool-use",
+    "benchmark",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:29.050064+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

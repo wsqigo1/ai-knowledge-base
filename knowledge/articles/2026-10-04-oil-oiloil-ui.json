@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-002",
+  "title": "oil-oil/oil-ui",
+  "source": "github-trending",
+  "url": "https://github.com/oil-oil/oil-ui",
+  "summary": "oil-oil/oil-ui 是一个基于 Python 的开源项目，旨在将大语言模型的 UI 设计能力推向极限。它解决的核心问题是：当前 LLM 在生成界面代码时缺乏系统化的设计约束与渲染验证，导致产出可用性低。项目通过构建面向 UI 生成的 prompt 工程框架与结构化输出管线，让模型能够输出可直接渲染的高质量界面代码。技术亮点在于将设计规范、组件约束与 LLM 生成流程深度耦合，而非简单调用模型。适用场景包括 AI 辅助前端开发、低代码平台界面自动生成、以及 UI 设计 agent 的构建。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "prompt-engineering",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-04T03:20:32.231090+00:00",
+  "analyzed_at": "2026-10-04T03:20:54.906358+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-018",
+  "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+  "source": "hackernews-top",
+  "url": "https://github.com/graphene-data/graphene",
+  "summary": "Graphene 是一款面向 coding agent 的数据分析工具包，旨在让 AI 编程助手具备结构化数据处理与分析能力。它解决的核心问题是：现有 coding agent 擅长代码生成与文件操作，但缺乏对表格、数据集等结构化数据的分析手段。其技术亮点在于以工具包形式为 agent 提供数据分析原语，可能通过 MCP 或 tool-use 接口集成，使 agent 能在编码工作流中直接执行数据探索、统计与转换任务。适用场景包括数据驱动的开发调试、自动化报表生成、以及需要 agent 理解数据上下文后再生成代码的工程任务。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "tool-use",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:39.239290+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

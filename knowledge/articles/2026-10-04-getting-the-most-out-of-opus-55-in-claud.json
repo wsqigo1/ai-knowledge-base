@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-009",
+  "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+  "source": "hackernews-top",
+  "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+  "summary": "该条目是 Anthropic 官方发布的关于如何在 Claude 及 Claude Code 中充分发挥 Opus 5.5 模型能力的实践指南。它针对开发者在使用最新旗舰模型时常见的提示词效率低、上下文管理混乱、工具调用不当等问题，给出系统化的使用策略。核心技术亮点包括针对 Opus 5.5 的 prompt-engineering 技巧、Claude Code 中的 agent 工作流配置、tool-use 最佳实践以及长上下文推理的优化方法。适用场景为使用 Claude Code 进行 code-generation、复杂 reasoning 任务以及构建基于 Claude 的 ai-assistant 或自动化开发流程的工程师。",
+  "tags": [
+    "prompt-engineering",
+    "code-generation",
+    "agent",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:22.732841+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

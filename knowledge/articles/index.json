@@ -1,7 +1,284 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2379,
+  "total_count": 2397,
   "entries": [
+    {
+      "id": "kb-2026-10-04-001",
+      "title": "QingYunA/answer-me-with-html",
+      "source": "github-trending",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "file": "2026-10-04-qingyunaanswer-me-with-html.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-002",
+      "title": "oil-oil/oil-ui",
+      "source": "github-trending",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "file": "2026-10-04-oil-oiloil-ui.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-003",
+      "title": "whirlchat/whirl",
+      "source": "github-trending",
+      "url": "https://github.com/whirlchat/whirl",
+      "file": "2026-10-04-whirlchatwhirl.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-004",
+      "title": "BootLoops-ai/bootloops",
+      "source": "github-trending",
+      "url": "https://github.com/BootLoops-ai/bootloops",
+      "file": "2026-10-04-bootloops-aibootloops.json",
+      "tags": [
+        "open-source",
+        "tool-use",
+        "agent",
+        "scientific-computing",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-005",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "file": "2026-10-04-were-going-to-need-default-hard-budget-c.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-006",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "source": "hackernews-top",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "file": "2026-10-04-the-work-by-valves-timur-kristóf-on-impr.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-007",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "source": "hackernews-top",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "file": "2026-10-04-kolibri-a-sovereign-open-weight-model.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-008",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "file": "2026-10-04-openai-safety-leader-quits-warning-ai-co.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-009",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "source": "hackernews-top",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "file": "2026-10-04-getting-the-most-out-of-opus-55-in-claud.json",
+      "tags": [
+        "prompt-engineering",
+        "code-generation",
+        "agent",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-010",
+      "title": "Agents don't need memory, they need documentation",
+      "source": "hackernews-top",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "file": "2026-10-04-agents-dont-need-memory-they-need-docume.json",
+      "tags": [
+        "agent",
+        "rag",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-011",
+      "title": "FTL: A new operating system for clouds",
+      "source": "hackernews-top",
+      "url": "https://ftl-os.org/",
+      "file": "2026-10-04-ftl-a-new-operating-system-for-clouds.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-012",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "source": "hackernews-top",
+      "url": "https://pipod.dev/",
+      "file": "2026-10-04-show-hn-pi-pod-run-your-pi-coding-agent-.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-013",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "source": "hackernews-top",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "file": "2026-10-04-three-ai-agents-two-countries-and-one-un.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "tool-use",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-014",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "source": "hackernews-top",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "file": "2026-10-04-federal-judge-calls-flock-indiscriminate.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-015",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "file": "2026-10-04-we-want-you-to-build-the-next-git-platfo.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "cloudflare",
+        "git"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-016",
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "source": "hackernews-top",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "file": "2026-10-04-c-insights-see-your-source-code-with-the.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-017",
+      "title": "Cloudflare OHTTP gateway",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "file": "2026-10-04-cloudflare-ohttp-gateway.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
+    {
+      "id": "kb-2026-10-04-018",
+      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+      "source": "hackernews-top",
+      "url": "https://github.com/graphene-data/graphene",
+      "file": "2026-10-04-show-hn-graphene-data-analysis-toolkit-f.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "tool-use",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-04T03:21:39.297651+00:00"
+    },
     {
       "id": "kb-2026-10-03-001",
       "title": "nykooi1/vibe-wise",
@@ -35640,5 +35917,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-03T02:51:39.413942+00:00"
+  "last_updated": "2026-10-04T03:21:39.492857+00:00"
 }

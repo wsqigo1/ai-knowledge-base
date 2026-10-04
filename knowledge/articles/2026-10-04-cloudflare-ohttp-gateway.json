@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-04-017",
+  "title": "Cloudflare OHTTP gateway",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+  "summary": "Cloudflare OHTTP gateway 是 Cloudflare 推出的基于 Oblivious HTTP (OHTTP) 协议的隐私网关服务，用于在客户端与源服务器之间剥离请求元数据（如 IP 地址、TLS 指纹），解决传统 HTTP 请求中用户身份可被服务端或中间人关联追踪的问题。核心技术亮点在于将 OHTTP 的 relay 与 gateway 角色集成到 Cloudflare 边缘网络，利用其全球 anycast 基础设施实现低延迟转发，并支持与 RFC 9458 标准兼容的加密封装。适用场景包括隐私敏感的 API 调用、AI 推理请求匿名化、广告归因去标识化以及需要隐藏客户端来源的分布式系统通信。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:37.423033+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

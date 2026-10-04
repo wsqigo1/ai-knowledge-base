@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-005",
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "source": "hackernews-top",
+  "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "summary": "该 HN 讨论帖主张为几乎所有计算资源（尤其是 LLM API 调用、Agent 循环、云服务）设置默认硬性预算上限（hard budget caps），以应对失控的 token 消耗和无限循环导致的成本爆炸。核心问题在于当前多数 AI 工具与 Agent 框架缺乏默认的成本熔断机制，用户容易在无感知情况下产生高额账单。技术亮点在于提出将预算约束作为系统级默认行为而非可选配置，涉及 token 计数、实时成本监控、循环检测与自动中断等工程实践。适用场景包括 LLM 应用开发、Agent 编排、云成本治理及任何按量计费的 AI 基础设施。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:07.588912+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

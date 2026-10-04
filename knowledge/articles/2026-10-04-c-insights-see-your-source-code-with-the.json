@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-04-016",
+  "title": "C++ Insights – See your source code with the eyes of a Compiler",
+  "source": "hackernews-top",
+  "url": "https://github.com/andreasfertig/cppinsights",
+  "summary": "C++ Insights 是一个基于 Clang 的开源工具，将 C++ 源码转换为编译器视角下的等价展开代码，直观展示编译器在幕后所做的隐式转换。它解决了 C++ 中模板实例化、lambda 闭包、auto 推导、范围 for 循环、结构化绑定等语法糖难以理解的问题，通过 AST 级别的源码到源码转换，把隐式行为显式化。核心技术亮点在于利用 Clang 的 AST 和源码重写能力，生成可读性强的等价代码。适用场景包括 C++ 教学、调试模板元编程、理解编译器优化与语言特性实现细节，对 C++ 工程师和学习者均有较高参考价值。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:35.628042+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

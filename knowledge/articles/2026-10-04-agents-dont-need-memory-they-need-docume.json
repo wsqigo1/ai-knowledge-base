@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-010",
+  "title": "Agents don't need memory, they need documentation",
+  "source": "hackernews-top",
+  "url": "https://liao.gg/blog/agents-dont-need-memory",
+  "summary": "该 HN 讨论帖提出一个反直觉观点：AI Agent 不需要复杂的记忆（memory）机制，而应依赖文档（documentation）作为知识来源。核心论点是当前 Agent 记忆系统（如向量数据库、长期记忆模块）引入冗余和不确定性，不如让 Agent 直接读取结构化文档来获取上下文。技术亮点在于将 RAG 思路简化为文档驱动，降低系统复杂度，提升可解释性和可维护性。适用场景包括开发者工具、workflow automation 和基于 LLM 的 ai-assistant 构建，尤其适合知识密集型任务。",
+  "tags": [
+    "agent",
+    "rag",
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:24.352026+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}

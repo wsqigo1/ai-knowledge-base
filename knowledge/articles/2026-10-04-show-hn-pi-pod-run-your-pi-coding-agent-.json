@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-04-012",
+  "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+  "source": "hackernews-top",
+  "url": "https://pipod.dev/",
+  "summary": "Pi pod 是一个开源工具，允许开发者在自有服务器上以沙箱方式运行 pi coding agent。它解决了 AI 编码代理执行代码时的安全隔离与部署自主性问题，避免依赖第三方云服务。核心技术亮点在于将 agent 执行环境容器化/沙箱化，支持本地或私有服务器部署，可能集成 MCP 或 tool-use 机制。适用场景包括需要数据隐私的团队、自托管 AI 编码工作流、以及希望安全测试 agent 代码生成能力的开发者。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "open-source",
+    "developer-tools",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-04T03:20:32.405876+00:00",
+  "analyzed_at": "2026-10-04T03:21:27.473910+00:00",
+  "organized_at": "2026-10-04T03:21:39.297651+00:00",
+  "status": "published"
+}
