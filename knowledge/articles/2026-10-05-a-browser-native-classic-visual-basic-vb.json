@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-05-005",
+  "title": "A browser-native classic Visual Basic VB6 IDE",
+  "source": "hackernews-top",
+  "url": "https://wieslawsoltes.github.io/VB6/",
+  "summary": "该项目是一个在浏览器中运行的经典 Visual Basic 6 (VB6) IDE 复刻实现，允许开发者在现代 Web 环境中编写、编辑和运行 VB6 代码。它解决了 VB6 遗留代码难以在现代系统上维护和运行的问题，通过浏览器原生技术（如 WebAssembly 或 JavaScript 模拟）重现了 VB6 的经典开发体验。核心技术亮点在于对 VB6 语言解析、表单设计器及运行时环境的浏览器端模拟，可能涉及编译器前端或解释器实现。适用场景包括 VB6 遗留系统的学习、教学、快速原型验证，以及怀旧开发者在无本地安装环境下的轻量级编码。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-05T02:57:12.363192+00:00",
+  "analyzed_at": "2026-10-05T02:57:51.129431+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}

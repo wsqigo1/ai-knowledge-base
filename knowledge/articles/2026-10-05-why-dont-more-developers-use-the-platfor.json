@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-05-009",
+  "title": "Why don't more developers “use the platform”?",
+  "source": "hackernews-top",
+  "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+  "summary": "该 HN 讨论帖探讨为何开发者不愿使用浏览器原生平台能力（如 Web Components、CSS 新特性、原生 API），而倾向于依赖 React、Vue 等框架和构建工具链。核心矛盾在于：原生平台虽减少依赖、提升长期可维护性，但框架提供更成熟的开发体验、生态和跨浏览器兼容抽象。讨论涉及平台演进速度、开发者习惯、招聘市场与工具链锁定等。对 AI 工程师而言，该话题间接关联 AI 辅助代码生成与 developer-tools 选型——当 LLM 生成代码时，倾向训练数据中高频的框架模式，可能进一步强化框架依赖，值得在构建 AI coding agent 或评估 code-generation 方案时参考。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-05T02:57:12.363192+00:00",
+  "analyzed_at": "2026-10-05T02:58:08.875643+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}

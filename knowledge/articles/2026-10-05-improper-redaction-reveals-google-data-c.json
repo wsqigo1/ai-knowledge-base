@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-05-006",
+  "title": "Improper redaction reveals Google Data Center water and electricity usage",
+  "source": "hackernews-top",
+  "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+  "summary": "该条目披露了Google数据中心在用水量和电力消耗方面的数据因脱敏处理不当而被泄露的事件。核心问题在于Google对外公开的环境报告中，部分敏感运营数据（如具体数据中心的耗水量、能耗强度）未能被正确遮蔽，导致外界可推断出其基础设施的真实资源消耗规模。技术亮点在于揭示了数据脱敏流程中的常见缺陷——如PDF元数据残留、文本层未清除、图表可反推原始数值等，这些对任何处理敏感数据发布的团队都有警示意义。适用场景包括AI基础设施能耗评估、数据中心可持续性研究、以及企业数据发布合规审查。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-05T02:57:12.363192+00:00",
+  "analyzed_at": "2026-10-05T02:57:56.099558+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}

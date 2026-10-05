@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-05-011",
+  "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+  "source": "hackernews-top",
+  "url": "https://github.com/PowderworksCode/headstart",
+  "summary": "Rust 编译器通过提前发射 metadata（元数据）来加速构建与检查流程，最高可提升两倍速度。该优化针对 rustc 在编译过程中 metadata 生成时机过晚导致的重复计算与 I/O 瓶颈，核心思路是在编译早期阶段就输出 crate metadata，使下游依赖的检查与构建能更早获取所需信息，减少等待与冗余工作。技术亮点在于调整编译器内部流水线顺序，而非改变语言语义或牺牲正确性。适用场景包括大型 Rust 项目的 CI 构建、cargo check 频繁调用的开发工作流，以及依赖链较深的 monorepo 场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-05T02:57:12.363192+00:00",
+  "analyzed_at": "2026-10-05T02:58:16.091691+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}

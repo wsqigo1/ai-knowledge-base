@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-05-007",
+  "title": "Homa: The end of TCP for AI clusters [video]",
+  "source": "hackernews-top",
+  "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+  "summary": "Homa 是面向 AI 集群的新型传输协议，旨在替代 TCP 在数据中心场景下的低效表现。TCP 在高带宽、低延迟的 AI 训练集群中因拥塞控制、队头阻塞和内核开销导致性能瓶颈。Homa 采用基于接收端的优先级调度和 SRPT（最短剩余处理时间）策略，在用户态实现，显著降低尾延迟并提升吞吐。其核心亮点包括无连接设计、消息级调度和可编程数据平面支持。适用于大规模分布式训练、GPU 集群通信和 RDMA 替代场景，尤其适合对延迟敏感的 AI 工作负载。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-05T02:57:12.363192+00:00",
+  "analyzed_at": "2026-10-05T02:57:57.805254+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}

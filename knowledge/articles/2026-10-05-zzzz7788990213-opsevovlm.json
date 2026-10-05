@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-05-002",
+  "title": "zzzz7788990213-ops/EvoVLM",
+  "source": "github-trending",
+  "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+  "summary": "EvoVLM 是一个基于 LLM 引导进化搜索的多模态推理程序优化框架，旨在自动发现高精度且高效的 vision-language inference 程序。它解决的核心问题是：现有 VLM 推理流程（如 prompt 设计、工具调用、模型组合）高度依赖人工调参，难以在精度与效率间取得最优平衡。其技术亮点在于将推理程序视为可进化对象，利用 LLM 生成变异策略并驱动 evolutionary search，自动搜索最优推理路径。适用场景包括多模态 agent 构建、VLM 推理加速、自动化 prompt/workflow 优化等研究与工程任务。",
+  "tags": [
+    "multimodal",
+    "large-language-model",
+    "reasoning",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-05T02:57:12.267644+00:00",
+  "analyzed_at": "2026-10-05T02:57:39.196688+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}

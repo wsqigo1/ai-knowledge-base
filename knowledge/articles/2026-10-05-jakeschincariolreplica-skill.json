@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-05-001",
+  "title": "Jakeschincariol/replica-skill",
+  "source": "github-trending",
+  "url": "https://github.com/Jakeschincariol/replica-skill",
+  "summary": "replica-skill 是一套面向 Claude Code 的免费 MIT 开源技能包，包含 11 个 agent skills，用于逆向分析任意应用、重建实现、自动化测试并修复用户痛点。其核心思路是将「克隆应用」拆解为可复用的 skill 工作流，借助 Claude 的 tool-use 与代码生成能力完成从反编译到迭代修复的闭环。项目以 Python 实现，适合 AI 工程师快速搭建竞品分析、遗留系统重构或原型复刻的自动化流水线，也可作为 agent-skills 设计范式的参考案例。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-05T02:57:12.267644+00:00",
+  "analyzed_at": "2026-10-05T02:57:36.038170+00:00",
+  "organized_at": "2026-10-05T02:58:19.332660+00:00",
+  "status": "published"
+}
