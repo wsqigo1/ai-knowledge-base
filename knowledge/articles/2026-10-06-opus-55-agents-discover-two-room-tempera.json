@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-06-011",
+  "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+  "source": "hackernews-top",
+  "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+  "summary": "Anthropic 的 Opus 5.5 agents 通过自主搜索与推理，从材料数据库中筛选出两种室温磁性半导体候选材料。该工作解决的是传统材料发现依赖高通量计算与人工经验、周期长且成本高的问题。核心技术亮点在于利用 LLM agent 进行多步文献检索、假设生成与候选排序，将 agent 能力从代码与文本任务扩展到科学发现领域。适用场景包括计算材料学、凝聚态物理研究以及 AI for Science 方向的自动化实验设计。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "large-language-model",
+    "multi-agent",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:32.788556+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

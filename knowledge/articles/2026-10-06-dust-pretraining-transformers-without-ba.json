@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-06-009",
+  "title": "Dust: Pretraining Transformers Without Backpropagation",
+  "source": "hackernews-top",
+  "url": "https://qlabs.sh/research/dust",
+  "summary": "Dust 提出一种无需反向传播（backpropagation）即可预训练 Transformer 的方法，旨在规避传统梯度下降在超大规模模型训练中的内存与计算瓶颈。其核心技术亮点在于用前向传播的局部学习规则或进化策略替代全局梯度回传，从而降低显存占用并提升并行效率。该工作对探索非梯度训练范式、降低大模型训练门槛具有参考意义，适用于研究替代优化算法、资源受限场景下的模型预训练，以及希望理解无反向传播学习机制的 AI 工程师。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:29.363462+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

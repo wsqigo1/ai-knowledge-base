@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-06-003",
+  "title": "Adolanium/hermes-gadget-sdk",
+  "source": "github-trending",
+  "url": "https://github.com/Adolanium/hermes-gadget-sdk",
+  "summary": "Hermes Agent 的硬件外设 SDK，提供 ESP32 固件、Linux 客户端和桌面模拟器，用于构建语音与文本交互设备。它解决的是 LLM Agent 缺乏低成本、可定制的物理交互终端问题，让开发者无需从零搭建嵌入式语音链路。核心技术亮点在于 C++17 与 ESP-IDF 的嵌入式实现，支持 ESP32-S3 芯片，并附带桌面模拟器降低调试门槛。适用场景包括智能音箱、桌面语音助手、IoT 语音控制节点等需要将 Agent 能力延伸到实体设备的开发场景。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "ai-assistant",
+    "multimodal"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-06T03:46:51.041478+00:00",
+  "analyzed_at": "2026-10-06T03:47:15.144929+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

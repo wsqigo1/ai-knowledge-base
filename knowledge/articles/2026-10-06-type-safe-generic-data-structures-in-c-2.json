@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-06-017",
+  "title": "Type Safe Generic Data Structures in C (2025)",
+  "source": "hackernews-top",
+  "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+  "summary": "该条目介绍在 C 语言中实现类型安全泛型数据结构的方法，针对 C 语言缺乏原生泛型支持、传统宏或 void* 方案易引发类型错误和内存安全问题。核心技术亮点可能涉及 _Generic 关键字、宏元编程、编译期类型检查等技巧，在保持 C 零开销抽象的同时提供接近模板的泛型能力。适用于嵌入式系统、系统编程、高性能库开发等需要兼顾类型安全与运行效率的 C 语言工程场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:53.808233+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

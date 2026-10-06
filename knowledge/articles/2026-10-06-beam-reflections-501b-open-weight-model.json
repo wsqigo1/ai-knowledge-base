@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-06-007",
+  "title": "Beam: Reflection's 501B open-weight model",
+  "source": "hackernews-top",
+  "url": "https://reflection.ai/blog/introducing-beam",
+  "summary": "Beam 是 Reflection 发布的开源权重模型，参数量达 501B，属于当前开源社区中规模最大的模型之一。该模型旨在解决闭源大模型在透明度、可定制性和部署自主权方面的不足，为研究者和企业提供可本地部署的超大模型选项。核心技术亮点在于其超大规模参数带来的强推理与生成能力，以及开放权重带来的微调与二次开发潜力。适用场景包括需要高精度推理的企业级应用、学术研究、以及基于开源权重的定制化 AI 助手开发。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "fine-tuning",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:24.527963+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

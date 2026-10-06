@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-06-013",
+  "title": "Web Search API",
+  "source": "hackernews-top",
+  "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+  "summary": "Web Search API 是一类面向 LLM 应用提供实时联网检索能力的接口服务，在 HN 上获得 499 分热度。它解决的核心问题是：大模型知识存在训练截止日期、无法获取实时信息且容易产生幻觉，而传统搜索引擎返回的 HTML 页面不适合直接喂给模型。其技术亮点在于将网页抓取、正文抽取、去广告与结构化清洗、结果排序整合为一次 API 调用，直接返回干净的 markdown 或 JSON 文本，部分实现还支持语义重排与摘要生成。适用场景包括 RAG 检索增强、AI agent 的 tool-use 联网能力、实时问答助手、竞品与舆情监控，以及需要最新事实的自动化 workflow。",
+  "tags": [
+    "rag",
+    "tool-use",
+    "agent",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:38.092353+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

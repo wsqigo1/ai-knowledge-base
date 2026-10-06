@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-06-004",
+  "title": "AgentMemoryRepo/agentmemoryrepo",
+  "source": "github-trending",
+  "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+  "summary": "AgentMemoryRepo 是一个面向 AI Agent 的记忆存储规范（Spec），旨在为 Agent 的长期记忆管理提供标准化接口与数据结构定义。当前 Agent 系统普遍缺乏统一的记忆持久化与检索标准，导致跨会话上下文丢失、记忆碎片化。该规范尝试定义记忆的写入、检索、更新与遗忘机制，可能涉及向量存储、结构化记忆分层等设计。适用于构建需要长期记忆能力的 Agent 应用，如个人助理、多轮任务型 Agent 及多 Agent 协作系统。目前仅 268 stars，处于早期规范阶段，实际工程落地价值有待验证。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "open-source",
+    "multi-agent",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-06T03:46:51.041478+00:00",
+  "analyzed_at": "2026-10-06T03:47:16.945721+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

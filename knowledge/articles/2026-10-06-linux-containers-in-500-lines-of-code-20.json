@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-06-016",
+  "title": "Linux containers in 500 lines of code (2016)",
+  "source": "hackernews-top",
+  "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+  "summary": "该项目通过约500行代码实现了一个最小化的Linux容器运行时，演示了容器技术的核心原理。它解决了理解容器底层机制（如namespace隔离、cgroup资源限制、chroot文件系统隔离）时缺乏简洁教学示例的问题。核心技术亮点在于用极简代码串联起clone系统调用、namespaces、cgroups和pivot_root等关键组件，清晰展示容器从进程创建到资源隔离的完整流程。适用场景包括系统编程学习、容器技术教学、以及AI工程师理解模型部署时底层隔离机制。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:50.701271+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

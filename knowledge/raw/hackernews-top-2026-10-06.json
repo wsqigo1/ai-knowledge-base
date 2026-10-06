@@ -1,0 +1,400 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-06T03:46:52.973810+00:00",
+  "date": "2026-10-06",
+  "count": 20,
+  "items": [
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "source": "hackernews-top",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "hn_url": "https://news.ycombinator.com/item?id=49969183",
+      "description": "",
+      "hn_score": 353,
+      "comments": 106,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "Beam 是 Reflection 发布的开源权重模型，参数量达 501B，属于当前开源社区中规模最大的模型之一。该模型旨在解决闭源大模型在透明度、可定制性和部署自主权方面的不足，为研究者和企业提供可本地部署的超大模型选项。核心技术亮点在于其超大规模参数带来的强推理与生成能力，以及开放权重带来的微调与二次开发潜力。适用场景包括需要高精度推理的企业级应用、学术研究、以及基于开源权重的定制化 AI 助手开发。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "fine-tuning",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:24.527963+00:00"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "source": "hackernews-top",
+      "url": "https://flattensf.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49971230",
+      "description": "",
+      "hn_score": 135,
+      "comments": 45,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该项目利用开源地形高程数据（如 USGS DEM）与路径规划算法，在旧金山任意两点间计算坡度变化最小的路线，而非传统最短距离。核心亮点在于将图搜索（如 Dijkstra/A*）与真实高程栅格数据结合，通过自定义边权重（坡度累积）实现多目标优化，并可能借助 Web 地图可视化展示。它解决了骑行、跑步、轮椅出行等场景中对平缓路线的实际需求，同时为地理空间 AI 应用（如路径推荐、可访问性分析）提供了可复用的技术范式。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:26.088316+00:00"
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "source": "hackernews-top",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "hn_url": "https://news.ycombinator.com/item?id=49971921",
+      "description": "",
+      "hn_score": 117,
+      "comments": 72,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目为 Hacker News 热门讨论，标题指向 Example.com 数十年来最大规模的网站重设计，但描述与附加信息均未提供任何实质技术细节，仅给出 HN Score 117 的热度数据。从现有信息看，它属于前端/Web 工程与产品设计范畴，与 AI、LLM 技术栈无直接关联，无法提炼出可复用的技术方案或工程实践。对 AI 工程师而言，其参考价值主要在于观察社区对大型 Web 重构的关注点，而非模型、推理或工具链层面的技术输入。若需评估该重设计的技术亮点，需补充原文链接、架构说明或性能数据。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-06T03:47:27.709114+00:00"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "source": "hackernews-top",
+      "url": "https://qlabs.sh/research/dust",
+      "hn_url": "https://news.ycombinator.com/item?id=49970871",
+      "description": "",
+      "hn_score": 126,
+      "comments": 22,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "Dust 提出一种无需反向传播（backpropagation）即可预训练 Transformer 的方法，旨在规避传统梯度下降在超大规模模型训练中的内存与计算瓶颈。其核心技术亮点在于用前向传播的局部学习规则或进化策略替代全局梯度回传，从而降低显存占用并提升并行效率。该工作对探索非梯度训练范式、降低大模型训练门槛具有参考意义，适用于研究替代优化算法、资源受限场景下的模型预训练，以及希望理解无反向传播学习机制的 AI 工程师。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:29.363462+00:00"
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "source": "hackernews-top",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "hn_url": "https://news.ycombinator.com/item?id=49972419",
+      "description": "",
+      "hn_score": 45,
+      "comments": 33,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "Khanmigo 是 Khan Academy 基于 GPT-4 构建的 AI 辅导助手，在一项为期两年的学校实验中进行了大规模课堂部署与效果评估。该实验旨在验证 LLM 驱动的个性化辅导能否在真实教学场景中提升学生学习效果，同时观察教师工作流的变化。核心技术亮点在于将通用大模型通过 prompt engineering 与教学场景深度对齐，并引入安全护栏与教师监督机制。实验覆盖多所学校、数千名学生，提供了难得的纵向实证数据。适用场景为 K-12 教育、AI 辅助教学产品设计及 LLM 在教育领域的落地评估。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "prompt-engineering",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:31.046410+00:00"
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "source": "hackernews-top",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "hn_url": "https://news.ycombinator.com/item?id=49970667",
+      "description": "",
+      "hn_score": 244,
+      "comments": 176,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "Anthropic 的 Opus 5.5 agents 通过自主搜索与推理，从材料数据库中筛选出两种室温磁性半导体候选材料。该工作解决的是传统材料发现依赖高通量计算与人工经验、周期长且成本高的问题。核心技术亮点在于利用 LLM agent 进行多步文献检索、假设生成与候选排序，将 agent 能力从代码与文本任务扩展到科学发现领域。适用场景包括计算材料学、凝聚态物理研究以及 AI for Science 方向的自动化实验设计。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "large-language-model",
+        "multi-agent",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:32.788556+00:00"
+    },
+    {
+      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "source": "hackernews-top",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "hn_url": "https://news.ycombinator.com/item?id=49945588",
+      "description": "",
+      "hn_score": 42,
+      "comments": 13,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该文章探讨秘密投票（secret ballot）制度下存在的算法性失效问题，属于计算社会选择与选举安全交叉领域。核心在于揭示某些投票聚合或验证算法在特定条件下会产生系统性偏差或可被利用的漏洞，从而破坏投票的保密性与公正性。技术亮点可能涉及对投票协议、计票算法或审计机制的数学分析，指出其理论缺陷或实际攻击面。适用场景包括电子投票系统设计、选举安全审计、以及计算社会选择理论研究者对算法公平性的评估。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-06T03:47:34.497892+00:00"
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "source": "hackernews-top",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "hn_url": "https://news.ycombinator.com/item?id=49971846",
+      "description": "",
+      "hn_score": 327,
+      "comments": 227,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "OpenAI 的 ChatGPT 在生成模仿《纽约客》风格的漫画时，开始自动添加真实漫画家（如 Amy Hwang、Jeremy Nguyen 等）的签名。此举旨在解决 AI 生成内容缺乏署名归属、可能误导读者的问题，但实际效果是伪造了人类艺术家的签名，引发版权与伦理争议。核心技术亮点在于图像生成模型对特定视觉风格和签名的模仿能力，以及 OpenAI 在输出中嵌入元数据或水印的尝试。适用场景为 AI 生成内容的版权溯源与署名机制设计，对关注生成式 AI 伦理、版权合规的工程师有参考价值。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-06T03:47:36.264466+00:00"
+    },
+    {
+      "title": "Web Search API",
+      "source": "hackernews-top",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "hn_url": "https://news.ycombinator.com/item?id=49963171",
+      "description": "",
+      "hn_score": 499,
+      "comments": 230,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "Web Search API 是一类面向 LLM 应用提供实时联网检索能力的接口服务，在 HN 上获得 499 分热度。它解决的核心问题是：大模型知识存在训练截止日期、无法获取实时信息且容易产生幻觉，而传统搜索引擎返回的 HTML 页面不适合直接喂给模型。其技术亮点在于将网页抓取、正文抽取、去广告与结构化清洗、结果排序整合为一次 API 调用，直接返回干净的 markdown 或 JSON 文本，部分实现还支持语义重排与摘要生成。适用场景包括 RAG 检索增强、AI agent 的 tool-use 联网能力、实时问答助手、竞品与舆情监控，以及需要最新事实的自动化 workflow。",
+      "tags": [
+        "rag",
+        "tool-use",
+        "agent",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:38.092353+00:00"
+    },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://cses.fi/book/book.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49944049",
+      "description": "",
+      "hn_score": 144,
+      "comments": 32,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "Competitive Programmer's Handbook 是 Antti Laaksonen 于 2018 年发布的算法竞赛入门教材，系统覆盖排序、数据结构、图论、动态规划、数论、字符串算法等核心主题。它解决的是竞赛选手缺乏一本结构清晰、从基础到进阶的免费英文教材的问题。技术亮点在于用简洁的数学推导和 C++ 代码示例串联经典算法，并配有大量可验证的例题。适用场景包括算法竞赛备赛、面试算法准备，以及 AI 工程师补强 reasoning 和 code-generation 所需的底层算法直觉。",
+      "tags": [
+        "reasoning",
+        "code-generation",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-06T03:47:39.683568+00:00"
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "source": "hackernews-top",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49961057",
+      "description": "",
+      "hn_score": 590,
+      "comments": 487,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目报道 Anthropic 向警方举报某用户的日记内容，导致一名女性面临重罪指控，属于 AI 公司数据披露与用户隐私边界的社会新闻，而非技术发布。核心争议在于 AI 服务商在何种条件下主动向执法机构移交用户对话/日志数据，涉及隐私政策、信任安全与合规义务。技术亮点缺失，适用场景为 AI 伦理、数据治理与合规讨论。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-06T03:47:41.001254+00:00"
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "hn_url": "https://news.ycombinator.com/item?id=49971523",
+      "description": "",
+      "hn_score": 131,
+      "comments": 20,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目报道美国得克萨斯州某城市就 Flock Safety 车牌识别与监控摄像头系统的公共记录请求，向申请方索要 200 万美元费用，涉及警方大规模部署 AI 监控技术后的数据透明度与公共问责问题。核心争议在于公共记录法被用作成本壁垒，阻碍公众与记者获取 AI 监控系统的部署范围、数据保留策略和共享协议。技术亮点不在算法本身，而在于揭示 AI 监控基础设施的治理盲区：自动车牌识别、跨机构数据共享与隐私合规。适用场景为 AI 伦理与政策研究、公共部门技术采购监督、隐私合规评估。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-06T03:47:42.750262+00:00"
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "source": "hackernews-top",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49965308",
+      "description": "",
+      "hn_score": 138,
+      "comments": 37,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该文章是系列教程的第一部分，介绍如何使用 Haskell 语言结合 GTK 工具包构建图形界面应用。文章面向希望用函数式语言开发桌面 GUI 的开发者，展示了 Haskell 的 gi-gtk 绑定库的安装配置、基本窗口创建、信号连接与事件处理流程。核心技术亮点在于将 Haskell 的强类型系统与 GTK 的面向对象信号机制相结合，利用类型安全减少运行时错误。适用场景为桌面应用开发、函数式编程学习以及 Haskell 生态中 GUI 编程的入门实践。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-06T03:47:44.144032+00:00"
+    },
+    {
+      "title": "The lamps in my house",
+      "source": "hackernews-top",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "hn_url": "https://news.ycombinator.com/item?id=49965152",
+      "description": "",
+      "hn_score": 148,
+      "comments": 72,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目为 Hacker News 上标题为《The lamps in my house》的讨论帖，HN 得分 148，但未提供任何技术描述或正文内容。从标题判断，内容大概率涉及家庭照明设备、智能灯具或家居自动化相关的个人项目分享，而非 AI/LLM 技术。由于缺乏实质技术细节，无法确认其是否涉及嵌入式开发、IoT 协议或智能家居集成。对于 AI 工程师而言，该条目与当前主流 AI 技术栈（LLM、RAG、Agent 等）无直接关联，实用价值和技术深度均有限，仅可作为泛技术社区动态参考。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-06T03:47:45.720564+00:00"
+    },
+    {
+      "title": "Apple and a hacker's future",
+      "source": "hackernews-top",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "hn_url": "https://news.ycombinator.com/item?id=49962857",
+      "description": "",
+      "hn_score": 226,
+      "comments": 198,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，标题指向 Apple 与某位黑客的未来走向，但未提供具体描述文本，实际内容需依赖原文链接获取。从标题推测，话题可能涉及 Apple 平台安全生态、漏洞挖掘、越狱或供应链攻击等方向，属于安全研究与平台治理交叉领域。核心看点在于个体黑客与大型科技公司之间的博弈关系，以及由此引发的安全披露政策、法律边界与行业影响。适用场景为安全研究员、Apple 生态开发者及关注科技公司安全治理的从业者，用于了解社区对相关事件的讨论热度与观点分布。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-06T03:47:47.442901+00:00"
+    },
+    {
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "source": "hackernews-top",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "hn_url": "https://news.ycombinator.com/item?id=49961861",
+      "description": "",
+      "hn_score": 180,
+      "comments": 120,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "高通从华为获得LogicFolding芯片技术专利授权，该技术通过逻辑折叠优化芯片布局，提升晶体管密度与能效，解决先进制程受限下的性能瓶颈。核心亮点在于非传统光刻路径实现性能提升，适用于移动SoC、AI加速器及边缘计算芯片设计。对AI工程师而言，该技术可能影响未来端侧推理芯片的算力与功耗平衡，但当前与LLM训练/推理软件栈关联较弱，更多是硬件底层创新。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-06T03:47:49.122689+00:00"
+    },
+    {
+      "title": "Linux containers in 500 lines of code (2016)",
+      "source": "hackernews-top",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49965118",
+      "description": "",
+      "hn_score": 109,
+      "comments": 22,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该项目通过约500行代码实现了一个最小化的Linux容器运行时，演示了容器技术的核心原理。它解决了理解容器底层机制（如namespace隔离、cgroup资源限制、chroot文件系统隔离）时缺乏简洁教学示例的问题。核心技术亮点在于用极简代码串联起clone系统调用、namespaces、cgroups和pivot_root等关键组件，清晰展示容器从进程创建到资源隔离的完整流程。适用场景包括系统编程学习、容器技术教学、以及AI工程师理解模型部署时底层隔离机制。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-06T03:47:50.701271+00:00"
+    },
+    {
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "source": "hackernews-top",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "hn_url": "https://news.ycombinator.com/item?id=49962572",
+      "description": "",
+      "hn_score": 127,
+      "comments": 46,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "2026年诺贝尔生理学或医学奖授予Deisseroth、Hegemann和Nagel，表彰其在光遗传学（optogenetics）领域的开创性贡献。该技术通过将光敏蛋白（如channelrhodopsin）表达于特定神经元，实现用光精确控制神经活动，解决了传统电刺激缺乏细胞类型特异性和时间精度的问题。核心技术亮点在于将微生物视蛋白与基因工程结合，使神经环路因果性研究成为可能。适用场景包括神经科学基础研究、脑疾病机制探索及潜在神经调控治疗，对AI工程师的直接实用价值有限，但为类脑计算和神经形态硬件提供生物学启发。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-06T03:47:52.340202+00:00"
+    },
+    {
+      "title": "Type Safe Generic Data Structures in C (2025)",
+      "source": "hackernews-top",
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "hn_url": "https://news.ycombinator.com/item?id=49943479",
+      "description": "",
+      "hn_score": 138,
+      "comments": 105,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目介绍在 C 语言中实现类型安全泛型数据结构的方法，针对 C 语言缺乏原生泛型支持、传统宏或 void* 方案易引发类型错误和内存安全问题。核心技术亮点可能涉及 _Generic 关键字、宏元编程、编译期类型检查等技巧，在保持 C 零开销抽象的同时提供接近模板的泛型能力。适用于嵌入式系统、系统编程、高性能库开发等需要兼顾类型安全与运行效率的 C 语言工程场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-06T03:47:53.808233+00:00"
+    },
+    {
+      "title": "Differences Between `Foldl` and `Foldr`",
+      "source": "hackernews-top",
+      "url": "https://blog.haskell.org/foldl-and-foldr/",
+      "hn_url": "https://news.ycombinator.com/item?id=49917900",
+      "description": "",
+      "hn_score": 137,
+      "comments": 29,
+      "collected_at": "2026-10-06T03:46:51.210355+00:00",
+      "published_at": "2026-10-06T03:46:51.210355+00:00",
+      "summary": "该条目讨论函数式编程中 foldl 与 foldr 两个高阶函数的本质差异，属于编程语言基础理论话题。核心在于揭示两者的求值顺序、结合方向、惰性求值行为及栈空间占用差异：foldl 从左向右累积，严格求值易导致空间泄漏；foldr 从右向左结合，配合惰性求值可支持短路与无限列表处理。技术亮点在于通过 foldr/foldl 的对偶性理解递归模式与尾递归优化，并引申至 foldl' 等严格变体。适用场景为 Haskell/Scala 等函数式语言学习、算法教学及代码性能调优，对 AI 工程师直接价值有限，但有助于提升函数式思维与递归抽象能力。",
+      "tags": [
+        "developer-tools",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-06T03:47:55.835982+00:00"
+    }
+  ]
+}

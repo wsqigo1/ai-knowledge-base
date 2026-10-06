@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-06-008",
+  "title": "Find the flattest route between any two points in SF",
+  "source": "hackernews-top",
+  "url": "https://flattensf.com/",
+  "summary": "该项目利用开源地形高程数据（如 USGS DEM）与路径规划算法，在旧金山任意两点间计算坡度变化最小的路线，而非传统最短距离。核心亮点在于将图搜索（如 Dijkstra/A*）与真实高程栅格数据结合，通过自定义边权重（坡度累积）实现多目标优化，并可能借助 Web 地图可视化展示。它解决了骑行、跑步、轮椅出行等场景中对平缓路线的实际需求，同时为地理空间 AI 应用（如路径推荐、可访问性分析）提供了可复用的技术范式。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-06T03:46:51.210355+00:00",
+  "analyzed_at": "2026-10-06T03:47:26.088316+00:00",
+  "organized_at": "2026-10-06T03:47:55.881605+00:00",
+  "status": "published"
+}

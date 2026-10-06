@@ -1,7 +1,271 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2408,
+  "total_count": 2425,
   "entries": [
+    {
+      "id": "kb-2026-10-06-001",
+      "title": "elstongun/leviathan",
+      "source": "github-trending",
+      "url": "https://github.com/elstongun/leviathan",
+      "file": "2026-10-06-elstongunleviathan.json",
+      "tags": [
+        "agent",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-002",
+      "title": "DozenTwelve/Papermorph",
+      "source": "github-trending",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "file": "2026-10-06-dozentwelvepapermorph.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-003",
+      "title": "Adolanium/hermes-gadget-sdk",
+      "source": "github-trending",
+      "url": "https://github.com/Adolanium/hermes-gadget-sdk",
+      "file": "2026-10-06-adolaniumhermes-gadget-sdk.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-004",
+      "title": "AgentMemoryRepo/agentmemoryrepo",
+      "source": "github-trending",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "file": "2026-10-06-agentmemoryrepoagentmemoryrepo.json",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "multi-agent",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-005",
+      "title": "shinshin86/mesh-avatar-studio",
+      "source": "github-trending",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "file": "2026-10-06-shinshin86mesh-avatar-studio.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-006",
+      "title": "GanyuanRan/Autoloom",
+      "source": "github-trending",
+      "url": "https://github.com/GanyuanRan/Autoloom",
+      "file": "2026-10-06-ganyuanranautoloom.json",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-007",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "source": "hackernews-top",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "file": "2026-10-06-beam-reflections-501b-open-weight-model.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "fine-tuning",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-008",
+      "title": "Find the flattest route between any two points in SF",
+      "source": "hackernews-top",
+      "url": "https://flattensf.com/",
+      "file": "2026-10-06-find-the-flattest-route-between-any-two-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-009",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "source": "hackernews-top",
+      "url": "https://qlabs.sh/research/dust",
+      "file": "2026-10-06-dust-pretraining-transformers-without-ba.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-010",
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "source": "hackernews-top",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "file": "2026-10-06-ai-tutoring-with-khanmigo-in-a-two-year-.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "prompt-engineering",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-011",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "source": "hackernews-top",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "file": "2026-10-06-opus-55-agents-discover-two-room-tempera.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "large-language-model",
+        "multi-agent",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-012",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "source": "hackernews-top",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "file": "2026-10-06-chatgpt-is-adding-real-cartoonists-signa.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-013",
+      "title": "Web Search API",
+      "source": "hackernews-top",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "file": "2026-10-06-web-search-api.json",
+      "tags": [
+        "rag",
+        "tool-use",
+        "agent",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-014",
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "source": "hackernews-top",
+      "url": "https://cses.fi/book/book.pdf",
+      "file": "2026-10-06-competitive-programmers-handbook-2018-pd.json",
+      "tags": [
+        "reasoning",
+        "code-generation",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-015",
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "source": "hackernews-top",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "file": "2026-10-06-qualcomm-licenses-patents-on-huaweis-log.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-016",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "source": "hackernews-top",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "file": "2026-10-06-linux-containers-in-500-lines-of-code-20.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
+    {
+      "id": "kb-2026-10-06-017",
+      "title": "Type Safe Generic Data Structures in C (2025)",
+      "source": "hackernews-top",
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "file": "2026-10-06-type-safe-generic-data-structures-in-c-2.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-06T03:47:55.881605+00:00"
+    },
     {
       "id": "kb-2026-10-05-001",
       "title": "Jakeschincariol/replica-skill",
@@ -36085,5 +36349,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-05T02:58:19.469498+00:00"
+  "last_updated": "2026-10-06T03:47:56.039218+00:00"
 }
