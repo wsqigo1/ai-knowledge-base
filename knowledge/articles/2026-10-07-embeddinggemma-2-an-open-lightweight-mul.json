@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-013",
+  "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+  "summary": "EmbeddingGemma 2 是 Google 推出的开源轻量级多模态 embedding 模型，基于 Gemma 系列构建。它解决的核心问题是：现有 embedding 模型要么体积大、推理成本高，要么仅支持纯文本，难以在边缘设备或低延迟场景中统一处理文本与图像。技术亮点包括多模态统一编码、轻量化架构设计以及开放权重，可直接用于语义检索、聚类和 RAG 管线。适用场景涵盖本地化 RAG 系统、移动端语义搜索、多模态向量数据库索引构建，以及对推理成本敏感的工程部署。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "rag",
+    "vector-database",
+    "large-language-model"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:03.527681+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

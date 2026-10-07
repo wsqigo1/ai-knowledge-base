@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-005",
+  "title": "mariagorskikh/open-instinct",
+  "source": "github-trending",
+  "url": "https://github.com/mariagorskikh/open-instinct",
+  "summary": "Open Instinct 是一个基于 TypeScript 的开源个人 AI agent 项目，用户可通过 iMessage 直接与其对话，agent 拥有独立的计算机环境，并能与其他 agent 组成可信网络协同工作。项目旨在解决个人 AI 助手缺乏持久运行环境与多 agent 协作能力的问题，让 agent 真正成为可随时短信联系的\"数字分身\"。核心技术栈包括 Pi、Inkbox、Maritime 和 Composio，其中 Composio 负责工具调用与集成，Inkbox 提供 iMessage 通信能力，Maritime 支撑 agent 网络协作。适用场景包括个人任务自动化、跨 agent 协作工作流以及基于消息界面的 AI 助手开发。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-07T03:14:19.436126+00:00",
+  "analyzed_at": "2026-10-07T03:14:49.169819+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

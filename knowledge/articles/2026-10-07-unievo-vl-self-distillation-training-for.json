@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-019",
+  "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2609.38721",
+  "summary": "UniEvo-VL 提出一种面向多模态大模型的自蒸馏训练框架，通过让模型在无额外标注数据条件下自我生成、筛选并学习高质量推理轨迹，实现持续自我改进。其核心在于统一视觉-语言表征空间中的自进化机制，缓解多模态模型在复杂视觉推理任务上依赖昂贵人工标注和外部强模型蒸馏的瓶颈。技术亮点包括自蒸馏信号构建、动态样本筛选与训练稳定性控制。适用于多模态推理增强、低资源场景下的模型迭代以及视觉问答、图表理解等任务。",
+  "tags": [
+    "multimodal",
+    "fine-tuning",
+    "reasoning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:19.944007+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

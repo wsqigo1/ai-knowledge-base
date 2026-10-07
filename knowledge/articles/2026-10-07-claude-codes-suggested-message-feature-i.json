@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-014",
+  "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+  "source": "hackernews-top",
+  "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+  "summary": "该文章讨论 Claude Code 的 suggested message 功能，作者提出一个反直觉观点：这个功能的真正受益者不是人类用户，而是模型本身。Claude Code 在交互中主动生成建议消息，表面上是帮助开发者更快地表达意图，实际上这些建议消息为模型提供了更结构化、更可预测的输入上下文，从而提升模型自身在后续轮次中的推理与代码生成质量。核心亮点在于将 AI 辅助工具的设计视角从'服务人类'转向'服务模型'，揭示了 agent 系统中人机交互界面与模型内部状态之间的耦合关系。适用场景包括 AI 编程助手设计、agent 交互协议优化、prompt-engineering 以及 developer-tools 的体验重构。",
+  "tags": [
+    "ai-assistant",
+    "code-generation",
+    "agent",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:07.048128+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

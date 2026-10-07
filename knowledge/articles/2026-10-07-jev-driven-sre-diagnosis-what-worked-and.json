@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-017",
+  "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+  "source": "hackernews-top",
+  "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+  "summary": "该条目探讨了将 Jev（推测为基于 LLM 的智能诊断代理）应用于 SRE（站点可靠性工程）故障诊断的实践复盘，属于 AI 辅助运维（AIOps）方向。核心在于记录哪些诊断策略有效、哪些失败，涉及 LLM 在真实生产故障场景下的推理、工具调用与根因定位能力边界。技术亮点可能包括诊断工作流设计、prompt 策略、与监控/日志系统的集成方式，以及对幻觉和误判的抑制经验。适用场景为运维团队评估 LLM agent 用于 incident response、告警降噪和自动化根因分析的可行性。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:12.941718+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

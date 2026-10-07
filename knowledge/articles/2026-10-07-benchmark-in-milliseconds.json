@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-020",
+  "title": "Benchmark in Milliseconds",
+  "source": "hackernews-top",
+  "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+  "summary": "Benchmark in Milliseconds 是一个面向 AI 工程的高性能基准测试工具，旨在解决传统 benchmark 框架在毫秒级延迟场景下测量精度不足、开销过大的问题。其核心技术亮点在于极低的时间测量开销与高精度计时机制，能够精确捕获 LLM 推理、agent 工具调用等短时操作的性能表现。该工具适用于需要细粒度性能剖析的场景，如推理服务延迟优化、agent 工作流瓶颈定位以及模型部署后的实时性能监控，帮助工程师在毫秒级尺度上做出数据驱动的优化决策。",
+  "tags": [
+    "benchmark",
+    "developer-tools",
+    "reasoning",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:21.562629+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-07-023",
+  "title": "Polars 2.0",
+  "source": "hackernews-top",
+  "url": "https://pola.rs/posts/release-polars-2/",
+  "summary": "Polars 2.0 是高性能 DataFrame 库的重大版本更新，基于 Rust 实现并采用 Apache Arrow 列式内存格式。它解决了 pandas 在大规模数据处理时性能瓶颈和内存占用过高的问题，通过惰性求值、查询优化器、多线程并行执行等核心技术，实现比 pandas 快数倍甚至数十倍的处理速度。2.0 版本进一步稳定了 API、增强了流式处理能力和 GPU 支持。适用于数据工程、ETL 管道、大规模数据分析等需要高效处理结构化数据的场景，也是 AI 工程师做数据预处理的高性能替代方案。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:30.609129+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

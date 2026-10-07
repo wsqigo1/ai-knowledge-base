@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-07-015",
+  "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+  "source": "hackernews-top",
+  "url": "https://github.com/FeSens/openTPU",
+  "summary": "OpenTPU 是一个开源 AI 加速器项目，其设计流程由 AI 辅助完成，旨在为 AI 推理与训练提供可定制的硬件加速方案。它试图解决商用 TPU/GPU 成本高、闭源不可控的问题，让研究者与工程师能够基于开放 RTL 自行构建、修改加速器。核心技术亮点在于利用 AI 参与芯片架构探索与代码生成，降低硬件设计门槛，并保持开源可复现。适用场景包括边缘推理、学术研究、定制化 AI 芯片原型验证，以及对供应链自主可控有需求的团队。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:08.857140+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

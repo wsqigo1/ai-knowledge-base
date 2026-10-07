@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-021",
+  "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+  "source": "hackernews-top",
+  "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+  "summary": "韩国金融监管机构披露，该国多家银行遭遇的网络攻击疑似由AI agent（智能体）驱动，攻击者利用自动化智能体执行侦察、漏洞探测与横向移动等操作。该事件揭示了agent技术在真实攻击场景中的落地能力：通过tool-use与workflow-automation实现攻击链自动化，降低人工介入成本。核心技术亮点在于agent可自主编排多步骤任务并适应目标环境变化。适用场景涵盖金融安全防御、威胁情报分析及AI安全红队评估，对AI工程师理解agent的对抗性应用与防御边界具有参考价值。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "multi-agent",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:15:25.371437+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

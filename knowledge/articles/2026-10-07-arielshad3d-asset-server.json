@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-07-002",
+  "title": "arielshad/3d-asset-server",
+  "source": "github-trending",
+  "url": "https://github.com/arielshad/3d-asset-server",
+  "summary": "arielshad/3d-asset-server 是一个基于 TypeScript 构建的 3D 资产 API 服务，同时提供 MCP（Model Context Protocol）接口，使 LLM 与 AI Agent 能够直接检索、调用和管理 3D 模型资源。它解决了 AI 应用在 3D 内容生成、游戏开发、AR/VR 场景中缺乏标准化资产访问通道的问题。核心技术亮点在于将 3D 资产管理封装为 MCP Server，让 Claude、Cursor 等支持 MCP 的客户端通过 tool-use 方式无缝接入外部 3D 资产库，实现自然语言驱动的资产搜索与加载。适用场景包括 AI 辅助 3D 建模、游戏原型快速搭建、多模态 Agent 工作流以及需要动态调用 3D 资源的自动化管线。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "multimodal",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-07T03:14:19.436126+00:00",
+  "analyzed_at": "2026-10-07T03:14:44.135086+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

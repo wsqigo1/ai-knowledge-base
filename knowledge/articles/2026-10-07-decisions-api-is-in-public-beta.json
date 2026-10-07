@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-07-011",
+  "title": "Decisions API is in public beta",
+  "source": "hackernews-top",
+  "url": "https://developers.openai.com/api/docs/guides/decisions",
+  "summary": "Decisions API 进入公开测试阶段，这是一项面向开发者的决策管理接口服务。它解决的核心问题是：在 AI 应用与自动化工作流中，如何以结构化、可追溯的方式记录、查询和执行决策逻辑，避免将业务规则硬编码在 prompt 或代码中。核心技术亮点在于将决策抽象为可版本化、可审计的 API 资源，支持与 agent、workflow-automation 系统集成，实现动态规则更新与决策链路追踪。适用场景包括：多步骤 agent 编排中的条件分支管理、企业级 AI 助手的合规审计、以及需要频繁调整业务规则的自动化流程。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "agent",
+    "tool-use"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-07T03:14:19.610620+00:00",
+  "analyzed_at": "2026-10-07T03:14:59.930692+00:00",
+  "organized_at": "2026-10-07T03:15:30.649700+00:00",
+  "status": "published"
+}

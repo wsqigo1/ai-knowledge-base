@@ -1,0 +1,502 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-07T03:14:21.851163+00:00",
+  "date": "2026-10-07",
+  "count": 19,
+  "items": [
+    {
+      "title": "QingYunA/answer-me-with-html",
+      "source": "github-trending",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": 1811,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill",
+        "claude-skills",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-07T02:49:21Z",
+      "summary": "QingYunA/answer-me-with-html 是一个面向 AI Agent 的 skill，让 Agent 在回答复杂问题时不再输出大段纯文本，而是生成一页可读性更强的 HTML 页面。它解决的是 LLM 长回答信息密度低、结构混乱、难以快速浏览的痛点。核心思路是把 Agent 的输出格式从 Markdown/纯文本升级为结构化 HTML，借助浏览器渲染能力呈现表格、图表、卡片等视觉元素。项目以 JavaScript 实现，兼容 Claude Code 等 Agent 框架的 skill 机制，适合需要 Agent 输出报告、分析摘要或教学内容的场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:23.946741+00:00"
+    },
+    {
+      "title": "Jakeschincariol/replica-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "stars": 706,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-03T12:07:53Z",
+      "summary": "该项目提供 11 个免费的 Claude skills，用于逆向工程任意应用、重建其功能、测试 bug 并修复用户痛点，形成从分析到修复的完整闭环。核心亮点在于将 Claude 的 agent 能力封装为可复用的 skill 模块，覆盖 app-clone 全流程，降低逆向与重建门槛。适用于开发者快速学习竞品实现、进行安全审计或加速原型开发，尤其适合 Claude Code 用户。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-10-07T03:14:25.793572+00:00"
+    },
+    {
+      "title": "elstongun/leviathan",
+      "source": "github-trending",
+      "url": "https://github.com/elstongun/leviathan",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "stars": 642,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T01:02:17Z",
+      "summary": "Leviathan 是一个用 Rust 编写的单静态二进制工具，将 JSONL、JSON、CSV/TSV、SQLite 或任意数据库 CLI 导出的记录转化为带排序的全文本索引，为 agent 在大规模数据集上提供深度记忆能力。它解决的核心问题是：LLM agent 面对海量结构化/半结构化记录时，缺乏轻量、可本地部署的高效检索层，传统向量数据库在精确关键词匹配和结构化过滤上存在短板。技术亮点在于单二进制零依赖部署、多格式统一摄入、以及面向 agent 记忆场景的排序全文检索。适用场景包括 agent 长期记忆存储、RAG 中的稀疏检索组件、本地知识库构建，以及需要快速对大规模记录做关键词+排序检索的开发者工具链。",
+      "tags": [
+        "agent",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-10-07T03:14:27.643895+00:00"
+    },
+    {
+      "title": "AgentMemoryRepo/agentmemoryrepo",
+      "source": "github-trending",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "description": "Spec for Agent Memory Repo",
+      "stars": 570,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T23:52:20Z",
+      "summary": "AgentMemoryRepo 是一个面向 AI Agent 的记忆存储规范（Spec），旨在为 Agent 的长期记忆管理提供标准化接口与数据结构定义。当前 Agent 系统普遍面临记忆碎片化、跨会话状态丢失、记忆检索效率低等问题，该规范试图通过统一的内存模型解决这些痛点。核心技术亮点在于定义了一套可扩展的记忆存储抽象层，涵盖记忆写入、检索、更新与遗忘机制，并可能兼容 vector-database 等后端。适用场景包括多轮对话 Agent、自主任务执行 Agent 以及需要持久化上下文的多-agent 协作系统，为开发者提供可复用的记忆层设计参考。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "multi-agent",
+        "vector-database"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:29.319259+00:00"
+    },
+    {
+      "title": "zzzz7788990213-ops/EvoVLM",
+      "source": "github-trending",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "stars": 506,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-02T01:04:42Z",
+      "summary": "EvoVLM 是一个基于 LLM 引导进化搜索的多模态推理程序优化框架，旨在自动发现高精度且高效的视觉语言推理流程。它解决的核心问题是：现有 VLM 推理管线依赖人工设计，难以在精度与效率间取得最优平衡。其技术亮点在于将推理程序视为可进化对象，利用 LLM 生成候选程序变体，并通过进化搜索迭代优化，实现自动化程序合成与调优。适用场景包括多模态 Agent 构建、VLM 推理加速、以及需要自动化 prompt/流程工程的视觉语言任务。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "prompt-engineering",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-07T03:14:30.844670+00:00"
+    },
+    {
+      "title": "whirlchat/whirl",
+      "source": "github-trending",
+      "url": "https://github.com/whirlchat/whirl",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "stars": 490,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm",
+        "nextjs",
+        "openrouter",
+        "react",
+        "self-hosted",
+        "typescript"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-05T07:19:29Z",
+      "summary": "Whirl 是一款注重细节体验的开源 AI 聊天应用，基于 TypeScript 构建，后端采用 Convex。它聚合了当前主流大模型，并内置真实记忆机制、可动态更新的 living documents 以及用户自定义工具接入能力，试图解决通用聊天客户端在上下文持久化、知识管理和工具扩展上的割裂问题。技术亮点在于以 Convex 实现响应式数据同步，将对话、记忆与文档统一为可实时更新的状态层，同时支持多模型切换与工具调用。适用场景包括个人知识助手、多模型对比测试、需要长期记忆与自定义工具链的 AI 工作流搭建。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-10-07T03:14:32.586954+00:00"
+    },
+    {
+      "title": "DozenTwelve/Papermorph",
+      "source": "github-trending",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": 459,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T12:33:37Z",
+      "summary": "Papermorph 是一个基于 AI 的开源技能项目，能将静态书籍内容转化为带动画、旁白和交互的网页体验。它解决的核心问题是传统电子书阅读形式单一、缺乏沉浸感与互动性，通过将文本自动拆解为叙事场景并生成动画与语音旁白，实现从纯文本到多模态交互内容的转换。技术亮点在于结合 LLM 进行内容理解与场景编排，并利用 HTML 前端能力渲染动态交互页面，形成端到端的自动化内容再创作流程。适用场景包括数字出版、教育内容制作、儿童绘本互动化以及个人知识分享的富媒体呈现。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-07T03:14:34.235495+00:00"
+    },
+    {
+      "title": "allenv0/SCM",
+      "source": "github-trending",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "stars": 412,
+      "language": "JavaScript",
+      "topics": [
+        "electron",
+        "transformers-js",
+        "video-processing",
+        "vlms"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-05T05:49:45Z",
+      "summary": "SCM 是一款 macOS 桌面应用，基于 Electron 与 Transformers.js 构建，为本地任意文件夹中的照片和视频提供深度 AI 语义搜索。它解决传统文件名/元数据检索无法理解画面内容的问题，用户可用自然语言描述直接定位目标帧或图片。核心技术亮点在于将 VLM（视觉语言模型）与视频逐帧处理管线集成到本地运行环境，无需上传云端即可完成多模态嵌入与检索。适用场景包括个人媒体库管理、视频素材快速定位、隐私敏感的内容检索，以及需要离线运行的创意工作流。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-07T03:14:35.604462+00:00"
+    },
+    {
+      "title": "shinshin86/mesh-avatar-studio",
+      "source": "github-trending",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "stars": 401,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T23:18:34Z",
+      "summary": "mesh-avatar-studio 是一个基于 TypeScript 的开源工具，通过 coding agent（支持 Claude Code、Codex）将单张插画自动转换为可动画的 2D mesh avatar，并提供本地编辑器进行微调。它解决了传统 2D 角色动画制作门槛高、需手动绑定骨骼与网格变形的问题，核心亮点在于利用 LLM agent 自动完成网格生成与变形参数推断，结合本地可视化编辑器实现人机协作式动画制作。适用场景包括独立游戏开发、VTuber 虚拟形象快速原型、社交媒体动态头像生成，以及需要低成本 2D 角色动画的创意工作流。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-07T03:14:37.556224+00:00"
+    },
+    {
+      "title": "genex-games/genex-desktop",
+      "source": "github-trending",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "stars": 381,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T21:15:37Z",
+      "summary": "genex-desktop 是一款面向游戏开发的桌面应用，将 AI 能力嵌入游戏开发工作流。它解决的是游戏开发者在编写代码、生成素材、调试逻辑等环节中频繁切换工具、缺乏统一 AI 辅助入口的问题。核心技术亮点在于以 TypeScript 构建跨平台桌面客户端，集成 AI 辅助能力（推测涉及 code-generation 与 ai-assistant 能力），支持 macOS 与 Linux，Windows 版本即将推出。适用场景包括独立游戏开发者、小型游戏工作室的日常开发流程，尤其适合需要 AI 辅助快速原型设计与代码生成的场景。当前项目处于早期阶段，Star 数 381，生态与文档成熟度有待观察。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-07T03:14:39.173494+00:00"
+    },
+    {
+      "title": "Adolanium/hermes-gadget-sdk",
+      "source": "github-trending",
+      "url": "https://github.com/Adolanium/hermes-gadget-sdk",
+      "description": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator.",
+      "stars": 302,
+      "language": "C++",
+      "topics": [
+        "cpp17",
+        "embedded",
+        "esp-idf",
+        "esp32",
+        "esp32-s3",
+        "hermes-agent",
+        "iot",
+        "linux",
+        "push-to-talk",
+        "python",
+        "raspberry-pi",
+        "sdk",
+        "simulator",
+        "voice-assistant",
+        "websocket"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T20:38:40Z",
+      "summary": "Hermes Agent 的语音与文本硬件开发套件，提供 ESP32 固件、Linux 客户端和桌面模拟器，让开发者能为 AI Agent 构建实体交互设备。解决的是 LLM Agent 缺乏低成本、可定制的物理输入输出终端问题。核心亮点在于 C++17 与 ESP-IDF 的嵌入式实现，覆盖 ESP32-S3 平台，同时提供桌面模拟器降低开发调试门槛。适用于智能音箱、语音助手硬件、嵌入式 AI 交互终端等场景。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:40.818160+00:00"
+    },
+    {
+      "title": "BootLoops-ai/bootloops",
+      "source": "github-trending",
+      "url": "https://github.com/BootLoops-ai/bootloops",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "stars": 296,
+      "language": "Python",
+      "topics": [
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-05T14:16:54Z",
+      "summary": "BootLoops 1.0 是一套面向精确与高精度物理及定量科学的认证计算工具与自研引擎，专为 LLM agent 驱动而设计。它解决的核心问题是：通用 LLM 在费曼积分、高精度数值计算等专业物理场景中缺乏可靠、可验证的计算后端。技术亮点在于将认证计算工具与 house engines 封装为 agent 可调用的接口，覆盖 feynman-integrals 等硬核科学计算任务，并采用 MIT 与 CC BY 4.0 双许可。适用场景包括 AI 辅助理论物理研究、自动化符号与数值计算流程、以及科学计算 agent 的构建与评测。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "scientific-computing",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-07T03:14:42.223982+00:00"
+    },
+    {
+      "title": "arielshad/3d-asset-server",
+      "source": "github-trending",
+      "url": "https://github.com/arielshad/3d-asset-server",
+      "description": "3d assets api and mcp",
+      "stars": 247,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T19:39:02Z",
+      "summary": "arielshad/3d-asset-server 是一个基于 TypeScript 构建的 3D 资产 API 服务，同时提供 MCP（Model Context Protocol）接口，使 LLM 与 AI Agent 能够直接检索、调用和管理 3D 模型资源。它解决了 AI 应用在 3D 内容生成、游戏开发、AR/VR 场景中缺乏标准化资产访问通道的问题。核心技术亮点在于将 3D 资产管理封装为 MCP Server，让 Claude、Cursor 等支持 MCP 的客户端通过 tool-use 方式无缝接入外部 3D 资产库，实现自然语言驱动的资产搜索与加载。适用场景包括 AI 辅助 3D 建模、游戏原型快速搭建、多模态 Agent 工作流以及需要动态调用 3D 资源的自动化管线。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:44.135086+00:00"
+    },
+    {
+      "title": "trevaintdead/ai-game-modding-guides",
+      "source": "github-trending",
+      "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+      "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+      "stars": 221,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-06T13:52:05Z",
+      "summary": "该项目是面向游戏 Mod 开发者的 AI 编码代理实战指南集合，系统讲解如何借助 AI coding agents 构建游戏 Mod。内容覆盖 passthrough mods（透传式 Mod）、Rust 重写、Mod loader 集成、prompting 策略与故障排查等关键环节，解决开发者在游戏逆向与 Mod 工程中缺乏 AI 辅助工作流参考的问题。核心技术亮点在于将 LLM 代理能力与游戏 Mod 开发流程结合，提供可复用的提示词模式与工程化实践。适用于希望用 AI 加速游戏 Mod 开发、学习 Rust 重写或构建 Mod loader 的工程师。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-07T03:14:45.855608+00:00"
+    },
+    {
+      "title": "joeseesun/qiaomu-clipper",
+      "source": "github-trending",
+      "url": "https://github.com/joeseesun/qiaomu-clipper",
+      "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+      "stars": 218,
+      "language": "TypeScript",
+      "topics": [
+        "ai-chat",
+        "chrome-extension",
+        "markdown",
+        "obsidian",
+        "obsidian-clipper",
+        "read-later",
+        "rss",
+        "typescript",
+        "web-clipper"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-07T00:10:11Z",
+      "summary": "qiaomu-clipper 是一款基于 TypeScript 开发的 Chrome 扩展，将网页内容剪藏至 Obsidian 笔记库，并支持在 Obsidian 内直接阅读、编辑剪藏内容，同时通过集成 AI 对话能力对剪藏内容进行提问与交互。它解决了网页信息碎片化、知识管理工具与 AI 能力割裂的问题，核心亮点在于将剪藏、Markdown 存储与 AI chat 无缝串联，形成从采集到理解的工作流闭环。适用场景包括个人知识管理、研究资料整理、AI 辅助阅读与笔记增强，尤其适合 Obsidian 重度用户和需要快速消化网页信息的 AI 工程师。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:47.401752+00:00"
+    },
+    {
+      "title": "mariagorskikh/open-instinct",
+      "source": "github-trending",
+      "url": "https://github.com/mariagorskikh/open-instinct",
+      "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
+      "stars": 216,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "composio",
+        "imessage",
+        "inkbox",
+        "instinct",
+        "maritime",
+        "open-source",
+        "personal-assistant",
+        "typescript"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-05T21:50:37Z",
+      "summary": "Open Instinct 是一个基于 TypeScript 的开源个人 AI agent 项目，用户可通过 iMessage 直接与其对话，agent 拥有独立的计算机环境，并能与其他 agent 组成可信网络协同工作。项目旨在解决个人 AI 助手缺乏持久运行环境与多 agent 协作能力的问题，让 agent 真正成为可随时短信联系的\"数字分身\"。核心技术栈包括 Pi、Inkbox、Maritime 和 Composio，其中 Composio 负责工具调用与集成，Inkbox 提供 iMessage 通信能力，Maritime 支撑 agent 网络协作。适用场景包括个人任务自动化、跨 agent 协作工作流以及基于消息界面的 AI 助手开发。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-07T03:14:49.169819+00:00"
+    },
+    {
+      "title": "heise3/academic-deai",
+      "source": "github-trending",
+      "url": "https://github.com/heise3/academic-deai",
+      "description": "Model-agnostic Chinese and English academic editing for the latest models across Agent platforms. Reduce formulaic prose while preserving evidence and author voice.",
+      "stars": 209,
+      "language": "Python",
+      "topics": [
+        "academic-writing",
+        "agent-skills",
+        "bilingual",
+        "scientific-writing",
+        "writing-assistant"
+      ],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-04T09:53:02Z",
+      "summary": "academic-deai 是一个模型无关的中英文学术编辑工具，通过 Agent 平台技能（agent-skills）形式接入最新大模型，帮助研究者去除 AI 生成文本中的公式化表达与套路化措辞。其核心亮点在于保留证据链与作者个人声音的前提下进行风格改写，而非简单同义替换，并同时支持中英双语学术写作场景。适用于论文投稿前的语言润色、审稿回复、以及需要规避 AI 检测痕迹的学术写作流程，可跨 Agent 平台复用。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:51.067269+00:00"
+    },
+    {
+      "title": "empero-org/brewery-ai",
+      "source": "github-trending",
+      "url": "https://github.com/empero-org/brewery-ai",
+      "description": "An intuitive console agent to fine-tune AI models with little to no experience required! ",
+      "stars": 194,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-05T09:39:32Z",
+      "summary": "brewery-ai 是一个基于控制台的交互式 agent 工具，旨在让零基础用户也能完成 AI 模型的 fine-tuning 流程。它通过对话式界面封装了数据准备、训练配置、超参选择和任务监控等步骤，降低了 fine-tuning 的技术门槛。核心技术亮点在于将 agent 交互与训练工作流自动化结合，用户无需编写训练脚本即可启动微调任务。适用场景包括个人开发者快速验证模型微调想法、小型团队在缺乏 ML 工程经验时进行领域适配，以及教学演示中的 fine-tuning 入门实践。",
+      "tags": [
+        "fine-tuning",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:52.512793+00:00"
+    },
+    {
+      "title": "telepath-computer/television",
+      "source": "github-trending",
+      "url": "https://github.com/telepath-computer/television",
+      "description": "The missing GUI for personal agents. Television gives you and your agent a visual space for creating and working with artifacts. ",
+      "stars": 191,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-07T03:14:19.436126+00:00",
+      "published_at": "2026-10-07T02:10:38Z",
+      "summary": "Television 是面向个人 AI agent 的图形界面工具，由 telepath-computer 团队开源，使用 TypeScript 编写。它解决了当前个人 agent 缺乏可视化交互空间的问题——用户与 agent 协作时往往只能通过命令行或聊天窗口操作，难以直观地创建、管理和迭代各类 artifact（如文档、代码、结构化数据）。Television 提供了一个共享的视觉工作区，让人类和 agent 在同一空间内对 artifact 进行创建与操作，核心亮点在于将 agent 能力与 GUI 交互结合，降低非技术用户的使用门槛。适用场景包括个人知识管理、agent 辅助内容创作、以及需要人机协同编辑 artifact 的工作流。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-07T03:14:54.569731+00:00"
+    }
+  ]
+}
