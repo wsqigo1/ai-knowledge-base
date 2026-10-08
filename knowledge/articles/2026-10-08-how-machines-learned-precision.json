@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-08-014",
+  "title": "How machines learned precision",
+  "source": "hackernews-top",
+  "url": "https://glinscott.github.io/how-machines-learned-precision/",
+  "summary": "该文章探讨了机器如何学会精确性（precision），从早期数值计算到现代深度学习中的浮点精度管理。它解决了训练和推理过程中精度选择对模型性能、内存占用与计算效率的权衡问题，核心技术亮点包括混合精度训练、量化感知训练以及硬件对低精度格式（如FP16、BF16、INT8）的支持。适用场景涵盖大规模模型训练、边缘端推理部署以及需要平衡速度与准确率的AI工程实践。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:31:05.513559+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

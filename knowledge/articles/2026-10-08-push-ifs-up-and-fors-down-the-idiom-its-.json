@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-08-010",
+  "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+  "source": "hackernews-top",
+  "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+  "summary": "该文讨论编译器优化中的经典惯用法「Push ifs up and fors down」，即把条件判断上提到循环外层、把循环下沉到条件分支内部，以减少重复判断并提升执行效率。文章从代数视角形式化该变换的等价条件，分析其在副作用、边界条件、嵌套控制流下的适用边界与失效情形。核心亮点在于将工程直觉提炼为可验证的代数规则，并给出何时该变换会破坏语义或反而降低性能。适合编译器开发者、性能优化工程师及对程序变换理论感兴趣的研究者阅读。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:30:56.986323+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

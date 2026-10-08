@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-08-009",
+  "title": "Docker Agent",
+  "source": "hackernews-top",
+  "url": "https://github.com/docker/docker-agent",
+  "summary": "Docker Agent 是 Docker 官方推出的开源 AI Agent 框架，旨在将容器化能力与 LLM 驱动的自动化工作流结合。它解决的核心问题是：让 AI Agent 能够安全、可复现地调用 Docker 容器执行代码、管理服务、操作文件系统等真实环境任务，而非仅停留在文本生成层面。技术亮点包括基于 MCP（Model Context Protocol）的工具调用机制、容器沙箱隔离保障执行安全、以及与 Docker 生态的原生集成。适用场景涵盖自动化运维、CI/CD 流程增强、代码生成与执行验证、以及需要隔离环境的 Agent 开发测试。",
+  "tags": [
+    "agent",
+    "mcp",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:30:55.355143+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

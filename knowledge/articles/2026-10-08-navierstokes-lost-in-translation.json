@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-08-013",
+  "title": "Navier–Stokes Lost in Translation",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2610.08144",
+  "summary": "该条目讨论 Navier–Stokes 方程在数值求解与理论分析之间的「翻译」鸿沟，即数学理论（如正则性、湍流级联）与工程计算（CFD 离散格式、稳定性）之间的语义错位。核心问题在于：同一方程在纯数学语境与工程仿真语境下被赋予不同假设与目标，导致结论难以互通。技术亮点在于揭示跨学科建模中的概念映射失真，并可能提出统一框架或反例。适用场景为计算流体力学、数值分析、科学机器学习（SciML）及物理信息神经网络（PINN）研究者，帮助其避免理论假设与工程实现间的隐性冲突。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:31:03.796350+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

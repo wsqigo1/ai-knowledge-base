@@ -1,7 +1,268 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2448,
+  "total_count": 2465,
   "entries": [
+    {
+      "id": "kb-2026-10-08-001",
+      "title": "jiwoochris/artex-ko",
+      "source": "github-trending",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "file": "2026-10-08-jiwoochrisartex-ko.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "tool-use",
+        "cybersecurity"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-002",
+      "title": "openqodex/openqodex",
+      "source": "github-trending",
+      "url": "https://github.com/openqodex/openqodex",
+      "file": "2026-10-08-openqodexopenqodex.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-003",
+      "title": "cosscom/shipyard",
+      "source": "github-trending",
+      "url": "https://github.com/cosscom/shipyard",
+      "file": "2026-10-08-cosscomshipyard.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-004",
+      "title": "LosaLosSantos/aurelio-finance",
+      "source": "github-trending",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "file": "2026-10-08-losalossantosaurelio-finance.json",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-005",
+      "title": "Claude Haiku 5.5",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "file": "2026-10-08-claude-haiku-55.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-006",
+      "title": "Margaret Hamilton has died",
+      "source": "hackernews-top",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "file": "2026-10-08-margaret-hamilton-has-died.json",
+      "tags": [
+        "open-source",
+        "agent",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-007",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "file": "2026-10-08-gpt6-and-intelligent-ui-for-everyone.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-008",
+      "title": "Shipping JPEG XL in Chrome",
+      "source": "hackernews-top",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "file": "2026-10-08-shipping-jpeg-xl-in-chrome.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-009",
+      "title": "Docker Agent",
+      "source": "hackernews-top",
+      "url": "https://github.com/docker/docker-agent",
+      "file": "2026-10-08-docker-agent.json",
+      "tags": [
+        "agent",
+        "mcp",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-010",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "source": "hackernews-top",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "file": "2026-10-08-push-ifs-up-and-fors-down-the-idiom-its-.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-011",
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "source": "hackernews-top",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "file": "2026-10-08-a-new-write-and-space-optimized-storage-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-012",
+      "title": "Animated ASCII Art for Web Pages",
+      "source": "hackernews-top",
+      "url": "https://ascii.rest/",
+      "file": "2026-10-08-animated-ascii-art-for-web-pages.json",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-013",
+      "title": "Navier–Stokes Lost in Translation",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "file": "2026-10-08-navierstokes-lost-in-translation.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-014",
+      "title": "How machines learned precision",
+      "source": "hackernews-top",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "file": "2026-10-08-how-machines-learned-precision.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-015",
+      "title": "Google Playground: Create and play custom games",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "file": "2026-10-08-google-playground-create-and-play-custom.json",
+      "tags": [
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-016",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "source": "hackernews-top",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "file": "2026-10-08-meta-and-microsoft-take-steps-to-reduce-.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
+    {
+      "id": "kb-2026-10-08-017",
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "source": "hackernews-top",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "file": "2026-10-08-god-of-war-on-psp-recompiled-to-webassem.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-08T03:31:18.821773+00:00"
+    },
     {
       "id": "kb-2026-10-07-001",
       "title": "genex-games/genex-desktop",
@@ -36709,5 +36970,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-07T03:15:30.834752+00:00"
+  "last_updated": "2026-10-08T03:31:19.055442+00:00"
 }

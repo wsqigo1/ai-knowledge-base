@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-08-017",
+  "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+  "source": "hackernews-top",
+  "url": "https://github.com/snuri00/psp-web-recomp",
+  "summary": "该项目将 PSP 平台的《战神》（God of War）游戏通过静态重编译（static recompilation）技术转换为 WebAssembly，使其直接在浏览器中运行。它解决的核心问题是：传统模拟器需要逐指令解释执行，性能开销大，而重编译将 MIPS 指令预先翻译为目标平台原生代码，大幅提升执行效率。技术亮点包括 MIPS 到 WASM 的指令级翻译、PSP 硬件（GPU、音频、输入）的 Web API 映射，以及浏览器端实时渲染管线。适用场景为复古游戏 preservation、浏览器端游戏模拟研究，以及 WASM 在复杂实时系统中的应用探索。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:31:17.331073+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

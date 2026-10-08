@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-08-005",
+  "title": "Claude Haiku 5.5",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/claude-haiku-5-5",
+  "summary": "Claude Haiku 5.5 是 Anthropic 推出的轻量级大语言模型新版本，定位为高性价比、低延迟的推理引擎。它主要解决开发者在成本敏感场景下对快速响应与足够智能的双重需求，通过架构优化在保持接近旗舰模型推理能力的同时大幅压缩计算开销。核心技术亮点包括更高效的 token 处理、改进的指令遵循能力以及增强的 tool-use 支持，适合 agent 工作流、实时对话系统、代码补全和批量文本处理等对延迟和成本敏感的生产环境。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:30:46.003070+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

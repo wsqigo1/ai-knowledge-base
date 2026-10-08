@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-08-011",
+  "title": "A new write and space optimized storage engine for MySQL is here",
+  "source": "hackernews-top",
+  "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+  "summary": "MySQL 生态迎来一款新的写入与空间优化存储引擎，旨在解决传统 InnoDB 在高写入吞吐与存储成本上的瓶颈。其核心技术亮点在于针对写入路径和磁盘空间占用做了专门优化，可能涉及 LSM-tree 或类似结构以提升写放大表现。该引擎适用于写密集型、存储敏感型业务场景，如日志、时序或大规模 OLTP 负载。对 AI 工程师而言，若涉及大规模数据管道或特征存储，可作为底层存储选型参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:30:58.556670+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

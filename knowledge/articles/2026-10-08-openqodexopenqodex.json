@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-08-002",
+  "title": "openqodex/openqodex",
+  "source": "github-trending",
+  "url": "https://github.com/openqodex/openqodex",
+  "summary": "OpenQodex 是一款面向 Claude Code 和 Codex 的开源 AI 代码审查工具，在代码 push 前自动运行。它先通过 SAST、密钥扫描、依赖检查和 lint 等扫描器分析变更行，再由独立的 reviewer 进程逐一核查扫描发现，并获取全部变更行上下文，从而减少误报。核心亮点在于多扫描器与 AI reviewer 的分层协作，且无需额外 API key，直接复用现有 AI 编码工具能力。适用于使用 Claude Code 或 Codex 的开发者，在提交前进行本地化、低成本的自动化代码质量与安全把关。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-08T03:30:09.787967+00:00",
+  "analyzed_at": "2026-10-08T03:30:35.620028+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

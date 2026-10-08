@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-08-001",
+  "title": "jiwoochris/artex-ko",
+  "source": "github-trending",
+  "url": "https://github.com/jiwoochris/artex-ko",
+  "summary": "ARTEX 韩语本地化版本，基于上游 Autumn-27/ARTEX 项目，是一个 AI 自主渗透测试框架。该项目解决的核心问题是：将原本面向英语环境的自主渗透测试 Agent 框架适配到韩语生态，降低韩国安全团队的使用门槛。核心技术亮点在于利用 AI Agent 实现自主化的渗透测试流程，涵盖侦察、漏洞探测、利用等阶段，同时涉及蓝队检测工程（detection-engineering）能力。框架使用 Go 语言开发，采用 AGPL-3.0 许可。适用场景包括红队演练、自动化安全评估、蓝队检测规则验证，以及 AI Agent 在网络安全领域的学术与工程研究。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "open-source",
+    "tool-use",
+    "cybersecurity"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-08T03:30:09.787967+00:00",
+  "analyzed_at": "2026-10-08T03:30:33.996388+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

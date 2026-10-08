@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-08-008",
+  "title": "Shipping JPEG XL in Chrome",
+  "source": "hackernews-top",
+  "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+  "summary": "Chrome 团队推进将 JPEG XL 图像格式引入浏览器的工程实践。JPEG XL 旨在统一并取代 JPEG、PNG、GIF、WebP 等旧格式，在保持无损/有损高质量的同时显著压缩体积，并支持渐进式解码、HDR、宽色域与动画。核心技术亮点在于其模块化架构、对现有 JPEG 的无损转码能力以及优于 AVIF 的压缩效率。该工作涉及解码器集成、性能与内存优化、兼容性权衡等工程问题，适用于图像密集型 Web 应用、CDN 带宽优化及浏览器渲染管线开发者参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "multimodal",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:30:53.698250+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

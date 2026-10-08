@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-08-012",
+  "title": "Animated ASCII Art for Web Pages",
+  "source": "hackernews-top",
+  "url": "https://ascii.rest/",
+  "summary": "该项目展示如何在网页中实现动态 ASCII 艺术（Animated ASCII Art），通过将图像或视频帧转换为字符矩阵并逐帧刷新，解决传统静态 ASCII 图缺乏表现力的问题。核心技术亮点在于利用 Canvas 或 WebGL 进行像素采样与字符映射，结合 requestAnimationFrame 实现流畅动画，并支持颜色、亮度与字符密度调节。适用场景包括终端风格 UI、复古网页装饰、数据可视化中的轻量级动画，以及低带宽环境下的视觉呈现。",
+  "tags": [
+    "developer-tools",
+    "multimodal",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-08T03:30:10.050077+00:00",
+  "analyzed_at": "2026-10-08T03:31:01.852027+00:00",
+  "organized_at": "2026-10-08T03:31:18.821773+00:00",
+  "status": "published"
+}

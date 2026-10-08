@@ -1,0 +1,405 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-08T03:30:11.086430+00:00",
+  "date": "2026-10-08",
+  "count": 20,
+  "items": [
+    {
+      "title": "Claude Haiku 5.5",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "hn_url": "https://news.ycombinator.com/item?id=49996437",
+      "description": "",
+      "hn_score": 727,
+      "comments": 369,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Claude Haiku 5.5 是 Anthropic 推出的轻量级大语言模型新版本，定位为高性价比、低延迟的推理引擎。它主要解决开发者在成本敏感场景下对快速响应与足够智能的双重需求，通过架构优化在保持接近旗舰模型推理能力的同时大幅压缩计算开销。核心技术亮点包括更高效的 token 处理、改进的指令遵循能力以及增强的 tool-use 支持，适合 agent 工作流、实时对话系统、代码补全和批量文本处理等对延迟和成本敏感的生产环境。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-08T03:30:46.003070+00:00"
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "source": "hackernews-top",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "hn_url": "https://news.ycombinator.com/item?id=49998895",
+      "description": "",
+      "hn_score": 922,
+      "comments": 105,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Margaret Hamilton（玛格丽特·汉密尔顿）是MIT仪器实验室软件工程部门负责人，主导开发了阿波罗登月计划的机载飞行软件，并在1960年代首次提出并推广了\"software engineering\"这一术语。她解决了航天任务中软件可靠性、优先级调度与容错恢复等核心问题，其团队设计的Apollo Guidance Computer软件在阿波罗11号登月期间成功处理了雷达数据过载告警，避免了任务中止。核心技术亮点包括异步任务优先级调度、错误检测与恢复机制，以及将软件视为工程学科的系统化方法论。该事件对AI/LLM工程师的适用场景在于：理解高可靠性系统设计、agent调度与容错机制的历史源头，以及软件工程方法论的奠基意义。",
+      "tags": [
+        "open-source",
+        "agent",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-08T03:30:47.829103+00:00"
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "source": "hackernews-top",
+      "url": "https://bigwords.page/",
+      "hn_url": "https://news.ycombinator.com/item?id=49994443",
+      "description": "",
+      "hn_score": 396,
+      "comments": 115,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Bigwords.page 是一个纯 URL 驱动的网页工具，将任意屏幕变成大字标语牌。用户无需安装 App 或注册账号，只需在 URL 中嵌入文本参数即可生成全屏大字显示页面，打开链接即用。核心技术亮点在于「URL 即应用」的极简架构：所有状态和配置编码在 URL 路径与查询参数中，服务端或纯前端渲染大字，零后端依赖、零持久化存储，天然支持跨设备分享与离线缓存。该项目与 AI/LLM 无直接关联，属于开发者工具与 Web 创意应用范畴，适合会议演示、直播互动、活动现场、远程教学等需要快速展示大号文字的场景，也体现了 HN 社区对轻量级无服务器 Web 工具的持续偏好。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-08T03:30:49.981826+00:00"
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "hn_url": "https://news.ycombinator.com/item?id=49996425",
+      "description": "",
+      "hn_score": 532,
+      "comments": 278,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目讨论 GPT-6 与面向大众的 Intelligent UI，核心在于将大语言模型能力从纯文本对话扩展到可感知、可操作的界面层，使非技术用户也能通过自然语言驱动复杂软件操作。技术亮点可能涉及多模态理解、tool-use 与 UI 自动化代理的结合，让模型直接操控界面元素完成跨应用任务。适用场景包括个人助理、企业 workflow-automation、低代码/无代码平台以及面向普通消费者的智能操作系统。HN 532 分表明社区对 LLM 驱动交互范式的高度关注，但具体实现细节与可复现性需进一步验证。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-08T03:30:51.610337+00:00"
+    },
+    {
+      "title": "Shipping JPEG XL in Chrome",
+      "source": "hackernews-top",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "hn_url": "https://news.ycombinator.com/item?id=49991227",
+      "description": "",
+      "hn_score": 504,
+      "comments": 344,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Chrome 团队推进将 JPEG XL 图像格式引入浏览器的工程实践。JPEG XL 旨在统一并取代 JPEG、PNG、GIF、WebP 等旧格式，在保持无损/有损高质量的同时显著压缩体积，并支持渐进式解码、HDR、宽色域与动画。核心技术亮点在于其模块化架构、对现有 JPEG 的无损转码能力以及优于 AVIF 的压缩效率。该工作涉及解码器集成、性能与内存优化、兼容性权衡等工程问题，适用于图像密集型 Web 应用、CDN 带宽优化及浏览器渲染管线开发者参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-08T03:30:53.698250+00:00"
+    },
+    {
+      "title": "Docker Agent",
+      "source": "hackernews-top",
+      "url": "https://github.com/docker/docker-agent",
+      "hn_url": "https://news.ycombinator.com/item?id=49996259",
+      "description": "",
+      "hn_score": 192,
+      "comments": 87,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Docker Agent 是 Docker 官方推出的开源 AI Agent 框架，旨在将容器化能力与 LLM 驱动的自动化工作流结合。它解决的核心问题是：让 AI Agent 能够安全、可复现地调用 Docker 容器执行代码、管理服务、操作文件系统等真实环境任务，而非仅停留在文本生成层面。技术亮点包括基于 MCP（Model Context Protocol）的工具调用机制、容器沙箱隔离保障执行安全、以及与 Docker 生态的原生集成。适用场景涵盖自动化运维、CI/CD 流程增强、代码生成与执行验证、以及需要隔离环境的 Agent 开发测试。",
+      "tags": [
+        "agent",
+        "mcp",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-08T03:30:55.355143+00:00"
+    },
+    {
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "source": "hackernews-top",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "hn_url": "https://news.ycombinator.com/item?id=49997073",
+      "description": "",
+      "hn_score": 115,
+      "comments": 56,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该文讨论编译器优化中的经典惯用法「Push ifs up and fors down」，即把条件判断上提到循环外层、把循环下沉到条件分支内部，以减少重复判断并提升执行效率。文章从代数视角形式化该变换的等价条件，分析其在副作用、边界条件、嵌套控制流下的适用边界与失效情形。核心亮点在于将工程直觉提炼为可验证的代数规则，并给出何时该变换会破坏语义或反而降低性能。适合编译器开发者、性能优化工程师及对程序变换理论感兴趣的研究者阅读。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-08T03:30:56.986323+00:00"
+    },
+    {
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "source": "hackernews-top",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "hn_url": "https://news.ycombinator.com/item?id=49963568",
+      "description": "",
+      "hn_score": 40,
+      "comments": 18,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "MySQL 生态迎来一款新的写入与空间优化存储引擎，旨在解决传统 InnoDB 在高写入吞吐与存储成本上的瓶颈。其核心技术亮点在于针对写入路径和磁盘空间占用做了专门优化，可能涉及 LSM-tree 或类似结构以提升写放大表现。该引擎适用于写密集型、存储敏感型业务场景，如日志、时序或大规模 OLTP 负载。对 AI 工程师而言，若涉及大规模数据管道或特征存储，可作为底层存储选型参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-08T03:30:58.556670+00:00"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984923",
+      "description": "",
+      "hn_score": 1244,
+      "comments": 1419,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目为 Hacker News 热门讨论，主题是分享 AI 在数学领域的进展。核心内容围绕如何利用大语言模型（LLM）与形式化证明工具（如 Lean、Coq）结合，辅助数学定理证明、猜想生成与自动推理。解决的核心问题是传统数学研究依赖人工推导、验证周期长，而 AI 可加速猜想探索与证明验证。技术亮点包括 reasoning 增强、形式化验证与自然语言数学问题的桥接。适用场景为数学研究辅助、自动定理证明、AI for Science 及教育工具开发。",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-10-08T03:31:00.177658+00:00"
+    },
+    {
+      "title": "Animated ASCII Art for Web Pages",
+      "source": "hackernews-top",
+      "url": "https://ascii.rest/",
+      "hn_url": "https://news.ycombinator.com/item?id=49993857",
+      "description": "",
+      "hn_score": 307,
+      "comments": 58,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该项目展示如何在网页中实现动态 ASCII 艺术（Animated ASCII Art），通过将图像或视频帧转换为字符矩阵并逐帧刷新，解决传统静态 ASCII 图缺乏表现力的问题。核心技术亮点在于利用 Canvas 或 WebGL 进行像素采样与字符映射，结合 requestAnimationFrame 实现流畅动画，并支持颜色、亮度与字符密度调节。适用场景包括终端风格 UI、复古网页装饰、数据可视化中的轻量级动画，以及低带宽环境下的视觉呈现。",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-08T03:31:01.852027+00:00"
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "hn_url": "https://news.ycombinator.com/item?id=49994145",
+      "description": "",
+      "hn_score": 268,
+      "comments": 168,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目讨论 Navier–Stokes 方程在数值求解与理论分析之间的「翻译」鸿沟，即数学理论（如正则性、湍流级联）与工程计算（CFD 离散格式、稳定性）之间的语义错位。核心问题在于：同一方程在纯数学语境与工程仿真语境下被赋予不同假设与目标，导致结论难以互通。技术亮点在于揭示跨学科建模中的概念映射失真，并可能提出统一框架或反例。适用场景为计算流体力学、数值分析、科学机器学习（SciML）及物理信息神经网络（PINN）研究者，帮助其避免理论假设与工程实现间的隐性冲突。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-08T03:31:03.796350+00:00"
+    },
+    {
+      "title": "How machines learned precision",
+      "source": "hackernews-top",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "hn_url": "https://news.ycombinator.com/item?id=49980626",
+      "description": "",
+      "hn_score": 116,
+      "comments": 57,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该文章探讨了机器如何学会精确性（precision），从早期数值计算到现代深度学习中的浮点精度管理。它解决了训练和推理过程中精度选择对模型性能、内存占用与计算效率的权衡问题，核心技术亮点包括混合精度训练、量化感知训练以及硬件对低精度格式（如FP16、BF16、INT8）的支持。适用场景涵盖大规模模型训练、边缘端推理部署以及需要平衡速度与准确率的AI工程实践。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-08T03:31:05.513559+00:00"
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "source": "hackernews-top",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "hn_url": "https://news.ycombinator.com/item?id=49992125",
+      "description": "",
+      "hn_score": 172,
+      "comments": 163,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，内容是一处售价 30 万美元的房产，其特色是附带 15 米长的地下隧道。帖子本身并非技术项目或文章，而是引发社区对房产、隧道用途（如避难所、储藏、数据中心改造等）的趣味性讨论。核心技术亮点在于 HN 社区对非典型基础设施的工程可行性、法规限制及改造潜力的发散性探讨。适用场景为对地下空间利用、极端环境基础设施或低成本房产改造感兴趣的工程师与爱好者，但直接 AI 技术相关性极低。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-08T03:31:07.182553+00:00"
+    },
+    {
+      "title": "Wood Tape (2004)",
+      "source": "hackernews-top",
+      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=49974173",
+      "description": "",
+      "hn_score": 170,
+      "comments": 22,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Wood Tape (2004) 是 HN 上被重新翻出的一个老条目，从标题与年份判断，它并非 AI/LLM 技术内容，而是 2004 年前后关于木工胶带或某种材料/工艺的讨论帖。该条目本身不解决 AI 工程问题，也无 LLM、agent、RAG 等技术亮点，其价值主要体现在 HN 社区对旧内容的怀旧式再讨论。适用场景基本局限于对早期互联网内容、材料工艺或 HN 历史帖感兴趣的人群。对 AI 工程师而言，该条目与当前技术栈几乎无直接关联，仅可作为社区文化观察样本。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-08T03:31:08.937803+00:00"
+    },
+    {
+      "title": "Google Playground: Create and play custom games",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "hn_url": "https://news.ycombinator.com/item?id=49991823",
+      "description": "",
+      "hn_score": 125,
+      "comments": 203,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Google Playground 是 Google 推出的一个允许用户创建和游玩自定义游戏的平台，用户可通过自然语言描述或可视化工具快速生成可交互的游戏内容。它主要解决传统游戏开发门槛高、原型验证周期长的问题，让非专业开发者也能快速将创意转化为可玩 demo。核心技术亮点在于结合生成式 AI 与实时渲染引擎，支持动态内容生成和即时反馈。适用场景包括游戏原型设计、教育互动、创意实验以及 AI 辅助内容生成研究。",
+      "tags": [
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-08T03:31:10.406733+00:00"
+    },
+    {
+      "title": "Anti-patterns in software blogging",
+      "source": "hackernews-top",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "hn_url": "https://news.ycombinator.com/item?id=49992257",
+      "description": "",
+      "hn_score": 218,
+      "comments": 125,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目讨论软件技术博客写作中的常见反模式（anti-patterns），属于技术写作方法论范畴。文章针对工程师在撰写技术博客时容易陷入的误区，如过度堆砌术语、缺乏真实场景、内容空洞或沦为营销软文等问题，提出识别与规避策略。核心技术亮点在于从读者视角出发，强调可复现性、代码示例质量与叙事结构，帮助开发者提升技术传播的有效性。适用场景包括技术团队文档规范、个人技术品牌建设以及开源项目文档撰写，对AI工程师输出技术内容亦有参考价值，但与AI/LLM核心技术栈关联较弱。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-08T03:31:12.227097+00:00"
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "source": "hackernews-top",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49997161",
+      "description": "",
+      "hn_score": 298,
+      "comments": 289,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "Meta 与 Microsoft 内部限制员工使用 Anthropic 的 Claude AI，转而推广自研或既有 AI 助手（如 Meta AI、Microsoft Copilot）。此举旨在解决企业数据安全、合规风险及对外部模型依赖问题，同时降低采购成本并强化内部 AI 生态。核心技术亮点在于企业级 AI 治理策略：通过访问控制、模型白名单与私有化部署，平衡员工效率与信息安全。适用场景包括大型科技公司的内部 AI 工具管理、合规敏感行业的模型选型，以及自研 AI 产品的推广策略。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-08T03:31:13.626858+00:00"
+    },
+    {
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "source": "hackernews-top",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "hn_url": "https://news.ycombinator.com/item?id=49993914",
+      "description": "",
+      "hn_score": 500,
+      "comments": 362,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目报道Visa、Mastercard及多家大型银行因涉嫌'反竞争'费用面临新的集体诉讼，指控其通过固定交换费（interchange fees）和排他性规则压制支付市场竞争。核心争议在于卡组织网络规则与商户收单费用结构是否违反反垄断法，涉及支付清算基础设施的定价机制与市场准入壁垒。技术亮点在于诉讼文件可能披露卡组织网络路由、费用清算算法及商户数据交换协议等底层运作细节。适用场景为金融科技合规、支付系统架构研究及反垄断政策分析，对AI工程师直接技术价值有限，但可作为支付领域知识补充。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-08T03:31:15.574039+00:00"
+    },
+    {
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "source": "hackernews-top",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "hn_url": "https://news.ycombinator.com/item?id=49991243",
+      "description": "",
+      "hn_score": 170,
+      "comments": 90,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该项目将 PSP 平台的《战神》（God of War）游戏通过静态重编译（static recompilation）技术转换为 WebAssembly，使其直接在浏览器中运行。它解决的核心问题是：传统模拟器需要逐指令解释执行，性能开销大，而重编译将 MIPS 指令预先翻译为目标平台原生代码，大幅提升执行效率。技术亮点包括 MIPS 到 WASM 的指令级翻译、PSP 硬件（GPU、音频、输入）的 Web API 映射，以及浏览器端实时渲染管线。适用场景为复古游戏 preservation、浏览器端游戏模拟研究，以及 WASM 在复杂实时系统中的应用探索。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-08T03:31:17.331073+00:00"
+    },
+    {
+      "title": "The art of defusing a second world war bomb",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "hn_url": "https://news.ycombinator.com/item?id=49987858",
+      "description": "",
+      "hn_score": 119,
+      "comments": 92,
+      "collected_at": "2026-10-08T03:30:10.050077+00:00",
+      "published_at": "2026-10-08T03:30:10.050077+00:00",
+      "summary": "该条目为 Hacker News 热门讨论，主题为二战遗留炸弹的排爆（defusing）技术与操作艺术，属于工程实践与历史安全领域，而非 AI/LLM 技术内容。文章可能涉及排爆流程、风险控制、历史背景及现场决策，但缺乏与 AI 工程相关的技术深度。对于 AI 工程师而言，其直接参考价值有限，仅可作为跨领域风险管理和复杂系统决策的类比素材。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-08T03:31:18.734017+00:00"
+    }
+  ]
+}
