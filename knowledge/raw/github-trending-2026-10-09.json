@@ -1,0 +1,529 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-09T03:35:27.972683+00:00",
+  "date": "2026-10-09",
+  "count": 19,
+  "items": [
+    {
+      "title": "Jakeschincariol/replica-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "stars": 1119,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-03T12:07:53Z",
+      "summary": "replica-skill 是一套面向 Claude Code 的免费 MIT 开源技能包，包含 11 个 agent skills，用于逆向分析任意应用、重建其功能、自动化测试并定位 bug，最终修复用户反馈的问题。其核心思路是将「克隆应用」拆解为可复用的 skill 工作流，借助 Claude 的代码理解与生成能力完成从逆向到修复的闭环。技术亮点在于以 skill 形式封装逆向工程与测试流程，降低 agent 编排门槛。适用于开发者快速复刻竞品、学习架构或进行遗留系统重构。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-09T03:35:29.559964+00:00"
+    },
+    {
+      "title": "mhtsec/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 977,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T13:45:54Z",
+      "summary": "ARTEX 是百度'agent+'攻防挑战赛冠军项目，基于 Go 语言构建的 AI 自主渗透测试系统。它解决传统渗透测试高度依赖人工经验、难以规模化的问题，通过 LLM 驱动的 agent 自动完成信息收集、漏洞探测与利用链编排。核心技术亮点在于将多 agent 协作与工具调用（tool-use）结合，把渗透测试流程拆解为可自主决策的子任务，并针对攻防场景做了 prompt 与推理链优化。适用于安全团队的自动化红队演练、CTF 辅助及漏洞挖掘初筛，也可作为 agent 在垂直领域落地的参考实现。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-09T03:35:31.034832+00:00"
+    },
+    {
+      "title": "jiwoochris/artex-ko",
+      "source": "github-trending",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "stars": 726,
+      "language": "Go",
+      "topics": [
+        "ai-agent",
+        "autonomous-agents",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering",
+        "i18n",
+        "korean",
+        "llm",
+        "penetration-testing",
+        "security",
+        "security-research",
+        "security-tools",
+        "sigma-rules",
+        "threat-detection"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-09T00:58:16Z",
+      "summary": "ARTEX 韩语本地化版本，基于上游 Autumn-27/ARTEX 项目，是一个 AI 自主渗透测试框架。它解决的核心问题是利用 autonomous agents 自动执行网络安全渗透测试流程，涵盖侦察、漏洞探测与利用等环节，同时面向 blue-team 提供 detection engineering 能力。技术亮点在于多 agent 协作架构与自动化攻击链编排，使用 Go 语言实现，采用 AGPL-3.0 许可。适用场景包括红蓝对抗演练、安全团队自动化渗透测试、以及 AI agent 在 cybersecurity 领域的落地研究。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "cybersecurity",
+        "autonomous-agents"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-09T03:35:32.525109+00:00"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance",
+      "source": "github-trending",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "stars": 700,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "fastapi",
+        "fintech",
+        "net-worth",
+        "personal-finance",
+        "portfolio-tracker",
+        "python",
+        "react",
+        "self-hosted",
+        "typescript",
+        "wealth-management"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T21:50:24Z",
+      "summary": "aurelio-finance 是一个自托管的个人财富分析工具，通过 FastAPI 后端与 React 前端实现投资组合与净资产追踪，并集成 AI 洞察功能。它解决了个人财务数据分散、缺乏统一分析视图的问题，让用户在不依赖第三方云服务的前提下掌握资产全貌。核心技术亮点在于将 AI 分析能力嵌入传统个人财务管理流程，结合 Python 生态的 FastAPI 提供高效 API 服务。适用场景包括个人投资者、量化爱好者以及注重数据隐私的财务管理者，用于日常资产监控与智能决策辅助。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:34.146610+00:00"
+    },
+    {
+      "title": "elstongun/leviathan",
+      "source": "github-trending",
+      "url": "https://github.com/elstongun/leviathan",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "stars": 695,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-06T01:02:17Z",
+      "summary": "Leviathan 是一个用 Rust 编写的单文件静态二进制工具，面向 agent 在大型数据集上的深度记忆检索需求。它将 JSONL、JSON、CSV/TSV、SQLite 以及各类数据库 CLI 导出的记录统一转化为带排序的全文本索引，使 agent 能对海量结构化或半结构化数据做高效检索与召回。核心亮点在于零依赖部署、单二进制运行、多格式数据源兼容，以及为 agent memory 场景优化的排序检索能力。适用于需要为 LLM agent 构建本地化、轻量级长期记忆或 RAG 检索层的工程场景，尤其适合数据格式杂乱、不便引入重型向量数据库的项目。",
+      "tags": [
+        "agent",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-10-09T03:35:35.593161+00:00"
+    },
+    {
+      "title": "AgentMemoryRepo/agentmemoryrepo",
+      "source": "github-trending",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "description": "Spec for Agent Memory Repo",
+      "stars": 650,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-06T23:52:20Z",
+      "summary": "AgentMemoryRepo 是一个面向 AI Agent 的记忆存储规范（Spec），旨在为 LLM Agent 提供标准化的长期记忆持久化与检索方案。当前 Agent 在跨会话场景中普遍缺乏统一的记忆管理接口，导致上下文丢失、状态无法复用。该项目通过定义记忆仓库的数据结构、读写协议与生命周期管理，填补了 Agent 记忆层的标准化空白。核心技术亮点在于以 Spec 形式解耦记忆存储与 Agent 框架，支持多种后端适配。适用场景包括多轮对话助手、自主任务 Agent 及需要跨会话状态保持的 workflow-automation 系统。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:37.118881+00:00"
+    },
+    {
+      "title": "DozenTwelve/Papermorph",
+      "source": "github-trending",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": 587,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-06T12:33:37Z",
+      "summary": "Papermorph 是一个基于 AI 技能（AI skill）的开源项目，将静态书籍内容转化为带动画、旁白和交互的网页体验。它解决的核心问题是传统电子书阅读形式单一、缺乏沉浸感与互动性，通过自动化生成多模态内容降低制作门槛。技术亮点在于结合 LLM 进行内容理解与脚本生成，并集成动画渲染、TTS 旁白与前端交互逻辑，形成端到端的书籍转网页流水线。项目以 HTML 为主要语言，便于浏览器直接运行和分享。适用场景包括教育内容再创作、儿童绘本互动化、个人知识库可视化以及数字出版原型验证，适合 AI 工程师探索多模态内容生成与 agent 工作流集成。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:38.963254+00:00"
+    },
+    {
+      "title": "shinshin86/mesh-avatar-studio",
+      "source": "github-trending",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "stars": 512,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-09T03:14:49Z",
+      "summary": "mesh-avatar-studio 是一个基于 TypeScript 的开源工具，通过 coding agent（支持 Claude Code、Codex）将单张插画自动转换为可动画的 2D mesh avatar。它解决了传统 2D 角色动画制作中手动绑定骨骼、网格变形门槛高的问题，让开发者无需专业动画软件即可生成可驱动的角色。核心技术亮点在于结合 LLM agent 的代码生成能力与本地编辑器，自动完成 mesh 变形（mesh-deformation）和关键帧动画配置。适用场景包括独立游戏开发、VTuber 虚拟形象快速原型、AI 驱动的角色动画工作流，以及需要低成本批量生成 2D 动画角色的应用。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-09T03:35:40.480819+00:00"
+    },
+    {
+      "title": "allenv0/SCM",
+      "source": "github-trending",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "stars": 446,
+      "language": "JavaScript",
+      "topics": [
+        "transformers-js",
+        "video-agents",
+        "video-processing",
+        "vlms",
+        "yt-dlp"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T14:41:10Z",
+      "summary": "SCM 是一款面向 macOS 的本地深度 AI 搜索工具，可对任意文件夹内的照片与视频逐帧建立语义索引，实现自然语言检索。它解决了传统文件名/元数据搜索无法理解画面内容的问题，核心技术亮点在于基于 transformers.js 在本地运行视觉语言模型（VLM），结合 yt-dlp 支持视频抓取与逐帧处理，并通过 video-agents 编排多模态检索流程，无需上传云端即可完成隐私友好的跨模态搜索。适用场景包括个人媒体库管理、视频素材快速定位、创作者内容检索以及本地多模态 RAG 原型验证。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "rag",
+        "agent"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-10-09T03:35:42.221335+00:00"
+    },
+    {
+      "title": "trevaintdead/ai-game-modding-guides",
+      "source": "github-trending",
+      "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+      "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+      "stars": 367,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T06:34:58Z",
+      "summary": "该项目是一套面向游戏模组开发的实践指南集合，核心是教开发者如何借助 AI coding agents 来构建游戏 mod。它解决的是传统游戏 mod 开发门槛高、逆向工程与代码改写耗时的问题，通过 passthrough mods、Rust 重写、mod loader 构建、prompting 策略与故障排查等章节，给出可复用的工作流。技术亮点在于将 agent 驱动的 code-generation 与游戏逆向/注入场景结合，并覆盖从提示词设计到调试的完整链路。适用场景包括游戏 mod 开发者、想用 AI agent 做底层系统改造的工程师，以及研究 agent 在真实代码库中落地边界的研究者。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-09T03:35:43.762951+00:00"
+    },
+    {
+      "title": "Adolanium/hermes-gadget-sdk",
+      "source": "github-trending",
+      "url": "https://github.com/Adolanium/hermes-gadget-sdk",
+      "description": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator.",
+      "stars": 336,
+      "language": "C++",
+      "topics": [
+        "cpp17",
+        "embedded",
+        "esp-idf",
+        "esp32",
+        "esp32-s3",
+        "hermes-agent",
+        "iot",
+        "linux",
+        "push-to-talk",
+        "python",
+        "raspberry-pi",
+        "sdk",
+        "simulator",
+        "voice-assistant",
+        "websocket"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-07T17:28:05Z",
+      "summary": "Hermes-gadget-sdk 是面向 Hermes Agent 的语音与文本硬件开发套件，提供 ESP32 固件、Linux 客户端和桌面模拟器三层实现。它解决的是 AI Agent 缺乏低成本、可定制的物理交互终端问题，让开发者无需从零搭建嵌入式语音链路即可为 Agent 接入实体设备。核心技术亮点在于基于 ESP-IDF 与 C++17 的固件架构，配合桌面模拟器实现无硬件调试，降低嵌入式开发门槛。适用场景包括智能音箱、桌面语音助手、IoT 语音控制节点等边缘 AI 交互设备原型开发。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:45.557245+00:00"
+    },
+    {
+      "title": "TannerMidd/pi-pocket",
+      "source": "github-trending",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "stars": 284,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "coding-agent",
+        "mobile",
+        "multiplayer",
+        "omarchy",
+        "pi",
+        "pi-durable",
+        "pwa",
+        "self-hosted"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T20:45:00Z",
+      "summary": "TannerMidd/pi-pocket 是一个基于 Pi Durable 构建的持久化、多人在线、移动优先的 Web 应用，专为 Pi agents 设计。它解决的核心问题是：当前多数 AI agent 工具局限于桌面端或单用户会话，缺乏移动端适配与多用户协作能力，且会话状态难以持久保存。技术亮点在于利用 Pi Durable 的持久化执行能力，实现 agent 会话状态的可靠存储与恢复，同时支持多人同时接入同一 agent 环境进行协作或观察。项目采用 TypeScript 编写，定位为 coding-agent 与通用 ai-agent 的移动化交互入口。适用场景包括：移动端 AI 编程助手、多人协同的 agent 工作流、需要长时运行且状态可恢复的 agent 任务。",
+      "tags": [
+        "ai-agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:47.271429+00:00"
+    },
+    {
+      "title": "iamlukethedev/Herald-OS",
+      "source": "github-trending",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "stars": 279,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "desktop-environment",
+        "fedora",
+        "hermes-agent",
+        "hyprland",
+        "linux",
+        "macos",
+        "niri",
+        "omarchy",
+        "operating-system"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-09T00:11:58Z",
+      "summary": "Herald-OS 是一个以 AI Agent 为原生交互范式的操作系统项目，将 Hermes Agent 作为系统级界面，运行于 Fedora + Hyprland 桌面环境之上。它试图解决的问题是：当前 AI Agent 大多作为应用层工具存在，与操作系统割裂，用户需在传统 GUI 与 Agent 对话间反复切换。其核心思路是把 Agent 提升为 OS 的一等公民，让自然语言指令直接驱动桌面环境操作与任务编排。技术栈为 TypeScript，涉及 Agent 与桌面环境的深度集成。适用场景包括：探索 Agent-native 交互范式的开发者、希望用自然语言操控 Linux 桌面的高级用户，以及研究 AI 与操作系统融合方向的研究者。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-09T03:35:49.023951+00:00"
+    },
+    {
+      "title": "arielshad/3d-asset-server",
+      "source": "github-trending",
+      "url": "https://github.com/arielshad/3d-asset-server",
+      "description": "3d assets api and mcp",
+      "stars": 268,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T13:13:02Z",
+      "summary": "arielshad/3d-asset-server 是一个基于 TypeScript 构建的 3D 资产 API 服务，同时提供 MCP（Model Context Protocol）接口，让 LLM 与 AI Agent 能够以标准化方式检索和调用 3D 模型资源。它解决的核心问题是：当前 AI 应用在涉及 3D 内容生成、游戏开发、AR/VR 场景搭建时，缺乏统一的资产访问层，模型无法直接感知或操作外部 3D 资产库。技术亮点在于将 3D 资产管理封装为 MCP Server，使 Claude、Cursor 等支持 MCP 的客户端可通过 tool-use 机制直接查询、获取 3D 资产，打通了 AI 助手与 3D 内容管线之间的链路。适用场景包括 AI 驱动的 3D 内容创作工具、游戏原型快速搭建、以及需要 LLM 调用外部 3D 资源的 Agent 工作流。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:50.986614+00:00"
+    },
+    {
+      "title": "mariagorskikh/open-instinct",
+      "source": "github-trending",
+      "url": "https://github.com/mariagorskikh/open-instinct",
+      "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
+      "stars": 261,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "composio",
+        "imessage",
+        "inkbox",
+        "instinct",
+        "maritime",
+        "open-source",
+        "personal-assistant",
+        "typescript"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-07T19:12:47Z",
+      "summary": "Open Instinct 是一个基于 TypeScript 的开源个人 AI agent 项目，用户可通过 iMessage 直接与其对话，agent 拥有独立的计算机环境，并能与其他 agent 组成可信网络协同工作。项目旨在解决个人 AI 助手缺乏持久化运行环境与多 agent 协作能力的问题。技术栈上构建于 Pi、Inkbox、Maritime 和 Composio 之上，通过 Composio 实现工具调用与外部服务集成，借助 iMessage 提供低门槛的交互入口。适用于希望拥有可编程、可扩展的个人 agent 的开发者，以及探索多 agent 协作网络的研究场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:52.582698+00:00"
+    },
+    {
+      "title": "mushigaite/short-video-maker",
+      "source": "github-trending",
+      "url": "https://github.com/mushigaite/short-video-maker",
+      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+      "stars": 255,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "ai-video-editing",
+        "ai-video-generation-api",
+        "money-printer",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker",
+        "short-video-sdk",
+        "shorts-generator"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-05T18:40:04Z",
+      "summary": "short-video-maker 是一个免费开源的 Python 项目，将 YouTube 长视频自动转化为适合短视频平台传播的竖屏短片。它针对 OpusClip、Vidyo.ai 等付费 SaaS 工具的痛点，提供无预剪辑额度限制、无水印的替代方案。核心技术涵盖高光片段检测（highlight detection）、自动字幕生成、多语言翻译与 AI voiceover 配音，形成从长视频到成片的端到端 pipeline。适用于内容创作者、自媒体运营者以及希望二次分发长视频素材的团队，可显著降低短视频批量生产的成本与门槛。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-09T03:35:54.163661+00:00"
+    },
+    {
+      "title": "heise3/academic-deai",
+      "source": "github-trending",
+      "url": "https://github.com/heise3/academic-deai",
+      "description": "Model-agnostic Chinese and English academic editing for the latest models across Agent platforms. Reduce formulaic prose while preserving evidence and author voice.",
+      "stars": 250,
+      "language": "Python",
+      "topics": [
+        "academic-writing",
+        "agent-skills",
+        "bilingual",
+        "scientific-writing",
+        "writing-assistant"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T10:49:07Z",
+      "summary": "academic-deai 是一个模型无关的中英文学术编辑工具，面向 Agent 平台上的最新模型，旨在减少学术写作中的公式化表达（AI 味），同时保留证据链与作者个人声音。其核心亮点在于跨模型兼容的 Agent 技能设计，支持双语学术润色，通过提示工程与工作流自动化实现去模板化改写。适用场景包括科研论文投稿前的语言优化、非英语母语研究者的英文写作辅助，以及需要保持学术严谨性的 AI 辅助写作流程。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-09T03:35:55.623501+00:00"
+    },
+    {
+      "title": "ThariqS/ai-newtab",
+      "source": "github-trending",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "stars": 249,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T20:56:58Z",
+      "summary": "ai-newtab 是一个基于 Claude 的浏览器新标签页扩展，通过读取用户的浏览历史，每日自动生成个性化的新标签页内容。它解决了传统新标签页信息静态、与用户实际兴趣脱节的问题，将 LLM 的生成能力与个人浏览数据结合，实现动态内容推荐。核心技术亮点在于利用 Claude 的上下文理解与生成能力，对浏览历史进行语义分析并合成每日摘要或推荐卡片。适用场景包括个人知识管理、信息聚合以及日常浏览效率提升，适合希望用 AI 重构浏览器入口体验的开发者与重度浏览器用户。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:35:57.111133+00:00"
+    },
+    {
+      "title": "OrgoAI/bops",
+      "source": "github-trending",
+      "url": "https://github.com/OrgoAI/bops",
+      "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+      "stars": 221,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "business-automation",
+        "computer-use",
+        "electron",
+        "mac-app",
+        "nextjs",
+        "open-source"
+      ],
+      "collected_at": "2026-10-09T03:35:26.304446+00:00",
+      "published_at": "2026-10-08T22:03:54Z",
+      "summary": "Bops 是 OrgoAI 推出的多智能体业务运营系统，每个 AI bot 拥有独立的计算机环境、邮箱和电话号码，可自主执行销售、客服、行政等业务操作。其核心亮点在于将 computer-use 能力与多智能体编排结合，通过 Electron 打包为 Mac 桌面应用，让非技术用户也能部署 AI 员工团队。项目以 TypeScript 实现，强调真实世界工具调用而非纯对话。适用于中小企业自动化重复性运营流程，或开发者研究多智能体协作与 computer-use 落地场景。",
+      "tags": [
+        "multi-agent",
+        "computer-use",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-09T03:35:58.463684+00:00"
+    }
+  ]
+}

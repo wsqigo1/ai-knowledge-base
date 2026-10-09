@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-09-014",
+  "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=49985548",
+  "summary": "这是 Hacker News 上的一则讨论帖，主题是「在 5 美元月租的低配 VPS 上能长期运行哪些有价值的服务」。帖子本身并非技术文章，而是社区经验分享，核心价值在于汇集了大量工程师在极低成本服务器上部署的实用方案，如自建 DNS 解析器（Pi-hole/AdGuard Home）、Uptime Kuma 监控、WireGuard 内网穿透、RSS 聚合、Telegram/Discord bot、小型 API 网关、定时任务调度等。技术亮点在于展示了如何用极有限的计算与内存资源支撑高可用常驻服务，并涉及 systemd、Docker、反向代理等运维实践。适用场景为个人开发者、homelab 爱好者、需要低成本常驻基础设施的 AI 工程师（如跑轻量 agent 调度、webhook 接收、prompt 缓存代理等）。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:16.095225+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

@@ -1,0 +1,401 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-09T03:35:27.973104+00:00",
+  "date": "2026-10-09",
+  "count": 20,
+  "items": [
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "source": "hackernews-top",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "hn_url": "https://news.ycombinator.com/item?id=50008427",
+      "description": "",
+      "hn_score": 600,
+      "comments": 133,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "Whistle 是一个仅 16.9 MB 的语音转文字（Speech to Text）开源模型，主打极小体积下的端侧语音识别能力。它解决的是传统 ASR 模型体积庞大、难以在移动端或边缘设备部署的问题。核心技术亮点在于通过模型压缩与架构优化，将语音识别能力塞进不到 17 MB 的权重文件中，同时保持可用的识别精度。适用场景包括移动端实时字幕、离线语音助手、IoT 设备语音交互以及对隐私敏感的本地语音处理。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-09T03:35:59.743694+00:00"
+    },
+    {
+      "title": "Theranos.world",
+      "source": "hackernews-top",
+      "url": "https://www.theranos.world/",
+      "hn_url": "https://news.ycombinator.com/item?id=50009295",
+      "description": "",
+      "hn_score": 324,
+      "comments": 123,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "Theranos.world 是一个在 Hacker News 上引发广泛讨论的项目，名称借用已破产的血液检测公司 Theranos，带有讽刺或警示意味。该项目具体形态需结合页面内容判断，可能是一个展示 Theranos 事件时间线、证据链或相关文档的交互式网站，也可能是一个以 Theranos 为隐喻讨论 AI 领域过度承诺与虚假宣传的技术评论项目。其核心价值在于通过可视化或结构化方式呈现一个经典的技术欺诈案例，帮助工程师理解技术叙事与真实能力之间的差距。适用场景包括技术伦理讨论、创业风险教育以及 AI 产品宣传的批判性思考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-09T03:36:01.494650+00:00"
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "source": "hackernews-top",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "hn_url": "https://news.ycombinator.com/item?id=49995495",
+      "description": "",
+      "hn_score": 478,
+      "comments": 303,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该条目报道一位用户发现其父母的智能咖啡机在10天内消耗了1TB网络流量，引发对IoT设备数据隐私与安全性的广泛讨论。问题核心在于联网家电可能持续上传遥测数据、语音片段或固件更新，甚至被恶意利用作为代理节点。技术亮点在于通过路由器流量监控定位异常设备，揭示智能家居生态中缺乏透明数据策略的隐患。适用场景包括IoT安全审计、家庭网络流量分析、智能设备隐私合规评估，对AI工程师理解边缘设备数据管道与隐私风险有参考价值。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-09T03:36:03.037462+00:00"
+    },
+    {
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "source": "hackernews-top",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "hn_url": "https://news.ycombinator.com/item?id=49986882",
+      "description": "",
+      "hn_score": 452,
+      "comments": 76,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该项目展示了一位用户聘请插画师绘制房屋插画，并将其转化为 Home Assistant 智能家居仪表盘界面的实践。它解决了传统智能家居控制面板界面单调、缺乏个性化与直观空间感的问题，让设备状态和控制入口直接映射到房屋的视觉布局上。核心技术亮点在于利用 Home Assistant 的 Lovelace 自定义卡片、图片叠加（picture-elements）或自定义面板能力，将插画作为背景，通过坐标定位把灯光、温控、传感器等实体控件锚定在对应房间位置，实现空间化交互。适用场景包括个人智能家居爱好者、Home Assistant 用户，以及希望提升家庭自动化控制体验、追求美观与实用结合的开发者。",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-10-09T03:36:04.619227+00:00"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "source": "hackernews-top",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "hn_url": "https://news.ycombinator.com/item?id=50000488",
+      "description": "",
+      "hn_score": 478,
+      "comments": 408,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "DeepSeek 4.1 Flash 是 DeepSeek 推出的新版本模型，但业界反应相对冷淡，引发 HN 讨论。该模型主要解决推理效率与成本之间的平衡问题，面向高吞吐、低延迟的 LLM 推理场景。核心技术亮点可能包括更激进的 MoE 架构、KV Cache 优化、以及针对 Flash 场景的 speculative decoding 或量化推理加速。适用场景包括大规模 API 服务、实时 ai-assistant、agent 工作流中的快速推理节点，以及成本敏感的批量推理任务。讨论焦点在于：为何性能提升未引发行业震动，可能涉及 benchmark 可信度、开源权重策略、以及市场对频繁版本迭代的疲劳。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-09T03:36:06.294732+00:00"
+    },
+    {
+      "title": "Yes, and",
+      "source": "hackernews-top",
+      "url": "https://htmx.org/essays/yes-and/",
+      "hn_url": "https://news.ycombinator.com/item?id=50003796",
+      "description": "",
+      "hn_score": 235,
+      "comments": 78,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖「Yes, and」，标题借用即兴喜剧的核心理念，探讨在 AI 交互与协作中「接纳并延伸」的思维方式。帖子本身并非具体技术项目或论文，而是一篇观点性文章，讨论如何将即兴表演中的「Yes, and」原则应用于 AI 产品设计、prompt 编写和团队协作流程，强调在对话中先接受对方输入再叠加新信息，从而提升 LLM 输出的连贯性与创造性。核心技术亮点在于将人类协作方法论迁移到 AI 交互范式，适用于 prompt-engineering、ai-assistant 设计及多轮对话系统优化。HN 235 分说明社区对这类跨领域思维方法有较高关注度。",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-09T03:36:08.070518+00:00"
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "source": "hackernews-top",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "hn_url": "https://news.ycombinator.com/item?id=50010470",
+      "description": "",
+      "hn_score": 133,
+      "comments": 42,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "这是一篇2015年的文章，探讨在沟通与写作中不直接切入主题（not getting to the point）反而具有价值的观点。文章核心论点是：迂回、铺垫、背景叙述等看似低效的表达方式，实际上有助于建立信任、传递上下文、激发思考，并在人际沟通和知识传递中发挥不可替代的作用。技术亮点在于从认知与沟通心理学角度重新审视'效率至上'的表达范式，挑战了工程文化中常见的'直奔主题'默认假设。适用场景包括技术写作、文档设计、团队沟通、演讲表达，以及对AI生成内容风格的反思——当前LLM倾向于过度简洁直接，该文提供了平衡视角。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-09T03:36:09.894173+00:00"
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "source": "hackernews-top",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "hn_url": "https://news.ycombinator.com/item?id=50011999",
+      "description": "",
+      "hn_score": 87,
+      "comments": 10,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该项目宣布了一项18亿美元的全球承诺，旨在构建AI-ready的生物数据基础设施。它解决的是生物医学领域数据碎片化、格式不统一、难以直接用于训练大模型的问题。核心技术亮点包括标准化数据格式、大规模数据清洗与标注、以及面向AI模型的数据接口设计。适用场景涵盖药物发现、基因组学分析、精准医疗等需要高质量生物数据驱动AI模型的领域。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-09T03:36:11.078844+00:00"
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "source": "hackernews-top",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "hn_url": "https://news.ycombinator.com/item?id=50011928",
+      "description": "",
+      "hn_score": 198,
+      "comments": 134,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该研究将ADHD重新定义为一种昼夜节律紊乱（circadian rhythm disorder），而非单纯的多巴胺能缺陷。核心问题是现有兴奋剂类药物仅对症且副作用明显，而昼夜节律视角提供了新的病理机制解释。技术亮点在于整合了时钟基因（CLOCK、BMAL1）表达异常、褪黑素相位延迟、睡眠-觉醒周期紊乱与执行功能缺陷之间的因果链条，并提出时间疗法（chronotherapy）干预策略，如定时光照、褪黑素时相调整和睡眠相位前移。适用场景为精神科临床辅助治疗、数字疗法产品设计及可穿戴设备睡眠干预。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-09T03:36:12.702069+00:00"
+    },
+    {
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "source": "hackernews-top",
+      "url": "https://naturalsystems.io/eth68",
+      "hn_url": "https://news.ycombinator.com/item?id=49992994",
+      "description": "",
+      "hn_score": 104,
+      "comments": 64,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "ETH-68 是一个面向 Linux 系统的以太网音频接口方案，通过标准 Ethernet 网络传输实时音频流，替代传统 USB/PCI 声卡或专用音频总线。它解决 Linux 下多通道、低延迟音频 I/O 缺乏统一网络化接口的问题，核心亮点在于利用以太网的高带宽与低抖动特性，结合 Linux ALSA/JACK 音频子系统实现网络音频设备即插即用。适用场景包括专业音频制作、多房间音频分发、嵌入式音频设备及需要远程音频采集的 Linux 工作站。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-09T03:36:14.076899+00:00"
+    },
+    {
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "hn_url": "https://news.ycombinator.com/item?id=49985548",
+      "description": "",
+      "hn_score": 141,
+      "comments": 224,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "这是 Hacker News 上的一则讨论帖，主题是「在 5 美元月租的低配 VPS 上能长期运行哪些有价值的服务」。帖子本身并非技术文章，而是社区经验分享，核心价值在于汇集了大量工程师在极低成本服务器上部署的实用方案，如自建 DNS 解析器（Pi-hole/AdGuard Home）、Uptime Kuma 监控、WireGuard 内网穿透、RSS 聚合、Telegram/Discord bot、小型 API 网关、定时任务调度等。技术亮点在于展示了如何用极有限的计算与内存资源支撑高可用常驻服务，并涉及 systemd、Docker、反向代理等运维实践。适用场景为个人开发者、homelab 爱好者、需要低成本常驻基础设施的 AI 工程师（如跑轻量 agent 调度、webhook 接收、prompt 缓存代理等）。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-09T03:36:16.095225+00:00"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "source": "hackernews-top",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "hn_url": "https://news.ycombinator.com/item?id=50005527",
+      "description": "",
+      "hn_score": 274,
+      "comments": 152,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该条目为 Hacker News 上关于 DVD 菜单设计美学的讨论帖，并非 AI/LLM 技术内容。帖子聚焦于 DVD 时代交互式菜单的视觉设计、动画过渡与导航逻辑，探讨其作为早期多媒体界面设计典范的艺术价值。核心亮点在于回顾 DVD 菜单如何在没有现代前端框架的条件下实现层级导航、动态预览和品牌化视觉呈现，对理解交互设计演进有参考意义。适用场景为 UI/UX 设计师、交互历史研究者及对多媒体界面设计感兴趣的工程师，但与当前 AI 工程技术栈无直接关联。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-09T03:36:17.886954+00:00"
+    },
+    {
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "source": "hackernews-top",
+      "url": "https://mitchellh.com/writing/program-status-osc7501",
+      "hn_url": "https://news.ycombinator.com/item?id=49984159",
+      "description": "",
+      "hn_score": 120,
+      "comments": 37,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "OSC 7501 是一个终端转义序列协议，允许程序向终端模拟器报告其运行状态（如进度、阶段、错误等），由终端统一渲染为状态栏或进度指示。它解决了 CLI 工具与 AI agent 在长时间任务中缺乏标准化状态反馈的问题，避免每个工具自行打印进度条或日志污染输出。核心技术亮点是复用 OSC（Operating System Command）扩展机制，将状态语义与显示解耦，终端可自定义呈现方式。适用场景包括 AI coding agent、构建工具、包管理器等需要向用户展示实时进度的命令行程序。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-09T03:36:19.338864+00:00"
+    },
+    {
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "source": "hackernews-top",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=50007764",
+      "description": "",
+      "hn_score": 114,
+      "comments": 26,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "StepFun 推出的 Step 5 Preview 是一款支持 1M token 上下文窗口的 MoE（Mixture of Experts）架构大语言模型，现已上线 OpenRouter 平台供开发者调用。该模型旨在解决长文档理解、大规模代码库分析和超长对话等场景中上下文窗口不足的痛点。核心技术亮点在于 MoE 架构带来的推理效率优势与百万级上下文窗口的结合，使模型在处理超长输入时仍能保持较低的计算成本。适用场景包括长文档摘要与问答、大型代码仓库分析、多轮复杂对话以及需要跨文档推理的企业级应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-09T03:36:20.640032+00:00"
+    },
+    {
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "source": "hackernews-top",
+      "url": "https://www.nature.com/articles/s41586-026-10546-z",
+      "hn_url": "https://news.ycombinator.com/item?id=49996639",
+      "description": "",
+      "hn_score": 104,
+      "comments": 6,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该条目报道了在 Diamantina 断裂带深海发现的一处距今约 530 万年的鲸类遗骸聚集地（whale necropolis），属于深海古生物学与海洋地质学交叉研究。研究通过深潜器调查和沉积物取样，揭示了多具鲸骨架在深海海底的集中埋藏现象，为理解鲸尸沉降（whale fall）生态系统的长期演化、深海化能合成群落的演替以及中新世海洋环境提供了关键证据。核心亮点在于将现代深海生态观测与古生态记录结合，拓展了人们对深海碳循环和生物地理分布的时间尺度认知。该成果适用于海洋生物学、古生态学及深海资源勘探等场景，但与 AI/LLM 工程技术无直接关联。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-09T03:36:22.298271+00:00"
+    },
+    {
+      "title": "DuckDB Ducklake",
+      "source": "hackernews-top",
+      "url": "https://github.com/duckdb/ducklake",
+      "hn_url": "https://news.ycombinator.com/item?id=49996149",
+      "description": "",
+      "hn_score": 133,
+      "comments": 17,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "DuckLake 是 DuckDB 团队提出的开放湖仓（lakehouse）格式规范，将表元数据直接存储在 DuckDB 数据库中，而非依赖外部 catalog 服务或大量小文件。它解决了传统 Iceberg/Delta Lake 元数据层复杂、依赖重（如 REST catalog、Hive Metastore）以及小文件膨胀的问题。核心亮点在于用 SQL 数据库统一管理 schema、快照与统计信息，数据文件仍存于对象存储，支持 ACID、时间旅行与多引擎互操作。适用场景包括轻量级数据湖分析、本地与云端 DuckDB 工作流，以及希望降低湖仓运维复杂度的数据工程师。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-10-09T03:36:24.024642+00:00"
+    },
+    {
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "source": "hackernews-top",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50008047",
+      "description": "",
+      "hn_score": 124,
+      "comments": 23,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该项目展示如何用可编程 LED 灯丝（如 WS2812/NeoPixel 类）制作一件可发光的柔性霓虹 T 恤，属于硬件创客与可穿戴电子方向。它解决的是传统 EL 冷光线只能整条单色、无法逐点编程控制的问题，通过将 LED 灯丝缝入布料并配合微控制器（如 Arduino/ESP32）实现动态光效。核心技术亮点在于柔性电路与织物集成、电源走线布局以及灯丝弯折后的可靠性处理。适用场景为可穿戴艺术、舞台表演服装、创客教育与 DIY 电子项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-10-09T03:36:25.948518+00:00"
+    },
+    {
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "source": "hackernews-top",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "hn_url": "https://news.ycombinator.com/item?id=50014150",
+      "description": "",
+      "hn_score": 23,
+      "comments": 3,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "Edi Life OS 是一个自托管的个人生活仪表盘项目，通过内置 MCP（Model Context Protocol）服务器将个人数据暴露给 AI 助手。它解决的核心问题是：个人生活数据（日程、任务、健康、笔记等）分散在各类 SaaS 工具中，AI 无法直接访问和操作这些上下文。技术亮点在于采用 MCP 标准协议，让 Claude 等支持 MCP 的 LLM 客户端能以 tool-use 方式读写本地数据，实现自然语言驱动的个人管理。适用场景包括注重数据隐私的自托管用户、希望用 AI agent 统一管理个人工作流的开发者，以及探索 MCP 协议落地的工程师。",
+      "tags": [
+        "mcp",
+        "open-source",
+        "tool-use",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-09T03:36:27.491480+00:00"
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "source": "hackernews-top",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "hn_url": "https://news.ycombinator.com/item?id=50007993",
+      "description": "",
+      "hn_score": 43,
+      "comments": 6,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "Jevman 是一个在 Hacker News 上展示的开源项目，让 AI 决策模型直接玩 Pac-Man 游戏。它解决的核心问题是：如何为 AI agent 提供一个可交互、可观测的决策环境，以验证和比较不同决策模型在动态、实时、有对抗性的场景中的表现。技术亮点在于将经典游戏 Pac-Man 作为轻量级 benchmark，通过游戏状态作为输入、动作作为输出，构建闭环的 agent 决策流程，可能涉及强化学习或基于规则的策略模型。适用场景包括 AI agent 教学演示、决策模型快速原型验证、以及作为强化学习入门实验平台。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-09T03:36:29.192501+00:00"
+    },
+    {
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "source": "hackernews-top",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "hn_url": "https://news.ycombinator.com/item?id=49998992",
+      "description": "",
+      "hn_score": 113,
+      "comments": 51,
+      "collected_at": "2026-10-09T03:35:26.528233+00:00",
+      "published_at": "2026-10-09T03:35:26.528233+00:00",
+      "summary": "该条目讨论考古学家如何重建石器时代难以直接保存的'隐形'技术，如有机工具、绳索、容器等。核心问题在于传统考古依赖耐久材料（石器、骨骼），而大量使用木材、纤维、皮革的技术痕迹已消失。研究通过微痕分析、实验考古、残留物检测和3D建模等手段，从间接证据推断制作工艺与使用方式。技术亮点包括跨学科方法整合与数字化重建。适用场景为考古学、人类学及古代技术史研究，与AI/LLM工程无直接关联。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-09T03:36:30.983025+00:00"
+    }
+  ]
+}

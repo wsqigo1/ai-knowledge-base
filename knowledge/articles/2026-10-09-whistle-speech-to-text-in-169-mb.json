@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-09-007",
+  "title": "Whistle: Speech to Text in 16.9 MB",
+  "source": "hackernews-top",
+  "url": "https://cactuscompute.com/blog/whistle",
+  "summary": "Whistle 是一个仅 16.9 MB 的语音转文字（Speech to Text）开源模型，主打极小体积下的端侧语音识别能力。它解决的是传统 ASR 模型体积庞大、难以在移动端或边缘设备部署的问题。核心技术亮点在于通过模型压缩与架构优化，将语音识别能力塞进不到 17 MB 的权重文件中，同时保持可用的识别精度。适用场景包括移动端实时字幕、离线语音助手、IoT 设备语音交互以及对隐私敏感的本地语音处理。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:35:59.743694+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

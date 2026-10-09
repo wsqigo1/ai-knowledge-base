@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-09-009",
+  "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+  "source": "hackernews-top",
+  "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+  "summary": "该项目展示了一位用户聘请插画师绘制房屋插画，并将其转化为 Home Assistant 智能家居仪表盘界面的实践。它解决了传统智能家居控制面板界面单调、缺乏个性化与直观空间感的问题，让设备状态和控制入口直接映射到房屋的视觉布局上。核心技术亮点在于利用 Home Assistant 的 Lovelace 自定义卡片、图片叠加（picture-elements）或自定义面板能力，将插画作为背景，通过坐标定位把灯光、温控、传感器等实体控件锚定在对应房间位置，实现空间化交互。适用场景包括个人智能家居爱好者、Home Assistant 用户，以及希望提升家庭自动化控制体验、追求美观与实用结合的开发者。",
+  "tags": [
+    "workflow-automation",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:04.619227+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

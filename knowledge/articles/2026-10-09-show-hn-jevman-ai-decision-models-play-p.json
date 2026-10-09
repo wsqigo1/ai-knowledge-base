@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-09-019",
+  "title": "Show HN: Jevman – AI decision models play Pac-Man",
+  "source": "hackernews-top",
+  "url": "https://opper.ai/jevman-benchmark/",
+  "summary": "Jevman 是一个在 Hacker News 上展示的开源项目，让 AI 决策模型直接玩 Pac-Man 游戏。它解决的核心问题是：如何为 AI agent 提供一个可交互、可观测的决策环境，以验证和比较不同决策模型在动态、实时、有对抗性的场景中的表现。技术亮点在于将经典游戏 Pac-Man 作为轻量级 benchmark，通过游戏状态作为输入、动作作为输出，构建闭环的 agent 决策流程，可能涉及强化学习或基于规则的策略模型。适用场景包括 AI agent 教学演示、决策模型快速原型验证、以及作为强化学习入门实验平台。",
+  "tags": [
+    "agent",
+    "benchmark",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:29.192501+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

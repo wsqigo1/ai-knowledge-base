@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-09-016",
+  "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+  "source": "hackernews-top",
+  "url": "https://openrouter.ai/stepfun/step-5-preview",
+  "summary": "StepFun 推出的 Step 5 Preview 是一款支持 1M token 上下文窗口的 MoE（Mixture of Experts）架构大语言模型，现已上线 OpenRouter 平台供开发者调用。该模型旨在解决长文档理解、大规模代码库分析和超长对话等场景中上下文窗口不足的痛点。核心技术亮点在于 MoE 架构带来的推理效率优势与百万级上下文窗口的结合，使模型在处理超长输入时仍能保持较低的计算成本。适用场景包括长文档摘要与问答、大型代码仓库分析、多轮复杂对话以及需要跨文档推理的企业级应用。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:20.640032+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

@@ -1,7 +1,299 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2465,
+  "total_count": 2484,
   "entries": [
+    {
+      "id": "kb-2026-10-09-001",
+      "title": "mhtsec/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "file": "2026-10-09-mhtsecartex.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-002",
+      "title": "TannerMidd/pi-pocket",
+      "source": "github-trending",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "file": "2026-10-09-tannermiddpi-pocket.json",
+      "tags": [
+        "ai-agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-003",
+      "title": "iamlukethedev/Herald-OS",
+      "source": "github-trending",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "file": "2026-10-09-iamlukethedevherald-os.json",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-004",
+      "title": "mushigaite/short-video-maker",
+      "source": "github-trending",
+      "url": "https://github.com/mushigaite/short-video-maker",
+      "file": "2026-10-09-mushigaiteshort-video-maker.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-005",
+      "title": "ThariqS/ai-newtab",
+      "source": "github-trending",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "file": "2026-10-09-thariqsai-newtab.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-006",
+      "title": "OrgoAI/bops",
+      "source": "github-trending",
+      "url": "https://github.com/OrgoAI/bops",
+      "file": "2026-10-09-orgoaibops.json",
+      "tags": [
+        "multi-agent",
+        "computer-use",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-007",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "source": "hackernews-top",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "file": "2026-10-09-whistle-speech-to-text-in-169-mb.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-008",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "source": "hackernews-top",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "file": "2026-10-09-man-discovers-his-parents-coffee-machine.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-009",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "source": "hackernews-top",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "file": "2026-10-09-i-hired-an-illustrator-to-draw-my-house-.json",
+      "tags": [
+        "workflow-automation",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-010",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "source": "hackernews-top",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "file": "2026-10-09-why-isnt-the-industry-freaking-out-about.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-011",
+      "title": "Yes, and",
+      "source": "hackernews-top",
+      "url": "https://htmx.org/essays/yes-and/",
+      "file": "2026-10-09-yes-and.json",
+      "tags": [
+        "prompt-engineering",
+        "ai-assistant",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-012",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "source": "hackernews-top",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "file": "2026-10-09-ai-ready-biological-data-18b-global-comm.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-013",
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "source": "hackernews-top",
+      "url": "https://naturalsystems.io/eth68",
+      "file": "2026-10-09-eth-68-ethernet-audio-interface-for-linu.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-014",
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "file": "2026-10-09-ask-hn-what-do-you-run-on-a-5-vps-thats-.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-015",
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "source": "hackernews-top",
+      "url": "https://mitchellh.com/writing/program-status-osc7501",
+      "file": "2026-10-09-a-terminal-protocol-for-program-status-o.json",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-016",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "source": "hackernews-top",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "file": "2026-10-09-step-5-preview-a-1m-context-moe-from-ste.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-017",
+      "title": "DuckDB Ducklake",
+      "source": "hackernews-top",
+      "url": "https://github.com/duckdb/ducklake",
+      "file": "2026-10-09-duckdb-ducklake.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-018",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "source": "hackernews-top",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "file": "2026-10-09-show-hn-edi-life-os-self-hosted-life-das.json",
+      "tags": [
+        "mcp",
+        "open-source",
+        "tool-use",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
+    {
+      "id": "kb-2026-10-09-019",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "source": "hackernews-top",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "file": "2026-10-09-show-hn-jevman-ai-decision-models-play-p.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-09T03:36:31.028077+00:00"
+    },
     {
       "id": "kb-2026-10-08-001",
       "title": "jiwoochris/artex-ko",
@@ -36970,5 +37262,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-08T03:31:19.055442+00:00"
+  "last_updated": "2026-10-09T03:36:31.188375+00:00"
 }

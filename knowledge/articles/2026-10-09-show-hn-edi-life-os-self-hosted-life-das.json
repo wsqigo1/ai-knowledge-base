@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-09-018",
+  "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+  "source": "hackernews-top",
+  "url": "https://github.com/edrisranjbar/lifeos",
+  "summary": "Edi Life OS 是一个自托管的个人生活仪表盘项目，通过内置 MCP（Model Context Protocol）服务器将个人数据暴露给 AI 助手。它解决的核心问题是：个人生活数据（日程、任务、健康、笔记等）分散在各类 SaaS 工具中，AI 无法直接访问和操作这些上下文。技术亮点在于采用 MCP 标准协议，让 Claude 等支持 MCP 的 LLM 客户端能以 tool-use 方式读写本地数据，实现自然语言驱动的个人管理。适用场景包括注重数据隐私的自托管用户、希望用 AI agent 统一管理个人工作流的开发者，以及探索 MCP 协议落地的工程师。",
+  "tags": [
+    "mcp",
+    "open-source",
+    "tool-use",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:27.491480+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

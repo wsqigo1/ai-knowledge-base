@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-09-001",
+  "title": "mhtsec/ARTEX",
+  "source": "github-trending",
+  "url": "https://github.com/mhtsec/ARTEX",
+  "summary": "ARTEX 是百度'agent+'攻防挑战赛冠军项目，基于 Go 语言构建的 AI 自主渗透测试系统。它解决传统渗透测试高度依赖人工经验、难以规模化的问题，通过 LLM 驱动的 agent 自动完成信息收集、漏洞探测与利用链编排。核心技术亮点在于将多 agent 协作与工具调用（tool-use）结合，把渗透测试流程拆解为可自主决策的子任务，并针对攻防场景做了 prompt 与推理链优化。适用于安全团队的自动化红队演练、CTF 辅助及漏洞挖掘初筛，也可作为 agent 在垂直领域落地的参考实现。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "large-language-model",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-09T03:35:26.304446+00:00",
+  "analyzed_at": "2026-10-09T03:35:31.034832+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

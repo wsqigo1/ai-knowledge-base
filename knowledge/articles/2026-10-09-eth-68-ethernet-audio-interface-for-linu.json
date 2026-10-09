@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-09-013",
+  "title": "ETH-68: Ethernet Audio Interface for Linux",
+  "source": "hackernews-top",
+  "url": "https://naturalsystems.io/eth68",
+  "summary": "ETH-68 是一个面向 Linux 系统的以太网音频接口方案，通过标准 Ethernet 网络传输实时音频流，替代传统 USB/PCI 声卡或专用音频总线。它解决 Linux 下多通道、低延迟音频 I/O 缺乏统一网络化接口的问题，核心亮点在于利用以太网的高带宽与低抖动特性，结合 Linux ALSA/JACK 音频子系统实现网络音频设备即插即用。适用场景包括专业音频制作、多房间音频分发、嵌入式音频设备及需要远程音频采集的 Linux 工作站。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:14.076899+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

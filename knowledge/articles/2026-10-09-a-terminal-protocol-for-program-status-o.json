@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-09-015",
+  "title": "A Terminal Protocol for Program Status (OSC 7501)",
+  "source": "hackernews-top",
+  "url": "https://mitchellh.com/writing/program-status-osc7501",
+  "summary": "OSC 7501 是一个终端转义序列协议，允许程序向终端模拟器报告其运行状态（如进度、阶段、错误等），由终端统一渲染为状态栏或进度指示。它解决了 CLI 工具与 AI agent 在长时间任务中缺乏标准化状态反馈的问题，避免每个工具自行打印进度条或日志污染输出。核心技术亮点是复用 OSC（Operating System Command）扩展机制，将状态语义与显示解耦，终端可自定义呈现方式。适用场景包括 AI coding agent、构建工具、包管理器等需要向用户展示实时进度的命令行程序。",
+  "tags": [
+    "developer-tools",
+    "agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:19.338864+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}

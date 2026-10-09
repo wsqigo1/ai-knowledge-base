@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-09-017",
+  "title": "DuckDB Ducklake",
+  "source": "hackernews-top",
+  "url": "https://github.com/duckdb/ducklake",
+  "summary": "DuckLake 是 DuckDB 团队提出的开放湖仓（lakehouse）格式规范，将表元数据直接存储在 DuckDB 数据库中，而非依赖外部 catalog 服务或大量小文件。它解决了传统 Iceberg/Delta Lake 元数据层复杂、依赖重（如 REST catalog、Hive Metastore）以及小文件膨胀的问题。核心亮点在于用 SQL 数据库统一管理 schema、快照与统计信息，数据文件仍存于对象存储，支持 ACID、时间旅行与多引擎互操作。适用场景包括轻量级数据湖分析、本地与云端 DuckDB 工作流，以及希望降低湖仓运维复杂度的数据工程师。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-10-09T03:35:26.528233+00:00",
+  "analyzed_at": "2026-10-09T03:36:24.024642+00:00",
+  "organized_at": "2026-10-09T03:36:31.028077+00:00",
+  "status": "published"
+}
