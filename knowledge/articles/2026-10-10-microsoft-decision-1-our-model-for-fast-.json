@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-10-017",
+  "title": "Microsoft-Decision-1, our model for fast decision-making",
+  "source": "hackernews-top",
+  "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "summary": "Microsoft-Decision-1 是微软推出的面向快速决策场景的专用模型，旨在解决通用大语言模型在需要低延迟、高吞吐决策任务中推理开销过大的问题。其核心技术亮点在于针对决策类任务进行架构与推理优化，可能融合了轻量化推理路径与结构化决策输出机制，从而在保持决策质量的同时显著降低响应时间。该模型适用于 agent 系统中的实时决策模块、工作流自动化中的条件分支判断、以及需要快速响应的 tool-use 调度场景，尤其适合对延迟敏感的工程化落地环境。",
+  "tags": [
+    "agent",
+    "reasoning",
+    "workflow-automation",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:24.815912+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

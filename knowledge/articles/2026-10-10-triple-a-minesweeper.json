@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-10-007",
+  "title": "Triple-A Minesweeper",
+  "source": "hackernews-top",
+  "url": "https://minesweeper.mikelacher.com/",
+  "summary": "Triple-A Minesweeper 是一个基于 AI 自动推理的扫雷求解器项目，通过将扫雷游戏建模为约束满足问题（CSP），利用逻辑推理与概率推断自动完成游戏决策。其核心亮点在于将经典 NP 难问题与 AI 搜索策略结合，展示了约束传播、回溯搜索及启发式评估在确定性规则游戏中的高效应用。项目代码开源，适合作为 AI 推理算法、游戏 AI 及搜索策略的教学与研究案例，也可用于 benchmark 测试自动推理系统的性能。",
+  "tags": [
+    "reasoning",
+    "open-source",
+    "benchmark",
+    "agent"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:04.123570+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

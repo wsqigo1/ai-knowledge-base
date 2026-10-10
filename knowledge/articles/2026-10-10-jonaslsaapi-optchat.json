@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-10-002",
+  "title": "jonaslsaa/pi-optchat",
+  "source": "github-trending",
+  "url": "https://github.com/jonaslsaa/pi-optchat",
+  "summary": "pi-optchat 是 Pi 编辑器的 TypeScript 扩展，为 AI 对话提供持久化无限记忆能力。它通过 profiles 管理多套上下文配置，借助 background agents 在后台持续整理与检索历史对话，并支持从外部导入既有对话记录，从而解决长会话中上下文丢失、跨会话记忆断裂的问题。核心亮点在于将记忆层与对话层解耦，以 profile 为单位隔离不同任务或人格的长期状态，同时用后台代理自动完成摘要、索引与召回，无需用户手动维护。适用于需要长期项目陪伴、多角色 AI 助手或跨会话知识沉淀的开发者工作流。",
+  "tags": [
+    "memory",
+    "ai-assistant",
+    "developer-tools",
+    "agent",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-10T03:16:24.624004+00:00",
+  "analyzed_at": "2026-10-10T03:16:49.517322+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

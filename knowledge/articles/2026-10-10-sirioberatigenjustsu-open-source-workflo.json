@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-10-004",
+  "title": "sirioberati/Genjustsu-Open-Source-Workflow",
+  "source": "github-trending",
+  "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+  "summary": "Genjustsu-Open-Source-Workflow 是 TEIN 开源的 AI 视频角色替换工作流，旨在解决视频中人物与物体替换的自动化问题。其核心技术亮点在于将 depth maps、SAM segmentation、face meshes 与音频处理组合成完整 pipeline，并接入 Seedance 完成生成，同时提供本地 Web UI 用于准备输入、审核 mask、预览生成结果及保留原始音频导出。该工具适合 AI 视频编辑、影视后期与内容创作场景，尤其适合需要精细控制角色替换与音画同步的工程师和创作者。",
+  "tags": [
+    "multimodal",
+    "workflow-automation",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-10T03:16:24.624004+00:00",
+  "analyzed_at": "2026-10-10T03:16:54.219551+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

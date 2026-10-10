@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-10-006",
+  "title": "Cloudflare acquires Deno",
+  "source": "hackernews-top",
+  "url": "https://deno.com/blog/cloudflare",
+  "summary": "Cloudflare 宣布收购 Deno（JavaScript/TypeScript 运行时，以安全沙箱和现代 Web 标准著称），这是继其收购 PartyKit 后对边缘计算生态的又一次关键整合。Deno 的核心亮点在于原生 TypeScript 支持、基于 V8 的权限沙箱模型、以及内置的 Deno Deploy 边缘部署能力，可解决 Node.js 生态中模块系统混乱、安全边界模糊、冷启动慢等问题。收购后，Cloudflare Workers 有望直接复用 Deno 的运行时与工具链，提升边缘函数开发体验与性能。适用场景包括边缘计算、Serverless 函数、AI 推理网关及全栈 Web 应用部署。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:02.364025+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

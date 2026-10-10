@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-10-003",
+  "title": "BinceQu/RoboHarness",
+  "source": "github-trending",
+  "url": "https://github.com/BinceQu/RoboHarness",
+  "summary": "RoboHarness 是一个面向 LLM agent 的机器人控制中间层，通过构建视觉-几何控制面板，让语言模型能够直接理解并调用具身任务（embodied tasks）。它解决的核心问题是 LLM 与物理机器人之间的语义鸿沟——传统方式需要为每个任务编写专用 API 或大量 prompt 工程，而 RoboHarness 将机器人状态与动作空间抽象为可视化的几何表示，使 agent 无需额外微调即可进行空间推理与任务编排。技术亮点在于视觉-几何表征与 agent tool-use 机制的结合，降低了具身智能的开发门槛。适用于机器人研究、具身 AI 实验、LLM 控制仿真环境等场景。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "multimodal",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-10T03:16:24.624004+00:00",
+  "analyzed_at": "2026-10-10T03:16:51.021812+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

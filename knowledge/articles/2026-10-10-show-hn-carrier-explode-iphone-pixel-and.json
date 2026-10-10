@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-10-008",
+  "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+  "source": "hackernews-top",
+  "url": "https://carrierexplode.com/",
+  "summary": "Carrier-Explode 是一个开源工具，用于解码 iPhone、Pixel 和 Galaxy 设备中的运营商设置（carrier settings）文件。它解决了运营商配置文件格式不透明、难以直接查看和修改的问题，通过逆向工程将二进制或加密的 carrier bundle 转换为可读的 XML/JSON 结构。核心技术亮点在于跨平台解析与字段映射，支持多厂商设备。适用场景包括移动网络调试、运营商定制化开发、以及安全研究中的配置审计。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:07.187599+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

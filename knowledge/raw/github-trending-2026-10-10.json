@@ -1,0 +1,531 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-10T03:16:26.974659+00:00",
+  "date": "2026-10-10",
+  "count": 20,
+  "items": [
+    {
+      "title": "mhtsec/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 2324,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-08T13:45:54Z",
+      "summary": "ARTEX 是百度“agent+”攻防挑战赛冠军项目，基于 Go 构建的 AI 自主渗透测试系统。它解决传统渗透测试高度依赖人工经验、难以规模化复现的问题，通过 LLM 驱动的 agent 自动完成信息收集、漏洞探测与利用链编排。核心技术亮点在于将渗透测试流程建模为可规划、可执行、可反思的 agent 工作流，结合工具调用与多步推理实现自主决策，并针对攻防场景做了任务分解与状态管理。适用场景包括企业安全团队的红队演练、CTF 自动化、漏洞挖掘辅助以及安全教学研究，也可作为 agent 在垂直领域落地的参考实现。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "tool-use",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-10T03:16:28.685412+00:00"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance",
+      "source": "github-trending",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "stars": 1556,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "dividends",
+        "etf",
+        "finance",
+        "financial-planning",
+        "fintech",
+        "investing",
+        "llm",
+        "net-worth",
+        "personal-finance",
+        "portfolio-tracker",
+        "self-hosted",
+        "stocks",
+        "wealth-management"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T11:29:00Z",
+      "summary": "aurelio-finance 是一款开源的个人财务管理应用，内置 AI financial advisor，帮助用户在本地计算机上追踪净资产、投资、ETF、现金和债务状况。它解决的是个人财务数据分散、隐私敏感且缺乏智能分析的问题，通过本地部署避免敏感财务数据上传云端。核心技术亮点在于将 LLM 驱动的财务顾问与结构化资产追踪结合，支持 dividends、ETF 等投资品类建模，并以 Python 实现。适用场景包括个人投资者自主管理资产组合、注重数据隐私的用户进行本地财务规划，以及开发者二次开发定制财务分析工具。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-10T03:16:30.175626+00:00"
+    },
+    {
+      "title": "elstongun/leviathan",
+      "source": "github-trending",
+      "url": "https://github.com/elstongun/leviathan",
+      "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "stars": 713,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T16:35:33Z",
+      "summary": "Leviathan 是一个用 Rust 编写的单静态二进制工具，为 agent 提供针对大规模数据集的深度记忆能力。它解决的是 agent 在检索海量结构化记录（JSONL、JSON、CSV/TSV、SQLite 及数据库 CLI 导出文件）时缺乏高效本地索引的问题。核心亮点在于将原始记录直接转化为带排序的全文本索引，无需外部服务依赖，单文件即可部署运行。适用场景包括为 RAG 或 agent 系统构建轻量级本地检索层、离线数据分析、以及需要低运维成本的记忆存储方案。",
+      "tags": [
+        "agent",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-10T03:16:32.004258+00:00"
+    },
+    {
+      "title": "AgentMemoryRepo/agentmemoryrepo",
+      "source": "github-trending",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "description": "Spec for Agent Memory Repo",
+      "stars": 671,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-06T23:52:20Z",
+      "summary": "AgentMemoryRepo 是一个面向 AI Agent 的记忆仓库规范（Spec），旨在为 Agent 的长期记忆存储、检索与管理提供标准化接口定义。它解决当前 Agent 记忆系统碎片化、缺乏统一规范的问题，使不同框架和工具间的记忆数据可互操作。核心技术亮点在于以规范文档形式定义记忆的存储结构、生命周期与访问协议，可能涉及向量检索与结构化记忆的融合。适用场景包括多轮对话 Agent、个性化 AI 助手、需要跨会话记忆保持的自动化工作流，以及希望标准化记忆层的 Agent 开发框架。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-10T03:16:33.774356+00:00"
+    },
+    {
+      "title": "navyofficerpipe/Discord-Server-Raider",
+      "source": "github-trending",
+      "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+      "description": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
+      "stars": 605,
+      "language": null,
+      "topics": [
+        "discord-destroyer",
+        "discordraid",
+        "multi-selfbot-tool",
+        "raid",
+        "raid-discord",
+        "raider",
+        "selfbot-tool",
+        "tool-raid"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T13:50:25Z",
+      "summary": "Discord-Server-Raider 是一个基于 AI 驱动的 Discord 服务器自动化管理/攻击工具，通过 multi-selfbot 技术批量控制多个账号，实现对 Discord 服务器的自动化 raid、消息轰炸和服务器破坏操作。其核心技术亮点在于多账号协同调度与自动化任务编排，利用 selfbot 绕过常规 API 限制。该工具主要面向 Discord 服务器管理压力测试或恶意攻击场景，涉及 discord-destroyer、discordraid 等敏感用途，与主流 AI 工程技术栈（LLM、RAG、Agent）关联度极低，且存在明显的滥用风险。",
+      "tags": [
+        "workflow-automation",
+        "multi-agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-10T03:16:35.491527+00:00"
+    },
+    {
+      "title": "shinshin86/mesh-avatar-studio",
+      "source": "github-trending",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "stars": 568,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T03:14:49Z",
+      "summary": "mesh-avatar-studio 是一个 TypeScript 开源工具，将单张插画转换为可动画的 2D mesh 头像。它通过 coding agent（支持 Claude Code、Codex）自动生成网格变形脚本，并配套本地编辑器供手动微调顶点与骨骼绑定，解决传统 2D 角色动画制作门槛高、流程繁琐的问题。核心技术亮点在于将 LLM 驱动的代码生成与 mesh deformation 管线结合，用 agent 替代手工编写变形逻辑，降低动画师对编程的依赖。适用场景包括独立游戏角色动画、VTuber 头像制作、社交媒体动态头像生成，以及需要快速原型验证的 2D 动画工作流。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-10T03:16:37.153850+00:00"
+    },
+    {
+      "title": "ThariqS/ai-newtab",
+      "source": "github-trending",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "stars": 546,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-08T20:56:58Z",
+      "summary": "ai-newtab 是一个基于 Claude 的浏览器新标签页扩展，通过读取用户的浏览历史，利用 LLM 自动生成每日个性化的新标签页内容。它解决了传统新标签页信息静态、缺乏个性化的问题，将浏览器历史转化为动态的、上下文相关的信息聚合。核心技术亮点在于将 Claude 的生成能力与浏览器历史数据结合，实现自动化内容生成与个性化推荐。适用场景包括日常信息获取、个人知识管理、以及探索 LLM 在浏览器环境中的轻量级应用。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-10T03:16:38.591706+00:00"
+    },
+    {
+      "title": "franzenzenhofer/big-arrow-on-the-screen",
+      "source": "github-trending",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "stars": 480,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "macos",
+        "swift"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T21:54:24Z",
+      "summary": "big-arrow-on-the-screen 是一个 Swift 编写的 macOS CLI 工具，让 AI agent（如 Claude Code、Codex）能在屏幕上绘制大箭头、方框和文字标注。它解决的核心问题是：AI agent 在辅助用户操作时缺乏直观的视觉指示手段，只能靠文字描述位置，效率低且易误解。技术亮点在于 click-through 设计——标注层不拦截鼠标事件，用户可继续正常操作，且标注会自动消失，无需手动清理；同时以 Skill 形式集成进 Claude Code 和 Codex 的工作流。适用场景包括 AI 辅助教学演示、远程协作指引、自动化测试中的视觉反馈，以及任何需要 agent 在屏幕上做空间标注的交互场景。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-10T03:16:40.083013+00:00"
+    },
+    {
+      "title": "iamlukethedev/Herald-OS",
+      "source": "github-trending",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "stars": 361,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "desktop-environment",
+        "fedora",
+        "hermes-agent",
+        "hyprland",
+        "linux",
+        "macos",
+        "niri",
+        "omarchy",
+        "operating-system"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T22:49:15Z",
+      "summary": "Herald-OS 是一个 agent-native 操作系统，以 Hermes Agent 作为核心交互界面，基于 Fedora 与 Hyprland 构建桌面环境，使用 TypeScript 开发。它试图解决传统操作系统缺乏原生 AI agent 集成的问题，让 agent 成为系统级入口而非外挂应用。技术亮点在于将 agent 深度嵌入桌面环境与窗口管理，实现自然语言驱动的系统操作与工作流编排。适用场景包括 AI 研究者探索 agent-native 交互范式、开发者构建桌面级 AI 助手，以及希望体验 agent 驱动操作系统的早期采用者。项目独立于 Nous Research，目前处于早期阶段。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-10T03:16:41.769274+00:00"
+    },
+    {
+      "title": "TannerMidd/pi-pocket",
+      "source": "github-trending",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "stars": 311,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "coding-agent",
+        "mobile",
+        "multiplayer",
+        "omarchy",
+        "pi",
+        "pi-durable",
+        "pwa",
+        "self-hosted"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-10T00:40:51Z",
+      "summary": "TannerMidd/pi-pocket 是一个基于 Pi Durable 构建的持久化、多人协作、移动优先的 Web 应用，用于运行 Pi agents。它解决了 AI coding agent 在移动端难以持久运行、多用户协同困难的问题，通过 Durable Objects 实现状态持久化与实时同步。核心技术亮点包括移动优先的交互设计、multiplayer 实时协作架构，以及基于 TypeScript 的 agent 编排能力。适用场景为开发者团队在移动设备上协同使用 AI coding agent 进行任务分配、代码生成与实时调试。",
+      "tags": [
+        "ai-agent",
+        "multi-agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-10T03:16:43.116883+00:00"
+    },
+    {
+      "title": "mushigaite/short-video-maker",
+      "source": "github-trending",
+      "url": "https://github.com/mushigaite/short-video-maker",
+      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+      "stars": 288,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "ai-video-editing",
+        "ai-video-generation-api",
+        "money-printer",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker",
+        "short-video-sdk",
+        "shorts-generator"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T16:59:30Z",
+      "summary": "short-video-maker 是一个开源 Python 项目，将 YouTube 长视频自动转化为适合短视频平台的爆款内容。它解决了创作者依赖 OpusClip、Vidyo.ai 等付费 SaaS 工具进行二次剪辑的成本与版权问题。核心技术亮点包括高光片段检测、自动字幕生成、多语言翻译与 AI 配音，全流程无需预剪辑素材且无任何水印。该项目面向希望免费获得专业级短视频再创作能力的个人创作者与小型团队，尤其适合需要批量处理长视频并快速分发到 TikTok、Reels 等平台的场景。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-10T03:16:44.675217+00:00"
+    },
+    {
+      "title": "arielshad/3d-asset-server",
+      "source": "github-trending",
+      "url": "https://github.com/arielshad/3d-asset-server",
+      "description": "3d assets api and mcp",
+      "stars": 273,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T17:44:00Z",
+      "summary": "arielshad/3d-asset-server 是一个基于 TypeScript 的开源 3D 资产 API 服务，同时提供 MCP（Model Context Protocol）接口，让 LLM 与 AI Agent 能够以标准化方式检索、调用和管理 3D 模型资产。它解决了 AI 工作流中 3D 内容难以被模型直接访问和编排的问题，通过 MCP 将 3D 资产库暴露为可被 tool-use 调用的能力。核心技术亮点在于 MCP 协议集成与 REST API 双通道设计，降低了 Agent 接入 3D 资源的门槛。适用场景包括 3D 内容生成管线、游戏与 AR/VR 资产自动化、以及需要多模态资产调度的 AI Agent 系统。",
+      "tags": [
+        "mcp",
+        "multimodal",
+        "tool-use",
+        "agent",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-10T03:16:46.233722+00:00"
+    },
+    {
+      "title": "OrgoAI/bops",
+      "source": "github-trending",
+      "url": "https://github.com/OrgoAI/bops",
+      "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+      "stars": 237,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "business-automation",
+        "computer-use",
+        "electron",
+        "mac-app",
+        "nextjs",
+        "open-source"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-10T01:39:51Z",
+      "summary": "Bops 是一个基于 Electron 的 Mac 桌面应用，部署一组 AI bots 组成虚拟团队来执行企业运营任务。每个 bot 拥有独立的计算机环境、邮箱和电话号码，可自主完成跨应用操作、邮件收发与电话沟通等业务流程。核心技术亮点在于 computer-use 能力与多 agent 协作架构的结合，使每个 bot 能像真实员工一样操作软件界面并对外通信。适用场景包括中小企业日常运营自动化、客户触达、行政事务处理等需要多角色协同的重复性工作流。",
+      "tags": [
+        "multi-agent",
+        "computer-use",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-10T03:16:47.841189+00:00"
+    },
+    {
+      "title": "jonaslsaa/pi-optchat",
+      "source": "github-trending",
+      "url": "https://github.com/jonaslsaa/pi-optchat",
+      "description": "Persistent infinite memory with profiles, background agents, and conversation imports for Pi.",
+      "stars": 228,
+      "language": "TypeScript",
+      "topics": [
+        "memory",
+        "optchat",
+        "pi-extension"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T17:17:50Z",
+      "summary": "pi-optchat 是 Pi 编辑器的 TypeScript 扩展，为 AI 对话提供持久化无限记忆能力。它通过 profiles 管理多套上下文配置，借助 background agents 在后台持续整理与检索历史对话，并支持从外部导入既有对话记录，从而解决长会话中上下文丢失、跨会话记忆断裂的问题。核心亮点在于将记忆层与对话层解耦，以 profile 为单位隔离不同任务或人格的长期状态，同时用后台代理自动完成摘要、索引与召回，无需用户手动维护。适用于需要长期项目陪伴、多角色 AI 助手或跨会话知识沉淀的开发者工作流。",
+      "tags": [
+        "memory",
+        "ai-assistant",
+        "developer-tools",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-10T03:16:49.517322+00:00"
+    },
+    {
+      "title": "BinceQu/RoboHarness",
+      "source": "github-trending",
+      "url": "https://github.com/BinceQu/RoboHarness",
+      "description": "A robotic harness that gives LLM agents a visual-geometric control panel so that they can directly understand and invoke embodied tasks.",
+      "stars": 223,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T13:59:19Z",
+      "summary": "RoboHarness 是一个面向 LLM agent 的机器人控制中间层，通过构建视觉-几何控制面板，让语言模型能够直接理解并调用具身任务（embodied tasks）。它解决的核心问题是 LLM 与物理机器人之间的语义鸿沟——传统方式需要为每个任务编写专用 API 或大量 prompt 工程，而 RoboHarness 将机器人状态与动作空间抽象为可视化的几何表示，使 agent 无需额外微调即可进行空间推理与任务编排。技术亮点在于视觉-几何表征与 agent tool-use 机制的结合，降低了具身智能的开发门槛。适用于机器人研究、具身 AI 实验、LLM 控制仿真环境等场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-10T03:16:51.021812+00:00"
+    },
+    {
+      "title": "Hiteater-wzm/eeo",
+      "source": "github-trending",
+      "url": "https://github.com/Hiteater-wzm/eeo",
+      "description": "An open community where brands define themselves for AI",
+      "stars": 202,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-10T02:30:02Z",
+      "summary": "eeo 是一个面向品牌方的开源社区项目，旨在让品牌在 AI 生态中主动定义自身的身份与语义信息。它解决的核心问题是：当 LLM 和 AI agent 越来越多地充当信息中介时，品牌缺乏一种标准化方式向 AI 系统声明自己的定位、产品与调性，导致 AI 输出中品牌信息失真或缺失。项目以 JavaScript 实现，提供社区驱动的品牌自描述机制，可能涉及结构化数据、prompt 模板或 agent 可读的品牌 profile。适用场景包括品牌 AI 可见性管理、AI 搜索优化（GEO）、agent 驱动的商业推荐系统，以及希望被 AI 正确引用的中小品牌。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "agent",
+        "prompt-engineering"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-10T03:16:52.736863+00:00"
+    },
+    {
+      "title": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "source": "github-trending",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "stars": 202,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-08T20:54:22Z",
+      "summary": "Genjustsu-Open-Source-Workflow 是 TEIN 开源的 AI 视频角色替换工作流，旨在解决视频中人物与物体替换的自动化问题。其核心技术亮点在于将 depth maps、SAM segmentation、face meshes 与音频处理组合成完整 pipeline，并接入 Seedance 完成生成，同时提供本地 Web UI 用于准备输入、审核 mask、预览生成结果及保留原始音频导出。该工具适合 AI 视频编辑、影视后期与内容创作场景，尤其适合需要精细控制角色替换与音画同步的工程师和创作者。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-10T03:16:54.219551+00:00"
+    },
+    {
+      "title": "empero-org/brewery-ai",
+      "source": "github-trending",
+      "url": "https://github.com/empero-org/brewery-ai",
+      "description": "An intuitive console agent to fine-tune AI models with little to no experience required! ",
+      "stars": 200,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-05T09:39:32Z",
+      "summary": "brewery-ai 是一个面向零基础用户的控制台 agent，通过交互式命令行界面简化 AI 模型 fine-tuning 流程。它解决了传统微调需要编写训练脚本、配置超参数、管理数据集等门槛过高的问题，将数据准备、模型选择、训练配置与执行封装为对话式操作。核心技术亮点在于 agent 驱动的自动化决策与低代码交互设计，降低 fine-tuning 的工程复杂度。适用场景包括个人开发者快速验证微调想法、小团队原型迭代，以及教学演示中展示 fine-tuning 基本流程。",
+      "tags": [
+        "fine-tuning",
+        "agent",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-10T03:16:55.755996+00:00"
+    },
+    {
+      "title": "Freeiuannihilate/Imei-Repair",
+      "source": "github-trending",
+      "url": "https://github.com/Freeiuannihilate/Imei-Repair",
+      "description": "Aiding developers in crafting advanced AI-driven solutions without iOS mobile device concerns, Imei Repair Free offers a seamless platform providing...",
+      "stars": 200,
+      "language": null,
+      "topics": [
+        "chimera",
+        "cpid",
+        "device-unlocking",
+        "imei-check",
+        "imei-check-myanmar",
+        "imei-masker",
+        "imei-number",
+        "imei-randomization",
+        "imei-repair",
+        "kg-bypass-by-imei",
+        "samfw-tool",
+        "samsung-frp-bypass-install-setup-windows-2026",
+        "samsung-frp-tool-download",
+        "termux-lock",
+        "xiaomi-mi-account"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T13:53:04Z",
+      "summary": "Imei-Repair 是一个面向 iOS 设备 IMEI 修复与解锁的开源工具，主要帮助开发者绕过实体 iOS 设备限制，构建与设备标识、解锁状态相关的自动化解决方案。其核心围绕 CPID、Chimera 等越狱/解锁技术栈，提供 IMEI 校验与修复能力，Topics 中涉及缅甸等地区的 IMEI 检查场景。该项目与 AI/LLM 技术栈无直接关联，不涉及大模型、Agent、RAG 等能力，更偏向移动设备底层工具与灰色地带的设备解锁领域。适用场景为 iOS 设备维修、解锁服务商或相关自动化脚本开发者，对主流 AI 工程师的实际参考价值有限。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-10T03:16:57.461430+00:00"
+    },
+    {
+      "title": "SplendorGuardian/AIDA-64-Extreme",
+      "source": "github-trending",
+      "url": "https://github.com/SplendorGuardian/AIDA-64-Extreme",
+      "description": "Aida 64 Extreme' is a comprehensive AI resource offering advanced prompt engineering capabilities that facilitate efficient development processes without...",
+      "stars": 199,
+      "language": null,
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup",
+        "aida64-extreme-system-information",
+        "aida64-free-setup",
+        "pc-diagnostics-windows-platform",
+        "windows-cpu-gpu-status-check",
+        "windows-performance-benchmarking"
+      ],
+      "collected_at": "2026-10-10T03:16:24.624004+00:00",
+      "published_at": "2026-10-09T13:45:03Z",
+      "summary": "该项目名为 AIDA-64-Extreme，实际内容与硬件诊断工具 AIDA64 高度混淆，Topics 全部围绕 aida64 硬件检测、兼容性检查与详细报告，描述中却声称提供 advanced prompt engineering 能力，存在明显的元数据错配或蹭热度嫌疑。从 AI 工程师视角看，它并未展示任何可验证的 LLM 技术实现、模型架构或工程方法论，无法判断其真实技术深度。若其确为 prompt 工程资源，也缺乏具体技术细节支撑。适用场景存疑，不建议作为 AI 开发参考。",
+      "tags": [
+        "prompt-engineering",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-10T03:16:59.123089+00:00"
+    }
+  ]
+}

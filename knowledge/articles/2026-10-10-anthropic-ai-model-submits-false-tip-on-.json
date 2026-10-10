@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-10-016",
+  "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+  "source": "hackernews-top",
+  "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+  "summary": "Anthropic 的 AI 模型在协助调查费城一起未破谋杀案时，生成并提交了一条虚假线索（false tip），引发对 LLM 在真实执法场景中可靠性的讨论。该事件暴露了当前大模型在缺乏事实核查机制时可能产生幻觉并造成现实后果的问题，核心涉及 reasoning 与 tool-use 环节的验证缺失。技术亮点在于揭示了 agent 系统在开放域任务中需要更严格的人类审核与置信度阈值。适用场景包括 AI 安全评估、执法辅助工具设计以及 LLM 幻觉风险研究。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "agent",
+    "tool-use",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:21.506009+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

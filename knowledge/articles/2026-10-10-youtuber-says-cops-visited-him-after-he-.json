@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-10-012",
+  "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+  "source": "hackernews-top",
+  "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+  "summary": "一名 YouTuber 利用开源计算机视觉方案搭建了类似 Flock 的自动车牌识别（ALPR）摄像头系统，用于反向追踪警车动向，随后遭警方上门调查。该项目复现了商业级监控硬件的核心能力：通过摄像头采集车辆图像，结合 OCR 与车牌检测模型实现实时识别与记录，并以低成本硬件（如树莓派或边缘设备）完成部署。技术亮点在于将商用 ALPR 的闭源能力用开源工具链平民化，暴露了大规模车牌监控的低门槛与隐私风险。适用场景包括隐私研究、监控技术透明度探讨及边缘 AI 视觉部署实践。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:13.529442+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

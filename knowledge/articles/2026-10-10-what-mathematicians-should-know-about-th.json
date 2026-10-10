@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-10-015",
+  "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+  "source": "hackernews-top",
+  "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+  "summary": "Lean 定理证明器是数学形式化验证领域的核心工具，本文探讨其在可靠性与 AI 结合方面的关键议题。文章面向数学研究者，解释 Lean 如何通过依赖类型系统保证证明的机器可验证性，并分析当前 AI（尤其是 LLM）在辅助定理证明中的潜力与局限。核心技术亮点包括 Lean 的元编程能力、与 AI 搜索/生成模型的集成路径，以及形式化验证对 AI 输出可靠性的增强作用。适用场景为数学形式化、AI 辅助证明、可信 AI 系统构建。",
+  "tags": [
+    "reasoning",
+    "open-source",
+    "code-generation",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:19.997499+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

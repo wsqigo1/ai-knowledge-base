@@ -1,7 +1,314 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2484,
+  "total_count": 2504,
   "entries": [
+    {
+      "id": "kb-2026-10-10-001",
+      "title": "franzenzenhofer/big-arrow-on-the-screen",
+      "source": "github-trending",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "file": "2026-10-10-franzenzenhoferbig-arrow-on-the-screen.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-002",
+      "title": "jonaslsaa/pi-optchat",
+      "source": "github-trending",
+      "url": "https://github.com/jonaslsaa/pi-optchat",
+      "file": "2026-10-10-jonaslsaapi-optchat.json",
+      "tags": [
+        "memory",
+        "ai-assistant",
+        "developer-tools",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-003",
+      "title": "BinceQu/RoboHarness",
+      "source": "github-trending",
+      "url": "https://github.com/BinceQu/RoboHarness",
+      "file": "2026-10-10-bincequroboharness.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-004",
+      "title": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "source": "github-trending",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "file": "2026-10-10-sirioberatigenjustsu-open-source-workflo.json",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-005",
+      "title": "REA Reverse – Engineer Anything",
+      "source": "hackernews-top",
+      "url": "https://rea.tools/",
+      "file": "2026-10-10-rea-reverse-engineer-anything.json",
+      "tags": [
+        "reverse-engineering",
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-006",
+      "title": "Cloudflare acquires Deno",
+      "source": "hackernews-top",
+      "url": "https://deno.com/blog/cloudflare",
+      "file": "2026-10-10-cloudflare-acquires-deno.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-007",
+      "title": "Triple-A Minesweeper",
+      "source": "hackernews-top",
+      "url": "https://minesweeper.mikelacher.com/",
+      "file": "2026-10-10-triple-a-minesweeper.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "agent"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-008",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "source": "hackernews-top",
+      "url": "https://carrierexplode.com/",
+      "file": "2026-10-10-show-hn-carrier-explode-iphone-pixel-and.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-009",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "source": "hackernews-top",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "file": "2026-10-10-can-you-use-autoregressive-diffusion-to-.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-010",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "source": "hackernews-top",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "file": "2026-10-10-typesafe-ai-raises-870m-at-75b.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-011",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "source": "hackernews-top",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "file": "2026-10-10-pointing-ai-at-archives-found-a-forgotte.json",
+      "tags": [
+        "multimodal",
+        "computer-vision",
+        "archival-analysis",
+        "data-mining"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-012",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "source": "hackernews-top",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "file": "2026-10-10-youtuber-says-cops-visited-him-after-he-.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-013",
+      "title": "Rewriting Prime Agent in Rust",
+      "source": "hackernews-top",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "file": "2026-10-10-rewriting-prime-agent-in-rust.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-014",
+      "title": "Sorry, I'm in a meeting",
+      "source": "hackernews-top",
+      "url": "https://iminafleeting.com/",
+      "file": "2026-10-10-sorry-im-in-a-meeting.json",
+      "tags": [
+        "ai-assistant",
+        "workflow-automation",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-015",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "source": "hackernews-top",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "file": "2026-10-10-what-mathematicians-should-know-about-th.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "code-generation",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-016",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "source": "hackernews-top",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "file": "2026-10-10-anthropic-ai-model-submits-false-tip-on-.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "tool-use",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-017",
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "source": "hackernews-top",
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "file": "2026-10-10-microsoft-decision-1-our-model-for-fast-.json",
+      "tags": [
+        "agent",
+        "reasoning",
+        "workflow-automation",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-018",
+      "title": "Programming Isn't Special",
+      "source": "hackernews-top",
+      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "file": "2026-10-10-programming-isnt-special.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-019",
+      "title": "Ideas aren't getting harder to find (2022)",
+      "source": "hackernews-top",
+      "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+      "file": "2026-10-10-ideas-arent-getting-harder-to-find-2022.json",
+      "tags": [
+        "reasoning",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
+    {
+      "id": "kb-2026-10-10-020",
+      "title": "Training Text-to-Image Models Without a VAE",
+      "source": "hackernews-top",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "file": "2026-10-10-training-text-to-image-models-without-a-.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-10T03:17:31.754279+00:00"
+    },
     {
       "id": "kb-2026-10-09-001",
       "title": "mhtsec/ARTEX",
@@ -37262,5 +37569,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-09T03:36:31.188375+00:00"
+  "last_updated": "2026-10-10T03:17:32.003490+00:00"
 }

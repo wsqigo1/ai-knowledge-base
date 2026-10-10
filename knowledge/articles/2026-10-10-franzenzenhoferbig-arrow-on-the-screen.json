@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-10-001",
+  "title": "franzenzenhofer/big-arrow-on-the-screen",
+  "source": "github-trending",
+  "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "summary": "big-arrow-on-the-screen 是一个 Swift 编写的 macOS CLI 工具，让 AI agent（如 Claude Code、Codex）能在屏幕上绘制大箭头、方框和文字标注。它解决的核心问题是：AI agent 在辅助用户操作时缺乏直观的视觉指示手段，只能靠文字描述位置，效率低且易误解。技术亮点在于 click-through 设计——标注层不拦截鼠标事件，用户可继续正常操作，且标注会自动消失，无需手动清理；同时以 Skill 形式集成进 Claude Code 和 Codex 的工作流。适用场景包括 AI 辅助教学演示、远程协作指引、自动化测试中的视觉反馈，以及任何需要 agent 在屏幕上做空间标注的交互场景。",
+  "tags": [
+    "ai-assistant",
+    "developer-tools",
+    "workflow-automation",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-10T03:16:24.624004+00:00",
+  "analyzed_at": "2026-10-10T03:16:40.083013+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}

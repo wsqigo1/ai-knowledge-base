@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-10-009",
+  "title": "Can you use autoregressive diffusion to generate market data?",
+  "source": "hackernews-top",
+  "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+  "summary": "该条目探讨将自回归（autoregressive）生成范式与扩散模型（diffusion model）结合，用于合成金融市场数据（如价格序列、订单流）。核心问题是金融数据稀缺、隐私敏感且分布非平稳，传统GAN或单一扩散模型难以兼顾时序依赖与长程一致性。技术亮点在于用自回归分解联合分布，逐步去噪生成条件分布，从而在保持扩散模型高保真度的同时建模因果时序结构。适用场景包括量化回测数据增强、隐私保护下的合成数据发布、以及金融时序预测的预训练。",
+  "tags": [
+    "multimodal",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-10T03:16:24.871484+00:00",
+  "analyzed_at": "2026-10-10T03:17:08.759719+00:00",
+  "organized_at": "2026-10-10T03:17:31.754279+00:00",
+  "status": "published"
+}
