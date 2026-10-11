@@ -1,0 +1,553 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-11T02:49:08.107569+00:00",
+  "date": "2026-10-11",
+  "count": 20,
+  "items": [
+    {
+      "title": "mhtsec/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 2933,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T09:16:20Z",
+      "summary": "ARTEX 是百度「agent+」攻防挑战赛冠军项目，一个基于 LLM Agent 的 AI 自主渗透测试系统，用 Go 编写。它解决传统渗透测试高度依赖人工经验、流程冗长且难以规模化的问题，通过多 Agent 协作将侦察、漏洞发现、利用与报告生成等环节自动化。核心技术亮点在于将大模型推理能力与安全工具链（如扫描器、exploit 框架）结合，构建可自主规划、执行并反思的攻击工作流，属于 agent 与 tool-use 在垂直安全领域的落地实践。适用场景包括红队演练、CTF 自动化、企业安全评估与漏洞挖掘辅助，也可作为研究 agent 规划与工具调用能力的参考实现。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-10-11T02:49:10.014857+00:00"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance",
+      "source": "github-trending",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "stars": 2094,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "dividends",
+        "etf",
+        "finance",
+        "financial-planning",
+        "fintech",
+        "investing",
+        "llm",
+        "net-worth",
+        "personal-finance",
+        "portfolio-tracker",
+        "self-hosted",
+        "stocks",
+        "wealth-management"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-11T00:29:33Z",
+      "summary": "aurelio-finance 是一款开源的个人财务管理应用，内置 AI 财务顾问，帮助用户在本机追踪净资产、投资组合、ETF、现金与债务状况。它解决的是个人资产分散、财务数据隐私敏感、缺乏智能分析建议的问题。核心技术亮点在于将 LLM 驱动的财务顾问与本地化数据存储结合，用户无需上传敏感财务数据即可获得投资与债务规划建议，Python 实现便于二次开发。适用场景包括个人净值管理、ETF 与分红追踪、债务规划，以及希望自托管、注重隐私的理财用户。",
+      "tags": [
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-11T02:49:11.683309+00:00"
+    },
+    {
+      "title": "elstongun/leviathan",
+      "source": "github-trending",
+      "url": "https://github.com/elstongun/leviathan",
+      "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "stars": 732,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T16:35:33Z",
+      "summary": "Leviathan 是一个用 Rust 编写的单静态二进制工具，为 agent 在大规模数据集上提供深度记忆能力。它解决的是 agent 面对海量记录时难以高效检索和召回的问题：将 JSONL、JSON、CSV/TSV、SQLite 或任意数据库 CLI 导出的记录，转化为带排序的全文本索引。核心技术亮点在于单文件零依赖部署、支持多种数据源接入、以及面向 agent 记忆场景的 ranked full-text 检索。适用场景包括为 LLM agent 构建本地长期记忆层、RAG 系统中的稀疏检索组件、以及需要快速对结构化/半结构化数据建立可搜索索引的开发者工具链。",
+      "tags": [
+        "agent",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "large-language-model"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-10-11T02:49:13.206866+00:00"
+    },
+    {
+      "title": "ThariqS/ai-newtab",
+      "source": "github-trending",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "stars": 697,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T04:20:03Z",
+      "summary": "ai-newtab 是一个基于 Claude 的浏览器新标签页扩展，通过读取用户的浏览历史，调用 Claude 生成个性化的每日新标签页内容。它解决的问题是传统新标签页内容千篇一律、与用户实际兴趣脱节。核心技术亮点在于将 LLM 与本地浏览器历史数据结合，实现上下文感知的内容生成，属于典型的 tool-use 与 prompt-engineering 实践。适用场景包括个人效率工具、浏览器扩展开发、LLM 个性化推荐原型验证。",
+      "tags": [
+        "large-language-model",
+        "tool-use",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-11T02:49:14.744925+00:00"
+    },
+    {
+      "title": "navyofficerpipe/Discord-Server-Raider",
+      "source": "github-trending",
+      "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+      "description": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
+      "stars": 605,
+      "language": null,
+      "topics": [
+        "discord-destroyer",
+        "discordraid",
+        "multi-selfbot-tool",
+        "raid",
+        "raid-discord",
+        "raider",
+        "selfbot-tool",
+        "tool-raid"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T13:50:25Z",
+      "summary": "Discord-Server-Raider 是一个基于 AI 驱动的 Discord 服务器管理/攻击工具，通过 multi-selfbot 技术实现对 Discord 服务器的批量操作与自动化控制。它主要解决大规模服务器管理或恶意 raid 场景下的自动化执行问题，核心亮点在于集成多账号 selfbot 协同与 AI 决策逻辑，可绕过常规限制执行批量消息发送、成员操作等任务。适用场景包括 Discord 社区自动化运维测试、安全研究中的红队演练，以及（从 topics 看）恶意 raid 攻击。该项目因涉及平台滥用风险，实际工程参考价值有限，但可作为研究 Discord API 滥用与自动化对抗的案例。",
+      "tags": [
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-11T02:49:16.468202+00:00"
+    },
+    {
+      "title": "franzenzenhofer/big-arrow-on-the-screen",
+      "source": "github-trending",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "stars": 592,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "macos",
+        "swift"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T10:59:51Z",
+      "summary": "big-arrow-on-the-screen 是一个 Swift 编写的 macOS CLI 工具，让 AI agents（如 Claude Code、Codex）能在屏幕上绘制大箭头、方框和文字标注。它解决了 AI 助手在指导用户操作时缺乏直观视觉指示的问题——传统上 agent 只能用文字描述「点击左上角那个按钮」，而该工具让 agent 直接在屏幕上画出指向性标注。核心技术亮点包括 click-through 穿透设计（标注不影响正常鼠标操作）、自动消失机制、以及作为 Claude Code 和 Codex 的 Skill 集成。适用于 AI 辅助教学、远程协作指导、自动化演示等场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-11T02:49:18.137577+00:00"
+    },
+    {
+      "title": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "source": "github-trending",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "stars": 489,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-08T20:54:22Z",
+      "summary": "Genjustsu-Open-Source-Workflow 是 TEIN 开源的一套 AI 视频角色/物体替换工作流，旨在解决传统视频换人流程中遮罩粗糙、深度与音频不同步的问题。其核心亮点在于将 depth maps、SAM segmentation、face meshes 与音频处理串联为可复用的 pipeline，并接入 Seedance 完成生成，同时提供本地 Web UI 用于准备输入、审核 mask、预览生成结果以及导出保留原始音频的成片。适用于短视频换脸、影视后期预演、广告素材替换等需要精细控制遮罩与音画同步的场景。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-11T02:49:19.739694+00:00"
+    },
+    {
+      "title": "rociiu/talorys",
+      "source": "github-trending",
+      "url": "https://github.com/rociiu/talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "stars": 414,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant",
+        "react",
+        "self-hosted",
+        "typescript",
+        "workers-ai"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-11T02:45:21Z",
+      "summary": "Talorys 是一个部署在用户自有 Cloudflare 账户中的单用户个人 AI agent，通过 npx create-talorys@latest 一条命令即可完成部署。它解决了个人助理类应用依赖第三方托管、数据隐私不可控、且难以免费长期运行的问题。核心技术基于 Cloudflare Workers 与 Durable Objects，实现持久化记忆、任务管理、笔记和定时提醒等功能，并保持无遥测、免费额度友好。适合注重数据主权、希望低成本自托管 AI 助手的开发者与极客用户。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-11T02:49:21.254841+00:00"
+    },
+    {
+      "title": "iamlukethedev/Herald-OS",
+      "source": "github-trending",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "stars": 404,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "desktop-environment",
+        "fedora",
+        "hermes-agent",
+        "hyprland",
+        "linux",
+        "macos",
+        "niri",
+        "omarchy",
+        "operating-system"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T10:23:17Z",
+      "summary": "Herald-OS 是一个 agent-native 操作系统，以 Hermes Agent 作为核心交互界面，基于 Fedora 与 Hyprland 构建桌面环境，使用 TypeScript 开发。它试图解决传统操作系统缺乏原生 AI agent 集成的问题，让 agent 成为系统级入口而非外挂应用。核心技术亮点在于将 agent 能力下沉到 OS 层，结合平铺式窗口管理器 Hyprland 实现 agent 驱动的桌面交互范式。适用场景包括希望探索 agent-first 计算体验的开发者、AI 桌面环境研究者，以及需要深度定制 agent 工作流的极客用户。项目为独立开发，与 Nous Research 无关联，当前 404 stars，处于早期阶段。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-11T02:49:22.871404+00:00"
+    },
+    {
+      "title": "mushigaite/short-video-maker",
+      "source": "github-trending",
+      "url": "https://github.com/mushigaite/short-video-maker",
+      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+      "stars": 291,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "ai-video-editing",
+        "ai-video-generation-api",
+        "money-printer",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker",
+        "short-video-sdk",
+        "shorts-generator"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T16:59:30Z",
+      "summary": "short-video-maker 是一个免费开源的 Python 项目，将 YouTube 长视频自动转化为适合短视频平台传播的竖屏短片。它解决创作者依赖 OpusClip、Vidyo.ai 等付费 SaaS 工具进行视频再剪辑的成本与版权水印问题。核心技术亮点包括高光片段检测（highlight detection）、自动字幕生成、多语言翻译与 AI voiceover 合成，全流程一体化且无预剪辑额度限制、无水印输出。适用场景为内容创作者、自媒体运营者及 MCN 机构批量生产短视频素材，也可作为 AI 视频编辑流水线的开源替代方案进行二次开发。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-11T02:49:24.634366+00:00"
+    },
+    {
+      "title": "OrgoAI/bops",
+      "source": "github-trending",
+      "url": "https://github.com/OrgoAI/bops",
+      "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+      "stars": 246,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "business-automation",
+        "computer-use",
+        "electron",
+        "mac-app",
+        "nextjs",
+        "open-source"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T19:34:15Z",
+      "summary": "Bops 是 OrgoAI 推出的 AI 智能体团队产品，每个 bot 拥有独立的计算机环境、邮箱和电话号码，可自主执行企业运营任务。它解决的是传统自动化工具缺乏真实操作能力的问题——bot 不仅能对话，还能像真人一样登录系统、收发邮件、拨打电话，完成端到端的业务操作。核心技术亮点在于 computer-use 能力与多 agent 协作架构的结合，基于 Electron 构建 Mac 桌面应用，TypeScript 实现。适用场景包括销售外呼、客户支持、行政流程自动化等需要跨系统操作的业务运营环节。",
+      "tags": [
+        "multi-agent",
+        "computer-use",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-10-11T02:49:26.330793+00:00"
+    },
+    {
+      "title": "Jakeschincariol/founder-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "stars": 246,
+      "language": "Python",
+      "topics": [
+        "business-plan",
+        "claude-code",
+        "claude-skills",
+        "startup",
+        "subagents",
+        "unit-economics"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-07T01:07:17Z",
+      "summary": "该项目提供11个免费的Claude Skills，用于在创业启动前验证商业想法。核心思路是将Hormozi、Thiel、Jobs等商业方法论训练成虚拟董事会，并配备营销总监、CFO角色，以及由100个buyer agents组成的消费者面板进行模拟测试。技术亮点在于利用Claude的subagents能力构建multi-agent协作体系，通过prompt-engineering将商业框架转化为可执行的评估流程。适用场景包括早期创业者快速验证商业模式、产品经理做市场调研、以及AI工程师探索多智能体在商业决策中的应用。",
+      "tags": [
+        "multi-agent",
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-11T02:49:27.936561+00:00"
+    },
+    {
+      "title": "mrzh7/scam-with-your-friends-web",
+      "source": "github-trending",
+      "url": "https://github.com/mrzh7/scam-with-your-friends-web",
+      "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+      "stars": 228,
+      "language": "TypeScript",
+      "topics": [
+        "ai-game",
+        "browser-game",
+        "call-center",
+        "cloudflare-workers",
+        "coop-game",
+        "dark-comedy",
+        "durable-objects",
+        "i18n",
+        "job-simulator",
+        "multiplayer",
+        "party-game",
+        "react",
+        "scam-with-your-friends",
+        "scam-with-your-friends-web",
+        "text-to-speech",
+        "threejs",
+        "typescript",
+        "voice-chat",
+        "web-game",
+        "webrtc"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T03:25:09Z",
+      "summary": "mrzh7/scam-with-your-friends-web 是一个非官方开源的浏览器端复刻项目，将 AI 呼叫中心模拟游戏搬到 Web 平台。它解决了传统桌面端游戏难以多人协作、部署门槛高的问题，通过 React + Three.js 构建 3D 办公室场景，结合语音聊天与每日配额机制，实现多人合作对抗 AI 的玩法。技术亮点在于使用 Cloudflare Workers 实现自托管，降低运维成本，并集成 AI 驱动的呼叫中心逻辑。适用场景包括 AI 游戏开发学习、多人协作 Web 应用原型验证，以及作为 Cloudflare 边缘计算与 Three.js 结合的参考案例。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-11T02:49:29.503467+00:00"
+    },
+    {
+      "title": "BinceQu/RoboHarness",
+      "source": "github-trending",
+      "url": "https://github.com/BinceQu/RoboHarness",
+      "description": "A robotic harness that gives LLM agents a visual-geometric control panel so that they can directly understand and invoke embodied tasks.",
+      "stars": 224,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T13:59:19Z",
+      "summary": "RoboHarness 是一个面向 LLM agent 的机器人控制中间层，通过视觉-几何控制面板让语言模型直接理解并调用具身任务。它解决的核心问题是 LLM 缺乏对物理空间和机器人动作的直观表征，导致难以将自然语言指令映射为可执行的 embodied 操作。技术亮点在于将视觉几何信息结构化为 agent 可解析的接口，降低 LLM 调用机器人任务的门槛。适用场景包括机器人任务编排、具身智能研究、LLM 驱动的自动化实验平台。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "multimodal",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-11T02:49:31.161435+00:00"
+    },
+    {
+      "title": "mrsarac/ff-tracking",
+      "source": "github-trending",
+      "url": "https://github.com/mrsarac/ff-tracking",
+      "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+      "stars": 222,
+      "language": "Rust",
+      "topics": [
+        "fframes",
+        "generative-video",
+        "hud",
+        "motion-graphics",
+        "rust",
+        "shader",
+        "skia",
+        "sksl"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-10T00:00:25Z",
+      "summary": "mrsarac/ff-tracking 是一个基于 Rust 的生成式视频项目，通过虚拟摄像机拍摄 AI agent 的屏幕画面，并用 tracker 锁定屏幕上的每一个字形（glyph）。它解决了 AI agent 屏幕活动可视化与追踪的问题，将 agent 的屏幕操作转化为具有 HUD 风格的动态视频。核心技术亮点在于仅用两次 fframes 渲染 pass 和一个 SkSL shader 完成全部视觉效果，且所有音效均为程序化合成，无需外部素材。该项目适合用于 AI agent 行为监控、演示视频生成、motion graphics 实验以及生成式视频技术研究等场景。",
+      "tags": [
+        "agent",
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-11T02:49:32.555723+00:00"
+    },
+    {
+      "title": "finnvoor/PiDurableKit",
+      "source": "github-trending",
+      "url": "https://github.com/finnvoor/PiDurableKit",
+      "description": "Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API",
+      "stars": 205,
+      "language": "Swift",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T21:19:41Z",
+      "summary": "PiDurableKit 是面向 Apple 平台的持久化 AI agent 开发框架，将 pi-durable 运行时构建于 JavaScriptCore 之上，并对外暴露 Swift API。它解决的核心问题是：在 iOS/macOS 等 Apple 生态中，agent 的状态持久化、跨会话恢复与工具调用缺乏原生支持，开发者往往需要自行拼接 JS 运行时与 Swift 桥接层。其技术亮点在于利用 JavaScriptCore 承载 agent 逻辑，同时以 Swift 原生接口封装，使 agent 可被中断后恢复执行，适合构建需要长期运行、状态可恢复的端侧 AI 助手与自动化流程。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-11T02:49:34.195933+00:00"
+    },
+    {
+      "title": "Hiteater-wzm/eeo",
+      "source": "github-trending",
+      "url": "https://github.com/Hiteater-wzm/eeo",
+      "description": "An open community where brands define themselves for AI",
+      "stars": 205,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-11T00:26:58Z",
+      "summary": "eeo 是一个开源社区项目，定位为让品牌在 AI 生态中定义自身身份与信息的平台。它试图解决的核心问题是：当 LLM 和 AI 助手成为用户获取品牌信息的主要入口时，品牌缺乏结构化、可被 AI 理解与引用的自我描述渠道。项目以 JavaScript 构建，提供社区驱动的品牌信息注册与共享机制，使 AI 系统能够获取经过品牌方确认的权威数据，而非依赖训练语料中的过时或错误信息。技术亮点在于将品牌知识结构化并与 AI 消费场景对接，可视为面向品牌侧的 AI 可见性基础设施。适用场景包括品牌 AI 声誉管理、LLM 品牌信息准确性优化、以及为 RAG 系统提供可信品牌数据源。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-11T02:49:35.839494+00:00"
+    },
+    {
+      "title": "binwu1/drama-series-agent",
+      "source": "github-trending",
+      "url": "https://github.com/binwu1/drama-series-agent",
+      "description": "一句话出片的短剧系列 Agent（A short drama series Agent that produces a film in one sentence）",
+      "stars": 204,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T01:58:57Z",
+      "summary": "binwu1/drama-series-agent 是一个基于 Python 的开源 Agent 项目，主打「一句话出片」的短剧系列生成能力。用户输入一句自然语言描述，Agent 即可自动完成剧本构思、分镜设计、画面生成与视频合成等全流程，最终输出成片。其核心技术亮点在于将 LLM 驱动的剧本创作与 multimodal 视频生成管线串联为端到端 workflow，并通过 Agent 编排多步骤任务，降低短剧内容生产门槛。适用场景包括短视频创作者快速出片、MCN 批量内容生产、AI 影视原型验证及多模态 Agent 教学研究，目前 204 stars，属早期项目。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "large-language-model",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-11T02:49:37.486205+00:00"
+    },
+    {
+      "title": "zhouwei713/luobo-ppt",
+      "source": "github-trending",
+      "url": "https://github.com/zhouwei713/luobo-ppt",
+      "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+      "stars": 202,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "codex-skill",
+        "powerpoint",
+        "pptx",
+        "presentation"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-08T11:51:27Z",
+      "summary": "luobo-ppt 是一个基于 Agent Skill 范式的开源工具，用于生成和美化可编辑的原生 PPT（pptx）文件。它解决的是 LLM 生成演示文稿时输出不可编辑、格式失真、样式粗糙的问题，通过将 PPT 生成能力封装为 Codex/Agent Skill，让 AI Agent 直接调用并产出符合 PowerPoint 原生格式的可编辑文件。核心技术亮点在于结合 Python 的 pptx 操作能力与 Agent Skill 的标准化调用接口，支持模板美化与内容自动填充。适用场景包括自动化报告生成、AI 辅助办公、企业批量制作演示文稿，以及需要将 LLM 输出落地为可交付 PPT 的工作流。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-11T02:49:39.275032+00:00"
+    },
+    {
+      "title": "Freeiuannihilate/Imei-Repair",
+      "source": "github-trending",
+      "url": "https://github.com/Freeiuannihilate/Imei-Repair",
+      "description": "Aiding developers in crafting advanced AI-driven solutions without iOS mobile device concerns, Imei Repair Free offers a seamless platform providing...",
+      "stars": 200,
+      "language": null,
+      "topics": [
+        "chimera",
+        "cpid",
+        "device-unlocking",
+        "imei-check",
+        "imei-check-myanmar",
+        "imei-masker",
+        "imei-number",
+        "imei-randomization",
+        "imei-repair",
+        "kg-bypass-by-imei",
+        "samfw-tool",
+        "samsung-frp-bypass-install-setup-windows-2026",
+        "samsung-frp-tool-download",
+        "termux-lock",
+        "xiaomi-mi-account"
+      ],
+      "collected_at": "2026-10-11T02:49:06.827081+00:00",
+      "published_at": "2026-10-09T13:53:04Z",
+      "summary": "Imei-Repair 是一个面向 iOS 设备 IMEI 修复与解锁的开源工具，主要帮助开发者在无需实体 iOS 设备的情况下构建相关自动化解决方案。项目围绕 chimera、cpid、device-unlocking、imei-check 等主题，提供 IMEI 校验、设备解锁与修复流程的平台化支持。其技术亮点在于将设备解锁与 IMEI 处理逻辑抽象为可编程接口，降低了对真实硬件和人工操作的依赖。适用场景包括移动设备维修服务、二手设备检测、运营商合规校验以及需要批量处理 IMEI 信息的开发者工具链。但该项目与主流 AI/LLM 技术栈关联较弱，更偏向移动设备底层工具。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-11T02:49:41.081335+00:00"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-11-022",
+  "title": "Recent AI models struggled to match a human algorithmic innovation",
+  "source": "hackernews-top",
+  "url": "https://epoch.ai/publications/innovationeval",
+  "summary": "该研究探讨了当前主流AI模型（如GPT-4、Claude等）在复现人类算法创新方面的能力局限。研究通过设计需要算法突破的任务，对比人类与AI的表现，发现模型虽能处理常规编程问题，但在需要原创性算法设计时显著落后。核心技术亮点在于构建了评估AI算法创新能力的基准框架，揭示了模型在组合搜索、动态规划等场景中的推理短板。适用场景包括AI能力边界评估、算法教学辅助及下一代推理模型研发。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "large-language-model",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:50:13.815298+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

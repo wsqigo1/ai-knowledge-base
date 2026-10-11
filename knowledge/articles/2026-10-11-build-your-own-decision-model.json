@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-11-010",
+  "title": "Build your own decision model",
+  "source": "hackernews-top",
+  "url": "https://nishtahir.com/build-your-own-decision-model/",
+  "summary": "该项目引导开发者从零构建自定义决策模型（decision model），解决通用 LLM 在结构化决策场景中可控性差、难以嵌入业务规则的问题。核心技术亮点在于将决策逻辑显式建模为可组合的规则/树结构，并与 LLM 推理能力结合，支持可解释的决策路径追踪。适用场景包括风控审批、自动化工作流分支、Agent 任务规划等需要确定性决策边界的工程场景。",
+  "tags": [
+    "reasoning",
+    "agent",
+    "open-source",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:49:44.324026+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

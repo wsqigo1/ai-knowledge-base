@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-11-021",
+  "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+  "source": "hackernews-top",
+  "url": "https://openscad.org/",
+  "summary": "OpenSCAD 是一款基于脚本的实体 3D CAD 建模工具，用户通过编写代码（而非鼠标拖拽）来定义参数化几何模型。它解决了传统 GUI CAD 难以版本控制、参数复用和程序化批量生成的问题，核心亮点在于将 CSG（Constructive Solid Geometry）与函数式脚本语言结合，模型完全由代码描述，天然适配 Git 工作流和 CI 自动化。典型场景包括 3D 打印件参数化设计、机械零件库生成、教学演示以及需要批量定制几何形状的工程任务。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:50:12.247617+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

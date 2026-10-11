@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-11-005",
+  "title": "finnvoor/PiDurableKit",
+  "source": "github-trending",
+  "url": "https://github.com/finnvoor/PiDurableKit",
+  "summary": "PiDurableKit 是面向 Apple 平台的持久化 AI agent 开发框架，将 pi-durable 运行时构建于 JavaScriptCore 之上，并对外暴露 Swift API。它解决的核心问题是：在 iOS/macOS 等 Apple 生态中，agent 的状态持久化、跨会话恢复与工具调用缺乏原生支持，开发者往往需要自行拼接 JS 运行时与 Swift 桥接层。其技术亮点在于利用 JavaScriptCore 承载 agent 逻辑，同时以 Swift 原生接口封装，使 agent 可被中断后恢复执行，适合构建需要长期运行、状态可恢复的端侧 AI 助手与自动化流程。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-11T02:49:06.827081+00:00",
+  "analyzed_at": "2026-10-11T02:49:34.195933+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

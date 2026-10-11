@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-11-016",
+  "title": "Why DuckDB 2.0 is faster",
+  "source": "hackernews-top",
+  "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+  "summary": "DuckDB 2.0 是嵌入式分析型数据库的重大版本更新，核心解决单机 OLAP 场景下查询性能瓶颈问题。文章深入剖析其性能提升来源，包括新的向量化执行引擎优化、更激进的查询优化器（如改进的 join reordering 与 filter pushdown）、存储层压缩与 zone map 增强，以及并行调度改进。这些改动使 DuckDB 在 TPC-H 等 benchmark 上显著提速，同时保持零依赖嵌入式部署优势。适用于本地数据分析、数据科学工作流、ETL 管道及作为轻量级分析后端替代传统数仓的场景。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:49:59.988280+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

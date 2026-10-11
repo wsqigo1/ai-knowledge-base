@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-11-009",
+  "title": "WallHop – 12ft.io is gone, so I built a replacement",
+  "source": "hackernews-top",
+  "url": "https://wallhop.io/",
+  "summary": "WallHop 是 12ft.io 关停后的替代工具，用于绕过新闻网站的付费墙和 JavaScript 渲染限制，让用户直接访问被遮挡的正文内容。12ft.io 曾通过伪装 Googlebot 爬虫身份来获取页面全文，其下线导致大量依赖该服务的用户失去免费阅读渠道。WallHop 延续了这一思路，核心在于请求头伪装与内容提取，可能结合了代理转发或服务端渲染来还原被 paywall 拦截的文本。该项目在 HN 获得 116 分，说明付费墙绕过仍是工程师群体关注的实际痛点。适用场景包括技术调研时快速获取被锁定的文章、构建内容聚合工具，以及研究反爬与反反爬机制。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:49:42.971938+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-11-004",
+  "title": "mrsarac/ff-tracking",
+  "source": "github-trending",
+  "url": "https://github.com/mrsarac/ff-tracking",
+  "summary": "mrsarac/ff-tracking 是一个基于 Rust 的生成式视频项目，通过虚拟摄像机拍摄 AI agent 的屏幕画面，并用 tracker 锁定屏幕上的每一个字形（glyph）。它解决了 AI agent 屏幕活动可视化与追踪的问题，将 agent 的屏幕操作转化为具有 HUD 风格的动态视频。核心技术亮点在于仅用两次 fframes 渲染 pass 和一个 SkSL shader 完成全部视觉效果，且所有音效均为程序化合成，无需外部素材。该项目适合用于 AI agent 行为监控、演示视频生成、motion graphics 实验以及生成式视频技术研究等场景。",
+  "tags": [
+    "agent",
+    "open-source",
+    "multimodal",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-11T02:49:06.827081+00:00",
+  "analyzed_at": "2026-10-11T02:49:32.555723+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

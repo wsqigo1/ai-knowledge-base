@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-11-008",
+  "title": "zhouwei713/luobo-ppt",
+  "source": "github-trending",
+  "url": "https://github.com/zhouwei713/luobo-ppt",
+  "summary": "luobo-ppt 是一个基于 Agent Skill 范式的开源工具，用于生成和美化可编辑的原生 PPT（pptx）文件。它解决的是 LLM 生成演示文稿时输出不可编辑、格式失真、样式粗糙的问题，通过将 PPT 生成能力封装为 Codex/Agent Skill，让 AI Agent 直接调用并产出符合 PowerPoint 原生格式的可编辑文件。核心技术亮点在于结合 Python 的 pptx 操作能力与 Agent Skill 的标准化调用接口，支持模板美化与内容自动填充。适用场景包括自动化报告生成、AI 辅助办公、企业批量制作演示文稿，以及需要将 LLM 输出落地为可交付 PPT 的工作流。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-11T02:49:06.827081+00:00",
+  "analyzed_at": "2026-10-11T02:49:39.275032+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

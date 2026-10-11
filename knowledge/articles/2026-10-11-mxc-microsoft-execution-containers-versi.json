@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-11-018",
+  "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+  "source": "hackernews-top",
+  "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+  "summary": "Microsoft Execution Containers (Mxc) 是微软开源的轻量级沙箱执行环境，v1.0.0 正式发布。它解决 AI agent 和代码生成工具在执行不可信代码时的安全隔离问题，通过容器化技术提供进程级隔离、文件系统与网络访问控制。核心技术亮点包括低开销启动、跨平台支持以及与 agent 框架的易集成性，使 LLM 生成的代码可在受控环境中安全运行。适用场景涵盖 AI 代码解释器、自动化 agent 工具调用、CI/CD 中的不可信代码执行，以及需要安全沙箱的开发者工具链。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:50:05.335926+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}

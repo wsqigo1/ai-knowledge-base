@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-11-012",
+  "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+  "source": "hackernews-top",
+  "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+  "summary": "该项目利用AI Agent在消耗500B tokens后完成对一款第一人称射击游戏的反编译工作，探索LLM在逆向工程领域的极限能力。核心亮点在于将大规模语言模型与Agent工作流结合，通过持续迭代推理实现从二进制到可读源码的转换，涉及代码生成、长上下文推理与工具调用。适用场景包括逆向工程自动化、遗留系统理解、安全审计及AI辅助代码分析。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning",
+    "tool-use",
+    "large-language-model"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-11T02:49:07.002994+00:00",
+  "analyzed_at": "2026-10-11T02:49:50.975249+00:00",
+  "organized_at": "2026-10-11T02:50:15.428004+00:00",
+  "status": "published"
+}
