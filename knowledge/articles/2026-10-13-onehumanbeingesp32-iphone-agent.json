@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-003",
+  "title": "onehumanbeing/esp32-iphone-agent",
+  "source": "github-trending",
+  "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+  "summary": "esp32-iphone-agent 是一个开源项目，通过一块约 7 美元的 ESP32 开发板，让 AI 模型直接操控真实 iPhone。它解决了 AI agent 难以在封闭 iOS 生态中执行真实操作的问题：ESP32 通过 AirPlay 协议获取 iPhone 屏幕画面作为视觉输入，再借助 USB HID 模拟键鼠实现物理点击与输入，从而无需 Mac、开发者账号或越狱即可完成 computer-use 闭环。项目兼容任意 OpenAI 兼容的 vision model，核心亮点在于用极低成本硬件打通了感知与执行链路。适用于自动化测试、AI agent 研究、移动端 RPA 及多模态模型真机验证等场景。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "computer-use",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-10-13T04:28:12.458907+00:00",
+  "analyzed_at": "2026-10-13T04:28:23.960700+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

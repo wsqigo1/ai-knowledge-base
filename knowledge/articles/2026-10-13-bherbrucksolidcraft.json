@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-002",
+  "title": "bherbruck/solidcraft",
+  "source": "github-trending",
+  "url": "https://github.com/bherbruck/solidcraft",
+  "summary": "SolidCraft 是一个用纯 Rust 编写的开源参数化 3D CAD 应用，支持桌面端、Web 端，并通过 MCP（Model Context Protocol）实现自动化控制。它解决的是传统 CAD 软件闭源、跨平台能力弱、难以与 AI 工作流集成的问题。核心技术亮点在于采用 BRep（边界表示）几何内核与 egui 即时模式 GUI，全部以 Rust 实现，兼顾性能与内存安全；同时通过 MCP 暴露接口，使 LLM/agent 能够程序化驱动建模操作。适用场景包括参数化机械设计、浏览器内轻量建模、以及将 CAD 能力嵌入 AI 自动化流水线的开发者。",
+  "tags": [
+    "mcp",
+    "open-source",
+    "developer-tools",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-13T04:28:12.458907+00:00",
+  "analyzed_at": "2026-10-13T04:28:20.120265+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

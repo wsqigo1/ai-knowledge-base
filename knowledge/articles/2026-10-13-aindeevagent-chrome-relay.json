@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-009",
+  "title": "aindeev/agent-chrome-relay",
+  "source": "github-trending",
+  "url": "https://github.com/aindeev/agent-chrome-relay",
+  "summary": "aindeev/agent-chrome-relay 是一个基于 Go 语言开发的开源工具，通过 Chrome DevTools Protocol (CDP) 与 Chrome 扩展相结合，让 AI agent 能够在后台标签页中直接操控用户已登录的 Chrome 浏览器。它解决了 AI agent 无法复用用户真实浏览器会话（cookies、登录态）的痛点，避免重复认证和反爬拦截。核心技术亮点在于通过 relay 架构桥接 agent 与浏览器，支持后台静默操作而不干扰用户当前浏览。适用于需要以用户身份执行网页自动化任务的场景，如自动填表、数据抓取、跨站点工作流编排等。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-13T04:28:12.458907+00:00",
+  "analyzed_at": "2026-10-13T04:28:47.446303+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

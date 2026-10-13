@@ -1,0 +1,550 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-13T04:28:13.810633+00:00",
+  "date": "2026-10-13",
+  "count": 19,
+  "items": [
+    {
+      "title": "wheresryan22/anatomy",
+      "source": "github-trending",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "stars": 6592,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-12T22:40:08Z",
+      "summary": "anatomy 是一个面向 AI agent 的开源技能（agent skill），用于将现实世界中的机械装置与复杂系统自动转化为精细、可交互的等距（isometric）插画。它解决了技术文档、教学与产品说明中缺乏高质量可视化素材的问题，让 agent 能直接生成结构清晰、风格统一的示意图。核心技术亮点在于输出 polished SVG，并可选叠加 WebGL shaders 与 3D 效果，兼顾矢量可缩放性与实时渲染表现力。项目以 JavaScript 实现，属于 agent-skill 生态中的可视化能力扩展，适用于技术科普、工程教学、产品演示、系统架构说明等需要快速产出专业级图解的场景。",
+      "tags": [
+        "agent",
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:28:16.124755+00:00"
+    },
+    {
+      "title": "mhtsec/ARTEX",
+      "source": "github-trending",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 3654,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-10T09:16:20Z",
+      "summary": "ARTEX 是百度“agent+”攻防挑战赛冠军项目，基于 Go 构建的 AI 自主渗透测试系统。它解决传统渗透测试高度依赖人工经验、流程冗长且难以规模化的问题，通过 LLM 驱动的 agent 自主完成信息收集、漏洞探测与利用链编排。核心技术亮点包括多 agent 协同的攻防决策框架、工具调用（tool-use）与任务规划闭环，以及面向真实网络环境的自动化执行引擎。适用场景涵盖红队演练、企业安全评估、CTF 自动化以及安全研究中的漏洞验证。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-10-13T04:28:18.021544+00:00"
+    },
+    {
+      "title": "bherbruck/solidcraft",
+      "source": "github-trending",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "stars": 1139,
+      "language": "Rust",
+      "topics": [
+        "3d-modeling",
+        "brep",
+        "cad",
+        "egui",
+        "mcp",
+        "parametric-cad",
+        "rust",
+        "step",
+        "wasm"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T04:25:51Z",
+      "summary": "SolidCraft 是一个用纯 Rust 编写的开源参数化 3D CAD 应用，支持桌面端、Web 端，并通过 MCP（Model Context Protocol）实现自动化控制。它解决的是传统 CAD 软件闭源、跨平台能力弱、难以与 AI 工作流集成的问题。核心技术亮点在于采用 BRep（边界表示）几何内核与 egui 即时模式 GUI，全部以 Rust 实现，兼顾性能与内存安全；同时通过 MCP 暴露接口，使 LLM/agent 能够程序化驱动建模操作。适用场景包括参数化机械设计、浏览器内轻量建模、以及将 CAD 能力嵌入 AI 自动化流水线的开发者。",
+      "tags": [
+        "mcp",
+        "open-source",
+        "developer-tools",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:28:20.120265+00:00"
+    },
+    {
+      "title": "rociiu/talorys",
+      "source": "github-trending",
+      "url": "https://github.com/rociiu/talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "stars": 911,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant",
+        "react",
+        "self-hosted",
+        "typescript",
+        "workers-ai"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T00:25:31Z",
+      "summary": "Talorys 是一个部署在用户自有 Cloudflare 账户中的个人 AI agent，通过 npx create-talorys@latest 一条命令即可完成部署。它解决了个人助理类应用数据隐私与托管成本的问题：所有对话、记忆、任务、笔记和定时提醒均运行在用户自己的 Cloudflare Workers 与 Durable Objects 上，无遥测、单用户设计、免费额度友好。核心技术亮点在于利用 Cloudflare Durable Objects 实现有状态的 agent 记忆与任务调度，结合 Workers 的边缘计算能力，无需自建服务器即可获得持久化会话与定时提醒能力。适用场景包括个人知识管理、日程提醒、轻量级自动化助手，以及希望低成本、高隐私地自托管 AI agent 的开发者。",
+      "tags": [
+        "ai-agent",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:28:22.162615+00:00"
+    },
+    {
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "source": "github-trending",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "stars": 844,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-12T17:38:21Z",
+      "summary": "esp32-iphone-agent 是一个开源项目，通过一块约 7 美元的 ESP32 开发板，让 AI 模型直接操控真实 iPhone。它解决了 AI agent 难以在封闭 iOS 生态中执行真实操作的问题：ESP32 通过 AirPlay 协议获取 iPhone 屏幕画面作为视觉输入，再借助 USB HID 模拟键鼠实现物理点击与输入，从而无需 Mac、开发者账号或越狱即可完成 computer-use 闭环。项目兼容任意 OpenAI 兼容的 vision model，核心亮点在于用极低成本硬件打通了感知与执行链路。适用于自动化测试、AI agent 研究、移动端 RPA 及多模态模型真机验证等场景。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "computer-use",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-10-13T04:28:23.960700+00:00"
+    },
+    {
+      "title": "ThariqS/ai-newtab",
+      "source": "github-trending",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "stars": 773,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-10T04:20:03Z",
+      "summary": "ai-newtab 是一个基于 Claude 的浏览器新标签页扩展，通过读取用户浏览历史，每日自动生成个性化的新标签页内容。它解决了传统新标签页千篇一律、缺乏上下文关联的问题，将浏览行为转化为可用的信息聚合与回顾入口。核心技术亮点在于利用 Claude 的 LLM 能力对浏览历史进行语义理解与摘要生成，并结合 TypeScript 构建浏览器扩展，实现自动化内容编排。适用场景包括个人知识管理、日常信息回顾、以及希望借助 AI 提升浏览器起始页效率的开发者与重度上网用户。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:28:25.834249+00:00"
+    },
+    {
+      "title": "franzenzenhofer/big-arrow-on-the-screen",
+      "source": "github-trending",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "stars": 674,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "macos",
+        "swift"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-12T16:38:15Z",
+      "summary": "big-arrow-on-the-screen 是一个用 Swift 编写的 macOS CLI 工具，让 AI agent（如 Claude Code、Codex）能在屏幕上直接绘制大箭头、方框和文字标注。它解决了 AI 助手在指导用户操作时难以直观指示屏幕位置的问题，通过 click-through 透明覆盖层实现不干扰用户操作的可视化引导，绘制内容会自动消失。核心亮点在于以 Skill 形式集成到主流 AI coding agent 中，MIT 开源，安装即用。适用于需要 AI 实时指路、教学演示、远程协助或自动化流程中视觉提示的场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-13T04:28:27.597435+00:00"
+    },
+    {
+      "title": "zhuyansen/new-term-radar",
+      "source": "github-trending",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "stars": 663,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "aisa",
+        "github-actions",
+        "keyword-research",
+        "seo",
+        "trends"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T02:55:25Z",
+      "summary": "new-term-radar 是一个基于 Python 的每日新词雷达工具，通过 GitHub Actions 定时抓取 X、Hugging Face、GitHub 及站点地图（sitemap）等渠道，自动发现新出现的 AI 模型名、产品名和仓库名。它解决的核心问题是：传统关键词工具（如 Google Trends、Ahrefs）存在收录延迟，导致 SEO 从业者和 AI 内容创作者无法第一时间捕捉新兴术语。技术亮点在于多源聚合抓取与自动化流水线，借助 GitHub Actions 实现零运维的每日更新。适用场景包括 AI 领域 SEO 关键词研究、内容选题挖掘、竞品动态监控以及技术趋势追踪。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-13T04:28:29.623543+00:00"
+    },
+    {
+      "title": "trhhubsd/ARTEXX",
+      "source": "github-trending",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "stars": 651,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-09T12:43:45Z",
+      "summary": "ARTEXX 是一个基于 Go 语言构建的 AI 自主渗透测试系统，源自百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX。该系统旨在解决传统渗透测试高度依赖人工经验、效率低且难以规模化的问题，通过 LLM 驱动的 agent 自主完成信息收集、漏洞探测与利用链编排。核心技术亮点在于多 agent 协同的攻防决策框架与 tool-use 机制，使 AI 能在真实网络环境中动态规划攻击路径。适用场景包括红队演练、自动化安全评估、CTF 竞赛及企业攻防对抗训练。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-10-13T04:28:31.219474+00:00"
+    },
+    {
+      "title": "Aquafitzdisconnect/Discord-Server-Raider",
+      "source": "github-trending",
+      "url": "https://github.com/Aquafitzdisconnect/Discord-Server-Raider",
+      "description": "Discord Server Raider is an AI-driven tool that automates server management and moderation tasks, allowing seamless user experience and efficient resource...",
+      "stars": 475,
+      "language": null,
+      "topics": [
+        "discord-destroyer",
+        "discordraid",
+        "multi-selfbot-tool",
+        "raid",
+        "raid-discord",
+        "raider",
+        "selfbot-tool",
+        "tool-raid"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-12T17:16:34Z",
+      "summary": "Discord Server Raider 是一个基于 AI 驱动的 Discord 服务器自动化工具，声称可自动执行服务器管理与审核任务。但从其 topics（discord-destroyer、discordraid、multi-selfbot-tool、raid）来看，该项目的实际用途是批量操控 self-bot 账号对 Discord 服务器发起 raid 攻击、恶意破坏和自动化骚扰，而非正当的服务器管理。核心技术涉及多账号 self-bot 编排与自动化消息投递，与 LLM/Agent 技术栈关联极弱，本质上属于滥用平台 API 的灰色工具。适用场景为恶意攻击 Discord 社区，不具备对 AI 工程师的正面参考价值，且使用此类工具违反 Discord ToS 并可能涉及法律风险。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 1.8,
+      "analyzed_at": "2026-10-13T04:28:33.288771+00:00"
+    },
+    {
+      "title": "gholtzap/lintapple",
+      "source": "github-trending",
+      "url": "https://github.com/gholtzap/lintapple",
+      "description": "It should be impossible for AI to make a bad UI.",
+      "stars": 459,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-12T13:04:45Z",
+      "summary": "lintapple 是一个面向 AI 代码生成场景的 UI 质量约束工具，核心目标是让 AI 生成的界面代码不再产出糟糕的 UI。它通过静态检查与规则引擎对 AI 生成的组件代码进行实时校验，在开发流程中拦截布局错乱、样式冲突、可访问性缺失等常见问题，从而把 UI 质量保障前移到生成阶段。项目以 JavaScript 实现，可集成到现有前端工作流与 AI 编码助手链路中，适合使用 LLM 辅助前端开发、希望降低人工 UI 审查成本的团队，也适用于构建 AI 驱动的低代码或页面生成平台。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:28:35.529146+00:00"
+    },
+    {
+      "title": "Jakeschincariol/founder-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "stars": 411,
+      "language": "Python",
+      "topics": [
+        "business-plan",
+        "claude-code",
+        "claude-skills",
+        "startup",
+        "subagents",
+        "unit-economics"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-07T01:07:17Z",
+      "summary": "该项目提供 11 个免费 Claude skills，用于在创业产品正式发布前进行商业验证。核心思路是将商业顾问角色封装为 Claude subagents：一个基于 Hormozi、Thiel 和 Jobs 方法论训练的虚拟董事会、一个营销总监、一个 CFO，以及由 100 个 buyer agents 组成的消费者面板。技术上依托 Claude Code 的 skill 机制与 subagent 编排，用 Python 实现，MIT 协议开源。适用场景是早期创业者在投入开发资源前，快速获得多视角的商业反馈与市场验证信号。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "prompt-engineering",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:28:37.403052+00:00"
+    },
+    {
+      "title": "mrsarac/ff-tracking",
+      "source": "github-trending",
+      "url": "https://github.com/mrsarac/ff-tracking",
+      "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+      "stars": 345,
+      "language": "Rust",
+      "topics": [
+        "fframes",
+        "generative-video",
+        "hud",
+        "motion-graphics",
+        "rust",
+        "shader",
+        "skia",
+        "sksl"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-11T22:05:26Z",
+      "summary": "mrsarac/ff-tracking 是一个基于 Rust 的生成式视频工具，通过虚拟摄像机拍摄 AI agent 的屏幕画面，并用 tracker 锁定每一个字形（glyph）。它解决了 AI agent 行为可视化与录屏追踪的需求，让开发者能自动生成带有 HUD 风格追踪效果的演示视频。核心技术亮点在于仅用两次 fframes 渲染通道和一个 SkSL shader 完成字形追踪与合成，所有音效也由程序化合成生成，无需外部素材。适用场景包括 AI agent 演示视频制作、开发者工具宣传、motion graphics 生成以及自动化 HUD 界面录制。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "agent",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:28:39.353646+00:00"
+    },
+    {
+      "title": "morluto/awesome-reverse-engineering",
+      "source": "github-trending",
+      "url": "https://github.com/morluto/awesome-reverse-engineering",
+      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "stars": 319,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "binary-analysis",
+        "ctf",
+        "cybersecurity",
+        "debugging",
+        "decompiler",
+        "disassembler",
+        "dynamic-analysis",
+        "firmware",
+        "frida",
+        "ghidra",
+        "malware-analysis",
+        "mcp",
+        "reverse-engineering",
+        "security",
+        "security-tools",
+        "static-analysis"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T03:13:13Z",
+      "summary": "awesome-reverse-engineering 是一个精选逆向工程工具与学习资源的 awesome-list 项目，覆盖二进制分析、移动应用、固件、文件格式与网络协议等方向。它解决逆向工程师在工具选型与学习路径上信息分散、质量参差的问题，通过人工筛选聚合高质量工具链与教程。项目近期被标注 agent-skills、ai-agents 等标签，反映逆向工程与 AI Agent 能力结合的趋势，例如利用 LLM 辅助二进制分析、协议推断与漏洞挖掘。适用场景包括安全研究、恶意软件分析、CTF、固件审计，以及构建具备逆向能力的 AI Agent 工作流。",
+      "tags": [
+        "open-source",
+        "agent",
+        "developer-tools",
+        "tool-use",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-13T04:28:41.465396+00:00"
+    },
+    {
+      "title": "zhouwei713/luobo-ppt",
+      "source": "github-trending",
+      "url": "https://github.com/zhouwei713/luobo-ppt",
+      "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+      "stars": 307,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "codex-skill",
+        "powerpoint",
+        "pptx",
+        "presentation"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-08T11:51:27Z",
+      "summary": "luobo-ppt 是一个基于 Agent Skill 架构的开源工具，用于生成和美化可编辑的原生 PPT（pptx）文件。它解决了 LLM 生成演示文稿时通常只能输出文本或图片、难以产出真正可编辑 PowerPoint 文件的痛点，通过将 PPT 生成能力封装为 agent-skill / codex-skill，让 AI Agent 能够直接调用并产出原生 pptx 格式。核心技术亮点在于结合 Python 的 python-pptx 等库实现结构化排版与美化，并以 skill 形式接入 Codex 等 Agent 框架，实现 tool-use 式调用。适用场景包括自动化报告生成、商业演示初稿制作、以及将 LLM 工作流延伸至办公文档产出。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:28:43.515933+00:00"
+    },
+    {
+      "title": "fayazara/robot-heads",
+      "source": "github-trending",
+      "url": "https://github.com/fayazara/robot-heads",
+      "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+      "stars": 285,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "animation",
+        "avatar",
+        "canvas",
+        "react",
+        "robot"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-10T05:18:23Z",
+      "summary": "fayazara/robot-heads 是一个基于 React 的动画 3D 机器人头像组件库，提供带 LED 表情的电视头机器人形象，用于可视化 AI agent 的实时运行状态。它解决了 agent 交互中缺乏直观状态反馈的问题，让用户能通过机器人面部表情感知 agent 正在思考、执行或等待。核心技术亮点在于使用 Canvas 渲染 3D 动画，并以 TypeScript 编写、组件化封装，便于集成到现有 React 应用。适用场景包括 AI 助手界面、agent 调试面板、聊天机器人前端以及需要拟人化状态指示的开发者工具。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-13T04:28:45.491740+00:00"
+    },
+    {
+      "title": "aindeev/agent-chrome-relay",
+      "source": "github-trending",
+      "url": "https://github.com/aindeev/agent-chrome-relay",
+      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "stars": 258,
+      "language": "Go",
+      "topics": [
+        "agent-browser",
+        "ai-agents",
+        "browser-automation",
+        "cdp",
+        "chrome-extension",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "macos",
+        "paseo"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T03:20:43Z",
+      "summary": "aindeev/agent-chrome-relay 是一个基于 Go 语言开发的开源工具，通过 Chrome DevTools Protocol (CDP) 与 Chrome 扩展相结合，让 AI agent 能够在后台标签页中直接操控用户已登录的 Chrome 浏览器。它解决了 AI agent 无法复用用户真实浏览器会话（cookies、登录态）的痛点，避免重复认证和反爬拦截。核心技术亮点在于通过 relay 架构桥接 agent 与浏览器，支持后台静默操作而不干扰用户当前浏览。适用于需要以用户身份执行网页自动化任务的场景，如自动填表、数据抓取、跨站点工作流编排等。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:28:47.446303+00:00"
+    },
+    {
+      "title": "NousResearch/hermes-official-plugins",
+      "source": "github-trending",
+      "url": "https://github.com/NousResearch/hermes-official-plugins",
+      "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+      "stars": 253,
+      "language": "Python",
+      "topics": [
+        "agent-plugins",
+        "ai-agents",
+        "claude",
+        "hermes",
+        "hermes-agent",
+        "home-assistant",
+        "llm",
+        "model-provider",
+        "nous-research",
+        "plugins",
+        "spotify"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T01:25:52Z",
+      "summary": "Hermes Agent 官方插件仓库，由 Nous Research 构建维护，提供 Home Assistant、Spotify、Claude Subscription DirectSDK 等即装即用的插件，通过 Hermes 插件目录一键安装。它解决的是 AI Agent 生态中工具集成碎片化的问题，让开发者无需自行封装外部服务接口即可扩展 Agent 能力。核心亮点在于官方维护保证兼容性，且覆盖智能家居、音乐流媒体、Claude 订阅直连等高频场景。适用于基于 Hermes Agent 构建个人助理、自动化工作流的开发者，以及需要快速接入第三方服务的 agent 应用场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:28:49.404908+00:00"
+    },
+    {
+      "title": "juliobsz/skills",
+      "source": "github-trending",
+      "url": "https://github.com/juliobsz/skills",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "stars": 248,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "astro",
+        "awwwards",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "creative-coding",
+        "frontend",
+        "gsap",
+        "nextjs",
+        "web-design",
+        "webgl"
+      ],
+      "collected_at": "2026-10-13T04:28:12.458907+00:00",
+      "published_at": "2026-10-13T01:05:32Z",
+      "summary": "juliobsz/skills 是一个面向 Claude Code 等 agent 运行时的技能包，核心能力是让用户仅用一行自然语言描述即可生成达到 Awwwards 获奖水准的网站。它通过将 Astro 静态站点框架与预置的设计规范、组件模板和构建流程封装为可复用的 agent skill，解决了通用代码生成模型在视觉设计、排版细节和交互动效上产出平庸的问题。技术亮点在于把设计系统知识固化为 skill 指令，配合 Astro 的组件化与性能优势，让 agent 输出可直接部署的高质量前端。适用于需要快速产出作品集、营销落地页或概念原型的开发者与设计师。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:28:51.472604+00:00"
+    }
+  ]
+}

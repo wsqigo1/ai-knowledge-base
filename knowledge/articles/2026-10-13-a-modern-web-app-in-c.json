@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-13-015",
+  "title": "A Modern Web App in C",
+  "source": "hackernews-top",
+  "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+  "summary": "该项目展示如何用纯 C 语言构建一个现代 Web 应用，挑战了 Web 开发必须依赖高级语言和框架的常规认知。它解决了在资源受限或追求极致性能场景下，如何用底层语言实现完整 Web 功能的问题。核心技术亮点包括：手动实现 HTTP 服务器、路由、模板渲染、JSON 解析以及可能的内存管理，并可能集成 SQLite 等 C 库。适用场景为嵌入式系统、高性能后端服务、教学演示，或对运行时开销极度敏感的环境。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:28:59.173511+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

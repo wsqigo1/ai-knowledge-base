@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-011",
+  "title": "juliobsz/skills",
+  "source": "github-trending",
+  "url": "https://github.com/juliobsz/skills",
+  "summary": "juliobsz/skills 是一个面向 Claude Code 等 agent 运行时的技能包，核心能力是让用户仅用一行自然语言描述即可生成达到 Awwwards 获奖水准的网站。它通过将 Astro 静态站点框架与预置的设计规范、组件模板和构建流程封装为可复用的 agent skill，解决了通用代码生成模型在视觉设计、排版细节和交互动效上产出平庸的问题。技术亮点在于把设计系统知识固化为 skill 指令，配合 Astro 的组件化与性能优势，让 agent 输出可直接部署的高质量前端。适用于需要快速产出作品集、营销落地页或概念原型的开发者与设计师。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "prompt-engineering",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-13T04:28:12.458907+00:00",
+  "analyzed_at": "2026-10-13T04:28:51.472604+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

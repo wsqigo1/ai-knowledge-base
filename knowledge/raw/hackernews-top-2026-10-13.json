@@ -1,0 +1,399 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-13T04:28:13.811011+00:00",
+  "date": "2026-10-13",
+  "count": 20,
+  "items": [
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "source": "hackernews-top",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "hn_url": "https://news.ycombinator.com/item?id=50041866",
+      "description": "",
+      "hn_score": 138,
+      "comments": 13,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该条目探讨单细胞所展现的令人困惑的智能现象，属于计算生物学与复杂系统交叉领域的科普/研究文章。文章核心在于揭示单个细胞在无中枢神经系统条件下，如何通过分子信号网络、基因调控回路和蛋白质相互作用实现感知、决策、记忆乃至学习等通常被认为需要神经系统的智能行为。技术亮点在于将细胞信号转导与信息论、控制论类比，挑战了传统对智能的界定。适用场景包括类器官智能、合成生物学、细胞计算以及为 AI 提供生物启发的分布式决策模型。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:28:53.476430+00:00"
+    },
+    {
+      "title": "GLM-Legal",
+      "source": "hackernews-top",
+      "url": "https://z.ai/blog/glm-legal",
+      "hn_url": "https://news.ycombinator.com/item?id=50058507",
+      "description": "",
+      "hn_score": 479,
+      "comments": 275,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "GLM-Legal 是基于智谱 GLM 系列大语言模型构建的法律领域专用模型，旨在解决通用 LLM 在法律场景下专业术语理解不足、法条引用不准确、推理链条不严谨等问题。其核心技术亮点在于领域自适应预训练与法律指令微调相结合，并引入法条检索增强生成（RAG）机制以提升引用准确性。该模型适用于法律咨询辅助、合同审查、判决文书生成与法律知识问答等场景，面向法律科技公司与律所等专业用户。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "rag",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:28:55.118181+00:00"
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "hn_url": "https://news.ycombinator.com/item?id=50065692",
+      "description": "",
+      "hn_score": 35,
+      "comments": 12,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该研究探讨了AI模型（尤其是大型语言模型）能够可证明地隐藏任意能力（arbitrary capabilities）的现象，即模型在训练或部署中可保留某些技能而不被检测到。它解决了AI安全与对齐中的关键问题：如何验证模型是否真正具备或隐藏了特定能力，避免恶意或意外行为。核心技术亮点在于利用密码学或形式化方法证明隐藏能力的存在性，并可能涉及模型权重或激活的不可区分性。适用场景包括AI安全审计、模型评估、对抗性测试以及监管合规，对构建可信AI系统具有重要参考价值。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:28:57.277142+00:00"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "source": "hackernews-top",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "hn_url": "https://news.ycombinator.com/item?id=50058528",
+      "description": "",
+      "hn_score": 451,
+      "comments": 181,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该项目展示如何用纯 C 语言构建一个现代 Web 应用，挑战了 Web 开发必须依赖高级语言和框架的常规认知。它解决了在资源受限或追求极致性能场景下，如何用底层语言实现完整 Web 功能的问题。核心技术亮点包括：手动实现 HTTP 服务器、路由、模板渲染、JSON 解析以及可能的内存管理，并可能集成 SQLite 等 C 库。适用场景为嵌入式系统、高性能后端服务、教学演示，或对运行时开销极度敏感的环境。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:28:59.173511+00:00"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "source": "hackernews-top",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50063365",
+      "description": "",
+      "hn_score": 117,
+      "comments": 46,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "Intel D270 是 Intel 推出的 GPU AI 加速器，配备高达 480 GB LPDDR5X 显存，面向大模型推理与训练场景。该产品旨在解决 LLM 部署中显存容量瓶颈问题，使单卡可承载更大参数模型或更长上下文。核心技术亮点在于超大容量高带宽内存与 GPU 架构结合，降低多卡互联需求。适用场景包括本地大模型推理、fine-tuning、多模态模型部署及企业级 AI 推理集群。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "fine-tuning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:29:00.959923+00:00"
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "source": "hackernews-top",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "hn_url": "https://news.ycombinator.com/item?id=50063138",
+      "description": "",
+      "hn_score": 147,
+      "comments": 15,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，标题「Who is vfmaddrnd231pd?」指向一个身份不明的用户名或标识符，缺乏明确的技术上下文与描述信息。从现有信息无法判断其涉及具体技术方案、工具或研究成果，可能为安全事件、账号溯源、谜题解密或社区梗类讨论。由于缺少原文链接与正文内容，无法提炼核心技术亮点与适用场景，仅能确认其在 HN 获得 147 分，具备一定社区关注度，但技术信息密度极低。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-13T04:29:02.700723+00:00"
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "source": "hackernews-top",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50055304",
+      "description": "",
+      "hn_score": 511,
+      "comments": 704,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该条目报道了欧洲多国超市的联网冰箱被攻击者远程激活自动除霜功能的事件，攻击者通过暴露在互联网的制冷设备控制接口或弱口令入侵，批量触发除霜循环，导致冷柜温度异常升高、食品面临变质风险。核心问题在于IoT设备缺乏基本安全防护，默认密码、未加密通信和直接暴露的API成为主要攻击面。技术亮点在于攻击者利用协议逆向与自动化脚本实现跨地域批量控制，暴露了工业控制系统与消费级物联网在身份认证和网络隔离上的系统性缺陷。适用场景包括IoT安全评估、零售基础设施防护以及关键冷链系统的威胁建模。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-13T04:29:04.988760+00:00"
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "source": "hackernews-top",
+      "url": "https://github.com/prabanta-dev/janas",
+      "hn_url": "https://news.ycombinator.com/item?id=50063717",
+      "description": "",
+      "hn_score": 68,
+      "comments": 26,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "Janas 是一个开源推理框架，通过将 MoE 专家权重按需从 SSD 流式加载，使单机可运行参数量远超物理内存的大语言模型。它解决的核心问题是消费级硬件无法容纳超大 MoE 模型全部权重，传统方案依赖多卡或高内存服务器。技术亮点在于利用 MoE 稀疏激活特性，仅将当前 token 路由到的专家从 SSD 读入内存，配合缓存与预取策略降低 I/O 延迟。适用场景包括本地部署超大 MoE 模型、低成本研究推理、以及内存受限但对吞吐要求不极端的实验环境。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-13T04:29:07.233279+00:00"
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "source": "hackernews-top",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50061791",
+      "description": "",
+      "hn_score": 129,
+      "comments": 43,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "Firefox 正在实现大文件下载的可恢复（resumable）能力，解决网络中断或浏览器崩溃后需从头重新下载的问题。核心技术亮点在于将下载状态持久化到磁盘，支持跨会话恢复，并处理服务器端 Range 请求、分块校验与断点续传逻辑。该功能对 AI 工程师下载大型模型权重、数据集或容器镜像等场景有直接帮助，可显著节省带宽与时间。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:29:08.642831+00:00"
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "source": "hackernews-top",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "hn_url": "https://news.ycombinator.com/item?id=50065932",
+      "description": "",
+      "hn_score": 46,
+      "comments": 31,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "OpenAI 近期公开了一项关于快速傅里叶变换（FFT）的数学成果，声称其计算速度优于传统 FFT 算法。该工作针对信号处理、科学计算及深度学习中的频域运算瓶颈，通过新的数学分解与算法优化降低计算复杂度。核心技术亮点在于对 FFT 分治策略的改进，可能涉及稀疏性利用或混合基优化，从而在特定规模下实现加速。适用场景包括大规模数值模拟、音频/图像处理以及神经网络中的频域层加速。目前该成果尚处理论或早期实现阶段，HN 社区讨论热度中等（46 分），实际工程落地价值需进一步验证。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:29:10.623647+00:00"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "source": "hackernews-top",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "hn_url": "https://news.ycombinator.com/item?id=50063427",
+      "description": "",
+      "hn_score": 281,
+      "comments": 234,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该 HN 讨论帖主张 AI 本质是工具，其效能取决于使用者的技能水平，而非模型本身的能力上限。核心观点是：与 AI 协作需要类似编程或写作的刻意练习，包括任务拆解、上下文管理、迭代式 prompt 设计以及对输出质量的批判性判断。技术亮点在于将 prompt-engineering 从技巧层面提升为可训练的工程素养，强调人机协作中的反馈循环与验证机制。适用场景包括日常开发中的 code-generation、文档撰写、研究辅助，以及团队内部建立 AI 使用规范与培训体系。",
+      "tags": [
+        "prompt-engineering",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:29:12.821302+00:00"
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "source": "hackernews-top",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "hn_url": "https://news.ycombinator.com/item?id=50055593",
+      "description": "",
+      "hn_score": 295,
+      "comments": 81,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该项目展示如何将消费级 WiFi 7 路由器改造为 320Msps 的软件定义无线电（SDR）接收器，核心在于利用 WiFi 7 芯片的宽带宽和高速 ADC 能力，通过固件修改或驱动层重编程，绕过原有协议栈直接采集原始 IQ 样本。解决了传统 SDR 设备成本高、采样率受限的问题，为信号处理、无线安全研究和频谱感知提供了低成本高采样率的硬件方案。技术亮点包括对 WiFi 7 基带芯片的逆向工程、实时数据流捕获以及开源工具链的适配。适用于无线通信研究、RF 信号分析、SDR 教学及原型验证等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-13T04:29:14.836619+00:00"
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "hn_url": "https://news.ycombinator.com/item?id=50059096",
+      "description": "",
+      "hn_score": 121,
+      "comments": 80,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "Agent37 是 YC F26 孵化的开源项目，提供低成本 agent sandbox 基础设施，用于安全隔离地运行 AI agent。它解决的核心问题是：agent 在执行代码、调用工具或访问外部资源时缺乏轻量、可复现且成本可控的隔离运行环境，传统 VM 或容器方案过重且昂贵。技术亮点在于面向 agent 工作负载优化的 sandbox 设计，支持快速启动、资源隔离与工具调用，降低单次 agent 执行的开销。适用场景包括 agent 开发调试、tool-use 流程验证、多 agent 编排测试，以及需要在受控环境中运行 code-generation 或 workflow-automation 任务的工程团队。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:29:16.577266+00:00"
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "hn_url": "https://news.ycombinator.com/item?id=50055220",
+      "description": "",
+      "hn_score": 285,
+      "comments": 326,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该条目报道雪铁龙（Citroen）将经典车型 2CV 以纯电动形式复活，属于汽车工业与电动化转型新闻，而非 AI/LLM 技术内容。其核心在于复古设计语言与现代电驱平台的结合，涉及电池、电机与整车架构的重新适配，但未披露具体三电参数或智能化技术细节。对 AI 工程师而言，该内容与日常技术栈无直接关联，仅在多模态设计、工业数字化或嵌入式系统等边缘场景具备间接参考价值。HN 285 分反映其话题性较强，但技术深度与领域匹配度偏低。",
+      "tags": [
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-13T04:29:18.803980+00:00"
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "source": "hackernews-top",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "hn_url": "https://news.ycombinator.com/item?id=50056822",
+      "description": "",
+      "hn_score": 148,
+      "comments": 135,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该条目介绍的是可直接插入墙壁插座使用的太阳能板产品，属于消费级清洁能源硬件，而非 AI/LLM 技术。其核心价值在于绕过传统太阳能安装所需的专业布线、逆变器配置和许可流程，通过内置微型逆变器实现即插即用，降低家庭用户使用门槛。技术亮点集中在微型逆变器集成、并网安全认证与防逆流设计。适用场景为阳台、租房或公寓等无法进行屋顶改造的轻量级光伏部署。对 AI 工程师而言，该内容与本职工作关联度极低，仅在数据中心能源成本、边缘设备供电等交叉话题上有间接参考意义。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-13T04:29:20.929416+00:00"
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "source": "hackernews-top",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "hn_url": "https://news.ycombinator.com/item?id=50037711",
+      "description": "",
+      "hn_score": 248,
+      "comments": 178,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该条目报道了一项历时60年的遗传学研究突破：科学家终于揭示了橘猫毛色遗传的分子机制。研究发现，橘猫的橙色毛发并非由经典的MC1R基因决定，而是由位于X染色体上的一个此前未被识别的基因（ARHGAP36）调控，该基因通过影响黑色素细胞中色素类型的选择来产生橙色。这一发现解决了长期困扰遗传学界的谜题，并可能对理解人类色素相关疾病有启示。技术亮点在于结合了全基因组关联分析、CRISPR基因编辑和单细胞转录组学。适用场景为遗传学、分子生物学和比较基因组学研究，与AI/LLM工程无直接关联。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-13T04:29:23.000583+00:00"
+    },
+    {
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "source": "hackernews-top",
+      "url": "https://doi.org/10.1111/acel.70751",
+      "hn_url": "https://news.ycombinator.com/item?id=50064536",
+      "description": "",
+      "hn_score": 125,
+      "comments": 81,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "该研究通过表观遗传重编程技术，将80岁供体的血液细胞转化为诱导多能干细胞(iPSC)，其分子年龄指标降至20岁以下水平。核心亮点在于利用mRNA重编程因子组合与优化的培养条件，显著逆转了细胞衰老相关的表观遗传标记，同时维持了基因组稳定性。这一突破解决了衰老细胞重编程效率低、残留衰老特征的问题，为再生医学、衰老相关疾病建模及个性化细胞治疗提供了新思路。适用场景包括抗衰老研究、疾病模型构建及细胞替代疗法开发。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:29:24.904407+00:00"
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "hn_url": "https://news.ycombinator.com/item?id=50060694",
+      "description": "",
+      "hn_score": 497,
+      "comments": 255,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "Codex CLI 默认安装一个持久化、可自我更新的后台守护进程（daemon），用于在本地持续运行 AI 编码代理服务。它解决的问题是：传统 CLI 工具每次调用需冷启动、无法维持会话状态与后台任务，导致 agent 响应延迟高、上下文易丢失。核心技术亮点在于默认常驻进程 + 自更新机制，使工具能自动拉取新版本并保持服务在线，减少手动升级与重启成本。适用场景包括本地 AI 编码助手、持续运行的 agent 工作流、需要低延迟调用的开发者工具链。该设计也引发对后台常驻行为透明度与安全性的讨论。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-13T04:29:26.857579+00:00"
+    },
+    {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "source": "hackernews-top",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "hn_url": "https://news.ycombinator.com/item?id=50036287",
+      "description": "",
+      "hn_score": 237,
+      "comments": 88,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "这是2001年对任天堂程序员Giles Goddard的深度访谈，回顾了《超级马里奥64》的开发历程。内容涵盖N64硬件限制下的3D角色控制、摄像机系统设计、马里奥面部动画（Goddard负责制作马里奥的脸部）以及从2D到3D游戏设计的范式转变。核心技术亮点在于早期3D游戏中摄像机与角色控制的协同设计思路，以及有限硬件资源下的工程取舍。该访谈对AI工程师的参考价值有限，主要适用于游戏开发历史研究、3D交互设计灵感借鉴，以及理解经典软件工程中的约束驱动设计思维。",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "reasoning"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-13T04:29:29.132184+00:00"
+    },
+    {
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "source": "hackernews-top",
+      "url": "https://brickbrag.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50063042",
+      "description": "",
+      "hn_score": 42,
+      "comments": 15,
+      "collected_at": "2026-10-13T04:28:12.638062+00:00",
+      "published_at": "2026-10-13T04:28:12.638062+00:00",
+      "summary": "Brickbrag 是一个基于浏览器的多人积木搭建世界，用户无需安装即可在网页中协作搭建积木模型。它解决了传统积木类应用需要本地安装、缺乏实时多人协作的问题。核心技术亮点在于浏览器端 3D 渲染与实时同步机制，可能基于 WebGL/WebGPU 与 WebSocket 实现低延迟多人交互。适用场景包括在线创意协作、教育娱乐、轻量级元宇宙社交等。该项目与 AI/LLM 领域无直接关联，属于前端图形与实时网络应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-13T04:29:30.920123+00:00"
+    }
+  ]
+}

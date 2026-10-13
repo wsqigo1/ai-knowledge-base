@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-013",
+  "title": "GLM-Legal",
+  "source": "hackernews-top",
+  "url": "https://z.ai/blog/glm-legal",
+  "summary": "GLM-Legal 是基于智谱 GLM 系列大语言模型构建的法律领域专用模型，旨在解决通用 LLM 在法律场景下专业术语理解不足、法条引用不准确、推理链条不严谨等问题。其核心技术亮点在于领域自适应预训练与法律指令微调相结合，并引入法条检索增强生成（RAG）机制以提升引用准确性。该模型适用于法律咨询辅助、合同审查、判决文书生成与法律知识问答等场景，面向法律科技公司与律所等专业用户。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "rag",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:28:55.118181+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

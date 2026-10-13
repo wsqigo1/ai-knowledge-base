@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-13-017",
+  "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+  "source": "hackernews-top",
+  "url": "https://github.com/prabanta-dev/janas",
+  "summary": "Janas 是一个开源推理框架，通过将 MoE 专家权重按需从 SSD 流式加载，使单机可运行参数量远超物理内存的大语言模型。它解决的核心问题是消费级硬件无法容纳超大 MoE 模型全部权重，传统方案依赖多卡或高内存服务器。技术亮点在于利用 MoE 稀疏激活特性，仅将当前 token 路由到的专家从 SSD 读入内存，配合缓存与预取策略降低 I/O 延迟。适用场景包括本地部署超大 MoE 模型、低成本研究推理、以及内存受限但对吞吐要求不极端的实验环境。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:29:07.233279+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

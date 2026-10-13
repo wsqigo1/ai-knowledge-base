@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-13-004",
+  "title": "zhuyansen/new-term-radar",
+  "source": "github-trending",
+  "url": "https://github.com/zhuyansen/new-term-radar",
+  "summary": "new-term-radar 是一个基于 Python 的每日新词雷达工具，通过 GitHub Actions 定时抓取 X、Hugging Face、GitHub 及站点地图（sitemap）等渠道，自动发现新出现的 AI 模型名、产品名和仓库名。它解决的核心问题是：传统关键词工具（如 Google Trends、Ahrefs）存在收录延迟，导致 SEO 从业者和 AI 内容创作者无法第一时间捕捉新兴术语。技术亮点在于多源聚合抓取与自动化流水线，借助 GitHub Actions 实现零运维的每日更新。适用场景包括 AI 领域 SEO 关键词研究、内容选题挖掘、竞品动态监控以及技术趋势追踪。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-13T04:28:12.458907+00:00",
+  "analyzed_at": "2026-10-13T04:28:29.623543+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

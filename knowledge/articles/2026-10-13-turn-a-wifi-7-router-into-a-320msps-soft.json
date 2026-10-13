@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-13-021",
+  "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+  "source": "hackernews-top",
+  "url": "https://github.com/h0m3us3r/w1700k-sdr",
+  "summary": "该项目展示如何将消费级 WiFi 7 路由器改造为 320Msps 的软件定义无线电（SDR）接收器，核心在于利用 WiFi 7 芯片的宽带宽和高速 ADC 能力，通过固件修改或驱动层重编程，绕过原有协议栈直接采集原始 IQ 样本。解决了传统 SDR 设备成本高、采样率受限的问题，为信号处理、无线安全研究和频谱感知提供了低成本高采样率的硬件方案。技术亮点包括对 WiFi 7 基带芯片的逆向工程、实时数据流捕获以及开源工具链的适配。适用于无线通信研究、RF 信号分析、SDR 教学及原型验证等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:29:14.836619+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

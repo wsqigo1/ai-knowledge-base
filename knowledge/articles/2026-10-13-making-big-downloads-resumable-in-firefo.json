@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-13-018",
+  "title": "Making big downloads resumable in Firefox",
+  "source": "hackernews-top",
+  "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+  "summary": "Firefox 正在实现大文件下载的可恢复（resumable）能力，解决网络中断或浏览器崩溃后需从头重新下载的问题。核心技术亮点在于将下载状态持久化到磁盘，支持跨会话恢复，并处理服务器端 Range 请求、分块校验与断点续传逻辑。该功能对 AI 工程师下载大型模型权重、数据集或容器镜像等场景有直接帮助，可显著节省带宽与时间。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:29:08.642831+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

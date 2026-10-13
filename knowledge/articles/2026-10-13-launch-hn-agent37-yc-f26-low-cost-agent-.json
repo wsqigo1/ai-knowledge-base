@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-022",
+  "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50059096",
+  "summary": "Agent37 是 YC F26 孵化的开源项目，提供低成本 agent sandbox 基础设施，用于安全隔离地运行 AI agent。它解决的核心问题是：agent 在执行代码、调用工具或访问外部资源时缺乏轻量、可复现且成本可控的隔离运行环境，传统 VM 或容器方案过重且昂贵。技术亮点在于面向 agent 工作负载优化的 sandbox 设计，支持快速启动、资源隔离与工具调用，降低单次 agent 执行的开销。适用场景包括 agent 开发调试、tool-use 流程验证、多 agent 编排测试，以及需要在受控环境中运行 code-generation 或 workflow-automation 任务的工程团队。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:29:16.577266+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

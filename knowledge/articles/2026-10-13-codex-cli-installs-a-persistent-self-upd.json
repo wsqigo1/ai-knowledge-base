@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-024",
+  "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+  "source": "hackernews-top",
+  "url": "https://github.com/openai/codex/issues/48195",
+  "summary": "Codex CLI 默认安装一个持久化、可自我更新的后台守护进程（daemon），用于在本地持续运行 AI 编码代理服务。它解决的问题是：传统 CLI 工具每次调用需冷启动、无法维持会话状态与后台任务，导致 agent 响应延迟高、上下文易丢失。核心技术亮点在于默认常驻进程 + 自更新机制，使工具能自动拉取新版本并保持服务在线，减少手动升级与重启成本。适用场景包括本地 AI 编码助手、持续运行的 agent 工作流、需要低延迟调用的开发者工具链。该设计也引发对后台常驻行为透明度与安全性的讨论。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "agent",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-13T04:28:12.638062+00:00",
+  "analyzed_at": "2026-10-13T04:29:26.857579+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}

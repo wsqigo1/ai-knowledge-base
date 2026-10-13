@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-13-005",
+  "title": "trhhubsd/ARTEXX",
+  "source": "github-trending",
+  "url": "https://github.com/trhhubsd/ARTEXX",
+  "summary": "ARTEXX 是一个基于 Go 语言构建的 AI 自主渗透测试系统，源自百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX。该系统旨在解决传统渗透测试高度依赖人工经验、效率低且难以规模化的问题，通过 LLM 驱动的 agent 自主完成信息收集、漏洞探测与利用链编排。核心技术亮点在于多 agent 协同的攻防决策框架与 tool-use 机制，使 AI 能在真实网络环境中动态规划攻击路径。适用场景包括红队演练、自动化安全评估、CTF 竞赛及企业攻防对抗训练。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "open-source",
+    "large-language-model"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-13T04:28:12.458907+00:00",
+  "analyzed_at": "2026-10-13T04:28:31.219474+00:00",
+  "organized_at": "2026-10-13T04:29:30.964831+00:00",
+  "status": "published"
+}
