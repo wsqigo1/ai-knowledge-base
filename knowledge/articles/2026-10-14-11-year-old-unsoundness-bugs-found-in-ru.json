@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-14-017",
+  "title": "11 year old unsoundness bugs found in Rust borrow checker",
+  "source": "hackernews-top",
+  "url": "https://github.com/rust-lang/rust/issues/164250",
+  "summary": "该条目揭示了 Rust 编译器借用检查器（borrow checker）中潜伏长达 11 年的健全性（soundness）缺陷，属于 Rust 类型系统与内存安全保证层面的深层 bug。问题核心在于借用检查器对某些生命周期与别名场景的静态分析存在漏洞，可能导致本应被拒绝的不安全代码通过编译，从而破坏 Rust 承诺的内存安全。技术亮点在于这些缺陷并非简单逻辑错误，而是涉及借用检查算法在复杂泛型与生命周期交互下的边界情况，修复需深入理解 Rust 的 MIR 与借用推导机制。适用场景为 Rust 编译器开发者、系统编程语言研究者及对类型系统可靠性有高要求的工程师，对日常应用层开发影响有限。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:39:22.428242+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

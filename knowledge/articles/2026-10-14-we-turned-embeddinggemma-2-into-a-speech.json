@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-14-013",
+  "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+  "source": "hackernews-top",
+  "url": "https://eg2.haku.sh/",
+  "summary": "该项目将 EmbeddingGemma 2 这一文本嵌入模型改造为语音转文本（speech-to-text）模型，探索了嵌入模型在语音模态上的迁移能力。核心思路可能是利用 EmbeddingGemma 2 的语义表征能力，通过适配层或微调将语音特征映射到文本嵌入空间，从而实现语音识别。技术亮点在于跨模态复用预训练嵌入模型，降低语音识别任务对大规模标注数据的依赖。适用场景包括低资源语音识别、多模态检索增强生成（RAG）以及语音驱动的 AI 助手开发。",
+  "tags": [
+    "multimodal",
+    "fine-tuning",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:39:07.183517+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

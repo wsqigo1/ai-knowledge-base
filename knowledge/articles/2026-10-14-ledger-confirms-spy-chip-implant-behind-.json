@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-14-007",
+  "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+  "source": "hackernews-top",
+  "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+  "summary": "Ledger 确认其硬件钱包供应链遭植入间谍芯片，攻击者通过物理篡改设备窃取用户加密资产。该事件暴露了硬件钱包在制造、物流与固件验证环节的信任链断裂问题，核心在于攻击者可在设备出厂前植入恶意组件，绕过常规固件签名校验。技术亮点涉及供应链攻击的物理层实现与侧信道数据外泄机制。适用场景为加密资产托管安全审计、硬件信任根设计及供应链威胁建模。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:38:46.163125+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

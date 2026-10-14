@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-14-002",
+  "title": "NabilRFG12/Reverse-Engineer-anything",
+  "source": "github-trending",
+  "url": "https://github.com/NabilRFG12/Reverse-Engineer-anything",
+  "summary": "Reverse-Engineer-anything 是一个基于 agent 的开源项目，旨在自动化逆向工程流程，覆盖从应用行为分析到 native binaries 反汇编的多个层次。它解决的核心问题是传统逆向工程高度依赖专家手工操作、耗时长且难以规模化。项目利用 LLM agent 编排工具链，自动执行二进制分析、行为追踪与代码理解等任务，将 agent 的规划与 tool-use 能力引入安全研究场景。适用场景包括安全审计、恶意软件分析、漏洞挖掘以及遗留系统理解，尤其适合需要快速建立二进制或应用行为认知的安全工程师与研究人员。",
+  "tags": [
+    "agent",
+    "open-source",
+    "tool-use",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-10-14T02:37:57.375573+00:00",
+  "analyzed_at": "2026-10-14T02:38:25.319818+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

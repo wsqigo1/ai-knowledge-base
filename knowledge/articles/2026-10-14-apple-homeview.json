@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-14-010",
+  "title": "Apple HomeView",
+  "source": "hackernews-top",
+  "url": "https://www.apple.com/apple-homeview/",
+  "summary": "Apple HomeView 是 Apple 在 HomeKit 生态中推出的智能家居统一视图框架，旨在解决多品牌、多协议智能设备在 iOS/macOS 端难以集中管理与自动化编排的问题。其核心技术亮点在于深度整合 HomeKit Secure Video、Matter 协议与端侧机器学习推理，通过设备端 Apple Neural Engine 实现本地化场景识别与自动化触发，减少对云端的依赖，提升隐私与响应速度。该框架支持开发者通过 SwiftUI 与 HomeKit API 构建跨设备控制面板，并利用 on-device intelligence 实现自适应照明、温控与安防联动。适用场景包括智能家居 App 开发、Matter 设备集成、以及注重隐私的本地自动化方案设计。",
+  "tags": [
+    "multimodal",
+    "ai-assistant",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:38:52.456211+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

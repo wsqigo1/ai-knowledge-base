@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-14-005",
+  "title": "Ayzzz123/mcd-coupon-strategist",
+  "source": "github-trending",
+  "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+  "summary": "mcd-coupon-strategist 是一个基于麦当劳 MCP（Model Context Protocol）的点餐成本优化 Skill，以 Python 实现。它解决的是用户在麦当劳点餐时难以快速判断最优优惠组合、容易落入凑单陷阱的问题。核心技术亮点在于将 LLM 与 MCP 工具调用结合，实时获取门店菜单与优惠信息，通过成本优化算法计算最省钱的点餐方案，并主动识别和提示凑单陷阱。适用场景包括日常快餐点餐决策、优惠券组合优化，以及作为 MCP + agent 架构的参考实现，展示如何将 LLM 接入真实商业服务 API 完成实用任务。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "cost-optimization",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-14T02:37:57.375573+00:00",
+  "analyzed_at": "2026-10-14T02:38:37.831478+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-14-009",
+  "title": "Redesigning source control at Anthropic",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "summary": "Anthropic 对其内部源代码控制系统进行重新设计，以适配 AI 驱动开发流程。该方案解决传统 Git 工作流在 LLM 辅助编码、大规模 agent 并行提交场景下的冲突与可追溯性问题。核心技术亮点包括面向 AI 生成代码的版本管理抽象、细粒度变更追踪与自动化合并策略。适用于 AI 工程师团队在 agent 协作开发、代码生成流水线中管理高频变更的场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:38:50.072985+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

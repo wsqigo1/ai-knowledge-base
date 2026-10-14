@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-14-016",
+  "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+  "source": "hackernews-top",
+  "url": "https://parsimony.lasu.dev/",
+  "summary": "Parsimony 是一个开源 benchmark，用于量化 AI 模型在代码生成任务中额外引入的代码量。它解决的核心问题是：现有评测多关注功能正确性，却忽视了 AI 生成代码的冗余度与可维护性。该 benchmark 通过对比模型输出与参考实现的代码行数、结构差异等指标，衡量模型是否倾向于过度生成代码。技术亮点在于将'代码简洁性'作为独立评测维度，并提供可复现的评测框架。适用场景包括代码生成模型的选型对比、prompt 策略优化，以及 AI 辅助编程工具的代码质量评估。",
+  "tags": [
+    "benchmark",
+    "code-generation",
+    "open-source",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:39:20.179740+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-14-008",
+  "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+  "source": "hackernews-top",
+  "url": "https://pulseos.finance",
+  "summary": "Pulse Local 是一款运行在 Mac 上的本地化预算管理应用，其核心卖点是将 AI 模型完全部署在用户设备端，而非调用云端 API。它解决的是个人财务数据隐私敏感、用户不愿将交易记录上传第三方服务器的问题。技术亮点在于端侧推理（on-device inference），利用 Apple Silicon 的神经引擎或本地 LLM 完成交易分类、消费洞察等任务，实现数据不出本机。适用场景为注重隐私的个人用户、Mac 生态内的轻量级财务自动化，以及作为端侧 AI 落地消费级应用的参考案例。",
+  "tags": [
+    "open-source",
+    "ai-assistant",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:38:48.102870+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

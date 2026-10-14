@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-14-014",
+  "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+  "source": "hackernews-top",
+  "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+  "summary": "该项目构建了一个动态、分布式的虚拟 GPU 云平台，利用闲置的 Apple Silicon 设备（如 M1/M2/M3 Mac）组成计算集群，为 AI 推理和轻量训练任务提供 GPU 算力。它解决了个人开发者和小团队难以低成本获取 GPU 资源的问题，通过分布式调度和虚拟化技术将分散的苹果芯片统一编排，支持动态加入和退出。核心技术亮点包括跨设备资源池化、低延迟任务分发和针对 Apple Silicon 的 Metal 优化。适用场景包括边缘 AI 推理、小型模型微调、教学实验以及个人开发者的分布式计算实验。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:39:15.988511+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

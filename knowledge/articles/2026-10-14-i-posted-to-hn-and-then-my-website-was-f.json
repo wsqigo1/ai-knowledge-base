@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-14-012",
+  "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "source": "hackernews-top",
+  "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "summary": "该 HN 帖子记录了一位开发者将网站发布到 Hacker News 后，遭遇大规模 AI 爬虫/机器人流量冲击的真实经历。问题核心在于：当前大量 AI 训练与检索系统（如 LLM 数据采集、AI 搜索索引）以极高频率抓取公开网页，导致个人站点带宽耗尽、服务不可用。技术亮点在于作者通过日志分析识别出 AI bot 的 User-Agent 特征、请求模式与来源 IP 段，并对比了传统爬虫与 AI 爬虫在行为上的差异。适用场景包括个人开发者、小型网站运营者、DevOps 工程师，以及关注 AI 数据采集伦理与反爬策略的研究人员。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "large-language-model",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:39:00.844316+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-14-011",
+  "title": "I built a tool to track what AI leaders say and how their views change on video",
+  "source": "hackernews-top",
+  "url": "https://blumify.io/people",
+  "summary": "该工具追踪 AI 领域领袖在视频中的公开言论，并分析其观点随时间的变化。它解决的是 AI 观点分散在播客、访谈、演讲等视频内容中、难以系统化对比和回溯的问题。核心技术亮点在于对视频进行语音转写与语义分析，提取关键观点并建立时间线，可能结合 LLM 做观点聚类与演变检测。适用场景包括 AI 研究者跟踪行业风向、投资者判断技术趋势、以及内容创作者快速获取权威观点素材。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-14T02:37:57.493726+00:00",
+  "analyzed_at": "2026-10-14T02:38:56.306396+00:00",
+  "organized_at": "2026-10-14T02:39:22.521331+00:00",
+  "status": "published"
+}
