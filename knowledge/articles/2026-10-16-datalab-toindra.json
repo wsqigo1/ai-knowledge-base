@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-007",
+  "title": "datalab-to/indra",
+  "source": "github-trending",
+  "url": "https://github.com/datalab-to/indra",
+  "summary": "Indra 是 Datalab 推出的纯 CPU 端 OCR 工具链，面向文档解析场景，将行检测、CTC 文字识别、阅读顺序还原与 Markdown 输出整合为一条流水线。它解决的是传统 OCR 依赖 GPU、部署成本高、且难以直接产出结构化文本的问题，通过 ONNX 推理在 CPU 上实现快速处理。核心技术亮点包括基于 CTC 的轻量识别模型、版面行检测与阅读顺序重建，最终输出可直接用于下游的 Markdown。适用于 RAG 文档预处理、扫描件数字化、无 GPU 环境下的批量文档解析等场景。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "rag",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-10-16T02:10:18.682156+00:00",
+  "analyzed_at": "2026-10-16T02:10:45.327066+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

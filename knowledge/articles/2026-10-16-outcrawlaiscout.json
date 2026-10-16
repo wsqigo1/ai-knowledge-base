@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-003",
+  "title": "outcrawlai/scout",
+  "source": "github-trending",
+  "url": "https://github.com/outcrawlai/scout",
+  "summary": "Scout 是 Outcrawl 开源的一款 browser agent，通过 Chrome DevTools Protocol (CDP) 直接驱动浏览器，结合 LLM 实现网页自动化操作。它解决的是传统 browser automation 脚本脆弱、难以应对动态页面和复杂交互的问题，让 AI 能自主理解页面结构并执行任务。核心技术亮点在于 CDP 底层控制与 LLM 决策的结合，支持 tool-use 式任务编排。适用场景包括网页数据采集、自动化测试、RPA 流程替代以及需要 LLM 理解页面语义的 agent 应用。",
+  "tags": [
+    "agent",
+    "browser-agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-16T02:10:18.682156+00:00",
+  "analyzed_at": "2026-10-16T02:10:33.725680+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-006",
+  "title": "i12bp8/decomp.wtf",
+  "source": "github-trending",
+  "url": "https://github.com/i12bp8/decomp.wtf",
+  "summary": "decomp.wtf 是一个基于 AI agent 的本地反编译工具，利用 Claude Code 等 LLM agent 将用户合法拥有的游戏二进制文件反编译为 C 代码，且编译后能生成与原文件完全一致的字节序列。它解决的核心问题是传统反编译器输出难以阅读、无法保证语义等价性的痛点，通过 agent 驱动的迭代验证机制确保反编译结果的字节级精确匹配。技术亮点在于将 LLM 代码生成能力与编译验证闭环结合，全程本地运行保障隐私。适用于逆向工程研究、游戏 mod 开发、二进制安全分析等场景。",
+  "tags": [
+    "ai-agents",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-16T02:10:18.682156+00:00",
+  "analyzed_at": "2026-10-16T02:10:41.517913+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

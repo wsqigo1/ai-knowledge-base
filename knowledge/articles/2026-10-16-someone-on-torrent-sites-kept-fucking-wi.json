@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-16-013",
+  "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+  "source": "hackernews-top",
+  "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+  "summary": "该条目讲述一位用户发现自己的 Sonarr（自动化剧集下载工具）被 torrent 站点上的不明人士持续干扰，对方通过伪造种子文件、污染索引器结果等方式，让 Sonarr 自动下载错误内容。作者通过分析日志、追踪种子来源、编写过滤规则和监控脚本，最终定位并缓解了这种针对自动化下载管道的恶意干扰。核心技术点在于对 *arr 生态（Sonarr/Radarr）的索引器交互、下载客户端行为进行逆向排查，并利用自定义正则过滤与 API 监控实现防御。适用于使用自动化媒体下载工具、关注自托管服务安全与异常流量排查的工程师。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:11.089627+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

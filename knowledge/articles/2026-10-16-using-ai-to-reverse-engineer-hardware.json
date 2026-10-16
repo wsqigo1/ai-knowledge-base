@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-019",
+  "title": "Using AI to reverse engineer hardware",
+  "source": "hackernews-top",
+  "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+  "summary": "该条目探讨利用 AI（尤其是 large-language-model）辅助硬件逆向工程，即通过模型分析芯片版图、电路网表或固件二进制，自动识别元件、推断功能模块并生成可读的电路描述。它解决传统硬件逆向依赖专家经验、耗时且易出错的问题。核心技术亮点在于将视觉识别、序列推理与领域知识结合，可能涉及 multimodal 模型处理显微图像、code-generation 辅助生成 HDL 或网表分析脚本。适用场景包括安全审计、 legacy 硬件维护、竞品分析和学术研究。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "code-generation",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:33.086967+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

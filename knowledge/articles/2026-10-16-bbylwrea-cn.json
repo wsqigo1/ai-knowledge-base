@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-009",
+  "title": "bbylw/rea-cn",
+  "source": "github-trending",
+  "url": "https://github.com/bbylw/rea-cn",
+  "summary": "REA（Reverse Everything Anytime）是一个基于 MCP（Model Context Protocol）协议的开源服务，旨在为 AI Agent 提供逆向分析能力。它解决的核心问题是：当开发者或 AI 助手遇到感兴趣的二进制文件、应用程序或运行时行为时，缺乏一套标准化、可被 LLM 调用的逆向工程工具链。REA 通过 MCP 服务封装逆向分析能力，使 AI 模型能够深入到二进制层面理解程序的工作原理，包括反汇编、行为追踪等。技术亮点在于将传统逆向工程工具与 MCP 协议结合，让 LLM 可以自主调用逆向分析能力。适用场景包括安全研究、恶意软件分析、竞品功能逆向、漏洞挖掘以及 AI 辅助的二进制审计工作流。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-16T02:10:18.682156+00:00",
+  "analyzed_at": "2026-10-16T02:10:56.947587+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

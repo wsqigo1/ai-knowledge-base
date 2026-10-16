@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-16-017",
+  "title": "Why I Wrote PGP (1991, revised 1999)",
+  "source": "hackernews-top",
+  "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+  "summary": "这是 Phil Zimmermann 于 1991 年撰写、1999 年修订的经典文章，阐述其开发 PGP（Pretty Good Privacy）的动机与设计理念。PGP 旨在解决电子邮件和文件存储缺乏强加密保护的问题，通过公钥密码学（RSA）与对称加密（IDEA）混合方案，实现端到端加密、数字签名和密钥管理。其核心技术亮点包括信任网（Web of Trust）模型、混合加密架构以及对抗政府监控的密码学平民化理念。该文适用于密码学历史研究、隐私保护技术演进分析，以及对开源安全工具设计哲学感兴趣的工程师。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:25.632846+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

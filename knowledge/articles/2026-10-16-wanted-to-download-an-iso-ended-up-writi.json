@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-16-020",
+  "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+  "source": "hackernews-top",
+  "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+  "summary": "一篇个人技术博客，作者原本只想下载一个 ISO 镜像，却在过程中发现并利用了一个 Linux 内核漏洞，最终写成 kernel exploit。文章完整呈现了从日常操作触发异常、定位内核缺陷、构造利用链到提权的全过程，核心亮点在于真实场景驱动的漏洞挖掘思路与 exploit 编写细节，涉及内存破坏、权限提升等底层机制。适合安全研究员、内核开发者及对系统安全感兴趣的工程师阅读，对 AI 工程师的直接工程价值有限，但可作为理解底层安全与系统行为的参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:39.308731+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

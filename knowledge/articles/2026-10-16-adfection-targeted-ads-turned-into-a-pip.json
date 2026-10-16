@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-015",
+  "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+  "source": "hackernews-top",
+  "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+  "summary": "该条目揭露了一种利用定向广告（targeted ads）作为投递管道的零点击（zero-click）雇佣兵间谍软件攻击链，属于网络安全威胁情报范畴。攻击者通过广告投放平台精准定位目标，利用浏览器或系统漏洞在用户无交互情况下完成植入，绕过传统钓鱼依赖。核心技术亮点在于将合法广告生态武器化，结合零点击漏洞利用实现隐蔽投递。适用场景为安全研究、威胁狩猎、广告平台风控及移动/桌面端防御策略制定。",
+  "tags": [
+    "security",
+    "zero-click",
+    "malware",
+    "adtech",
+    "threat-intelligence"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:15.309273+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

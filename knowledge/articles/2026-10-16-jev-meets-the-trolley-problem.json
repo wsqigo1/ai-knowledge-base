@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-014",
+  "title": "Jev meets the Trolley Problem",
+  "source": "hackernews-top",
+  "url": "https://zachlandes.com/trolley-problem/",
+  "summary": "Jev 是一个基于 LLM 的交互式系统，将经典伦理学思想实验「电车难题」转化为可探索的对话场景，用于测试和展示 AI 在道德困境中的推理与决策能力。它解决的核心问题是：如何以可复现、可交互的方式评估语言模型在价值冲突情境下的判断倾向与解释质量。技术亮点在于将 prompt engineering 与结构化场景模拟结合，通过多轮对话引导模型权衡功利主义与义务论等伦理框架，并暴露其推理链中的偏见或矛盾。适用场景包括 AI 伦理研究、模型对齐评估、以及作为教学演示工具帮助工程师理解 LLM 在复杂价值判断中的行为边界。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "prompt-engineering",
+    "benchmark",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:13.322509+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-004",
+  "title": "feder-cr/open_scion",
+  "source": "github-trending",
+  "url": "https://github.com/feder-cr/open_scion",
+  "summary": "Open Scion 是 Scion 的开源版本，定位为面向 coding agents 的版本控制系统。它针对 AI 编码代理在代码生成与修改过程中产生的多分支、多尝试、频繁回滚等场景，提供比传统 Git 更契合 agent 工作流的版本管理能力。核心技术亮点在于将版本控制原语与 agent 执行轨迹绑定，支持代理并行探索、状态快照与可追溯的变更历史，底层以 Go 实现。适用场景包括多 agent 协作编码、自动化代码生成流水线、agent 行为调试与回放，以及需要细粒度追踪 AI 修改来源的工程团队。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "multi-agent"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-10-16T02:10:18.682156+00:00",
+  "analyzed_at": "2026-10-16T02:10:35.753714+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

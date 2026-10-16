@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-16-005",
+  "title": "Zfinix/eleven",
+  "source": "github-trending",
+  "url": "https://github.com/Zfinix/eleven",
+  "summary": "Zfinix/eleven 是一个面向 macOS、Windows 和 Linux 的 agent-first 逆向工程工具，通过 ACP（Agent Client Protocol）让 AI agent 直接读取、重命名和修补二进制文件、Android 应用及 GPU kernel。它解决传统逆向工程中人工分析耗时、工具链割裂的问题，将 LLM agent 嵌入反汇编/反编译工作流。核心技术亮点在于 ACP 协议集成与跨平台二进制操作能力，支持 agent 与人类工程师协同作业。适用场景包括安全研究、漏洞挖掘、恶意软件分析及 Android 逆向。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-16T02:10:18.682156+00:00",
+  "analyzed_at": "2026-10-16T02:10:39.639414+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}

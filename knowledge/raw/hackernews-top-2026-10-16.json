@@ -1,0 +1,396 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-16T02:10:22.094024+00:00",
+  "date": "2026-10-16",
+  "count": 20,
+  "items": [
+    {
+      "title": "Muse Spark Open",
+      "source": "hackernews-top",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "hn_url": "https://news.ycombinator.com/item?id=50107379",
+      "description": "",
+      "hn_score": 626,
+      "comments": 359,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Muse Spark Open 是 Muse 团队在 Hacker News 上发布的开源项目，定位为面向创意与生成式工作流的 AI 工具/模型开放版本。它试图解决闭源生成式模型在可控性、可定制性与本地部署上的限制，让开发者与创作者能够自由接入、修改与二次开发。核心技术亮点在于开放权重或开放接口，支持与现有生成管线集成，可能涵盖多模态生成、prompt 驱动的工作流编排等能力。适用场景包括创意内容生成、AI 辅助设计、原型快速验证以及需要私有化部署的生成式应用开发。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-16T02:11:01.020471+00:00"
+    },
+    {
+      "title": "What I Self-Host",
+      "source": "hackernews-top",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "hn_url": "https://news.ycombinator.com/item?id=50109715",
+      "description": "",
+      "hn_score": 276,
+      "comments": 172,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "《What I Self-Host》是 Hacker News 上一篇关于个人自托管（self-hosting）实践的经验分享帖，作者系统梳理了自己在家庭服务器或 VPS 上部署运行的开源服务清单，涵盖媒体管理、文件同步、密码管理、监控告警、反向代理、容器编排等典型自托管场景。该内容解决的核心问题是：在云服务订阅成本上升与数据隐私担忧加剧的背景下，工程师如何用开源工具构建可控的私有化基础设施。技术亮点在于对 Docker/Compose、Traefik/Nginx、Tailscale 等组网与部署方案的组合运用，以及各服务间的资源占用与维护成本权衡。适用场景为个人开发者、homelab 爱好者及希望降低 SaaS 依赖的团队参考选型。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-16T02:11:03.236630+00:00"
+    },
+    {
+      "title": "Neural networks are clean",
+      "source": "hackernews-top",
+      "url": "https://already-clean.goodfire.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50105647",
+      "description": "",
+      "hn_score": 511,
+      "comments": 199,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该条目为 HN 高分讨论帖（511 分），标题「Neural networks are clean」指向神经网络在数学与工程实现上的简洁性/优雅性这一主题。核心讨论围绕神经网络作为函数逼近器的本质、梯度下降与反向传播的数学结构，以及为何这种简洁框架能支撑从 CNN 到 Transformer 的复杂能力。技术亮点在于从信息论、优化理论和表示学习角度重新审视「干净」这一直觉，可能涉及泛化、归纳偏置与架构设计原则。适用场景为 AI 研究者、工程师理解模型本质、教学讲解及架构选型时的理论参考。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-16T02:11:05.075118+00:00"
+    },
+    {
+      "title": "Tesla Roadster",
+      "source": "hackernews-top",
+      "url": "https://www.tesla.com/roadster",
+      "hn_url": "https://news.ycombinator.com/item?id=50112657",
+      "description": "",
+      "hn_score": 128,
+      "comments": 109,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Tesla Roadster 是特斯拉推出的纯电动超级跑车，本次在 Hacker News 上引发讨论（HN Score 128）。该条目本身并非 AI/LLM 技术内容，而是硬件/汽车工程话题，核心亮点在于其电动动力总成、加速性能与续航设计。对 AI 工程师而言，直接技术关联度低，但可作为跨领域工程思维与产品创新的参考案例，适用于关注硬件与 AI 结合、自动驾驶平台或机器人技术的从业者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-16T02:11:06.801133+00:00"
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "source": "hackernews-top",
+      "url": "https://github.com/fyzugx/DEsk",
+      "hn_url": "https://news.ycombinator.com/item?id=50103338",
+      "description": "",
+      "hn_score": 513,
+      "comments": 201,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该项目是一个基于 Wayland 显示协议的 Linux 桌面环境，采用拟物化（skeuomorphic）设计风格。它解决的是现代 Linux 桌面普遍扁平化、缺乏质感与直观物理隐喻的问题，为偏好传统视觉反馈的用户提供替代方案。核心技术亮点在于完全基于 Wayland 原生协议实现，而非 X11 兼容层，同时通过精细的阴影、纹理和材质模拟营造真实感。适用场景包括追求个性化桌面体验的 Linux 用户、对拟物化 UI 有偏好的设计师，以及希望研究 Wayland 合成器与桌面环境集成的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-16T02:11:08.909271+00:00"
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "source": "hackernews-top",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "hn_url": "https://news.ycombinator.com/item?id=50108872",
+      "description": "",
+      "hn_score": 241,
+      "comments": 107,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该条目讲述一位用户发现自己的 Sonarr（自动化剧集下载工具）被 torrent 站点上的不明人士持续干扰，对方通过伪造种子文件、污染索引器结果等方式，让 Sonarr 自动下载错误内容。作者通过分析日志、追踪种子来源、编写过滤规则和监控脚本，最终定位并缓解了这种针对自动化下载管道的恶意干扰。核心技术点在于对 *arr 生态（Sonarr/Radarr）的索引器交互、下载客户端行为进行逆向排查，并利用自定义正则过滤与 API 监控实现防御。适用于使用自动化媒体下载工具、关注自托管服务安全与异常流量排查的工程师。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-16T02:11:11.089627+00:00"
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "source": "hackernews-top",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "hn_url": "https://news.ycombinator.com/item?id=50106023",
+      "description": "",
+      "hn_score": 314,
+      "comments": 149,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Jev 是一个基于 LLM 的交互式系统，将经典伦理学思想实验「电车难题」转化为可探索的对话场景，用于测试和展示 AI 在道德困境中的推理与决策能力。它解决的核心问题是：如何以可复现、可交互的方式评估语言模型在价值冲突情境下的判断倾向与解释质量。技术亮点在于将 prompt engineering 与结构化场景模拟结合，通过多轮对话引导模型权衡功利主义与义务论等伦理框架，并暴露其推理链中的偏见或矛盾。适用场景包括 AI 伦理研究、模型对齐评估、以及作为教学演示工具帮助工程师理解 LLM 在复杂价值判断中的行为边界。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "prompt-engineering",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-16T02:11:13.322509+00:00"
+    },
+    {
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "source": "hackernews-top",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "hn_url": "https://news.ycombinator.com/item?id=50101813",
+      "description": "",
+      "hn_score": 398,
+      "comments": 562,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该条目揭露了一种利用定向广告（targeted ads）作为投递管道的零点击（zero-click）雇佣兵间谍软件攻击链，属于网络安全威胁情报范畴。攻击者通过广告投放平台精准定位目标，利用浏览器或系统漏洞在用户无交互情况下完成植入，绕过传统钓鱼依赖。核心技术亮点在于将合法广告生态武器化，结合零点击漏洞利用实现隐蔽投递。适用场景为安全研究、威胁狩猎、广告平台风控及移动/桌面端防御策略制定。",
+      "tags": [
+        "security",
+        "zero-click",
+        "malware",
+        "adtech",
+        "threat-intelligence"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-16T02:11:15.309273+00:00"
+    },
+    {
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "source": "hackernews-top",
+      "url": "https://github.com/johnrash/bebox",
+      "hn_url": "https://news.ycombinator.com/item?id=50111742",
+      "description": "",
+      "hn_score": 26,
+      "comments": 8,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "BeBox 是一个运行于 Haiku 操作系统的开源应用，旨在模拟 Be Inc. 于 1990 年代推出的 BeBox 双处理器硬件平台。它解决了现代开发者与复古计算爱好者无法在当代系统上体验 BeOS 原生环境及 PowerPC 架构的问题。核心技术亮点在于通过软件仿真还原 BeBox 的硬件行为，并与 Haiku（BeOS 的开源继承者）深度集成，提供原生应用级的运行体验。适用场景包括复古计算研究、操作系统历史教学、BeOS/Haiku 生态开发测试，以及怀旧软件运行。该项目与当前 AI/LLM 技术栈无直接关联，但对系统仿真和开源社区文化具有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-16T02:11:17.568248+00:00"
+    },
+    {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "source": "hackernews-top",
+      "url": "https://www.krea.ai/krea-3",
+      "hn_url": "https://news.ycombinator.com/item?id=50105648",
+      "description": "",
+      "hn_score": 255,
+      "comments": 83,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Krea 3 是一款面向大规模编辑场景的图像生成模型，核心定位是解决传统图像模型在批量、高频编辑任务中效率与一致性不足的问题。其技术亮点在于针对编辑工作流优化的架构设计，支持规模化图像修改而非单张生成，强调在保持图像质量的同时提升编辑吞吐能力。该模型适用于需要批量处理图像的设计团队、内容创作平台以及电商素材生产等场景，尤其适合将图像编辑集成到自动化管线中的工程需求。HN 255 分表明社区对其编辑导向的定位有较高关注。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-16T02:11:19.432186+00:00"
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "source": "hackernews-top",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "hn_url": "https://news.ycombinator.com/item?id=50109375",
+      "description": "",
+      "hn_score": 165,
+      "comments": 132,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Withings 宣布新用户需支付每年 99 美元订阅费才能将设备数据同步至 Apple Health，此前该功能免费。此举影响智能健康设备用户的数据可携带性与生态互操作性，核心技术争议在于厂商以订阅制锁定健康数据出口，涉及 HealthKit API 授权与数据主权问题。适用场景为关注健康数据隐私、跨平台同步及订阅制商业模式的用户与开发者。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-16T02:11:21.230317+00:00"
+    },
+    {
+      "title": "Celebrating 70 Years of Fortran",
+      "source": "hackernews-top",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "hn_url": "https://news.ycombinator.com/item?id=50104726",
+      "description": "",
+      "hn_score": 219,
+      "comments": 95,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Fortran 编程语言迎来 70 周年，HN 社区围绕其历史地位与现代价值展开讨论。Fortran 诞生于 1957 年，是世界上第一个高级编程语言，解决了早期程序员直接用汇编编写科学计算代码效率低、易出错的问题。其核心技术亮点包括：原生数组运算、高性能数值计算能力、以及持续演进的语言标准（Fortran 2008/2018/2023），至今仍是 HPC 和科学计算领域的主力语言。适用场景涵盖气候模拟、计算流体力学、量子化学、金融建模等对浮点性能要求极高的领域。对 AI 工程师而言，Fortran 在科学计算基础设施中仍不可替代，且其长期演进策略对现代语言设计有借鉴意义。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-16T02:11:23.721579+00:00"
+    },
+    {
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "source": "hackernews-top",
+      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50084674",
+      "description": "",
+      "hn_score": 113,
+      "comments": 48,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "这是 Phil Zimmermann 于 1991 年撰写、1999 年修订的经典文章，阐述其开发 PGP（Pretty Good Privacy）的动机与设计理念。PGP 旨在解决电子邮件和文件存储缺乏强加密保护的问题，通过公钥密码学（RSA）与对称加密（IDEA）混合方案，实现端到端加密、数字签名和密钥管理。其核心技术亮点包括信任网（Web of Trust）模型、混合加密架构以及对抗政府监控的密码学平民化理念。该文适用于密码学历史研究、隐私保护技术演进分析，以及对开源安全工具设计哲学感兴趣的工程师。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-16T02:11:25.632846+00:00"
+    },
+    {
+      "title": "E Ink Kaleido 4",
+      "source": "hackernews-top",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "hn_url": "https://news.ycombinator.com/item?id=50108229",
+      "description": "",
+      "hn_score": 133,
+      "comments": 77,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "E Ink Kaleido 4 是元太科技（E Ink Holdings）推出的第四代彩色电子纸显示技术，属于硬件显示领域的迭代产品。它主要解决前代 Kaleido 系列彩色滤光片方案色彩饱和度低、刷新率慢、对比度不足的问题，通过优化彩色滤光片结构和驱动波形，提升了色彩表现与翻页响应速度。核心技术亮点包括更高的色彩饱和度、更快的刷新率以及更薄的模组设计，面向彩色电子书阅读器、电子货架标签和低功耗户外显示设备等场景。该条目与 AI/LLM 工程无直接关联，属于消费电子与显示硬件范畴。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-16T02:11:27.467933+00:00"
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "source": "hackernews-top",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50102923",
+      "description": "",
+      "hn_score": 253,
+      "comments": 154,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Libreboot 26.10 代号 \"Ominous Olive\" 正式发布，这是一个致力于替代专有 BIOS/UEFI 固件的开源引导固件项目。本次更新首次引入 UEFI 支持与 Chromebook 设备兼容，解决了长期以来 Libreboot 仅支持传统 BIOS 引导、无法覆盖现代 UEFI 平台和 Chromebook 用户的问题。核心技术亮点包括基于 coreboot 的 UEFI 兼容层、对 Chromebook 的深度适配以及更广泛的硬件支持。适用场景为注重固件自由与安全性的开发者、隐私敏感用户及老旧硬件翻新场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.0,
+      "analyzed_at": "2026-10-16T02:11:29.241329+00:00"
+    },
+    {
+      "title": "Delta’s Biscoff cookies were supposed to be temporary",
+      "source": "hackernews-top",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "hn_url": "https://news.ycombinator.com/item?id=50080155",
+      "description": "",
+      "hn_score": 183,
+      "comments": 145,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该条目为 Hacker News 热门讨论，主题是达美航空（Delta）航班上供应的 Biscoff 饼干原本只是临时替代品，却因乘客喜爱而长期保留。内容属于航空服务与消费者行为话题，不涉及任何 AI、LLM 或软件工程技术。对 AI 工程师而言，该条目无技术参考价值，仅可作为社区热点观察，了解 HN 非技术类高热度内容的传播特征。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-10-16T02:11:30.913506+00:00"
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "source": "hackernews-top",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "hn_url": "https://news.ycombinator.com/item?id=50104299",
+      "description": "",
+      "hn_score": 118,
+      "comments": 112,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该条目探讨利用 AI（尤其是 large-language-model）辅助硬件逆向工程，即通过模型分析芯片版图、电路网表或固件二进制，自动识别元件、推断功能模块并生成可读的电路描述。它解决传统硬件逆向依赖专家经验、耗时且易出错的问题。核心技术亮点在于将视觉识别、序列推理与领域知识结合，可能涉及 multimodal 模型处理显微图像、code-generation 辅助生成 HDL 或网表分析脚本。适用场景包括安全审计、 legacy 硬件维护、竞品分析和学术研究。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "code-generation",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-16T02:11:33.086967+00:00"
+    },
+    {
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "source": "hackernews-top",
+      "url": "https://unfenced.land/",
+      "hn_url": "https://news.ycombinator.com/item?id=50102247",
+      "description": "",
+      "hn_score": 264,
+      "comments": 183,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "Unfenced 是一个面向购房者的土地信息检索工具，聚合美国境内与公共土地（如国家森林、BLM 土地）相邻的待售地块。它解决的核心问题是：传统房产平台（Zillow、Redfin 等）不提供地块与公共土地的邻接关系筛选，买家难以快速定位可用于狩猎、露营、越野等户外用途的私有土地。技术亮点在于将地块边界数据与公共土地 GIS 数据做空间叠加分析，并构建可搜索的索引。适用场景包括户外爱好者、土地投资者、狩猎营地选址以及乡村地产经纪人。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-16T02:11:35.174084+00:00"
+    },
+    {
+      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "source": "hackernews-top",
+      "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+      "hn_url": "https://news.ycombinator.com/item?id=50082637",
+      "description": "",
+      "hn_score": 49,
+      "comments": 35,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，标题指向夏威夷国家公园内一处长达8英里的神秘地质空洞，内容本身属于地质学/自然科学范畴，与 AI/LLM 技术无直接关联。帖子获得 HN Score 49，说明在技术社区中具备一定的跨领域话题热度，但缺乏可迁移至 AI 工程的技术方法论、工具或数据集。对于 AI 工程师而言，其价值主要在于观察技术社区对非技术类话题的关注分布，而非直接应用于模型训练、推理优化或系统构建。适用场景限于技术资讯浏览与社区趋势感知。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-16T02:11:37.227572+00:00"
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "source": "hackernews-top",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "hn_url": "https://news.ycombinator.com/item?id=50070625",
+      "description": "",
+      "hn_score": 362,
+      "comments": 180,
+      "collected_at": "2026-10-16T02:10:18.857443+00:00",
+      "published_at": "2026-10-16T02:10:18.857443+00:00",
+      "summary": "一篇个人技术博客，作者原本只想下载一个 ISO 镜像，却在过程中发现并利用了一个 Linux 内核漏洞，最终写成 kernel exploit。文章完整呈现了从日常操作触发异常、定位内核缺陷、构造利用链到提权的全过程，核心亮点在于真实场景驱动的漏洞挖掘思路与 exploit 编写细节，涉及内存破坏、权限提升等底层机制。适合安全研究员、内核开发者及对系统安全感兴趣的工程师阅读，对 AI 工程师的直接工程价值有限，但可作为理解底层安全与系统行为的参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-16T02:11:39.308731+00:00"
+    }
+  ]
+}

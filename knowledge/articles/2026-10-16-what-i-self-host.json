@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-16-011",
+  "title": "What I Self-Host",
+  "source": "hackernews-top",
+  "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+  "summary": "《What I Self-Host》是 Hacker News 上一篇关于个人自托管（self-hosting）实践的经验分享帖，作者系统梳理了自己在家庭服务器或 VPS 上部署运行的开源服务清单，涵盖媒体管理、文件同步、密码管理、监控告警、反向代理、容器编排等典型自托管场景。该内容解决的核心问题是：在云服务订阅成本上升与数据隐私担忧加剧的背景下，工程师如何用开源工具构建可控的私有化基础设施。技术亮点在于对 Docker/Compose、Traefik/Nginx、Tailscale 等组网与部署方案的组合运用，以及各服务间的资源占用与维护成本权衡。适用场景为个人开发者、homelab 爱好者及希望降低 SaaS 依赖的团队参考选型。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-16T02:10:18.857443+00:00",
+  "analyzed_at": "2026-10-16T02:11:03.236630+00:00",
+  "organized_at": "2026-10-16T02:11:39.404218+00:00",
+  "status": "published"
+}
