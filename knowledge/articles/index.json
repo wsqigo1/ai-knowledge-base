@@ -1,7 +1,329 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2588,
+  "total_count": 2609,
   "entries": [
+    {
+      "id": "kb-2026-10-17-001",
+      "title": "feder-cr/git-ai",
+      "source": "github-trending",
+      "url": "https://github.com/feder-cr/git-ai",
+      "file": "2026-10-17-feder-crgit-ai.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "multi-agent"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-002",
+      "title": "BaruqueRodrigues/llm-legislativo",
+      "source": "github-trending",
+      "url": "https://github.com/BaruqueRodrigues/llm-legislativo",
+      "file": "2026-10-17-baruquerodriguesllm-legislativo.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-003",
+      "title": "Leonxlnx/earshot",
+      "source": "github-trending",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "file": "2026-10-17-leonxlnxearshot.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-004",
+      "title": "w16638771062/mccarbon",
+      "source": "github-trending",
+      "url": "https://github.com/w16638771062/mccarbon",
+      "file": "2026-10-17-w16638771062mccarbon.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-005",
+      "title": "spideymooon/McOracle",
+      "source": "github-trending",
+      "url": "https://github.com/spideymooon/McOracle",
+      "file": "2026-10-17-spideymooonmcoracle.json",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "ai-assistant",
+        "open-source",
+        "agent"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-006",
+      "title": "SakanaAI/AI-Scientist-v3",
+      "source": "github-trending",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v3",
+      "file": "2026-10-17-sakanaaiai-scientist-v3.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "code-generation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-007",
+      "title": "Sam-Hui-dot/mcd-budget-meal",
+      "source": "github-trending",
+      "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
+      "file": "2026-10-17-sam-hui-dotmcd-budget-meal.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-008",
+      "title": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "file": "2026-10-17-heqiangdiao-wqai-cross-border-ecommerce-.json",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-009",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "source": "hackernews-top",
+      "url": "https://github.com/cobanov/PS5LM",
+      "file": "2026-10-17-llamacpp-on-a-jailbroken-ps5-run-any-ggu.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-010",
+      "title": "Claude reveals ECDSA curve origins",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "file": "2026-10-17-claude-reveals-ecdsa-curve-origins.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-011",
+      "title": "FLUX 3 Image Klein",
+      "source": "hackernews-top",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "file": "2026-10-17-flux-3-image-klein.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "image-generation",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-012",
+      "title": "You could have invented transformers from memory",
+      "source": "hackernews-top",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "file": "2026-10-17-you-could-have-invented-transformers-fro.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-013",
+      "title": "Waymo in Toronto",
+      "source": "hackernews-top",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "file": "2026-10-17-waymo-in-toronto.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-014",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "file": "2026-10-17-designing-more-efficient-quantum-circuit.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "prompt-engineering"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-015",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "source": "hackernews-top",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "file": "2026-10-17-apple-ml-research-muse-spark-open-with-m.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-016",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "source": "hackernews-top",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "file": "2026-10-17-jpeg-xl-vs-avif-for-web-use-cases.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-017",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "source": "hackernews-top",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "file": "2026-10-17-90-of-us-working-hours-are-spent-on-task.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-018",
+      "title": "How the Claude Code team does code review",
+      "source": "hackernews-top",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "file": "2026-10-17-how-the-claude-code-team-does-code-revie.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "agent",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-019",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "source": "hackernews-top",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "file": "2026-10-17-show-hn-gemini-4-argon-plays-starcraft.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-020",
+      "title": "I never authorized an integration that scans my secrets",
+      "source": "hackernews-top",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "file": "2026-10-17-i-never-authorized-an-integration-that-s.json",
+      "tags": [
+        "developer-tools",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
+    {
+      "id": "kb-2026-10-17-021",
+      "title": "I Love Software Rendering",
+      "source": "hackernews-top",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "file": "2026-10-17-i-love-software-rendering.json",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-17T02:04:28.391305+00:00"
+    },
     {
       "id": "kb-2026-10-16-001",
       "title": "marclou/mailcheap",
@@ -38863,5 +39185,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-16T02:11:39.684474+00:00"
+  "last_updated": "2026-10-17T02:04:28.638792+00:00"
 }

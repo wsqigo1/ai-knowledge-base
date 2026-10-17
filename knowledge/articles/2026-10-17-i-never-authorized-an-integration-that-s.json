@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-020",
+  "title": "I never authorized an integration that scans my secrets",
+  "source": "hackernews-top",
+  "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+  "summary": "该条目是 Hacker News 上一篇关于第三方集成未经用户明确授权即扫描其密钥（secrets）的讨论帖，核心议题是 SaaS 集成与 OAuth 授权边界中的隐私与安全风险。帖子揭示了部分集成在授权流程中过度索取权限、静默读取环境变量或凭证存储的问题，涉及最小权限原则、OAuth scope 审计与密钥管理实践。技术亮点在于从开发者视角剖析授权链路中的信任缺口，并引发对集成权限透明度的讨论。适用于 AI 工程师在搭建 agent、tool-use 或第三方 API 集成时评估凭证暴露面与权限设计。",
+  "tags": [
+    "developer-tools",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:22.264181+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

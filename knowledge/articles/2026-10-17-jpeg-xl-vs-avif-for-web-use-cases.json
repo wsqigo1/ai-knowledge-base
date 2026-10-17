@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-016",
+  "title": "JPEG XL vs. AVIF for web use-cases",
+  "source": "hackernews-top",
+  "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+  "summary": "该条目对比 JPEG XL 与 AVIF 两种现代图像编码格式在 Web 场景下的适用性，解决网页图片在压缩率、解码性能、渐进式加载与浏览器兼容性之间的取舍问题。核心技术亮点在于从编码效率、解码速度、内存占用、动画支持、无损/有损模式及实际浏览器支持度等维度进行系统评测，帮助开发者判断何时选用 JPEG XL 的渐进式解码与无损重压缩优势，何时选用 AVIF 的广泛兼容与成熟生态。适用场景包括前端性能优化、图片 CDN 格式协商、静态站点与电商图库的格式选型。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:12.198937+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

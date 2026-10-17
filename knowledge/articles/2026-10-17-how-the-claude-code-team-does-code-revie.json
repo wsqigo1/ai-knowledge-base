@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-018",
+  "title": "How the Claude Code team does code review",
+  "source": "hackernews-top",
+  "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+  "summary": "该条目介绍 Anthropic 内部 Claude Code 团队如何做代码审查，属于工程实践分享而非模型技术论文。核心在于将 LLM 驱动的代码审查嵌入日常开发流程，强调以 agent 方式自动生成审查意见、结合人工复核，并沉淀可复用的审查规则与提示词。亮点是真实团队工作流与工具链经验，而非算法创新。适用于使用 AI 辅助编程的工程团队、希望搭建自动化 code review 流程的开发者，以及研究 LLM 在软件工程落地的研究者。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "agent",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:17.010340+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

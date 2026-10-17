@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-019",
+  "title": "Show HN: Gemini 4 Argon plays StarCraft",
+  "source": "hackernews-top",
+  "url": "https://starskirmish.com/bench/v0-2/",
+  "summary": "该项目展示 Gemini 4 Argon 模型在《星际争霸》游戏中的实际对局表现，属于 LLM 在复杂实时策略游戏中的 agent 能力验证。它解决的是大模型在长时程规划、实时决策与多单位控制等动态环境下的落地评估问题。核心技术亮点在于将 Gemini 4 Argon 作为决策核心驱动游戏 agent，结合游戏 API 实现感知-决策-执行闭环，并公开对局过程供社区观察。适用场景包括 LLM agent 研究、游戏 AI 基准测试、实时策略决策系统原型验证。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:20.101731+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

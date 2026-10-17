@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-012",
+  "title": "You could have invented transformers from memory",
+  "source": "hackernews-top",
+  "url": "https://alexwang.ai/posts/associative-memory/",
+  "summary": "该文章以「从零推导 Transformer」的方式，引导读者仅凭记忆与基本原理重建 Transformer 架构，属于教学型技术写作。它解决的是工程师对 Transformer 内部机制理解碎片化、依赖现成框架而缺乏第一性原理认知的问题。核心技术亮点在于逐步推导 self-attention、multi-head attention、positional encoding 与残差连接等组件，强调从直觉出发而非直接调用 API。适用场景为 AI 工程师面试准备、模型原理复习、教学培训以及需要深入理解 LLM 底层架构的研发人员。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:04.031084+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

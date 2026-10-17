@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-003",
+  "title": "Leonxlnx/earshot",
+  "source": "github-trending",
+  "url": "https://github.com/Leonxlnx/earshot",
+  "summary": "Earshot 为 coding agents 提供音频感知与生成能力，让 AI 能够“听见、审阅并发出声音”。它解决的是当前 coding agent 生态中音频模态缺失的问题：agent 无法理解音频输入，也无法生成或评估声音输出。核心技术亮点在于 CPU-only 推理、开源实现，并通过 MCP 与 Claude Code 等 agent 框架集成，覆盖音频理解与 sound-design 生成。适用场景包括为 coding agent 增加音频调试与审阅能力、语音交互式开发助手、以及基于 MCP 的多模态 agent 工作流扩展。",
+  "tags": [
+    "mcp",
+    "agent",
+    "multimodal",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-17T02:03:23.231131+00:00",
+  "analyzed_at": "2026-10-17T02:03:46.233229+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

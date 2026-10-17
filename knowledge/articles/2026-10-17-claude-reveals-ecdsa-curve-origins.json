@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-010",
+  "title": "Claude reveals ECDSA curve origins",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "summary": "该 HN 热帖讨论 Claude 模型在对话中揭示 ECDSA 椭圆曲线参数（如 secp256k1）的历史来源与选择依据，属于 LLM 在密码学知识问答中的一次能力展示。它解决的问题是：工程师在选用曲线、审计实现或理解标准文档时，常缺乏对参数背后设计动机的清晰解释。核心技术亮点在于 LLM 能整合分散的历史资料与标准文本，给出可追溯的叙述，而非仅罗列公式。适用场景包括密码学学习、安全审计辅助、标准选型讨论，以及评估 LLM 在专业领域的事实可靠性。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:01.032958+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

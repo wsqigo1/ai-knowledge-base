@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-006",
+  "title": "SakanaAI/AI-Scientist-v3",
+  "source": "github-trending",
+  "url": "https://github.com/SakanaAI/AI-Scientist-v3",
+  "summary": "SakanaAI 推出的 AI-Scientist-v3 是一个面向自动化科学发现的多智能体编排框架，通过调度多个 coding agent 协同完成从假设生成、实验设计到代码实现与结果分析的科研闭环。它解决的是单一 LLM 在长周期科研任务中缺乏规划、验证与迭代能力的问题。核心技术亮点在于 agentic orchestration 架构，将 coding agent 作为科研执行单元，结合工具调用与多轮反思机制实现可复现的自动化实验流程。适用于 AI 辅助科研、自动化实验平台搭建以及多智能体协作系统的研究与工程实践。",
+  "tags": [
+    "multi-agent",
+    "agent",
+    "code-generation",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-17T02:03:23.231131+00:00",
+  "analyzed_at": "2026-10-17T02:03:50.965747+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

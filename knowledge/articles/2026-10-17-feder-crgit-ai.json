@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-001",
+  "title": "feder-cr/git-ai",
+  "source": "github-trending",
+  "url": "https://github.com/feder-cr/git-ai",
+  "summary": "git-ai 是一个用 Go 编写的、专为 AI agents 设计的 Git 实现，旨在解决传统 Git 在 AI 编码代理场景下的适配问题。传统 Git 面向人类开发者，而 AI agents 需要更结构化、可编程的版本控制接口来管理代码变更、追踪操作历史并支持多 agent 协作。该项目基于 scion 构建，提供面向 agent 的 Git 操作抽象，使 coding agents 能更高效地执行提交、分支管理和状态查询等任务。适用场景包括多 agent 协作开发、自动化代码生成流水线以及需要版本控制集成的 AI 编程助手。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "multi-agent"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-17T02:03:23.231131+00:00",
+  "analyzed_at": "2026-10-17T02:03:31.585044+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-015",
+  "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+  "source": "hackernews-top",
+  "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+  "summary": "Apple ML Research 发布 Muse Spark，一个基于 MLX 框架的开源项目，旨在在 Mac Studio 上本地运行和实验机器学习模型。该项目解决 Apple Silicon 设备上高效部署与推理 ML 模型的需求，核心技术亮点在于利用 MLX 的 unified memory 架构和 Metal 加速，实现 Mac 本地的高性能计算。适用场景包括本地 LLM 推理、模型微调实验以及 Apple 生态下的 AI 开发与原型验证。",
+  "tags": [
+    "open-source",
+    "large-language-model",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:10.515837+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

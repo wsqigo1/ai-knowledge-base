@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-009",
+  "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+  "source": "hackernews-top",
+  "url": "https://github.com/cobanov/PS5LM",
+  "summary": "该项目将 llama.cpp 移植到已越狱的 PlayStation 5 主机上，使 PS5 能够原生加载并运行任意 GGUF 格式的大语言模型。它解决了消费级游戏主机无法直接部署本地 LLM 推理的问题，核心技术亮点在于利用 PS5 的硬件资源（如 CPU/GPU 和内存）通过越狱环境运行 llama.cpp 的推理引擎，实现无需外部服务器的本地模型执行。适用场景包括在游戏主机上进行本地 LLM 实验、边缘推理研究以及探索非传统硬件上的 AI 部署可能性。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:03:59.143080+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-002",
+  "title": "BaruqueRodrigues/llm-legislativo",
+  "source": "github-trending",
+  "url": "https://github.com/BaruqueRodrigues/llm-legislativo",
+  "summary": "该项目构建了大规模巴西立法语料库，并用纯 PyTorch 从零训练了一个因果 Transformer 语言模型。它解决了葡萄牙语法律领域缺乏专用开源语料和基础模型的问题，技术亮点在于不依赖 HuggingFace 等高层框架、完整展示 tokenizer、训练循环与模型架构的底层实现，适合学习 LLM 从零训练流程、研究低资源语言法律文本建模，或作为葡萄牙语法律问答与检索系统的基座。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "fine-tuning",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-17T02:03:23.231131+00:00",
+  "analyzed_at": "2026-10-17T02:03:44.730063+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

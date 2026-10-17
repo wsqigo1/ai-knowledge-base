@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-005",
+  "title": "spideymooon/McOracle",
+  "source": "github-trending",
+  "url": "https://github.com/spideymooon/McOracle",
+  "summary": "McOracle 是一个将麦当劳 MCP（Model Context Protocol）与 AI 答案之书结合的 Python Skill，用户可通过自然语言向 AI 提问，由 AI 调用麦当劳相关工具获取答案，而非直接依赖大模型生成。它解决的是 LLM 回答缺乏外部实时数据与工具调用能力的问题，核心亮点在于以 MCP 协议封装麦当劳服务为可调用工具，并设计成轻量 Skill 形态，便于集成到 agent 工作流中。适用场景包括趣味问答、MCP 工具链演示、AI assistant 的 tool-use 扩展实验，以及开发者学习 MCP 协议落地的参考案例。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "ai-assistant",
+    "open-source",
+    "agent"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-17T02:03:23.231131+00:00",
+  "analyzed_at": "2026-10-17T02:03:49.331739+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

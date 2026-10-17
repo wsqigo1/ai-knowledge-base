@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-17-007",
+  "title": "Sam-Hui-dot/mcd-budget-meal",
+  "source": "github-trending",
+  "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
+  "summary": "该项目是一个基于麦当劳 MCP（Model Context Protocol）的预算餐规划 Skill，将 LLM Agent 与真实餐饮定价数据打通。它解决的是用户在外卖/点餐场景下难以快速核价、控制预算并灵活替换餐品的问题。核心技术亮点在于通过 MCP 接入麦当劳实时菜单与价格接口，实现真实核价、预算比较和餐品替换的自动化推理流程，而非依赖静态数据或模拟价格。适用场景包括个人日常点餐预算管理、Agent 工具调用演示、以及 MCP 协议在消费级服务中的落地实践，对研究 tool-use 与 Agent 工作流的工程师有一定参考价值。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-17T02:03:23.231131+00:00",
+  "analyzed_at": "2026-10-17T02:03:52.809287+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

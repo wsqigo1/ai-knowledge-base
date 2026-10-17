@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-17-021",
+  "title": "I Love Software Rendering",
+  "source": "hackernews-top",
+  "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+  "summary": "该文章探讨软件渲染（software rendering）在现代硬件环境下的复兴价值，主张在特定场景下用CPU替代GPU完成图形渲染。核心亮点在于通过优化算法与多线程并行，在无GPU或GPU资源受限的环境中实现可接受的帧率与画质，并降低对专用图形硬件的依赖。文章结合实例展示软件渲染在嵌入式系统、复古游戏模拟、远程桌面及云游戏等场景的可行性，强调其可移植性与调试便利性。对AI工程师而言，该思路可启发在资源受限设备上部署轻量级视觉渲染管线，或作为GPU加速方案的降级备选。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:25.658855+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}

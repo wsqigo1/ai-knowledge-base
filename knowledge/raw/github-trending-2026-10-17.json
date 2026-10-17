@@ -1,0 +1,532 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-17T02:03:24.774400+00:00",
+  "date": "2026-10-17",
+  "count": 19,
+  "items": [
+    {
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "source": "github-trending",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "stars": 2864,
+      "language": "C",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T19:59:18Z",
+      "summary": "该项目通过一块约7美元的ESP32开发板，为AI模型提供操控真实iPhone的物理通道：利用AirPlay协议实现屏幕视觉输入（eyes），借助USB HID模拟触控与键盘操作（hands），并接入任意OpenAI兼容的vision模型完成感知-决策-执行闭环。它解决了计算机使用类agent在iOS生态中缺乏低成本、免越狱、免开发者账号操控手段的痛点，核心亮点在于纯硬件桥接方案绕开苹果软件限制，且语言为C、依赖极轻。适用于iOS自动化测试、移动端agent研究、无障碍辅助及低成本computer-use原型验证。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "computer-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-10-17T02:03:26.629461+00:00"
+    },
+    {
+      "title": "deeplethe/solid-glass",
+      "source": "github-trending",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stars": 1418,
+      "language": "TypeScript",
+      "topics": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system",
+        "llm",
+        "react",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "theme"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T04:35:40Z",
+      "summary": "solid-glass 是面向 AI 应用的设计系统，以 Material、物理、触感、技术感为视觉语言，提供 TypeScript 实现的 UI 组件与设计规范。它解决 AI 聊天与 agent 界面缺乏统一、可复用设计语言的问题，让开发者无需从零搭建对话 UI。核心技术亮点在于将 agent-ui、chat-ui 等交互模式封装为可组合组件，并强调材质与动效的物理真实感。适用场景包括构建 AI assistant 前端、agent 控制台、对话式产品原型，适合需要快速落地高质量 AI 界面的前端与全栈工程师。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:28.158789+00:00"
+    },
+    {
+      "title": "zhuyansen/new-term-radar",
+      "source": "github-trending",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "stars": 1066,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-14T14:31:39Z",
+      "summary": "该项目是一个每日追踪新兴 AI 术语的雷达工具，专门捕捉 X、Hugging Face、GitHub 和 sitemap 上出现的新模型、新产品和新仓库名称，抢在关键词工具收录之前发现它们。它解决的是 AI 领域术语迭代过快、传统关键词工具滞后的问题，核心技术亮点在于多源实时抓取与早期信号识别，并以 Python 实现。适用场景包括技术趋势监测、竞品情报收集、内容选题和开发者技术选型。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-17T02:03:29.811348+00:00"
+    },
+    {
+      "title": "feder-cr/git-ai",
+      "source": "github-trending",
+      "url": "https://github.com/feder-cr/git-ai",
+      "description": "Git designed for AI agents.",
+      "stars": 1062,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion",
+        "version-control"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T23:02:12Z",
+      "summary": "git-ai 是一个用 Go 编写的、专为 AI agents 设计的 Git 实现，旨在解决传统 Git 在 AI 编码代理场景下的适配问题。传统 Git 面向人类开发者，而 AI agents 需要更结构化、可编程的版本控制接口来管理代码变更、追踪操作历史并支持多 agent 协作。该项目基于 scion 构建，提供面向 agent 的 Git 操作抽象，使 coding agents 能更高效地执行提交、分支管理和状态查询等任务。适用场景包括多 agent 协作开发、自动化代码生成流水线以及需要版本控制集成的 AI 编程助手。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "multi-agent"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-17T02:03:31.585044+00:00"
+    },
+    {
+      "title": "outcrawlai/scout",
+      "source": "github-trending",
+      "url": "https://github.com/outcrawlai/scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "stars": 895,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "cdp",
+        "llm",
+        "typescript",
+        "web-automation"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T07:57:53Z",
+      "summary": "Scout 是 Outcrawl 开源的浏览器 agent，通过 CDP（Chrome DevTools Protocol）直接驱动浏览器，让 LLM 能够感知页面状态并执行点击、输入、导航等操作，从而完成端到端的 Web 任务自动化。它解决的是传统脚本化浏览器自动化难以应对动态页面和复杂交互的问题，核心亮点在于基于 CDP 的底层控制、面向 agent 的页面状态抽象，以及 TypeScript 实现带来的易集成性。适用于网页数据采集、表单自动填写、Web 端流程自动化测试和通用 browser-use 类 agent 构建场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-17T02:03:33.167782+00:00"
+    },
+    {
+      "title": "Zfinix/eleven",
+      "source": "github-trending",
+      "url": "https://github.com/Zfinix/eleven",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "stars": 617,
+      "language": "TypeScript",
+      "topics": [
+        "acp",
+        "ai-agents",
+        "android",
+        "decompiler",
+        "disassembler",
+        "ghidra",
+        "hopper",
+        "macos",
+        "rea",
+        "reverse-engineering"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T12:28:08Z",
+      "summary": "Zfinix/eleven 是一个面向 macOS、Windows 和 Linux 的 Agent-first 逆向工程工具，通过 ACP（Agent Client Protocol）让 AI agent 直接读取、重命名和修补二进制文件、Android 应用及 GPU kernel。它解决传统逆向工程高度依赖人工、工具链割裂的问题，将反编译器、反汇编器与 LLM agent 协同工作流整合。核心技术亮点在于以 ACP 协议标准化 agent 与逆向工具的交互，支持跨平台二进制与移动端 APK 分析。适用于安全研究、漏洞挖掘、恶意软件分析及 GPU 底层调试等场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "mcp"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-17T02:03:34.693054+00:00"
+    },
+    {
+      "title": "i12bp8/decomp.wtf",
+      "source": "github-trending",
+      "url": "https://github.com/i12bp8/decomp.wtf",
+      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "stars": 463,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "decomp",
+        "decompilation",
+        "decompiler",
+        "matching-decompilation",
+        "mcp",
+        "n64",
+        "recomp",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "reverse-engineering"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-15T20:39:36Z",
+      "summary": "该项目是一个基于 AI agent 的本地反编译工具，可将用户合法拥有的游戏二进制文件反编译为 C 代码，且编译后能生成与原文件完全一致的字节序列。它解决了传统反编译工具输出难以还原、可读性差、无法保证语义等价的问题，核心亮点在于利用 LLM agent 驱动反编译流程，结合字节级等价验证闭环，确保反编译结果的正确性。项目使用 Python 实现，支持 claude-code 等 agent 框架，适合逆向工程研究、游戏 mod 开发、二进制安全分析等场景，但需注意仅限用户拥有合法授权的文件。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-17T02:03:36.226100+00:00"
+    },
+    {
+      "title": "datalab-to/indra",
+      "source": "github-trending",
+      "url": "https://github.com/datalab-to/indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "stars": 455,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-15T06:45:17Z",
+      "summary": "Indra 是面向文档解析的轻量级 CPU OCR 工具，覆盖行检测、CTC 文本识别、阅读顺序还原与 Markdown 输出全流程。它解决的是传统 OCR 依赖 GPU、部署成本高且输出缺乏版面结构的问题，通过 ONNX 推理在纯 CPU 上实现快速处理。核心技术亮点包括基于 CTC 的识别模型、阅读顺序建模以及直接产出结构化 Markdown，便于下游 RAG 与文档理解流程消费。适用场景为本地化文档数字化、扫描件转 Markdown、无 GPU 环境下的批量 OCR 预处理。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "rag",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-17T02:03:37.906826+00:00"
+    },
+    {
+      "title": "yeyuxin777/baoyan-agent-benchmark",
+      "source": "github-trending",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stars": 413,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-15T03:41:22Z",
+      "summary": "该项目是 Sprix AI 与保研岛联合开源的 AI agent 评测基准，聚焦保研咨询与申请规划这一垂直场景。它针对通用 benchmark 难以衡量 agent 在真实升学咨询任务中表现的问题，构建了贴近保研流程的任务集与评测框架，覆盖信息检索、规划建议与多轮咨询等能力维度。技术亮点在于将 agent 的 tool-use 与 reasoning 能力置于领域化任务中量化评估，并提供可复现的 Python 评测流程。适用于 AI agent 研究者、教育咨询类产品开发者及需要领域 benchmark 的团队参考。",
+      "tags": [
+        "benchmark",
+        "agent",
+        "reasoning",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-17T02:03:39.429722+00:00"
+    },
+    {
+      "title": "bbylw/rea-cn",
+      "source": "github-trending",
+      "url": "https://github.com/bbylw/rea-cn",
+      "description": "REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。",
+      "stars": 378,
+      "language": "Astro",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-11T07:42:39Z",
+      "summary": "REA 是一个基于 MCP 服务的逆向分析工具，旨在帮助开发者通过 AI 助手逆向分析二进制文件、应用程序及运行时行为，从而理解目标功能在二进制层面的实现原理。其核心亮点在于将逆向工程能力封装为 MCP 服务，使 LLM/Agent 可直接调用，降低逆向分析门槛并实现自动化探索。适用场景包括安全研究、竞品功能拆解、恶意软件分析及学习闭源软件实现机制，适合需要深入二进制层面理解程序行为的工程师与研究人员。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "agent",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-17T02:03:40.709106+00:00"
+    },
+    {
+      "title": "juliobsz/skills",
+      "source": "github-trending",
+      "url": "https://github.com/juliobsz/skills",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "stars": 375,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "astro",
+        "awwwards",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "creative-coding",
+        "frontend",
+        "gsap",
+        "nextjs",
+        "web-design",
+        "webgl"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T22:50:15Z",
+      "summary": "该项目是一个面向 Claude Code 等 agent 平台的 skill，用户只需输入一行自然语言描述，即可生成达到 Awwwards 获奖水准的网站。它解决了 AI 生成前端页面普遍存在的视觉平庸、缺乏设计感问题，通过将设计规范、Astro 站点脚手架与 agent 工作流封装为可复用 skill 来提升产出质量。技术栈为 TypeScript + Astro，属于 agent-skills 生态中的垂直设计能力扩展。适用于快速原型、作品集与营销落地页生成，以及研究 agent 如何编码领域设计知识。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:42.609392+00:00"
+    },
+    {
+      "title": "BaruqueRodrigues/llm-legislativo",
+      "source": "github-trending",
+      "url": "https://github.com/BaruqueRodrigues/llm-legislativo",
+      "description": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+      "stars": 361,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-13T23:46:27Z",
+      "summary": "该项目构建了大规模巴西立法语料库，并用纯 PyTorch 从零训练了一个因果 Transformer 语言模型。它解决了葡萄牙语法律领域缺乏专用开源语料和基础模型的问题，技术亮点在于不依赖 HuggingFace 等高层框架、完整展示 tokenizer、训练循环与模型架构的底层实现，适合学习 LLM 从零训练流程、研究低资源语言法律文本建模，或作为葡萄牙语法律问答与检索系统的基座。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:44.730063+00:00"
+    },
+    {
+      "title": "Leonxlnx/earshot",
+      "source": "github-trending",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "stars": 343,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T22:38:23Z",
+      "summary": "Earshot 为 coding agents 提供音频感知与生成能力，让 AI 能够“听见、审阅并发出声音”。它解决的是当前 coding agent 生态中音频模态缺失的问题：agent 无法理解音频输入，也无法生成或评估声音输出。核心技术亮点在于 CPU-only 推理、开源实现，并通过 MCP 与 Claude Code 等 agent 框架集成，覆盖音频理解与 sound-design 生成。适用场景包括为 coding agent 增加音频调试与审阅能力、语音交互式开发助手、以及基于 MCP 的多模态 agent 工作流扩展。",
+      "tags": [
+        "mcp",
+        "agent",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:46.233229+00:00"
+    },
+    {
+      "title": "w16638771062/mccarbon",
+      "source": "github-trending",
+      "url": "https://github.com/w16638771062/mccarbon",
+      "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
+      "stars": 333,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-13T07:15:56Z",
+      "summary": "该项目是一个基于麦当劳 MCP（Model Context Protocol）的个人餐饮碳足迹估算与减排模拟器，通过接入麦当劳点餐数据，自动计算用户餐饮消费产生的碳排放量，并提供减排方案模拟。它解决了个人难以量化日常饮食碳足迹、缺乏数据驱动减排建议的问题。核心技术亮点在于利用 MCP 协议连接外部服务获取真实点餐数据，结合碳排放因子模型进行估算与情景模拟。适用场景包括个人碳足迹追踪、环保意识教育、以及基于 MCP 的 AI 助手集成演示。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:47.715363+00:00"
+    },
+    {
+      "title": "spideymooon/McOracle",
+      "source": "github-trending",
+      "url": "https://github.com/spideymooon/McOracle",
+      "description": "不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。",
+      "stars": 317,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-12T16:00:28Z",
+      "summary": "McOracle 是一个将麦当劳 MCP（Model Context Protocol）与 AI 答案之书结合的 Python Skill，用户可通过自然语言向 AI 提问，由 AI 调用麦当劳相关工具获取答案，而非直接依赖大模型生成。它解决的是 LLM 回答缺乏外部实时数据与工具调用能力的问题，核心亮点在于以 MCP 协议封装麦当劳服务为可调用工具，并设计成轻量 Skill 形态，便于集成到 agent 工作流中。适用场景包括趣味问答、MCP 工具链演示、AI assistant 的 tool-use 扩展实验，以及开发者学习 MCP 协议落地的参考案例。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "ai-assistant",
+        "open-source",
+        "agent"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-17T02:03:49.331739+00:00"
+    },
+    {
+      "title": "SakanaAI/AI-Scientist-v3",
+      "source": "github-trending",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v3",
+      "description": "The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery",
+      "stars": 305,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-15T08:53:39Z",
+      "summary": "SakanaAI 推出的 AI-Scientist-v3 是一个面向自动化科学发现的多智能体编排框架，通过调度多个 coding agent 协同完成从假设生成、实验设计到代码实现与结果分析的科研闭环。它解决的是单一 LLM 在长周期科研任务中缺乏规划、验证与迭代能力的问题。核心技术亮点在于 agentic orchestration 架构，将 coding agent 作为科研执行单元，结合工具调用与多轮反思机制实现可复现的自动化实验流程。适用于 AI 辅助科研、自动化实验平台搭建以及多智能体协作系统的研究与工程实践。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "code-generation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-17T02:03:50.965747+00:00"
+    },
+    {
+      "title": "Sam-Hui-dot/mcd-budget-meal",
+      "source": "github-trending",
+      "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
+      "description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
+      "stars": 303,
+      "language": "HTML",
+      "topics": [],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T05:05:40Z",
+      "summary": "该项目是一个基于麦当劳 MCP（Model Context Protocol）的预算餐规划 Skill，将 LLM Agent 与真实餐饮定价数据打通。它解决的是用户在外卖/点餐场景下难以快速核价、控制预算并灵活替换餐品的问题。核心技术亮点在于通过 MCP 接入麦当劳实时菜单与价格接口，实现真实核价、预算比较和餐品替换的自动化推理流程，而非依赖静态数据或模拟价格。适用场景包括个人日常点餐预算管理、Agent 工具调用演示、以及 MCP 协议在消费级服务中的落地实践，对研究 tool-use 与 Agent 工作流的工程师有一定参考价值。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:52.809287+00:00"
+    },
+    {
+      "title": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "source": "github-trending",
+      "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "stars": 300,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "llm",
+        "mercado-livre",
+        "prompt-engineering",
+        "shopee",
+        "sop",
+        "workflow-automation"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-16T13:52:52Z",
+      "summary": "该项目将跨境电商运营 SOP 拆解为 7 个可复用的 AI Agent 工作流，提供 Prompt、模板与真实案例，面向 Mercado Livre 等跨境平台。它解决的是运营流程碎片化、难以自动化的问题，通过 LLM 驱动的 Agent 编排实现选品、listing、客服等环节的标准化执行。核心技术亮点在于 SOP 到 Agent 工作流的模块化映射与 Prompt 工程实践，而非底层模型创新。适用场景为中小跨境卖家的运营提效与 AI 工程师的 Agent 落地参考。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-17T02:03:54.210157+00:00"
+    },
+    {
+      "title": "egotoadcitadel/palette-from-image-ai",
+      "source": "github-trending",
+      "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
+      "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+      "stars": 300,
+      "language": "Python",
+      "topics": [
+        "ai-color-extraction",
+        "ai-color-palette",
+        "color-extraction",
+        "color-palette-generator",
+        "color-picker",
+        "color-quantization",
+        "color-scheme-extractor",
+        "desktop-app",
+        "dominant-color-finder",
+        "dominant-colors",
+        "gui",
+        "image-color-extraction",
+        "image-to-palette",
+        "kmeans-clustering",
+        "kmeans-color-clustering",
+        "palette-from-image",
+        "python",
+        "python-gui",
+        "windows"
+      ],
+      "collected_at": "2026-10-17T02:03:23.231131+00:00",
+      "published_at": "2026-10-13T17:10:50Z",
+      "summary": "该项目是一个从图像中提取配色方案的 Python 工具，面向设计师与像素艺术家，无需订阅或上传云端即可本地生成干净且带命名的调色板。它解决的是手动取色效率低、商业工具依赖云服务与付费墙的问题。核心技术亮点在于结合 AI 色彩提取与命名，输出结构化、可直接使用的调色板，并强调隐私与离线可用。适用场景包括 UI/平面设计、像素画创作、品牌配色参考以及批量图像色彩分析。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-17T02:03:55.836505+00:00"
+    }
+  ]
+}

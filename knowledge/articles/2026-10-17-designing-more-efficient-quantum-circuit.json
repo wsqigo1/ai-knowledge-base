@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-17-014",
+  "title": "Designing more efficient quantum circuits with Claude",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "summary": "该条目介绍利用 Claude 大语言模型辅助设计更高效的量子电路，属于 AI 与量子计算交叉方向。核心解决量子电路设计中人工优化效率低、搜索空间大的问题，通过 LLM 的推理与代码生成能力探索电路结构优化。技术亮点在于将通用大模型用于量子编译与门级优化，可能涉及 prompt 工程与迭代反馈。适用场景为量子算法研究、量子编译优化及 AI for Science 探索，对 AI 工程师而言偏前沿参考，直接落地价值有限。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "code-generation",
+    "prompt-engineering"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-17T02:03:23.425240+00:00",
+  "analyzed_at": "2026-10-17T02:04:09.100395+00:00",
+  "organized_at": "2026-10-17T02:04:28.391305+00:00",
+  "status": "published"
+}
