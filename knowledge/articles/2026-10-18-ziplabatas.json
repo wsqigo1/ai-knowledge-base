@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-18-004",
+  "title": "ziplab/ATAS",
+  "source": "github-trending",
+  "url": "https://github.com/ziplab/ATAS",
+  "summary": "ATAS 是一个以世界状态为中心的多智能体框架，用于生成具有时空一致性的长视频。它解决现有视频生成模型在长时间跨度与复杂空间场景中难以维持物体持久性和因果连贯性的问题。核心技术亮点在于引入显式世界状态表示，由多个 agent 分工维护场景状态、规划事件并驱动视频生成，从而实现任意时间点与任意空间视角下的一致性渲染。该框架适用于需要长时程叙事、多视角一致性的影视预演、游戏内容生成及具身智能仿真等场景。",
+  "tags": [
+    "multi-agent",
+    "multimodal",
+    "agent",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-18T02:03:04.268921+00:00",
+  "analyzed_at": "2026-10-18T02:03:41.927555+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}

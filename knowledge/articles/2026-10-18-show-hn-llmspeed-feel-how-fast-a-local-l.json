@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-18-010",
+  "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "source": "hackernews-top",
+  "url": "https://llmspeed.dev/",
+  "summary": "Llmspeed 是一个面向本地 LLM 部署的硬件性能预估工具，帮助用户在购买 GPU/CPU 等硬件前，直观感受不同模型在特定配置下的推理速度。它解决了本地部署 LLM 时硬件选型缺乏直观参考的痛点，避免盲目采购。核心技术亮点在于整合模型参数量、量化方式与硬件规格，快速估算 tokens/s 等关键指标，并提供可视化对比。适用场景包括个人开发者评估本地推理方案、团队规划边缘 AI 设备，以及教学演示中展示硬件与模型性能关系。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-18T02:03:04.477913+00:00",
+  "analyzed_at": "2026-10-18T02:04:07.072345+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}

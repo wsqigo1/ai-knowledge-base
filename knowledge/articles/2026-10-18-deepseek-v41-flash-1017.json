@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-18-005",
+  "title": "DeepSeek-v4.1-Flash-1017",
+  "source": "hackernews-top",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "summary": "DeepSeek-v4.1-Flash-1017 是 DeepSeek 推出的轻量级大语言模型新版本，主打低延迟与高吞吐推理。该版本针对前代在长上下文与复杂推理任务中的性能瓶颈进行优化，通过改进的 MoE 路由策略与稀疏激活机制降低单次推理算力开销，同时保持接近旗舰模型的任务表现。技术亮点包括更高效的 KV Cache 管理与对 tool-use、code-generation 场景的专项调优。适用于对响应速度和部署成本敏感的在线 AI 助手、代码补全及 Agent 工作流等生产场景。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "code-generation",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-18T02:03:04.477913+00:00",
+  "analyzed_at": "2026-10-18T02:03:48.844284+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}

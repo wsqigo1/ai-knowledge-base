@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-18-007",
+  "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+  "source": "hackernews-top",
+  "url": "https://github.com/antirez/c64-hw-simulator",
+  "summary": "这是一个 Commodore 64 硬件模拟器项目，允许用户通过破坏芯片和引脚来观察系统行为变化。它解决了复古计算教育和硬件调试中缺乏可交互、可破坏式模拟环境的问题。核心技术亮点在于细粒度的芯片级与引脚级模拟，支持故障注入与实时结果反馈，而非仅运行软件。适用场景包括计算机体系结构教学、复古硬件爱好者探索、以及硬件容错与故障分析实验。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-18T02:03:04.477913+00:00",
+  "analyzed_at": "2026-10-18T02:03:54.465958+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}

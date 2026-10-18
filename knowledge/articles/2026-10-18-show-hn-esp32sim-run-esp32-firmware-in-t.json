@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-18-009",
+  "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+  "source": "hackernews-top",
+  "url": "https://github.com/mikroverk/esp32sim",
+  "summary": "Esp32sim 是一个在浏览器中运行 ESP32 固件的开源模拟器，通过 WebAssembly 和 JavaScript 实现硬件外设模拟，解决嵌入式开发中硬件依赖和调试不便的问题。核心技术亮点包括浏览器内实时执行固件、GPIO/定时器等外设虚拟化，以及无需本地工具链的即开即用体验。适用于嵌入式教学、快速原型验证和 CI 环境下的固件测试，对 AI 工程师在边缘设备部署和硬件交互调试场景有辅助价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-18T02:03:04.477913+00:00",
+  "analyzed_at": "2026-10-18T02:04:05.408416+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}

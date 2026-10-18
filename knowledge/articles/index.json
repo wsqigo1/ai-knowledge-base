@@ -1,7 +1,188 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2609,
+  "total_count": 2621,
   "entries": [
+    {
+      "id": "kb-2026-10-18-001",
+      "title": "anujasid/blender-ai-mcp-addon",
+      "source": "github-trending",
+      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "file": "2026-10-18-anujasidblender-ai-mcp-addon.json",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-002",
+      "title": "aicodeking/leanrea",
+      "source": "github-trending",
+      "url": "https://github.com/aicodeking/leanrea",
+      "file": "2026-10-18-aicodekingleanrea.json",
+      "tags": [
+        "developer-tools",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-003",
+      "title": "Graphicle-AI/graphicle",
+      "source": "github-trending",
+      "url": "https://github.com/Graphicle-AI/graphicle",
+      "file": "2026-10-18-graphicle-aigraphicle.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.4,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-004",
+      "title": "ziplab/ATAS",
+      "source": "github-trending",
+      "url": "https://github.com/ziplab/ATAS",
+      "file": "2026-10-18-ziplabatas.json",
+      "tags": [
+        "multi-agent",
+        "multimodal",
+        "agent",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-005",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "source": "hackernews-top",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "file": "2026-10-18-deepseek-v41-flash-1017.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-006",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "source": "hackernews-top",
+      "url": "https://pele.run/",
+      "file": "2026-10-18-pele-mermaid-diagrams-as-themeable-svg.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-007",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "source": "hackernews-top",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "file": "2026-10-18-the-commodore-64-hardware-simulator-brea.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-008",
+      "title": "Source code of the Estonian online voting system",
+      "source": "hackernews-top",
+      "url": "https://github.com/valimised/ivxv",
+      "file": "2026-10-18-source-code-of-the-estonian-online-votin.json",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-009",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "source": "hackernews-top",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "file": "2026-10-18-show-hn-esp32sim-run-esp32-firmware-in-t.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-010",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "source": "hackernews-top",
+      "url": "https://llmspeed.dev/",
+      "file": "2026-10-18-show-hn-llmspeed-feel-how-fast-a-local-l.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-011",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "file": "2026-10-18-opencode-hacked-user-credentials-leaked.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
+    {
+      "id": "kb-2026-10-18-012",
+      "title": "Microsoft and CMU team up to train early career software engineers",
+      "source": "hackernews-top",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "file": "2026-10-18-microsoft-and-cmu-team-up-to-train-early.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-18T02:04:18.037771+00:00"
+    },
     {
       "id": "kb-2026-10-17-001",
       "title": "feder-cr/git-ai",
@@ -39185,5 +39366,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-17T02:04:28.638792+00:00"
+  "last_updated": "2026-10-18T02:04:18.167947+00:00"
 }

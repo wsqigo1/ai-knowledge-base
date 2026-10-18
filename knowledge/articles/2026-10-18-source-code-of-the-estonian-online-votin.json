@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-18-008",
+  "title": "Source code of the Estonian online voting system",
+  "source": "hackernews-top",
+  "url": "https://github.com/valimised/ivxv",
+  "summary": "爱沙尼亚在线投票系统（i-Voting）的完整源代码公开，涵盖选民身份验证、加密选票生成、混合网络匿名化、选票存储与计票等全流程。该系统解决远程电子投票中的身份认证、选票隐私与可验证性问题，核心技术包括基于ID卡的数字签名、双层加密信封机制、可验证投票协议及离线计票架构。对AI/LLM工程师而言，其价值在于提供高安全等级的端到端加密与身份认证工程实践参考，可借鉴于构建可信AI代理的权限控制、审计日志与隐私保护工作流，但领域匹配度有限，主要适用于安全敏感型系统设计场景。",
+  "tags": [
+    "open-source",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-18T02:03:04.477913+00:00",
+  "analyzed_at": "2026-10-18T02:04:00.158561+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}

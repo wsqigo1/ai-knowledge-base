@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-18-003",
+  "title": "Graphicle-AI/graphicle",
+  "source": "github-trending",
+  "url": "https://github.com/Graphicle-AI/graphicle",
+  "summary": "Graphicle 是一个用 Rust 编写的单程序工具，为编码代理（Claude Code、Codex、Cursor 及任意 MCP 客户端）提供代码图谱与持久记忆能力。它解决代理在大型代码库中缺乏结构化上下文、重复探索和记忆丢失的问题，通过构建代码图谱并维护代理记忆，让代理能快速定位符号、依赖与历史决策。核心亮点是 Rust 实现的高性能单二进制、MCP 协议原生集成、代码分析与记忆存储一体化。适用场景包括大型仓库的代理辅助开发、多轮任务上下文保持、以及需要跨会话记忆的自动化编码工作流。",
+  "tags": [
+    "mcp",
+    "agent",
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-10-18T02:03:04.268921+00:00",
+  "analyzed_at": "2026-10-18T02:03:40.104271+00:00",
+  "organized_at": "2026-10-18T02:04:18.037771+00:00",
+  "status": "published"
+}
