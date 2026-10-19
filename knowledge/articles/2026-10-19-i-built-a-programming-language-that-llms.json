@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-19-012",
+  "title": "I built a programming language that LLMs can't use",
+  "source": "hackernews-top",
+  "url": "https://blog.picheta.me/post/killswitch-lang/",
+  "summary": "该项目是一个刻意设计为LLM无法使用的编程语言，作者通过构造LLM难以解析和生成的语法规则（如非标准符号、上下文敏感结构等），探索LLM在代码生成任务中的能力边界。核心亮点在于反向利用LLM的tokenization与模式匹配弱点，为评估代码生成模型的鲁棒性提供了新视角。适用场景包括LLM代码生成能力评测、对抗性prompt设计研究，以及编程语言设计对AI友好性的讨论。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:20:47.760579+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

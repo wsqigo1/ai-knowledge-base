@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-19-007",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2610.18861",
+  "summary": "Hybrid Reasoning Agents 提出一种混合推理架构：LLM agent 在 latent space 中进行隐式推理，再通过文本接口执行动作。它针对纯文本链式推理（CoT）冗长、token 开销大、中间步骤易出错的问题，将连续隐式思考与离散文本行动解耦。核心技术亮点是 latent-space reasoning 与 text-based action 的桥接机制，兼顾推理效率与可解释、可工具调用的输出。适用于需要多步规划、工具调用和低延迟的 agent 场景，如自动化工作流与复杂任务编排。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "reasoning",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:20:34.118768+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

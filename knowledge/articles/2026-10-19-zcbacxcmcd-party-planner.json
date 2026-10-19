@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-19-005",
+  "title": "zcbacxc/mcd-party-planner",
+  "source": "github-trending",
+  "url": "https://github.com/zcbacxc/mcd-party-planner",
+  "summary": "该项目是一个基于 Model Context Protocol (MCP) 的麦当劳聚会/团餐组织助手，提供 CLI 和 Skill 两种使用形态。它解决的是多人聚餐场景下菜单规划、订单汇总与预订流程繁琐的问题，通过 MCP 将麦当劳相关能力封装为可供 LLM Agent 调用的工具。核心技术亮点在于以 MCP 标准协议对接外部服务，并借助 CLI/Skill 形式降低 Agent 集成门槛，属于 tool-use 与 workflow-automation 的实践案例。适用场景包括团队团建订餐、聚会餐品自动规划，以及作为学习 MCP 工具封装的参考实现。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-19T02:19:58.067244+00:00",
+  "analyzed_at": "2026-10-19T02:20:25.666786+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-19-009",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "source": "hackernews-top",
+  "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "summary": "该条目讨论自建 LLM proxy 的必要性，主张团队应运行自己的代理层以观测和控制发往大模型 API 的请求。它解决的是调用外部 LLM 服务时缺乏可见性、成本失控与调试困难的问题。核心技术亮点包括请求日志与追踪、token 用量与成本统计、缓存、限流、重试与故障转移，以及统一接入多家模型供应商的抽象层。适用场景为在生产环境使用 LLM 的工程团队，尤其是需要审计、成本治理和多模型路由的 AI 应用。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:20:37.168938+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

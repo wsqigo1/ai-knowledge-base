@@ -1,7 +1,280 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2621,
+  "total_count": 2639,
   "entries": [
+    {
+      "id": "kb-2026-10-19-001",
+      "title": "LiCinCan/blender-ai-mcp-addon",
+      "source": "github-trending",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "file": "2026-10-19-licincanblender-ai-mcp-addon.json",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-002",
+      "title": "reason-machines/reason-network",
+      "source": "github-trending",
+      "url": "https://github.com/reason-machines/reason-network",
+      "file": "2026-10-19-reason-machinesreason-network.json",
+      "tags": [
+        "multi-agent",
+        "mcp",
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-003",
+      "title": "cranebeaker/coop-anything",
+      "source": "github-trending",
+      "url": "https://github.com/cranebeaker/coop-anything",
+      "file": "2026-10-19-cranebeakercoop-anything.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-004",
+      "title": "alchaincyf/huashu-motion",
+      "source": "github-trending",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "file": "2026-10-19-alchaincyfhuashu-motion.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.3,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-005",
+      "title": "zcbacxc/mcd-party-planner",
+      "source": "github-trending",
+      "url": "https://github.com/zcbacxc/mcd-party-planner",
+      "file": "2026-10-19-zcbacxcmcd-party-planner.json",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-006",
+      "title": "Entelligence-AI/agentplay",
+      "source": "github-trending",
+      "url": "https://github.com/Entelligence-AI/agentplay",
+      "file": "2026-10-19-entelligence-aiagentplay.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-007",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "file": "2026-10-19-hybrid-reasoning-agents-llm-agents-that-.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-008",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "file": "2026-10-19-theres-never-been-a-better-time-to-go-in.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-009",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "source": "hackernews-top",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "file": "2026-10-19-if-you-dont-run-your-own-llm-proxy-how-d.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-010",
+      "title": "RepRapMicron",
+      "source": "hackernews-top",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "file": "2026-10-19-reprapmicron.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-011",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "source": "hackernews-top",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "file": "2026-10-19-deepseek-search-and-fetch-075-per-1000-s.json",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-012",
+      "title": "I built a programming language that LLMs can't use",
+      "source": "hackernews-top",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "file": "2026-10-19-i-built-a-programming-language-that-llms.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-013",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "source": "hackernews-top",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "file": "2026-10-19-java-sealed-classes-and-exhaustive-patte.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-014",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "source": "hackernews-top",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "file": "2026-10-19-open-micromanipulator-a-sub-micrometer-3.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-015",
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "source": "hackernews-top",
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "file": "2026-10-19-sigsaly-churchills-top-secret-hotline-to.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-016",
+      "title": "Types of types: Haskell's Kind system",
+      "source": "hackernews-top",
+      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "file": "2026-10-19-types-of-types-haskells-kind-system.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.0,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-017",
+      "title": "Parser Combinators",
+      "source": "hackernews-top",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "file": "2026-10-19-parser-combinators.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
+    {
+      "id": "kb-2026-10-19-018",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "source": "hackernews-top",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "file": "2026-10-19-show-hn-sphinx-a-hook-that-quizzes-you-o.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-19T02:21:06.092260+00:00"
+    },
     {
       "id": "kb-2026-10-18-001",
       "title": "anujasid/blender-ai-mcp-addon",
@@ -39366,5 +39639,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-18T02:04:18.167947+00:00"
+  "last_updated": "2026-10-19T02:21:06.354366+00:00"
 }

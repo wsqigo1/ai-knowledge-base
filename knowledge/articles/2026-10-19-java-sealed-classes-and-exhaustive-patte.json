@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-19-013",
+  "title": "Java sealed classes and exhaustive pattern matching",
+  "source": "hackernews-top",
+  "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+  "summary": "Java sealed classes 与 exhaustive pattern matching 是 Java 17+ 引入的语言特性组合：sealed 限制类/接口的继承者，pattern matching 在 switch 中按类型解构并校验穷尽性。它解决的是传统 Java 类型分支冗长、编译器无法保证分支完整性的问题，让代数数据类型（ADT）风格建模在 Java 中可行。核心技术亮点是编译期穷尽性检查与 record 解构模式配合，减少 default 分支和运行时类型错误。适用场景包括领域建模、编译器/AST 处理、状态机与协议消息分发等需要封闭类型层级的工程代码。对 AI 工程师而言，可作为构建类型安全 DSL、工具链与 agent 编排逻辑的工程基础，但与 LLM 本身无直接关系。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:20:49.507792+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

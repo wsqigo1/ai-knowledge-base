@@ -1,0 +1,396 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-19T02:19:59.498890+00:00",
+  "date": "2026-10-19",
+  "count": 20,
+  "items": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "hn_url": "https://news.ycombinator.com/item?id=50145337",
+      "description": "",
+      "hn_score": 224,
+      "comments": 137,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "Hybrid Reasoning Agents 提出一种混合推理架构：LLM agent 在 latent space 中进行隐式推理，再通过文本接口执行动作。它针对纯文本链式推理（CoT）冗长、token 开销大、中间步骤易出错的问题，将连续隐式思考与离散文本行动解耦。核心技术亮点是 latent-space reasoning 与 text-based action 的桥接机制，兼顾推理效率与可解释、可工具调用的输出。适用于需要多步规划、工具调用和低延迟的 agent 场景，如自动化工作流与复杂任务编排。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-10-19T02:20:34.118768+00:00"
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "hn_url": "https://news.ycombinator.com/item?id=50136150",
+      "description": "",
+      "hn_score": 178,
+      "comments": 161,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "3Blue1Brown 发布的视频，探讨当前进入数学领域的最佳时机。视频从数学学习与研究的视角出发，分析 AI 时代数学能力的重要性与机遇，强调数学在理解现代技术（如机器学习、算法）中的基础作用。核心技术亮点在于以可视化方式阐释数学思维的价值，并讨论数学与 AI 交叉领域的职业前景。适用场景包括数学教育、AI 基础研究入门、技术人员的数学素养提升。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-19T02:20:35.706822+00:00"
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "source": "hackernews-top",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "hn_url": "https://news.ycombinator.com/item?id=50145507",
+      "description": "",
+      "hn_score": 42,
+      "comments": 28,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该条目讨论自建 LLM proxy 的必要性，主张团队应运行自己的代理层以观测和控制发往大模型 API 的请求。它解决的是调用外部 LLM 服务时缺乏可见性、成本失控与调试困难的问题。核心技术亮点包括请求日志与追踪、token 用量与成本统计、缓存、限流、重试与故障转移，以及统一接入多家模型供应商的抽象层。适用场景为在生产环境使用 LLM 的工程团队，尤其是需要审计、成本治理和多模型路由的 AI 应用。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-19T02:20:37.168938+00:00"
+    },
+    {
+      "title": "Someone behind the software",
+      "source": "hackernews-top",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "hn_url": "https://news.ycombinator.com/item?id=50142573",
+      "description": "",
+      "hn_score": 322,
+      "comments": 137,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该 HN 热帖以「Someone behind the software」为题，讨论软件背后的人——开发者、维护者与团队——在开源与产品中的角色、贡献与可见性。它并非具体技术方案，而是对软件工程中「人」这一维度的反思，涉及开源维护者倦怠、贡献者归属、代码审查与协作文化等议题。核心亮点在于从社会技术视角审视工程实践，提醒 AI 工程师在构建工具链与自动化流程时关注人的因素。适用于开源社区治理、团队协作与开发者体验相关场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-19T02:20:39.048496+00:00"
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "source": "hackernews-top",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "hn_url": "https://news.ycombinator.com/item?id=50144066",
+      "description": "",
+      "hn_score": 116,
+      "comments": 23,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "Free Pascal 编译器新增动态包（dynamic packages）支持，使 Pascal 程序可在运行时加载和卸载模块化代码单元。该特性解决了传统静态链接导致的部署体积大、更新需重新编译的问题，核心技术亮点在于运行时模块加载与符号解析机制，提升插件化与热更新能力。适用于需要插件架构、模块热替换或资源受限环境下的 Pascal 应用开发，对 AI 工程领域直接价值有限，但作为编译器基础设施改进值得关注。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-19T02:20:40.473722+00:00"
+    },
+    {
+      "title": "RepRapMicron",
+      "source": "hackernews-top",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "hn_url": "https://news.ycombinator.com/item?id=50141076",
+      "description": "",
+      "hn_score": 335,
+      "comments": 55,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "RepRapMicron 是 RepRap 开源 3D 打印生态的延伸项目，目标是将熔融沉积成型（FDM）的精度推进到微米级，解决桌面级 3D 打印机难以制造高精度微型零件的问题。核心技术亮点在于对运动系统、挤出机构和热管理的重新设计，以在低成本开源硬件上实现微米级定位与沉积控制。该项目适合微流控芯片、微型传感器、精密机械零件等需要高分辨率增材制造的研发场景，也为开源硬件社区提供了可复现的微尺度制造平台。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-19T02:20:42.248208+00:00"
+    },
+    {
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "source": "hackernews-top",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "hn_url": "https://news.ycombinator.com/item?id=50136979",
+      "description": "",
+      "hn_score": 136,
+      "comments": 81,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该研究探讨了人类语言中普遍存在的 bouba-kiki 效应（圆润音对应圆形、尖锐音对应尖刺形状）是否也存在于狗身上。研究通过行为实验测试狗对无意义语音与视觉形状的匹配偏好，发现狗表现出与人类相似的跨模态对应倾向。核心亮点在于首次在非人类动物中系统验证了语音-形状映射的跨物种普遍性，为语言进化与感知符号化起源提供了实证线索。该工作对 AI 工程师的直接实用价值有限，但可为多模态表征学习、跨模态对齐（audio-visual correspondence）以及认知启发的模型设计提供参考，适用于对多模态感知与语言起源交叉领域感兴趣的研究者。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-10-19T02:20:44.396370+00:00"
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "source": "hackernews-top",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "hn_url": "https://news.ycombinator.com/item?id=50138531",
+      "description": "",
+      "hn_score": 552,
+      "comments": 261,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "DeepSeek 推出的搜索与网页抓取 API 服务，按成功请求计费，每 1000 次 0.75 美元。该服务解决 LLM 应用在构建 RAG、agent 或 AI 助手时缺乏可靠、低成本实时搜索与内容抓取能力的问题。核心技术亮点在于将搜索与 fetch 合并为按成功结果计费的接口，降低无效调用成本，并可直接作为 tool-use 接入 agent 工作流。适用场景包括 RAG 数据获取、agent 联网检索、AI 助手实时信息增强及自动化内容采集。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "agent",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-19T02:20:46.340357+00:00"
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "source": "hackernews-top",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "hn_url": "https://news.ycombinator.com/item?id=50135762",
+      "description": "",
+      "hn_score": 87,
+      "comments": 72,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该项目是一个刻意设计为LLM无法使用的编程语言，作者通过构造LLM难以解析和生成的语法规则（如非标准符号、上下文敏感结构等），探索LLM在代码生成任务中的能力边界。核心亮点在于反向利用LLM的tokenization与模式匹配弱点，为评估代码生成模型的鲁棒性提供了新视角。适用场景包括LLM代码生成能力评测、对抗性prompt设计研究，以及编程语言设计对AI友好性的讨论。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-19T02:20:47.760579+00:00"
+    },
+    {
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "source": "hackernews-top",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "hn_url": "https://news.ycombinator.com/item?id=50141579",
+      "description": "",
+      "hn_score": 139,
+      "comments": 104,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "Java sealed classes 与 exhaustive pattern matching 是 Java 17+ 引入的语言特性组合：sealed 限制类/接口的继承者，pattern matching 在 switch 中按类型解构并校验穷尽性。它解决的是传统 Java 类型分支冗长、编译器无法保证分支完整性的问题，让代数数据类型（ADT）风格建模在 Java 中可行。核心技术亮点是编译期穷尽性检查与 record 解构模式配合，减少 default 分支和运行时类型错误。适用场景包括领域建模、编译器/AST 处理、状态机与协议消息分发等需要封闭类型层级的工程代码。对 AI 工程师而言，可作为构建类型安全 DSL、工具链与 agent 编排逻辑的工程基础，但与 LLM 本身无直接关系。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-19T02:20:49.507792+00:00"
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "source": "hackernews-top",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "hn_url": "https://news.ycombinator.com/item?id=50142866",
+      "description": "",
+      "hn_score": 446,
+      "comments": 208,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该条目为 Hacker News 热帖，讲述用户域名注册商 Namecheap 突然查封并停用其全部域名的经历。事件暴露了域名资产托管于单一注册商时的控制权风险与合规审查不透明问题，核心在于第三方平台对用户关键数字资产拥有单方面处置权。技术亮点有限，但作为运维与安全领域的真实案例，对依赖域名开展业务的工程师具有警示价值，适用于域名管理、基础设施风险分散及合规策略讨论场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-19T02:20:51.231353+00:00"
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "source": "hackernews-top",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "hn_url": "https://news.ycombinator.com/item?id=50140001",
+      "description": "",
+      "hn_score": 175,
+      "comments": 13,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "Open MicroManipulator 是一个开源亚微米级三维运动控制平台，面向精密定位与微操作场景。它解决科研与工业中高精度运动控制硬件成本高、封闭不可定制的问题，通过开源硬件设计与控制软件实现亚微米级重复定位精度。核心技术亮点包括低成本开源架构、多轴联动控制与开放接口，便于集成视觉反馈与自动化流程。适用于显微操作、生物实验、微纳制造及精密装配等需要高精度三维定位的研究与工程场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-19T02:20:52.886473+00:00"
+    },
+    {
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "source": "hackernews-top",
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "hn_url": "https://news.ycombinator.com/item?id=50096110",
+      "description": "",
+      "hn_score": 113,
+      "comments": 39,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "SIGSALY 是二战期间为丘吉尔与罗斯福之间建立的高度机密语音通信系统，旨在解决跨大西洋电话被截听的安全问题。其核心技术亮点在于采用一次性密钥流（one-time pad）对语音信号进行加密，并首次实现语音信号的数字化采样与压缩编码，通过声码器（vocoder）将语音分解为基频、共振峰等参数后加密传输，开创了数字语音加密的先河。该系统需专用终端与同步密钥，适用于极端安全需求的国家级通信场景，对现代数字通信与加密技术具有历史性启示。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-19T02:20:55.024547+00:00"
+    },
+    {
+      "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "source": "hackernews-top",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "hn_url": "https://news.ycombinator.com/item?id=50137620",
+      "description": "",
+      "hn_score": 369,
+      "comments": 521,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该条目讨论的是关于Elizabeth Holmes的纪录片《You Can See Everything》存在误导性内容的批评文章，而非技术项目或AI研究。文章核心在于指出纪录片在叙事和事实呈现上的偏差，涉及媒体伦理与科技创业文化反思。对AI工程师而言，该内容与日常技术工作无直接关联，但可作为科技行业伦理讨论的参考案例。适用场景限于对科技史、创业伦理或媒体批判感兴趣的读者。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-19T02:20:56.535106+00:00"
+    },
+    {
+      "title": "I electrified my push scooter with a power drill",
+      "source": "hackernews-top",
+      "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "hn_url": "https://news.ycombinator.com/item?id=50093020",
+      "description": "",
+      "hn_score": 144,
+      "comments": 52,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该项目记录将电动滑板车改装为电力驱动的硬件DIY实践，通过拆解电钻电机、设计传动机构与供电控制，解决人力滑板车爬坡费力、通勤效率低的问题。核心技术亮点在于低成本机械传动改造与电机复用，涉及电池组、调速与安全冗余设计。适用于个人短途通勤工具改造与创客教育场景，对AI工程师的参考价值主要在工程思维与快速原型方法，而非AI技术本身。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-10-19T02:20:58.124298+00:00"
+    },
+    {
+      "title": "Types of types: Haskell's Kind system",
+      "source": "hackernews-top",
+      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "hn_url": "https://news.ycombinator.com/item?id=50090927",
+      "description": "",
+      "hn_score": 106,
+      "comments": 74,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该文章深入解析 Haskell 的 Kind 系统，即类型之上的类型层级。它解决了类型构造器（如 Maybe、Either）在泛型编程中如何被抽象和约束的问题，使高阶类型操作具备静态检查能力。核心技术亮点包括 Kind 的多态性、DataKinds 扩展、类型级编程与类型族，以及 Kind 推断机制。适用场景为函数式编程语言研究者、类型系统设计者及需要强类型保证的库开发者，对 AI 工程师理解类型安全与泛型抽象有间接启发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.0,
+      "analyzed_at": "2026-10-19T02:20:59.670472+00:00"
+    },
+    {
+      "title": "Parser Combinators",
+      "source": "hackernews-top",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "hn_url": "https://news.ycombinator.com/item?id=50139067",
+      "description": "",
+      "hn_score": 222,
+      "comments": 80,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "Parser Combinators 是一种将小型解析器函数组合成复杂解析器的函数式编程技术，用于解决手写递归下降解析器代码重复、难以复用的问题。核心亮点在于以高阶函数和组合子（combinator）抽象文法规则，使解析逻辑模块化、可测试且类型安全，典型实现包括 Haskell 的 Parsec、Rust 的 nom 与 chumsky。该技术适用于构建编程语言编译器前端、DSL 解析器、配置文件与协议解析器，也常用于 LLM 输出结构化解析（如 constrained decoding 与 tool-call 参数校验）等场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-19T02:21:01.376044+00:00"
+    },
+    {
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "source": "hackernews-top",
+      "url": "https://legendofhyrule.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50140769",
+      "description": "",
+      "hn_score": 166,
+      "comments": 100,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该条目是 Hacker News 上关于《塞尔达传说》时间线梳理的 Show HN 帖子，旨在帮助玩家在《时之笛》重制版发布前快速补完系列剧情脉络。它解决的是系列作品时间线错综复杂、新玩家难以理清先后顺序的问题。核心亮点在于以可视化或结构化方式串联多部作品的关键事件与分支时间线。适用场景为游戏玩家剧情回顾与社区讨论，与 AI/LLM 工程技术无直接关联。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-19T02:21:02.919327+00:00"
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "source": "hackernews-top",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50137950",
+      "description": "",
+      "hn_score": 241,
+      "comments": 85,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "Sphinx 是一个 Git hook 工具，在代码提交前对 AI 生成的代码进行交互式测验，强制开发者理解 AI 辅助编写的逻辑。它解决 AI 代码生成普及后开发者盲目提交、缺乏审查的问题，通过测验机制确保代码被真正理解。核心技术亮点是将 AI 代码审查与开发者知识验证结合，以 hook 形式嵌入开发流程，实现自动化拦截。适用场景包括使用 Copilot 等 AI 编程助手的团队、需要代码质量管控的开源项目及 CI/CD 流程。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-19T02:21:04.468859+00:00"
+    },
+    {
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "source": "hackernews-top",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50144005",
+      "description": "",
+      "hn_score": 165,
+      "comments": 300,
+      "collected_at": "2026-10-19T02:19:58.237075+00:00",
+      "published_at": "2026-10-19T02:19:58.237075+00:00",
+      "summary": "该条目讨论佛罗里达州业主协会（HOA）和公寓协会在住房危机中的负面作用，属于社会政策与住房市场议题，不涉及AI或软件工程技术。内容聚焦HOA治理规则、保险成本上升及住房供给受限等现实问题，缺乏可迁移的技术方案或工程实践。对AI工程师而言，仅可作为社会背景参考，无直接技术价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-19T02:21:06.007613+00:00"
+    }
+  ]
+}

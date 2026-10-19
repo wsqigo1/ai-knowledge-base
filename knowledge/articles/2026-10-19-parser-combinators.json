@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-19-017",
+  "title": "Parser Combinators",
+  "source": "hackernews-top",
+  "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+  "summary": "Parser Combinators 是一种将小型解析器函数组合成复杂解析器的函数式编程技术，用于解决手写递归下降解析器代码重复、难以复用的问题。核心亮点在于以高阶函数和组合子（combinator）抽象文法规则，使解析逻辑模块化、可测试且类型安全，典型实现包括 Haskell 的 Parsec、Rust 的 nom 与 chumsky。该技术适用于构建编程语言编译器前端、DSL 解析器、配置文件与协议解析器，也常用于 LLM 输出结构化解析（如 constrained decoding 与 tool-call 参数校验）等场景。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:21:01.376044+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

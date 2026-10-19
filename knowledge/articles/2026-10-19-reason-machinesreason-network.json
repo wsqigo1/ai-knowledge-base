@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-19-002",
+  "title": "reason-machines/reason-network",
+  "source": "github-trending",
+  "url": "https://github.com/reason-machines/reason-network",
+  "summary": "Reason Network 是 Reason Machines 开源的 Rust 引擎，让团队内多个 coding agents 通过点对点网络互相通信与协作。它解决的是多 agent 编码场景下 agent 之间缺乏直接通信通道、依赖中心化编排的问题。核心技术亮点包括基于 iroh 的 P2P 传输、MCP 协议集成以及面向 coding agent 的协作网络层。适用场景为团队级多 agent 开发工作流、分布式代码生成与 agent 协同调试。",
+  "tags": [
+    "multi-agent",
+    "mcp",
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-19T02:19:58.067244+00:00",
+  "analyzed_at": "2026-10-19T02:20:16.024701+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

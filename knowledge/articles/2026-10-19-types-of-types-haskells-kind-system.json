@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-19-016",
+  "title": "Types of types: Haskell's Kind system",
+  "source": "hackernews-top",
+  "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+  "summary": "该文章深入解析 Haskell 的 Kind 系统，即类型之上的类型层级。它解决了类型构造器（如 Maybe、Either）在泛型编程中如何被抽象和约束的问题，使高阶类型操作具备静态检查能力。核心技术亮点包括 Kind 的多态性、DataKinds 扩展、类型级编程与类型族，以及 Kind 推断机制。适用场景为函数式编程语言研究者、类型系统设计者及需要强类型保证的库开发者，对 AI 工程师理解类型安全与泛型抽象有间接启发。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "reasoning"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:20:59.670472+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}

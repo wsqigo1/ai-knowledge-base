@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-19-011",
+  "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+  "source": "hackernews-top",
+  "url": "https://api-docs.deepseek.com/guides/search/",
+  "summary": "DeepSeek 推出的搜索与网页抓取 API 服务，按成功请求计费，每 1000 次 0.75 美元。该服务解决 LLM 应用在构建 RAG、agent 或 AI 助手时缺乏可靠、低成本实时搜索与内容抓取能力的问题。核心技术亮点在于将搜索与 fetch 合并为按成功结果计费的接口，降低无效调用成本，并可直接作为 tool-use 接入 agent 工作流。适用场景包括 RAG 数据获取、agent 联网检索、AI 助手实时信息增强及自动化内容采集。",
+  "tags": [
+    "large-language-model",
+    "rag",
+    "agent",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-19T02:19:58.237075+00:00",
+  "analyzed_at": "2026-10-19T02:20:46.340357+00:00",
+  "organized_at": "2026-10-19T02:21:06.092260+00:00",
+  "status": "published"
+}
