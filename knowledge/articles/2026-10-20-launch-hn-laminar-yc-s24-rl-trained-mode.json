@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-018",
+  "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50154029",
+  "summary": "Laminar（YC S24）推出基于强化学习训练的模型，用于自动检测 AI agent 执行轨迹（agent traces）中的错误。该工具针对 agent 系统调试困难、错误定位依赖人工的问题，通过 RL 训练让模型学会识别 trace 中的失败模式与异常步骤。核心技术亮点在于将错误检测建模为学习任务而非规则匹配，可适应不同 agent 框架与任务类型。适用于多步骤 agent 工作流、tool-use 场景的自动化质量监控与调试，帮助开发者快速定位 agent 失败根因。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "developer-tools",
+    "reasoning",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:53.417656+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

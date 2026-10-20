@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-20-017",
+  "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+  "source": "hackernews-top",
+  "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+  "summary": "Let's Encrypt 宣布为域名验证新增两个远程验证视角（remote perspectives），即从更多网络位置发起 ACME 挑战校验。此举解决的是单一验证点可能被 DNS 劫持、BGP 路由操纵或地域性解析差异欺骗的问题，提升证书签发的抗攻击能力。核心技术亮点在于多视角分布式验证：CA 从不同网络路径观测 DNS 记录与 HTTP 响应，只有多数视角一致才通过验证，降低误签与恶意签发风险。该机制对使用 Let's Encrypt 自动签发证书的运维与 DevOps 团队直接相关，尤其适用于高安全要求站点和面临 DNS 攻击风险的域名持有者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:51.575212+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

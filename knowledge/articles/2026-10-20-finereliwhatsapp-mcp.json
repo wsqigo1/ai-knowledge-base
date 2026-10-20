@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-004",
+  "title": "finereli/whatsapp-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/finereli/whatsapp-mcp",
+  "summary": "finereli/whatsapp-mcp 是一个只读 MCP server，让 AI agent 能够搜索和读取用户自己的 WhatsApp 消息，部署在 Cloudflare Workers 上。它解决了 AI 助手无法访问个人即时通讯数据的问题，为 agent 提供私域消息检索能力。核心技术亮点在于基于 MCP 协议封装 WhatsApp 数据访问，以只读方式保障隐私安全，并利用 Cloudflare Workers 实现无服务器部署。适用场景包括个人知识管理、消息检索问答、agent 工具链集成等。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-20T02:33:44.003294+00:00",
+  "analyzed_at": "2026-10-20T02:34:08.817328+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

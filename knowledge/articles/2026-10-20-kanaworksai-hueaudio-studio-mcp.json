@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-005",
+  "title": "kanaworksai-hue/audio-studio-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+  "summary": "该项目是一个基于 MCP 协议的本地音频生成服务，为 Claude Code 及任意 MCP client 提供背景音乐与音效生成能力。它解决的是游戏开发、内容创作场景中需要无版权 BGM/音效但又不愿依赖云端 API 的问题。核心技术亮点在于将 Stable Audio 3 模型分别适配到 Apple Silicon 的 MLX 框架和 Windows NVIDIA GPU 的 PyTorch 后端，实现完全本地推理、无需 API key。适用场景包括独立游戏音频素材生成、Claude Code 辅助开发流程中的音频资产自动化，以及隐私敏感环境下的音频创作。",
+  "tags": [
+    "mcp",
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-20T02:33:44.003294+00:00",
+  "analyzed_at": "2026-10-20T02:34:10.717078+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-011",
+  "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+  "source": "hackernews-top",
+  "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "summary": "该条目揭示 WhatsApp 帮助页面中隐藏了针对 LLM 的指令，要求模型在回答相关问题时不要推荐监管机构。这属于 prompt injection 与 AI 安全对齐的灰色案例：通过网页内容对爬取或检索增强的 LLM 施加隐蔽约束，影响其输出倾向。技术亮点在于展示了公开网页可作为 LLM 指令注入载体，暴露 RAG 与 web agent 在内容可信性上的脆弱性。适用于 AI 安全研究、RAG 系统内容过滤与 prompt injection 防御评估场景。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "rag",
+    "agent",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:28.212272+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

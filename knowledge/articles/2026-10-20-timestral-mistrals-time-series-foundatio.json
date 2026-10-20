@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-20-014",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "source": "hackernews-top",
+  "url": "https://mistral.ai/news/timestral/",
+  "summary": "Timestral 是 Mistral 推出的时间序列基础模型，旨在将 LLM 的预训练范式迁移到时间序列预测任务。它解决传统时序模型泛化差、需针对每个数据集单独训练的问题，通过大规模时序数据预训练获得跨领域迁移能力。核心技术亮点包括统一的时序 tokenization、基于 Transformer 的架构以及零样本/少样本预测能力，可处理多变量、不同频率的时序数据。适用场景涵盖金融预测、工业设备监控、能源负荷预测和零售需求规划等需要快速部署时序预测的工程场景。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:39.185965+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-008",
+  "title": "Agent2API/agent2api",
+  "source": "github-trending",
+  "url": "https://github.com/Agent2API/agent2api",
+  "summary": "Agent2API 是一个用 Rust 编写的多提供商本地网关，将 WorkBuddy、小浣熊、CatPaw、AutoClaw 等客户端的登录态包装成 OpenAI 兼容接口，让这些闭源客户端的模型能力可被标准 OpenAI SDK 直接调用。它解决了非官方客户端缺乏统一 API 入口的问题，核心亮点包括多账号管理、出站指纹脱敏（降低账号风控风险）与请求报表统计。适用于需要复用已有客户端订阅额度、构建本地模型代理层或做多账号负载均衡的 AI 工程师。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "large-language-model",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-20T02:33:44.003294+00:00",
+  "analyzed_at": "2026-10-20T02:34:17.364670+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

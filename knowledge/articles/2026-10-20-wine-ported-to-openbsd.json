@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-20-010",
+  "title": "Wine ported to OpenBSD",
+  "source": "hackernews-top",
+  "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+  "summary": "Wine 兼容层被移植到 OpenBSD 平台，使该 BSD 系统能够直接运行 Windows 应用程序。该项目解决了 OpenBSD 用户长期缺乏 Windows 软件兼容方案的问题，核心技术在于适配 Wine 的 PE 加载器、系统调用和图形驱动栈以匹配 OpenBSD 的 ABI 与安全模型。亮点包括对 OpenBSD 严格 W^X 内存策略的兼容处理及底层系统调用桥接。适用场景为需要在 OpenBSD 上运行 Windows 专有工具或遗留软件的开发者与系统管理员。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:26.252327+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

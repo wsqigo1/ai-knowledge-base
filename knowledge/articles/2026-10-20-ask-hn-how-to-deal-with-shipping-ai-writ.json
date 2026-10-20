@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-20-015",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50151036",
+  "summary": "Hacker News 上一条高热度讨论帖（285 分），聚焦于 AI 生成代码的可维护性与工程治理问题。帖子探讨当开发者使用 LLM 生成自己无法完全理解的代码并投入生产时，应如何应对代码审查、责任归属、知识传递与长期维护风险。核心亮点在于汇集一线工程师的实践策略，如强制逐行审查、要求 AI 解释生成逻辑、建立 AI 代码标注规范、补充测试覆盖与结对评审等。适用场景为采用 code-generation 工具辅助开发的团队，尤其是需要平衡交付速度与代码质量、建立 AI 编码规范的工程组织。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "large-language-model",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:44.455026+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

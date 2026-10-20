@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-001",
+  "title": "kitlangton/scrawl",
+  "source": "github-trending",
+  "url": "https://github.com/kitlangton/scrawl",
+  "summary": "Scrawl 是一个面向 coding agent 的交互式问题标注与反馈工具，用 Rust 编写并基于 GPUI 构建。它解决的核心问题是：开发者向 AI agent 描述 bug 或需求时，纯文本描述效率低、易歧义。Scrawl 允许用户在屏幕或代码上直接标记、录制操作过程，再将结构化上下文发送给 agent（如 Claude Code），从而减少来回澄清。技术亮点在于原生 GUI 渲染（GPUI）与 agent 工作流的深度整合，提供低延迟的标注录制体验。适用场景包括本地 AI 编程助手调试、代码审查反馈、以及需要视觉化上下文的 agent 任务委派。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "code-generation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-20T02:33:44.003294+00:00",
+  "analyzed_at": "2026-10-20T02:34:02.508240+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

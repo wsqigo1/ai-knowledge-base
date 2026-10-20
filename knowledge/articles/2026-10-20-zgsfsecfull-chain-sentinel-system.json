@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-006",
+  "title": "zgsfsec/Full-Chain-Sentinel-System",
+  "source": "github-trending",
+  "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+  "summary": "Full-Chain-Sentinel-System 是一个基于 TypeScript 构建的全流程渗透测试 Agent 系统，面向安全服务人员提供自动化渗透测试辅助。它解决传统渗透测试中流程割裂、人工编排繁琐的问题，通过 LLM 驱动的 Agent 串联信息收集、漏洞探测、利用验证等环节，实现端到端任务编排。核心技术亮点在于多阶段 Agent 工作流与工具调用集成，将渗透测试方法论固化为可复用的自动化链路。适用于授权范围内的安全评估、红队演练辅助及安全教学场景，需严格遵循合规边界。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-20T02:33:44.003294+00:00",
+  "analyzed_at": "2026-10-20T02:34:13.945477+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

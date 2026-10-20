@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-003",
+  "title": "EL4CTEO/blender-skills",
+  "source": "github-trending",
+  "url": "https://github.com/EL4CTEO/blender-skills",
+  "summary": "该项目将 Blender 5.2 的专业工作流封装为 Agent Skills，供 Claude Code、Codex、Gemini CLI、Copilot 和 Cursor 等 AI 编程助手直接调用。它解决的是 AI agent 在 3D 内容创作中缺乏领域知识与可执行操作规范的问题，覆盖建模、UV 展开、PBR 材质、烘焙、绑定、动画、导出与 QA 全流程。核心技术亮点在于以 Python 编写、遵循 agent-skills 规范的结构化技能包，把 Blender Python API 操作沉淀为可复用的 agent 指令集。适用于借助 AI 助手自动化 3D 资产生产管线、加速游戏与影视原型制作的场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-20T02:33:44.003294+00:00",
+  "analyzed_at": "2026-10-20T02:34:07.252318+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

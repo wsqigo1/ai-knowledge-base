@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-20-013",
+  "title": "Android apps running native on macOS",
+  "source": "hackernews-top",
+  "url": "https://github.com/kksimp/Mac.apk",
+  "summary": "该项目探索在 macOS 上原生运行 Android 应用，通过将 Android 运行时（如 ART）与 macOS 系统框架桥接，避免传统模拟器或虚拟机的性能开销。核心技术亮点在于利用 macOS 的图形与输入栈直接渲染 Android 界面，并实现跨系统进程通信与硬件加速。适用场景包括开发者在 Mac 上调试 Android 应用、用户无需模拟器即可运行轻量级 Android 工具。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:33.652834+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

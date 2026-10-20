@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-20-016",
+  "title": "Agentic Monitoring",
+  "source": "hackernews-top",
+  "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+  "summary": "Agentic Monitoring 是面向 LLM Agent 运行时的可观测性方案，针对多步推理、工具调用与多 Agent 协作中行为难以追踪、失败难以定位的问题。其核心思路是将 Agent 的决策链、tool-use 调用、prompt 与中间状态纳入统一监控与追踪体系，支持对异常行为、循环调用和成本开销进行实时检测与告警。技术亮点在于把传统 APM 思路迁移到 agentic workflow，强调轨迹级追踪而非单次请求日志。适用于生产环境中部署 AI agent、需要调试复杂 agent 行为或控制推理成本的工程团队。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:48.322982+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}

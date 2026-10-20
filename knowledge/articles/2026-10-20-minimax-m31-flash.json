@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-20-009",
+  "title": "MiniMax M3.1 Flash",
+  "source": "hackernews-top",
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "summary": "MiniMax M3.1 Flash 是 MiniMax 推出的轻量级大语言模型版本，主打低延迟与低成本推理。它面向需要高吞吐、快速响应的生产环境，在保持基础语言理解与生成能力的同时，通过模型压缩与推理优化降低部署开销。核心技术亮点包括更高效的注意力计算与推理加速，适合实时对话、批量内容生成、agent 后端等对时延敏感的场景。HN 392 分表明社区对其性能与性价比有较高关注，但条目未提供详细技术文档，实际能力需结合官方 benchmark 进一步验证。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-20T02:33:44.201236+00:00",
+  "analyzed_at": "2026-10-20T02:34:22.839665+00:00",
+  "organized_at": "2026-10-20T02:34:55.259521+00:00",
+  "status": "published"
+}
