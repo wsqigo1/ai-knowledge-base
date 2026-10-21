@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-21-007",
+  "title": "Voxtral 3",
+  "source": "hackernews-top",
+  "url": "https://mistral.ai/news/voxtral-3/",
+  "summary": "Voxtral 3 是 Mistral AI 推出的开源语音理解模型，将音频直接输入 LLM 进行转录、翻译与问答，无需独立 ASR 流水线。它解决传统语音方案级联误差大、延迟高、难以做语义推理的问题，核心亮点是原生 audio token 化与多语言端到端建模，支持长音频与实时交互。适用于语音助手、会议转写、客服质检与多语种内容本地化等场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "large-language-model",
+    "ai-assistant"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-21T02:27:31.160780+00:00",
+  "analyzed_at": "2026-10-21T02:28:15.908061+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

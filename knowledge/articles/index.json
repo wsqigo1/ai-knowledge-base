@@ -1,7 +1,219 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2657,
+  "total_count": 2671,
   "entries": [
+    {
+      "id": "kb-2026-10-21-001",
+      "title": "mistralai/timestral",
+      "source": "github-trending",
+      "url": "https://github.com/mistralai/timestral",
+      "file": "2026-10-21-mistralaitimestral.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-002",
+      "title": "dominikmartn/harp",
+      "source": "github-trending",
+      "url": "https://github.com/dominikmartn/harp",
+      "file": "2026-10-21-dominikmartnharp.json",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-003",
+      "title": "vercel-labs/fx0",
+      "source": "github-trending",
+      "url": "https://github.com/vercel-labs/fx0",
+      "file": "2026-10-21-vercel-labsfx0.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-004",
+      "title": "joeseesun/lexfridman-cn",
+      "source": "github-trending",
+      "url": "https://github.com/joeseesun/lexfridman-cn",
+      "file": "2026-10-21-joeseesunlexfridman-cn.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-005",
+      "title": "MemTensor/MemT-1.0",
+      "source": "github-trending",
+      "url": "https://github.com/MemTensor/MemT-1.0",
+      "file": "2026-10-21-memtensormemt-10.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-006",
+      "title": "christos-antono/NPCTalk",
+      "source": "github-trending",
+      "url": "https://github.com/christos-antono/NPCTalk",
+      "file": "2026-10-21-christos-antononpctalk.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-007",
+      "title": "Voxtral 3",
+      "source": "hackernews-top",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "file": "2026-10-21-voxtral-3.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-008",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "source": "hackernews-top",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "file": "2026-10-21-google-open-sources-torchtpu-a-native-py.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-009",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "source": "hackernews-top",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "file": "2026-10-21-slopcodebench-102026-opus-55-astra-wins-.json",
+      "tags": [
+        "benchmark",
+        "code-generation",
+        "large-language-model",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-010",
+      "title": "EMudhra Intermediate CA Compromise",
+      "source": "hackernews-top",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "file": "2026-10-21-emudhra-intermediate-ca-compromise.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-011",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "source": "hackernews-top",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "file": "2026-10-21-deepinfer-high-performance-inference-fra.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-012",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "file": "2026-10-21-tsrs-a-port-of-typescript-to-rust.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-013",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "source": "hackernews-top",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "file": "2026-10-21-benchmarking-bot-detection-systems-again.json",
+      "tags": [
+        "agent",
+        "benchmark",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
+    {
+      "id": "kb-2026-10-21-014",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "source": "hackernews-top",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "file": "2026-10-21-how-i-got-over-300-tor-exit-nodes-remove.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-21T02:28:42.827169+00:00"
+    },
     {
       "id": "kb-2026-10-20-001",
       "title": "kitlangton/scrawl",
@@ -39917,5 +40129,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-20T02:34:55.527094+00:00"
+  "last_updated": "2026-10-21T02:28:42.965632+00:00"
 }

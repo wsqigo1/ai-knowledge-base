@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-21-010",
+  "title": "EMudhra Intermediate CA Compromise",
+  "source": "hackernews-top",
+  "url": "https://emudhra.we-have-a-problem.com/",
+  "summary": "EMudhra 中间证书颁发机构（Intermediate CA）遭入侵的安全事件。该事件暴露了公钥基础设施（PKI）信任链中的关键风险：中间 CA 一旦失陷，攻击者可签发任意受信任的终端证书，导致 HTTPS、代码签名等依赖证书验证的场景全面失效。核心技术关注点在于证书吊销机制（CRL/OCSP）、证书透明度（Certificate Transparency）日志审计以及 CA 层级隔离与最小权限设计。对 AI 工程师而言，该事件直接关联模型分发、API 通信与供应链安全，适用于需要评估依赖证书信任的 AI 服务部署、模型权重下载完整性验证及开源工具链安全审计等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-21T02:27:31.160780+00:00",
+  "analyzed_at": "2026-10-21T02:28:24.149822+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

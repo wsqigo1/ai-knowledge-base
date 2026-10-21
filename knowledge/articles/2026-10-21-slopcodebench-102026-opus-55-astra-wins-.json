@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-21-009",
+  "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+  "source": "hackernews-top",
+  "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+  "summary": "SlopCodeBench 是面向代码生成模型的基准评测项目，2026 年 10 月版发布，对比了 Opus 5.5、Astra 等模型在代码任务上的表现。它解决的是现有代码 benchmark 难以区分模型真实编码能力、评测维度单一的问题。核心技术亮点在于引入更细粒度的任务设计与评分机制，并特别指出 xhigh 推理档位可能对代码生成产生负面影响，为推理配置选择提供了实证依据。适用场景包括模型选型、代码生成能力评估、推理参数调优以及 AI 编码工具的研发决策。",
+  "tags": [
+    "benchmark",
+    "code-generation",
+    "large-language-model",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-21T02:27:31.160780+00:00",
+  "analyzed_at": "2026-10-21T02:28:22.265795+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

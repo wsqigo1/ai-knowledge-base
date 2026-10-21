@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-21-001",
+  "title": "mistralai/timestral",
+  "source": "github-trending",
+  "url": "https://github.com/mistralai/timestral",
+  "summary": "Mistral AI 开源的时间序列基础模型 Timestral 官方仓库，面向预测、异常检测等时序任务提供预训练模型与推理代码。它试图解决传统时序模型需针对每个数据集单独训练、泛化能力弱的问题，通过在大规模异构时序语料上预训练获得跨领域迁移能力。核心技术亮点在于将基础模型范式引入时序领域，可能支持零样本/少样本预测与多变量建模。适用场景包括金融、能源、运维监控等需要通用时序预测能力的工程团队。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-21T02:27:30.963210+00:00",
+  "analyzed_at": "2026-10-21T02:27:46.916934+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

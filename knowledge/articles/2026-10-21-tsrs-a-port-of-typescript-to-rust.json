@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-21-012",
+  "title": "Tsrs: A Port of TypeScript to Rust",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/typescript-rust-port/",
+  "summary": "Tsrs 是将 TypeScript 编译器/工具链移植到 Rust 的开源项目，旨在用 Rust 的内存安全与高性能替代 Node.js 运行时，解决大型 TS 项目类型检查与构建速度慢的问题。核心技术亮点在于用 Rust 重写 TS 解析、类型检查与代码生成流程，并保持与现有 TypeScript 生态的兼容性。适用场景包括大型前端 monorepo 的快速类型检查、CI 构建加速，以及为编辑器/语言服务提供低延迟后端。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-21T02:27:31.160780+00:00",
+  "analyzed_at": "2026-10-21T02:28:34.663681+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

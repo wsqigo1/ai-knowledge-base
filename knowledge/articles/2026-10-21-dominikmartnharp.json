@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-21-002",
+  "title": "dominikmartn/harp",
+  "source": "github-trending",
+  "url": "https://github.com/dominikmartn/harp",
+  "summary": "harp 是 Warp 的非官方 Rust 分支，面向同时运行多个 Claude Code 与 Codex 编码 agent 的开发者，提供统一侧边栏集中展示各 agent 状态并高亮需要人工介入的会话。它解决多 agent 并行时终端窗口分散、状态不可见、切换成本高的问题，核心亮点是用 Rust 实现的多会话管理与注意力路由机制，把 agent 输出聚合为可扫视的队列。适用于需要并行调度多个编码 agent 的日常开发与多 agent 工作流实验场景。",
+  "tags": [
+    "multi-agent",
+    "developer-tools",
+    "code-generation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-21T02:27:30.963210+00:00",
+  "analyzed_at": "2026-10-21T02:27:56.547629+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

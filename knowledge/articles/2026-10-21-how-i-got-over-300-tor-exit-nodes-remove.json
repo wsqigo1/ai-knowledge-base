@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-21-014",
+  "title": "How I got over 300 Tor exit nodes removed",
+  "source": "hackernews-top",
+  "url": "https://kaba.cx/posts/20261020_Tor/",
+  "summary": "作者分享了如何通过向托管服务商举报滥用行为，成功移除超过300个Tor出口节点的实践过程。该问题源于Tor出口节点常被滥用发起攻击或爬取，导致目标站点封禁整个IP段。核心技术亮点在于系统化收集节点滥用证据、定位托管商责任方并批量提交投诉的自动化流程。适用场景包括网络安全运营、滥用投诉处理及Tor网络治理研究。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-21T02:27:31.160780+00:00",
+  "analyzed_at": "2026-10-21T02:28:39.618173+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

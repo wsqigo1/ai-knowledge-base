@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-21-011",
+  "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+  "source": "hackernews-top",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "summary": "DeepInfer 是面向 DeepSeek 系列模型的高性能推理框架，旨在解决大模型部署中吞吐量低、显存占用高和延迟大的问题。核心技术亮点包括针对 DeepSeek MoE 架构的定制化算子优化、KV Cache 高效管理与动态批处理调度，显著提升推理效率。适用于需要低成本、高并发部署 DeepSeek 模型的生产环境，如企业级 AI 服务与本地化推理场景。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-21T02:27:31.160780+00:00",
+  "analyzed_at": "2026-10-21T02:28:31.228129+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}

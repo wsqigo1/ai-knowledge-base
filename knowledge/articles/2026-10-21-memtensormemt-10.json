@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-21-005",
+  "title": "MemTensor/MemT-1.0",
+  "source": "github-trending",
+  "url": "https://github.com/MemTensor/MemT-1.0",
+  "summary": "MemT-1.0 是 MemTensor 团队发布的官方开源仓库，聚焦 LLM 长期记忆（long-term memory）能力构建。它面向 AI agents 在长上下文（long-context）场景下记忆易丢失、跨会话状态难以保持的问题，提供可复用的记忆管理方案。技术栈为 Python，标签覆盖 ai-agents、deepseek、llm、long-context、long-term-memory，推测包含记忆存储、检索与注入机制，可与 DeepSeek 等模型配合使用。适用于需要持久化上下文的多轮对话助手、agent 工作流及长文档处理场景。当前 204 stars，属早期项目，生态与文档成熟度有待观察。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-21T02:27:30.963210+00:00",
+  "analyzed_at": "2026-10-21T02:28:07.079429+00:00",
+  "organized_at": "2026-10-21T02:28:42.827169+00:00",
+  "status": "published"
+}
