@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-22-019",
+  "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+  "source": "hackernews-top",
+  "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+  "summary": "该文章探讨Windows 11为何仍内置源自Windows 95的内存管理器组件，揭示操作系统为兼容旧版驱动和应用程序而保留的历史遗留代码。核心在于分析Windows内存管理架构的演进与向后兼容策略，技术亮点包括对VAD（虚拟地址描述符）、分页机制和兼容层设计的深入剖析。适用于系统级开发者、性能调优工程师及对操作系统内部机制感兴趣的技术人员，帮助理解现代Windows的复杂性与兼容性权衡。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:29.235584+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

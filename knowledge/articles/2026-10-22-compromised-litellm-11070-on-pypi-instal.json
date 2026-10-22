@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-22-013",
+  "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+  "source": "hackernews-top",
+  "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+  "summary": "LiteLLM 1.107.0 在 PyPI 上的官方发布包被植入凭据窃取器与后门，属于典型的软件供应链投毒事件。该事件暴露了开源 LLM 网关/代理工具在分发环节的信任风险：攻击者通过污染 PyPI 包，在安装阶段或运行时窃取 API Key、云凭据等敏感信息并建立持久化后门。核心技术要点在于恶意代码的植入路径与凭据外泄机制，提醒 AI 工程师在依赖 LiteLLM 等多模型接入库时需锁定版本、校验哈希并审计依赖。适用于使用 LiteLLM 构建 LLM 网关、多模型路由或 agent 基础设施的团队进行安全排查与供应链加固。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "large-language-model",
+    "tool-use"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:10.610123+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

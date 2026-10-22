@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-22-012",
+  "title": "Rust Style Guide",
+  "source": "hackernews-top",
+  "url": "https://google.github.io/styleguide/rustguide.html",
+  "summary": "Rust Style Guide 是一份面向 Rust 语言的编码风格规范文档，旨在统一代码格式、命名约定与惯用法，降低团队协作中的风格争议并提升代码可读性。其核心亮点在于覆盖 rustfmt 无法自动处理的语义级风格决策，如 API 设计、错误处理模式与模块组织原则，并强调与 Clippy lint 规则的协同。该指南适用于 Rust 项目维护者、代码评审者及希望建立团队编码标准的工程组织，对 AI 工程师在构建高性能推理服务或工具链时编写可维护 Rust 代码具有参考价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:08.718857+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

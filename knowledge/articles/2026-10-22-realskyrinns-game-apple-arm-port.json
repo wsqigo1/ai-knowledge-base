@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-22-003",
+  "title": "realskyrin/ns-game-apple-arm-port",
+  "source": "github-trending",
+  "url": "https://github.com/realskyrin/ns-game-apple-arm-port",
+  "summary": "该项目是一个面向 AI Agent 的 skill，用于将 Nintendo Switch 原生游戏移植到 Apple Silicon 平台（macOS、iPadOS、iOS）。它解决的是 Switch 游戏在 Apple 生态缺乏原生运行方案的问题，通过 Rust 实现底层逻辑、Metal 完成图形渲染，并封装为 Agent 可调用的技能，降低移植门槛。核心技术亮点在于结合 Rust 的内存安全与 Metal 的 GPU 加速，同时以 Agent skill 形式提供自动化移植流程。适用场景包括游戏移植研究、Apple 平台游戏开发、以及 AI Agent 辅助的跨平台工程任务。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-22T02:23:24.530924+00:00",
+  "analyzed_at": "2026-10-22T02:23:41.107865+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

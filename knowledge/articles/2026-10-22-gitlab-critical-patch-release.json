@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-22-011",
+  "title": "GitLab Critical Patch Release",
+  "source": "hackernews-top",
+  "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+  "summary": "GitLab 发布关键安全补丁版本，修复多个高危漏洞。该补丁解决 GitLab 自托管实例中可被利用的远程代码执行与权限提升问题，核心技术亮点在于针对 CI/CD 流水线、API 接口及认证机制的安全加固，并同步更新了官方容器镜像与 Omnibus 包。适用场景为使用 GitLab 进行代码托管与 DevOps 流水线的团队，需尽快升级以避免未授权访问与供应链攻击风险。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:06.865462+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-22-020",
+  "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+  "source": "hackernews-top",
+  "url": "https://alterauth.com/",
+  "summary": "Alter（YC S25）是面向多用户 AI agent 的访问控制层，解决企业内多个用户共享 agent 时权限边界模糊、敏感操作缺乏审计与隔离的问题。核心技术亮点在于为 agent 的工具调用与数据访问引入细粒度权限策略，支持按用户身份限制可执行动作与可见上下文，并可与现有 agent 框架集成。适用场景包括企业内部共享的 AI assistant、多租户 agent 平台及需要合规审计的自动化 workflow。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:32.382727+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-22-016",
+  "title": "OpenAI models are coming to Google Cloud",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/openai-models-google-cloud/",
+  "summary": "OpenAI 模型即将登陆 Google Cloud，意味着企业可在 GCP 上直接调用 OpenAI 的模型服务，而无需单独接入 OpenAI API。这解决了多云环境下模型供应商锁定与合规采购的问题，使已使用 Google Cloud 的团队能在既有云平台内统一管理 OpenAI 模型调用、计费与安全策略。核心技术亮点在于跨云模型托管与统一 API 接入，可能涉及 Vertex AI 集成与数据驻留控制。适用场景包括企业级 AI 应用部署、多云架构下的模型路由、以及需要合规审计的生成式 AI 工作流。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation",
+    "multimodal"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:23.835340+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

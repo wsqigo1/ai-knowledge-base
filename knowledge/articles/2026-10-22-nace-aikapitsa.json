@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-22-006",
+  "title": "nace-ai/kapitsa",
+  "source": "github-trending",
+  "url": "https://github.com/nace-ai/kapitsa",
+  "summary": "Kapitsa 是面向 Apple Silicon 优化的高性能 LLM 推理引擎，专为 Qwen 与 Nemotron 模型打造，由 nace.ai 团队开发。它解决在 Mac 本地高效运行大模型的需求，通过 C++ 实现底层加速，并兼容 OpenAI 与 Anthropic API 接口，便于现有应用无缝迁移。核心技术亮点包括针对 Apple Silicon 的硬件优化、低延迟高吞吐推理，以及双 API 兼容设计。适用场景包括本地开发调试、隐私敏感型 AI 应用、以及需要低成本推理的 Mac 端部署。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-22T02:23:24.530924+00:00",
+  "analyzed_at": "2026-10-22T02:23:55.479248+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

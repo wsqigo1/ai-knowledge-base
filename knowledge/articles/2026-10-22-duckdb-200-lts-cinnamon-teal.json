@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-22-018",
+  "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+  "source": "hackernews-top",
+  "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+  "summary": "DuckDB 2.0.0 LTS（代号 Cinnamon Teal）是嵌入式分析型数据库 DuckDB 的首个长期支持版本，面向需要稳定 API 与长期维护的生产环境。它解决此前版本迭代快、生产部署缺乏 LTS 保障的问题。核心技术亮点包括列式向量化执行引擎、零依赖嵌入式部署、完整 SQL 支持与 Parquet/Arrow 原生集成，并强化了并发与扩展机制。适用场景为本地与边缘数据分析、数据科学工作流、ETL 管道及轻量 OLAP 查询，对 AI 工程师的数据预处理与特征工程环节有直接价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:27.418091+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

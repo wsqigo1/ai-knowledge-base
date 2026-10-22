@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-22-014",
+  "title": "LLM Agents Play Pokemon Showdown",
+  "source": "hackernews-top",
+  "url": "https://olivergrabner.com/research/pokemon/",
+  "summary": "该项目让 LLM Agents 在 Pokémon Showdown 对战平台上进行自动对战，探索大语言模型在复杂策略游戏中的决策能力。它解决了如何评估 LLM 在动态、多轮、信息不完全的对抗环境中的推理与规划问题。核心技术亮点包括将游戏状态转化为 prompt、设计 agent 的决策循环、以及可能的多 agent 协作或对抗框架。适用场景为 LLM agent 研究、游戏 AI 基准测试、以及复杂决策任务的模拟环境。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "reasoning",
+    "benchmark",
+    "multi-agent"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:12.171708+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}

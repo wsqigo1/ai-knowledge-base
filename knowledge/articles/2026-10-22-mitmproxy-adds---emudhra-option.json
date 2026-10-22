@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-22-009",
+  "title": "mitmproxy adds --emudhra option",
+  "source": "hackernews-top",
+  "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+  "summary": "mitmproxy 新增 --emudhra 选项，用于支持印度 eMudhra 颁发的数字证书体系。该选项解决在印度 PKI 环境下使用 mitmproxy 进行 HTTPS 流量拦截时，上游证书链验证失败的问题，使代理能正确识别和信任 eMudhra 根证书。核心技术亮点在于将特定国家/地区的 CA 信任锚集成到 mitmproxy 的证书验证流程中，减少手动配置证书的麻烦。适用场景包括面向印度用户的 Web/API 调试、安全测试及合规流量分析，对需要模拟或检查印度政府/金融类 HTTPS 流量的工程师有实际帮助。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "security",
+    "proxy"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-22T02:23:24.717125+00:00",
+  "analyzed_at": "2026-10-22T02:24:01.712866+00:00",
+  "organized_at": "2026-10-22T02:24:34.065928+00:00",
+  "status": "published"
+}
