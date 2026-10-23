@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-23-007",
+  "title": "Quad9 (DNS Resolver) to Exit France",
+  "source": "hackernews-top",
+  "url": "https://quad9.net/news/blog/au-revoir-france/",
+  "summary": "Quad9 是一家非营利公共 DNS 解析器，提供隐私保护和恶意域名拦截服务。因法国法院要求其屏蔽特定盗版网站域名，Quad9 宣布退出法国市场，以避免在全球范围内实施 DNS 过滤。核心技术亮点在于其 DNSSEC 验证、威胁情报驱动的域名阻断以及不记录用户 IP 的隐私策略。该事件对 AI 工程师的启示在于：DNS 层过滤与内容审查的边界、隐私保护与法律合规的冲突，以及开源基础设施在监管压力下的可持续性。适用场景包括网络隐私研究、DNS 安全策略设计、以及跨国服务合规风险评估。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:39.377219+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

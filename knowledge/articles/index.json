@@ -1,7 +1,277 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2691,
+  "total_count": 2709,
   "entries": [
+    {
+      "id": "kb-2026-10-23-001",
+      "title": "qianshuixia/shrimpreel",
+      "source": "github-trending",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "file": "2026-10-23-qianshuixiashrimpreel.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-002",
+      "title": "lovisdotio/motion2code",
+      "source": "github-trending",
+      "url": "https://github.com/lovisdotio/motion2code",
+      "file": "2026-10-23-lovisdotiomotion2code.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-003",
+      "title": "zilvestro/grammai",
+      "source": "github-trending",
+      "url": "https://github.com/zilvestro/grammai",
+      "file": "2026-10-23-zilvestrogrammai.json",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-004",
+      "title": "C4rohan/Lampline",
+      "source": "github-trending",
+      "url": "https://github.com/C4rohan/Lampline",
+      "file": "2026-10-23-c4rohanlampline.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-005",
+      "title": "Docker is weird",
+      "source": "hackernews-top",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "file": "2026-10-23-docker-is-weird.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-006",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "file": "2026-10-23-llms-are-making-formal-software-verifica.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-007",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "source": "hackernews-top",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "file": "2026-10-23-quad9-dns-resolver-to-exit-france.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-008",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "source": "hackernews-top",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "file": "2026-10-23-openshell-a-safe-private-runtime-for-fle.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-009",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "source": "hackernews-top",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "file": "2026-10-23-every-ai-model-has-the-same-controversia.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-010",
+      "title": "AI compute is the new oil–and needs a new market",
+      "source": "hackernews-top",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "file": "2026-10-23-ai-compute-is-the-new-oiland-needs-a-new.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-011",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "source": "hackernews-top",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "file": "2026-10-23-run-full-ios-165-firmware-on-android-dev.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-012",
+      "title": "What Is Gridifcation",
+      "source": "hackernews-top",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "file": "2026-10-23-what-is-gridifcation.json",
+      "tags": [
+        "rag",
+        "multimodal",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-013",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "source": "hackernews-top",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "file": "2026-10-23-emudhra-to-exit-global-ssltls-certificat.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.0,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-014",
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "source": "hackernews-top",
+      "url": "https://jank-lang.org/",
+      "file": "2026-10-23-jank-the-native-clojure-dialect-with-sea.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-015",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "file": "2026-10-23-tell-hn-i-unknowingly-broke-the-php-rce-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security",
+        "vulnerability-disclosure"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-016",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "file": "2026-10-23-ai-and-the-enclosure-of-the-scientific-c.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-017",
+      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+      "source": "hackernews-top",
+      "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+      "file": "2026-10-23-dungeon-generation-in-the-gnomish-mines-.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
+    {
+      "id": "kb-2026-10-23-018",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "source": "hackernews-top",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "file": "2026-10-23-faster-than-earcut-triangulating-37m-map.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-23T02:30:13.398879+00:00"
+    },
     {
       "id": "kb-2026-10-22-001",
       "title": "VITASID57/bluntcore-intimacy-lab",
@@ -40431,5 +40701,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-22T02:24:34.383049+00:00"
+  "last_updated": "2026-10-23T02:30:13.551901+00:00"
 }

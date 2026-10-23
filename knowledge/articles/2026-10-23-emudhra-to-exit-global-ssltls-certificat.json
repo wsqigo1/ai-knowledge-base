@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-23-013",
+  "title": "eMudhra to exit global SSL/TLS certificate business",
+  "source": "hackernews-top",
+  "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+  "summary": "eMudhra宣布退出全球SSL/TLS证书业务，这是一家印度证书颁发机构（CA）的战略调整。该业务为网站提供HTTPS加密所需的数字证书，解决身份验证与传输加密问题。核心技术涉及公钥基础设施（PKI）、证书生命周期管理及CA/Browser Forum合规要求。eMudhra退出意味着其客户需迁移至其他CA（如Let's Encrypt、DigiCert），可能影响证书续期与信任链管理。适用场景包括依赖eMudhra证书的网站运营者、DevOps团队及安全合规负责人，需关注迁移计划与根证书信任变化。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:59.389803+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

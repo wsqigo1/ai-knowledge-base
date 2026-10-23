@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-23-006",
+  "title": "LLMs are making formal software verification feasible at a much larger scale",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/formal-verification",
+  "summary": "该讨论探讨LLM如何使形式化软件验证（formal software verification）在更大规模上变得可行。核心问题在于传统形式化验证依赖人工编写证明，成本高、门槛高，难以扩展到大型代码库。技术亮点是利用LLM自动生成验证条件、辅助证明脚本编写、补全不变式（invariant），并与Coq、Lean、Dafny等证明助手结合，降低人工介入比例。适用场景包括安全关键系统、编译器与内核模块验证、以及需要高可信度的工业软件工程。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "reasoning",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:37.052210+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

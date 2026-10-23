@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-23-005",
+  "title": "Docker is weird",
+  "source": "hackernews-top",
+  "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+  "summary": "《Docker is weird》是一篇探讨 Docker 容器技术中反直觉行为与设计取舍的技术文章，聚焦镜像分层、网络命名空间、存储驱动和构建缓存等机制为何常令开发者困惑。文章通过具体案例揭示 Docker 在隔离性、可移植性与性能之间的权衡，帮助工程师理解底层原理而非仅停留在命令层面。核心亮点在于将晦涩的容器运行时行为与 Linux 内核机制（cgroups、namespace、overlayfs）关联解释，适合后端工程师、DevOps 从业者及需要调试容器化 AI 服务部署问题的技术人员阅读。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:35.309714+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

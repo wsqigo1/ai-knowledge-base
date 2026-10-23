@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-23-014",
+  "title": "Jank – The native Clojure dialect with seamless C++ interop",
+  "source": "hackernews-top",
+  "url": "https://jank-lang.org/",
+  "summary": "Jank 是一门原生 Clojure 方言，编译为原生代码而非运行于 JVM，核心解决 Clojure 在系统级编程、低延迟场景及与现有 C++ 代码库集成方面的短板。其技术亮点在于无缝 C++ interop：可直接调用 C++ 库、模板与类型，同时保留 Clojure 的 Lisp 语法、不可变数据结构与 REPL 开发体验。项目基于 LLVM 构建，支持渐进式类型与宏系统。适用场景包括游戏引擎脚本、嵌入式逻辑、高性能后端服务，以及希望在 C++ 项目中引入函数式表达力的团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:30:01.340718+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

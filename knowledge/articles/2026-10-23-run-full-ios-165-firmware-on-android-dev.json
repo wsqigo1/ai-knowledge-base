@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-23-011",
+  "title": "Run full iOS 16.5 firmware on Android Devices",
+  "source": "hackernews-top",
+  "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+  "summary": "该项目展示在 Android 设备上运行完整 iOS 16.5 固件的技术方案，通过虚拟化或模拟层实现跨平台系统运行。它解决了在非苹果硬件上体验和测试 iOS 环境的问题，核心技术亮点在于对 iOS 系统镜像的加载与硬件抽象层的适配。适用场景包括移动安全研究、跨平台兼容性测试以及 iOS 应用开发调试。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:51.351627+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

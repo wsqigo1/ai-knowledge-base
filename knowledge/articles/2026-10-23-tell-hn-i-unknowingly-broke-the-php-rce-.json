@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-23-015",
+  "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50193416",
+  "summary": "该 HN 帖子是作者自述无意中违反了 PHP RCE 漏洞的披露禁运期，提前公开了漏洞细节。事件涉及 PHP 核心的一个远程代码执行漏洞，作者在漏洞修复前公开了 PoC 或技术细节，导致安全社区面临风险。核心技术点在于漏洞披露流程与禁运期管理，以及开源社区如何协调安全修复。适用场景为安全研究、漏洞管理及开源项目维护者参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "security",
+    "vulnerability-disclosure"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:30:05.218244+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

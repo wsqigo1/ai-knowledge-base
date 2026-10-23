@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-23-002",
+  "title": "lovisdotio/motion2code",
+  "source": "github-trending",
+  "url": "https://github.com/lovisdotio/motion2code",
+  "summary": "该项目为 coding agent 提供一套技能（Skills），让 agent 能将一段 motion design 视频重建为可循环播放的 SVG + GSAP 代码，并逐帧与源视频比对校验。它解决的是动画还原过程中人工逐帧对齐成本高、agent 生成动画代码缺乏可验证反馈的问题。核心技术亮点在于把「视频→SVG/GSAP 代码→逐帧比对」封装成 agent 可调用的技能流程，形成闭环校验，而非一次性代码生成。适用场景包括前端动效开发、设计稿/视频转代码、agent 技能体系搭建与动画质量自动化验证。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-23T02:28:52.533584+00:00",
+  "analyzed_at": "2026-10-23T02:29:27.363074+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

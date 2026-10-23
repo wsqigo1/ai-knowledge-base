@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-23-008",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "source": "hackernews-top",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "summary": "OpenShell 是面向大规模自主 AI agent 集群的安全私有运行时环境，旨在解决多 agent 部署中的隔离性、权限控制与数据隐私问题。其核心技术亮点在于为 agent 提供沙箱化执行环境，支持细粒度资源与网络访问管控，并强调私有化部署以避免敏感数据外泄。该项目适用于需要运行大量自主 agent 的企业级场景，如自动化工作流、多 agent 协作系统及对合规性要求较高的生产环境。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:41.156315+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

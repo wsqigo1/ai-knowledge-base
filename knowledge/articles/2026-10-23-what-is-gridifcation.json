@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-23-012",
+  "title": "What Is Gridifcation",
+  "source": "hackernews-top",
+  "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+  "summary": "Gridification 指将非结构化或半结构化数据（如文本、图像、表格）切分为规则网格单元并建立索引的技术范式，用于解决传统检索系统在细粒度定位、跨模态对齐和局部语义匹配上的不足。其核心技术亮点在于通过空间或语义网格划分实现数据块的可寻址化，结合 embedding 与倒排索引支持局部区域的高效召回与定位，并可与 RAG 流程结合提升上下文精度。适用场景包括文档版面理解、多模态检索、表格问答及需要细粒度证据定位的 AI 助手系统。",
+  "tags": [
+    "rag",
+    "multimodal",
+    "vector-database",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:29:55.284542+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

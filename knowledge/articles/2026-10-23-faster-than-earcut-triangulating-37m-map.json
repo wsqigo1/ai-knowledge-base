@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-23-018",
+  "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+  "source": "hackernews-top",
+  "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+  "summary": "该项目是一个高性能多边形三角剖分库，声称在 3.7M 地图多边形上仅需 489ms，速度超过 earcut。它解决地图渲染与地理空间处理中大规模多边形三角剖分的性能瓶颈，核心技术亮点包括优化的算法实现与内存布局，可能采用并行化或增量处理策略。适用场景为 Web 地图渲染、GIS 数据处理、游戏引擎地形生成等需要高效三角剖分的领域。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools",
+    "multimodal"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:30:13.352584+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-23-017",
+  "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+  "source": "hackernews-top",
+  "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+  "summary": "该条目分析经典 roguelike 游戏 NetHack 中侏儒矿洞（Gnomish Mines）的程序化地牢生成算法，属于游戏 AI 与 PCG（Procedural Content Generation）领域的深度技术拆解。核心亮点在于揭示 NetHack 如何通过分层随机生成、房间/走廊拓扑约束与特殊关卡手工规则混合，在保证可玩性的同时实现高多样性地图。其价值在于为现代游戏关卡生成、强化学习环境构建及程序化内容生成研究提供可复用的设计范式，适合游戏开发者、PCG 研究者及对经典算法感兴趣的 AI 工程师阅读。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-23T02:28:52.673333+00:00",
+  "analyzed_at": "2026-10-23T02:30:11.790571+00:00",
+  "organized_at": "2026-10-23T02:30:13.398879+00:00",
+  "status": "published"
+}
