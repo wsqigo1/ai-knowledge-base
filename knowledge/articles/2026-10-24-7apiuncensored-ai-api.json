@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-24-002",
+  "title": "7API/uncensored-ai-api",
+  "source": "github-trending",
+  "url": "https://github.com/7API/uncensored-ai-api",
+  "summary": "7API/uncensored-ai-api 是一个统一 AI 网关，通过单一 API key 聚合 Claude、GPT、Gemini、Grok、DeepSeek、GLM、Kimi 等主流模型，并提供 uncensored 与 abliterated 变体。它解决多模型接入时密钥分散、接口不统一的问题，同时为需要低审查输出的场景提供替代通道。核心亮点是同时兼容 OpenAI 与 Anthropic 两套 API 协议，按 token 计费，可直接接入 Claude Code 等现有工具链。适用于多模型路由、模型对比评测、以及需要宽松内容策略的 agent 与开发工具集成场景。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "open-source",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-24T02:26:54.300556+00:00",
+  "analyzed_at": "2026-10-24T02:27:29.072234+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

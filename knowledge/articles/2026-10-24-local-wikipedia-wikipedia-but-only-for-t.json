@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-24-007",
+  "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+  "source": "hackernews-top",
+  "url": "https://edjefferson.com/localwiki/",
+  "summary": "Local Wikipedia 是一个基于地理位置的本地化维基百科应用，仅展示用户步行半小时范围内可到达地点的百科信息。它解决了通用维基百科内容与用户当前物理位置脱节、缺乏本地化实用信息的问题。核心技术亮点在于将地理围栏与维基百科数据结合，按距离过滤和呈现条目，可能涉及地理编码、空间索引和内容聚合。适用场景包括城市探索、旅游导览和社区生活信息查询，对 AI 工程师而言可借鉴其地理空间数据处理与内容检索的工程实现。",
+  "tags": [
+    "open-source",
+    "rag",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-24T02:26:54.579219+00:00",
+  "analyzed_at": "2026-10-24T02:27:46.391005+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

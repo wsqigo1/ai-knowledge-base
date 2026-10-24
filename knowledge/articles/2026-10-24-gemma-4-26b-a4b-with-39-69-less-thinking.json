@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-24-012",
+  "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+  "source": "hackernews-top",
+  "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+  "summary": "Google 发布 Gemma-4-26B-A4B 模型变体，通过优化推理路径显著减少 thinking token 消耗（39-69%），在保持同等准确率的前提下降低推理成本与延迟。核心技术亮点在于对 reasoning 过程的精简与效率优化，使模型在复杂推理任务中更经济。适用于需要高准确率但受限于推理预算的部署场景，如大规模在线服务、边缘推理及成本敏感的 agent 工作流。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-24T02:26:54.579219+00:00",
+  "analyzed_at": "2026-10-24T02:28:06.345012+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

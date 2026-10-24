@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-24-014",
+  "title": "How does Fable 5.1 hide messages in images?",
+  "source": "hackernews-top",
+  "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+  "summary": "Fable 5.1 是一个在图像中隐藏消息的技术方案，通过将文本信息编码为视觉上不可察觉的像素级扰动，实现隐蔽通信。其核心在于利用生成模型或频域变换将消息嵌入图像，同时保持图像视觉质量，并支持在接收端解码还原。技术亮点包括高隐蔽性、鲁棒性以及对常见图像处理操作的抵抗能力。该方案适用于数字水印、隐私通信、版权保护及安全信息传递等场景，对关注多模态安全与信息隐藏的 AI 工程师具有参考价值。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "security"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-24T02:26:54.579219+00:00",
+  "analyzed_at": "2026-10-24T02:28:12.123030+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

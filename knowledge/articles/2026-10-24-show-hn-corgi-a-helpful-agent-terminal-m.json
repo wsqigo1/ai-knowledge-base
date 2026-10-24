@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-24-009",
+  "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+  "source": "hackernews-top",
+  "url": "https://corgi.computer/",
+  "summary": "Corgi 是一个面向 AI agent 与终端会话的 multiplexer 工具，旨在解决开发者同时管理多个 agent 进程和终端会话时切换繁琐、状态分散的问题。其核心技术亮点在于将 agent 会话与终端复用统一到单一界面，支持会话持久化、快速切换与并行任务编排，可能集成 MCP 或 tool-use 协议以协调 agent 与命令行工具。适用场景包括多 agent 并行开发调试、长时运行的 agent 任务监控，以及需要频繁在 agent 交互与 shell 操作间切换的 AI 工程工作流。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "multi-agent",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-24T02:26:54.579219+00:00",
+  "analyzed_at": "2026-10-24T02:27:52.005264+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

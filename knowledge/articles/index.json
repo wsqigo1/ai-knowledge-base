@@ -1,7 +1,220 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2709,
+  "total_count": 2723,
   "entries": [
+    {
+      "id": "kb-2026-10-24-001",
+      "title": "actionow-ai/vvv",
+      "source": "github-trending",
+      "url": "https://github.com/actionow-ai/vvv",
+      "file": "2026-10-24-actionow-aivvv.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multimodal",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-002",
+      "title": "7API/uncensored-ai-api",
+      "source": "github-trending",
+      "url": "https://github.com/7API/uncensored-ai-api",
+      "file": "2026-10-24-7apiuncensored-ai-api.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-003",
+      "title": "xingjian-bai/opal",
+      "source": "github-trending",
+      "url": "https://github.com/xingjian-bai/opal",
+      "file": "2026-10-24-xingjian-baiopal.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "open-source",
+        "fine-tuning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-004",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "source": "hackernews-top",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "file": "2026-10-24-kimi-k31-pro-and-k31-pro-highspeed.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-005",
+      "title": "CVE Tracker",
+      "source": "hackernews-top",
+      "url": "https://cve.0xosprey.com/",
+      "file": "2026-10-24-cve-tracker.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-006",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "source": "hackernews-top",
+      "url": "https://block.xyz/dessa",
+      "file": "2026-10-24-dessa-the-most-authentic-full-duplex-spe.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-007",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "source": "hackernews-top",
+      "url": "https://edjefferson.com/localwiki/",
+      "file": "2026-10-24-local-wikipedia-wikipedia-but-only-for-t.json",
+      "tags": [
+        "open-source",
+        "rag",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-008",
+      "title": "The Real Kevin Bacon",
+      "source": "hackernews-top",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "file": "2026-10-24-the-real-kevin-bacon.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-009",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "source": "hackernews-top",
+      "url": "https://corgi.computer/",
+      "file": "2026-10-24-show-hn-corgi-a-helpful-agent-terminal-m.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multi-agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-010",
+      "title": "Securing our frontier model training environment",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "file": "2026-10-24-securing-our-frontier-model-training-env.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-011",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "source": "hackernews-top",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "file": "2026-10-24-worldtui-i-trained-a-360m-model-to-prete.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-012",
+      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+      "source": "hackernews-top",
+      "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+      "file": "2026-10-24-gemma-4-26b-a4b-with-39-69-less-thinking.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-013",
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "source": "hackernews-top",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "file": "2026-10-24-uuidv7-doesnt-have-the-properties-you-th.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
+    {
+      "id": "kb-2026-10-24-014",
+      "title": "How does Fable 5.1 hide messages in images?",
+      "source": "hackernews-top",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "file": "2026-10-24-how-does-fable-51-hide-messages-in-image.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-24T02:28:12.222501+00:00"
+    },
     {
       "id": "kb-2026-10-23-001",
       "title": "qianshuixia/shrimpreel",
@@ -40701,5 +40914,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-23T02:30:13.551901+00:00"
+  "last_updated": "2026-10-24T02:28:12.438455+00:00"
 }

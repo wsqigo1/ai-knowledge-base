@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-24-013",
+  "title": "UUIDv7 doesn't have the properties you think it does",
+  "source": "hackernews-top",
+  "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+  "summary": "该文章澄清了开发者对 UUIDv7 常见误解，指出其时间有序性、单调性和唯一性并非如预期般可靠。文章剖析了 UUIDv7 的位布局与生成机制，揭示在时钟回拨、多节点并发等场景下可能产生非单调或重复 ID 的风险，并对比 UUIDv4 与 ULID 等方案。核心亮点在于用具体案例说明 UUIDv7 的排序保证边界，帮助工程师正确评估其作为数据库主键或分布式 ID 的适用性。适用于后端架构、分布式系统及数据库设计场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-24T02:26:54.579219+00:00",
+  "analyzed_at": "2026-10-24T02:28:08.236295+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-24-001",
+  "title": "actionow-ai/vvv",
+  "source": "github-trending",
+  "url": "https://github.com/actionow-ai/vvv",
+  "summary": "vvv 是 actionow-ai 开源的视频模板复用工具，核心思路是「一次构建、跨 Agent 复用」：用 Remotion 编写可编辑的视频模板，再通过 Agent Skill 让 Claude Code、Codex 等 25+ coding agents 直接调用生成视频。它解决的是 AI 编程助手缺乏视频生成能力、每次都要重复搭建渲染管线的问题，把视频制作封装成 Agent 可调用的技能。技术亮点在于 Remotion 的 React 式视频编程模型与 Agent Skill 协议的结合，模板参数化后可被不同 Agent 复用。适合需要批量产出演示视频、教程或营销素材的开发者，以及在多 Agent 工作流中集成视频生成的场景。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "multimodal",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-24T02:26:54.300556+00:00",
+  "analyzed_at": "2026-10-24T02:27:23.454700+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

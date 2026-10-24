@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-24-003",
+  "title": "xingjian-bai/opal",
+  "source": "github-trending",
+  "url": "https://github.com/xingjian-bai/opal",
+  "summary": "OPAL 是一个面向 PyTorch 训练流程的反应式优化器（reactive optimizer），核心思路是在模型训练过程中由 coding agent 动态重写优化器代码，而非固定使用 Adam/SGD 等静态优化器。它解决的是传统优化器超参与更新规则需人工设计、难以随训练状态自适应调整的问题。技术亮点在于将 LLM agent 与训练循环耦合，实现优化器逻辑的在线生成与迭代，属于 optimizer-as-code 的新范式。适用场景为深度学习研究、优化算法探索及需要自适应训练策略的 PyTorch 实验。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "code-generation",
+    "open-source",
+    "fine-tuning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-24T02:26:54.300556+00:00",
+  "analyzed_at": "2026-10-24T02:27:32.899190+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}

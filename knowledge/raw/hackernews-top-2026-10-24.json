@@ -1,0 +1,398 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-24T02:26:57.933653+00:00",
+  "date": "2026-10-24",
+  "count": 20,
+  "items": [
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "source": "hackernews-top",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=50212065",
+      "description": "",
+      "hn_score": 742,
+      "comments": 462,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "Kimi K3.1 Pro 与 K3.1 Pro Highspeed 是月之暗面发布的旗舰大模型更新，主打更强的 reasoning 与 agent 能力，Highspeed 版本面向低延迟场景优化推理吞吐。条目本身信息有限，仅给出 HN 热度 742，未提供 benchmark 数据、上下文窗口、定价或开源情况，因此技术细节需以官方发布为准。核心看点在于国产模型在复杂推理与工具调用上的持续迭代，以及高速版本对交互式产品的适配。适用场景包括长文档分析、代码生成、agent 工作流与高并发在线服务。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-24T02:27:36.858609+00:00"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "source": "hackernews-top",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "hn_url": "https://news.ycombinator.com/item?id=50207910",
+      "description": "",
+      "hn_score": 607,
+      "comments": 195,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目为 Hacker News 热门链接，标题指向 Apple Music 的 404 错误页面，但未提供具体技术内容。从标题和来源推断，可能涉及 Apple Music 服务或 API 的访问异常、链接失效或前端路由问题。由于缺乏详细描述，无法确定其解决的具体技术问题或核心技术亮点。适用场景可能包括 Web 服务错误处理、API 可用性监控或前端路由调试，但对 AI 工程师的直接参考价值有限。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-10-24T02:27:38.423597+00:00"
+    },
+    {
+      "title": "CVE Tracker",
+      "source": "hackernews-top",
+      "url": "https://cve.0xosprey.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50215530",
+      "description": "",
+      "hn_score": 111,
+      "comments": 42,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "CVE Tracker 是一个面向开源软件供应链安全的漏洞追踪工具，聚合 CVE 公告、依赖库版本与补丁状态，帮助团队快速定位项目受影响的漏洞。它解决的是传统漏洞数据库分散、与代码依赖脱节、人工比对成本高的问题。核心技术亮点在于自动化关联依赖清单与 CVE 元数据，并提供可筛选的追踪视图与告警机制。适用场景包括 DevSecOps 流水线中的依赖审计、开源项目维护者的安全响应，以及 AI 工程团队对第三方库（如推理框架、向量数据库客户端）的漏洞监控。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-24T02:27:40.355460+00:00"
+    },
+    {
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "source": "hackernews-top",
+      "url": "https://block.xyz/dessa",
+      "hn_url": "https://news.ycombinator.com/item?id=50213925",
+      "description": "",
+      "hn_score": 249,
+      "comments": 102,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "Dessa 是宣称最真实的全双工语音模型，旨在解决传统语音对话系统需等待用户说完才能响应的半双工限制，实现边听边说、自然打断与实时交互。核心技术亮点在于全双工架构设计，支持低延迟双向语音流处理，提升对话自然度与响应实时性。适用场景包括实时语音助手、客服机器人、人机对话系统及需要自然打断与即时反馈的语音交互应用。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-24T02:27:42.084427+00:00"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "source": "hackernews-top",
+      "url": "https://blog.calif.io/p/iphone",
+      "hn_url": "https://news.ycombinator.com/item?id=50211474",
+      "description": "",
+      "hn_score": 759,
+      "comments": 513,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目是 Hacker News 上的一则高热度讨论（759 分），标题声称团队完成了对 iPhone 的越狱/破解目标。从标题与热度看，内容涉及 iOS 安全研究、逆向工程与漏洞利用链的实践，可能涵盖内核漏洞挖掘、代码签名绕过或硬件级攻击面分析。其核心价值在于展示真实设备上的完整攻击链复现过程，对移动安全研究者、越狱工具开发者及 iOS 平台安全评估人员具有较高参考意义。但条目缺少正文描述，具体技术细节与可复现性无法确认，且与 AI/LLM 工程领域关联度低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-24T02:27:44.334829+00:00"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "source": "hackernews-top",
+      "url": "https://edjefferson.com/localwiki/",
+      "hn_url": "https://news.ycombinator.com/item?id=50202285",
+      "description": "",
+      "hn_score": 1258,
+      "comments": 225,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "Local Wikipedia 是一个基于地理位置的本地化维基百科应用，仅展示用户步行半小时范围内可到达地点的百科信息。它解决了通用维基百科内容与用户当前物理位置脱节、缺乏本地化实用信息的问题。核心技术亮点在于将地理围栏与维基百科数据结合，按距离过滤和呈现条目，可能涉及地理编码、空间索引和内容聚合。适用场景包括城市探索、旅游导览和社区生活信息查询，对 AI 工程师而言可借鉴其地理空间数据处理与内容检索的工程实现。",
+      "tags": [
+        "open-source",
+        "rag",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-24T02:27:46.391005+00:00"
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "source": "hackernews-top",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "hn_url": "https://news.ycombinator.com/item?id=50169499",
+      "description": "",
+      "hn_score": 249,
+      "comments": 70,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该项目以「The Real Kevin Bacon」为题，探讨六度分隔理论中演员 Kevin Bacon 的真实社交网络中心性，通过数据驱动方法验证其是否真为好莱坞连接度最高的演员。核心亮点在于利用大规模电影合作数据构建演员合作图，计算中心性指标（如度中心性、介数中心性）并与 Bacon 对比，揭示网络拓扑中的实际枢纽节点。技术实现涉及图算法与数据可视化，适用于社交网络分析、图数据库教学及娱乐数据挖掘场景。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-24T02:27:48.253969+00:00"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "source": "hackernews-top",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "hn_url": "https://news.ycombinator.com/item?id=50202114",
+      "description": "",
+      "hn_score": 340,
+      "comments": 176,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目讨论加拿大Bill C-22法案（关于精神健康与司法系统的立法）的公众意见征询截止日期临近，呼吁民众在截止前表达反对意见。内容属于公共政策与社会议题，不涉及AI/LLM技术、开源项目或工程实践，对AI工程师的技术工作无直接参考价值。核心技术亮点缺失，适用场景为公民参与和政策倡导，而非技术研发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-24T02:27:50.027486+00:00"
+    },
+    {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "source": "hackernews-top",
+      "url": "https://corgi.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50214373",
+      "description": "",
+      "hn_score": 43,
+      "comments": 6,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "Corgi 是一个面向 AI agent 与终端会话的 multiplexer 工具，旨在解决开发者同时管理多个 agent 进程和终端会话时切换繁琐、状态分散的问题。其核心技术亮点在于将 agent 会话与终端复用统一到单一界面，支持会话持久化、快速切换与并行任务编排，可能集成 MCP 或 tool-use 协议以协调 agent 与命令行工具。适用场景包括多 agent 并行开发调试、长时运行的 agent 任务监控，以及需要频繁在 agent 交互与 shell 操作间切换的 AI 工程工作流。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multi-agent",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-24T02:27:52.005264+00:00"
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "hn_url": "https://news.ycombinator.com/item?id=50214218",
+      "description": "",
+      "hn_score": 290,
+      "comments": 154,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目报道 Google 可能将 Gmail 与 Google Photos 的用户数据用于广告定向，属于隐私政策与数据使用边界调整，而非技术产品发布。它解决的是广告精准度与商业变现问题，核心在于将个人通信与照片内容纳入广告信号，涉及数据治理、用户同意与隐私合规风险。对 AI 工程师而言，直接技术价值有限，但可作为理解大厂数据策略、隐私合规约束及训练/推理数据来源边界的参考，适用于隐私工程、合规评估与产品风险讨论场景。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-24T02:27:54.023314+00:00"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "source": "hackernews-top",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "hn_url": "https://news.ycombinator.com/item?id=50212507",
+      "description": "",
+      "hn_score": 70,
+      "comments": 96,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该 HN 讨论帖探讨将空气净化器作为白噪音机器使用的可行性，属于消费电子与生活技巧类话题，而非 AI/LLM 技术内容。帖子核心在于分享用户如何利用空气净化器运行时产生的持续风扇噪音来掩盖环境干扰、改善睡眠与专注，并讨论不同型号的噪音特性、功耗与滤网维护成本。技术亮点有限，主要是设备复用与声学体验的实用经验。适用场景为居家办公、睡眠辅助及对白噪音有需求的普通用户。对 AI 工程师而言，与本职工作关联度低，仅可作为工作环境优化的边缘参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-24T02:27:56.107450+00:00"
+    },
+    {
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "source": "hackernews-top",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=50217683",
+      "description": "",
+      "hn_score": 11,
+      "comments": 1,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目报道了一项阿尔茨海默病研究进展：在未清除脑内淀粉样斑块的情况下，仅通过约两小时的睡眠干预即恢复了认知功能。研究聚焦于睡眠对脑内代谢废物清除与突触功能的影响，核心亮点在于挑战了'必须清除斑块才能改善症状'的传统假设，提示睡眠质量本身可能是独立于斑块负荷的干预靶点。该发现对神经退行性疾病的早期干预与睡眠疗法设计具有参考价值，但样本与机制细节尚需进一步验证。",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-24T02:27:57.886762+00:00"
+    },
+    {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "source": "hackernews-top",
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "hn_url": "https://news.ycombinator.com/item?id=50168075",
+      "description": "",
+      "hn_score": 16,
+      "comments": 0,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目报道了食胶原微生物（collagen-eating microbes）的发现及其对化石记录不完整性的解释。研究聚焦于微生物如何降解骨骼中的胶原蛋白，从而破坏化石保存，填补了埋藏学中软组织和骨骼消失机制的空白。核心技术亮点在于微生物群落分析与埋藏学实验的结合，揭示了微生物活动对化石记录偏差的影响。适用场景为古生物学、埋藏学及地球生物学研究，对AI工程师的直接技术价值有限，但可作为跨学科兴趣参考。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-24T02:27:59.593538+00:00"
+    },
+    {
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "source": "hackernews-top",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "hn_url": "https://news.ycombinator.com/item?id=50214983",
+      "description": "",
+      "hn_score": 35,
+      "comments": 7,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "systemd-nspawn 是 systemd 生态中的轻量级容器管理工具，提供类似 chroot 但更完整的命名空间隔离能力。该条目以导览形式系统介绍其核心用法：通过 machinectl 管理容器镜像、配置网络与文件系统挂载、集成 systemd 服务管理，并对比 Docker/LXC 的定位差异。技术亮点在于无需额外守护进程、与宿主机 systemd 深度集成、支持直接启动完整 OS 镜像，适合需要轻量隔离的开发测试环境、CI 构建沙箱及嵌入式系统调试场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-24T02:28:01.327187+00:00"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "hn_url": "https://news.ycombinator.com/item?id=50214416",
+      "description": "",
+      "hn_score": 77,
+      "comments": 94,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该条目介绍前沿模型训练环境的安全防护实践，聚焦于大规模训练集群在基础设施层面的威胁模型与防御体系。核心亮点包括训练环境隔离、供应链完整性校验、访问控制与审计、以及针对模型权重与数据资产的防泄露机制。适用于从事大模型预训练或微调的工程团队，尤其是需要满足合规与安全要求的生产级训练平台建设。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-24T02:28:02.805763+00:00"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "source": "hackernews-top",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "hn_url": "https://news.ycombinator.com/item?id=50190363",
+      "description": "",
+      "hn_score": 613,
+      "comments": 185,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "WorldTUI 是一个 360M 参数的小型语言模型，被训练来模拟终端（TUI）环境的行为与输出。它解决的是在无真实终端或受限环境下生成逼真终端交互内容的问题，可用于测试、演示或教学场景。核心技术亮点在于用较小模型（360M）实现领域特定的终端行为模拟，可能涉及对终端命令、输出格式和交互模式的 fine-tuning。适用场景包括终端 UI 原型验证、自动化测试中的 mock 终端、以及 AI agent 工具调用环境的低成本仿真。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-24T02:28:04.796564+00:00"
+    },
+    {
+      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+      "source": "hackernews-top",
+      "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+      "hn_url": "https://news.ycombinator.com/item?id=50209907",
+      "description": "",
+      "hn_score": 106,
+      "comments": 25,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "Google 发布 Gemma-4-26B-A4B 模型变体，通过优化推理路径显著减少 thinking token 消耗（39-69%），在保持同等准确率的前提下降低推理成本与延迟。核心技术亮点在于对 reasoning 过程的精简与效率优化，使模型在复杂推理任务中更经济。适用于需要高准确率但受限于推理预算的部署场景，如大规模在线服务、边缘推理及成本敏感的 agent 工作流。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-10-24T02:28:06.345012+00:00"
+    },
+    {
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "source": "hackernews-top",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "hn_url": "https://news.ycombinator.com/item?id=50211746",
+      "description": "",
+      "hn_score": 114,
+      "comments": 99,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "该文章澄清了开发者对 UUIDv7 常见误解，指出其时间有序性、单调性和唯一性并非如预期般可靠。文章剖析了 UUIDv7 的位布局与生成机制，揭示在时钟回拨、多节点并发等场景下可能产生非单调或重复 ID 的风险，并对比 UUIDv4 与 ULID 等方案。核心亮点在于用具体案例说明 UUIDv7 的排序保证边界，帮助工程师正确评估其作为数据库主键或分布式 ID 的适用性。适用于后端架构、分布式系统及数据库设计场景。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-24T02:28:08.236295+00:00"
+    },
+    {
+      "title": "Docker is weird",
+      "source": "hackernews-top",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "hn_url": "https://news.ycombinator.com/item?id=50202681",
+      "description": "",
+      "hn_score": 826,
+      "comments": 350,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "《Docker is weird》是一篇探讨 Docker 容器技术中反直觉行为与设计陷阱的技术文章，在 Hacker News 获得 826 分高热讨论。文章聚焦 Docker 在镜像分层、网络命名空间、存储驱动、构建缓存等环节中容易被误解的机制，剖析这些怪异行为背后的实现原理与历史包袱，并给出规避常见坑的实践建议。核心技术亮点在于以具体案例揭示容器运行时与宿主机交互的边界条件，帮助工程师建立更准确的 Docker 心智模型。适用场景包括 CI/CD 流水线调试、容器化部署排障、以及需要深入理解容器隔离机制的开发与运维工作。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-24T02:28:10.146922+00:00"
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "source": "hackernews-top",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "hn_url": "https://news.ycombinator.com/item?id=50201445",
+      "description": "",
+      "hn_score": 196,
+      "comments": 71,
+      "collected_at": "2026-10-24T02:26:54.579219+00:00",
+      "published_at": "2026-10-24T02:26:54.579219+00:00",
+      "summary": "Fable 5.1 是一个在图像中隐藏消息的技术方案，通过将文本信息编码为视觉上不可察觉的像素级扰动，实现隐蔽通信。其核心在于利用生成模型或频域变换将消息嵌入图像，同时保持图像视觉质量，并支持在接收端解码还原。技术亮点包括高隐蔽性、鲁棒性以及对常见图像处理操作的抵抗能力。该方案适用于数字水印、隐私通信、版权保护及安全信息传递等场景，对关注多模态安全与信息隐藏的 AI 工程师具有参考价值。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-24T02:28:12.123030+00:00"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-24-011",
+  "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+  "source": "hackernews-top",
+  "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+  "summary": "WorldTUI 是一个 360M 参数的小型语言模型，被训练来模拟终端（TUI）环境的行为与输出。它解决的是在无真实终端或受限环境下生成逼真终端交互内容的问题，可用于测试、演示或教学场景。核心技术亮点在于用较小模型（360M）实现领域特定的终端行为模拟，可能涉及对终端命令、输出格式和交互模式的 fine-tuning。适用场景包括终端 UI 原型验证、自动化测试中的 mock 终端、以及 AI agent 工具调用环境的低成本仿真。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "developer-tools",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-24T02:26:54.579219+00:00",
+  "analyzed_at": "2026-10-24T02:28:04.796564+00:00",
+  "organized_at": "2026-10-24T02:28:12.222501+00:00",
+  "status": "published"
+}
