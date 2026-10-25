@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-25-013",
+  "title": "How close can pure functional programming get to C?",
+  "source": "hackernews-top",
+  "url": "https://rtfeldman.com/fp-vs-c",
+  "summary": "该 HN 讨论探讨纯函数式编程语言在性能上逼近 C 语言的可行性与边界，核心问题在于函数式语言的高层抽象（不可变数据、垃圾回收、高阶函数）是否必然带来运行时开销。讨论涉及编译器优化、内存布局控制、零成本抽象、逃逸分析与手动内存管理等技术亮点，并对比了 Haskell、OCaml、Rust 等语言在系统级编程中的表现。适用场景包括对性能敏感的系统编程、编译器与运行时设计研究，以及评估函数式范式在底层开发中的工程可行性。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:15:09.010301+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

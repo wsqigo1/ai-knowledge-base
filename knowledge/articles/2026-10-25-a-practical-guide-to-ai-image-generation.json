@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-014",
+  "title": "A practical guide to AI image generation, from diffusion to agents",
+  "source": "hackernews-top",
+  "url": "https://danielball.com/notes/ai_image_generation.html",
+  "summary": "该指南系统梳理了AI图像生成从diffusion模型到agentic工作流的完整技术栈，解决工程师在构建图像生成应用时缺乏端到端实践路径的问题。核心亮点在于将diffusion采样、条件控制与agent编排结合，展示如何用agent调度多步生成、迭代优化与工具调用。适用场景包括图像生成产品原型开发、多模态agent工作流搭建及生成管线工程化落地。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "workflow-automation",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:15:10.584117+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

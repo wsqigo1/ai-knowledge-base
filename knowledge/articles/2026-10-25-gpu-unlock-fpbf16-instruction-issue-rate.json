@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-25-010",
+  "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+  "source": "hackernews-top",
+  "url": "https://github.com/Zagitta/gpu-unlock",
+  "summary": "该项目针对 Nvidia RTX 3000 系列（Ampere 架构）GPU，实测并分析了 FP16/BF16 指令的发射速率（instruction issue rate），揭示了消费级显卡在低精度计算下的实际吞吐瓶颈。它解决了开发者在进行混合精度训练或推理时，对硬件理论峰值与实际可达性能之间差距缺乏量化认知的问题。核心技术亮点在于通过微基准测试（microbenchmark）精确测量指令发射限制，并对比不同数据类型与指令组合下的表现。适用场景包括深度学习模型训练优化、GPU 性能调优以及为低精度计算任务选择硬件提供参考。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "developer-tools",
+    "fine-tuning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:14:59.306813+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

@@ -1,0 +1,523 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-25T02:14:02.200534+00:00",
+  "date": "2026-10-25",
+  "count": 19,
+  "items": [
+    {
+      "title": "dominikmartn/harp",
+      "source": "github-trending",
+      "url": "https://github.com/dominikmartn/harp",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "stars": 604,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-21T10:29:54Z",
+      "summary": "harp 是 Warp 的非官方 Rust 分支，面向同时运行多个 Claude Code 与 Codex agent 的开发者，提供统一侧边栏集中管理并行会话，并高亮提示哪个 agent 正在等待人工输入。它解决多 agent 并行时上下文切换混乱、任务阻塞难以及时发现的问题。核心亮点在于以 Rust 实现的高性能终端 UI、多 agent 会话聚合与状态感知提醒机制，降低多 agent 编排的操作开销。适用于需要并行驱动多个编码 agent 的日常开发、批量代码生成与多任务调试场景。",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "code-generation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-25T02:14:04.010825+00:00"
+    },
+    {
+      "title": "Alejandros17487/ai-jailbreaks",
+      "source": "github-trending",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "stars": 532,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-21T14:49:16Z",
+      "summary": "该项目是一个面向 AI 安全研究与红队测试的开源资源库，汇集了 35 条可直接粘贴使用的 AI jailbreak prompts，覆盖 25+ 前沿与开放权重模型。它解决的是安全研究者在评估模型越狱防护能力时缺乏标准化、可复用测试素材的问题。核心技术亮点包括按模型组织的 system prompts、AGENTS.md 规范以及 Ollama Modelfiles，便于快速部署与复现测试。适用场景为 LLM 安全评估、红队演练、模型对齐研究与隐私风险测试。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:05.481027+00:00"
+    },
+    {
+      "title": "lesnolie/Tigris",
+      "source": "github-trending",
+      "url": "https://github.com/lesnolie/Tigris",
+      "description": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+      "stars": 453,
+      "language": "Kotlin",
+      "topics": [],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-25T02:13:25Z",
+      "summary": "Tigris 是一个用 Kotlin 编写的 Android TV 启动器，复刻 tvOS 27 的视觉与交互风格，提供 Liquid Glass 悬浮 dock、Top Shelf 内容推荐栏、玻璃质感 Control Center 与照片屏保。它解决 Android TV 原生界面陈旧、缺乏统一视觉语言的问题，让电视端获得接近 Apple TV 的精致体验。核心技术亮点在于用 Compose/自定义渲染实现毛玻璃模糊与动态光影效果，并支持 Agent-installable，即可由 AI agent 自动完成安装配置。适用场景为追求美观的 Android TV/盒子用户、智能家居中控屏美化，以及作为 AI agent 自动化部署演示的样例项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-25T02:14:07.321114+00:00"
+    },
+    {
+      "title": "vercel-labs/fx0",
+      "source": "github-trending",
+      "url": "https://github.com/vercel-labs/fx0",
+      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "stars": 398,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-23T23:36:09Z",
+      "summary": "vercel-labs/fx0 是一个基于 libfx 构建的轻量级设计 agent，用户只需用自然语言描述页面，agent 即可将其生成为单个 HTML 文件。它解决的是前端页面快速原型与设计到代码转换的问题，省去手动编写 HTML/CSS 的环节。核心技术亮点在于将 LLM 驱动的 code-generation 与 agent 工作流结合，输出自包含的单文件 HTML，便于直接预览和部署。项目用 TypeScript 实现，体量轻、依赖少。适用场景包括快速 UI 原型验证、设计稿转代码、教学演示以及低代码页面搭建等需要即时可视化的开发环节。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-25T02:14:09.085882+00:00"
+    },
+    {
+      "title": "MemTensor/MemT-1.0",
+      "source": "github-trending",
+      "url": "https://github.com/MemTensor/MemT-1.0",
+      "description": "Official repository for MemT-1.0",
+      "stars": 390,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "llm",
+        "long-context",
+        "long-term-memory",
+        "memory",
+        "memory-augmented-models",
+        "native-memory",
+        "qwen",
+        "sglang"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-20T08:42:21Z",
+      "summary": "MemT-1.0 是 MemTensor 团队开源的长期记忆（long-term-memory）系统，面向 AI agents 与 LLM 应用，解决长对话与长上下文场景下模型记忆容量有限、跨会话信息难以持久化的问题。核心技术围绕 long-context 记忆组织与检索机制，结合 deepseek 等模型生态，为 agent 提供可复用的记忆层。适用于需要持续状态保持的对话助手、多轮任务型 agent 及长文档处理场景。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "long-term-memory",
+        "long-context",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:10.632920+00:00"
+    },
+    {
+      "title": "garycaogan/ai-live-avatar",
+      "source": "github-trending",
+      "url": "https://github.com/garycaogan/ai-live-avatar",
+      "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "stars": 348,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-19T13:47:28Z",
+      "summary": "该项目是一个面向直播场景的 AI 实时数字人系统，将 Vidu S2 实时数字人生成、弹幕过滤与调度、衣柜换装以及 OBS 叠层整合为可运行的 Python 工程。它解决的是虚拟主播直播中数字人驱动、观众弹幕互动与画面合成链路割裂的问题，提供从弹幕输入到角色响应再到直播推流的端到端流程。核心技术亮点包括实时数字人接入、基于弹幕的过滤与调度策略、可切换的角色服装资产机制，以及通过 OBS 叠层实现直播画面合成。适用于虚拟主播、AI 互动直播、电商带货数字人等场景，但角色资产需自行准备。",
+      "tags": [
+        "multimodal",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:12.640678+00:00"
+    },
+    {
+      "title": "udhaykumarbala/cleanyourtv-app",
+      "source": "github-trending",
+      "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+      "stars": 340,
+      "language": "Kotlin",
+      "topics": [
+        "adb",
+        "android-tv",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T16:08:11Z",
+      "summary": "Cleanyourtv-app 是一个社区构建的 Android 手机应用，用于通过手机远程清理 Android TV、Fire TV 和 Google TV 上的预装软件（debloat），无需笔记本电脑或编程代理。其核心技术亮点是基于 ADB 协议实现手机与电视的无线连接，并封装了安全的卸载/禁用操作流程，避免误删系统关键组件。该工具解决了普通用户在没有电脑和命令行知识的情况下难以清理电视臃肿软件的问题，适用于家庭用户、技术爱好者以及需要批量管理多台 Android TV 设备的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "adb",
+        "android-tv"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:14.460955+00:00"
+    },
+    {
+      "title": "actionow-ai/vvv",
+      "source": "github-trending",
+      "url": "https://github.com/actionow-ai/vvv",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "stars": 332,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-23T10:14:45Z",
+      "summary": "vvv 是面向 coding agent 生态的视频模板工具，核心思路是「一次构建、跨 agent 复用」：用 Remotion 编写可编辑的视频模板，再通过 Agent Skill 机制接入 Claude Code、Codex 等 25+ 个 coding agent，让 agent 能按模板自动生成或修改视频内容。它解决的是 agent 输出视频时缺乏结构化、可复用模板的问题，把视频生产从一次性脚本变成可被 agent 调用的技能资产。技术亮点在于 Remotion 的 React 式可编程视频与 Agent Skill 标准化接口的结合，Python 实现便于集成。适用于需要批量产出演示视频、教学素材或营销短片的 agent 工作流场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:16.509450+00:00"
+    },
+    {
+      "title": "jss8649/quiet-tizen",
+      "source": "github-trending",
+      "url": "https://github.com/jss8649/quiet-tizen",
+      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
+      "stars": 325,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "debloat",
+        "launcher",
+        "samsung-tv",
+        "smart-tv",
+        "tizen"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-20T17:24:38Z",
+      "summary": "该项目为三星 U8000F 电视（Tizen 9 系统）提供原生 Quiet Home 启动器、可逆的去臃肿清理工具，以及面向 agent 的可读指南。它解决智能电视预装应用冗余、系统界面杂乱、用户难以安全精简系统的问题。核心亮点在于清理操作可逆、提供 agent 可解析的文档结构，并以 Python 实现工具链。适用场景为智能电视系统定制、去臃肿实践及 agent 辅助的设备管理研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-25T02:14:18.028929+00:00"
+    },
+    {
+      "title": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "source": "github-trending",
+      "url": "https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
+      "stars": 304,
+      "language": "Python",
+      "topics": [
+        "roblox"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-22T18:45:25Z",
+      "summary": "该项目是一个针对 Roblox 游戏的高性能自动瞄准脚本，通过自适应平滑跟踪与精确自动瞄准算法，解决玩家在射击类游戏中手动瞄准精度不足的问题。核心技术亮点包括模块化结构设计、可配置的平滑跟踪参数、兼容多数执行器的易部署方案，以及针对当前 Roblox 版本的适配。适用场景为 Roblox 射击游戏辅助，但涉及游戏作弊行为，存在违反平台规则与法律风险，对 AI 工程师的技术参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-25T02:14:19.447059+00:00"
+    },
+    {
+      "title": "qianshuixia/shrimpreel",
+      "source": "github-trending",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "stars": 261,
+      "language": "TypeScript",
+      "topics": [
+        "ai-video",
+        "cloudflare-d1",
+        "cloudflare-r2",
+        "cloudflare-workers",
+        "fal-ai",
+        "hono",
+        "image-to-video",
+        "react",
+        "saas-boilerplate",
+        "saas-template",
+        "tanstack-start",
+        "typescript"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T21:07:59Z",
+      "summary": "这是一个开源 SaaS 模板，用于快速搭建「一张照片生成 AI 视频」的病毒式传播站点，每个热门关键词对应一个独立站点。它解决了 AI 视频生成产品从零搭建全栈基础设施与商业化流程的重复劳动问题。核心技术亮点包括：基于 Cloudflare Workers 与 D1/R2/KV/Queues 的无服务器架构、TanStack Start + Hono 全栈框架、Google 登录、积分包支付（Waffo/Dodo）、fal.ai 视频生成集成以及管理后台。适用场景为独立开发者或小团队快速验证 AI 视频生成类 SaaS 产品、批量运营关键词站点。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-25T02:14:21.379224+00:00"
+    },
+    {
+      "title": "lovisdotio/motion2code",
+      "source": "github-trending",
+      "url": "https://github.com/lovisdotio/motion2code",
+      "description": "Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source",
+      "stars": 238,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "claude-code",
+        "gsap",
+        "motion-design",
+        "svg",
+        "video-to-code"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-20T04:21:52Z",
+      "summary": "该项目为 coding agent 提供一套可复用的 skills，用于将 motion design 视频逆向重建为可循环播放的 SVG + GSAP 代码，并通过逐帧对比源视频来校验还原精度。它解决的是动画还原过程中人工逐帧对齐成本高、代码与视觉反馈脱节的问题，把「看视频写动画」变成 agent 可执行、可验证的闭环工作流。核心技术亮点在于将 agent-skills 与帧级视觉比对结合，形成生成—渲染—校验的迭代机制，并以 SVG + GSAP 作为轻量、可版本化的输出载体。适用场景包括前端动效复刻、设计稿到代码的自动化、以及 agent 视觉反馈能力的工程化验证。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:23.931694+00:00"
+    },
+    {
+      "title": "7API/uncensored-ai-api",
+      "source": "github-trending",
+      "url": "https://github.com/7API/uncensored-ai-api",
+      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": 223,
+      "language": null,
+      "topics": [
+        "abliterated-models",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api",
+        "claude-code",
+        "deepseek-api",
+        "gemini-api",
+        "glm-api",
+        "gpt-api",
+        "grok-api",
+        "kimi-api",
+        "no-refusal-ai",
+        "openai-compatible",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-api",
+        "uncensored-ai-model",
+        "uncensored-llm",
+        "uncensored-model",
+        "unfiltered-ai"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-23T06:24:13Z",
+      "summary": "该项目是一个聚合式 AI API 网关，通过单一密钥统一接入 Claude、GPT、Gemini、Grok、DeepSeek、GLM、Kimi 等主流模型，并提供 uncensored 与 abliterated 变体。它解决了多模型接入时密钥管理分散、接口协议不统一的问题，核心亮点是同时兼容 OpenAI 与 Anthropic 两套 API 规范，按 token 计费，便于在 Claude Code 等工具中直接替换 base URL 使用。适用场景包括需要多模型对比、对内容审查有特殊要求的开发测试，以及希望低成本快速切换模型的 AI 应用原型开发。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-25T02:14:25.511992+00:00"
+    },
+    {
+      "title": "zengshuangzi/mcd-money-saver",
+      "source": "github-trending",
+      "url": "https://github.com/zengshuangzi/mcd-money-saver",
+      "description": "基于麦当劳MCP的智能省钱助手",
+      "stars": 216,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-23T07:46:53Z",
+      "summary": "该项目是基于麦当劳 MCP（Model Context Protocol）构建的智能省钱助手，通过接入麦当劳官方或第三方 MCP 服务，自动查询优惠券、套餐价格与促销活动，帮助用户在下单前找到最优组合。核心亮点在于将 MCP 作为工具调用层，结合 LLM 完成优惠信息检索、价格比较与推荐决策，属于 agent + tool-use 的轻量落地实践。适用场景包括日常点餐省钱、优惠券自动匹配，以及作为学习 MCP 协议与 agent 工具编排的参考示例。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:27.299924+00:00"
+    },
+    {
+      "title": "lklbar666/mcd-saver-checkup",
+      "source": "github-trending",
+      "url": "https://github.com/lklbar666/mcd-saver-checkup",
+      "description": "麦当劳省钱体检：不看你想吃什么，先看你已经亏在哪。基于麦当劳中国 MCP 的差价审计 Skill——枚举所有买法，用 calculate-price 逐个复算，报差额、归因与凑单临界点。",
+      "stars": 206,
+      "language": "HTML",
+      "topics": [
+        "agent-skill",
+        "chinese",
+        "mcdonalds",
+        "mcp",
+        "price-audit",
+        "python"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T08:58:14Z",
+      "summary": "该项目是一个基于麦当劳中国 MCP 的差价审计 Agent Skill，核心思路是不按用户想吃什么来推荐，而是枚举所有可行的购买组合（单品、套餐、优惠券叠加等），调用 calculate-price 接口逐个复算实际价格，找出用户可能多付的差额，并给出归因分析与凑单临界点提示。技术亮点在于将 MCP 工具调用与穷举比价逻辑封装为可复用的 agent-skill，展示了 LLM Agent 在真实消费场景中做确定性数值审计的落地方式。适用于 MCP 生态开发者、Agent Skill 设计参考，以及想研究工具调用型 Agent 如何结合外部定价 API 做决策的工程师。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:29.283761+00:00"
+    },
+    {
+      "title": "xingjian-bai/opal",
+      "source": "github-trending",
+      "url": "https://github.com/xingjian-bai/opal",
+      "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
+      "stars": 197,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "llm-agents",
+        "optimizer",
+        "pytorch"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T17:54:56Z",
+      "summary": "OPAL 是一个面向 PyTorch 训练流程的反应式优化器（reactive optimizer），核心思路是在模型训练过程中引入 coding agent，由 agent 动态重写优化器逻辑，而非使用固定的 Adam/SGD 等预设算法。它解决的是传统优化器超参与更新规则需人工设计、难以随训练状态自适应调整的问题。技术亮点在于将 LLM agent 与训练循环耦合，实现优化器代码的在线生成与迭代，属于 agent 与 deep-learning 训练基础设施的交叉方向。适用场景为研究型训练实验、优化算法自动搜索与 LLM agent 在 ML 工程中的落地探索，目前 stars 较少、成熟度有限，更适合作为研究原型参考。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "open-source",
+        "fine-tuning"
+      ],
+      "score": 6.6,
+      "analyzed_at": "2026-10-25T02:14:31.223701+00:00"
+    },
+    {
+      "title": "Charonyuu/whatsmyagentdoing",
+      "source": "github-trending",
+      "url": "https://github.com/Charonyuu/whatsmyagentdoing",
+      "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
+      "stars": 176,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "dashboard",
+        "threejs"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T13:08:48Z",
+      "summary": "Charonyuu/whatsmyagentdoing 是一个基于 Three.js 的可视化监控面板，将本机运行的 Claude Code 与 Codex 等 AI coding agent 的实时状态映射为一个小型办公室场景，让开发者直观看到每个 agent 当前在做什么。它解决的是多 agent 并行工作时状态不可见、难以追踪的问题，核心技术亮点在于用 Three.js 构建轻量 3D 可视化界面，并实时采集本地 agent 的运行事件。适用于同时驱动多个 coding agent 的开发者做过程观察与调试，属于偏趣味性的 developer-tools。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "multi-agent"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-10-25T02:14:33.151934+00:00"
+    },
+    {
+      "title": "kukemc/bili-cli",
+      "source": "github-trending",
+      "url": "https://github.com/kukemc/bili-cli",
+      "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+      "stars": 174,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "llm-tools",
+        "mcp",
+        "openclaw",
+        "qwen3-asr"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T15:13:58Z",
+      "summary": "bili-cli 是一个面向 AI Agent 的哔哩哔哩命令行工具，将扫码登录、视频浏览、评论、私信、发动态、投稿等 B 站操作封装为 CLI 命令，并统一输出 JSON，便于 Agent 解析与编排。它解决的是 Agent 难以直接调用 B 站 Web API、缺乏稳定结构化接口的问题，核心亮点在于以 agent-skills 形式提供可被 Claude Code 等工具直接调用的工具集，降低自动化脚本与 Agent 集成的门槛。适用于内容运营自动化、Agent 驱动的社媒互动、数据采集与投稿工作流等场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-25T02:14:34.834118+00:00"
+    },
+    {
+      "title": "C4rohan/Lampline",
+      "source": "github-trending",
+      "url": "https://github.com/C4rohan/Lampline",
+      "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+      "stars": 171,
+      "language": "Python",
+      "topics": [
+        "agents-as-code",
+        "contact-center",
+        "conversational-ai",
+        "cx-agent-studio",
+        "dialogflow-cx",
+        "ivr",
+        "llm",
+        "pipecat",
+        "self-hosted",
+        "sip",
+        "speech-to-text",
+        "text-to-speech",
+        "voice-agents",
+        "voice-ai"
+      ],
+      "collected_at": "2026-10-25T02:14:00.418840+00:00",
+      "published_at": "2026-10-24T03:38:51Z",
+      "summary": "Lampline 是一个开源 Python 框架，用于在本地构建和测试 AI 电话代理（phone agents）。它解决的核心问题是电话语音代理开发中调试成本高、依赖云服务的问题：开发者可在自己电脑上运行代理，并用 AI 模拟呼叫者自动验证每次改动。技术亮点包括无需 API key 即可免费运行、自带 key 时按通话计费仅几分钱、支持 agents-as-code 范式，并能导入 Dialogflow CX 现有配置。适用于客服中心、对话式 AI 原型验证及需要低成本迭代语音代理的团队。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-25T02:14:36.459553+00:00"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-25-007",
+  "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+  "source": "hackernews-top",
+  "url": "https://xingjianbai.com/reactive-optimizers/",
+  "summary": "Reactive Optimizers 是一种在训练过程中动态重写优化器源码的技术方案，核心思路是让优化器根据训练状态实时生成并编译新的更新逻辑，而非固定使用预设算法。它解决了传统优化器（如 Adam、SGD）超参数与更新规则静态化、难以适应训练不同阶段动态需求的问题。技术亮点在于将优化器源码视为可运行时修改的对象，结合即时编译与训练反馈实现自适应优化策略。适用场景包括需要精细调优的深度学习训练、研究型实验以及探索自适应优化算法的工程实践。",
+  "tags": [
+    "fine-tuning",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:14:44.974868+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

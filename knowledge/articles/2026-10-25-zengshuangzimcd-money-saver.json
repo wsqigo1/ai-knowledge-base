@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-002",
+  "title": "zengshuangzi/mcd-money-saver",
+  "source": "github-trending",
+  "url": "https://github.com/zengshuangzi/mcd-money-saver",
+  "summary": "该项目是基于麦当劳 MCP（Model Context Protocol）构建的智能省钱助手，通过接入麦当劳官方或第三方 MCP 服务，自动查询优惠券、套餐价格与促销活动，帮助用户在下单前找到最优组合。核心亮点在于将 MCP 作为工具调用层，结合 LLM 完成优惠信息检索、价格比较与推荐决策，属于 agent + tool-use 的轻量落地实践。适用场景包括日常点餐省钱、优惠券自动匹配，以及作为学习 MCP 协议与 agent 工具编排的参考示例。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-25T02:14:00.418840+00:00",
+  "analyzed_at": "2026-10-25T02:14:27.299924+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

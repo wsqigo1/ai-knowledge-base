@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-009",
+  "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+  "source": "hackernews-top",
+  "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+  "summary": "Node2Shell 是一种利用 Node.js 原型污染漏洞实现远程代码执行（RCE）的攻击技术，现已演进为 HTTP2Shell，将攻击面扩展至众多 HTTP 库和应用。该技术揭示了 HTTP 请求处理链中隐藏的原型污染风险，核心在于通过恶意构造的 HTTP 头或参数触发原型链污染，进而劫持应用逻辑并执行任意代码。其亮点在于跨库、跨框架的通用性，影响范围广泛，对使用 Node.js 及类似 HTTP 栈的开发者构成严重安全威胁。适用于安全研究人员进行漏洞挖掘、开发者进行代码审计与防御加固，以及企业评估自身 HTTP 服务的安全风险。",
+  "tags": [
+    "security",
+    "nodejs",
+    "http",
+    "vulnerability",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:14:55.921007+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

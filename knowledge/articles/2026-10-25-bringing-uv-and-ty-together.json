@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-25-012",
+  "title": "Bringing uv and ty together",
+  "source": "hackernews-top",
+  "url": "https://astral.sh/blog/uv-ty-integration",
+  "summary": "uv 是 Astral 推出的高性能 Python 包管理器与解析器，ty 是其类型检查器。该条目介绍将两者整合，使依赖解析与类型检查共享同一套 Python 环境与包元数据模型。核心亮点在于复用 uv 的快速解析与安装能力，让 ty 能直接基于已解析环境做类型分析，减少重复的环境构建与元数据读取开销，提升开发反馈速度。适用于 Python 项目的本地开发、CI 类型检查与依赖管理一体化工作流。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:15:07.203745+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

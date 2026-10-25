@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-003",
+  "title": "lklbar666/mcd-saver-checkup",
+  "source": "github-trending",
+  "url": "https://github.com/lklbar666/mcd-saver-checkup",
+  "summary": "该项目是一个基于麦当劳中国 MCP 的差价审计 Agent Skill，核心思路是不按用户想吃什么来推荐，而是枚举所有可行的购买组合（单品、套餐、优惠券叠加等），调用 calculate-price 接口逐个复算实际价格，找出用户可能多付的差额，并给出归因分析与凑单临界点提示。技术亮点在于将 MCP 工具调用与穷举比价逻辑封装为可复用的 agent-skill，展示了 LLM Agent 在真实消费场景中做确定性数值审计的落地方式。适用于 MCP 生态开发者、Agent Skill 设计参考，以及想研究工具调用型 Agent 如何结合外部定价 API 做决策的工程师。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-25T02:14:00.418840+00:00",
+  "analyzed_at": "2026-10-25T02:14:29.283761+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

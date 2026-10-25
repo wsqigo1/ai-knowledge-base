@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-015",
+  "title": "Making My Blog Readable by AI Agents",
+  "source": "hackernews-top",
+  "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+  "summary": "该文章介绍作者如何改造个人博客使其对 AI Agent 可读，核心是让 LLM 驱动的爬虫与助手能高效解析博客内容。文章聚焦于为 AI 消费优化网页结构，涉及语义化 HTML、结构化数据（如 JSON-LD）、llms.txt 等新兴约定，以及内容分块与元数据标注等实践。技术亮点在于将传统面向人类的博客转化为对 AI Agent 友好的信息源，提升检索与摘要质量。适用场景包括个人站点、技术文档站及任何希望被 AI 工具正确索引的内容发布者。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "rag",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:15:12.680082+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

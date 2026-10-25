@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-005",
+  "title": "kukemc/bili-cli",
+  "source": "github-trending",
+  "url": "https://github.com/kukemc/bili-cli",
+  "summary": "bili-cli 是一个面向 AI Agent 的哔哩哔哩命令行工具，将扫码登录、视频浏览、评论、私信、发动态、投稿等 B 站操作封装为 CLI 命令，并统一输出 JSON，便于 Agent 解析与编排。它解决的是 Agent 难以直接调用 B 站 Web API、缺乏稳定结构化接口的问题，核心亮点在于以 agent-skills 形式提供可被 Claude Code 等工具直接调用的工具集，降低自动化脚本与 Agent 集成的门槛。适用于内容运营自动化、Agent 驱动的社媒互动、数据采集与投稿工作流等场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-25T02:14:00.418840+00:00",
+  "analyzed_at": "2026-10-25T02:14:34.834118+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}

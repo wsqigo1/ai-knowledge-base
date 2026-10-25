@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-25-006",
+  "title": "The Goose Programming Language",
+  "source": "hackernews-top",
+  "url": "https://aardappel.github.io/goose/",
+  "summary": "Goose 是一门面向 AI 时代的编程语言，旨在解决传统语言在表达 LLM 工作流、agent 编排与工具调用时缺乏原生抽象的问题。其核心亮点是将 prompt、tool-use、多步推理等概念作为一等语言构造，支持声明式定义 agent 行为与 MCP 工具集成，并内置对 workflow-automation 的建模能力。该语言适合构建可维护的 AI assistant、多 agent 系统及复杂 LLM 管道，尤其面向需要将 AI 逻辑从胶水代码升级为结构化程序的开发者场景。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-25T02:14:00.637454+00:00",
+  "analyzed_at": "2026-10-25T02:14:41.862112+00:00",
+  "organized_at": "2026-10-25T02:15:12.780247+00:00",
+  "status": "published"
+}
