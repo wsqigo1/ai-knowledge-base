@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-26-011",
+  "title": "JetBrains Thinkrail",
+  "source": "hackernews-top",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "summary": "JetBrains Thinkrail 是 JetBrains 推出的面向 AI 辅助编程的推理轨迹可视化与调试工具，旨在解决 LLM 在代码生成与 agent 工作流中推理过程不透明、难以定位错误的问题。核心技术亮点在于将模型的思考链（reasoning trace）以结构化时间线呈现，支持逐步检查 tool-use 调用、prompt 与中间输出，并与 IDE 开发流程集成。适用于 AI 工程师调试 code-generation agent、优化 prompt-engineering 流程以及评估多步推理任务的可靠性。",
+  "tags": [
+    "developer-tools",
+    "reasoning",
+    "code-generation",
+    "agent",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-26T02:14:14.022328+00:00",
+  "analyzed_at": "2026-10-26T02:15:22.119222+00:00",
+  "organized_at": "2026-10-26T02:15:35.624331+00:00",
+  "status": "published"
+}

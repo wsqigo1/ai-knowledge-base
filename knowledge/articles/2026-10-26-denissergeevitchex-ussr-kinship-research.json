@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-26-002",
+  "title": "DenisSergeevitch/ex-ussr-kinship-research",
+  "source": "github-trending",
+  "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+  "summary": "该项目是一个面向 AI agent（Codex、Claude Code）的家谱研究 skill，聚焦前苏联地区教会簿、民事、军事、驱逐与镇压档案的证据优先检索与推理。它解决的是历史档案分散、语言多样、证据链难以追溯的问题，通过结构化 agent skill 封装档案检索流程与来源引用机制，强调 evidence-first 而非生成式臆测，并支持多语言回复。技术亮点在于将领域知识（档案类型、地域、年代）编码为 agent 可调用的工作流，配合来源溯源约束降低幻觉。适用于家谱研究、历史档案数字化查询及 agent 领域 skill 设计参考。",
+  "tags": [
+    "agent",
+    "ai-assistant",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-26T02:14:13.852200+00:00",
+  "analyzed_at": "2026-10-26T02:14:23.762279+00:00",
+  "organized_at": "2026-10-26T02:15:35.624331+00:00",
+  "status": "published"
+}

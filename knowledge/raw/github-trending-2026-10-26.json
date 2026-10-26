@@ -1,0 +1,560 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-26T02:14:15.782596+00:00",
+  "date": "2026-10-26",
+  "count": 20,
+  "items": [
+    {
+      "title": "rddmwmddr/android-ad-cleaner",
+      "source": "github-trending",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stars": 883,
+      "language": "Python",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T16:46:03Z",
+      "summary": "该项目是一个基于 ADB 的 Android 系统广告清理工具，通过非 root 方式禁用国产安卓手机（如 ColorOS）中的系统广告、热搜、资讯推荐与营销推送，并支持一键还原。核心技术亮点在于将 debloat 操作封装为可被 AI 智能体调用的执行流程，降低普通用户操作门槛。适用场景包括个人手机去广告、企业设备批量配置，以及作为 agent 工具链中调用系统级操作的实践案例。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:17.488288+00:00"
+    },
+    {
+      "title": "dominikmartn/harp",
+      "source": "github-trending",
+      "url": "https://github.com/dominikmartn/harp",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "stars": 618,
+      "language": "Rust",
+      "topics": [],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-21T10:29:54Z",
+      "summary": "harp 是 Warp 的非官方 Rust 分支，面向同时运行多个 Claude Code 与 Codex agent 的开发者，提供统一侧边栏集中管理并高亮提示哪个 agent 需要人工介入。它解决多 agent 并行时终端窗口分散、状态难以追踪、切换成本高的问题。核心技术亮点在于以 Rust 实现的多会话编排与状态聚合，将 agent 输出与等待输入事件统一呈现，降低多 agent 协作的认知负担。适用场景包括多 agent 并行编码、长任务监控、以及需要人工审批节点的 agent 工作流。",
+      "tags": [
+        "multi-agent",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-26T02:14:19.228421+00:00"
+    },
+    {
+      "title": "udhaykumarbala/cleanyourtv-app",
+      "source": "github-trending",
+      "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+      "stars": 597,
+      "language": "Kotlin",
+      "topics": [
+        "adb",
+        "android-tv",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T12:26:12Z",
+      "summary": "Cleanyourtv 是一个社区构建的 Kotlin Android 应用，通过手机端 ADB 连接清理 Android TV、Fire TV 和 Google TV 上的预装/冗余应用，实现无需笔记本、无需编码代理的 debloat 操作。核心亮点是将 ADB 调试与包管理封装为移动端一键式流程，降低普通用户清理电视系统的门槛。适用于家庭用户优化电视性能、开发者快速调试 TV 设备预装软件等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "adb",
+        "android-tv"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-26T02:14:21.502806+00:00"
+    },
+    {
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "source": "github-trending",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stars": 538,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T21:13:42Z",
+      "summary": "该项目是一个面向 AI agent（Codex、Claude Code）的家谱研究 skill，聚焦前苏联地区教会簿、民事、军事、驱逐与镇压档案的证据优先检索与推理。它解决的是历史档案分散、语言多样、证据链难以追溯的问题，通过结构化 agent skill 封装档案检索流程与来源引用机制，强调 evidence-first 而非生成式臆测，并支持多语言回复。技术亮点在于将领域知识（档案类型、地域、年代）编码为 agent 可调用的工作流，配合来源溯源约束降低幻觉。适用于家谱研究、历史档案数字化查询及 agent 领域 skill 设计参考。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-26T02:14:23.762279+00:00"
+    },
+    {
+      "title": "Alejandros17487/ai-jailbreaks",
+      "source": "github-trending",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "stars": 484,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-21T14:49:16Z",
+      "summary": "该项目是一个面向 AI 安全研究与红队测试的开源越狱提示词资源库，收录 35 条可直接粘贴使用的 jailbreak prompts，覆盖 25+ 前沿闭源与开放权重模型。它解决的是安全研究者在评估模型防护边界时缺乏标准化、可复现测试素材的问题，提供 system prompts、AGENTS.md 规范以及 Ollama Modelfiles 三种交付形态，便于在本地或 API 环境中快速部署测试。核心技术亮点在于提示词按模型与攻击面分类组织，并适配 agent 场景的规范文件，降低复现成本。适用场景包括模型安全对齐评估、红队演练、越狱防御策略研究及隐私泄露风险测试。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "open-source",
+        "benchmark",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-26T02:14:26.540439+00:00"
+    },
+    {
+      "title": "lesnolie/Tigris",
+      "source": "github-trending",
+      "url": "https://github.com/lesnolie/Tigris",
+      "description": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+      "stars": 484,
+      "language": "Kotlin",
+      "topics": [],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-26T02:08:43Z",
+      "summary": "Tigris 是一个用 Kotlin 编写的 Android TV 启动器，复刻 tvOS 27 的视觉与交互风格，提供 Liquid Glass 风格的 Dock、Top Shelf、玻璃质感的 Control Center 以及照片屏保。它解决的是 Android TV 原生界面缺乏精致感与统一设计语言的问题，让电视端获得接近 Apple TV 的沉浸式体验。核心技术亮点在于用 Kotlin 实现复杂的玻璃拟态渲染、动画过渡与 TV 端焦点导航，并支持 Agent 一键安装。适用场景为 Android TV 盒子/电视用户追求高颜值桌面、开发者研究 TV 端 UI 渲染与焦点交互。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-26T02:14:28.400078+00:00"
+    },
+    {
+      "title": "jss8649/quiet-tizen",
+      "source": "github-trending",
+      "url": "https://github.com/jss8649/quiet-tizen",
+      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
+      "stars": 385,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "debloat",
+        "launcher",
+        "samsung-tv",
+        "smart-tv",
+        "tizen"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-20T17:24:38Z",
+      "summary": "该项目是面向三星 U8000F 电视（Tizen 9 系统）的原生 Quiet Home 启动器，配套可逆的 debloat 清理工具和一份供 agent 读取的指南。它解决智能电视预装臃肿、广告与后台服务干扰的问题，让用户获得更干净、可控的电视使用体验。核心技术亮点在于原生 launcher 替换、可回滚的清理脚本，以及面向 AI agent 的结构化文档设计。适用场景为智能电视去广告、系统精简与家庭媒体设备定制。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-26T02:14:30.503475+00:00"
+    },
+    {
+      "title": "wangrongding/tv-fresh",
+      "source": "github-trending",
+      "url": "https://github.com/wangrongding/tv-fresh",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "stars": 379,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T17:33:37Z",
+      "summary": "tv-fresh 是一个面向小米电视(MIUI TV)的 Agent Skill 工具集，用于去广告、清理预装应用、更换桌面、配置代理与影视仓，实现免 root 且可逆的系统优化。其核心亮点在于提供固件逆向实录与一键 Shell 脚本，降低了普通用户改造电视系统的门槛。该项目虽非 AI/LLM 技术，但作为 Agent Skill 的实践案例，展示了 agent 在设备自动化运维中的潜力，适用于智能家居设备定制与逆向工程学习场景。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-26T02:14:32.107867+00:00"
+    },
+    {
+      "title": "actionow-ai/vvv",
+      "source": "github-trending",
+      "url": "https://github.com/actionow-ai/vvv",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "stars": 374,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T04:32:13Z",
+      "summary": "vvv 是 actionow-ai 开源的视频模板复用工具，核心思路是「一次构建视频模板，跨 coding agent 复用」。它提供可编辑的 Remotion 模板，并封装为 Agent Skill，可被 Claude Code、Codex 等 25+ 个 coding agent 直接调用。解决的问题是：AI 编程助手在生成视频相关内容时缺乏可复用、可编辑的模板资产，导致每次都要从零生成代码。技术亮点在于将 Remotion（React 视频框架）模板与 Agent Skill 机制结合，让 agent 能按需加载并修改模板，而非硬编码。适用场景包括：为 coding agent 扩展视频生成能力、批量产出营销/演示视频、以及构建 agent 可调用的多媒体工作流。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:34.240869+00:00"
+    },
+    {
+      "title": "routerhubSI/uncensored-ai-api",
+      "source": "github-trending",
+      "url": "https://github.com/routerhubSI/uncensored-ai-api",
+      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": 365,
+      "language": null,
+      "topics": [
+        "abliterated-models",
+        "ai-api",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api",
+        "claude-code",
+        "cursor",
+        "deepseek-api",
+        "gemini-api",
+        "glm-api",
+        "gpt-api",
+        "grok-api",
+        "llm-api",
+        "openai-compatible",
+        "opencode",
+        "qwen-api",
+        "uncensored-ai",
+        "uncensored-ai-api",
+        "uncensored-ai-model",
+        "uncensored-llm"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-24T17:09:17Z",
+      "summary": "routerhubSI/uncensored-ai-api 是一个聚合式 AI API 网关，通过单一密钥统一接入 Claude、GPT、Gemini、Grok、DeepSeek、GLM、Qwen 等主流模型，并提供 uncensored 与 abliterated 变体。它解决多模型接入时密钥分散、接口不统一以及内容审查限制的问题。核心技术亮点是同时兼容 OpenAI 与 Anthropic API 协议，按 token 计费，并支持 abliterated 模型路由。适用场景包括需要多模型对比的 AI 应用开发、对内容自由度有要求的对话系统，以及希望降低多供应商集成成本的工程团队。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:36.108814+00:00"
+    },
+    {
+      "title": "zengshuangzi/mcd-money-saver",
+      "source": "github-trending",
+      "url": "https://github.com/zengshuangzi/mcd-money-saver",
+      "description": "基于麦当劳MCP的智能省钱助手",
+      "stars": 349,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-23T07:46:53Z",
+      "summary": "该项目是基于麦当劳 MCP（Model Context Protocol）构建的智能省钱助手，通过接入麦当劳官方或第三方 MCP 服务获取菜单、优惠券与门店信息，结合 LLM 推理为用户推荐最优点餐组合与优惠策略。核心技术亮点在于将 MCP 作为工具调用层，让大模型以标准化协议访问外部业务数据，实现从自然语言需求到具体省钱方案的多步推理与工具编排。项目以 Python 实现，代码量轻量，适合作为 MCP 工具调用与 agent 工作流的入门范例。适用场景包括个人点餐决策辅助、MCP 协议学习实践、以及将 LLM 与垂直业务 API 结合的 agent 原型开发。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:38.286480+00:00"
+    },
+    {
+      "title": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "source": "github-trending",
+      "url": "https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
+      "stars": 304,
+      "language": "Python",
+      "topics": [
+        "roblox"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-22T18:45:25Z",
+      "summary": "该项目是一个针对 Roblox 游戏的高性能 aimbot 脚本，通过自适应平滑跟踪与精确自动瞄准实现辅助瞄准功能。它解决了玩家在 Roblox 中手动瞄准精度不足的问题，核心技术亮点包括可配置的平滑跟踪算法、模块化结构设计以及对多数执行器的兼容性。脚本使用 Python 编写，便于快速部署和调整参数。适用场景主要为 Roblox 游戏中的自动化瞄准辅助，但需注意此类工具可能违反游戏服务条款，存在账号封禁风险，且与 AI/LLM 技术研究领域关联度较低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-26T02:14:40.233477+00:00"
+    },
+    {
+      "title": "qianshuixia/shrimpreel",
+      "source": "github-trending",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "stars": 269,
+      "language": "TypeScript",
+      "topics": [
+        "ai-video",
+        "cloudflare-d1",
+        "cloudflare-r2",
+        "cloudflare-workers",
+        "fal-ai",
+        "hono",
+        "image-to-video",
+        "react",
+        "saas-boilerplate",
+        "saas-template",
+        "tanstack-start",
+        "typescript"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T12:18:01Z",
+      "summary": "这是一个开源 SaaS 模板，实现「一张照片生成跟随爆款模板的 AI 视频」的完整站点，并支持按热门关键词批量部署独立站点。它解决 AI 视频生成产品从零搭建全栈基础设施与变现链路的重复劳动问题。技术亮点包括 Cloudflare Workers 边缘运行时配合 D1/R2/KV/Queues 的 serverless 数据与任务编排、TanStack Start + Hono 的前后端架构、Google 登录与 credit packs 计费（Waffo/Dodo）、fal.ai 视频生成接入及 admin 控制台。适用于快速验证 AI 视频工具类 SaaS、多关键词矩阵站群运营及学习边缘全栈 AI 产品落地。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-26T02:14:42.569981+00:00"
+    },
+    {
+      "title": "lovisdotio/motion2code",
+      "source": "github-trending",
+      "url": "https://github.com/lovisdotio/motion2code",
+      "description": "Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source",
+      "stars": 262,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "claude-code",
+        "gsap",
+        "motion-design",
+        "svg",
+        "video-to-code"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-20T04:21:52Z",
+      "summary": "该项目为 coding agent 提供一套技能（Skills），用于将 motion design 视频逐帧还原为可循环的 SVG + GSAP 代码。它解决的是设计稿到前端动画代码转换中人工复现成本高、细节易丢失的问题。核心亮点在于以 agent-skills 形式封装工作流，并引入逐帧比对校验机制，确保生成动画与源视频在时间轴和视觉上对齐。适用于前端动画开发、设计还原自动化及 Claude Code 等 agent 的动画生成场景。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:44.495150+00:00"
+    },
+    {
+      "title": "Charonyuu/whatsmyagentdoing",
+      "source": "github-trending",
+      "url": "https://github.com/Charonyuu/whatsmyagentdoing",
+      "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
+      "stars": 229,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "dashboard",
+        "threejs"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-25T19:11:47Z",
+      "summary": "这是一个面向 Claude Code 与 Codex 多 agent 场景的可视化监控工具，将本机运行的每个 agent 状态实时映射到 Three.js 渲染的小型办公室场景中，让开发者直观看到各 agent 当前在做什么。它解决了多 agent 并行工作时状态不可见、调试与调度缺乏直观反馈的问题。核心技术亮点是基于 JavaScript 与 Three.js 的实时可视化仪表盘，结合 agent 事件流做状态同步。适合同时运行多个编码 agent 的开发者做本地观测与演示。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multi-agent",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:46.435147+00:00"
+    },
+    {
+      "title": "jouaaaaaa/mcd-self-butler",
+      "source": "github-trending",
+      "url": "https://github.com/jouaaaaaa/mcd-self-butler",
+      "description": "麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。",
+      "stars": 223,
+      "language": "Python",
+      "topics": [
+        "credit-scoring",
+        "mcdonalds",
+        "mcp",
+        "nutrition",
+        "python",
+        "skill",
+        "workbuddy"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-24T04:39:19Z",
+      "summary": "该项目是基于麦当劳 MCP 构建的点单参谋工具，通过 MCP 协议接入麦当劳点单服务，提供每日推荐、套餐营养分析、门店全成本比价、团餐配餐、信用评级及趣味小剧场等功能。其核心亮点在于将 MCP tool-use 范式应用于餐饮消费决策场景，结合营养学与信用评分模型，展示了 LLM 驱动的个性化推荐与多维度成本优化能力。适用于 AI 工程师研究 MCP 协议落地实践、餐饮零售场景的智能助手开发，以及作为 1024 程序员节创意参考。",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "ai-assistant",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:48.281357+00:00"
+    },
+    {
+      "title": "7API/uncensored-ai-api",
+      "source": "github-trending",
+      "url": "https://github.com/7API/uncensored-ai-api",
+      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": 217,
+      "language": null,
+      "topics": [
+        "abliterated-models",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api",
+        "claude-code",
+        "deepseek-api",
+        "gemini-api",
+        "glm-api",
+        "gpt-api",
+        "grok-api",
+        "kimi-api",
+        "no-refusal-ai",
+        "openai-compatible",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-api",
+        "uncensored-ai-model",
+        "uncensored-llm",
+        "uncensored-model",
+        "unfiltered-ai"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-23T06:24:13Z",
+      "summary": "该项目是一个多模型统一 API 网关，通过单一密钥接入 Claude、GPT、Gemini、Grok、DeepSeek、GLM、Kimi 等主流 LLM，并提供 uncensored 与 abliterated 变体。它解决多供应商 API 密钥分散、接口协议不统一的问题，同时为需要绕过内容审查的研究场景提供替代通道。核心技术亮点是 OpenAI 与 Anthropic 双协议兼容，按 token 计费，可作为 Claude Code 等工具的后端。适用场景包括多模型对比评测、内容审核研究、以及需要统一网关降低集成成本的 AI 应用开发。",
+      "tags": [
+        "large-language-model",
+        "ai-gateway",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-26T02:14:50.272505+00:00"
+    },
+    {
+      "title": "huaxialucaicaizi/ai-startup-skills",
+      "source": "github-trending",
+      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "stars": 214,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "business-plan",
+        "claude-code",
+        "codex",
+        "cursor",
+        "entrepreneurship",
+        "growth",
+        "mvp-validation",
+        "one-person-company",
+        "openai",
+        "pricing",
+        "startup"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-26T02:13:15Z",
+      "summary": "该项目是面向 AI 创业者的 Agent Skill 合集，将创业流程拆解为验证、BP、政策、路演、获客、定价、注册七个阶段，每个阶段封装为可复用的 Agent 技能。它解决的是 AI 创业者在从想法到落地过程中缺乏结构化方法论和可执行工具的问题。核心技术亮点在于以 Claude Code、Codex 等 coding agent 为运行载体，用 Python 实现技能编排，把商业流程转化为 agent 可调用的 prompt-engineering 与 workflow-automation 资产。适用场景包括早期 AI 产品验证、商业计划撰写、合规政策查询和增长策略制定。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-26T02:14:52.073729+00:00"
+    },
+    {
+      "title": "YoyoLin008/mcreplay",
+      "source": "github-trending",
+      "url": "https://github.com/YoyoLin008/mcreplay",
+      "description": "McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.",
+      "stars": 206,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-24T18:56:03Z",
+      "summary": "McReplay 是面向麦当劳中国集成场景的 Python 工具，提供结构化快照、变更报告与本地 MCP 回放能力。它解决的是第三方系统对接过程中接口变更难以追踪、线上问题难以复现的痛点，通过记录集成状态快照并生成差异报告，让开发者可离线重放 MCP 交互以定位问题。核心技术亮点在于将 MCP 协议交互与快照对比结合，形成可审计的本地回放链路。适用于企业级 API 集成调试、变更影响评估与故障复现等场景。",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-26T02:14:53.846614+00:00"
+    },
+    {
+      "title": "lklbar666/mcd-saver-checkup",
+      "source": "github-trending",
+      "url": "https://github.com/lklbar666/mcd-saver-checkup",
+      "description": "麦当劳省钱体检：不看你想吃什么，先看你已经亏在哪。基于麦当劳中国 MCP 的差价审计 Skill——枚举所有买法，用 calculate-price 逐个复算，报差额、归因与凑单临界点。",
+      "stars": 204,
+      "language": "HTML",
+      "topics": [
+        "agent-skill",
+        "chinese",
+        "mcdonalds",
+        "mcp",
+        "price-audit",
+        "python"
+      ],
+      "collected_at": "2026-10-26T02:14:13.852200+00:00",
+      "published_at": "2026-10-24T08:58:14Z",
+      "summary": "该项目是一个基于麦当劳中国 MCP 的差价审计 Agent Skill，名为「麦当劳省钱体检」。它不按用户想吃什么来推荐，而是枚举所有可能的购买组合（单品、套餐、优惠券、凑单等），调用 MCP 的 calculate-price 接口逐个复算实际价格，找出用户已下单或计划下单方案中的差价损失，并给出差额金额、归因分析（如优惠券未叠加、套餐拆分更便宜）以及凑单临界点建议。核心技术亮点在于将 MCP 工具调用与穷举式价格复算结合，把「省钱」这一模糊需求转化为可验证的审计流程，并以 Skill 形式封装便于 Agent 复用。适用场景包括个人消费决策辅助、MCP 工具链演示、以及 Agent Skill 设计模式参考。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-26T02:14:55.994445+00:00"
+    }
+  ]
+}
