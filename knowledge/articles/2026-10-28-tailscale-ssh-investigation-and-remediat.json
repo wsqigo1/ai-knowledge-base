@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-28-016",
+  "title": "Tailscale SSH: Investigation and remediation update",
+  "source": "hackernews-top",
+  "url": "https://tailscale.com/ssh-investigation-update",
+  "summary": "Tailscale SSH 是 Tailscale 基于 WireGuard 的零信任远程访问方案中的 SSH 功能，本次条目为官方发布的安全调查与修复更新，披露了 Tailscale SSH 中可能影响认证与访问控制的安全问题及相应补丁。核心技术亮点在于将 SSH 认证从传统密钥管理迁移到基于身份与 ACL 的零信任模型，并通过集中策略控制访问。该更新对使用 Tailscale SSH 的工程团队具有直接运维价值，适用于远程开发、内网服务访问和基础设施安全加固场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:30.802313+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

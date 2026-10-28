@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-28-017",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "source": "hackernews-top",
+  "url": "https://www.brangus.io/survival-llm",
+  "summary": "Survival LLM 是一个可在本地计算机离线运行的 AI 助手与应急知识库，面向断网、灾难或基础设施不可用场景提供关键信息检索与问答。它解决的是云端 LLM 在无网络环境下不可用、隐私数据外泄以及应急资料分散的问题。核心技术亮点在于完全本地化部署的开源 LLM 推理，结合离线向量检索（RAG）构建应急文档库，并针对低资源设备优化模型体积与响应速度。适用场景包括野外作业、灾害应急、隐私敏感环境及个人离线知识管理。",
+  "tags": [
+    "large-language-model",
+    "rag",
+    "open-source",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:32.730066+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

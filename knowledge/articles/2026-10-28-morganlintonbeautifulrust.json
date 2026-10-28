@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-28-002",
+  "title": "morganlinton/BeautifulRust",
+  "source": "github-trending",
+  "url": "https://github.com/morganlinton/BeautifulRust",
+  "summary": "BeautifulRust 是一组面向 coding agent 的 Agent Skills 集合，教 Claude Code、Codex、Copilot、Cursor、Gemini CLI 等工具编写、审查和移植 idiomatic Rust，并附带经过测试的 clippy 配置。它解决的是 LLM 生成 Rust 代码时常见的不地道写法与 lint 违规问题，核心亮点在于将 Rust 最佳实践与 clippy 规则封装为可复用的 agent skill，让不同 agent 平台共享同一套代码质量约束。适用于使用 AI 辅助进行 Rust 开发、代码迁移或代码审查的工程团队。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-28T02:58:42.186116+00:00",
+  "analyzed_at": "2026-10-28T02:58:49.527099+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

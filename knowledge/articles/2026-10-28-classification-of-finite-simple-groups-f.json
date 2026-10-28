@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-28-019",
+  "title": "Classification of Finite Simple Groups Formalized in Lean",
+  "source": "hackernews-top",
+  "url": "https://cfsg.axiommath.ai/",
+  "summary": "该条目报道了有限单群分类（Classification of Finite Simple Groups）在 Lean 定理证明器中的形式化工作。有限单群分类是数学史上最庞大的定理之一，证明长达数万页，形式化它旨在为这一核心数学成果提供机器可验证的严格基础。核心技术亮点在于利用 Lean 的依赖类型论和交互式证明辅助，将高度复杂的数学证明拆解为可机械检验的步骤，涉及大量群论概念与证明工程。适用场景包括数学形式化研究、定理证明器开发、以及为 AI 数学推理提供可信基准。",
+  "tags": [
+    "reasoning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:43.389800+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

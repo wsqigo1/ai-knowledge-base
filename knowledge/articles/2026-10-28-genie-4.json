@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-28-013",
+  "title": "Genie 4",
+  "source": "hackernews-top",
+  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "summary": "Genie 4 是 Google DeepMind 推出的生成式交互环境模型，可根据单张图像或文本提示实时生成可玩的 3D 世界，并支持逐帧交互。它解决了传统世界模型生成速度慢、交互性差、物理一致性不足的问题，核心技术亮点包括自回归潜扩散架构、实时帧级生成（约 20fps）、长时程记忆与物理规律隐式建模。适用场景涵盖游戏原型设计、具身智能仿真训练、机器人策略学习及交互式内容创作。",
+  "tags": [
+    "multimodal",
+    "reasoning",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:25.029943+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

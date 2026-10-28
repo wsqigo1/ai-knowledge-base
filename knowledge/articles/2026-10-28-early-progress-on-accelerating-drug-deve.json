@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-28-015",
+  "title": "Early progress on accelerating drug development with Claude",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/early-progress-drug-development",
+  "summary": "Anthropic 发布 Claude 在药物早期研发中的阶段性进展，探索用 LLM 加速靶点发现、文献整合与实验方案设计。核心思路是将 Claude 作为研究助手嵌入药物发现工作流，结合 tool-use 与 agent 能力调用外部数据库和计算工具，减少人工文献筛选与假设生成的时间成本。亮点在于将通用大模型能力落地到高门槛生物医药场景，并强调可验证性与人机协作边界。适用场景包括药企研发团队、生物信息学分析、科研文献综述自动化及早期靶点评估。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:28.931405+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

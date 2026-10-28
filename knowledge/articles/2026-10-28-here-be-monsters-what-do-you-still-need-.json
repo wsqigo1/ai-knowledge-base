@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-28-022",
+  "title": "Here be monsters: What do you still need to know when agents do the work?",
+  "source": "hackernews-top",
+  "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+  "summary": "该文探讨当 AI agent 承担实际工作后，人类仍需掌握哪些关键知识来设计、监督与调试 agent 系统。核心问题在于 agent 自主执行任务时，开发者对底层机制、失败模式与边界条件的理解缺口。文章强调需关注 agent 的决策可解释性、工具调用可靠性、错误传播与回滚机制，以及人机协作中的责任划分。技术亮点在于从工程实践角度梳理 agent 系统的隐性知识需求，而非单纯模型能力。适用场景包括构建生产级 agent 工作流、设计 human-in-the-loop 流程及评估 agent 部署风险。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "tool-use",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:58.309696+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

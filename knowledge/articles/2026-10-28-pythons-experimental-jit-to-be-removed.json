@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-28-018",
+  "title": "Python's experimental JIT to be removed",
+  "source": "hackernews-top",
+  "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+  "summary": "CPython 官方宣布将移除实验性 JIT 编译器，该 JIT 曾作为 Python 3.13 的预览特性引入，旨在通过运行时编译提升解释器性能。移除原因包括维护成本高、性能收益未达预期、与现有优化路径冲突。核心技术点在于 JIT 依赖的 copy-and-patch 编译策略在动态语言场景下难以稳定优化，且对启动时间和内存开销有负面影响。此决策影响关注 Python 性能优化的开发者，提示短期性能提升仍依赖 C 扩展与替代运行时（如 PyPy），适用于评估 Python 生态性能演进路线的工程团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-28T02:58:42.380258+00:00",
+  "analyzed_at": "2026-10-28T02:59:39.369581+00:00",
+  "organized_at": "2026-10-28T03:00:02.407372+00:00",
+  "status": "published"
+}

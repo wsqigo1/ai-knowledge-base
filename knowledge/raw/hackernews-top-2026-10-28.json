@@ -1,0 +1,400 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-28T02:58:43.740293+00:00",
+  "date": "2026-10-28",
+  "count": 20,
+  "items": [
+    {
+      "title": "Genie 4",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319",
+      "description": "",
+      "hn_score": 761,
+      "comments": 462,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Genie 4 是 Google DeepMind 推出的生成式交互环境模型，可根据单张图像或文本提示实时生成可玩的 3D 世界，并支持逐帧交互。它解决了传统世界模型生成速度慢、交互性差、物理一致性不足的问题，核心技术亮点包括自回归潜扩散架构、实时帧级生成（约 20fps）、长时程记忆与物理规律隐式建模。适用场景涵盖游戏原型设计、具身智能仿真训练、机器人策略学习及交互式内容创作。",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-10-28T02:59:25.029943+00:00"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "source": "hackernews-top",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "hn_url": "https://news.ycombinator.com/item?id=50261998",
+      "description": "",
+      "hn_score": 814,
+      "comments": 244,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Ghostty 1.4 是一款开源终端模拟器的新版本发布，主打高性能与原生体验。它解决了传统终端在渲染性能、跨平台一致性和现代功能集成上的不足，核心技术亮点包括 GPU 加速渲染、原生 UI 框架集成以及低延迟输入处理。该版本在 Hacker News 获得 814 分的高热度，表明开发者社区对其关注度较高。适用场景为需要高效命令行操作的开发者、运维人员及 AI 工程师的日常开发与调试工作流。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:26.826280+00:00"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "hn_url": "https://news.ycombinator.com/item?id=50265609",
+      "description": "",
+      "hn_score": 148,
+      "comments": 129,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Anthropic 发布 Claude 在药物早期研发中的阶段性进展，探索用 LLM 加速靶点发现、文献整合与实验方案设计。核心思路是将 Claude 作为研究助手嵌入药物发现工作流，结合 tool-use 与 agent 能力调用外部数据库和计算工具，减少人工文献筛选与假设生成的时间成本。亮点在于将通用大模型能力落地到高门槛生物医药场景，并强调可验证性与人机协作边界。适用场景包括药企研发团队、生物信息学分析、科研文献综述自动化及早期靶点评估。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-28T02:59:28.931405+00:00"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "source": "hackernews-top",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "hn_url": "https://news.ycombinator.com/item?id=50264857",
+      "description": "",
+      "hn_score": 212,
+      "comments": 114,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Tailscale SSH 是 Tailscale 基于 WireGuard 的零信任远程访问方案中的 SSH 功能，本次条目为官方发布的安全调查与修复更新，披露了 Tailscale SSH 中可能影响认证与访问控制的安全问题及相应补丁。核心技术亮点在于将 SSH 认证从传统密钥管理迁移到基于身份与 ACL 的零信任模型，并通过集中策略控制访问。该更新对使用 Tailscale SSH 的工程团队具有直接运维价值，适用于远程开发、内网服务访问和基础设施安全加固场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:30.802313+00:00"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "source": "hackernews-top",
+      "url": "https://www.brangus.io/survival-llm",
+      "hn_url": "https://news.ycombinator.com/item?id=50264853",
+      "description": "",
+      "hn_score": 210,
+      "comments": 108,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Survival LLM 是一个可在本地计算机离线运行的 AI 助手与应急知识库，面向断网、灾难或基础设施不可用场景提供关键信息检索与问答。它解决的是云端 LLM 在无网络环境下不可用、隐私数据外泄以及应急资料分散的问题。核心技术亮点在于完全本地化部署的开源 LLM 推理，结合离线向量检索（RAG）构建应急文档库，并针对低资源设备优化模型体积与响应速度。适用场景包括野外作业、灾害应急、隐私敏感环境及个人离线知识管理。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "open-source",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:59:32.730066+00:00"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "source": "hackernews-top",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "hn_url": "https://news.ycombinator.com/item?id=50265594",
+      "description": "",
+      "hn_score": 111,
+      "comments": 43,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该条目报道在 Linux 设备树（device tree）中发现 Raspberry Pi Zero 3W 和 Pi 4 Model A 的硬件描述，表明树莓派基金会可能正在开发这两款新单板计算机。设备树是嵌入式 Linux 内核用于描述硬件配置的机制，提前出现新设备条目通常意味着产品已进入开发或测试阶段。核心亮点在于通过开源内核代码的公开提交间接曝光未发布硬件，体现了开源社区对硬件生态的早期洞察。该信息对嵌入式开发者、树莓派爱好者及边缘计算硬件选型具有参考价值，但并非 AI/LLM 技术内容。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "edge-computing",
+        "hardware"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-28T02:59:35.054131+00:00"
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261352",
+      "description": "",
+      "hn_score": 295,
+      "comments": 375,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "苹果发布搭载 M6 芯片的 14 英寸 MacBook Pro，属于硬件产品更新而非 AI/LLM 技术内容。该产品主要解决移动端高性能计算需求，核心亮点在于 M6 芯片的制程与能效提升、统一内存架构以及可能增强的 Neural Engine 算力，对本地运行 LLM 推理和开发工作流有一定间接帮助。适用场景为开发者日常编码、本地模型轻量推理与创意工作，但条目本身缺乏 AI 技术深度，对 AI 工程师的直接参考价值有限。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-28T02:59:37.045697+00:00"
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "source": "hackernews-top",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "hn_url": "https://news.ycombinator.com/item?id=50257419",
+      "description": "",
+      "hn_score": 456,
+      "comments": 246,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "CPython 官方宣布将移除实验性 JIT 编译器，该 JIT 曾作为 Python 3.13 的预览特性引入，旨在通过运行时编译提升解释器性能。移除原因包括维护成本高、性能收益未达预期、与现有优化路径冲突。核心技术点在于 JIT 依赖的 copy-and-patch 编译策略在动态语言场景下难以稳定优化，且对启动时间和内存开销有负面影响。此决策影响关注 Python 性能优化的开发者，提示短期性能提升仍依赖 C 扩展与替代运行时（如 PyPy），适用于评估 Python 生态性能演进路线的工程团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:39.369581+00:00"
+    },
+    {
+      "title": "New iMac with M6",
+      "source": "hackernews-top",
+      "url": "https://www.apple.com/imac/",
+      "hn_url": "https://news.ycombinator.com/item?id=50258538",
+      "description": "",
+      "hn_score": 317,
+      "comments": 383,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "苹果发布搭载 M6 芯片的新款 iMac，属于消费级桌面硬件更新，与 AI/LLM 工程无直接关联。该产品主要解决一体机用户的性能与能效需求，核心亮点在于 M6 芯片的制程与算力提升、统一内存架构以及可能增强的本地推理能力。对 AI 工程师而言，其价值仅限于作为本地开发或轻量模型推理的终端设备，缺乏模型、框架、工具链层面的技术深度，且 HN 讨论热度中等（317 分），领域匹配度低。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-28T02:59:41.202008+00:00"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "source": "hackernews-top",
+      "url": "https://cfsg.axiommath.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261647",
+      "description": "",
+      "hn_score": 178,
+      "comments": 45,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该条目报道了有限单群分类（Classification of Finite Simple Groups）在 Lean 定理证明器中的形式化工作。有限单群分类是数学史上最庞大的定理之一，证明长达数万页，形式化它旨在为这一核心数学成果提供机器可验证的严格基础。核心技术亮点在于利用 Lean 的依赖类型论和交互式证明辅助，将高度复杂的数学证明拆解为可机械检验的步骤，涉及大量群论概念与证明工程。适用场景包括数学形式化研究、定理证明器开发、以及为 AI 数学推理提供可信基准。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-28T02:59:43.389800+00:00"
+    },
+    {
+      "title": "Hex Raises $100M",
+      "source": "hackernews-top",
+      "url": "https://hex.tech/blog/hex-new-era/",
+      "hn_url": "https://news.ycombinator.com/item?id=50265413",
+      "description": "",
+      "hn_score": 56,
+      "comments": 35,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Hex 是一家专注于数据科学与分析协作平台的公司，宣布完成 1 亿美元融资。该平台解决数据团队在探索性分析、协作 notebook 与 AI 辅助洞察之间的割裂问题，将 SQL、Python、可视化与 LLM 驱动的自然语言查询整合到统一工作流中。核心技术亮点在于其 AI 助手可基于语义层理解数据上下文，生成可复现的分析代码与图表，并支持多人实时协作与版本控制。适用场景包括企业数据团队进行快速探索性分析、构建可共享的数据看板，以及借助 AI 降低非技术成员的数据查询门槛。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-28T02:59:45.399357+00:00"
+    },
+    {
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "source": "hackernews-top",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "hn_url": "https://news.ycombinator.com/item?id=50259604",
+      "description": "",
+      "hn_score": 814,
+      "comments": 297,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该条目报道美国政府隐瞒了一项关于其如何监控美国人的秘密法庭裁决，涉及外国情报监视法（FISA）相关程序。它解决的是公众对政府监控权力透明度的知情问题，核心亮点在于揭示秘密法律裁决的存在及其对公民隐私的潜在影响。适用场景为隐私权倡导、法律政策研究与公民监督。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-10-28T02:59:47.267330+00:00"
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "source": "hackernews-top",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "hn_url": "https://news.ycombinator.com/item?id=50262229",
+      "description": "",
+      "hn_score": 124,
+      "comments": 51,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "LFM3 是 Liquid AI 推出的新一代基础模型系列，主打「任意模态」的专用智能（Specialized Intelligence）。它解决的是通用大模型在特定任务上效率低、成本高、难以端侧部署的问题，通过面向多模态（文本、音频、视觉等）的轻量化架构实现专用化能力。核心技术亮点包括基于液态神经网络（Liquid Neural Networks）的高效推理架构、多模态统一处理，以及在资源受限设备上的低延迟表现。适用场景涵盖端侧 AI 助手、实时多模态交互、边缘计算与垂直领域专用模型部署。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "ai-assistant",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:59:49.225824+00:00"
+    },
+    {
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "source": "hackernews-top",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "hn_url": "https://news.ycombinator.com/item?id=50245014",
+      "description": "",
+      "hn_score": 145,
+      "comments": 22,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该条目讨论美光（Micron）突然放弃4F² DRAM架构，而竞争对手（如三星、SK海力士）仍在加码该技术。4F² DRAM旨在通过更紧凑的单元布局提升存储密度，但美光转向其他方案可能涉及成本、良率或技术路线权衡。核心亮点在于存储芯片架构的路线分歧，对AI硬件基础设施的长期演进有潜在影响。适用场景为半导体制造、存储技术研发及AI算力硬件规划。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-28T02:59:51.200397+00:00"
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "hn_url": "https://news.ycombinator.com/item?id=50266701",
+      "description": "",
+      "hn_score": 26,
+      "comments": 15,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Anthropic 宣布扩大与美国总务管理局（GSA）的合作，将 Claude 模型引入联邦、州及地方政府各层级。该合作解决政府机构在合规、安全前提下获取先进 LLM 能力的问题，核心亮点是通过 GSA 采购渠道降低政府采用门槛，并强调政府级安全与合规部署。适用场景包括政府文档处理、公共服务问答、内部流程自动化等受监管环境下的 AI 助手应用。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-28T02:59:52.830441+00:00"
+    },
+    {
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "source": "hackernews-top",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "hn_url": "https://news.ycombinator.com/item?id=50263854",
+      "description": "",
+      "hn_score": 272,
+      "comments": 143,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "Discord 宣布将允许公开服务器的消息通过 Google 等搜索引擎被检索，用户无需加入服务器即可搜索到公开频道的历史内容。这解决了公开社区内容长期封闭、难以被外部发现和索引的问题，提升了信息可达性与社区曝光度。核心技术点在于平台对公开/私有内容的可见性分级与搜索引擎索引策略的调整，涉及隐私边界与内容治理设计。对 AI 工程师而言，公开语料可被更广泛采集，可能影响对话数据获取与社区知识库构建，但需关注用户隐私与数据合规。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-28T02:59:54.580471+00:00"
+    },
+    {
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "source": "hackernews-top",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "hn_url": "https://news.ycombinator.com/item?id=50261589",
+      "description": "",
+      "hn_score": 281,
+      "comments": 198,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该条目报道 Amazon 在持续失败后对其 AI 部门进行大规模裁撤与重组，涉及 Alexa 团队及通用 AI 研发线的资源收缩。核心问题在于大厂 AI 战略投入与产出失衡，技术亮点有限，主要价值在于揭示企业级 AI 落地的组织与商业化困境。适用场景为 AI 战略决策、行业趋势研判与团队管理参考。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-10-28T02:59:56.305308+00:00"
+    },
+    {
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "source": "hackernews-top",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "hn_url": "https://news.ycombinator.com/item?id=50258868",
+      "description": "",
+      "hn_score": 160,
+      "comments": 87,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该文探讨当 AI agent 承担实际工作后，人类仍需掌握哪些关键知识来设计、监督与调试 agent 系统。核心问题在于 agent 自主执行任务时，开发者对底层机制、失败模式与边界条件的理解缺口。文章强调需关注 agent 的决策可解释性、工具调用可靠性、错误传播与回滚机制，以及人机协作中的责任划分。技术亮点在于从工程实践角度梳理 agent 系统的隐性知识需求，而非单纯模型能力。适用场景包括构建生产级 agent 工作流、设计 human-in-the-loop 流程及评估 agent 部署风险。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "tool-use",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:59:58.309696+00:00"
+    },
+    {
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "source": "hackernews-top",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "hn_url": "https://news.ycombinator.com/item?id=50260814",
+      "description": "",
+      "hn_score": 483,
+      "comments": 266,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该 HN 热帖披露 Anthropic 在训练 Claude 时使用了通过非法渠道获取的斯坦福大学教授书籍数据，涉及大规模预训练语料的版权合规问题。核心争议在于 LLM 训练数据来源的合法性与透明度，暴露出当前大模型预训练中数据采集环节的合规风险。技术亮点不在模型本身，而在于揭示了训练数据供应链的审计盲区，对理解 LLM 数据治理与版权边界具有参考价值。适用于关注大模型合规、数据版权及训练数据治理的 AI 工程师与研究者。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-28T03:00:00.236091+00:00"
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "source": "hackernews-top",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "hn_url": "https://news.ycombinator.com/item?id=50257326",
+      "description": "",
+      "hn_score": 460,
+      "comments": 211,
+      "collected_at": "2026-10-28T02:58:42.380258+00:00",
+      "published_at": "2026-10-28T02:58:42.380258+00:00",
+      "summary": "该条目讨论维基百科对AI生成内容的清理行动，即社区发现并移除由大语言模型批量生成的条目、摘要和引用。它解决的是AI生成低质或虚假内容污染知识库、破坏可信度的问题。核心亮点在于维基百科编辑者结合人工审核与自动化工具（如检测模型、引用核查）识别AI痕迹，并建立社区规范与治理流程。适用场景包括开放知识平台的内容治理、AI生成内容检测与标注、以及LLM输出质量评估与合规实践。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T03:00:02.338375+00:00"
+    }
+  ]
+}

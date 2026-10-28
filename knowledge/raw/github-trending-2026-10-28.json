@@ -1,0 +1,562 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-28T02:58:43.739802+00:00",
+  "date": "2026-10-28",
+  "count": 20,
+  "items": [
+    {
+      "title": "rddmwmddr/android-ad-cleaner",
+      "source": "github-trending",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stars": 3469,
+      "language": "Python",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T14:43:09Z",
+      "summary": "该项目是一个基于 ADB 的 Android 系统广告清理工具，通过脚本关闭国产手机（如 ColorOS）中的系统广告、热搜、资讯推荐和营销推送，无需 root 且操作可还原。核心技术亮点在于将 debloat 操作封装为可被 AI 智能体一键执行的流程，降低普通用户的使用门槛。适用场景包括安卓用户日常系统净化、AI agent 自动化运维演示，以及开发者研究 ADB 批量控制与设备去膨胀实践。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:58:45.463929+00:00"
+    },
+    {
+      "title": "t3dotgg/tstack",
+      "source": "github-trending",
+      "url": "https://github.com/t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "stars": 2025,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-28T02:38:03Z",
+      "summary": "t3dotgg/tstack 是知名开发者 Theo 公开的日常 agent skills 集合，面向 Claude Code 与 Codex 等编码 agent 使用。它解决的是编码 agent 在真实开发流程中缺乏可复用、经过实战检验的技能配置问题，让 agent 能按预设规则完成代码审查、重构、文档生成等任务。核心亮点在于以 Python 组织 skill 定义，直接对接主流 coding agent 的 skill 机制，强调日常可用性与工程实践沉淀。适用于使用 Claude Code 或 Codex 进行日常开发的工程师，可作为 agent 工作流配置的参考模板。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:58:47.587534+00:00"
+    },
+    {
+      "title": "morganlinton/BeautifulRust",
+      "source": "github-trending",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "stars": 1319,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "clippy",
+        "code-review",
+        "coding-agent",
+        "cursor",
+        "rust",
+        "style-guide"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T13:05:25Z",
+      "summary": "BeautifulRust 是一组面向 coding agent 的 Agent Skills 集合，教 Claude Code、Codex、Copilot、Cursor、Gemini CLI 等工具编写、审查和移植 idiomatic Rust，并附带经过测试的 clippy 配置。它解决的是 LLM 生成 Rust 代码时常见的不地道写法与 lint 违规问题，核心亮点在于将 Rust 最佳实践与 clippy 规则封装为可复用的 agent skill，让不同 agent 平台共享同一套代码质量约束。适用于使用 AI 辅助进行 Rust 开发、代码迁移或代码审查的工程团队。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:58:49.527099+00:00"
+    },
+    {
+      "title": "andyhuo520/digital-human-koubo",
+      "source": "github-trending",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stars": 1114,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-26T11:52:14Z",
+      "summary": "该项目是一个基于单张照片生成 AI 数字人口播视频的开源工具，通过 Renoise MCP 生成与 5 种剪辑风格、48 个创作者级包装组件组合，解决数字人视频制作门槛高、流程繁琐的问题。核心技术亮点在于将 MCP 协议与 Agent 技能（适配 Claude Code、Codex、OpenClaw、WorkBuddy）结合，实现从照片到成片的自动化工作流。适用于短视频内容创作、营销口播、虚拟主播等场景，对需要批量生产口播视频的创作者和开发者有较高实用价值。",
+      "tags": [
+        "mcp",
+        "agent",
+        "multimodal",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-10-28T02:58:51.368996+00:00"
+    },
+    {
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "source": "github-trending",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stars": 1063,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T22:34:04Z",
+      "summary": "该项目是一个面向 AI agent（Codex、Claude Code）的族谱研究 skill，聚焦前苏联地区的教会簿、民事、军事、驱逐与镇压档案。它解决的是历史档案检索中证据链断裂、来源不可追溯的问题，通过 evidence-first 设计让 agent 在回答时附带可核验的档案出处，并支持多语言回复。技术亮点在于将领域知识封装为 agent skill，结合结构化档案检索与来源引用机制，而非单纯依赖 LLM 生成。适用于家谱研究、历史档案数字化检索及需要可溯源证据的 agent 工作流场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "rag"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:58:53.578834+00:00"
+    },
+    {
+      "title": "ZiChuanLan/agent-purge",
+      "source": "github-trending",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "stars": 641,
+      "language": "JavaScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "deepseek-harness",
+        "harness",
+        "omp",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T17:39:35Z",
+      "summary": "agent-purge 是一个面向多编码代理（coding agent）的系统提示词统一管理工具，支持在 codex、claude、opencode、grok、omp、hermes、pi、zcode 等代理间替换或注入 system prompt，并保持单一 persona 一致。它解决多代理并行使用时提示词分散、难以统一维护的问题，核心亮点是本地 web console 与跨 harness 的 prompt 注入机制，降低切换成本。适用于需要跨多个 coding agent 统一行为规范、做 prompt 实验或团队协作的开发者场景。",
+      "tags": [
+        "prompt-engineering",
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:58:55.321403+00:00"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh",
+      "source": "github-trending",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "stars": 628,
+      "language": "HTML",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T14:32:23Z",
+      "summary": "该项目是一个面向 AI 绘画工作流的中文姿势参考图库，收录 1439 组、2878 张图片并完成完整汉化。它解决的是中文用户在 ControlNet、img2img 等场景下缺乏结构化、可检索姿势素材的问题。技术亮点在于零依赖静态画廊架构，纯 HTML 实现，可直接部署到 Cloudflare Pages，并内置 i18n 支持。适用场景包括 AI 绘画提示词参考、角色姿态设计、ControlNet 训练素材整理以及个人作品集展示。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-28T02:58:57.117182+00:00"
+    },
+    {
+      "title": "yaojingang/GEOInflow",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "stars": 618,
+      "language": "TypeScript",
+      "topics": [
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted",
+        "web-analytics"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-28T00:47:57Z",
+      "summary": "GEOInflow 是自托管的 Web 与 AI 爬虫分析平台，面向生成式引擎优化（GEO）。它解决品牌在 AI 搜索时代无法量化 AI 爬虫抓取、AI 搜索引荐流量与内容覆盖的问题。核心亮点包括：追踪访客与 AI 搜索引荐来源、记录爬虫日志、评估内容覆盖度与转化，基于 TypeScript 与 PostgreSQL 构建，支持自托管部署，MIT 许可。适用于内容运营、SEO/GEO 团队及关注 AI 搜索可见性的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-analytics",
+        "self-hosted",
+        "geo"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:58:58.952884+00:00"
+    },
+    {
+      "title": "stormydayy/halo-overlay",
+      "source": "github-trending",
+      "url": "https://github.com/stormydayy/halo-overlay",
+      "description": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
+      "stars": 515,
+      "language": "Python",
+      "topics": [
+        "ai-overlay",
+        "cheating-daddy",
+        "interview-cheating-tool",
+        "interview-helper",
+        "interview-overlay",
+        "live-conversation",
+        "meetings-cheating",
+        "meetings-overlay",
+        "zoom-meetings"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-25T19:19:08Z",
+      "summary": "halo-overlay 是一个轻量级开源 AI 叠加层工具，实时监听并理解现场对话（语音与画面），通过 LLM 即时生成回答建议并悬浮显示在屏幕上。其核心亮点在于低延迟的语音转写与多模态上下文理解管线，以及隐蔽的 overlay 呈现方式，让用户在视频会议或面试中实时获得提示。项目以 Python 实现，标签直指面试辅助场景，适合需要实时对话增强的开发者二次开发或研究实时 AI 助手架构。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-28T02:59:01.037764+00:00"
+    },
+    {
+      "title": "wangrongding/tv-fresh",
+      "source": "github-trending",
+      "url": "https://github.com/wangrongding/tv-fresh",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "stars": 515,
+      "language": "Shell",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-25T17:33:37Z",
+      "summary": "tv-fresh 是一个面向小米电视(MIUI TV)的 Agent Skill 工具集，通过免 root、可逆的 Shell 脚本实现去广告、清理预装应用、更换桌面启动器、配置代理与影视仓等功能。项目包含固件逆向分析实录与一键执行脚本，核心亮点在于无需破解系统分区即可完成深度定制，并支持操作回滚。适用于希望净化智能电视体验、去除厂商广告与冗余预装、搭建自定义影音环境的 AI 工程师与极客用户。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "agent",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:02.966347+00:00"
+    },
+    {
+      "title": "blakeandersonw/ai-app-playbook",
+      "source": "github-trending",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stars": 478,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-26T16:55:25Z",
+      "summary": "该项目是一个面向 2026 年的 AI 应用开发实战手册，以 TypeScript 代码库形式提供可克隆的模板，核心思路是让开发者将 coding agent 指向 AGENTS.md 文件，由 agent 引导完成从需求到上线的全流程。它解决的是 AI 应用从原型到盈利产品之间缺乏系统化工程指导的问题，将 prompt 设计、agent 编排、工具调用与产品化落地整合为可复用的 playbook。技术亮点在于以 AGENTS.md 作为 agent 可读的规范入口，实现 agent 驱动的开发工作流自动化。适用场景包括独立开发者快速构建 AI 产品、团队内部 AI 应用脚手架搭建，以及学习 agent 工程化实践。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:05.198117+00:00"
+    },
+    {
+      "title": "martinkeith700/ruyiJS",
+      "source": "github-trending",
+      "url": "https://github.com/martinkeith700/ruyiJS",
+      "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
+      "stars": 456,
+      "language": "C++",
+      "topics": [
+        "anti-bot",
+        "automation",
+        "browser",
+        "firefox",
+        "headless-browser",
+        "javascript",
+        "python",
+        "spider",
+        "spidermonkey",
+        "web-scraping"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T07:00:02Z",
+      "summary": "ruyiJS 是一个基于 C++ 开发的轻量级 AI headless browser 运行时，可通过 Python 调用，在真实浏览器环境中访问任意网站并提取数据与 token。它主要解决自动化爬取中遭遇的反爬与安全检测问题，核心亮点在于模拟真实浏览器指纹与行为以绕过 anti-bot 防护，并集成 AI 能力辅助页面理解与数据抽取。适用于需要高隐蔽性的数据采集、自动化测试、agent 工具链中的网页交互等场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "agent"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:07.161905+00:00"
+    },
+    {
+      "title": "huaxialucaicaizi/ai-startup-skills",
+      "source": "github-trending",
+      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "stars": 435,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "business-plan",
+        "claude-code",
+        "codex",
+        "cursor",
+        "entrepreneurship",
+        "growth",
+        "mvp-validation",
+        "one-person-company",
+        "openai",
+        "pricing",
+        "startup"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T05:23:35Z",
+      "summary": "该项目是面向 AI 创业者的 Agent Skill 合集，将创业流程拆解为验证、BP、政策、路演、获客、定价、注册七个阶段，每个阶段封装为可复用的 Agent Skill。它解决的是 AI 产品创业者在从想法到落地过程中缺乏结构化方法论和可执行工具的问题。核心技术亮点在于以 Claude Code、Codex 等 Agent 框架为载体，用 Python 实现技能编排，把商业流程转化为可被 LLM 调用的标准化技能。适用场景包括早期 AI 创业团队快速验证方向、生成商业计划、制定定价策略及合规注册等。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:09.320166+00:00"
+    },
+    {
+      "title": "hevnsnt/CVEngine",
+      "source": "github-trending",
+      "url": "https://github.com/hevnsnt/CVEngine",
+      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "stars": 421,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "attack-surface-management",
+        "bbot",
+        "cybersecurity",
+        "mcp",
+        "nmap",
+        "nuclei",
+        "vulnerability-scanner"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-28T02:52:49Z",
+      "summary": "CVEngine 是 AI-first 的外部攻击面评估工具，面向安全团队与 DevSecOps 场景，解决传统 ASM 扫描噪声大、漏洞验证依赖人工的问题。其核心亮点包括：基于 bbot 的持续资产发现、以证据驱动的漏洞验证机制（减少误报），以及面向开发者 Agent 的 MCP 集成，使 LLM Agent 可直接调用攻击面数据与验证结果。技术栈为 Python，适合将安全评估嵌入自动化工作流、构建 AI 驱动的安全运营与漏洞管理流程。",
+      "tags": [
+        "mcp",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-28T02:59:11.389832+00:00"
+    },
+    {
+      "title": "actionow-ai/vvv",
+      "source": "github-trending",
+      "url": "https://github.com/actionow-ai/vvv",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "stars": 420,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-25T04:32:13Z",
+      "summary": "vvv 是一个面向 coding agent 的视频模板复用工具，核心是将 Remotion 视频模板与 Agent Skill 结合，让 Claude Code、Codex 等 25+ 个 coding agent 能够直接调用可编辑的视频生成能力。它解决的是 AI 编程助手缺乏结构化视频输出能力的问题，通过一次构建模板、跨 agent 复用的方式降低视频内容生产门槛。技术亮点在于 Remotion 的 React 式视频编程模型与 Agent Skill 的标准化封装，使 agent 能以工具调用方式生成和修改视频。适用场景包括开发者制作演示视频、产品宣传素材、自动化内容流水线，以及需要 agent 产出多媒体交付物的工程团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multimodal",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:13.684190+00:00"
+    },
+    {
+      "title": "zengshuangzi/mcd-money-saver",
+      "source": "github-trending",
+      "url": "https://github.com/zengshuangzi/mcd-money-saver",
+      "description": "基于麦当劳MCP的智能省钱助手",
+      "stars": 418,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-23T07:46:53Z",
+      "summary": "该项目是一个基于麦当劳 MCP（Model Context Protocol）的智能省钱助手，通过接入麦当劳官方或第三方 MCP 服务获取菜单、优惠券与门店信息，结合 LLM 进行优惠组合推理与推荐。它解决的是消费者在点餐时难以快速找到最优优惠组合、手动比价繁琐的问题。核心技术亮点在于以 MCP 作为工具调用层，将外部餐饮数据标准化暴露给大模型，实现 tool-use 驱动的自动化优惠计算与决策。适用场景包括个人点餐省钱、MCP 生态集成示例、以及作为 agent 调用外部 API 的教学参考项目。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:15.862790+00:00"
+    },
+    {
+      "title": "routerhubSI/uncensored-ai-api",
+      "source": "github-trending",
+      "url": "https://github.com/routerhubSI/uncensored-ai-api",
+      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": 368,
+      "language": null,
+      "topics": [
+        "abliterated-models",
+        "ai-api",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api",
+        "claude-code",
+        "cursor",
+        "deepseek-api",
+        "gemini-api",
+        "glm-api",
+        "gpt-api",
+        "grok-api",
+        "llm-api",
+        "openai-compatible",
+        "opencode",
+        "qwen-api",
+        "uncensored-ai",
+        "uncensored-ai-api",
+        "uncensored-ai-model",
+        "uncensored-llm"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-24T17:09:17Z",
+      "summary": "routerhubSI/uncensored-ai-api 是一个统一 AI API 网关，通过单一密钥接入 Claude、GPT、Gemini、Grok、DeepSeek、GLM、Qwen 等主流模型，并提供 uncensored 与 abliterated 变体。它解决多模型 API 密钥管理分散、合规限制导致内容审查过严的问题。核心亮点是 OpenAI 与 Anthropic 双协议兼容、按 token 计费、聚合多家模型并支持去审查版本。适用于需要跨模型调用、对内容自由度有要求的开发者、研究者和内容生成场景。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-28T02:59:17.550686+00:00"
+    },
+    {
+      "title": "zgx949/ai-pojia",
+      "source": "github-trending",
+      "url": "https://github.com/zgx949/ai-pojia",
+      "description": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。",
+      "stars": 351,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-24T03:51:41Z",
+      "summary": "该项目提供面向初学者的实用 Skills 与插件集合，旨在通过所谓「破甲」方式释放 CodeX 模型的最大潜能，并附带完整教程与示例。它主要解决普通用户难以充分发挥代码生成模型能力的问题，核心亮点在于封装了可直接调用的技能与插件工作流，降低使用门槛。适用于希望快速上手 CodeX 进行代码生成与自动化任务的开发者，尤其是缺乏 prompt 调优经验的新手。",
+      "tags": [
+        "code-generation",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-28T02:59:19.142029+00:00"
+    },
+    {
+      "title": "daveebbelaar/bama",
+      "source": "github-trending",
+      "url": "https://github.com/daveebbelaar/bama",
+      "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "stars": 332,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "app-clone",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "computer-use",
+        "liquid-glass",
+        "macos",
+        "macos-app",
+        "native-apps",
+        "skills",
+        "swift",
+        "swiftdata",
+        "swiftui"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-27T06:51:15Z",
+      "summary": "BAMA 是一套面向 Claude Code 的 agent skills 集合，目标是让 AI agent 自动完成原生 macOS 应用的调研、克隆、设计、构建、优化与测试全流程。它解决的是 AI 编码助手在 Swift/SwiftUI 原生应用开发中缺乏结构化工作流的问题，通过可复用的 skill 定义把复杂任务拆解为可执行步骤。核心技术亮点在于将 agent 能力与 macOS 原生开发栈结合，并以插件形式集成到 Claude Code。适用场景包括快速原型复刻、学习现有 App 架构、以及借助 agent 加速 SwiftUI 项目开发。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-28T02:59:21.181034+00:00"
+    },
+    {
+      "title": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "source": "github-trending",
+      "url": "https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
+      "stars": 307,
+      "language": "Python",
+      "topics": [
+        "roblox"
+      ],
+      "collected_at": "2026-10-28T02:58:42.186116+00:00",
+      "published_at": "2026-10-22T18:45:25Z",
+      "summary": "该项目是一个面向 Roblox 游戏的高性能 aimbot 脚本，通过自适应平滑跟踪与精确自动瞄准算法实现辅助瞄准功能。其核心亮点在于模块化结构、可配置参数以及兼容多数执行器的设计，并针对当前 Roblox 版本做了适配。技术上主要涉及游戏内存读写、目标检测与平滑插值控制，属于游戏作弊工具范畴。适用场景为 Roblox 游戏中的自动瞄准辅助，但需注意此类工具违反游戏服务条款并存在账号封禁与安全风险，对 AI 工程师的实际技术参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-10-28T02:59:22.762308+00:00"
+    }
+  ]
+}
