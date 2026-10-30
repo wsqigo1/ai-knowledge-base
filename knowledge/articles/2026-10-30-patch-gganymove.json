@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-30-005",
+  "title": "patch-gg/anymove",
+  "source": "github-trending",
+  "url": "https://github.com/patch-gg/anymove",
+  "summary": "anymove 是一个从单段 AI 视频中为任意生物提取动作捕捉数据的开源工具。它通过单帧双视角布局、DINOv2 关节读取器，并在两个视图中拟合骨骼，最终输出 GLB 格式的动画资产。核心亮点在于无需专用动捕设备，仅凭普通视频即可完成跨物种的动作重定向，且直接对接 Blender 等 3D 工作流。适用于游戏动画制作、虚拟角色驱动和生物运动研究等场景。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-30T03:27:08.907866+00:00",
+  "analyzed_at": "2026-10-30T03:27:44.384682+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

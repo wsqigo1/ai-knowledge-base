@@ -1,0 +1,399 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-10-30T03:27:10.311977+00:00",
+  "date": "2026-10-30",
+  "count": 20,
+  "items": [
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "source": "hackernews-top",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "hn_url": "https://news.ycombinator.com/item?id=50296470",
+      "description": "",
+      "hn_score": 853,
+      "comments": 504,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目为 Hacker News 热门讨论，标题声称 Binance 被盗 56 亿美元，但描述为空，仅提供 HN Score 853 的热度指标。从技术角度看，此类安全事件讨论通常涉及交易所热钱包私钥泄露、跨链桥攻击或智能合约漏洞等攻击向量，以及链上资金追踪与应急响应机制。然而，条目本身缺乏可验证的技术细节、攻击复盘或代码级分析，对 AI/LLM 工程师的直接技术参考价值有限，更多属于行业安全动态与社区热点事件。适用场景为安全资讯跟踪与区块链风险认知，而非工程实践参考。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-30T03:27:52.299560+00:00"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "source": "hackernews-top",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "hn_url": "https://news.ycombinator.com/item?id=50289418",
+      "description": "",
+      "hn_score": 1250,
+      "comments": 350,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "Mistral AI 宣布开源其旗舰模型 Mistral Large 4 的权重，此前该模型仅通过 API 提供。此举解决了闭源大模型无法本地部署、难以深度定制和审计的问题，使企业可在自有基础设施上运行高性能 LLM。核心技术亮点包括开放权重支持 fine-tuning 与量化部署，延续 Mistral 在推理效率上的优化，并可能附带多语言与长上下文能力。适用场景涵盖私有化部署、领域微调、RAG 系统构建及对数据主权敏感的行业应用。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "reasoning"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-10-30T03:27:54.264239+00:00"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "source": "hackernews-top",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50296486",
+      "description": "",
+      "hn_score": 207,
+      "comments": 68,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目介绍在 Minecraft 和 Mindustry 两款游戏中运行 AI agent swarms 的实验。旨在探索多智能体系统在复杂开放环境下的协作与任务执行能力，解决传统单 agent 在动态场景中适应性不足的问题。核心技术亮点包括多 agent 协同框架、游戏环境接口适配以及 swarm 行为涌现分析。适用场景为多智能体研究、游戏 AI 测试与复杂系统仿真。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-30T03:27:56.203718+00:00"
+    },
+    {
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "source": "hackernews-top",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "hn_url": "https://news.ycombinator.com/item?id=50295450",
+      "description": "",
+      "hn_score": 155,
+      "comments": 8,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该项目在 Raspberry Pi Pico 2 W 微控制器上运行一个极小的 world model 来玩游戏，探索在资源极度受限的嵌入式设备上实现模型推理。它解决的是 world model 通常依赖高算力 GPU 的问题，通过模型压缩与轻量化设计将推理部署到低成本硬件。核心技术亮点包括针对 Pico 2 W 的算力与内存约束进行模型裁剪、量化与内存优化，并实现实时游戏交互。适用场景为嵌入式 AI 教学、边缘端强化学习实验、低成本机器人控制原型，以及理解 world model 最小可行实现的工程实践。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-30T03:27:58.259747+00:00"
+    },
+    {
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "source": "hackernews-top",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "hn_url": "https://news.ycombinator.com/item?id=50297089",
+      "description": "",
+      "hn_score": 68,
+      "comments": 10,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目是2014年关于吉卜力动画电影《红猪》的影评/文化分析文章，探讨影片中个人与国家、战争与和平的隐喻，与AI/LLM技术无关。文章不涉及任何技术实现、算法或工程实践，无法为AI工程师提供技术参考。其价值仅限于人文讨论，HN热度68表明有一定社区关注但非技术热点。适用场景为文化研究或影视分析，不适用于AI技术选型或开发。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-10-30T03:28:00.135660+00:00"
+    },
+    {
+      "title": "Pico CSS is no longer maintained",
+      "source": "hackernews-top",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "hn_url": "https://news.ycombinator.com/item?id=50298964",
+      "description": "",
+      "hn_score": 47,
+      "comments": 16,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "Pico CSS 是一个极简、语义化的 CSS 框架，主打无需类名即可为原生 HTML 元素提供美观默认样式，此次 HN 讨论的核心是该框架作者宣布停止维护。它解决的问题是让开发者用最少配置快速搭建干净、响应式的网页界面，尤其适合原型、文档站点和轻量级项目。技术亮点在于零依赖、体积小（约 10KB 级别）、基于 CSS 变量与语义标签自动生效，并内置暗色模式与响应式排版。停止维护意味着后续不再有安全与兼容性更新，社区需评估是否迁移到替代方案或自行 fork。适用场景为小型静态站点、个人项目、教学示例及对构建工具链要求极低的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-10-30T03:28:02.163393+00:00"
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "source": "hackernews-top",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "hn_url": "https://news.ycombinator.com/item?id=50291054",
+      "description": "",
+      "hn_score": 353,
+      "comments": 130,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "《H.264 Is Magic》是一篇2016年的经典技术文章，深入解析H.264视频编码标准背后的设计原理。它回答了为何H.264能在有限带宽下实现高质量视频传输这一核心问题。文章亮点在于用直观方式拆解了帧内预测、运动补偿、变换量化、熵编码等关键技术，揭示了这些机制如何协同压缩视频数据。虽然H.264并非AI技术，但其对多媒体数据压缩的深刻洞察，对从事视频理解、多模态模型及流媒体工程的AI工程师仍有参考价值，尤其适合需要处理视频数据的开发者阅读。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-30T03:28:04.084976+00:00"
+    },
+    {
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "source": "hackernews-top",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "hn_url": "https://news.ycombinator.com/item?id=50297697",
+      "description": "",
+      "hn_score": 55,
+      "comments": 11,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该项目将经典游戏 DOOM 改造为基于 Transformer 架构的交互系统，探索用大语言模型驱动游戏逻辑与状态生成。它解决了传统游戏引擎依赖硬编码规则、难以灵活适应动态输入的问题，核心技术亮点在于将游戏帧序列与玩家操作映射为 token 序列，利用 Transformer 的自回归能力预测下一状态，实现端到端的游戏模拟。适用场景包括游戏 AI 研究、交互式内容生成以及 LLM 在实时系统中的应用验证，为 AI 工程师提供了将序列建模迁移至游戏环境的实验范例。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-30T03:28:06.235153+00:00"
+    },
+    {
+      "title": "DoorDash to acquire Instacart",
+      "source": "hackernews-top",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "hn_url": "https://news.ycombinator.com/item?id=50287919",
+      "description": "",
+      "hn_score": 443,
+      "comments": 613,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "DoorDash 宣布收购 Instacart，这是美国外卖与生鲜杂货配送领域的一次重大行业整合。该交易将 DoorDash 的餐厅外卖网络与 Instacart 的杂货即时配送能力合并，解决的是本地生活配送平台在品类覆盖和履约密度上的竞争问题。核心技术亮点在于双方在即时配送调度、库存与商品数据整合、以及多品类订单路由方面的工程能力协同，而非 AI 模型层面的创新。适用场景为本地生活服务、即时零售与物流调度领域的从业者关注行业格局变化。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-10-30T03:28:08.243798+00:00"
+    },
+    {
+      "title": "LLM Voice",
+      "source": "hackernews-top",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50290177",
+      "description": "",
+      "hn_score": 369,
+      "comments": 199,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "LLM Voice 是一个面向大语言模型的语音交互开源项目，旨在为 LLM 应用补齐语音输入输出能力，解决文本模型无法直接进行实时语音对话的问题。核心技术亮点包括低延迟语音识别与合成流水线、与 LLM 推理的流式集成，以及可插拔的 ASR/TTS 组件设计。项目在 HN 获得 369 分，说明社区对 LLM 语音交互方向关注度较高。适用场景包括语音助手、实时对话机器人、无障碍交互以及需要 hands-free 操作的 AI 应用开发。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-30T03:28:10.140759+00:00"
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50294702",
+      "description": "",
+      "hn_score": 2524,
+      "comments": 540,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目为 Hacker News 热门榜新闻，标题称演员 Patrick Stewart 去世，HN Score 达 2524，但描述为空，无任何技术内容。其本质是娱乐/讣告类社会新闻，不解决 AI 工程问题，也无核心技术亮点，仅反映社区对公众人物动态的高关注度。适用场景仅限于新闻资讯浏览或社区舆情观察，对 AI/LLM 工程师的技术工作无直接参考价值。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-10-30T03:28:12.129136+00:00"
+    },
+    {
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "hn_url": "https://news.ycombinator.com/item?id=50291116",
+      "description": "",
+      "hn_score": 55,
+      "comments": 16,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "Simantic（YC F26）是一个面向 AI Agent 的固件仿真平台，让 Agent 能在虚拟化固件环境中执行真实硬件交互任务，而非仅依赖文本接口。它解决的是 AI Agent 在嵌入式、IoT 与硬件测试场景中缺乏安全可复现执行环境的问题。核心技术亮点在于将固件仿真与 Agent 工具调用结合，提供可编程的硬件行为模拟层，使 Agent 能测试、调试和验证固件逻辑。适用场景包括嵌入式开发辅助、硬件自动化测试、Agent 工具链验证以及固件安全研究。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-30T03:28:14.033807+00:00"
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "source": "hackernews-top",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "hn_url": "https://news.ycombinator.com/item?id=50286987",
+      "description": "",
+      "hn_score": 299,
+      "comments": 149,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目报道了一起利用链式 PHP2Shell 漏洞的攻击事件，攻击者通过组合多个 PHP 漏洞实现远程代码执行，成功入侵了 25 台服务器，其中包括美国政府的服务器。这一事件揭示了 PHP 应用在漏洞链组合攻击下的脆弱性，核心在于攻击者将多个中低危漏洞串联形成完整利用链，绕过常规防护并获取 shell 权限。对 AI 工程师而言，该事件提醒在构建和部署 AI 服务（如基于 PHP 的 API 网关、管理后台）时需重视依赖组件的漏洞链风险与纵深防御。",
+      "tags": [
+        "security",
+        "php",
+        "exploit",
+        "vulnerability",
+        "web-security"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-30T03:28:16.153385+00:00"
+    },
+    {
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "source": "hackernews-top",
+      "url": "https://github.com/johncassil/dontallow",
+      "hn_url": "https://news.ycombinator.com/item?id=50294506",
+      "description": "",
+      "hn_score": 108,
+      "comments": 81,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "这是一个针对 macOS 系统弹窗的自动化工具，用于自动关闭「Allow <app> to find devices on local networks?」这一本地网络权限提示。该弹窗在应用首次访问局域网时频繁出现，干扰开发与测试流程。项目通过监听系统 UI 事件或辅助功能 API 识别并自动点击允许/拒绝按钮，实现无感处理。技术亮点在于轻量级、无需修改系统权限配置，适合开发者、自动化测试人员及频繁使用本地网络应用的 macOS 用户。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-30T03:28:17.921106+00:00"
+    },
+    {
+      "title": "If IPv4 were land",
+      "source": "hackernews-top",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "hn_url": "https://news.ycombinator.com/item?id=50287775",
+      "description": "",
+      "hn_score": 242,
+      "comments": 343,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目是一个将 IPv4 地址空间类比为地球陆地面积的可视化/数据叙事项目，通过将约 43 亿个 IPv4 地址映射到真实土地面积，直观呈现地址枯竭问题的严重性。它解决的是抽象数字难以感知的问题，核心技术亮点在于空间映射与可视化设计，而非算法创新。适用场景为网络工程教学、技术科普与 IPv6 迁移论证。对 AI 工程师而言，该内容与 LLM、RAG、Agent 等核心工作无直接关联，仅作为网络基础设施背景知识参考，实用价值与技术深度均有限，热度主要来自 HN 社区对经典话题的讨论。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-10-30T03:28:20.136357+00:00"
+    },
+    {
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "source": "hackernews-top",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50294486",
+      "description": "",
+      "hn_score": 44,
+      "comments": 32,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该研究提出一种利用 Claude 大模型辅助设计 IgE 干扰抗体的方法，用于治疗食物过敏。核心在于通过 LLM 驱动的抗体序列生成与优化，加速传统耗时且昂贵的抗体发现流程，并可能结合结构预测与亲和力评估。技术亮点包括将大语言模型引入生物医药设计领域，实现跨学科自动化。适用场景为 AI 辅助药物发现、抗体工程及过敏免疫治疗研究。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-30T03:28:21.845364+00:00"
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "source": "hackernews-top",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "hn_url": "https://news.ycombinator.com/item?id=50286197",
+      "description": "",
+      "hn_score": 167,
+      "comments": 321,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目报道西班牙一起火车事故的已知信息，属于突发新闻而非技术内容。它不解决AI工程问题，也无核心技术亮点，仅提供事故概况与初步调查进展。HN Score 167反映社区关注度较高，但话题与AI/LLM领域无关，对AI工程师的实用价值和技术深度均很低，仅适合作为一般资讯了解。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-30T03:28:23.488486+00:00"
+    },
+    {
+      "title": "El Niño is flooding California's coasts with the highest tides to come",
+      "source": "hackernews-top",
+      "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+      "hn_url": "https://news.ycombinator.com/item?id=50296585",
+      "description": "",
+      "hn_score": 111,
+      "comments": 38,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目报道厄尔尼诺现象导致加州海岸遭遇历史最高潮位洪水，属于气候科学与自然灾害监测领域。内容聚焦潮汐极端事件对沿海地区的影响，涉及海洋学与气候模式分析，但未涉及AI/LLM技术。对AI工程师而言，实用价值有限，仅可作为气候数据应用场景的参考。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-10-30T03:28:25.120467+00:00"
+    },
+    {
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "source": "hackernews-top",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "hn_url": "https://news.ycombinator.com/item?id=50290283",
+      "description": "",
+      "hn_score": 150,
+      "comments": 65,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "该条目讨论 AI 模型（如 LLM）在回答中引用的统计数据来源问题，揭示许多数字可能来自过时、不可靠或循环引用的“僵尸统计”。它解决的是 AI 输出可信度与数据溯源问题，提醒工程师在依赖模型生成的事实性数字时需谨慎。核心技术亮点在于对统计引用链的追踪与批判性分析，可能涉及数据来源验证方法。适用场景包括 AI 辅助研究、事实核查、RAG 系统数据质量评估以及 LLM 输出可信度优化。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-10-30T03:28:27.043294+00:00"
+    },
+    {
+      "title": "NetBSD adds a new text editor called atto",
+      "source": "hackernews-top",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "hn_url": "https://news.ycombinator.com/item?id=50287599",
+      "description": "",
+      "hn_score": 167,
+      "comments": 138,
+      "collected_at": "2026-10-30T03:27:09.015885+00:00",
+      "published_at": "2026-10-30T03:27:09.015885+00:00",
+      "summary": "NetBSD 操作系统新增了一款名为 atto 的文本编辑器，旨在为系统提供一个轻量级、现代化的默认编辑选项。它解决了传统 Unix 编辑器（如 vi）学习曲线陡峭或功能过于简单的问题，同时避免引入大型依赖。核心技术亮点包括：用 C 语言编写、代码量小、支持语法高亮、撤销/重做、搜索等基础编辑功能，并遵循 BSD 许可证。适用场景为 NetBSD 系统管理员、嵌入式开发者或任何需要轻量级编辑器的 Unix 环境。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-10-30T03:28:29.013771+00:00"
+    }
+  ]
+}

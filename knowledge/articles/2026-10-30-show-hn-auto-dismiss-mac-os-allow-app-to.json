@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-30-015",
+  "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+  "source": "hackernews-top",
+  "url": "https://github.com/johncassil/dontallow",
+  "summary": "这是一个针对 macOS 系统弹窗的自动化工具，用于自动关闭「Allow <app> to find devices on local networks?」这一本地网络权限提示。该弹窗在应用首次访问局域网时频繁出现，干扰开发与测试流程。项目通过监听系统 UI 事件或辅助功能 API 识别并自动点击允许/拒绝按钮，实现无感处理。技术亮点在于轻量级、无需修改系统权限配置，适合开发者、自动化测试人员及频繁使用本地网络应用的 macOS 用户。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-30T03:27:09.015885+00:00",
+  "analyzed_at": "2026-10-30T03:28:17.921106+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

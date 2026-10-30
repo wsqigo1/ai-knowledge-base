@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-30-013",
+  "title": "LLM Voice",
+  "source": "hackernews-top",
+  "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "summary": "LLM Voice 是一个面向大语言模型的语音交互开源项目，旨在为 LLM 应用补齐语音输入输出能力，解决文本模型无法直接进行实时语音对话的问题。核心技术亮点包括低延迟语音识别与合成流水线、与 LLM 推理的流式集成，以及可插拔的 ASR/TTS 组件设计。项目在 HN 获得 369 分，说明社区对 LLM 语音交互方向关注度较高。适用场景包括语音助手、实时对话机器人、无障碍交互以及需要 hands-free 操作的 AI 应用开发。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "ai-assistant",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-30T03:27:09.015885+00:00",
+  "analyzed_at": "2026-10-30T03:28:10.140759+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

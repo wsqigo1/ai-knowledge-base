@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-30-014",
+  "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50291116",
+  "summary": "Simantic（YC F26）是一个面向 AI Agent 的固件仿真平台，让 Agent 能在虚拟化固件环境中执行真实硬件交互任务，而非仅依赖文本接口。它解决的是 AI Agent 在嵌入式、IoT 与硬件测试场景中缺乏安全可复现执行环境的问题。核心技术亮点在于将固件仿真与 Agent 工具调用结合，提供可编程的硬件行为模拟层，使 Agent 能测试、调试和验证固件逻辑。适用场景包括嵌入式开发辅助、硬件自动化测试、Agent 工具链验证以及固件安全研究。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-30T03:27:09.015885+00:00",
+  "analyzed_at": "2026-10-30T03:28:14.033807+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

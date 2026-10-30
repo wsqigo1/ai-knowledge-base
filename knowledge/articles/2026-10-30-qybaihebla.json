@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-30-001",
+  "title": "qybaihe/bla",
+  "source": "github-trending",
+  "url": "https://github.com/qybaihe/bla",
+  "summary": "BLA（Blind LLM Agents）是一个针对 AI 逆向工程代理的对抗性防御工具，通过向二进制、Electron 应用、JS bundle、Python 和 WebAssembly 中注入对抗性扰动，使 Claude Code、Cursor 等 LLM 代理在分析代码时产生错误理解。其核心策略为 Poison→Exhaust→Hallucinate：先污染输入，再消耗代理推理预算，最终诱导其输出幻觉性结论。项目以 TypeScript 实现，聚焦 LLM 安全与代码保护交叉领域，适用于需要防止 AI 自动逆向分析的知识产权保护场景，如商业软件分发、Electron 桌面应用加固和前端代码混淆增强。",
+  "tags": [
+    "llm-security",
+    "adversarial-ai",
+    "developer-tools",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-30T03:27:08.907866+00:00",
+  "analyzed_at": "2026-10-30T03:27:22.075940+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

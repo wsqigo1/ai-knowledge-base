@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-30-010",
+  "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+  "source": "hackernews-top",
+  "url": "https://github.com/SheepSeb/tinyworldformer",
+  "summary": "该项目在 Raspberry Pi Pico 2 W 微控制器上运行一个极小的 world model 来玩游戏，探索在资源极度受限的嵌入式设备上实现模型推理。它解决的是 world model 通常依赖高算力 GPU 的问题，通过模型压缩与轻量化设计将推理部署到低成本硬件。核心技术亮点包括针对 Pico 2 W 的算力与内存约束进行模型裁剪、量化与内存优化，并实现实时游戏交互。适用场景为嵌入式 AI 教学、边缘端强化学习实验、低成本机器人控制原型，以及理解 world model 最小可行实现的工程实践。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-30T03:27:09.015885+00:00",
+  "analyzed_at": "2026-10-30T03:27:58.259747+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

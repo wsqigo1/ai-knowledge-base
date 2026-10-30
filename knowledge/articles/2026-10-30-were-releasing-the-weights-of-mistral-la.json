@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-30-008",
+  "title": "We're releasing the weights of Mistral Large 4",
+  "source": "hackernews-top",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "summary": "Mistral AI 宣布开源其旗舰模型 Mistral Large 4 的权重，此前该模型仅通过 API 提供。此举解决了闭源大模型无法本地部署、难以深度定制和审计的问题，使企业可在自有基础设施上运行高性能 LLM。核心技术亮点包括开放权重支持 fine-tuning 与量化部署，延续 Mistral 在推理效率上的优化，并可能附带多语言与长上下文能力。适用场景涵盖私有化部署、领域微调、RAG 系统构建及对数据主权敏感的行业应用。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-10-30T03:27:09.015885+00:00",
+  "analyzed_at": "2026-10-30T03:27:54.264239+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}

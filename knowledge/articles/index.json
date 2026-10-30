@@ -1,7 +1,267 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2777,
+  "total_count": 2794,
   "entries": [
+    {
+      "id": "kb-2026-10-30-001",
+      "title": "qybaihe/bla",
+      "source": "github-trending",
+      "url": "https://github.com/qybaihe/bla",
+      "file": "2026-10-30-qybaihebla.json",
+      "tags": [
+        "llm-security",
+        "adversarial-ai",
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-002",
+      "title": "anonnerdfrenzy/survival-llm",
+      "source": "github-trending",
+      "url": "https://github.com/anonnerdfrenzy/survival-llm",
+      "file": "2026-10-30-anonnerdfrenzysurvival-llm.json",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-003",
+      "title": "konlu/story-studio",
+      "source": "github-trending",
+      "url": "https://github.com/konlu/story-studio",
+      "file": "2026-10-30-konlustory-studio.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "tool-use",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-004",
+      "title": "ChannelCooperStart/capri-ai",
+      "source": "github-trending",
+      "url": "https://github.com/ChannelCooperStart/capri-ai",
+      "file": "2026-10-30-channelcooperstartcapri-ai.json",
+      "tags": [
+        "ai-agent",
+        "developer-tools",
+        "workflow-automation",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-005",
+      "title": "patch-gg/anymove",
+      "source": "github-trending",
+      "url": "https://github.com/patch-gg/anymove",
+      "file": "2026-10-30-patch-gganymove.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-006",
+      "title": "jacke-pp/open-yoki",
+      "source": "github-trending",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "file": "2026-10-30-jacke-ppopen-yoki.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-007",
+      "title": "paipiange/nvzhuang",
+      "source": "github-trending",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "file": "2026-10-30-paipiangenvzhuang.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-008",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "source": "hackernews-top",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "file": "2026-10-30-were-releasing-the-weights-of-mistral-la.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "fine-tuning",
+        "reasoning"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-009",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "source": "hackernews-top",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "file": "2026-10-30-we-ran-ai-agent-swarms-in-minecraft-and-.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-010",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "source": "hackernews-top",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "file": "2026-10-30-a-tiny-world-model-running-games-on-a-ra.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-011",
+      "title": "H.264 Is Magic (2016)",
+      "source": "hackernews-top",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "file": "2026-10-30-h264-is-magic-2016.json",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-012",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "source": "hackernews-top",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "file": "2026-10-30-show-hn-i-turned-doom-into-a-transformer.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-013",
+      "title": "LLM Voice",
+      "source": "hackernews-top",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "file": "2026-10-30-llm-voice.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-014",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "file": "2026-10-30-launch-hn-simantic-yc-f26-firmware-simul.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-015",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "source": "hackernews-top",
+      "url": "https://github.com/johncassil/dontallow",
+      "file": "2026-10-30-show-hn-auto-dismiss-mac-os-allow-app-to.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-016",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "source": "hackernews-top",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "file": "2026-10-30-ige-disruptor-for-food-allergy-with-clau.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
+    {
+      "id": "kb-2026-10-30-017",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "source": "hackernews-top",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "file": "2026-10-30-zombie-stats-where-the-numbers-ai-quotes.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-10-30T03:28:29.115051+00:00"
+    },
     {
       "id": "kb-2026-10-28-001",
       "title": "t3dotgg/tstack",
@@ -41744,5 +42004,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-28T03:00:02.708899+00:00"
+  "last_updated": "2026-10-30T03:28:29.387855+00:00"
 }

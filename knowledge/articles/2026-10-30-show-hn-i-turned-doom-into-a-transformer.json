@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-30-012",
+  "title": "Show HN: I Turned DOOM into a Transformer",
+  "source": "hackernews-top",
+  "url": "https://github.com/mottopanikeiku/doomformer",
+  "summary": "该项目将经典游戏 DOOM 改造为基于 Transformer 架构的交互系统，探索用大语言模型驱动游戏逻辑与状态生成。它解决了传统游戏引擎依赖硬编码规则、难以灵活适应动态输入的问题，核心技术亮点在于将游戏帧序列与玩家操作映射为 token 序列，利用 Transformer 的自回归能力预测下一状态，实现端到端的游戏模拟。适用场景包括游戏 AI 研究、交互式内容生成以及 LLM 在实时系统中的应用验证，为 AI 工程师提供了将序列建模迁移至游戏环境的实验范例。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-30T03:27:09.015885+00:00",
+  "analyzed_at": "2026-10-30T03:28:06.235153+00:00",
+  "organized_at": "2026-10-30T03:28:29.115051+00:00",
+  "status": "published"
+}
