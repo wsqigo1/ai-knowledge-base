@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-10-31-014",
+  "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+  "source": "hackernews-top",
+  "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+  "summary": "该技术条目披露了 Azure 云平台中五个完整的跨租户（cross-tenant）入侵案例，属于云安全漏洞研究。它解决的核心问题是揭示多租户云环境中租户隔离机制可能存在的系统性弱点，帮助安全工程师理解真实攻击路径。技术亮点在于通过实际渗透测试复现了从低权限入口到跨租户资源访问的完整链路，涉及身份认证、权限边界与租户隔离设计缺陷。适用场景包括云安全审计、红队演练、SaaS 多租户架构风险评估，对 AI 工程师在部署多租户 LLM 服务时的隔离设计也有间接参考价值。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:45.196882+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-31-004",
+  "title": "jackwener/DSH-Android",
+  "source": "github-trending",
+  "url": "https://github.com/jackwener/DSH-Android",
+  "summary": "DSH-Android 是一个 Kotlin 编写的 Android APK，将 DeepSeek Harness 引擎内嵌到 App 进程中，使安卓手机无需 ROOT、无需 Termux 即可本地运行 LLM Agent。它解决的核心问题是移动端部署 AI Agent 的门槛过高，通过读屏操作 App、修改系统设置、定时与条件自动化等能力，让 Agent 能直接操控手机界面完成任务，并可选接入 Shizuku 提升权限。技术亮点在于引擎进程内嵌、无障碍读屏驱动的 UI 自动化以及免 root 的系统级操作。适用于个人在移动端做自动化任务、AI 助手实验与 Agent 能力验证。",
+  "tags": [
+    "agent",
+    "large-language-model",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-31T03:11:40.141555+00:00",
+  "analyzed_at": "2026-10-31T03:12:07.500568+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

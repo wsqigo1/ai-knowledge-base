@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-010",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "source": "hackernews-top",
+  "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "summary": "该条目披露了 Cursor Marketplace 上 Claude Code for VS Code 扩展存在后门的安全事件。问题核心在于第三方扩展市场缺乏严格的供应链安全审查，导致恶意代码可被植入开发者日常使用的 AI 编程工具中。技术亮点在于揭示了扩展权限模型与市场审核机制的薄弱环节，以及后门可能通过自动更新或依赖注入方式激活。适用场景包括 AI 编程助手的安全评估、IDE 扩展供应链风险审计，以及开发者对第三方市场插件的信任边界管理。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:23.548799+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

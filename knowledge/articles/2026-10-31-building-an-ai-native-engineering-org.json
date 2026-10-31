@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-31-016",
+  "title": "Building an AI-native engineering org",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+  "summary": "该文章探讨如何构建 AI-native 的工程组织，核心在于将 AI 能力（如 LLM、agent、code-generation 工具）深度嵌入研发流程与团队协作模式，而非仅作为辅助工具。它解决的是传统工程组织在 AI 时代面临的生产力瓶颈与协作范式滞后问题。技术亮点包括以 AI 为默认协作对象重构工作流、建立 prompt-engineering 与 agent 驱动的开发闭环、以及围绕 AI 输出质量设计评审与治理机制。适用场景为希望系统性落地 AI 编码助手、重构研发效能体系的工程团队与技术管理者。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:48.593892+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

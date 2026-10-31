@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-007",
+  "title": "shipwords-dev/shipwords",
+  "source": "github-trending",
+  "url": "https://github.com/shipwords-dev/shipwords",
+  "summary": "Shipwords 是一个 Cloudflare 原生的 AI 建站启动框架，核心思路是「一个新词一个站」：围绕长尾关键词批量生成可盈利的 AI 站点，并内置 auth、credits、payments 与 AI 生成能力，让单个站点能在一个下午内上线。它解决的是独立开发者做 SEO 站群时重复搭建基础设施的问题——共享部分（认证、计费、生成管线）统一复用，可变部分（关键词、内容、页面）独立部署。技术栈基于 Cloudflare Workers、D1、React 与 TypeScript，天然具备边缘部署和低运维成本优势。适合做关键词站群、AI 工具站快速验证、以及需要低成本试错的独立开发者场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-31T03:11:40.141555+00:00",
+  "analyzed_at": "2026-10-31T03:12:17.880640+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

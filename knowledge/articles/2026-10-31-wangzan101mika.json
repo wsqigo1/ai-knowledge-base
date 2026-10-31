@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-10-31-002",
+  "title": "wangzan101/Mika",
+  "source": "github-trending",
+  "url": "https://github.com/wangzan101/Mika",
+  "summary": "Mika 是一款运行在 Android 设备上的端侧 AI agent，通过 Accessibility 服务直接操作手机 App 与网页，替用户完成跨应用任务。它解决的是移动端自动化长期依赖脚本或云端指令、隐私与延迟不可控的问题，将 LLM 推理与 UI 操作闭环放在本地。核心技术亮点包括基于 Kotlin 与 Jetpack Compose 构建的 agent 框架、利用无障碍权限实现屏幕理解与点击/输入动作、以及端侧模型驱动的任务规划。适用场景为个人助理类自动化，如代订行程、批量处理消息、跨 App 信息汇总等，适合关注 on-device agent 与移动自动化的工程师研究。",
+  "tags": [
+    "agent",
+    "ai-assistant",
+    "workflow-automation",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-31T03:11:40.141555+00:00",
+  "analyzed_at": "2026-10-31T03:11:49.896446+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

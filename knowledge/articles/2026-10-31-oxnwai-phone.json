@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-006",
+  "title": "oxnw/ai-phone",
+  "source": "github-trending",
+  "url": "https://github.com/oxnw/ai-phone",
+  "summary": "oxnw/ai-phone 是一个运行在 Apple Silicon 上的 SIP 电话守护进程，将本地语音识别与语言模型集成到传统 VoIP 通话链路中。它解决的是云端语音助手在隐私、延迟和离线可用性上的痛点，让通话内容无需离开设备即可完成转写与理解。核心技术亮点在于利用 Apple Silicon 的本地推理能力串联 SIP 协议栈与 speech/LLM 模型，实现端到端的低延迟语音交互。适用场景包括隐私敏感的企业内线、离线客服原型、个人语音助手实验以及边缘侧语音 agent 开发。",
+  "tags": [
+    "open-source",
+    "ai-assistant",
+    "multimodal",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-31T03:11:40.141555+00:00",
+  "analyzed_at": "2026-10-31T03:12:15.743469+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

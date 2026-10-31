@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-017",
+  "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "source": "hackernews-top",
+  "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "summary": "Sleep framework 是一种面向 LLM 持续学习（continual learning）的新方法，核心思路借鉴人类睡眠机制，在模型训练/更新间隙通过离线“睡眠”阶段巩固已学知识，缓解持续学习中的灾难性遗忘（catastrophic forgetting）问题。其技术亮点在于将知识保留与参数更新解耦，可能涉及经验回放、参数隔离或正则化等机制的组合，使模型在吸收新任务时不显著退化旧任务性能。该框架适用于需要长期增量学习的场景，如持续对话助手、领域知识不断演进的垂直应用、以及多任务序列微调流水线。HN 热度 180 表明社区对 LLM 持续学习方向关注度较高，但条目信息有限，实际落地价值需结合论文细节与开源实现评估。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:54.879153+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

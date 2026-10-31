@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-012",
+  "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+  "source": "hackernews-top",
+  "url": "https://github.com/dbreunig/nesformer",
+  "summary": "该项目展示了一个约1GB的Qwen权重模型能够运行任天堂游戏，通过将游戏逻辑或模拟器行为编码进LLM权重中实现。它解决了在极小模型容量下执行复杂交互任务的问题，核心技术亮点在于利用LLM的隐式知识压缩和推理能力来模拟游戏运行，而非传统模拟器。适用场景包括边缘设备上的轻量级游戏模拟、LLM能力边界探索以及模型压缩与知识蒸馏研究。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:33.640244+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

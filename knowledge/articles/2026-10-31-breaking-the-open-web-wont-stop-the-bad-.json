@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-011",
+  "title": "Breaking the open web won't stop the bad bots",
+  "source": "hackernews-top",
+  "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+  "summary": "该 HN 讨论文章剖析了当前反爬虫与反机器人策略（如 CAPTCHA、浏览器指纹、行为分析）为何难以真正阻止恶意自动化流量，反而损害开放 Web 的可访问性与隐私。文章指出，攻击者可通过住宅代理、无头浏览器和 AI 驱动的行为模拟绕过检测，而合法用户与研究者却承受验证码和封锁的代价。核心观点是：以牺牲开放 Web 为代价的防御不可持续，应转向更细粒度的速率限制、服务端行为建模与可验证的客户端信誉机制。对 AI 工程师而言，涉及 agent 自动化、数据采集合规与反爬对抗的边界判断。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:31.402264+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}

@@ -1,0 +1,533 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-10-31T03:11:41.654537+00:00",
+  "date": "2026-10-31",
+  "count": 19,
+  "items": [
+    {
+      "title": "anhao/ai-pose-gallery-zh",
+      "source": "github-trending",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "stars": 4040,
+      "language": "TypeScript",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-31T01:41:09Z",
+      "summary": "该项目是一个面向 AI 绘画创作的中文姿势参考图库，收录 1439 组、2878 张图片并完成完整汉化。它解决了中文用户在生成人物姿态时缺乏结构化参考素材、检索效率低的问题。技术亮点在于零依赖静态画廊架构，基于 TypeScript 构建并部署于 Cloudflare Pages，支持 i18n 多语言与静态资源快速加载。适用场景包括 AI 绘画提示词编写、角色姿态设计、ControlNet 等姿态控制工作流中的参考图选取，以及中文社区教学与素材分享。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-31T03:11:43.675695+00:00"
+    },
+    {
+      "title": "ccch1mneyyy/dsh-Go",
+      "source": "github-trending",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": 2659,
+      "language": "Dart",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-30T20:20:50Z",
+      "summary": "dsh-Go 是 DeepSeek Harness 的移动端实现，用 Dart 开发，让 AI coding agent 直接在 Android 手机上本地运行，也能远程操控电脑上的开发环境。它解决的是开发者离开桌面后无法继续驱动 AI 编码代理的问题，把 agent 的交互入口从 IDE 延伸到手机。核心亮点在于端侧运行 harness、跨设备遥控电脑执行任务，以及面向 coding-agent 场景的移动交互设计。适合需要随时随地发起或监控 AI 编码任务、在手机与电脑间切换工作流的开发者。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-31T03:11:45.650747+00:00"
+    },
+    {
+      "title": "andyhuo520/digital-human-koubo",
+      "source": "github-trending",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stars": 1558,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-31T02:53:36Z",
+      "summary": "该项目是一个面向 Claude Code、Codex 等 AI 编程助手的 agent skill，基于单张照片生成数字人口播视频。它通过 Renoise MCP 完成生成流程，并集成 5 种剪辑风格与 48 个创作者级包装组件，将数字人视频制作从多工具手工流程封装为可被 agent 调用的自动化能力。核心技术亮点在于 MCP 工具链与视频包装组件的组合，降低了口播视频的生产门槛。适用于自媒体内容批量生产、营销短视频制作及数字人 demo 快速验证。",
+      "tags": [
+        "mcp",
+        "agent",
+        "multimodal",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-31T03:11:47.754384+00:00"
+    },
+    {
+      "title": "wangzan101/Mika",
+      "source": "github-trending",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stars": 1525,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-30T21:23:42Z",
+      "summary": "Mika 是一款运行在 Android 设备上的端侧 AI agent，通过 Accessibility 服务直接操作手机 App 与网页，替用户完成跨应用任务。它解决的是移动端自动化长期依赖脚本或云端指令、隐私与延迟不可控的问题，将 LLM 推理与 UI 操作闭环放在本地。核心技术亮点包括基于 Kotlin 与 Jetpack Compose 构建的 agent 框架、利用无障碍权限实现屏幕理解与点击/输入动作、以及端侧模型驱动的任务规划。适用场景为个人助理类自动化，如代订行程、批量处理消息、跨 App 信息汇总等，适合关注 on-device agent 与移动自动化的工程师研究。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-31T03:11:49.896446+00:00"
+    },
+    {
+      "title": "qybaihe/bla",
+      "source": "github-trending",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "stars": 1452,
+      "language": "TypeScript",
+      "topics": [
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security",
+        "mcp",
+        "mcp-server",
+        "obfuscation",
+        "reverse-engineering",
+        "webassembly"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-30T18:16:20Z",
+      "summary": "BLA（Blind LLM Agents）是一个针对 AI 逆向工程代理的对抗性防御工具，旨在保护二进制文件、Electron 应用、JS bundle、Python 代码和 WebAssembly 不被 REA 等 AI 代理逆向分析。其核心策略为 Poison → Exhaust → Hallucinate：通过注入误导性信息、消耗代理推理资源、诱导其产生幻觉，使自动化逆向代理失效。项目以 TypeScript 实现，面向 LLM 安全与软件知识产权保护场景，适合需要防止 AI 驱动代码窃取或逆向的开发者与安全团队。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "open-source",
+        "developer-tools",
+        "llm-security"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-10-31T03:11:52.180249+00:00"
+    },
+    {
+      "title": "heydamir/unslop",
+      "source": "github-trending",
+      "url": "https://github.com/heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": 1407,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-29T16:17:15Z",
+      "summary": "heydamir/unslop 是一个 Claude skill，用于将 AI 生成、带有明显“vibecoded”痕迹的界面改造成更具设计感的 UI。它针对当前 AI 辅助编码中常见的视觉同质化、缺乏设计规范的问题，通过 Claude 的 skill 机制提供一套可复用的界面优化流程。核心技术亮点在于将设计规则与 LLM 的代码生成能力结合，以 skill 形式封装，便于在 Claude 工作流中直接调用。适用场景包括快速原型美化、AI 生成前端代码的后期打磨，以及希望提升 AI 产出界面质量的开发者。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:11:54.131239+00:00"
+    },
+    {
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "source": "github-trending",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stars": 1347,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-30T21:06:20Z",
+      "summary": "该项目是一个面向 AI agent（Codex、Claude Code）的族谱研究技能包，聚焦前苏联地区的教会簿、民事、军事、驱逐与镇压档案。它解决的是历史档案检索中证据链断裂、来源不可靠的问题，通过 evidence-first 设计让 agent 在回答时优先引用可核验的档案出处，并支持多语言回复。核心技术亮点在于将领域知识封装为 agent skill，结合结构化档案检索与来源标注，适配 Claude Code 与 Codex 的工具调用流程。适用场景包括家族史研究、历史档案数字化检索、以及需要可溯源证据的 agent 工作流。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-31T03:11:56.078467+00:00"
+    },
+    {
+      "title": "paipiange/nvzhuang",
+      "source": "github-trending",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": 1272,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-31T02:29:45Z",
+      "summary": "paipiange/nvzhuang 是一个用 Go 构建的开源项目，提供 1407 张 AI 女装参考图集与虚拟试穿网站。它解决 AI 生成服装图像时缺乏高质量参考素材、以及虚拟试穿工具多依赖单一闭源服务的问题。核心技术亮点包括中英文检索图集、支持 OpenAI Images、Gemini、豆包及自定义 Base URL/API Key/模型的多后端图像生成接入，便于灵活切换与本地化部署。适用场景为电商服装展示、AI 绘画参考、虚拟试穿原型验证及多模型图像生成对比实验。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:11:57.643642+00:00"
+    },
+    {
+      "title": "ZiChuanLan/agent-purge",
+      "source": "github-trending",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "stars": 914,
+      "language": "JavaScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "deepseek-harness",
+        "harness",
+        "omp",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-30T12:06:34Z",
+      "summary": "agent-purge 是一个面向多编码代理（coding agent）的系统提示词统一管理工具，支持在 codex、claude、opencode、grok、omp、hermes、pi、zcode 等代理间替换或注入 system prompt，实现「一个 persona 驱动多个代理」。它解决多代理并行使用时提示词分散、行为不一致、切换成本高的问题。核心亮点是本地 web console 提供可视化配置与注入，覆盖主流 CLI 编码代理的 harness 层。适用于需要跨代理保持统一角色设定、批量调试 prompt 或做多代理对比实验的开发者。",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:11:59.605196+00:00"
+    },
+    {
+      "title": "yaojingang/GEOInflow",
+      "source": "github-trending",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "stars": 759,
+      "language": "TypeScript",
+      "topics": [
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted",
+        "web-analytics"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-30T04:51:17Z",
+      "summary": "GEOInflow 是一个自托管的 Web 与 AI 爬虫分析平台，面向生成式引擎优化（GEO）场景。它解决品牌在 AI 搜索时代难以追踪 AI 爬虫抓取、AI 搜索引荐流量与内容覆盖度的问题。核心亮点包括：采集访客与 AI 搜索引荐来源、记录爬虫日志、评估内容覆盖与转化，基于 TypeScript 与 PostgreSQL 构建并支持自托管，MIT 许可。适用于内容运营、SEO/GEO 团队及关注 LLM 引用可见性的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-analytics",
+        "self-hosted",
+        "geo"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:12:01.440256+00:00"
+    },
+    {
+      "title": "blakeandersonw/ai-app-playbook",
+      "source": "github-trending",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stars": 591,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-26T16:55:25Z",
+      "summary": "该项目是一个面向 2026 年的 AI 应用开发实战手册，以 TypeScript 代码库形式提供，核心是让开发者克隆仓库后直接将 coding agent 指向 AGENTS.md 文件，由 agent 按预设规范辅助构建可盈利的 AI 应用。它解决的是 AI 应用从想法到落地缺乏结构化工程指引的问题，将产品设计、技术选型与 agent 协作流程固化为可执行的文档与代码模板。技术亮点在于以 AGENTS.md 作为 agent 的上下文入口，把开发规范、架构决策和最佳实践编码为机器可读指令，实现 agent 驱动的应用脚手架生成。适用于独立开发者、初创团队快速验证 AI 产品，以及希望用 coding agent 提升开发效率的工程师。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-31T03:12:03.424975+00:00"
+    },
+    {
+      "title": "konlu/story-studio",
+      "source": "github-trending",
+      "url": "https://github.com/konlu/story-studio",
+      "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+      "stars": 536,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-29T07:55:17Z",
+      "summary": "story-studio 是一个面向 AI 短视频内容创作的开源 Agent Skill，覆盖从选题策划到生成剪映草稿的完整链路。它解决的是短视频创作者在选题、脚本撰写、素材组织与剪辑工程搭建之间反复切换工具、手工搬运内容的低效问题。核心技术亮点在于将 LLM Agent 能力与剪映草稿文件格式打通，通过结构化 Skill 编排实现内容生成到可编辑工程文件的自动化交付，Python 实现便于二次开发与集成。适用场景包括自媒体批量内容生产、短视频工作室流程自动化，以及作为 Agent 工具链中内容创作模块的参考实现。",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "multimodal",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:12:05.349793+00:00"
+    },
+    {
+      "title": "jackwener/DSH-Android",
+      "source": "github-trending",
+      "url": "https://github.com/jackwener/DSH-Android",
+      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "stars": 531,
+      "language": "Kotlin",
+      "topics": [
+        "ai-agent",
+        "android",
+        "deepseek",
+        "deepseek-harness",
+        "llm",
+        "phone-agent",
+        "shizuku"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-31T02:55:14Z",
+      "summary": "DSH-Android 是一个 Kotlin 编写的 Android APK，将 DeepSeek Harness 引擎内嵌到 App 进程中，使安卓手机无需 ROOT、无需 Termux 即可本地运行 LLM Agent。它解决的核心问题是移动端部署 AI Agent 的门槛过高，通过读屏操作 App、修改系统设置、定时与条件自动化等能力，让 Agent 能直接操控手机界面完成任务，并可选接入 Shizuku 提升权限。技术亮点在于引擎进程内嵌、无障碍读屏驱动的 UI 自动化以及免 root 的系统级操作。适用于个人在移动端做自动化任务、AI 助手实验与 Agent 能力验证。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-10-31T03:12:07.500568+00:00"
+    },
+    {
+      "title": "jacke-pp/open-yoki",
+      "source": "github-trending",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "stars": 493,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-28T09:21:00Z",
+      "summary": "open-yoki 是一个可在单台服务器上运行的全栈 AI 直播主播项目，整合语音合成、虚拟形象驱动、实时聊天、长期记忆与内容发布能力。它解决的是 AI 虚拟主播系统通常需要多服务编排、部署复杂的问题，通过一体化架构降低搭建门槛。核心技术亮点在于将 voice、face、chat、memory、posts 五个模块统一到单一服务中，基于 JavaScript 实现，便于 Web 开发者快速二次开发。适用场景包括个人或小团队搭建 AI 虚拟主播、直播互动机器人、社交平台自动化内容发布，以及作为多模态 AI 助手集成实验平台。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:12:09.566469+00:00"
+    },
+    {
+      "title": "patch-gg/anymove",
+      "source": "github-trending",
+      "url": "https://github.com/patch-gg/anymove",
+      "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+      "stars": 441,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "blender",
+        "claude-code-plugin",
+        "dinov2",
+        "gamedev",
+        "generative-ai",
+        "motion-capture"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-27T08:49:46Z",
+      "summary": "anymove 是一个从单段 AI 视频中提取任意生物动作捕捉数据的开源工具。它解决传统动捕需专业设备、多视角同步和人工绑定的问题：利用单帧内双相机视角，通过 DINOv2 读取关节位置，在两个视角中拟合骨骼 rig，最终输出可直接用于 Blender 的 GLB 文件。核心技术亮点是 DINOv2 驱动的关节识别与双视角联合拟合，降低了对硬件和标注的依赖。适用于动画制作、游戏角色绑定、AI 视频转 3D 动作等场景，并可作为 Claude Code 插件集成到 agent 工作流中。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 7.1,
+      "analyzed_at": "2026-10-31T03:12:11.818147+00:00"
+    },
+    {
+      "title": "vaishantsah/watson-AI-osint-all-in-one",
+      "source": "github-trending",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "stars": 352,
+      "language": "TypeScript",
+      "topics": [
+        "cybersecurity",
+        "desktop-app",
+        "digital-footprint",
+        "electron",
+        "free",
+        "infosec",
+        "intelligence",
+        "investigation",
+        "open-source-intelligence",
+        "osint",
+        "people-search",
+        "privacy",
+        "react",
+        "security-tools",
+        "social-media-search",
+        "tailwindcss",
+        "typescript",
+        "username-check",
+        "vite",
+        "windows"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-29T00:32:33Z",
+      "summary": "Watson 是一款面向 Windows 的开源 OSINT 桌面工具，基于 Electron + TypeScript 构建。它解决的是公开信息检索分散、需跨多平台手动搜索的问题：用户输入昵称、邮箱、电话或网址，即可在 3,100+ 公共站点上批量执行人物搜索、用户名查询与社交媒体检索，用于数字足迹核查。技术亮点在于多源站点聚合检索与桌面端本地化运行，宣称无需账号、不做追踪。适用场景包括安全研究、渗透测试前期信息收集、个人数字足迹自查与社工风险排查。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "cybersecurity",
+        "desktop-app",
+        "osint"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-10-31T03:12:13.672888+00:00"
+    },
+    {
+      "title": "oxnw/ai-phone",
+      "source": "github-trending",
+      "url": "https://github.com/oxnw/ai-phone",
+      "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
+      "stars": 325,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-28T18:19:54Z",
+      "summary": "oxnw/ai-phone 是一个运行在 Apple Silicon 上的 SIP 电话守护进程，将本地语音识别与语言模型集成到传统 VoIP 通话链路中。它解决的是云端语音助手在隐私、延迟和离线可用性上的痛点，让通话内容无需离开设备即可完成转写与理解。核心技术亮点在于利用 Apple Silicon 的本地推理能力串联 SIP 协议栈与 speech/LLM 模型，实现端到端的低延迟语音交互。适用场景包括隐私敏感的企业内线、离线客服原型、个人语音助手实验以及边缘侧语音 agent 开发。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:12:15.743469+00:00"
+    },
+    {
+      "title": "shipwords-dev/shipwords",
+      "source": "github-trending",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "stars": 297,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cloudflare",
+        "cloudflare-workers",
+        "d1",
+        "react",
+        "saas-boilerplate",
+        "saas-starter",
+        "seo",
+        "stripe",
+        "tanstack-start"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-31T01:57:41Z",
+      "summary": "Shipwords 是一个 Cloudflare 原生的 AI 建站启动框架，核心思路是「一个新词一个站」：围绕长尾关键词批量生成可盈利的 AI 站点，并内置 auth、credits、payments 与 AI 生成能力，让单个站点能在一个下午内上线。它解决的是独立开发者做 SEO 站群时重复搭建基础设施的问题——共享部分（认证、计费、生成管线）统一复用，可变部分（关键词、内容、页面）独立部署。技术栈基于 Cloudflare Workers、D1、React 与 TypeScript，天然具备边缘部署和低运维成本优势。适合做关键词站群、AI 工具站快速验证、以及需要低成本试错的独立开发者场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:12:17.880640+00:00"
+    },
+    {
+      "title": "JunWan666/astrbot-for-android",
+      "source": "github-trending",
+      "url": "https://github.com/JunWan666/astrbot-for-android",
+      "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+      "stars": 279,
+      "language": "Kotlin",
+      "topics": [
+        "ai",
+        "android",
+        "astrbot",
+        "chatbot",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "napcat",
+        "napcatqq",
+        "onebot",
+        "proot",
+        "qq-bot",
+        "self-hosted",
+        "ubuntu"
+      ],
+      "collected_at": "2026-10-31T03:11:40.141555+00:00",
+      "published_at": "2026-10-29T19:24:02Z",
+      "summary": "该项目是一个 Android 应用，用于在手机本地部署和管理 AstrBot 与 NapCat 聊天机器人框架。它通过内置 PRoot Ubuntu 运行环境，让用户无需 Root 即可在 Android 设备上运行完整的 Linux 环境，并提供原生管理界面、WebUI、日志查看、备份恢复和独立更新功能。核心技术亮点在于将 PRoot 容器化方案与 Jetpack Compose 原生 UI 结合，降低了移动端部署 AI chatbot 的门槛。适用场景包括个人开发者利用闲置手机搭建本地 AI 助手、测试 chatbot 工作流，以及需要离线或隐私敏感场景下的轻量级部署。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-10-31T03:12:19.678107+00:00"
+    }
+  ]
+}

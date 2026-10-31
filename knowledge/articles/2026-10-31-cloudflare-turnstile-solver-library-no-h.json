@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-10-31-009",
+  "title": "Cloudflare Turnstile solver library (no headless browser required)",
+  "source": "hackernews-top",
+  "url": "https://github.com/chris124567/cfsolve",
+  "summary": "Cloudflare Turnstile 的无头浏览器替代求解库，通过逆向分析 Turnstile 的挑战流程，在纯 HTTP 层面完成验证码求解，无需启动 Chromium 等 headless browser。核心亮点在于绕过浏览器环境依赖，直接模拟前端 JS 执行与 token 获取逻辑，降低资源开销并提升自动化稳定性。适用于爬虫、自动化测试、RPA 等需要批量通过 Turnstile 人机验证的工程场景，但需注意合规与反滥用风险。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-10-31T03:11:40.307839+00:00",
+  "analyzed_at": "2026-10-31T03:12:21.614072+00:00",
+  "organized_at": "2026-10-31T03:12:58.310860+00:00",
+  "status": "published"
+}
