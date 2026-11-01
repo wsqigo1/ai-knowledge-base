@@ -1,0 +1,400 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-01T03:08:21.426214+00:00",
+  "date": "2026-11-01",
+  "count": 20,
+  "items": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "source": "hackernews-top",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "hn_url": "https://news.ycombinator.com/item?id=50319510",
+      "description": "",
+      "hn_score": 813,
+      "comments": 261,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "HackerTube 是一个基于 Hacker News 推荐视频构建的 YouTube 聚合前端，通过抓取 HN 上被分享和讨论的视频链接，按社区投票热度重新组织内容流。它解决的是 HN 视频内容分散、缺乏统一浏览入口的问题，让用户无需在评论区翻找链接即可集中观看高信号视频。技术亮点在于利用 HN 公开 API 做数据聚合与排序，属于轻量级内容策展工具而非复杂 AI 系统。适用场景包括技术从业者追踪社区热议视频、内容策展原型参考，以及作为 HN 数据二次开发的示例项目。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-11-01T03:09:03.259491+00:00"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "source": "hackernews-top",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "hn_url": "https://news.ycombinator.com/item?id=50320963",
+      "description": "",
+      "hn_score": 194,
+      "comments": 57,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目讲述一位意大利农民在阁楼发现未知种子并种植的故事，属于人文趣闻而非技术内容。其核心价值在于引发对种子来源、品种鉴定与农业生物多样性的讨论，可能涉及植物学、基因检测或历史作物复原等话题。技术亮点缺失，无 AI/LLM 相关方法或工具。适用场景限于科普阅读、农业历史兴趣或 HN 社区文化讨论，对 AI 工程师的实际工程参考价值极低。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-01T03:09:05.116922+00:00"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "source": "hackernews-top",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "hn_url": "https://news.ycombinator.com/item?id=50319143",
+      "description": "",
+      "hn_score": 371,
+      "comments": 178,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "CVE-2026-98432 是一个 CVSS 9.8 的 TCP 协议栈 use-after-free 漏洞，攻击者可借畸形 TCP 报文触发内核内存释放后重用，实现远程代码执行或内核崩溃。核心问题在于 TCP 连接状态机在特定并发时序下未正确同步 socket 生命周期，导致已释放的 sk_buff/sock 结构被再次访问。技术亮点是漏洞位于协议栈核心路径、无需认证即可远程触发，影响面覆盖主流 Linux 内核版本。适用场景为内核/网络安全研究、服务器运维补丁评估、IDS/防火墙规则编写，与 AI 工程实践关联较弱。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-01T03:09:07.411665+00:00"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "source": "hackernews-top",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "hn_url": "https://news.ycombinator.com/item?id=50320995",
+      "description": "",
+      "hn_score": 104,
+      "comments": 54,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "Memdoor 提出一种多智能体协作方案：将 5 个 Qwen3-27B 模型组队，在 LiveCodeBench Hard 上超过 Fable 5。它针对单模型在复杂编程推理任务上能力受限的问题，通过多模型分工、结果聚合与投票机制提升难题通过率。核心技术亮点在于用较小开源模型的多智能体编排替代单一更大模型，展示 test-time scaling 与 ensemble 思路在 code-generation 场景的可行性。适用于需要高难度代码生成、竞赛级编程评测及低成本多模型协作部署的工程场景。",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-01T03:09:09.415698+00:00"
+    },
+    {
+      "title": "It's the memory latency, stupid",
+      "source": "hackernews-top",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "hn_url": "https://news.ycombinator.com/item?id=50318720",
+      "description": "",
+      "hn_score": 141,
+      "comments": 41,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该文章探讨了内存延迟（memory latency）在现代计算系统中的关键影响，指出许多性能瓶颈并非源于带宽不足，而是延迟问题。文章可能分析了内存访问模式、缓存层次结构以及硬件架构对延迟的敏感性，并提出了优化策略。核心技术亮点在于强调延迟优化的重要性，可能涉及预取、数据布局调整或并发控制。适用场景包括高性能计算、数据库系统、实时应用以及AI推理等对延迟敏感的工作负载。",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-01T03:09:11.066950+00:00"
+    },
+    {
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "source": "hackernews-top",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "hn_url": "https://news.ycombinator.com/item?id=50316100",
+      "description": "",
+      "hn_score": 213,
+      "comments": 116,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "Jepsen 对 ParticleDB 1.1.4 的分布式系统正确性验证报告，针对该数据库在故障注入下的线性一致性、分区容忍与恢复行为进行系统性测试。核心亮点在于 Jepsen 框架模拟网络分区、节点崩溃与时钟偏移，暴露 ParticleDB 在特定故障场景下的数据一致性缺陷与恢复路径问题。适用场景为分布式数据库选型评估、存储系统可靠性验证，以及 AI 工程师在构建 RAG 或向量检索后端时对底层存储一致性的风险判断。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-01T03:09:12.823848+00:00"
+    },
+    {
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "source": "hackernews-top",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "hn_url": "https://news.ycombinator.com/item?id=50314699",
+      "description": "",
+      "hn_score": 306,
+      "comments": 152,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该文章披露了针对 ChatGPT 账户的接管攻击链：攻击者利用登录流程中的数学/逻辑缺陷（如会话令牌处理与验证码机制）绕过认证，批量劫持账户。核心亮点在于将看似无害的算术校验环节转化为认证绕过入口，并给出可复现的攻击步骤与影响面分析。对 AI 工程师而言，价值在于理解 LLM 产品账户体系与 API 密钥管理的安全边界，适用于 AI 应用安全审计、认证流程加固与红队评估场景。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-01T03:09:15.044572+00:00"
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "source": "hackernews-top",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "hn_url": "https://news.ycombinator.com/item?id=50320599",
+      "description": "",
+      "hn_score": 25,
+      "comments": 5,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目讨论AI文本水印（text watermarking）技术及其对生成文本质量的影响。核心问题是：为AI生成文本嵌入可检测水印时，往往需要修改token采样分布，从而可能降低文本流畅性、多样性或语义保真度。技术亮点在于分析水印强度与质量损失之间的权衡关系，涉及采样策略调整、统计检测方法及鲁棒性评估。适用场景包括AI内容溯源、版权保护、学术诚信检测及平台内容治理，对关注LLM输出可信度与合规性的工程师有参考价值。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-01T03:09:17.160029+00:00"
+    },
+    {
+      "title": "Simple circuits can create complex behaviors",
+      "source": "hackernews-top",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261253",
+      "description": "",
+      "hn_score": 220,
+      "comments": 68,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目探讨简单电路如何涌现复杂行为，属于复杂系统与非线性动力学范畴。核心在于揭示少量基础元件通过特定连接方式即可产生难以从局部规则预测的全局模式，涉及反馈、耦合与涌现等机制。技术亮点在于用极简模型解释复杂现象，降低理解门槛。适用场景包括复杂系统教学、涌现行为研究、神经形态计算启发及多智能体系统设计参考。对AI工程师而言，可类比理解简单规则驱动的复杂AI行为，但直接工程落地价值有限。",
+      "tags": [
+        "reasoning",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-01T03:09:19.131789+00:00"
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "hn_url": "https://news.ycombinator.com/item?id=50319358",
+      "description": "",
+      "hn_score": 222,
+      "comments": 122,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该 HN 热帖讨论 Anthropic 对用户账号的封禁政策：任何涉及训练更大模型的行为（如使用 Claude 输出进行蒸馏、微调竞品模型、大规模数据抓取）都可能触发封禁。帖子反映的核心问题是闭源 API 服务商在 ToS 中限制模型蒸馏与竞争性训练，而用户缺乏透明度与申诉渠道。技术亮点在于社区对「模型输出即训练数据」这一灰色地带的实操边界讨论，包括如何界定正常使用与违规蒸馏。适用场景为使用商业 LLM API 构建产品的 AI 工程师、做模型蒸馏研究的团队，以及需要评估供应商锁定风险的架构决策者。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-01T03:09:21.432225+00:00"
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "hn_url": "https://news.ycombinator.com/item?id=50314654",
+      "description": "",
+      "hn_score": 824,
+      "comments": 469,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目报道塞尔维亚议会选举产生所谓“全球学历最高议会”，属于政治/社会新闻而非技术内容。它不解决AI工程问题，无核心技术亮点，也不涉及任何AI/LLM技术栈。对AI工程师而言，其价值仅限于作为社会现象或数据点参考，与日常开发、模型训练、推理优化等场景无直接关联。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-01T03:09:23.203565+00:00"
+    },
+    {
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "source": "hackernews-top",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "hn_url": "https://news.ycombinator.com/item?id=50290652",
+      "description": "",
+      "hn_score": 193,
+      "comments": 45,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "这是 Lean 定理证明器创造者 Leo de Moura 的访谈，讨论 AI 与 Lean 结合推动形式化验证的未来。形式化验证长期受限于人工编写证明成本高、门槛高的问题，LLM 的代码与证明生成能力为自动化证明搜索和辅助形式化提供了新路径。核心技术亮点在于 Lean 作为依赖类型理论的交互式定理证明器，可作为 AI 生成证明的严格验证后端，形成「AI 生成 + 机器校验」的闭环，同时 Lean 的数学库 mathlib 为训练与评测提供大规模结构化数据。适用场景包括 AI 辅助数学研究、软件与硬件形式化验证、以及以可验证奖励为核心的 reasoning 模型训练。",
+      "tags": [
+        "reasoning",
+        "code-generation",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "analyzed_at": "2026-11-01T03:09:25.255454+00:00"
+    },
+    {
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "source": "hackernews-top",
+      "url": "https://piefed.world/post/1503394",
+      "hn_url": "https://news.ycombinator.com/item?id=50314666",
+      "description": "",
+      "hn_score": 311,
+      "comments": 182,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "Molly 是 Signal 的第三方开源分支，主打隐私增强与去 Google 化，但已三个月未更新，存在未修复的安全漏洞。该条目讨论其维护停滞带来的风险，核心问题在于安全敏感型开源项目缺乏持续维护时，用户面临已知漏洞暴露与供应链信任下降。技术亮点有限，主要是对 Signal 协议栈的 fork 与加固实践。适用场景为关注即时通讯隐私、开源安全审计与依赖维护策略的工程师参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-01T03:09:27.414477+00:00"
+    },
+    {
+      "title": "Casio Watches of the 1980s",
+      "source": "hackernews-top",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "hn_url": "https://news.ycombinator.com/item?id=50317363",
+      "description": "",
+      "hn_score": 214,
+      "comments": 109,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目是 Hacker News 上关于 1980 年代卡西欧手表的技术/怀旧文章，梳理了当时卡西欧在石英表、计算器表、传感器表等产品线中的工程设计与功能创新。它解决的是复古电子表爱好者与硬件工程师对早期消费电子设计细节、模块化结构与低功耗方案的信息需求。核心技术亮点包括早期 LCD 驱动、传感器集成（如温度/气压）、计算器表的人机交互设计以及低成本大规模制造工艺。适用场景为硬件考古、消费电子设计参考与复古计算文化研究，与当前 AI/LLM 工程实践无直接关联。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-01T03:09:29.738841+00:00"
+    },
+    {
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "source": "hackernews-top",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "hn_url": "https://news.ycombinator.com/item?id=50260753",
+      "description": "",
+      "hn_score": 182,
+      "comments": 48,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "Marelleo 是一个基于 ESP32 的开源故事盒子，由开发者为其孩子构建。它解决儿童有声故事播放设备价格高、内容封闭的问题，提供可定制、离线运行的硬件方案。核心技术亮点包括 ESP32 微控制器驱动音频播放、开源固件与硬件设计、支持自定义故事内容加载。适用场景为家庭儿童教育、DIY 智能硬件爱好者、开源硬件教学。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-01T03:09:31.391395+00:00"
+    },
+    {
+      "title": "ChatGPT and Codex usage limits merging",
+      "source": "hackernews-top",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "hn_url": "https://news.ycombinator.com/item?id=50320588",
+      "description": "",
+      "hn_score": 14,
+      "comments": 4,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目讨论 OpenAI 将 ChatGPT 与 Codex 的使用限额进行合并，即用户在同一账户体系下共享或统一两类服务的调用配额。它解决的是开发者同时使用对话式 AI 与代码生成模型时配额割裂、管理成本高的问题。核心技术点在于统一计费与限流策略，涉及 API 配额调度和产品层整合，但条目本身信息量有限。适用场景为依赖 ChatGPT 进行日常问答、同时用 Codex 辅助编程的开发者与团队，便于统一规划用量。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-01T03:09:33.327200+00:00"
+    },
+    {
+      "title": "I post trained a model on Demoscenes",
+      "source": "hackernews-top",
+      "url": "https://datavorous.com/writing/demoscener/",
+      "hn_url": "https://news.ycombinator.com/item?id=50318442",
+      "description": "",
+      "hn_score": 48,
+      "comments": 33,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该项目在 Demoscene（演示场景）数据上训练了一个生成模型，探索 AI 对复古图形与程序化视觉艺术的建模能力。Demoscene 以极限代码体积和实时图形效果著称，数据稀缺且风格独特，训练模型需处理低分辨率、程序化纹理与像素级细节。核心技术亮点在于针对小众视觉域的数据构建与模型适配，可能涉及扩散模型或自回归生成。适用场景包括复古风格图像生成、程序化艺术辅助创作、以及小样本视觉域迁移研究。",
+      "tags": [
+        "multimodal",
+        "fine-tuning",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-01T03:09:35.522986+00:00"
+    },
+    {
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "source": "hackernews-top",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50316531",
+      "description": "",
+      "hn_score": 236,
+      "comments": 128,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该报道披露恶意软件利用LLM对受害者进行价值排序，属于AI安全领域的攻击面研究。其核心在于将LLM作为自动化情报分析组件，从受害者数据中提取可货币化特征并打分，从而优化攻击目标选择。技术亮点是LLM在非结构化数据上的语义理解与排序能力被武器化，展示了prompt-driven的自动化决策链。对AI工程师而言，该案例揭示了LLM应用中的滥用风险与防御盲区，适用于安全威胁建模、红队评估及LLM安全对齐场景。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-01T03:09:37.623616+00:00"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "source": "hackernews-top",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "description": "",
+      "hn_score": 970,
+      "comments": 547,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目披露了 Cursor Marketplace 上 Claude Code for VS Code 扩展存在后门的安全事件。问题核心在于第三方市场分发的 AI 编程助手扩展可能被植入恶意代码，威胁开发者本地环境与代码资产安全。技术亮点在于对扩展供应链攻击路径的实证分析，揭示了 IDE 插件生态中权限滥用与代码签名缺失的风险。适用场景包括 AI 编程工具的安全审计、开发者工具供应链治理，以及企业内 IDE 扩展准入策略制定。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-11-01T03:09:39.271159+00:00"
+    },
+    {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "source": "hackernews-top",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "hn_url": "https://news.ycombinator.com/item?id=50318871",
+      "description": "",
+      "hn_score": 160,
+      "comments": 175,
+      "collected_at": "2026-11-01T03:08:20.156321+00:00",
+      "published_at": "2026-11-01T03:08:20.156321+00:00",
+      "summary": "该条目讨论 GPT-5.6 Sol 在《Factorio》和平模式下击败游戏，属于 LLM 在复杂策略游戏中的能力展示。它解决的是评估大模型长程规划、资源管理与自动化决策能力的问题。核心技术亮点在于模型需在开放沙盒环境中进行多步推理、工具调用与状态追踪，而非单纯文本生成。适用场景包括 agent 基准测试、游戏 AI 研究以及复杂任务规划能力评估。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "benchmark",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-01T03:09:41.015027+00:00"
+    }
+  ]
+}

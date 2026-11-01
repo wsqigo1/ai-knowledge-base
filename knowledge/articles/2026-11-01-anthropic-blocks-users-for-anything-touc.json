@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-01-010",
+  "title": "Anthropic blocks users for anything touching training larger models",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+  "summary": "该 HN 热帖讨论 Anthropic 对用户账号的封禁政策：任何涉及训练更大模型的行为（如使用 Claude 输出进行蒸馏、微调竞品模型、大规模数据抓取）都可能触发封禁。帖子反映的核心问题是闭源 API 服务商在 ToS 中限制模型蒸馏与竞争性训练，而用户缺乏透明度与申诉渠道。技术亮点在于社区对「模型输出即训练数据」这一灰色地带的实操边界讨论，包括如何界定正常使用与违规蒸馏。适用场景为使用商业 LLM API 构建产品的 AI 工程师、做模型蒸馏研究的团队，以及需要评估供应商锁定风险的架构决策者。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:21.432225+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

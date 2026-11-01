@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-01-009",
+  "title": "AI text watermarking and quality loss",
+  "source": "hackernews-top",
+  "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+  "summary": "该条目讨论AI文本水印（text watermarking）技术及其对生成文本质量的影响。核心问题是：为AI生成文本嵌入可检测水印时，往往需要修改token采样分布，从而可能降低文本流畅性、多样性或语义保真度。技术亮点在于分析水印强度与质量损失之间的权衡关系，涉及采样策略调整、统计检测方法及鲁棒性评估。适用场景包括AI内容溯源、版权保护、学术诚信检测及平台内容治理，对关注LLM输出可信度与合规性的工程师有参考价值。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:17.160029+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

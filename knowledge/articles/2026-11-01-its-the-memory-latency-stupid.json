@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-01-006",
+  "title": "It's the memory latency, stupid",
+  "source": "hackernews-top",
+  "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+  "summary": "该文章探讨了内存延迟（memory latency）在现代计算系统中的关键影响，指出许多性能瓶颈并非源于带宽不足，而是延迟问题。文章可能分析了内存访问模式、缓存层次结构以及硬件架构对延迟的敏感性，并提出了优化策略。核心技术亮点在于强调延迟优化的重要性，可能涉及预取、数据布局调整或并发控制。适用场景包括高性能计算、数据库系统、实时应用以及AI推理等对延迟敏感的工作负载。",
+  "tags": [
+    "benchmark",
+    "developer-tools",
+    "reasoning"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:11.066950+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-01-005",
+  "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+  "source": "hackernews-top",
+  "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+  "summary": "Memdoor 提出一种多智能体协作方案：将 5 个 Qwen3-27B 模型组队，在 LiveCodeBench Hard 上超过 Fable 5。它针对单模型在复杂编程推理任务上能力受限的问题，通过多模型分工、结果聚合与投票机制提升难题通过率。核心技术亮点在于用较小开源模型的多智能体编排替代单一更大模型，展示 test-time scaling 与 ensemble 思路在 code-generation 场景的可行性。适用于需要高难度代码生成、竞赛级编程评测及低成本多模型协作部署的工程场景。",
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:09.415698+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

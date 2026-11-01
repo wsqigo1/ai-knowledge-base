@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-01-008",
+  "title": "Do the math: How we took over ChatGPT accounts",
+  "source": "hackernews-top",
+  "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "summary": "该文章披露了针对 ChatGPT 账户的接管攻击链：攻击者利用登录流程中的数学/逻辑缺陷（如会话令牌处理与验证码机制）绕过认证，批量劫持账户。核心亮点在于将看似无害的算术校验环节转化为认证绕过入口，并给出可复现的攻击步骤与影响面分析。对 AI 工程师而言，价值在于理解 LLM 产品账户体系与 API 密钥管理的安全边界，适用于 AI 应用安全审计、认证流程加固与红队评估场景。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:15.044572+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

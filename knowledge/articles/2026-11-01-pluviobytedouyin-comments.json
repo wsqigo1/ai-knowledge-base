@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-01-003",
+  "title": "Pluviobyte/douyin-comments",
+  "source": "github-trending",
+  "url": "https://github.com/Pluviobyte/douyin-comments",
+  "summary": "该项目是一个面向 Claude Code 等 Agent 平台的 Skill，用于抓取抖音单条视频的完整评论区（含一级评论与楼中楼回复）。它解决的是抖音评论接口签名复杂、直接逆向成本高的问题：在已登录的 Chrome 页面上下文中照抄页面真实请求，将签名计算交给页面自身的 SDK 完成，从而绕过签名逆向。核心技术亮点是复用浏览器会话与页面 SDK 实现请求伪造，以 Agent Skill 形式封装为可被 LLM Agent 调用的工具。适用于社交媒体数据采集、舆情分析、内容研究等需要批量获取抖音评论的场景。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-01T03:08:20.065310+00:00",
+  "analyzed_at": "2026-11-01T03:08:57.147917+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

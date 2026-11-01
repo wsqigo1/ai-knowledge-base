@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-01-007",
+  "title": "Jepsen: ParticleDB 1.1.4",
+  "source": "hackernews-top",
+  "url": "https://jepsen.io/analyses/particledb-1.1.4",
+  "summary": "Jepsen 对 ParticleDB 1.1.4 的分布式系统正确性验证报告，针对该数据库在故障注入下的线性一致性、分区容忍与恢复行为进行系统性测试。核心亮点在于 Jepsen 框架模拟网络分区、节点崩溃与时钟偏移，暴露 ParticleDB 在特定故障场景下的数据一致性缺陷与恢复路径问题。适用场景为分布式数据库选型评估、存储系统可靠性验证，以及 AI 工程师在构建 RAG 或向量检索后端时对底层存储一致性的风险判断。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "vector-database",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:12.823848+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

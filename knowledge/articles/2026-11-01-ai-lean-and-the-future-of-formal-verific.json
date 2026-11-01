@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-01-011",
+  "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+  "source": "hackernews-top",
+  "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+  "summary": "这是 Lean 定理证明器创造者 Leo de Moura 的访谈，讨论 AI 与 Lean 结合推动形式化验证的未来。形式化验证长期受限于人工编写证明成本高、门槛高的问题，LLM 的代码与证明生成能力为自动化证明搜索和辅助形式化提供了新路径。核心技术亮点在于 Lean 作为依赖类型理论的交互式定理证明器，可作为 AI 生成证明的严格验证后端，形成「AI 生成 + 机器校验」的闭环，同时 Lean 的数学库 mathlib 为训练与评测提供大规模结构化数据。适用场景包括 AI 辅助数学研究、软件与硬件形式化验证、以及以可验证奖励为核心的 reasoning 模型训练。",
+  "tags": [
+    "reasoning",
+    "code-generation",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:25.255454+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

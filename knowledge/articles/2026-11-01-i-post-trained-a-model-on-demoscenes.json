@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-01-013",
+  "title": "I post trained a model on Demoscenes",
+  "source": "hackernews-top",
+  "url": "https://datavorous.com/writing/demoscener/",
+  "summary": "该项目在 Demoscene（演示场景）数据上训练了一个生成模型，探索 AI 对复古图形与程序化视觉艺术的建模能力。Demoscene 以极限代码体积和实时图形效果著称，数据稀缺且风格独特，训练模型需处理低分辨率、程序化纹理与像素级细节。核心技术亮点在于针对小众视觉域的数据构建与模型适配，可能涉及扩散模型或自回归生成。适用场景包括复古风格图像生成、程序化艺术辅助创作、以及小样本视觉域迁移研究。",
+  "tags": [
+    "multimodal",
+    "fine-tuning",
+    "open-source",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-01T03:08:20.156321+00:00",
+  "analyzed_at": "2026-11-01T03:09:35.522986+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}

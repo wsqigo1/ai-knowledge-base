@@ -1,7 +1,236 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2812,
+  "total_count": 2827,
   "entries": [
+    {
+      "id": "kb-2026-11-01-001",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "source": "github-trending",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "file": "2026-11-01-deepseek-aidsh-superagent-prototype.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "multi-agent",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-002",
+      "title": "N1nEmAn/sapper-v2",
+      "source": "github-trending",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "file": "2026-11-01-n1nemansapper-v2.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "large-language-model",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-003",
+      "title": "Pluviobyte/douyin-comments",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/douyin-comments",
+      "file": "2026-11-01-pluviobytedouyin-comments.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-004",
+      "title": "jmanico/grim-prompter",
+      "source": "github-trending",
+      "url": "https://github.com/jmanico/grim-prompter",
+      "file": "2026-11-01-jmanicogrim-prompter.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-005",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "source": "hackernews-top",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "file": "2026-11-01-memdoor-a-team-of-5-qwen38-27b-models-be.json",
+      "tags": [
+        "multi-agent",
+        "code-generation",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-006",
+      "title": "It's the memory latency, stupid",
+      "source": "hackernews-top",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "file": "2026-11-01-its-the-memory-latency-stupid.json",
+      "tags": [
+        "benchmark",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-007",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "source": "hackernews-top",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "file": "2026-11-01-jepsen-particledb-114.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-008",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "source": "hackernews-top",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "file": "2026-11-01-do-the-math-how-we-took-over-chatgpt-acc.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-009",
+      "title": "AI text watermarking and quality loss",
+      "source": "hackernews-top",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "file": "2026-11-01-ai-text-watermarking-and-quality-loss.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-010",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "file": "2026-11-01-anthropic-blocks-users-for-anything-touc.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-011",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "source": "hackernews-top",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "file": "2026-11-01-ai-lean-and-the-future-of-formal-verific.json",
+      "tags": [
+        "reasoning",
+        "code-generation",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-012",
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "source": "hackernews-top",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "file": "2026-11-01-show-hn-marelleo-an-open-source-story-bo.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-013",
+      "title": "I post trained a model on Demoscenes",
+      "source": "hackernews-top",
+      "url": "https://datavorous.com/writing/demoscener/",
+      "file": "2026-11-01-i-post-trained-a-model-on-demoscenes.json",
+      "tags": [
+        "multimodal",
+        "fine-tuning",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-014",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "source": "hackernews-top",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "file": "2026-11-01-malware-uses-llms-to-rank-victims-by-how.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
+    {
+      "id": "kb-2026-11-01-015",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "source": "hackernews-top",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "file": "2026-11-01-gpt-56-sol-can-beat-factorio-on-peaceful.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "reasoning",
+        "benchmark",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-01T03:09:41.061136+00:00"
+    },
     {
       "id": "kb-2026-10-31-001",
       "title": "ccch1mneyyy/dsh-Go",
@@ -42279,5 +42508,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-10-31T03:12:58.574603+00:00"
+  "last_updated": "2026-11-01T03:09:41.222864+00:00"
 }

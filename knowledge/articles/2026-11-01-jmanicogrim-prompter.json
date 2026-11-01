@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-01-004",
+  "title": "jmanico/grim-prompter",
+  "source": "github-trending",
+  "url": "https://github.com/jmanico/grim-prompter",
+  "summary": "grim-prompter 是一个面向 AI coding agent 的威胁建模工具，将 Claude Code、Codex 等 agent 指向代码仓库，自动生成带证据追溯的威胁模型。它解决 AI 辅助开发中安全威胁分析依赖人工、难以规模化的问题，核心亮点是内置 36 种架构与 29 种方法（含 LINDDUN 隐私威胁建模），输出可追溯到代码证据，采用 MIT 协议开源。适用于 AppSec 团队在 CI 或本地对 agent 生成的代码进行安全评审，以及开发者快速识别架构级风险。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-01T03:08:20.065310+00:00",
+  "analyzed_at": "2026-11-01T03:09:01.204229+00:00",
+  "organized_at": "2026-11-01T03:09:41.061136+00:00",
+  "status": "published"
+}
