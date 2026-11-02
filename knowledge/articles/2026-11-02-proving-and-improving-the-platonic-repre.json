@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-02-008",
+  "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2610.39302",
+  "summary": "该研究围绕 Platonic Representation Hypothesis（柏拉图表示假说）展开，探讨不同模态、不同架构的神经网络是否趋向于收敛到共享的潜在表示空间。论文借助 JEPA（Joint Embedding Predictive Architecture）类模型，为该假说提供实证与理论支撑，并进一步提出改进表示对齐的方法。核心亮点在于将表示收敛现象与自监督预测式学习框架结合，分析模型规模、数据与训练目标对跨模态表示一致性的影响。适用场景包括多模态表示学习、自监督预训练架构设计，以及对基础模型表示可迁移性的理论理解。",
+  "tags": [
+    "multimodal",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-02T03:18:08.986193+00:00",
+  "analyzed_at": "2026-11-02T03:19:04.697958+00:00",
+  "organized_at": "2026-11-02T03:19:28.137519+00:00",
+  "status": "published"
+}

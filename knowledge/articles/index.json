@@ -1,7 +1,175 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2827,
+  "total_count": 2838,
   "entries": [
+    {
+      "id": "kb-2026-11-02-001",
+      "title": "modelflare-ai/AnyModelBot",
+      "source": "github-trending",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "file": "2026-11-02-modelflare-aianymodelbot.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "tool-use",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-002",
+      "title": "caru-ini/stack-diagram",
+      "source": "github-trending",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "file": "2026-11-02-caru-inistack-diagram.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-003",
+      "title": "wanghao-SunSky/cs329z-chinese",
+      "source": "github-trending",
+      "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+      "file": "2026-11-02-wanghao-sunskycs329z-chinese.json",
+      "tags": [
+        "agent",
+        "rag",
+        "tool-use",
+        "multi-agent",
+        "large-language-model"
+      ],
+      "score": 7.6,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-004",
+      "title": "Balanov/baiagent-director",
+      "source": "github-trending",
+      "url": "https://github.com/Balanov/baiagent-director",
+      "file": "2026-11-02-balanovbaiagent-director.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "rag"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-005",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "source": "hackernews-top",
+      "url": "https://hackerbooks.org",
+      "file": "2026-11-02-show-hn-hackerbooks-hackertube-but-for-b.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "rag"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-006",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "source": "hackernews-top",
+      "url": "https://github.com/raphlinus/nibnib",
+      "file": "2026-11-02-nibnib-image-compression-with-extreme-de.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-007",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "source": "hackernews-top",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "file": "2026-11-02-show-hn-omnidiff-opensource-super-fast-c.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-008",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "file": "2026-11-02-proving-and-improving-the-platonic-repre.json",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-009",
+      "title": "Mathematics has changed. Let's act like it",
+      "source": "hackernews-top",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "file": "2026-11-02-mathematics-has-changed-lets-act-like-it.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-010",
+      "title": "The AI cost of JavaScript frameworks",
+      "source": "hackernews-top",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "file": "2026-11-02-the-ai-cost-of-javascript-frameworks.json",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
+    {
+      "id": "kb-2026-11-02-011",
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "source": "hackernews-top",
+      "url": "https://outcrop.rocks/",
+      "file": "2026-11-02-show-hn-point-your-camera-at-a-landscape.json",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-02T03:19:28.137519+00:00"
+    },
     {
       "id": "kb-2026-11-01-001",
       "title": "deepseek-ai/dsh-superagent-prototype",
@@ -42508,5 +42676,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-01T03:09:41.222864+00:00"
+  "last_updated": "2026-11-02T03:19:28.295653+00:00"
 }

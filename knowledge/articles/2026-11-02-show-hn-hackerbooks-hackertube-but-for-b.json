@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-02-005",
+  "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+  "source": "hackernews-top",
+  "url": "https://hackerbooks.org",
+  "summary": "HackerBooks 是一个聚合 Hacker News 社区讨论中提及书籍的索引型 Web 应用，定位为「HackerTube 的书籍版」。它解决的核心问题是：HN 上高质量的书籍推荐散落在海量评论中，难以系统检索与发现。技术亮点在于对 HN 评论数据进行抓取与实体抽取，将非结构化的书籍提及转化为可浏览、可搜索的书籍目录，并关联原始讨论上下文。该项目本身不涉及 LLM 训练或推理，属于数据挖掘与信息检索类工具。适用场景包括：工程师按 HN 社区口碑筛选技术/非技术读物、研究者分析社区知识传播偏好、以及作为社区内容二次组织的参考实现。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "rag"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-02T03:18:08.986193+00:00",
+  "analyzed_at": "2026-11-02T03:18:50.572082+00:00",
+  "organized_at": "2026-11-02T03:19:28.137519+00:00",
+  "status": "published"
+}

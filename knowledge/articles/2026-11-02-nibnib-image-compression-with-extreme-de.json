@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-02-006",
+  "title": "Nibnib: Image compression with extreme decompression speed",
+  "source": "hackernews-top",
+  "url": "https://github.com/raphlinus/nibnib",
+  "summary": "Nibnib 是一个专注于极致解压速度的图像压缩开源项目，旨在解决传统图像压缩格式在解码速度上的瓶颈问题。其核心技术亮点在于采用轻量级压缩算法与高度优化的解码路径，实现远超常规格式的解压吞吐，同时保持可接受的压缩率。该项目适合对实时性要求极高的场景，如高帧率图像流处理、游戏资源加载、嵌入式视觉系统及大规模图像检索管道中的快速预览生成。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-02T03:18:08.986193+00:00",
+  "analyzed_at": "2026-11-02T03:18:56.446756+00:00",
+  "organized_at": "2026-11-02T03:19:28.137519+00:00",
+  "status": "published"
+}

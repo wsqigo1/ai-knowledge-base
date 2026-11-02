@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-02-007",
+  "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+  "source": "hackernews-top",
+  "url": "https://github.com/ivankovic/omnidiff",
+  "summary": "OmniDiff 是 Rust 实现的开源 Git difftool，通过内容感知（content-aware）算法对 diff 进行语义级解析与结构化展示，解决传统行级 diff 在重构、移动代码或格式调整时产生大量噪声的问题。核心技术亮点包括基于 AST/语法结构的差异比对、高性能 Rust 实现带来的低延迟，以及面向开发者工作流的可集成设计。适用于代码审查、重构验证、大型仓库日常 diff 查看等场景，对需要快速定位真实变更的 AI 工程师与开发者具有实用价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-02T03:18:08.986193+00:00",
+  "analyzed_at": "2026-11-02T03:19:02.777292+00:00",
+  "organized_at": "2026-11-02T03:19:28.137519+00:00",
+  "status": "published"
+}
