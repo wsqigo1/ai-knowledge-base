@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-03-009",
+  "title": "Show HN: Subvocal – Talk to your computer without making noise",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50340088",
+  "summary": "Subvocal 是一个通过无声唇部动作识别实现人机交互的开源项目，用户无需发声即可向计算机输入指令。它解决了嘈杂环境或隐私场景下语音交互不便的问题，核心技术亮点在于利用摄像头捕捉唇部运动并结合机器学习模型进行实时解码，可能涉及轻量级视觉模型与端侧推理优化。该项目适合需要静默输入的场景，如公共办公、图书馆或无障碍辅助，也为多模态交互研究提供了可复现的工程参考。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-03T04:31:13.306693+00:00",
+  "analyzed_at": "2026-11-03T04:32:01.353762+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

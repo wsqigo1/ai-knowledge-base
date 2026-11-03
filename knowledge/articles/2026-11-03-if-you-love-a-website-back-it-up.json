@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-03-011",
+  "title": "If you love a website, back it up",
+  "source": "hackernews-top",
+  "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+  "summary": "该条目讨论个人网站与网络内容的长期保存问题，主张对喜爱的网站主动做本地备份，而非依赖在线服务持续可用。核心思路是结合 wget/curl 等抓取工具、单页归档格式（如 WARC、SingleFile）与定期快照策略，把动态站点固化为可离线浏览的静态副本，并关注链接失效、服务关停与内容漂移风险。技术亮点在于归档格式选择、增量抓取与存储成本权衡。适用于个人知识管理、数字存档、研究者与内容创作者，对 AI 工程师的网页数据采集与语料留存也有参考价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.0,
+  "collected_at": "2026-11-03T04:31:13.306693+00:00",
+  "analyzed_at": "2026-11-03T04:32:07.713717+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

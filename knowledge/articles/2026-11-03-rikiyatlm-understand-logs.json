@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-03-007",
+  "title": "RikiyaT/lm_understand-logs",
+  "source": "github-trending",
+  "url": "https://github.com/RikiyaT/lm_understand-logs",
+  "summary": "该项目是博客文章《LLMs can understand and write neural network weights》的完整实验日志仓库，记录了让大语言模型直接理解并生成神经网络权重参数的全过程。核心思路是将神经网络权重序列化为文本，通过fine-tuning让LLM学习权重与模型行为之间的映射关系，从而探索LLM作为权重生成器或权重理解器的可行性。技术亮点在于跨模态的权重-文本对齐实验设计，以及完整的可复现日志。适用于研究LLM与模型内部表示交互、权重生成、模型可解释性等方向的AI研究员。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-03T04:31:13.162052+00:00",
+  "analyzed_at": "2026-11-03T04:31:55.427164+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

@@ -1,0 +1,562 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-11-03T04:31:14.462566+00:00",
+  "date": "2026-11-03",
+  "count": 20,
+  "items": [
+    {
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "source": "github-trending",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "stars": 14050,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-31T12:05:51Z",
+      "summary": "DeepSeek 开源的自主 Agent 系统原型，用 TypeScript 实现，探索更少人工干预的多步任务执行架构。针对现有 Agent 在长链路任务中规划脆弱、工具调用不稳定、状态管理混乱的问题，提供可运行的参考实现。核心亮点包括自主任务分解与重规划、工具调用编排、上下文与记忆管理，以及面向多轮交互的执行循环设计。适合 AI 工程师研究 Agent 架构、构建自动化工作流与开发 AI assistant 时借鉴，也可作为 multi-agent 与 tool-use 方向的工程基线。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "multi-agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-11-03T04:31:16.813654+00:00"
+    },
+    {
+      "title": "heydamir/unslop",
+      "source": "github-trending",
+      "url": "https://github.com/heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": 6470,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-01T16:46:10Z",
+      "summary": "heydamir/unslop 是一个 Claude skill，用于将 AI 生成、带有明显「vibecoded」痕迹的 UI 代码转化为更接近专业设计稿的界面。它针对 LLM 代码生成中常见的视觉同质化、布局粗糙和样式堆砌问题，通过技能化封装引导 Claude 输出更符合设计规范的 UI 实现。核心技术亮点在于以 skill 形式复用 Claude 的代码生成能力，结合设计规则约束输出质量，而非训练新模型。适用于使用 Claude 辅助前端开发、需要快速提升 AI 生成界面观感的工程师与产品原型场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "prompt-engineering",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-03T04:31:19.016559+00:00"
+    },
+    {
+      "title": "wangzan101/Mika",
+      "source": "github-trending",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stars": 5529,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T19:08:44Z",
+      "summary": "Mika 是一个运行在 Android 设备端的 on-device AI agent，通过 Accessibility 服务直接操作手机应用与网页，替用户完成跨 App 的自动化任务。它解决的是移动端缺乏通用自动化执行层的问题——传统脚本或 RPA 依赖固定 UI 路径，而 LLM 驱动的 agent 能理解界面语义并动态决策。核心技术亮点包括 Kotlin + Jetpack Compose 构建的轻量运行时、基于 accessibility 的 UI 元素解析与动作执行、以及端侧模型推理以保障隐私与低延迟。适用场景为移动端任务自动化、无障碍辅助、跨应用工作流编排，以及研究端侧 agent 的工程落地参考。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-11-03T04:31:21.113248+00:00"
+    },
+    {
+      "title": "paipiange/nvzhuang",
+      "source": "github-trending",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": 2060,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-31T17:01:39Z",
+      "summary": "paipiange/nvzhuang 是一个基于 Go 构建的 AI 女装参考图集与虚拟试穿网站，内置 1407 张女装参考图，支持中英文检索。项目解决虚拟试穿场景中参考素材分散、多模型接入繁琐的问题，核心亮点是统一封装 OpenAI Images、Gemini、豆包等图像生成接口，并允许自定义 Base URL、API Key 与模型，降低多供应商切换成本。技术上以 Go 实现后端服务，前端提供图集浏览与试穿交互，适合电商服装展示、虚拟试衣原型验证及多模型图像生成对比测试等场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-03T04:31:23.267439+00:00"
+    },
+    {
+      "title": "caru-ini/stack-diagram",
+      "source": "github-trending",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "stars": 1266,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "diagram",
+        "system-architecture",
+        "tech-stack"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-03T03:42:46Z",
+      "summary": "stack-diagram 是一个面向 AI Agent 的 skill，用户用一句话描述自己的技术栈，即可自动生成带官方 logo 的架构图。它解决了工程师在文档、分享和评审中手动绘制架构图耗时且风格不统一的问题。核心技术亮点在于将自然语言解析与图标资源匹配结合，输出可直接使用的架构图，并以 Agent skill 形式集成到 Claude Code、Codex 等编码助手工作流中。项目用 TypeScript 实现，适合需要快速产出架构可视化、做技术方案沟通或教学演示的开发者。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-03T04:31:25.310185+00:00"
+    },
+    {
+      "title": "jacke-pp/open-yoki",
+      "source": "github-trending",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "stars": 876,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-28T09:21:00Z",
+      "summary": "open-yoki 是一个可在单台服务器上运行的全栈 AI 直播主播项目，整合语音合成、虚拟形象驱动、对话聊天、长期记忆与内容发布能力，解决个人或小团队搭建低成本、可自主部署的 AI 虚拟主播的技术门槛问题。核心技术亮点在于将 voice、face、chat、memory、posts 五个模块统一编排在单机架构中，基于 JavaScript 实现，降低部署与运维复杂度。适用场景包括个人 AI 主播直播、虚拟客服演示、社交平台自动化内容发布以及 AI 数字人原型验证。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "agent",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-03T04:31:27.573356+00:00"
+    },
+    {
+      "title": "sleepy-zone/ai-ref-library-cn",
+      "source": "github-trending",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "stars": 677,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "gpt"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T16:19:53Z",
+      "summary": "该项目是一个面向 AI 作图的中文素材库，汇集人脸、姿势、服装等提示词与参考素材，帮助中文用户快速构建 Stable Diffusion 等文生图模型的 prompt。它解决中文社区缺乏结构化 AI 绘图素材、提示词复用困难的问题。核心亮点在于按主题分类整理素材，并借助 GPT 辅助生成或优化提示词，降低绘图门槛。适用场景包括 AI 绘画爱好者、设计师快速出图、内容创作者制作角色设定图等。",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-03T04:31:29.490132+00:00"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2",
+      "source": "github-trending",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "stars": 626,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-01T15:48:49Z",
+      "summary": "sapper-v2 是面向自主渗透测试的多智能体系统，由 AI 指挥官、worker swarm 与分层 fact-intent graph 构成，用于在无人值守条件下完成攻击链推理与任务编排。其亮点在于以分层事实-意图图组织多 agent 协作，并在腾讯智能攻防赛中以 1B tokens 击败 4.5B tokens 方案夺冠，体现 token 效率与长时自主运行能力。附带 Nüwa Test 探索让 AI 在具备创造、语言与历史设定下演化文明。适用于 CTF、自动化红队与多智能体长程任务研究。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "large-language-model",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-11-03T04:31:31.525926+00:00"
+    },
+    {
+      "title": "Balanov/uncut",
+      "source": "github-trending",
+      "url": "https://github.com/Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "stars": 575,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T20:58:19Z",
+      "summary": "Balanov/uncut 是一个用 Go 编写的无头（headless）编码 agent 运行框架（harness），以单个 7 MB 静态二进制分发，仅暴露四个工具，通过纯 stdin/stdout 进行交互，并强调「无静默截断」（no silent cuts），即不会悄悄丢弃或裁剪上下文与工具输出。它解决的是现有 coding agent 框架依赖重、行为不透明、输出被隐式截断导致调试困难的问题。核心技术亮点在于极简静态二进制、显式 I/O 协议与可审计的工具调用边界，便于嵌入 CI、脚本和自动化流水线。适用场景包括终端内编码 agent 实验、可复现的 agent 评测、以及需要轻量可移植 harness 的开发者工具集成。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-03T04:31:33.660911+00:00"
+    },
+    {
+      "title": "cutetailbud/ff-ruyijs",
+      "source": "github-trending",
+      "url": "https://github.com/cutetailbud/ff-ruyijs",
+      "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+      "stars": 544,
+      "language": "C++",
+      "topics": [
+        "anti-bot",
+        "automation",
+        "firefox",
+        "headless-browser",
+        "javascript",
+        "python",
+        "spidermonkey",
+        "web-scraping"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T14:40:51Z",
+      "summary": "ff-ruyijs 是一个用 C++ 构建的开源项目，允许开发者从 Python 直接调用真实 Firefox 引擎（Headless SpiderMonkey + Necko）执行任意网站的 JavaScript，面向自动化与网页抓取场景。它解决的核心问题是：传统 headless 浏览器（如 Playwright/Puppeteer）在指纹与行为层面易被反爬系统识别，而该项目复用 Firefox 原生 JS 引擎与网络栈，显著提升对 anti-bot 检测的绕过能力。技术亮点在于将 SpiderMonkey 与 Necko 解耦为可嵌入的 headless 运行时，并通过 Python 绑定暴露控制接口。适用于需要高隐蔽性的爬虫、自动化测试与反检测研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "automation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-03T04:31:35.763718+00:00"
+    },
+    {
+      "title": "zhanghao123vip/ai-manju-skills",
+      "source": "github-trending",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "stars": 506,
+      "language": null,
+      "topics": [
+        "ai-skills",
+        "ai-video",
+        "chinese",
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-01T02:53:40Z",
+      "summary": "该项目是面向 AI 漫剧创作的全流程 Skill 集合，覆盖 21 个题材，提供从一句点子生成企划案、资产图提示词、分集剧本、分镜到视频提示词的完整链路。它解决的是 AI 视频内容生产中创意到可执行提示词之间缺乏结构化流程的问题，通过模块化 Skill 将 prompt-engineering 与 workflow-automation 结合，可接入 Claude Code、WorkBuddy、DeepSeek 等工具。核心技术亮点在于题材化模板与多阶段提示词编排，适合短剧/漫剧创作者、AI 视频内容团队及 prompt 工程师快速搭建生产管线。",
+      "tags": [
+        "prompt-engineering",
+        "workflow-automation",
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-03T04:31:38.227819+00:00"
+    },
+    {
+      "title": "wanghao-SunSky/cs329z-chinese",
+      "source": "github-trending",
+      "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+      "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+      "stars": 461,
+      "language": "HTML",
+      "topics": [
+        "agent-memory",
+        "agentic-ai",
+        "ai-agents",
+        "chinese",
+        "chinese-tutorial",
+        "course-notes",
+        "cs329z",
+        "engineering-ai-agents",
+        "llm",
+        "llm-evaluation",
+        "multi-agent",
+        "python",
+        "rag",
+        "stanford",
+        "tutorial"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-31T10:55:35Z",
+      "summary": "斯坦福 CS329Z Engineering AI Agents 课程的中文教程笔记，面向 Python 开发者系统讲解 AI 智能体工程。内容覆盖 LLM 基础、RAG、工具调用、记忆机制、多智能体协作、评测与安全等 19 讲及 4 项实践，提供完整 Markdown 与在线/离线 HTML 版本。核心价值在于将前沿课程体系本地化为中文，降低学习门槛，适合希望系统掌握 agent 工程化落地的开发者与研究者。",
+      "tags": [
+        "agent",
+        "large-language-model",
+        "rag",
+        "tool-use",
+        "multi-agent"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-03T04:31:40.040070+00:00"
+    },
+    {
+      "title": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "source": "github-trending",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "description": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+      "stars": 416,
+      "language": null,
+      "topics": [
+        "123vips",
+        "ai-api",
+        "ai-companion",
+        "ai-video",
+        "ai-video-api",
+        "ai-video-generator",
+        "comfyui",
+        "image-to-video",
+        "nsfw",
+        "nsfw-ai",
+        "seedance",
+        "seedance-api",
+        "spicy",
+        "text-to-video",
+        "uncensored",
+        "uncensored-ai",
+        "video-api",
+        "video-generation",
+        "wan",
+        "wan-video"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T03:01:26Z",
+      "summary": "该项目提供成人向 AI 视频生成 API 的接入文档与指南，覆盖 Seedance Spicy 与 Wan NSFW 两类模型，支持 text-to-video 与 image-to-video 生成。它解决的是 18+ 内容创作者在调用 NSFW 视频模型时缺乏统一异步任务、webhook 回调与积分计费接入方案的问题。技术亮点在于异步任务编排、webhook 事件通知与 credits 计费体系的封装，降低集成门槛。适用场景包括 AI companion 产品、成人内容生成平台及需要 NSFW 视频能力的开发者快速接入。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.8,
+      "analyzed_at": "2026-11-03T04:31:41.920981+00:00"
+    },
+    {
+      "title": "Pluviobyte/douyin-comments",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/douyin-comments",
+      "description": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
+      "stars": 374,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "claude-code",
+        "comments-scraper",
+        "douyin"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-31T02:52:47Z",
+      "summary": "该项目是一个面向 Claude Code 等 Agent 的 Skill，用于抓取抖音单条视频的完整评论区（含一级评论与楼中楼回复）。它解决的是抖音评论数据难以稳定获取的问题：不逆向签名算法，而是在已登录的 Chrome 中复用页面真实请求，将签名与风控交给页面 SDK 处理，从而规避反爬对抗。技术亮点在于以浏览器上下文为执行环境、请求照抄与 SDK 代签的组合，实现低维护成本的采集方案。适用于舆情分析、内容研究、评论数据挖掘等需要抖音评论语料的场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-03T04:31:44.081173+00:00"
+    },
+    {
+      "title": "jmanico/grim-prompter",
+      "source": "github-trending",
+      "url": "https://github.com/jmanico/grim-prompter",
+      "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+      "stars": 349,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "appsec",
+        "claude-code",
+        "codex",
+        "linddun",
+        "llm",
+        "pasta",
+        "prompt-engineering",
+        "security",
+        "stride",
+        "threat-modeling"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-29T20:53:55Z",
+      "summary": "grim-prompter 是一个面向 AI coding agents 的威胁建模工具，将 Claude Code、Codex 等 agent 指向代码仓库后自动生成可追溯证据的 threat model。它解决 AI 辅助开发中安全威胁分析依赖人工、难以规模化的问题，核心亮点是内置 36 种架构模式与 29 种威胁建模方法（含 LINDDUN 隐私框架），每条威胁结论均附带证据溯源，MIT 协议开源。适用于 AppSec 团队在 AI 生成代码流程中嵌入自动化安全评审，以及开发者对现有仓库做快速威胁面梳理。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-03T04:31:45.748933+00:00"
+    },
+    {
+      "title": "shipwords-dev/shipwords",
+      "source": "github-trending",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "stars": 347,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cloudflare",
+        "cloudflare-workers",
+        "d1",
+        "react",
+        "saas-boilerplate",
+        "saas-starter",
+        "seo",
+        "stripe",
+        "tanstack-start"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T09:56:41Z",
+      "summary": "Shipwords 是一个 Cloudflare 原生的 AI 建站模板，面向关键词站群场景：每个新关键词生成一个独立站点，内置认证、积分、支付与 AI 内容生成能力，宣称一个下午即可上线。它解决的是批量建站中重复搭建基础设施的问题，通过共享不变部分、独立可变部分来降低边际成本。技术栈基于 Cloudflare Workers、D1 与 React，属于边缘部署的轻量全栈方案。适合做 SEO 站群、关键词变现实验的独立开发者，但技术深度有限，更偏工程脚手架而非 AI 研究。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-03T04:31:47.853297+00:00"
+    },
+    {
+      "title": "wquguru/shisei",
+      "source": "github-trending",
+      "url": "https://github.com/wquguru/shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "stars": 337,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T14:10:19Z",
+      "summary": "shisei 是一个 CC0 授权的免费人体模特姿势参考库，面向 AI 图像生成工具（Nano Banana、ChatGPT、ComfyUI、Midjourney）提供 250+ 种姿势 × 5 个视角的线稿素材，并附日/中/英/韩四语名称标注。它解决 AI 绘画中人物姿态控制缺乏高质量、可商用、结构化参考素材的问题，通过线稿形式降低 ControlNet/图生图等流程的输入门槛，并借助多语言命名便于提示词检索与组合。核心亮点是 CC0 免版权、多视角覆盖与多语言标签体系，适合 AI 绘画创作者、ComfyUI 工作流搭建者及需要姿态参考的视觉内容生产场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-03T04:31:50.098444+00:00"
+    },
+    {
+      "title": "mylea1/phongent",
+      "source": "github-trending",
+      "url": "https://github.com/mylea1/phongent",
+      "description": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+      "stars": 327,
+      "language": "Kotlin",
+      "topics": [],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T13:22:57Z",
+      "summary": "phongent 是一个基于 Kotlin 开发的开源项目，提供 iOS/Android 多设备 agent 主控与安卓执行端，灵感来自 Mika。它解决跨设备 AI agent 协同控制的问题，让主控端可调度安卓设备执行任务。核心技术亮点包括多设备 agent 架构、移动端执行端集成，以及基于 Kotlin 的跨平台实现。适用场景为移动端自动化测试、多设备任务编排与 AI agent 研究。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-03T04:31:51.506807+00:00"
+    },
+    {
+      "title": "wzc520pyfm/gen-ai-pose-image",
+      "source": "github-trending",
+      "url": "https://github.com/wzc520pyfm/gen-ai-pose-image",
+      "description": "澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.",
+      "stars": 326,
+      "language": "JavaScript",
+      "topics": [
+        "deepseek",
+        "genai",
+        "generic",
+        "gpt",
+        "image",
+        "pose"
+      ],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-11-02T06:58:52Z",
+      "summary": "该项目是一个基于姿势线稿与衣装集生成二次元角色图像的 JavaScript 工具，面向社区虚拟形象「鲸鱼娘大肥鱼」提供姿势调整与变装出图能力，并可集成进 DeepSeek Harness 作为生成式 AI 应用模块。核心技术亮点在于将线稿姿势控制与服装条件结合，实现可控的角色图像生成，同时提供与 LLM 工具链的对接方式。适用场景包括二次元角色设计、虚拟形象内容创作、社区同人出图以及生成式 AI 应用原型演示。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-03T04:31:53.441596+00:00"
+    },
+    {
+      "title": "RikiyaT/lm_understand-logs",
+      "source": "github-trending",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "stars": 311,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-11-03T04:31:13.162052+00:00",
+      "published_at": "2026-10-29T04:47:12Z",
+      "summary": "该项目是博客文章《LLMs can understand and write neural network weights》的完整实验日志仓库，记录了让大语言模型直接理解并生成神经网络权重参数的全过程。核心思路是将神经网络权重序列化为文本，通过fine-tuning让LLM学习权重与模型行为之间的映射关系，从而探索LLM作为权重生成器或权重理解器的可行性。技术亮点在于跨模态的权重-文本对齐实验设计，以及完整的可复现日志。适用于研究LLM与模型内部表示交互、权重生成、模型可解释性等方向的AI研究员。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-03T04:31:55.427164+00:00"
+    }
+  ]
+}

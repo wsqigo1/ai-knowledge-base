@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-03-016",
+  "title": "We halved DNS build delay and cut memory use by 85%",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+  "summary": "该文章介绍了一项针对 DNS 构建流程的性能优化实践：通过重构构建管线与内存管理策略，将 DNS 构建延迟减半，同时将内存占用降低 85%。核心亮点在于对构建缓存、并发调度与数据结构进行系统性调优，而非依赖单一技巧。此类优化对 CI/CD 流水线、大规模 DNS 配置管理及资源受限环境下的构建任务具有直接参考价值，尤其适合需要频繁重建 DNS 记录的运维与平台工程团队借鉴。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-03T04:31:13.306693+00:00",
+  "analyzed_at": "2026-11-03T04:32:33.530646+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

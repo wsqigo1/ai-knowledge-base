@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-03-002",
+  "title": "Balanov/uncut",
+  "source": "github-trending",
+  "url": "https://github.com/Balanov/uncut",
+  "summary": "Balanov/uncut 是一个用 Go 编写的无头（headless）编码 agent 运行框架（harness），以单个 7 MB 静态二进制分发，仅暴露四个工具，通过纯 stdin/stdout 进行交互，并强调「无静默截断」（no silent cuts），即不会悄悄丢弃或裁剪上下文与工具输出。它解决的是现有 coding agent 框架依赖重、行为不透明、输出被隐式截断导致调试困难的问题。核心技术亮点在于极简静态二进制、显式 I/O 协议与可审计的工具调用边界，便于嵌入 CI、脚本和自动化流水线。适用场景包括终端内编码 agent 实验、可复现的 agent 评测、以及需要轻量可移植 harness 的开发者工具集成。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "developer-tools",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-03T04:31:13.162052+00:00",
+  "analyzed_at": "2026-11-03T04:31:33.660911+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

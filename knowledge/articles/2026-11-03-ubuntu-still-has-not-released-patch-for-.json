@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-03-015",
+  "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+  "source": "hackernews-top",
+  "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+  "summary": "Ubuntu 近三周未发布针对 Linux 本地提权 0day RCE 漏洞的补丁，该漏洞可让攻击者在受影响系统上实现远程代码执行。核心问题在于主流发行版补丁响应滞后，暴露了开源供应链安全治理的短板。技术亮点在于漏洞利用链的构造与提权路径分析，涉及内核态与用户态交互。适用场景为 Linux 服务器运维、安全应急响应与发行版补丁管理评估。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-03T04:31:13.306693+00:00",
+  "analyzed_at": "2026-11-03T04:32:25.539091+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

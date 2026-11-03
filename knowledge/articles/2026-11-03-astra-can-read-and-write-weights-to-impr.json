@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-03-008",
+  "title": "Astra can read and write weights to improve Qwen",
+  "source": "hackernews-top",
+  "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+  "summary": "Astra 是一个能够直接读写大模型权重（weights）的技术方案，针对 Qwen 模型进行能力增强。它解决的是传统 fine-tuning 或 prompt 工程难以精确控制模型内部知识表达的问题，通过直接操作权重实现更高效、更可控的模型改进。核心技术亮点在于权重级别的读写机制，可能涉及模型编辑或参数高效调整，而非全量重训练。适用场景包括需要快速定制 Qwen 模型行为、注入特定知识或修复模型缺陷的 AI 工程师与研究场景。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-03T04:31:13.306693+00:00",
+  "analyzed_at": "2026-11-03T04:31:59.395057+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

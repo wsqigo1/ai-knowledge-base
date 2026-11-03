@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-03-010",
+  "title": "Scaling Git at OpenAI",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/scaling-git-at-openai/",
+  "summary": "OpenAI 工程团队分享在超大规模代码仓库场景下扩展 Git 的实践。随着模型训练与产品代码量激增，标准 Git 在克隆、检出、历史查询等操作上出现严重性能瓶颈。文章剖析了瓶颈根因（如 packfile 膨胀、引用数量爆炸、文件系统元数据压力），并介绍通过分片仓库、优化对象存储后端、定制协议与缓存层等手段实现水平扩展。核心技术亮点包括对 Git 内部数据结构的针对性改造与大规模分布式存储的工程权衡。适用于拥有海量代码资产、需支撑数千工程师高频协作的 AI 或大型软件组织参考。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-03T04:31:13.306693+00:00",
+  "analyzed_at": "2026-11-03T04:32:03.480786+00:00",
+  "organized_at": "2026-11-03T04:32:35.151852+00:00",
+  "status": "published"
+}

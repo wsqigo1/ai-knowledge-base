@@ -1,7 +1,250 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2838,
+  "total_count": 2854,
   "entries": [
+    {
+      "id": "kb-2026-11-03-001",
+      "title": "sleepy-zone/ai-ref-library-cn",
+      "source": "github-trending",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "file": "2026-11-03-sleepy-zoneai-ref-library-cn.json",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-002",
+      "title": "Balanov/uncut",
+      "source": "github-trending",
+      "url": "https://github.com/Balanov/uncut",
+      "file": "2026-11-03-balanovuncut.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-003",
+      "title": "cutetailbud/ff-ruyijs",
+      "source": "github-trending",
+      "url": "https://github.com/cutetailbud/ff-ruyijs",
+      "file": "2026-11-03-cutetailbudff-ruyijs.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "automation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-004",
+      "title": "zhanghao123vip/ai-manju-skills",
+      "source": "github-trending",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "file": "2026-11-03-zhanghao123vipai-manju-skills.json",
+      "tags": [
+        "prompt-engineering",
+        "workflow-automation",
+        "multimodal",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-005",
+      "title": "wquguru/shisei",
+      "source": "github-trending",
+      "url": "https://github.com/wquguru/shisei",
+      "file": "2026-11-03-wqugurushisei.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-006",
+      "title": "mylea1/phongent",
+      "source": "github-trending",
+      "url": "https://github.com/mylea1/phongent",
+      "file": "2026-11-03-mylea1phongent.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-007",
+      "title": "RikiyaT/lm_understand-logs",
+      "source": "github-trending",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "file": "2026-11-03-rikiyatlm-understand-logs.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-008",
+      "title": "Astra can read and write weights to improve Qwen",
+      "source": "hackernews-top",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "file": "2026-11-03-astra-can-read-and-write-weights-to-impr.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-009",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "file": "2026-11-03-show-hn-subvocal-talk-to-your-computer-w.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-010",
+      "title": "Scaling Git at OpenAI",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "file": "2026-11-03-scaling-git-at-openai.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-011",
+      "title": "If you love a website, back it up",
+      "source": "hackernews-top",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "file": "2026-11-03-if-you-love-a-website-back-it-up.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.0,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-012",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "source": "hackernews-top",
+      "url": "https://momentic.ai/",
+      "file": "2026-11-03-launch-hn-momentic-yc-w24-agents-that-ca.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "large-language-model",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-013",
+      "title": "Egoless Mathematics in the AI Era",
+      "source": "hackernews-top",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "file": "2026-11-03-egoless-mathematics-in-the-ai-era.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-014",
+      "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
+      "source": "hackernews-top",
+      "url": "https://ownhackertube.cc/",
+      "file": "2026-11-03-own-your-hackertubean-ai-curator-inspire.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-015",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "source": "hackernews-top",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "file": "2026-11-03-ubuntu-still-has-not-released-patch-for-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
+    {
+      "id": "kb-2026-11-03-016",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "file": "2026-11-03-we-halved-dns-build-delay-and-cut-memory.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-03T04:32:35.151852+00:00"
+    },
     {
       "id": "kb-2026-11-02-001",
       "title": "modelflare-ai/AnyModelBot",
@@ -42676,5 +42919,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-02T03:19:28.295653+00:00"
+  "last_updated": "2026-11-03T04:32:35.373736+00:00"
 }
