@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-04-015",
+  "title": "We're training a Figma-fluent editing model",
+  "source": "hackernews-top",
+  "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+  "summary": "该项目训练一个能理解并操作 Figma 设计文件的编辑模型，目标是让 AI 直接完成设计稿的修改与生成，而非仅做静态图像识别。核心技术亮点在于将 Figma 的结构化设计数据（图层、组件、样式）作为模型输入输出空间，使模型具备对设计工具的语义级操控能力，属于多模态与工具使用结合的方向。适用场景包括设计自动化、UI 原型迭代、设计系统维护以及 AI 辅助设计工作流。",
+  "tags": [
+    "multimodal",
+    "tool-use",
+    "fine-tuning",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-04T03:51:13.992215+00:00",
+  "analyzed_at": "2026-11-04T03:52:10.850690+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

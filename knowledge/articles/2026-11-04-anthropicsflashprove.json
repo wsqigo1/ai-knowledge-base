@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-04-005",
+  "title": "anthropics/FlashProve",
+  "source": "github-trending",
+  "url": "https://github.com/anthropics/FlashProve",
+  "summary": "FlashProve 是 Anthropic 发布的零知识证明（ZKP）研究原型，用 Lean 语言实现 AI 推理过程的密码学可验证性。它试图解决的核心问题是：如何在不暴露模型权重和输入数据的前提下，向第三方证明某次 AI 推理确实由指定模型正确执行。技术亮点在于将 zk-SNARK 类证明系统与神经网络推理计算图结合，并用 Lean 的形式化能力保证电路与推理语义一致。适用场景包括隐私敏感的可信推理审计、去中心化 AI 服务验证和合规性证明。但项目明确标注不再维护，且 Lean 实现偏学术，工程落地需大量二次开发。",
+  "tags": [
+    "open-source",
+    "reasoning",
+    "benchmark",
+    "large-language-model"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-04T03:51:13.795955+00:00",
+  "analyzed_at": "2026-11-04T03:51:41.330423+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-04-012",
+  "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "source": "hackernews-top",
+  "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "summary": "该 HN 热帖揭露 Postman 桌面客户端在用户未明确同意的情况下静默安装 AI 插件，并尝试将全部 API 数据（包括请求、集合、环境变量等）上传共享。问题核心在于开发者工具供应链的隐私与安全边界被突破，涉及客户端自动更新机制、插件权限模型与数据外传行为。技术亮点在于通过抓包与进程监控还原了插件安装与数据上报链路，为审计同类工具提供方法参考。适用于关注 DevTools 隐私合规、企业 API 资产安全及客户端供应链风险的工程师与安全团队。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-04T03:51:13.992215+00:00",
+  "analyzed_at": "2026-11-04T03:52:05.245714+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

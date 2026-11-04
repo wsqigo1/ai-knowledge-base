@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-04-014",
+  "title": "There is no posttraining data commons",
+  "source": "hackernews-top",
+  "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+  "summary": "该HN讨论帖指出后训练（post-training）阶段缺乏类似预训练数据那样的公共数据共享基础设施（data commons），即没有统一、开放、可复用的后训练数据集与治理机制。文章剖析了当前fine-tuning、RLHF、偏好数据等后训练数据分散在闭源厂商与零散开源项目中，导致复现困难、数据质量参差、许可不清等问题，并探讨建立后训练数据公共池的可行性与障碍。技术亮点在于对数据治理与开源协作模式的系统性反思，而非具体算法。适用于关注LLM训练数据生态、开源模型复现与数据合规的AI工程师与研究者。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-04T03:51:13.992215+00:00",
+  "analyzed_at": "2026-11-04T03:52:09.221269+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

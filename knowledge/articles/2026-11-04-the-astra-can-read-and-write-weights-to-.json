@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-04-018",
+  "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+  "source": "hackernews-top",
+  "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+  "summary": "该 HN 帖子对一篇声称 Astra 能通过读写 Qwen 模型权重来提升其能力的文章提出质疑，指出其表述存在误导性。核心争议在于：所谓'读写权重'可能并非真正修改模型参数，而是通过外部记忆或适配层实现，容易让读者误以为是权重级微调。技术亮点在于社区对 LLM 能力宣称的严谨审视，强调区分权重修改、激活干预与外部增强的边界。适用场景为 AI 工程师评估类似'模型自我改进'宣称时的批判性参考。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-04T03:51:13.992215+00:00",
+  "analyzed_at": "2026-11-04T03:52:16.472699+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

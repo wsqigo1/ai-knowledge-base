@@ -1,0 +1,399 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-04T03:51:15.654037+00:00",
+  "date": "2026-11-04",
+  "count": 20,
+  "items": [
+    {
+      "title": "The Internals of PostgreSQL",
+      "source": "hackernews-top",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50358702",
+      "description": "",
+      "hn_score": 171,
+      "comments": 10,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "《The Internals of PostgreSQL》是一份系统讲解 PostgreSQL 内部实现原理的技术资料，涵盖存储引擎、查询处理、事务与并发控制、WAL 日志、索引结构等核心机制。它解决的是工程师在使用 PostgreSQL 时缺乏底层原理认知、难以进行性能调优和故障排查的问题。核心技术亮点在于以图文结合方式拆解 MVCC、VACUUM、查询优化器与执行器等复杂流程，帮助读者建立从 SQL 到磁盘的完整心智模型。适用场景包括数据库内核学习、后端性能优化、DBA 故障诊断以及面试准备，对 AI 工程师理解向量数据库底层存储与检索机制也有间接参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-11-04T03:51:52.046300+00:00"
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "source": "hackernews-top",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "hn_url": "https://news.ycombinator.com/item?id=50339288",
+      "description": "",
+      "hn_score": 661,
+      "comments": 275,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该条目讲述作者通过逆向工程与漏洞利用手段，突破车载导航系统的固件限制，仅为了实现修改系统时间的简单需求。核心亮点在于展示了嵌入式系统固件分析、调试接口探测与权限提升的完整流程，涉及对车机固件镜像的提取、二进制逆向与安全机制绕过。技术深度体现在对车载信息娱乐系统（IVI）底层架构的剖析，而非依赖官方OTA或诊断接口。适用场景包括嵌入式安全研究、车联网安全评估以及固件逆向工程学习，对AI工程师的直接实用价值有限，但可作为系统级调试与逆向思维的参考案例。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-04T03:51:54.085771+00:00"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "source": "hackernews-top",
+      "url": "https://neufangled.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50354358",
+      "description": "",
+      "hn_score": 441,
+      "comments": 158,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "Stringman 是一款成本约 800 美元的开源房间级夹爪机器人，面向机器人学习与具身智能研究。它解决了现有房间级操作平台价格高昂、难以复现的问题，提供低成本、可自行搭建的硬件方案。核心技术亮点包括开源机械设计与控制软件、房间尺度运动能力以及夹爪操作接口，便于采集真实环境下的操作数据并训练策略。适用场景为具身智能研究、机器人操作策略学习、低成本实验平台搭建与教学演示。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-04T03:51:55.563414+00:00"
+    },
+    {
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "source": "hackernews-top",
+      "url": "https://hackertv.org",
+      "hn_url": "https://news.ycombinator.com/item?id=50346755",
+      "description": "",
+      "hn_score": 226,
+      "comments": 45,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "HackerTV 是一个将 Hacker News 社区高推荐度 YouTube 视频聚合为 24/7 轮播电视频道的 Web 项目。它解决了技术从业者在海量 HN 讨论中难以筛选优质视频内容、且缺乏沉浸式观看体验的问题。核心技术亮点在于抓取 HN 评论中的 YouTube 链接并按推荐度排序，再通过流媒体技术模拟电视直播频道，实现无需手动点播的持续播放。该项目适合 AI 工程师在碎片时间获取技术趋势、会议演讲和教程内容，也可作为团队内部技术分享的背景信息流。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-04T03:51:57.365737+00:00"
+    },
+    {
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "source": "hackernews-top",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "hn_url": "https://news.ycombinator.com/item?id=50358562",
+      "description": "",
+      "hn_score": 336,
+      "comments": 190,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "Safari 27.3 引入 Adaptive Dark Mode，根据页面内容与系统环境动态调整暗色渲染，解决传统强制暗色模式导致的对比度失衡、图片反色失真与可读性下降问题。核心技术亮点在于浏览器级自适应色彩映射与内容感知渲染策略，而非简单 CSS 滤镜反转。该特性主要面向 Web 开发者与前端工程师，影响网页暗色适配的调试与兼容性测试流程，对 AI 工程领域直接关联度较低。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-04T03:51:58.884807+00:00"
+    },
+    {
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "source": "hackernews-top",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50333131",
+      "description": "",
+      "hn_score": 135,
+      "comments": 23,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该条目是 Hacker News 上的一则文化类新闻，讨论日本 2026 年万圣节流行的“地味”（Jimi，意为朴素、低调）日常化装扮趋势，与 AI/LLM 技术无直接关联。内容不涉及任何技术方案、模型、工具或工程实践，无法解决 AI 工程师面临的技术问题，也无核心技术亮点。适用场景仅限于文化观察或社区闲聊，对 AI 技术研发的参考价值极低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-11-04T03:52:00.410415+00:00"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "hn_url": "https://news.ycombinator.com/item?id=50336918",
+      "description": "",
+      "hn_score": 407,
+      "comments": 175,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "富士胶片宣布将磁带产能扩大5倍，以应对AI训练与推理带来的冷数据归档需求激增。该举措解决的是AI时代海量训练语料、模型检查点和日志数据的低成本长期保存问题。核心技术亮点在于磁带存储的极低单位成本、高顺序读写带宽和离线物理隔离特性，适合PB级冷数据分层归档。适用场景包括大模型训练数据湖、合规性日志留存和备份恢复。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-04T03:52:01.794751+00:00"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "source": "hackernews-top",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "hn_url": "https://news.ycombinator.com/item?id=50355251",
+      "description": "",
+      "hn_score": 523,
+      "comments": 166,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该条目介绍在笔记本上运行 Qwen 3.8 27B 模型，并展示其具备解读模型权重的能力。核心在于探索大模型对自身权重矩阵的元认知与解释性，可能涉及将权重数值映射为语义描述的技术路径。亮点是本地化部署 27B 模型并实现权重级可解释性，降低对云端算力的依赖。适用场景包括模型可解释性研究、本地化 AI 开发及权重分析教学。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:52:03.607978+00:00"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "source": "hackernews-top",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "description": "",
+      "hn_score": 1090,
+      "comments": 361,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该 HN 热帖揭露 Postman 桌面客户端在用户未明确同意的情况下静默安装 AI 插件，并尝试将全部 API 数据（包括请求、集合、环境变量等）上传共享。问题核心在于开发者工具供应链的隐私与安全边界被突破，涉及客户端自动更新机制、插件权限模型与数据外传行为。技术亮点在于通过抓包与进程监控还原了插件安装与数据上报链路，为审计同类工具提供方法参考。适用于关注 DevTools 隐私合规、企业 API 资产安全及客户端供应链风险的工程师与安全团队。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "tool-use",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:52:05.245714+00:00"
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "description": "",
+      "hn_score": 263,
+      "comments": 46,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "《The Little Book of Generative AI Foundations》是一本面向工程师的生成式 AI 数学入门读物，以直观方式讲解大模型背后的数学基础。它解决的是从业者理解 LLM 原理时数学门槛高、资料零散的问题，通过精简篇幅和直觉化推导降低学习曲线。核心技术亮点在于将线性代数、概率论、优化与 Transformer 架构、attention 机制、训练目标等概念串联成连贯的知识路径，强调'为什么'而非公式堆砌。适用场景包括 AI 工程师系统补齐理论短板、面试准备、以及作为团队内部技术分享的参考材料。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:52:07.122262+00:00"
+    },
+    {
+      "title": "There is no posttraining data commons",
+      "source": "hackernews-top",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "hn_url": "https://news.ycombinator.com/item?id=50352641",
+      "description": "",
+      "hn_score": 42,
+      "comments": 10,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该HN讨论帖指出后训练（post-training）阶段缺乏类似预训练数据那样的公共数据共享基础设施（data commons），即没有统一、开放、可复用的后训练数据集与治理机制。文章剖析了当前fine-tuning、RLHF、偏好数据等后训练数据分散在闭源厂商与零散开源项目中，导致复现困难、数据质量参差、许可不清等问题，并探讨建立后训练数据公共池的可行性与障碍。技术亮点在于对数据治理与开源协作模式的系统性反思，而非具体算法。适用于关注LLM训练数据生态、开源模型复现与数据合规的AI工程师与研究者。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:52:09.221269+00:00"
+    },
+    {
+      "title": "We're training a Figma-fluent editing model",
+      "source": "hackernews-top",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "hn_url": "https://news.ycombinator.com/item?id=50322603",
+      "description": "",
+      "hn_score": 84,
+      "comments": 40,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该项目训练一个能理解并操作 Figma 设计文件的编辑模型，目标是让 AI 直接完成设计稿的修改与生成，而非仅做静态图像识别。核心技术亮点在于将 Figma 的结构化设计数据（图层、组件、样式）作为模型输入输出空间，使模型具备对设计工具的语义级操控能力，属于多模态与工具使用结合的方向。适用场景包括设计自动化、UI 原型迭代、设计系统维护以及 AI 辅助设计工作流。",
+      "tags": [
+        "multimodal",
+        "tool-use",
+        "fine-tuning",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-04T03:52:10.850690+00:00"
+    },
+    {
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "source": "hackernews-top",
+      "url": "https://github.com/finic-ai/kairos",
+      "hn_url": "https://news.ycombinator.com/item?id=50358314",
+      "description": "",
+      "hn_score": 72,
+      "comments": 11,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "Kairos 是一个开源的风险与欺诈决策平台，旨在为交易风控、账户安全等场景提供实时决策能力。它解决的是传统规则引擎难以灵活编排复杂风控策略、且商业方案成本高的问题。核心技术亮点包括可组合的决策流编排、规则与模型混合评分、以及面向实时请求的低延迟执行架构。适用场景涵盖支付反欺诈、注册滥用检测、交易风险评分等需要快速迭代策略的工程团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "agent"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:52:12.685522+00:00"
+    },
+    {
+      "title": "How I use AI (Oct 2026)",
+      "source": "hackernews-top",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
+      "description": "",
+      "hn_score": 102,
+      "comments": 93,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "这是一篇个人经验分享文章，作者系统梳理了自己在2026年10月使用AI工具的方式与工作流。文章聚焦于AI如何嵌入日常开发与研究任务，涵盖AI辅助编程、信息检索、文档写作与自动化流程等场景，并讨论了不同模型与工具的选择取舍。核心技术亮点在于真实工作流层面的工具组合与prompt策略，而非模型训练或架构创新。适用场景为希望借鉴他人AI使用范式、优化个人AI工具链的工程师与研究者。",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "prompt-engineering",
+        "code-generation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-04T03:52:14.263031+00:00"
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "source": "hackernews-top",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "hn_url": "https://news.ycombinator.com/item?id=50351111",
+      "description": "",
+      "hn_score": 925,
+      "comments": 193,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该 HN 帖子对一篇声称 Astra 能通过读写 Qwen 模型权重来提升其能力的文章提出质疑，指出其表述存在误导性。核心争议在于：所谓'读写权重'可能并非真正修改模型参数，而是通过外部记忆或适配层实现，容易让读者误以为是权重级微调。技术亮点在于社区对 LLM 能力宣称的严谨审视，强调区分权重修改、激活干预与外部增强的边界。适用场景为 AI 工程师评估类似'模型自我改进'宣称时的批判性参考。",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:52:16.472699+00:00"
+    },
+    {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "source": "hackernews-top",
+      "url": "https://uncracked.city",
+      "hn_url": "https://news.ycombinator.com/item?id=50358352",
+      "description": "",
+      "hn_score": 7,
+      "comments": 2,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "Uncracked City 是一款侦探推理游戏，玩家通过审讯由 LLM 驱动的嫌疑人来破案，这些嫌疑人会撒谎。它解决了在游戏场景中构建可信、动态且具有欺骗性的 NPC 对话的挑战。核心技术亮点在于利用 LLM 生成具有隐藏动机和谎言的嫌疑人，并让玩家通过提问和逻辑推理来揭穿谎言，可能涉及 prompt engineering 和 agent 技术来维持角色一致性。适用场景包括 AI 游戏开发、交互式叙事和 LLM 在娱乐领域的应用探索。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "prompt-engineering",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-04T03:52:18.345235+00:00"
+    },
+    {
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "source": "hackernews-top",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "hn_url": "https://news.ycombinator.com/item?id=50342119",
+      "description": "",
+      "hn_score": 118,
+      "comments": 16,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该条目报道了赫库兰尼姆纸卷 PHerc. 306B 中首次在 2000 年后被读取出的文字，属于维苏威挑战赛（Vesuvius Challenge）相关进展。该工作解决的是碳化纸卷无法物理展开、传统 OCR 失效的问题。核心技术亮点包括高分辨率 X 射线断层扫描、虚拟展开（virtual unwrapping）与机器学习驱动的墨迹检测，从无对比度的扫描数据中识别出希腊文字符。适用场景为古代文献数字化、文化遗产无损检测，以及极端低信噪比图像中的弱信号识别。",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-04T03:52:20.296398+00:00"
+    },
+    {
+      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "source": "hackernews-top",
+      "url": "https://www.mattkeeter.com/projects/antimony/3/",
+      "hn_url": "https://news.ycombinator.com/item?id=50334363",
+      "description": "",
+      "hn_score": 109,
+      "comments": 60,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "Antimony 是一款源自 Lisp Machine 传统而非传统制图桌范式的 CAD 软件，旨在解决传统 CAD 工具在交互设计与几何建模上的历史包袱问题。其核心技术亮点在于继承 Lisp 机器的符号计算与交互式开发环境，将 CAD 建模视为可编程、可实时修改的表达式系统，而非静态绘图操作。该软件适合对 CAD 底层架构、Lisp 编程范式及交互式设计工具演进感兴趣的工程师与研究者，但对当前 AI/LLM 工程实践的直接参考价值有限。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-04T03:52:21.959214+00:00"
+    },
+    {
+      "title": "Mac at any scale",
+      "source": "hackernews-top",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "hn_url": "https://news.ycombinator.com/item?id=50352758",
+      "description": "",
+      "hn_score": 331,
+      "comments": 194,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该条目讨论在任意规模下使用 Mac 作为开发或计算环境的技术方案，可能涉及虚拟化、远程访问或 CI/CD 集成。它解决的是在非 Mac 硬件上或大规模场景中利用 macOS 生态的问题，核心技术亮点可能包括自动化配置、资源调度或跨平台兼容性。适用场景包括需要 macOS 构建环境的开发团队、跨平台测试以及个人开发者远程使用 Mac。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-04T03:52:23.698227+00:00"
+    },
+    {
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "source": "hackernews-top",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "hn_url": "https://news.ycombinator.com/item?id=50356944",
+      "description": "",
+      "hn_score": 120,
+      "comments": 81,
+      "collected_at": "2026-11-04T03:51:13.992215+00:00",
+      "published_at": "2026-11-04T03:51:13.992215+00:00",
+      "summary": "该条目指出 macOS 27 将不再支持 CoreStorage 卷格式，这是苹果在 macOS 中逐步淘汰旧存储管理技术的延续。CoreStorage 曾用于 FileVault 全盘加密和 Fusion Drive 逻辑卷管理，后被 APFS 取代。此变更影响仍在使用 CoreStorage 格式的旧设备或外置存储用户，升级后可能无法挂载或读取相关卷。核心技术点在于操作系统底层存储栈的兼容性裁剪，涉及文件系统迁移与数据保全策略。适用场景为 macOS 系统升级规划、旧存储介质数据迁移及企业 IT 资产兼容性评估。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-04T03:52:25.831598+00:00"
+    }
+  ]
+}

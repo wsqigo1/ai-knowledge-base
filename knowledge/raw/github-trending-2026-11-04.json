@@ -1,0 +1,536 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-11-04T03:51:15.653616+00:00",
+  "date": "2026-11-04",
+  "count": 20,
+  "items": [
+    {
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "source": "github-trending",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "stars": 17227,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T09:29:14Z",
+      "summary": "DeepSeek 开源的 dsh-superagent-prototype 是一个面向更自主 Agent 系统的 TypeScript 原型实现，旨在解决现有 LLM Agent 在长程任务中自主性不足、工具调用与规划耦合松散的问题。核心技术亮点包括多步推理与工具使用的统一编排、可扩展的 Agent 运行时架构，以及面向自主决策的模块化设计。该项目适合 AI 工程师研究自主 Agent 架构、构建复杂任务自动化工作流，以及作为 multi-agent 与 tool-use 方向的参考实现。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 8.0,
+      "analyzed_at": "2026-11-04T03:51:17.725037+00:00"
+    },
+    {
+      "title": "heydamir/unslop",
+      "source": "github-trending",
+      "url": "https://github.com/heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": 7657,
+      "language": "JavaScript",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-01T16:46:10Z",
+      "summary": "heydamir/unslop 是一个 Claude skill，用于将 AI 生成、带有明显“vibecoded”痕迹的 UI 代码转化为具有设计感的界面。它解决的是 LLM 辅助编码中常见的界面粗糙、样式随意、缺乏设计规范的问题。核心技术亮点在于以 skill 形式封装设计规则与转换逻辑，通过 Claude 的 tool-use 能力对现有 UI 代码进行结构化重写与美化。适用场景包括快速原型设计、AI 生成前端代码的后期打磨，以及需要统一视觉风格的开发者工作流。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:19.332547+00:00"
+    },
+    {
+      "title": "wangzan101/Mika",
+      "source": "github-trending",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stars": 6155,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T20:49:20Z",
+      "summary": "Mika 是一个运行在 Android 设备端的 on-device AI agent，通过系统无障碍服务（accessibility）直接操控手机应用与网页，替用户完成跨 App 的自动化任务。它解决的是移动端 AI 助手只能对话、无法真正执行操作的问题，把 LLM 的规划能力落到真实 UI 交互上。核心技术亮点包括基于 Jetpack Compose 的界面、无障碍服务驱动的 UI 元素识别与点击、以及端侧推理以保障隐私和低延迟。适用场景为手机上的重复性操作自动化、跨应用信息收集与流程代办，适合关注 on-device agent 与移动自动化的 AI 工程师研究。",
+      "tags": [
+        "agent",
+        "ai-assistant",
+        "workflow-automation",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-11-04T03:51:21.077444+00:00"
+    },
+    {
+      "title": "paipiange/nvzhuang",
+      "source": "github-trending",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": 2136,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T07:01:03Z",
+      "summary": "paipiange/nvzhuang 是一个用 Go 构建的开源项目，收录 1407 张 AI 女装参考图集，并提供虚拟试穿网站。它解决 AI 图像生成中服装参考素材分散、试穿流程缺少统一入口的问题，支持中英文检索图集，可接入 OpenAI Images、Gemini、豆包及自定义 Base URL、API Key 和模型，便于灵活切换图像生成后端。技术亮点在于多模型适配层与图集检索结合，降低虚拟试穿原型搭建成本。适用于电商服装展示、AI 绘图素材检索和虚拟试穿 Demo 快速验证。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.3,
+      "analyzed_at": "2026-11-04T03:51:22.602849+00:00"
+    },
+    {
+      "title": "caru-ini/stack-diagram",
+      "source": "github-trending",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "stars": 1587,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "diagram",
+        "system-architecture",
+        "tech-stack"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T03:42:46Z",
+      "summary": "这是一个面向 AI Agent 的 skill 工具，用户用一句话描述自己的技术栈，即可自动生成带官方 logo 的架构图。它解决了工程师在文档、分享和评审中手动绘制架构图耗时且风格不统一的问题。核心技术亮点在于将自然语言理解与架构图渲染结合，并内置官方 logo 资源库，支持 Claude Code、Codex 等 agent 环境。适用场景包括技术方案文档、架构评审、团队知识分享和快速原型沟通。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:24.123743+00:00"
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop",
+      "source": "github-trending",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "stars": 901,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T21:58:03Z",
+      "summary": "agent-autoloop 是一个 TypeScript 编写的开源工具，为命令行 Agent（如 Claude Code、Codex）提供后台自主循环能力：Agent 可自动领取任务、持续跟进直至完成，仅在遇到不确定决策时通过卡片形式请求人工拍板。它解决了 CLI Agent 需人工逐步驱动、无法长时间无人值守运行的问题，核心亮点是自主任务循环与低干扰的人机协作中断机制。适用于需要批量、长时运行编码或自动化任务的开发者场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:25.932780+00:00"
+    },
+    {
+      "title": "RikiyaT/lm_understand-logs",
+      "source": "github-trending",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "stars": 768,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-10-29T04:47:12Z",
+      "summary": "该项目是博客文章《LLMs can understand and write neural network weights》的完整实验日志仓库，旨在验证大语言模型能否直接理解并生成神经网络权重。核心亮点在于将权重数值序列化为文本输入LLM，通过实验日志记录模型对权重结构的理解与生成能力，探索权重作为语言模态的可行性。适用场景包括神经网络可解释性研究、权重生成与压缩、以及LLM与模型内部表征交叉领域的前沿探索。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:51:27.401760+00:00"
+    },
+    {
+      "title": "sleepy-zone/ai-ref-library-cn",
+      "source": "github-trending",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "stars": 703,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "gpt"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-04T00:03:03Z",
+      "summary": "该项目是一个面向 AI 作图的中文素材库，汇集人脸、姿势、服装等分类素材，以 JavaScript 实现，托管于 GitHub。它解决中文用户在使用 Stable Diffusion 等文生图模型时缺乏结构化、本地化提示词与参考素材的问题，降低 prompt 编写门槛。核心亮点在于素材按维度分类整理，便于检索与复用，并可与 prompt-engineering 工作流结合。适用场景包括 AI 绘画创作、角色设计、提示词工程实践及中文 AIGC 教学演示。",
+      "tags": [
+        "multimodal",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-04T03:51:29.010903+00:00"
+    },
+    {
+      "title": "wquguru/cicada",
+      "source": "github-trending",
+      "url": "https://github.com/wquguru/cicada",
+      "description": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+      "stars": 696,
+      "language": "Swift",
+      "topics": [
+        "live-captions",
+        "macos",
+        "meeting-notes",
+        "menubar-app",
+        "simultaneous-interpretation",
+        "speech-recognition",
+        "subtitles",
+        "swift",
+        "swiftui",
+        "translation"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T08:19:06Z",
+      "summary": "Cicada 是一款 macOS 菜单栏应用，为任意会议或直播流提供实时字幕、同声传译和 AI 会议纪要。它解决跨语言会议沟通与会后信息整理问题，核心技术亮点在于系统级音频捕获、实时语音识别与翻译管线，以及基于 LLM 的纪要生成。适用于远程会议、在线课程、直播观看等需要即时字幕与翻译的场景。",
+      "tags": [
+        "multimodal",
+        "ai-assistant",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-04T03:51:30.454769+00:00"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2",
+      "source": "github-trending",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "stars": 670,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T12:47:08Z",
+      "summary": "Sapper-v2 是一个面向自动化渗透测试的 AI 多智能体系统，由 AI 指挥官、worker swarm 和分层 fact-intent graph 组成，用于在无人值守条件下完成复杂攻防任务。其核心亮点在于多智能体协同架构与结构化事实-意图图推理，在腾讯智能攻防线上赛中以 1B tokens 击败使用 4.5B tokens 的对手并获季军。项目还提出 Nüwa Test 概念，探索赋予 AI 创造、语言与历史能力以模拟文明演化。适用于自动化渗透测试、CTF 竞赛、AI agent 协同推理研究等场景。",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "open-source",
+        "reasoning",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:32.185385+00:00"
+    },
+    {
+      "title": "Balanov/uncut",
+      "source": "github-trending",
+      "url": "https://github.com/Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "stars": 598,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-02T20:58:19Z",
+      "summary": "Balanov/uncut 是一个用 Go 编写的无头（headless）编码 agent harness，以单个 7MB 静态二进制形式分发，仅通过 stdin/stdout 交互，内置四个工具，强调无损、无静默截断的上下文处理。它解决的是现有 coding agent 框架依赖重、上下文被隐式裁剪、难以嵌入脚本与 CI 流水线的问题。核心亮点在于零依赖静态部署、纯文本协议带来的可组合性，以及对工具调用与输出完整性的严格保证。适用于需要将编码 agent 嵌入自动化工作流、终端环境或轻量沙箱的 AI 工程师。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:34.007544+00:00"
+    },
+    {
+      "title": "rerun-build/rerun",
+      "source": "github-trending",
+      "url": "https://github.com/rerun-build/rerun",
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "stars": 596,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T17:15:54Z",
+      "summary": "rerun-build/rerun 是一个可自托管的 AI 同事平台，让 AI agent 直接承接并执行开发者的工作任务。它解决的是 AI 助手停留在对话层、无法真正落地执行工作流的问题，通过 TypeScript 实现任务编排与工具调用，支持多 agent 协作和自主运行。核心技术亮点在于自托管部署与 AGPL-3.0 开源，便于企业内控和数据隔离。适用场景包括团队内部自动化任务分派、代码与运维工作流托管、以及需要私有化部署的 AI 协作环境。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:51:35.802731+00:00"
+    },
+    {
+      "title": "hongye007/open-pose-costume",
+      "source": "github-trending",
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+      "stars": 569,
+      "language": "TypeScript",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-03T22:10:04Z",
+      "summary": "open-pose-costume 是一个基于 TypeScript 构建的双语参考工作室，面向 AI 角色创作场景，集中管理姿势（pose）、服装（costume）等视觉参考素材。它解决的是 AI 绘画与角色设计流程中参考素材分散、检索与复用效率低的问题，通过结构化组织与双语界面降低跨语言使用门槛。技术亮点在于以 Web 前端形态整合素材库与创作辅助流程，便于与图像生成工作流衔接。适用场景包括 AI 角色设计、插画参考、游戏与虚拟形象前期概念探索，对需要批量管理视觉参考的创作者与团队有实用价值。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-04T03:51:37.529953+00:00"
+    },
+    {
+      "title": "zhanghao123vip/ai-manju-skills",
+      "source": "github-trending",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "stars": 562,
+      "language": null,
+      "topics": [
+        "ai-skills",
+        "ai-video",
+        "chinese",
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-01T02:53:40Z",
+      "summary": "该项目提供 21 个题材的 AI 漫剧全流程 Skill 集合，将一句创意点子自动扩展为企划案、资产图提示词、分集剧本、分镜与视频提示词，解决 AI 漫剧创作中从构思到视频提示词链路断裂、提示词工程重复劳动的问题。核心技术亮点在于以结构化 Skill 形式封装 prompt-engineering 流程，兼容 Claude Code、WorkBuddy、DeepSeek 等工具，可被 agent 直接调用。适用场景包括短视频漫剧批量生产、AI 视频创作者工作流自动化、以及基于 LLM 的剧本与分镜生成辅助。",
+      "tags": [
+        "prompt-engineering",
+        "multimodal",
+        "workflow-automation",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:39.257071+00:00"
+    },
+    {
+      "title": "anthropics/FlashProve",
+      "source": "github-trending",
+      "url": "https://github.com/anthropics/FlashProve",
+      "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "stars": 478,
+      "language": "Lean",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-10-30T21:00:23Z",
+      "summary": "FlashProve 是 Anthropic 发布的零知识证明（ZKP）研究原型，用 Lean 语言实现 AI 推理过程的密码学可验证性。它试图解决的核心问题是：如何在不暴露模型权重和输入数据的前提下，向第三方证明某次 AI 推理确实由指定模型正确执行。技术亮点在于将 zk-SNARK 类证明系统与神经网络推理计算图结合，并用 Lean 的形式化能力保证电路与推理语义一致。适用场景包括隐私敏感的可信推理审计、去中心化 AI 服务验证和合规性证明。但项目明确标注不再维护，且 Lean 实现偏学术，工程落地需大量二次开发。",
+      "tags": [
+        "open-source",
+        "reasoning",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-04T03:51:41.330423+00:00"
+    },
+    {
+      "title": "Balanov/shim",
+      "source": "github-trending",
+      "url": "https://github.com/Balanov/shim",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "stars": 441,
+      "language": "Go",
+      "topics": [],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-02T17:54:55Z",
+      "summary": "Shim 是一个用 Go 编写的轻量级本地优先 AI harness，支持任意模型接入、MCP 协议与 Agent Skills，并提供自然语言 CLI 交互方式。它解决的是本地运行 AI Agent 时依赖复杂、配置繁琐的问题，核心亮点在于零依赖、单二进制部署、模型无关设计以及对 MCP 工具生态的原生支持。适用于开发者快速搭建本地 AI 助手、实验 Agent 工作流，或在无网络/隐私敏感场景下运行可控的 AI 工具链。",
+      "tags": [
+        "agent",
+        "mcp",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-04T03:51:42.720913+00:00"
+    },
+    {
+      "title": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "source": "github-trending",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "description": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+      "stars": 419,
+      "language": null,
+      "topics": [
+        "123vips",
+        "ai-api",
+        "ai-companion",
+        "ai-video",
+        "ai-video-api",
+        "ai-video-generator",
+        "comfyui",
+        "image-to-video",
+        "nsfw",
+        "nsfw-ai",
+        "seedance",
+        "seedance-api",
+        "spicy",
+        "text-to-video",
+        "uncensored",
+        "uncensored-ai",
+        "video-api",
+        "video-generation",
+        "wan",
+        "wan-video"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-02T03:01:26Z",
+      "summary": "该项目提供成人向 AI 视频生成 API 的接入文档与指南，覆盖 Seedance Spicy、Wan NSFW 等模型的 text-to-video 与 image-to-video 能力。它解决的是 18+ 内容创作者和 AI companion 类应用在视频生成上的 API 接入与计费问题，核心亮点包括异步任务调度、webhook 回调通知和积分计费体系。适用场景为成人向 AI 视频生成服务、AI companion 视频互动产品及第三方开发者快速集成。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-04T03:51:44.337912+00:00"
+    },
+    {
+      "title": "wquguru/shisei",
+      "source": "github-trending",
+      "url": "https://github.com/wquguru/shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "stars": 410,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-11-02T14:10:19Z",
+      "summary": "shisei 是一个 CC0 授权的免费人体模特姿势参考库，收录 250+ 姿势 × 5 个视角的线稿素材，并提供日/中/英/韩四语命名。它解决 AI 图像生成中姿势参考素材稀缺、版权受限、多语言检索困难的问题。核心亮点在于 CC0 无版权限制、多角度线稿适配 ControlNet/ComfyUI 等姿势控制流程，以及结构化多语言标签便于检索与提示词拼接。适用于 AI 绘画创作者、ComfyUI 工作流搭建者、角色设计与插画参考等场景。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-11-04T03:51:46.198410+00:00"
+    },
+    {
+      "title": "Pluviobyte/douyin-comments",
+      "source": "github-trending",
+      "url": "https://github.com/Pluviobyte/douyin-comments",
+      "description": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
+      "stars": 388,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "claude-code",
+        "comments-scraper",
+        "douyin"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-10-31T02:52:47Z",
+      "summary": "该项目是一个面向 Claude Code 等 Agent 平台的 Skill，用于抓取抖音单条视频的完整评论区（含一级评论与楼中楼回复）。它解决的是抖音评论数据获取中签名算法复杂、易被风控的痛点：不逆向签名逻辑，而是在已登录的 Chrome 页面中复用真实请求，将签名计算交给页面自身 SDK 完成。核心技术亮点是浏览器上下文内请求重放与 Agent 工具化封装，降低维护成本并提升稳定性。适用于社交媒体舆情分析、内容研究、评论数据采集等需要结构化抖音评论数据的场景。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:51:48.168604+00:00"
+    },
+    {
+      "title": "op7418/dsh-guizang-design",
+      "source": "github-trending",
+      "url": "https://github.com/op7418/dsh-guizang-design",
+      "description": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+      "stars": 386,
+      "language": "HTML",
+      "topics": [
+        "deepseek-harness",
+        "design-system",
+        "dsh-plugin",
+        "skills"
+      ],
+      "collected_at": "2026-11-04T03:51:13.795955+00:00",
+      "published_at": "2026-10-31T04:55:09Z",
+      "summary": "该项目是 DeepSeek Harness 的插件式设计系统，提供网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，并配套作品库、内容生产工作流与语气档案。它解决 AI 生成内容视觉粗糙、排版同质化、语气机械的问题，通过统一设计系统与可复用 skill 让 LLM 输出更接近人工设计。核心技术亮点是将设计规范、语气档案与工作流封装为可插拔 skill，基于 HTML 实现轻量渲染。适用于 AI 内容创作者、设计辅助工具开发及需要批量产出图文/PPT 的自动化场景。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "workflow-automation",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-04T03:51:49.935504+00:00"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-04-011",
+  "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "source": "hackernews-top",
+  "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "summary": "该条目介绍在笔记本上运行 Qwen 3.8 27B 模型，并展示其具备解读模型权重的能力。核心在于探索大模型对自身权重矩阵的元认知与解释性，可能涉及将权重数值映射为语义描述的技术路径。亮点是本地化部署 27B 模型并实现权重级可解释性，降低对云端算力的依赖。适用场景包括模型可解释性研究、本地化 AI 开发及权重分析教学。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-04T03:51:13.992215+00:00",
+  "analyzed_at": "2026-11-04T03:52:03.607978+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

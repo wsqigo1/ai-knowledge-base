@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-04-008",
+  "title": "The Internals of PostgreSQL",
+  "source": "hackernews-top",
+  "url": "https://www.interdb.jp/pg/index.html",
+  "summary": "《The Internals of PostgreSQL》是一份系统讲解 PostgreSQL 内部实现原理的技术资料，涵盖存储引擎、查询处理、事务与并发控制、WAL 日志、索引结构等核心机制。它解决的是工程师在使用 PostgreSQL 时缺乏底层原理认知、难以进行性能调优和故障排查的问题。核心技术亮点在于以图文结合方式拆解 MVCC、VACUUM、查询优化器与执行器等复杂流程，帮助读者建立从 SQL 到磁盘的完整心智模型。适用场景包括数据库内核学习、后端性能优化、DBA 故障诊断以及面试准备，对 AI 工程师理解向量数据库底层存储与检索机制也有间接参考价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-11-04T03:51:13.992215+00:00",
+  "analyzed_at": "2026-11-04T03:51:52.046300+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}

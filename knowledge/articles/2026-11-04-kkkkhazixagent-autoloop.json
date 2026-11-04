@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-04-001",
+  "title": "KKKKhazix/agent-autoloop",
+  "source": "github-trending",
+  "url": "https://github.com/KKKKhazix/agent-autoloop",
+  "summary": "agent-autoloop 是一个 TypeScript 编写的开源工具，为命令行 Agent（如 Claude Code、Codex）提供后台自主循环能力：Agent 可自动领取任务、持续跟进直至完成，仅在遇到不确定决策时通过卡片形式请求人工拍板。它解决了 CLI Agent 需人工逐步驱动、无法长时间无人值守运行的问题，核心亮点是自主任务循环与低干扰的人机协作中断机制。适用于需要批量、长时运行编码或自动化任务的开发者场景。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-04T03:51:13.795955+00:00",
+  "analyzed_at": "2026-11-04T03:51:25.932780+00:00",
+  "organized_at": "2026-11-04T03:52:25.878097+00:00",
+  "status": "published"
+}
