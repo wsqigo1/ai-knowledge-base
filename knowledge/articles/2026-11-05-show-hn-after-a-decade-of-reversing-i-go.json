@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-017",
+  "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+  "source": "hackernews-top",
+  "url": "https://fireflyk64.github.io/wcmulti/",
+  "summary": "该项目通过逆向工程让经典 DOS 游戏 Wing Commander 的多人合作模式在当代环境重新可用。它解决了原版游戏依赖已淘汰的 IPX 网络协议、无法在现代系统联机的问题。核心技术亮点是逆向分析游戏二进制与网络协议栈，并实现兼容层或代理来桥接旧协议与现代网络。适用场景包括复古游戏联机、DOS 游戏网络协议逆向研究，以及老软件兼容性改造。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "reverse-engineering",
+    "networking",
+    "retro-gaming"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:57.999957+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

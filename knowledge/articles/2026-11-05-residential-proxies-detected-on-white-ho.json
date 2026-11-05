@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-05-008",
+  "title": "Residential proxies detected on White House network",
+  "source": "hackernews-top",
+  "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+  "summary": "该 HN 热帖讨论在白宫网络中发现住宅代理（residential proxies）的异常现象，属于网络安全与基础设施监测领域。核心问题在于高敏感政府网络中为何出现通常用于匿名爬虫、绕过地理限制的住宅代理流量，可能涉及内部设备被植入代理软件、供应链污染或恶意流量伪装。技术亮点在于通过流量指纹与代理特征识别定位异常出口节点，并引发对政府网络零信任与出口管控的讨论。适用场景包括企业网络出口审计、威胁情报分析、代理滥用检测及关键基础设施安全评估。",
+  "tags": [
+    "security",
+    "network-monitoring",
+    "proxy-detection",
+    "threat-intelligence"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:34.236195+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

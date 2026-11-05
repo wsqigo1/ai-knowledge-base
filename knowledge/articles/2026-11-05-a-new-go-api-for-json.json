@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-05-011",
+  "title": "A new Go API for JSON",
+  "source": "hackernews-top",
+  "url": "https://go.dev/blog/jsonv2",
+  "summary": "Go 官方团队提出新的 JSON 处理 API 提案，旨在替代现有 encoding/json 包在性能、灵活性和易用性上的不足。核心亮点包括基于流的解析器设计、更细粒度的编码解码控制、对 JSON 语义更精确的处理（如数字精度、重复键），以及潜在的性能提升。该 API 面向需要高性能 JSON 序列化/反序列化的 Go 后端服务、API 网关和数据处理管道开发者，尤其适合对延迟敏感或处理大规模 JSON 负载的场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:47.495659+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

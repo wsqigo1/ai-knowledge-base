@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-05-015",
+  "title": "Progress on provable inference for large language models",
+  "source": "hackernews-top",
+  "url": "https://www.anthropic.com/research/provable-inference",
+  "summary": "该研究聚焦于大语言模型（LLM）推理过程的可证明性（provable inference），旨在为LLM输出提供形式化保证，解决模型推理结果不可验证、难以信任的问题。核心技术亮点在于将形式化验证或概率保证引入推理流程，可能涉及对生成过程施加可证明的约束或边界。适用场景包括对可靠性要求高的领域，如医疗、金融、法律等需要可审计AI决策的工程实践。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:54.111356+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

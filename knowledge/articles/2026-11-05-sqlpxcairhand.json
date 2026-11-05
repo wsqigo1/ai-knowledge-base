@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-007",
+  "title": "sqlpxc/airhand",
+  "source": "github-trending",
+  "url": "https://github.com/sqlpxc/airhand",
+  "summary": "airhand 是基于 QUIC 协议的高性能远程桌面开源项目，采用 Rust 编写核心网络与编解码逻辑，前端使用 Tauri + React 构建跨平台客户端。它针对传统远程桌面在弱网、高延迟场景下卡顿明显的问题，利用 QUIC 的多路复用、0-RTT 握手与拥塞控制优化传输层，降低连接建立与丢包恢复开销。技术亮点包括 Rust 带来的内存安全与低延迟、QUIC 原生加密与流控、Tauri 轻量桌面壳。适用于远程办公、云桌面、跨设备协作等对实时性和弱网适应性有要求的场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "rust",
+    "quic",
+    "remote-desktop"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-05T04:09:53.149234+00:00",
+  "analyzed_at": "2026-11-05T04:10:32.575054+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-016",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "source": "hackernews-top",
+  "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "summary": "该文探讨AI技术（尤其是LLM与agent）的快速落地如何迫使企业偿还过去40年积累的技术债，包括遗留系统、数据孤岛、文档缺失与流程耦合。核心观点是AI对数据质量、接口标准化和可观测性的高要求，倒逼团队重构基础设施、清理数据管道并建立自动化测试与治理机制。亮点在于将技术债从抽象概念转化为AI工程化的前置条件，强调prompt-engineering与tool-use背后需要稳定的系统支撑。适用场景包括企业AI转型、平台工程团队规划重构优先级，以及评估agent落地可行性的架构决策。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:56.102049+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

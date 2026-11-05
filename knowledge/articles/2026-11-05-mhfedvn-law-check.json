@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-004",
+  "title": "mhfed/vn-law-check",
+  "source": "github-trending",
+  "url": "https://github.com/mhfed/vn-law-check",
+  "summary": "该项目是一套面向 Claude Code、Cursor、Copilot 等 AI 编程助手的 Agent Skills/Plugin，用于按越南最新法规（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）对网站进行合规审计。它把分散的越南法律条文转化为可被 AI 助手直接调用的检查规则与工作流，解决开发者难以逐条对照法规自查网站合规性的问题。核心亮点在于以 Shell 脚本和 agent-md/agent-skills 形式封装领域知识，实现跨 IDE 的即插即用。适用于面向越南市场的网站开发、跨境电商合规预检及法务辅助场景。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-05T04:09:53.149234+00:00",
+  "analyzed_at": "2026-11-05T04:10:22.940231+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

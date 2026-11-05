@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-006",
+  "title": "SAOS-3624/dsh-see-now",
+  "source": "github-trending",
+  "url": "https://github.com/SAOS-3624/dsh-see-now",
+  "summary": "dsh-see-now 是一个面向 AI agent 的屏幕实时感知插件，通过 ffmpeg 采集屏幕帧并按画面变化量筛选关键帧，再将多帧拼接为单张图像送入 LLM，从而让 agent 实时'看见'用户屏幕。它解决了 agent 无法感知桌面视觉上下文、以及逐帧传图导致 token 消耗过大的问题。核心技术亮点是变化量驱动的帧筛选与多帧拼图压缩，静止画面几乎不消耗 token。适用于桌面自动化、GUI 操作 agent、实时辅助与屏幕内容理解等场景。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-05T04:09:53.149234+00:00",
+  "analyzed_at": "2026-11-05T04:10:28.497949+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

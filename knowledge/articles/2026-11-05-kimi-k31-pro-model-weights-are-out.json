@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-010",
+  "title": "Kimi K3.1 Pro model weights are out",
+  "source": "hackernews-top",
+  "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+  "summary": "Kimi K3.1 Pro 是月之暗面（Moonshot AI）发布的开源大模型权重，面向开发者与研究者开放下载与本地部署。该模型主要解决闭源大模型难以私有化部署、成本高、无法深度定制的问题，提供可商用或可研究的权重版本。核心技术亮点包括更强的 reasoning 与长上下文处理能力、对 tool-use 与 agent 工作流的支持，以及在中文与代码任务上的优化。适用场景涵盖本地推理服务搭建、领域 fine-tuning、agent 应用开发与 benchmark 复现对比。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "agent",
+    "tool-use"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:43.679305+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}

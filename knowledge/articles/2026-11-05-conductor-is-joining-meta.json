@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-05-012",
+  "title": "Conductor is joining Meta",
+  "source": "hackernews-top",
+  "url": "https://www.conductor.build/announcement",
+  "summary": "Conductor 是一个面向 AI 编码代理的开发者工具，提供并行运行多个 Claude Code 代理的桌面界面，让每个代理在独立的 git worktree 中工作，从而避免代码冲突并支持任务并行化。其核心亮点在于将多代理编排、工作区隔离与本地开发流程结合，降低多任务并行时的上下文切换成本。此次加入 Meta 意味着该项目可能获得更大资源投入或融入 Meta 的内部 AI 开发工具链，但也引发开源社区对项目未来走向的关注。适用场景包括需要同时处理多个编码任务、进行多代理实验或希望提升本地 AI 辅助开发效率的工程师。",
+  "tags": [
+    "developer-tools",
+    "multi-agent",
+    "code-generation",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-05T04:09:53.343555+00:00",
+  "analyzed_at": "2026-11-05T04:10:49.173908+00:00",
+  "organized_at": "2026-11-05T04:11:09.124733+00:00",
+  "status": "published"
+}
