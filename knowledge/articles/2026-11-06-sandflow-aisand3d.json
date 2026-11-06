@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-06-003",
+  "title": "Sandflow-ai/sand3d",
+  "source": "github-trending",
+  "url": "https://github.com/Sandflow-ai/sand3d",
+  "summary": "Sandflow-ai/sand3d 是一个用 Python 进行 3D 建模的开源项目，专为 LLM 设计。它解决的核心问题是：让大语言模型能够通过代码生成的方式直接创建和操作 3D 模型，打通文本到 3D 的编程接口。技术亮点在于将 Python 作为 3D 建模的 DSL，并针对 LLM 的代码生成能力做了适配，涉及 procedural-modeling 和与 Blender/CAD 生态的集成。适用场景包括 AI 辅助的 3D 内容创作、程序化建模、以及为 agent 提供 3D 工具调用能力。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "tool-use",
+    "open-source",
+    "multimodal"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-06T04:06:52.269812+00:00",
+  "analyzed_at": "2026-11-06T04:07:25.047960+00:00",
+  "organized_at": "2026-11-06T04:08:09.417804+00:00",
+  "status": "published"
+}

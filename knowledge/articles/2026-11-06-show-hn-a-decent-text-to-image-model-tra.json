@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-06-010",
+  "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+  "source": "hackernews-top",
+  "url": "https://www.linum.ai/field-notes/pjit-21k",
+  "summary": "该项目发布了一个以约2万美元成本训练的文生图（text-to-image）模型，并开放Apache 2.0权重。它旨在降低高质量图像生成模型的训练与使用门槛，解决现有主流模型训练成本高昂、权重不开放的问题。核心技术亮点在于极低的训练预算下达到可用的生成质量，且采用宽松开源许可，便于商业与二次开发。适用场景包括低成本图像生成研究、开源模型微调、教育演示及对许可友好的产品原型开发。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "fine-tuning",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-06T04:06:52.409891+00:00",
+  "analyzed_at": "2026-11-06T04:07:51.677776+00:00",
+  "organized_at": "2026-11-06T04:08:09.417804+00:00",
+  "status": "published"
+}

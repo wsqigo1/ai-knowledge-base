@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-06-011",
+  "title": "September in Servo: <progress>, rounded rectangles, and more",
+  "source": "hackernews-top",
+  "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+  "summary": "Servo 浏览器引擎 9 月进展报告，涵盖 <progress> 元素实现、圆角矩形渲染支持等多项 Web 标准特性推进。该项目旨在以 Rust 构建内存安全、并行化的现代浏览器引擎，解决传统引擎在安全性与性能上的瓶颈。核心技术亮点包括基于 Rust 的渲染管线优化、CSS 圆角矩形绘制实现及表单控件标准化支持。适用于浏览器引擎开发者、Web 标准实现研究者及关注 Rust 系统编程的工程师参考。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-06T04:06:52.409891+00:00",
+  "analyzed_at": "2026-11-06T04:07:53.432274+00:00",
+  "organized_at": "2026-11-06T04:08:09.417804+00:00",
+  "status": "published"
+}

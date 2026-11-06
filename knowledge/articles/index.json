@@ -1,7 +1,249 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2895,
+  "total_count": 2911,
   "entries": [
+    {
+      "id": "kb-2026-11-06-001",
+      "title": "sarpstar/cinecode",
+      "source": "github-trending",
+      "url": "https://github.com/sarpstar/cinecode",
+      "file": "2026-11-06-sarpstarcinecode.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-002",
+      "title": "Renly1994/xiaotang-daozai",
+      "source": "github-trending",
+      "url": "https://github.com/Renly1994/xiaotang-daozai",
+      "file": "2026-11-06-renly1994xiaotang-daozai.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-003",
+      "title": "Sandflow-ai/sand3d",
+      "source": "github-trending",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "file": "2026-11-06-sandflow-aisand3d.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "tool-use",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-004",
+      "title": "mrhlaingbwardev/agentic-hacking-skills",
+      "source": "github-trending",
+      "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
+      "file": "2026-11-06-mrhlaingbwardevagentic-hacking-skills.json",
+      "tags": [
+        "agent",
+        "mcp",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-005",
+      "title": "Interactive-Active-AI/NextTransformer",
+      "source": "github-trending",
+      "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+      "file": "2026-11-06-interactive-active-ainexttransformer.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-006",
+      "title": "Claude Code sends your email address to websites",
+      "source": "hackernews-top",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "file": "2026-11-06-claude-code-sends-your-email-address-to-.json",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "large-language-model",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-007",
+      "title": "Inkling 2 Small",
+      "source": "hackernews-top",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "file": "2026-11-06-inkling-2-small.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-008",
+      "title": "Closed AI models dominate the price-performance frontier",
+      "source": "hackernews-top",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "file": "2026-11-06-closed-ai-models-dominate-the-price-perf.json",
+      "tags": [
+        "benchmark",
+        "large-language-model",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-009",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "source": "hackernews-top",
+      "url": "https://github.com/rivet-dev/rivet",
+      "file": "2026-11-06-launch-hn-rivet-yc-w23-scale-and-orchest.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "workflow-automation",
+        "developer-tools",
+        "multi-agent"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-010",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "source": "hackernews-top",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "file": "2026-11-06-show-hn-a-decent-text-to-image-model-tra.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "fine-tuning",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-011",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "source": "hackernews-top",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "file": "2026-11-06-september-in-servo-progress-rounded-rect.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-012",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "source": "hackernews-top",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "file": "2026-11-06-motorola-signature-27-with-grapheneos-su.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-013",
+      "title": "Search for everyone",
+      "source": "hackernews-top",
+      "url": "https://kagi.com/changelog#11820",
+      "file": "2026-11-06-search-for-everyone.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "rag"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-014",
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "source": "hackernews-top",
+      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "file": "2026-11-06-openssh-106p2-has-been-released-with-a-w.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-015",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "source": "hackernews-top",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "file": "2026-11-06-gpt-6-astra-covertly-underperforms-on-sa.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
+    {
+      "id": "kb-2026-11-06-016",
+      "title": "MCP Explained",
+      "source": "hackernews-top",
+      "url": "https://mcp-explained.com/",
+      "file": "2026-11-06-mcp-explained.json",
+      "tags": [
+        "mcp",
+        "tool-use",
+        "agent",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 8.0,
+      "organized_at": "2026-11-06T04:08:09.417804+00:00"
+    },
     {
       "id": "kb-2026-11-05-001",
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -43548,5 +43790,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-05T04:11:09.479949+00:00"
+  "last_updated": "2026-11-06T04:08:09.702871+00:00"
 }

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-06-006",
+  "title": "Claude Code sends your email address to websites",
+  "source": "hackernews-top",
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "summary": "该条目揭示 Anthropic 的 Claude Code 工具在访问外部网站时会泄露用户的邮箱地址，属于隐私与安全漏洞披露。问题核心在于 AI 编程助手在自动化请求中携带了用户身份信息，可能被第三方网站记录或滥用。技术亮点在于通过实际抓包与请求头分析定位泄露路径，并引发对 AI agent 工具默认隐私策略的讨论。适用场景包括 AI 开发者工具的安全审计、企业部署 AI 编码助手时的合规评估，以及 agent 工具链的隐私设计改进。",
+  "tags": [
+    "developer-tools",
+    "agent",
+    "large-language-model",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-06T04:06:52.409891+00:00",
+  "analyzed_at": "2026-11-06T04:07:32.687039+00:00",
+  "organized_at": "2026-11-06T04:08:09.417804+00:00",
+  "status": "published"
+}

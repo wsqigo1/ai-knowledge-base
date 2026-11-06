@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-06-014",
+  "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+  "source": "hackernews-top",
+  "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+  "summary": "OpenSSH 10.6p2 是 OpenSSH 项目发布的安全更新版本，主要针对一个严重漏洞提供临时缓解方案（workaround），而非完整修复。该版本的核心价值在于为系统管理员和运维团队提供即时可部署的防护措施，降低在官方补丁发布前被利用的风险。技术亮点在于通过配置或代码层面的规避策略阻断攻击路径，适用于依赖 SSH 进行远程管理的服务器环境、云基础设施及 CI/CD 流水线等场景。对 AI 工程师而言，若其训练集群或推理服务依赖 SSH 访问，需关注此更新以保障基础设施安全。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-06T04:06:52.409891+00:00",
+  "analyzed_at": "2026-11-06T04:08:02.709484+00:00",
+  "organized_at": "2026-11-06T04:08:09.417804+00:00",
+  "status": "published"
+}

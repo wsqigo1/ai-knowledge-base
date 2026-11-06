@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-06-016",
+  "title": "MCP Explained",
+  "source": "hackernews-top",
+  "url": "https://mcp-explained.com/",
+  "summary": "MCP（Model Context Protocol）是 Anthropic 提出的开放协议，用于标准化 LLM 应用与外部数据源、工具之间的上下文交互。它解决了 LLM 应用集成外部工具时接口碎片化、重复开发的问题，通过统一的 client-server 架构让模型能以一致方式访问文件、数据库、API 等资源。核心技术亮点包括基于 JSON-RPC 的通信协议、可复用的 server 实现以及清晰的权限与安全边界设计。适用场景涵盖 AI 助手接入企业数据、agent 工具调用、IDE 与开发工具集成等，是当前 tool-use 与 agent 生态的重要基础设施。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "agent",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 8.0,
+  "collected_at": "2026-11-06T04:06:52.409891+00:00",
+  "analyzed_at": "2026-11-06T04:08:06.930106+00:00",
+  "organized_at": "2026-11-06T04:08:09.417804+00:00",
+  "status": "published"
+}
