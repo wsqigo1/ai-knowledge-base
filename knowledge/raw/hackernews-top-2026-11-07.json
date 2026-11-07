@@ -1,0 +1,397 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-07T03:40:58.573244+00:00",
+  "date": "2026-11-07",
+  "count": 20,
+  "items": [
+    {
+      "title": "Libghostty 1.0",
+      "source": "hackernews-top",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "hn_url": "https://news.ycombinator.com/item?id=50399933",
+      "description": "",
+      "hn_score": 311,
+      "comments": 50,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "Libghostty 1.0 是 Ghostty 终端模拟器核心库的首次稳定版本发布，将原本内嵌于 Ghostty 的终端渲染与 VT 解析能力抽离为可复用 C 库。它解决终端模拟逻辑难以在 GUI 应用之外复用的问题，让开发者能在自有程序中嵌入高性能终端。核心技术亮点包括 GPU 加速渲染、跨平台抽象层与完整 VT 序列兼容，并保持零依赖的轻量接口。适用场景为需要内嵌终端面板的 IDE、远程开发工具、AI 编程助手与自动化测试环境。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:45.112481+00:00"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "source": "hackernews-top",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "hn_url": "https://news.ycombinator.com/item?id=50397429",
+      "description": "",
+      "hn_score": 367,
+      "comments": 84,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该项目提出一种基于小型模型（Jev）的级联推理架构：Jev 在遇到不确定问题时主动调用 Opus 获取帮助，从而在保持接近 Opus 准确率的同时将推理成本降低约 4 倍。核心亮点在于动态路由与不确定性触发的求助机制，避免所有请求都走昂贵的大模型。适用于对成本敏感但要求高准确率的 LLM 推理场景，如客服问答、代码辅助与批量文档处理。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "tool-use",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-07T03:41:46.934478+00:00"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "source": "hackernews-top",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "hn_url": "https://news.ycombinator.com/item?id=50391456",
+      "description": "",
+      "hn_score": 893,
+      "comments": 1747,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目报道Tesla将逐步停止Cybertruck生产，属于汽车制造与商业新闻，与AI/LLM技术无直接关联。内容涉及生产调整决策，未包含任何AI技术细节、算法或工程实践。对AI工程师而言，其技术参考价值极低，仅可作为行业动态了解。HN高热度反映公众对Tesla的关注，而非技术深度。适用场景限于商业分析或汽车行业观察，不涉及AI开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-07T03:41:48.618317+00:00"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "source": "hackernews-top",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "hn_url": "https://news.ycombinator.com/item?id=50397219",
+      "description": "",
+      "hn_score": 185,
+      "comments": 84,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "Firecracker VM Escape: PwnEscape Part 2 是安全研究系列文章的第二部分，聚焦于 AWS Firecracker microVM 的逃逸攻击。Firecracker 是 AWS 开源的轻量级虚拟化技术，广泛用于 Lambda 和 Fargate 等无服务器计算场景，其安全性直接影响多租户隔离的可靠性。文章深入分析了 Firecracker 的攻击面，展示了从 guest VM 逃逸到宿主机的利用链，涉及虚拟化层漏洞挖掘、设备模拟攻击和内存破坏技术。核心技术亮点在于针对 Rust 编写的 VMM 进行系统化安全审计，并给出可复现的 exploit 路径。适用场景包括云原生安全研究、虚拟化隔离评估和红队攻防演练。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-07T03:41:50.998775+00:00"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "hn_url": "https://news.ycombinator.com/item?id=50388001",
+      "description": "",
+      "hn_score": 295,
+      "comments": 236,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "美国联邦航空管理局（FAA）宣布计划在2028年前逐步淘汰空中交通管制系统中仍在使用的软盘。该举措旨在解决老旧基础设施带来的维护困难、备件短缺和网络安全风险等问题。核心技术亮点在于对关键任务系统进行现代化改造，涉及数据迁移、系统集成和遗留系统退役策略。适用场景包括航空管制、政府关键基础设施升级以及工业遗留系统现代化项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-07T03:41:53.097174+00:00"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "source": "hackernews-top",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50397994",
+      "description": "",
+      "hn_score": 226,
+      "comments": 171,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目讨论AI系统正被用于加速AI自身的研究进程，核心在于利用LLM与自动化agent完成文献调研、实验设计、代码生成与结果分析等研究环节，从而缩短研发周期。技术亮点包括将AI研究流程拆解为可自动化的子任务，并结合code-generation与reasoning能力形成闭环迭代。适用场景为AI实验室的算法探索、超参搜索与论文复现等研究密集型工作，对AI工程师理解研究自动化趋势有参考价值，但缺乏具体方法与量化数据。",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "reasoning",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:55.018426+00:00"
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "source": "hackernews-top",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50394855",
+      "description": "",
+      "hn_score": 200,
+      "comments": 36,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目介绍使用 UEFI 进行裸机（bare-metal）编程的入门实践，属于系统底层开发教程。它解决的是开发者如何绕过操作系统、直接利用 UEFI 固件环境编写并运行代码的问题，帮助理解启动流程与硬件初始化。核心技术亮点包括 UEFI 应用模型、协议调用、内存管理与简单输出，通常以 C 语言示例演示从零构建可启动程序。适用场景为操作系统开发、嵌入式固件、安全研究及底层性能优化学习。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-07T03:41:57.273301+00:00"
+    },
+    {
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "source": "hackernews-top",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "hn_url": "https://news.ycombinator.com/item?id=50355009",
+      "description": "",
+      "hn_score": 12,
+      "comments": 4,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "Tmux-restore 是一个开源工具，用于在系统重启后恢复 tmux 窗口布局及其中运行的 agent 会话。它解决了开发者因重启丢失 tmux 工作区和长时间运行的 AI agent 会话的痛点。核心技术亮点在于自动保存 tmux 会话状态（窗口、面板、命令）并支持恢复，尤其针对 agent 会话的持久化。适用场景包括需要长时间运行 AI 编码助手或自动化 agent 的开发者，以及依赖 tmux 进行多任务管理的工程师。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:59.500848+00:00"
+    },
+    {
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "source": "hackernews-top",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "hn_url": "https://news.ycombinator.com/item?id=50399657",
+      "description": "",
+      "hn_score": 144,
+      "comments": 66,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目讨论钠离子电池（Sodium-ion batteries）成本逼近磷酸铁锂（LFP）电池的进展。钠离子电池旨在解决锂资源稀缺和成本波动问题，提供更廉价、更安全的储能替代方案。核心技术亮点包括材料体系优化（如普鲁士蓝/白、层状氧化物正极）和工艺改进，推动成本下降至与LFP接近。适用场景包括大规模储能、低速电动车和备用电源等对成本敏感、能量密度要求不高的领域。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-07T03:42:01.305169+00:00"
+    },
+    {
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "source": "hackernews-top",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "hn_url": "https://news.ycombinator.com/item?id=50397017",
+      "description": "",
+      "hn_score": 100,
+      "comments": 47,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目报道了一起针对餐厅外卖平台的支付信息窃取攻击活动（payment-skimming campaign），攻击者通过入侵外卖网站或第三方支付组件，在用户结账流程中注入恶意脚本，窃取信用卡号、CVV 等敏感支付数据。其核心问题在于外卖场景下支付链路涉及商家、平台、支付网关多方，第三方脚本供应链安全薄弱，传统 CSP 与静态扫描难以覆盖动态注入。技术亮点包括对 Magecart 类攻击手法的变种分析、恶意脚本的混淆与反检测机制，以及基于流量与 DOM 监控的检测思路。该内容适用于 Web 安全工程师、支付风控团队及外卖平台安全建设参考，与 AI/LLM 工程领域关联度较低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-07T03:42:03.823479+00:00"
+    },
+    {
+      "title": "Devvm.dev: One VM for every project",
+      "source": "hackernews-top",
+      "url": "https://devvm.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50395450",
+      "description": "",
+      "hn_score": 127,
+      "comments": 53,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "Devvm.dev 是一个面向开发者的工具，为每个项目提供独立的虚拟机环境。它解决多项目开发时依赖冲突、环境隔离和配置漂移的问题，通过为每个项目创建专属 VM 实现彻底的环境隔离。核心技术亮点在于自动化 VM 生命周期管理，可能结合容器化或轻量虚拟化技术，让开发者无需手动配置即可获得干净、可复现的开发环境。适用场景包括多语言/多版本项目并行开发、需要严格隔离的测试环境，以及团队协作中统一开发环境。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:42:05.543262+00:00"
+    },
+    {
+      "title": "GitHub's new Git storage architecture",
+      "source": "hackernews-top",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "hn_url": "https://news.ycombinator.com/item?id=50397099",
+      "description": "",
+      "hn_score": 84,
+      "comments": 13,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "GitHub 发布全新 Git 存储架构，旨在解决大规模代码仓库在存储效率、克隆速度与水平扩展上的瓶颈。核心技术亮点包括重新设计对象存储层、优化打包与增量传输机制，并支持更高效的分布式读取。该架构对超大型 monorepo 和频繁克隆场景意义显著，也为 AI 代码生成与代码检索类工具提供更稳定的底层数据访问基础。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:42:07.409759+00:00"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=50392118",
+      "description": "",
+      "hn_score": 304,
+      "comments": 220,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "Gemini Omni 1.2 Flash 是 Google 推出的多模态大模型新版本，定位为低延迟、高吞吐的轻量级推理引擎。它主要解决开发者在实时交互场景中调用大模型时响应慢、成本高的问题。核心技术亮点包括统一的多模态编码架构、针对 Flash 系列优化的推理加速策略，以及对长上下文和工具调用的原生支持。适用场景涵盖实时 AI 助手、多模态内容理解、agent 工作流中的快速决策节点，以及需要低延迟响应的开发者工具集成。",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "ai-assistant",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-11-07T03:42:09.606210+00:00"
+    },
+    {
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "source": "hackernews-top",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "hn_url": "https://news.ycombinator.com/item?id=50401029",
+      "description": "",
+      "hn_score": 4,
+      "comments": 0,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目讨论近期 AI 板块抛售与历史知名股灾的对比，属于市场评论而非工程技术内容。它试图回答当前 AI 相关股票回调是否构成泡沫破裂，通过将本轮跌幅、估值回撤与历史崩盘进行类比来提供参照。核心亮点在于横向对比视角，但缺乏量化模型或可复现分析。对 AI 工程师而言，仅可作为行业景气度与融资环境的背景参考，不涉及模型、工具或工程实践，实用价值有限。",
+      "tags": [
+        "benchmark",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-07T03:42:11.887415+00:00"
+    },
+    {
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "hn_url": "https://news.ycombinator.com/item?id=50395919",
+      "description": "",
+      "hn_score": 92,
+      "comments": 8,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "Memorilla 是一个为 LLM 提供潜在语义记忆（latent semantic memory）的开源方案，旨在解决大模型在长对话与跨会话场景中缺乏持久、可检索记忆的问题。其核心亮点在于以潜在语义空间而非原始文本或简单向量检索来组织与召回记忆，降低上下文窗口压力并提升召回相关性。适用于需要长期记忆的 AI assistant、多轮对话系统以及基于 agent 的复杂工作流。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:42:13.809013+00:00"
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "source": "hackernews-top",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "hn_url": "https://news.ycombinator.com/item?id=50394906",
+      "description": "",
+      "hn_score": 253,
+      "comments": 508,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目讨论 Anthropic 的 IPO 估值，买方给出的估值低至 1.1 万亿美元。它并非技术文章，而是关于 AI 公司资本市场动态的新闻，核心信息是市场对 Anthropic 这一 large-language-model 领域头部公司的估值预期。技术亮点缺失，适用场景为关注 AI 行业投资与商业趋势的工程师和研究者。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-07T03:42:15.500937+00:00"
+    },
+    {
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "source": "hackernews-top",
+      "url": "https://www.norvig.com/chomsky.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50389570",
+      "description": "",
+      "hn_score": 107,
+      "comments": 89,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该文是2011年围绕乔姆斯基对统计学习方法的批评所展开的经典论辩，核心在于辨析「统计学习」与「规则/结构主义」两种研究文化的分歧。文章梳理了乔姆斯基对概率模型、语料驱动方法的质疑，并回应统计学习在语言建模中的可行性与局限。技术亮点在于将语言学理论争论映射到机器学习范式选择上，讨论归纳偏置、数据规模与泛化能力的关系。适用场景为理解NLP方法论史、模型归纳偏置讨论及AI研究范式的哲学反思。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-07T03:42:17.976819+00:00"
+    },
+    {
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "source": "hackernews-top",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "hn_url": "https://news.ycombinator.com/item?id=50399569",
+      "description": "",
+      "hn_score": 83,
+      "comments": 35,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该 HN 讨论帖聚焦 ChatGPT 连接器（connectors）在用户不知情的情况下静默传递数据，同时提及漏洞赏金项目要求提交身份证明（ID card）的争议。核心问题在于第三方集成与数据流转缺乏透明度和用户授权机制，涉及隐私泄露与合规风险。技术亮点在于揭示了 LLM 应用生态中 connector 架构的数据边界模糊性，以及安全研究社区对 AI 平台数据治理的审视。适用场景包括 AI 产品安全审计、隐私合规评估及 LLM 集成架构设计。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:42:20.040718+00:00"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "source": "hackernews-top",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "hn_url": "https://news.ycombinator.com/item?id=50388122",
+      "description": "",
+      "hn_score": 305,
+      "comments": 110,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "该条目是一篇探讨志愿者如何构建互联网基础设施的叙事性文章，以 Linux 和 Wikipedia 为典型案例，剖析开源社区协作模式如何支撑起现代互联网的关键公共品。文章聚焦于去中心化志愿协作的组织机制、治理结构与可持续性挑战，而非具体技术实现或 AI 工程实践。核心亮点在于对开源生态社会动因与协作范式的观察，适合作为理解开源文化背景的阅读材料，但对 AI 工程师的日常开发、模型训练或系统构建缺乏直接可迁移的技术方法。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-07T03:42:22.302277+00:00"
+    },
+    {
+      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+      "source": "hackernews-top",
+      "url": "https://halfnarp.events.ccc.de",
+      "hn_url": "https://news.ycombinator.com/item?id=50396108",
+      "description": "",
+      "hn_score": 46,
+      "comments": 9,
+      "collected_at": "2026-11-07T03:40:56.479919+00:00",
+      "published_at": "2026-11-07T03:40:56.479919+00:00",
+      "summary": "这是第40届混沌通信大会（40C3）的halfnarp系统，一个供参会者提交演讲偏好以辅助议程排期的工具。它解决大型会议中演讲时间冲突与参会者兴趣匹配的问题，通过收集偏好数据进行排期优化。核心技术亮点在于轻量级偏好收集与调度算法，属于会议组织工具而非AI技术。适用场景为技术会议、社区大会的议程规划与参会者体验优化。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-07T03:42:24.246919+00:00"
+    }
+  ]
+}

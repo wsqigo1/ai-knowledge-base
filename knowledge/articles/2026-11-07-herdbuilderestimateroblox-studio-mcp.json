@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-07-004",
+  "title": "HerdBuilderEstimate/roblox-studio-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+  "summary": "HerdBuilderEstimate/roblox-studio-mcp 是一个面向 Roblox Studio 的 Model Context Protocol (MCP) server，将 Claude、Cursor 等 AI 助手接入 Roblox 开发环境。它解决 AI 无法直接感知和操作 Roblox 场景的问题，使 AI 能读取对象树、编辑脚本并安全运行 playtest。核心亮点是基于 MCP 标准协议实现轻量级桥接，支持受控的读写与测试操作，降低误操作风险。适用于 Roblox 游戏开发者借助 AI 辅助脚本编写、场景调试与自动化测试的工作流。",
+  "tags": [
+    "mcp",
+    "ai-assistant",
+    "developer-tools",
+    "tool-use",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-07T03:40:56.235920+00:00",
+  "analyzed_at": "2026-11-07T03:41:26.413860+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-07-007",
+  "title": "Libghostty 1.0",
+  "source": "hackernews-top",
+  "url": "https://mitchellh.com/writing/libghostty-1-0",
+  "summary": "Libghostty 1.0 是 Ghostty 终端模拟器核心库的首次稳定版本发布，将原本内嵌于 Ghostty 的终端渲染与 VT 解析能力抽离为可复用 C 库。它解决终端模拟逻辑难以在 GUI 应用之外复用的问题，让开发者能在自有程序中嵌入高性能终端。核心技术亮点包括 GPU 加速渲染、跨平台抽象层与完整 VT 序列兼容，并保持零依赖的轻量接口。适用场景为需要内嵌终端面板的 IDE、远程开发工具、AI 编程助手与自动化测试环境。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:41:45.112481+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

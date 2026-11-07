@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-07-015",
+  "title": "Memorilla: Latent Semantic Memory for LLMs",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2610.21375",
+  "summary": "Memorilla 是一个为 LLM 提供潜在语义记忆（latent semantic memory）的开源方案，旨在解决大模型在长对话与跨会话场景中缺乏持久、可检索记忆的问题。其核心亮点在于以潜在语义空间而非原始文本或简单向量检索来组织与召回记忆，降低上下文窗口压力并提升召回相关性。适用于需要长期记忆的 AI assistant、多轮对话系统以及基于 agent 的复杂工作流。",
+  "tags": [
+    "large-language-model",
+    "rag",
+    "ai-assistant",
+    "open-source",
+    "agent"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:42:13.809013+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

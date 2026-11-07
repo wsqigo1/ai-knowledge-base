@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-07-013",
+  "title": "GitHub's new Git storage architecture",
+  "source": "hackernews-top",
+  "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+  "summary": "GitHub 发布全新 Git 存储架构，旨在解决大规模代码仓库在存储效率、克隆速度与水平扩展上的瓶颈。核心技术亮点包括重新设计对象存储层、优化打包与增量传输机制，并支持更高效的分布式读取。该架构对超大型 monorepo 和频繁克隆场景意义显著，也为 AI 代码生成与代码检索类工具提供更稳定的底层数据访问基础。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:42:07.409759+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

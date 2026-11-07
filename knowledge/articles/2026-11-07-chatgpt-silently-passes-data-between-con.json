@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-07-017",
+  "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+  "source": "hackernews-top",
+  "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+  "summary": "该 HN 讨论帖聚焦 ChatGPT 连接器（connectors）在用户不知情的情况下静默传递数据，同时提及漏洞赏金项目要求提交身份证明（ID card）的争议。核心问题在于第三方集成与数据流转缺乏透明度和用户授权机制，涉及隐私泄露与合规风险。技术亮点在于揭示了 LLM 应用生态中 connector 架构的数据边界模糊性，以及安全研究社区对 AI 平台数据治理的审视。适用场景包括 AI 产品安全审计、隐私合规评估及 LLM 集成架构设计。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "tool-use",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:42:20.040718+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

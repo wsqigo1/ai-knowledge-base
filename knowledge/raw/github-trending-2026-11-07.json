@@ -1,0 +1,572 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-11-07T03:40:58.572675+00:00",
+  "date": "2026-11-07",
+  "count": 20,
+  "items": [
+    {
+      "title": "KKKKhazix/agent-autoloop",
+      "source": "github-trending",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "stars": 3732,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-07T01:12:00Z",
+      "summary": "agent-autoloop 是一个面向命令行 Agent 的后台任务自动化框架，让 Claude Code、Codex 等 CLI Agent 在无人值守时自主接取任务、持续推进直至完成。它解决的核心问题是 Agent 长任务执行中的中断与人工确认瓶颈：常规流程下 Agent 每遇决策点就阻塞等待，而该项目通过后台循环调度与人工介入卡片机制，仅在 Agent 无法自行判断时才推送卡片请求用户拍板，实现「平时不烦你、关键处才找你」的异步协作模式。技术亮点在于任务循环编排、状态跟踪与轻量人机确认通道的整合，以 TypeScript 实现，适配主流 CLI Agent 生态。适用于需要长时间运行、多步骤推进的自动化编码与运维任务场景。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.4,
+      "analyzed_at": "2026-11-07T03:41:01.708645+00:00"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "source": "github-trending",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2911,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T03:52:06Z",
+      "summary": "该项目是一个 Python 自动化脚本，旨在零成本获取并自动配置 Google AI Pro（Gemini 高级版）的两年订阅权益，通过模拟注册、试用申请与凭证管理流程绕过常规付费门槛。核心技术点在于浏览器自动化与请求伪造，结合账号池调度和验证码/风控规避策略，实现批量账号的订阅激活与状态维护。适用场景包括个人开发者低成本接入 Gemini Pro API、批量测试多账号配额，以及研究订阅制服务的自动化薅羊毛手法；但存在违反服务条款与账号封禁风险，技术深度有限，更多是工程脚本而非 AI 模型创新。",
+      "tags": [
+        "workflow-automation",
+        "developer-tools",
+        "open-source",
+        "agent"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-07T03:41:04.379475+00:00"
+    },
+    {
+      "title": "caru-ini/stack-diagram",
+      "source": "github-trending",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "stars": 1977,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "diagram",
+        "system-architecture",
+        "tech-stack"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-03T03:42:46Z",
+      "summary": "stack-diagram 是一个面向 Claude Code、Codex 等 agent 环境的 skill，用户用一句话描述自己的技术栈，即可自动生成带官方 logo 的架构图。它解决的是架构图绘制耗时、手动排版繁琐的问题，核心亮点在于将自然语言解析与图标资源匹配结合，输出可直接使用的可视化架构图。项目以 TypeScript 实现，依托 agent-skills 生态，适合需要快速产出技术方案图、文档配图或向团队同步系统结构的开发者与架构师。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:41:06.527143+00:00"
+    },
+    {
+      "title": "wquguru/cicada",
+      "source": "github-trending",
+      "url": "https://github.com/wquguru/cicada",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "stars": 1563,
+      "language": "Swift",
+      "topics": [
+        "android",
+        "linux",
+        "live-captions",
+        "macos",
+        "meeting-notes",
+        "menubar-app",
+        "simultaneous-interpretation",
+        "speech-recognition",
+        "subtitles",
+        "swift",
+        "swiftui",
+        "translation",
+        "windows"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-07T03:39:10Z",
+      "summary": "Cicada（知了）是一款跨平台（Mac/Windows/Linux/Android）免费开源的实时字幕与同声传译工具，面向任意会议软件或直播流提供实时字幕、语音翻译和 AI 会议纪要。它解决跨语言会议沟通与会议内容记录效率低的问题，核心亮点在于多平台覆盖、对任意音源的低延迟字幕处理，以及结合语音识别与大模型的自动纪要生成。适用于远程会议、线上直播、跨语言协作等场景，对需要实时理解与归档会议内容的工程师和团队有直接实用价值。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "ai-assistant",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:41:08.778384+00:00"
+    },
+    {
+      "title": "Sandflow-ai/sand3d",
+      "source": "github-trending",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "description": "3D modeling in Python, built for LLMs.",
+      "stars": 821,
+      "language": "HTML",
+      "topics": [
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling",
+        "python",
+        "usd"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T11:03:55Z",
+      "summary": "Sandflow-ai/sand3d 是一个用 Python 进行 3D 建模的开源工具库，专为 LLM 驱动的工作流设计。它解决的核心问题是：LLM 难以直接生成和操作 3D 几何体，缺乏可编程、可组合的建模接口。技术亮点在于将 3D 建模抽象为 Python API，并面向 LLM 的代码生成能力优化，支持 procedural-modeling，可对接 Blender、CAD 等场景。适用场景包括 AI 辅助的 3D 内容生成、程序化建模、LLM agent 调用 3D 工具链，以及需要将自然语言转换为可执行建模脚本的开发者工作流。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "tool-use",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:41:11.241782+00:00"
+    },
+    {
+      "title": "sarpstar/cinecode",
+      "source": "github-trending",
+      "url": "https://github.com/sarpstar/cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "stars": 493,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-03T15:21:18Z",
+      "summary": "CineCode 是一个基于 AI coding agent 的自动化视频生成框架，让 agent 编写脚本、用代码逐帧构建画面、设计音效并输出 MP4 成片，覆盖短片、长视频、广告、解说和 MV 等形态。它解决的是传统视频制作流程中脚本、动画、音频多环节割裂、人工成本高的问题，将视频生产抽象为可编程、可复现的代码流水线。核心技术亮点在于 agent 驱动的 code-generation 与 multimodal 输出整合，把画面渲染、声音设计统一到代码层。适用场景包括批量短视频生产、程序化广告、技术解说视频及创意 MV 的快速原型。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:41:13.440662+00:00"
+    },
+    {
+      "title": "mhfed/vn-law-check",
+      "source": "github-trending",
+      "url": "https://github.com/mhfed/vn-law-check",
+      "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+      "stars": 463,
+      "language": "Shell",
+      "topics": [
+        "agent-md",
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "compliance",
+        "copilot-instructions",
+        "cursor-rules",
+        "data-protection",
+        "ecommerce",
+        "legal-tech",
+        "pdpl",
+        "privacy",
+        "skills",
+        "vibe-coding",
+        "vietnam",
+        "vietnam-law"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-05T10:34:21Z",
+      "summary": "vn-law-check 是一个面向 AI 编程助手（Claude Code、Cursor、Copilot、Windsurf、Cline）的合规审计工具，以 Shell 脚本和 agent-skills 形式提供，用于按越南最新法规（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）检查网站的法律合规性。它解决的是越南市场网站运营者缺乏自动化合规检查手段的问题，核心亮点在于将法规条款封装为可被 coding agent 直接调用的技能，实现从代码/配置层面触发合规审查。适用场景为面向越南用户的网站上线前审计、跨境电商合规自查，以及 AI 助手在开发流程中嵌入本地化法规检查。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-07T03:41:15.685190+00:00"
+    },
+    {
+      "title": "zeekk0/OpenAmika",
+      "source": "github-trending",
+      "url": "https://github.com/zeekk0/OpenAmika",
+      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "stars": 449,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "live2d",
+        "long-term-memory",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-05T13:31:30Z",
+      "summary": "OpenAmika 是 MekaHime 开源的 AI 伴侣项目，以 Live2D 虚拟形象为载体，结合实时语音交互与长期记忆机制，构建可持续对话的虚拟角色。它解决的是通用聊天机器人缺乏人格化形象、语音实时性和跨会话记忆的问题。核心技术亮点包括 Live2D 渲染驱动、实时语音管线、长期记忆存储与检索，以及可切换 OpenRouter 或 Ollama 作为推理后端。适用场景为虚拟主播、AI 伴侣、陪伴型助手原型开发，以及 Live2D 与 LLM 结合的工程参考。",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "large-language-model",
+        "agent"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-07T03:41:17.807439+00:00"
+    },
+    {
+      "title": "majorminorlabs/hermes-voice",
+      "source": "github-trending",
+      "url": "https://github.com/majorminorlabs/hermes-voice",
+      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "stars": 446,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T21:59:50Z",
+      "summary": "Hermes Voice 是一个将 Hermes Agent 智能体接入 Home Assistant Assist 的语音交互桥接项目，让用户通过自然语言语音直接调用 Agent 能力。它解决了智能家居场景中语音助手缺乏复杂推理与工具调用能力的问题，把 LLM Agent 的对话与任务执行能力引入家庭自动化。核心技术亮点在于打通 Home Assistant Assist 的语音管线与 Hermes Agent profile，实现语音输入到 Agent 响应再到设备控制的闭环。适用于智能家居语音控制、家庭自动化 Agent 集成以及本地化语音助手增强等场景。",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:20.073670+00:00"
+    },
+    {
+      "title": "Renly1994/xiaotang-daozai",
+      "source": "github-trending",
+      "url": "https://github.com/Renly1994/xiaotang-daozai",
+      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "stars": 432,
+      "language": "Rust",
+      "topics": [
+        "desktop-widget",
+        "dynamic-island",
+        "egui",
+        "productivity",
+        "rust",
+        "windows"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T07:54:58Z",
+      "summary": "岛仔 Daozai 是一个用 Rust 和 egui 构建的 Windows 桌面信息岛组件，借鉴动态岛交互形态，将音乐歌词、邮件验证码、日程提醒、待办事项与 AI 额度等碎片信息聚合到屏幕顶部轻量展示。它解决的是多来源通知分散、频繁切换窗口打断工作流的问题，通过常驻置顶的紧凑 UI 实现低干扰信息触达。技术亮点在于纯 Rust 原生桌面渲染、egui 即时模式 GUI 带来的低资源占用与快速迭代，以及可扩展的信息源接入设计。适合追求效率的开发者、需要实时监控 AI 服务用量与验证码的个人用户，以及希望学习 Rust 桌面 GUI 实践的工程师参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:22.503308+00:00"
+    },
+    {
+      "title": "JosssphZhou/poki",
+      "source": "github-trending",
+      "url": "https://github.com/JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "stars": 428,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T23:57:02Z",
+      "summary": "Poki 是一个本地 MCP server 与 agent 项目，让 AI agent 直接操作真实 iPhone，无需越狱或额外硬件。它解决的是移动端 GUI 自动化中设备接入门槛高、依赖模拟器或私有接口的问题，通过 MCP 协议将 iPhone 的触控、输入等操作暴露为标准化工具供 LLM 调用。核心技术亮点在于纯本地部署、基于 MCP 的 tool-use 抽象，以及免越狱的真实设备控制路径。适用场景包括移动 App 自动化测试、端到端 UI 验证、agent 在真实移动环境中的任务执行研究，以及个人效率类自动化工作流。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:41:24.479833+00:00"
+    },
+    {
+      "title": "HerdBuilderEstimate/roblox-studio-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+      "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "stars": 427,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automation",
+        "claude",
+        "cursor",
+        "developer-tools",
+        "game-development",
+        "mcp",
+        "model-context-protocol",
+        "open-source",
+        "roblox",
+        "roblox-studio",
+        "typescript"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T06:16:56Z",
+      "summary": "HerdBuilderEstimate/roblox-studio-mcp 是一个面向 Roblox Studio 的 Model Context Protocol (MCP) server，将 Claude、Cursor 等 AI 助手接入 Roblox 开发环境。它解决 AI 无法直接感知和操作 Roblox 场景的问题，使 AI 能读取对象树、编辑脚本并安全运行 playtest。核心亮点是基于 MCP 标准协议实现轻量级桥接，支持受控的读写与测试操作，降低误操作风险。适用于 Roblox 游戏开发者借助 AI 辅助脚本编写、场景调试与自动化测试的工作流。",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:26.413860+00:00"
+    },
+    {
+      "title": "SAOS-3624/dsh-see-now",
+      "source": "github-trending",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "stars": 424,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm",
+        "realtime",
+        "screen-capture",
+        "token-efficient",
+        "vision"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-06T15:17:35Z",
+      "summary": "dsh-see-now 是一个 JavaScript 插件，让 AI agent 实时获取用户屏幕内容。它通过 ffmpeg 捕获屏幕帧，按画面变化量筛选关键帧，再将多帧拼接成单张图片送入 LLM，从而在静止画面下几乎不消耗 token。核心技术亮点在于变化检测驱动的帧采样与多帧拼图压缩，兼顾实时性与成本。适用于需要视觉上下文感知的桌面 AI 助手、自动化工作流和屏幕监控类 agent 场景。",
+      "tags": [
+        "multimodal",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-07T03:41:28.057200+00:00"
+    },
+    {
+      "title": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "source": "github-trending",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "description": "Uncensored NSFW API for AI video generation — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+      "stars": 424,
+      "language": null,
+      "topics": [
+        "123vips",
+        "ai-api",
+        "ai-companion",
+        "ai-video",
+        "ai-video-api",
+        "ai-video-generator",
+        "comfyui",
+        "image-to-video",
+        "nsfw",
+        "nsfw-ai",
+        "nsfw-api",
+        "seedance",
+        "seedance-api",
+        "text-to-video",
+        "uncensored",
+        "uncensored-ai",
+        "video-api",
+        "video-generation",
+        "wan",
+        "wan-video"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-05T12:05:07Z",
+      "summary": "该项目是面向成人内容的 AI 视频生成 API 服务，提供 Seedance Spicy 与 Wan NSFW 两类模型的文生视频/图生视频能力，通过异步任务、webhook 回调与积分计费机制降低接入门槛。其核心价值在于将 NSFW 视频生成封装为标准化 API，解决开发者自建模型与合规基础设施成本高的问题，技术亮点包括异步任务编排、webhook 事件通知与 credits 计费体系。适用于成人向 AI 陪伴、内容创作平台等需要视频生成能力的场景，但需注意内容合规与平台政策风险。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-07T03:41:30.326522+00:00"
+    },
+    {
+      "title": "voyager-so/vork",
+      "source": "github-trending",
+      "url": "https://github.com/voyager-so/vork",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "stars": 404,
+      "language": "Rust",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "gpu",
+        "metal",
+        "ray-tracing",
+        "rendering",
+        "rust",
+        "slang",
+        "vfx",
+        "vulkan"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-07T03:34:18Z",
+      "summary": "Voyager-so/vork 是一个面向 AI agents 的无头（headless）3D 与 VFX 引擎，处于研究预览阶段。它解决的是 agent 在需要生成、渲染或操作三维场景与视觉特效时缺乏专用底层引擎的问题，让 agent 能以编程方式驱动 GPU 渲染管线。核心技术亮点包括 Rust 实现、GPU 加速、Metal 后端与 ray-tracing 支持，强调无头运行以便集成到自动化 agent 工作流中。适用场景涵盖 agent 驱动的 3D 内容生成、仿真环境构建、视觉特效自动化以及需要程序化渲染的 AI 研究原型。",
+      "tags": [
+        "agent",
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-11-07T03:41:32.502605+00:00"
+    },
+    {
+      "title": "mylea1/phongent",
+      "source": "github-trending",
+      "url": "https://github.com/mylea1/phongent",
+      "description": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+      "stars": 351,
+      "language": "Kotlin",
+      "topics": [],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-02T13:22:57Z",
+      "summary": "phongent 是一个基于 Kotlin 开发的开源项目，实现 iOS/Android 多设备 agent 主控与安卓执行端，灵感来自 Mika。它解决跨设备 AI agent 协同控制问题，让主控端可调度安卓设备执行任务。核心技术亮点在于多设备 agent 架构与移动端执行端集成，支持 tool-use 式操作。适用于移动自动化测试、跨设备任务编排及个人 AI 助手场景。",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-07T03:41:34.362720+00:00"
+    },
+    {
+      "title": "mrhlaingbwardev/agentic-hacking-skills",
+      "source": "github-trending",
+      "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
+      "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+      "stars": 344,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai",
+        "automation",
+        "hacking",
+        "mcp",
+        "opencode",
+        "pentesting",
+        "security",
+        "skills",
+        "web-security"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-01T06:16:19Z",
+      "summary": "该项目是《Agentic Hacking》电子书的官方配套资源库，提供28个SKILL.md模板、agents定义与MCP配置，用于构建AI驱动的Web安全测试与自动化工作流。它解决的核心问题是：安全工程师在将LLM agent接入渗透测试、漏洞扫描等任务时，缺乏可复用的技能描述规范与工具调用配置，需要从零搭建prompt与MCP集成。技术亮点在于以SKILL.md作为标准化技能载体，结合MCP协议打通agent与外部安全工具，并用JavaScript实现自动化编排。适用场景包括红队自动化、Web安全评估、agent技能模板参考及MCP集成实践。",
+      "tags": [
+        "agent",
+        "mcp",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-07T03:41:36.342541+00:00"
+    },
+    {
+      "title": "free-dam-man/agent-deploy-memory-muse",
+      "source": "github-trending",
+      "url": "https://github.com/free-dam-man/agent-deploy-memory-muse",
+      "description": "全球破甲记忆 · muse 版：免卡部署加密节点方法论（无密钥）",
+      "stars": 312,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-05T05:09:38Z",
+      "summary": "该项目是一个面向 LLM agent 的免密钥加密节点部署方法论，核心在于通过加密节点实现 agent 记忆的跨环境持久化与安全隔离。它解决的是 agent 在部署时依赖 API key 或云服务、难以在受限网络或隐私敏感场景下运行的问题。技术亮点包括无密钥的节点加密机制、可复用的部署流程以及面向 agent 记忆管理的模块化设计。适用场景为需要本地化、低依赖部署的 agent 记忆系统，以及隐私要求较高的多环境 agent 工作流。",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-07T03:41:38.748015+00:00"
+    },
+    {
+      "title": "davidlopez-x05x8/minecraft-aim-assist",
+      "source": "github-trending",
+      "url": "https://github.com/davidlopez-x05x8/minecraft-aim-assist",
+      "description": "Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated",
+      "stars": 300,
+      "language": "Python",
+      "topics": [
+        "minecraft"
+      ],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-02T04:19:49Z",
+      "summary": "该项目是面向 Minecraft 1.21.4 Fabric 的瞄准辅助模组，通过平滑瞄准算法降低手动瞄准难度。它解决玩家在战斗与探索中精准瞄准的操作门槛问题，核心亮点包括自适应目标跟踪、可自定义 FOV、可见性检测与简洁 UI，并支持便捷安装与持续更新。技术实现以 Python 为主，但作为游戏模组，其实际运行逻辑更依赖游戏内脚本或桥接层。适用场景为 Minecraft 单人娱乐、模组开发学习与游戏辅助工具原型验证，对 AI 工程师的直接技术参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-07T03:41:41.059658+00:00"
+    },
+    {
+      "title": "shanselman/gputaskman",
+      "source": "github-trending",
+      "url": "https://github.com/shanselman/gputaskman",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "stars": 276,
+      "language": "Python",
+      "topics": [],
+      "collected_at": "2026-11-07T03:40:56.235920+00:00",
+      "published_at": "2026-11-07T01:03:54Z",
+      "summary": "gputaskman 是一个跨平台（Windows、Linux、WSL）的 GPU 任务管理器，以 Python 实现。它解决的核心问题是：在本地运行 LLM 时，开发者难以实时掌握每个进程的 VRAM 占用、GPU 活动状态，以及模型与 KV-cache 的内存分布。其技术亮点在于按进程粒度展示显存使用，并针对 LLM 场景提供模型权重与 KV-cache 的专项洞察，Windows 端支持 AMD 与 NVIDIA 显卡。适用场景包括本地 LLM 推理调试、多进程 GPU 资源争用排查，以及 WSL 环境下 GPU 工作负载的监控。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-07T03:41:42.912740+00:00"
+    }
+  ]
+}

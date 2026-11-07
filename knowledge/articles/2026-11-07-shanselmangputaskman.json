@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-07-006",
+  "title": "shanselman/gputaskman",
+  "source": "github-trending",
+  "url": "https://github.com/shanselman/gputaskman",
+  "summary": "gputaskman 是一个跨平台（Windows、Linux、WSL）的 GPU 任务管理器，以 Python 实现。它解决的核心问题是：在本地运行 LLM 时，开发者难以实时掌握每个进程的 VRAM 占用、GPU 活动状态，以及模型与 KV-cache 的内存分布。其技术亮点在于按进程粒度展示显存使用，并针对 LLM 场景提供模型权重与 KV-cache 的专项洞察，Windows 端支持 AMD 与 NVIDIA 显卡。适用场景包括本地 LLM 推理调试、多进程 GPU 资源争用排查，以及 WSL 环境下 GPU 工作负载的监控。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "large-language-model",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-07T03:40:56.235920+00:00",
+  "analyzed_at": "2026-11-07T03:41:42.912740+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

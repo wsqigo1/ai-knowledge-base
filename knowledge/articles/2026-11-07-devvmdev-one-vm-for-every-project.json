@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-07-012",
+  "title": "Devvm.dev: One VM for every project",
+  "source": "hackernews-top",
+  "url": "https://devvm.dev/",
+  "summary": "Devvm.dev 是一个面向开发者的工具，为每个项目提供独立的虚拟机环境。它解决多项目开发时依赖冲突、环境隔离和配置漂移的问题，通过为每个项目创建专属 VM 实现彻底的环境隔离。核心技术亮点在于自动化 VM 生命周期管理，可能结合容器化或轻量虚拟化技术，让开发者无需手动配置即可获得干净、可复现的开发环境。适用场景包括多语言/多版本项目并行开发、需要严格隔离的测试环境，以及团队协作中统一开发环境。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:42:05.543262+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

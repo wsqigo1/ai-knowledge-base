@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-07-005",
+  "title": "voyager-so/vork",
+  "source": "github-trending",
+  "url": "https://github.com/voyager-so/vork",
+  "summary": "Voyager-so/vork 是一个面向 AI agents 的无头（headless）3D 与 VFX 引擎，处于研究预览阶段。它解决的是 agent 在需要生成、渲染或操作三维场景与视觉特效时缺乏专用底层引擎的问题，让 agent 能以编程方式驱动 GPU 渲染管线。核心技术亮点包括 Rust 实现、GPU 加速、Metal 后端与 ray-tracing 支持，强调无头运行以便集成到自动化 agent 工作流中。适用场景涵盖 agent 驱动的 3D 内容生成、仿真环境构建、视觉特效自动化以及需要程序化渲染的 AI 研究原型。",
+  "tags": [
+    "agent",
+    "open-source",
+    "multimodal",
+    "developer-tools",
+    "tool-use"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-11-07T03:40:56.235920+00:00",
+  "analyzed_at": "2026-11-07T03:41:32.502605+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

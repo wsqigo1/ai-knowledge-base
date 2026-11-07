@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-07-009",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "hackernews-top",
+  "url": "https://pwn.ai/blog/firecracker-escape",
+  "summary": "Firecracker VM Escape: PwnEscape Part 2 是安全研究系列文章的第二部分，聚焦于 AWS Firecracker microVM 的逃逸攻击。Firecracker 是 AWS 开源的轻量级虚拟化技术，广泛用于 Lambda 和 Fargate 等无服务器计算场景，其安全性直接影响多租户隔离的可靠性。文章深入分析了 Firecracker 的攻击面，展示了从 guest VM 逃逸到宿主机的利用链，涉及虚拟化层漏洞挖掘、设备模拟攻击和内存破坏技术。核心技术亮点在于针对 Rust 编写的 VMM 进行系统化安全审计，并给出可复现的 exploit 路径。适用场景包括云原生安全研究、虚拟化隔离评估和红队攻防演练。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:41:50.998775+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

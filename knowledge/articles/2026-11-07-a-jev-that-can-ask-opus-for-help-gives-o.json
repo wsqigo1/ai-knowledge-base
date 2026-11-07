@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-07-008",
+  "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+  "source": "hackernews-top",
+  "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+  "summary": "该项目提出一种基于小型模型（Jev）的级联推理架构：Jev 在遇到不确定问题时主动调用 Opus 获取帮助，从而在保持接近 Opus 准确率的同时将推理成本降低约 4 倍。核心亮点在于动态路由与不确定性触发的求助机制，避免所有请求都走昂贵的大模型。适用于对成本敏感但要求高准确率的 LLM 推理场景，如客服问答、代码辅助与批量文档处理。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "agent",
+    "tool-use",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:41:46.934478+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

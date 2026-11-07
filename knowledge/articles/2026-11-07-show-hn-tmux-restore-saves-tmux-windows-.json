@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-07-011",
+  "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+  "source": "hackernews-top",
+  "url": "https://github.com/andrewboldi/tmux-restore",
+  "summary": "Tmux-restore 是一个开源工具，用于在系统重启后恢复 tmux 窗口布局及其中运行的 agent 会话。它解决了开发者因重启丢失 tmux 工作区和长时间运行的 AI agent 会话的痛点。核心技术亮点在于自动保存 tmux 会话状态（窗口、面板、命令）并支持恢复，尤其针对 agent 会话的持久化。适用场景包括需要长时间运行 AI 编码助手或自动化 agent 的开发者，以及依赖 tmux 进行多任务管理的工程师。",
+  "tags": [
+    "developer-tools",
+    "agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-07T03:40:56.479919+00:00",
+  "analyzed_at": "2026-11-07T03:41:59.500848+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

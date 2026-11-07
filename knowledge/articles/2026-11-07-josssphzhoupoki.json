@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-07-003",
+  "title": "JosssphZhou/poki",
+  "source": "github-trending",
+  "url": "https://github.com/JosssphZhou/poki",
+  "summary": "Poki 是一个本地 MCP server 与 agent 项目，让 AI agent 直接操作真实 iPhone，无需越狱或额外硬件。它解决的是移动端 GUI 自动化中设备接入门槛高、依赖模拟器或私有接口的问题，通过 MCP 协议将 iPhone 的触控、输入等操作暴露为标准化工具供 LLM 调用。核心技术亮点在于纯本地部署、基于 MCP 的 tool-use 抽象，以及免越狱的真实设备控制路径。适用场景包括移动 App 自动化测试、端到端 UI 验证、agent 在真实移动环境中的任务执行研究，以及个人效率类自动化工作流。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-07T03:40:56.235920+00:00",
+  "analyzed_at": "2026-11-07T03:41:24.479833+00:00",
+  "organized_at": "2026-11-07T03:42:24.353970+00:00",
+  "status": "published"
+}

@@ -1,7 +1,267 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2911,
+  "total_count": 2928,
   "entries": [
+    {
+      "id": "kb-2026-11-07-001",
+      "title": "zeekk0/OpenAmika",
+      "source": "github-trending",
+      "url": "https://github.com/zeekk0/OpenAmika",
+      "file": "2026-11-07-zeekk0openamika.json",
+      "tags": [
+        "ai-assistant",
+        "multimodal",
+        "open-source",
+        "large-language-model",
+        "agent"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-002",
+      "title": "majorminorlabs/hermes-voice",
+      "source": "github-trending",
+      "url": "https://github.com/majorminorlabs/hermes-voice",
+      "file": "2026-11-07-majorminorlabshermes-voice.json",
+      "tags": [
+        "ai-assistant",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-003",
+      "title": "JosssphZhou/poki",
+      "source": "github-trending",
+      "url": "https://github.com/JosssphZhou/poki",
+      "file": "2026-11-07-josssphzhoupoki.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-004",
+      "title": "HerdBuilderEstimate/roblox-studio-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+      "file": "2026-11-07-herdbuilderestimateroblox-studio-mcp.json",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-005",
+      "title": "voyager-so/vork",
+      "source": "github-trending",
+      "url": "https://github.com/voyager-so/vork",
+      "file": "2026-11-07-voyager-sovork.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-006",
+      "title": "shanselman/gputaskman",
+      "source": "github-trending",
+      "url": "https://github.com/shanselman/gputaskman",
+      "file": "2026-11-07-shanselmangputaskman.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-007",
+      "title": "Libghostty 1.0",
+      "source": "hackernews-top",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "file": "2026-11-07-libghostty-10.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-008",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "source": "hackernews-top",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "file": "2026-11-07-a-jev-that-can-ask-opus-for-help-gives-o.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "tool-use",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-009",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "source": "hackernews-top",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "file": "2026-11-07-firecracker-vm-escape-pwnescape-part-2.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-010",
+      "title": "AI is dramatically accelerating AI research",
+      "source": "hackernews-top",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "file": "2026-11-07-ai-is-dramatically-accelerating-ai-resea.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "reasoning",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-011",
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "source": "hackernews-top",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "file": "2026-11-07-show-hn-tmux-restore-saves-tmux-windows-.json",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-012",
+      "title": "Devvm.dev: One VM for every project",
+      "source": "hackernews-top",
+      "url": "https://devvm.dev/",
+      "file": "2026-11-07-devvmdev-one-vm-for-every-project.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-013",
+      "title": "GitHub's new Git storage architecture",
+      "source": "hackernews-top",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "file": "2026-11-07-githubs-new-git-storage-architecture.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-014",
+      "title": "Gemini Omni 1.2 Flash",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "file": "2026-11-07-gemini-omni-12-flash.json",
+      "tags": [
+        "multimodal",
+        "large-language-model",
+        "ai-assistant",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-015",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "file": "2026-11-07-memorilla-latent-semantic-memory-for-llm.json",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-016",
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "source": "hackernews-top",
+      "url": "https://www.norvig.com/chomsky.html",
+      "file": "2026-11-07-chomsky-and-the-two-cultures-of-statisti.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
+    {
+      "id": "kb-2026-11-07-017",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "source": "hackernews-top",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "file": "2026-11-07-chatgpt-silently-passes-data-between-con.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-07T03:42:24.353970+00:00"
+    },
     {
       "id": "kb-2026-11-06-001",
       "title": "sarpstar/cinecode",
@@ -43790,5 +44050,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-06T04:08:09.702871+00:00"
+  "last_updated": "2026-11-07T03:42:24.647079+00:00"
 }
