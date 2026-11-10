@@ -1,0 +1,402 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-10T05:08:46.224985+00:00",
+  "date": "2026-11-10",
+  "count": 20,
+  "items": [
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "hn_url": "https://news.ycombinator.com/item?id=50429068",
+      "description": "",
+      "hn_score": 352,
+      "comments": 695,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该条目讨论 Claude Fable 5.2 与 Mythos 5.2 两个模型版本，但描述信息缺失，仅能从标题推断为 Anthropic Claude 系列的新版本发布。推测其旨在提升长文本理解、推理与代码生成能力，可能涉及模型架构优化与训练数据更新。核心技术亮点尚不明确，适用场景包括 AI 辅助写作、编程与复杂推理任务。由于缺乏具体技术细节，实际价值需进一步验证。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-10T05:09:32.415408+00:00"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "source": "hackernews-top",
+      "url": "https://postalpro.usps.com/zcb",
+      "hn_url": "https://news.ycombinator.com/item?id=50431058",
+      "description": "",
+      "hn_score": 558,
+      "comments": 278,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "美国邮政署（USPS）正式发布官方 ZIP Code 边界多边形数据，此前开发者只能依赖第三方或非官方来源获取邮政编码地理边界。该数据集提供权威、标准化的地理边界信息，解决地址匹配、地理编码和区域分析中边界数据不准确、授权不清的问题。核心技术亮点在于官方数据源的权威性与可直接集成性，支持 GIS 工具和空间数据库使用。适用场景包括物流路径规划、地理围栏、地址验证、市场区域分析及需要精确邮政编码边界的 GIS 应用。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-10T05:09:34.565025+00:00"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "source": "hackernews-top",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "hn_url": "https://news.ycombinator.com/item?id=50427362",
+      "description": "",
+      "hn_score": 494,
+      "comments": 275,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "Payments Canada 宣布推出加拿大实时支付系统 Real-Time Rail (RTR)，这是一个支持 24/7 即时清算与结算的国家级支付基础设施。它解决传统批量支付延迟高、非工作时间不可用的问题，实现秒级资金到账与不可撤销的支付确认。核心技术亮点包括 ISO 20022 报文标准、实时清算与结算一体化、以及面向金融机构的开放 API 接入层。适用场景涵盖 P2P 转账、企业实时付款、账单即时支付及未来与请求付款（Request to Pay）等增值服务的集成。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-10T05:09:36.681948+00:00"
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "source": "hackernews-top",
+      "url": "https://e-means.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50429734",
+      "description": "",
+      "hn_score": 320,
+      "comments": 29,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "E-means 是一种新型聚类算法，旨在替代经典 k-means，解决其收敛慢、对初始中心敏感的问题。核心技术亮点在于通过改进的期望最大化式迭代机制，在仅需 k-means 十分之一 epoch 数的情况下达到更优聚类质量，显著降低训练时间与计算成本。该方法适用于大规模数据聚类、向量量化、embedding 分组等场景，尤其适合对迭代效率敏感的工程流水线。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:09:38.882847+00:00"
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "source": "hackernews-top",
+      "url": "https://www.foldableflight.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50424581",
+      "description": "",
+      "hn_score": 908,
+      "comments": 144,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该条目是 Hacker News 上热门的纸飞机折纸教程网站，提供多种纸飞机设计、折叠步骤与飞行技巧。它解决的是爱好者寻找可靠、易学的纸飞机教程的需求，核心亮点在于清晰的图解与分类指导，而非 AI 技术。适用场景为休闲娱乐、手工教学与亲子活动，与 AI/LLM 工程领域无直接关联。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-10T05:09:40.794099+00:00"
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "source": "hackernews-top",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50435660",
+      "description": "",
+      "hn_score": 56,
+      "comments": 22,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该条目报道 CoreWeave 公司债券收益率突破 16%，反映 AI 基础设施领域信用压力上升。CoreWeave 作为 GPU 云服务商，其高杠杆融资模式在 AI 算力需求爆发期快速扩张，但债券收益率飙升表明市场对其偿债能力和 AI 投资回报周期产生担忧。核心信息在于 AI 信贷市场风险定价变化，而非技术突破。对 AI 工程师而言，这提示算力租赁成本与供应商稳定性风险，适用于评估云 GPU 供应商选择、AI 项目基础设施成本规划及行业投资风险判断场景。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-10T05:09:43.354264+00:00"
+    },
+    {
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "source": "hackernews-top",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=50426175",
+      "description": "",
+      "hn_score": 295,
+      "comments": 190,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该研究展示了一种半透明彩色碲化镉（CdTe）光伏面板，用于农业光伏（agrivoltaics）场景。它解决传统不透明光伏板遮挡作物光照、难以与农业共存的矛盾。核心技术亮点在于通过调节CdTe薄膜的厚度与色彩实现可控透光率，使特定波段光透过供作物生长，同时剩余光用于发电，兼顾发电效率与农作物产量。适用场景包括温室、果园、农田等需兼顾光照与电力的农业设施，对AI工程师而言属于跨领域硬件创新，与LLM技术栈关联较弱。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-10T05:09:45.572829+00:00"
+    },
+    {
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "source": "hackernews-top",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "hn_url": "https://news.ycombinator.com/item?id=50429430",
+      "description": "",
+      "hn_score": 121,
+      "comments": 66,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "300毫米（12英寸）功率碳化硅（SiC）晶圆首次实现，突破传统150毫米/200毫米尺寸限制。该技术解决SiC功率器件成本高、产能受限的核心瓶颈，通过更大晶圆面积提升单片产出、降低单位成本，并兼容现有硅基300毫米产线。核心技术亮点在于大尺寸SiC晶体生长与晶圆加工工艺的突破，减少缺陷密度并提升良率。适用场景包括电动汽车逆变器、光伏逆变器、工业电源及轨道交通等高压高频功率电子领域，对AI工程师而言直接关联度较低，但属于半导体基础设施层的重要进展。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-10T05:09:47.726136+00:00"
+    },
+    {
+      "title": "A primer on GPUs and kernel optimization",
+      "source": "hackernews-top",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "hn_url": "https://news.ycombinator.com/item?id=50386246",
+      "description": "",
+      "hn_score": 115,
+      "comments": 12,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该文是一篇面向 AI 工程师的 GPU 与 kernel 优化入门指南，系统讲解 GPU 硬件架构（SM、warp、内存层级）与 CUDA kernel 性能优化方法。核心亮点在于将抽象硬件概念与具体优化手段（合并访存、占用率调优、共享内存使用、指令级并行）对应起来，帮助读者建立从硬件特性到代码性能的映射关系。适用于需要自行编写或调优 GPU kernel 的深度学习系统工程师、推理加速开发者，以及希望理解底层性能瓶颈的模型训练从业者。",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:09:49.460528+00:00"
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "source": "hackernews-top",
+      "url": "https://www.watched.earth",
+      "hn_url": "https://news.ycombinator.com/item?id=50428907",
+      "description": "",
+      "hn_score": 274,
+      "comments": 46,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该项目是一个展示本周内经过任意地点的所有卫星及其拍摄照片的Web应用，解决卫星过境信息与影像数据分散、难以按地点和时间聚合查询的问题。核心技术亮点在于整合卫星轨道数据与公开影像源，实现按地理位置和时间窗口的过境事件匹配与可视化。适用场景包括遥感数据探索、地理信息研究、天文爱好者观测规划及科普教育。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-10T05:09:51.333071+00:00"
+    },
+    {
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "source": "hackernews-top",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "hn_url": "https://news.ycombinator.com/item?id=50433659",
+      "description": "",
+      "hn_score": 260,
+      "comments": 183,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该 HN 热帖展示 Fable 5.2 通过单次提示词（one-shot）生成完整可玩游戏，验证了 LLM 在端到端游戏开发中的代码生成能力。它解决的是从自然语言需求到可运行游戏原型的快速转化问题，核心亮点在于长上下文理解、多文件代码生成与游戏逻辑一致性保持。适用场景包括独立游戏原型验证、教育演示和 AI 辅助开发工作流。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:09:52.897543+00:00"
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "source": "hackernews-top",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "hn_url": "https://news.ycombinator.com/item?id=50429426",
+      "description": "",
+      "hn_score": 487,
+      "comments": 114,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该条目报道 Google Gemini 将用户个人 Drive 文件与邮件路由至人工标注员，暴露了 AI 助手在数据隐私与人工审核环节的边界问题。核心在于揭示大模型产品在训练与质量评估中可能触及敏感个人数据，涉及数据脱敏、访问控制与合规审计等技术挑战。技术亮点在于引发对 LLM 数据管道的透明性与隐私保护机制的讨论，而非具体算法创新。适用场景为 AI 工程师评估产品隐私风险、设计合规数据流程及理解大厂 LLM 运维实践。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:09:54.955135+00:00"
+    },
+    {
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "source": "hackernews-top",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "hn_url": "https://news.ycombinator.com/item?id=50429024",
+      "description": "",
+      "hn_score": 270,
+      "comments": 111,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "Muse Ember 是 Muse 团队发布的最小、最高效模型，定位为轻量级推理引擎。它解决在资源受限环境下部署 LLM 的延迟与成本问题，通过模型压缩与高效架构设计在保持可用能力的同时大幅降低参数量与推理开销。核心技术亮点包括精简架构、面向边缘/端侧优化的推理路径，以及效率与性能的平衡取舍。适用场景为端侧 AI 助手、低延迟在线服务、成本敏感的批量推理与嵌入式开发者工具集成。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:09:57.026078+00:00"
+    },
+    {
+      "title": "TPU 8tx and TPU 8i Max",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "hn_url": "https://news.ycombinator.com/item?id=50432831",
+      "description": "",
+      "hn_score": 233,
+      "comments": 71,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "Google 发布 TPU 8tx 与 TPU 8i Max 两款新一代张量处理单元，分别面向训练与推理场景。TPU 8tx 针对大规模 LLM 训练优化，提升高带宽内存容量与芯片间互联带宽，缓解大模型训练中的显存墙与通信瓶颈；TPU 8i Max 则聚焦推理吞吐与能效，通过更大片上缓存和低精度计算支持降低单位 token 成本。核心技术亮点包括更高 HBM 带宽、增强的 ICI 互联拓扑以及面向 MoE 与长上下文推理的调度优化。适用场景为云端大模型训练集群、高并发推理服务及多模态模型部署，对依赖 Google Cloud TPU 的 AI 工程团队具有直接参考价值。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:09:59.345958+00:00"
+    },
+    {
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "source": "hackernews-top",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "hn_url": "https://news.ycombinator.com/item?id=50431144",
+      "description": "",
+      "hn_score": 317,
+      "comments": 231,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "Anthropic 的 Claude Fable 5.2 在 Artificial Analysis 综合评测中取得 65 分，创下该榜单历史最高分。该条目解决的是模型能力横向对比缺乏统一量化基准的问题，通过标准化评测集对推理、代码、多模态等维度打分。核心技术亮点在于 Fable 5.2 在复杂推理与长上下文任务上的显著提升，以及 Artificial Analysis 评测方法论的持续迭代。适用场景包括模型选型、API 采购决策、以及 AI 工程师评估不同 LLM 在 agent 与 code-generation 工作流中的实际表现。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-10T05:10:01.833750+00:00"
+    },
+    {
+      "title": "What is malloc doing, anyway?",
+      "source": "hackernews-top",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "hn_url": "https://news.ycombinator.com/item?id=50424157",
+      "description": "",
+      "hn_score": 240,
+      "comments": 62,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该文章深入剖析 C 标准库中 malloc 内存分配器的内部实现机制，解释其如何通过 brk/mmap 系统调用向操作系统申请内存、维护空闲链表与内存池、处理碎片与对齐等核心问题。技术亮点在于以可视化或分步方式展示 malloc 的元数据管理、分配策略（如首次适配、最佳适配）及 free 时的合并逻辑，帮助开发者理解内存分配的性能开销与常见陷阱。适用场景包括系统编程学习、性能调优、内存泄漏排查及对底层运行时机制感兴趣的后端与嵌入式工程师。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:10:04.257487+00:00"
+    },
+    {
+      "title": "CUI – Native UI components for C",
+      "source": "hackernews-top",
+      "url": "https://yappologistic.github.io/CUI/",
+      "hn_url": "https://news.ycombinator.com/item?id=50430621",
+      "description": "",
+      "hn_score": 170,
+      "comments": 92,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "CUI 是一个为 C 语言提供原生 UI 组件的开源库，旨在解决 C 开发者缺乏轻量级、跨平台 GUI 工具的问题。其核心技术亮点包括纯 C 实现、无外部依赖、直接调用系统原生控件（如 Windows 的 Win32 和 Linux 的 GTK），从而保证高性能和原生外观。适用场景包括嵌入式系统、系统工具、命令行增强应用以及需要最小化运行时依赖的桌面软件开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-10T05:10:06.223065+00:00"
+    },
+    {
+      "title": "The Web Is More Than Enough",
+      "source": "hackernews-top",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "hn_url": "https://news.ycombinator.com/item?id=50416456",
+      "description": "",
+      "hn_score": 183,
+      "comments": 134,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "《The Web Is More Than Enough》是一篇探讨以 Web 平台原生能力构建应用的技术文章，主张无需依赖复杂框架或重型工具链即可实现现代交互体验。文章针对前端工程过度复杂化的问题，论证 HTML、CSS 与原生 JavaScript 已能覆盖多数场景，核心亮点在于对渐进增强、平台原生 API 与性能优先理念的系统性梳理，并对比了框架方案的取舍。适用场景包括轻量级 Web 应用开发、对加载性能敏感的产品，以及希望降低技术栈维护成本的团队。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-10T05:10:08.519133+00:00"
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "source": "hackernews-top",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "hn_url": "https://news.ycombinator.com/item?id=50429144",
+      "description": "",
+      "hn_score": 70,
+      "comments": 22,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "STE80 Humanizer 是一个基于 ASD-STE100 简化技术英语标准的文本改写工具，目标是将 AI 生成文本改写为更接近人类写作风格。它解决的是 AI 文本检测与\"去 AI 味\"需求，核心思路是让文本在保留原意的前提下向 STE100 规范靠拢约 80%，通过受控词汇、短句和明确结构降低机器生成特征。技术亮点在于借用航空业成熟的受控自然语言标准作为改写目标，而非依赖对抗式检测规避。适用场景包括技术文档写作、内容本地化及需要降低 AI 痕迹的文本润色工作。",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-10T05:10:11.024555+00:00"
+    },
+    {
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "hn_url": "https://news.ycombinator.com/item?id=50422069",
+      "description": "",
+      "hn_score": 771,
+      "comments": 483,
+      "collected_at": "2026-11-10T05:08:44.470644+00:00",
+      "published_at": "2026-11-10T05:08:44.470644+00:00",
+      "summary": "该 HN 热帖讨论 Anthropic 的 Opus 5.5 模型在 11 月 3 日后推理行为出现变化，用户怀疑模型被静默降级（nerfed）。帖子聚焦于模型 thinking patterns 的漂移现象，即同一 prompt 下输出风格、推理链长度与质量较此前版本明显不同。核心技术亮点在于社区通过对比测试、prompt 复现与输出样本收集，形成对闭源模型行为变更的实证观察方法，涉及 reasoning trace 分析与版本回归检测。适用场景包括依赖 Opus 构建生产应用的 AI 工程师、需要评估模型稳定性与供应商透明度的团队，以及研究 LLM 行为漂移与版本治理的从业者。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-10T05:10:13.641841+00:00"
+    }
+  ]
+}

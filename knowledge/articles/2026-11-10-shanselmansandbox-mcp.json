@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-10-009",
+  "title": "shanselman/sandbox-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/shanselman/sandbox-mcp",
+  "summary": "sandbox-mcp 是一个基于 MCP 协议的服务器与 CLI 工具，用于自动化创建一次性 Windows Sandbox 虚拟机，供开发者测试应用。它解决了 Windows 环境下应用测试需要干净、隔离且可快速重置的机器的问题，避免污染宿主机或手动配置虚拟机。核心技术亮点在于将 Windows Sandbox 的自动化封装为 MCP 工具，可被 AI agent 或脚本直接调用，并支持 UI 自动化测试。适用场景包括 Windows 应用兼容性测试、恶意软件分析、CI 中的隔离测试以及 AI agent 驱动的自动化测试流程。",
+  "tags": [
+    "mcp",
+    "developer-tools",
+    "tool-use",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-10T05:08:43.675932+00:00",
+  "analyzed_at": "2026-11-10T05:09:30.569874+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

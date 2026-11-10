@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-10-013",
+  "title": "A primer on GPUs and kernel optimization",
+  "source": "hackernews-top",
+  "url": "https://www.nabo.dev/blogs/kernel-primer",
+  "summary": "该文是一篇面向 AI 工程师的 GPU 与 kernel 优化入门指南，系统讲解 GPU 硬件架构（SM、warp、内存层级）与 CUDA kernel 性能优化方法。核心亮点在于将抽象硬件概念与具体优化手段（合并访存、占用率调优、共享内存使用、指令级并行）对应起来，帮助读者建立从硬件特性到代码性能的映射关系。适用于需要自行编写或调优 GPU kernel 的深度学习系统工程师、推理加速开发者，以及希望理解底层性能瓶颈的模型训练从业者。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "open-source",
+    "large-language-model"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:09:49.460528+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

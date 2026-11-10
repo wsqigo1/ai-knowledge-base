@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-10-012",
+  "title": "E-means: Outperforming k-means in one-tenth the epochs",
+  "source": "hackernews-top",
+  "url": "https://e-means.github.io/",
+  "summary": "E-means 是一种新型聚类算法，旨在替代经典 k-means，解决其收敛慢、对初始中心敏感的问题。核心技术亮点在于通过改进的期望最大化式迭代机制，在仅需 k-means 十分之一 epoch 数的情况下达到更优聚类质量，显著降低训练时间与计算成本。该方法适用于大规模数据聚类、向量量化、embedding 分组等场景，尤其适合对迭代效率敏感的工程流水线。",
+  "tags": [
+    "benchmark",
+    "open-source",
+    "vector-database",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:09:38.882847+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

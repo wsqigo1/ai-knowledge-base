@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-10-017",
+  "title": "Muse Ember: Our smallest, most efficient model",
+  "source": "hackernews-top",
+  "url": "https://research.meta.ai/blog/muse-ember",
+  "summary": "Muse Ember 是 Muse 团队发布的最小、最高效模型，定位为轻量级推理引擎。它解决在资源受限环境下部署 LLM 的延迟与成本问题，通过模型压缩与高效架构设计在保持可用能力的同时大幅降低参数量与推理开销。核心技术亮点包括精简架构、面向边缘/端侧优化的推理路径，以及效率与性能的平衡取舍。适用场景为端侧 AI 助手、低延迟在线服务、成本敏感的批量推理与嵌入式开发者工具集成。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:09:57.026078+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

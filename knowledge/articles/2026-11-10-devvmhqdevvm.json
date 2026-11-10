@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-10-003",
+  "title": "devvmhq/devvm",
+  "source": "github-trending",
+  "url": "https://github.com/devvmhq/devvm",
+  "summary": "devvm 是一个用 Go 编写的开发者工具，为每个项目创建独立虚拟机沙箱，预装项目所需工具链，可直接供开发者或 coding agent 使用。它解决多项目环境下依赖冲突、环境污染以及 AI 编码代理缺乏安全隔离执行环境的问题。核心技术基于 Lima 构建轻量 VM，实现项目级隔离与开箱即用的工具链配置，并面向 coding agent 场景优化。适用于需要并行维护多个技术栈项目的开发者，以及为 AI 编码助手提供可复现、隔离运行环境的团队。",
+  "tags": [
+    "developer-tools",
+    "agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:43.675932+00:00",
+  "analyzed_at": "2026-11-10T05:08:59.963955+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

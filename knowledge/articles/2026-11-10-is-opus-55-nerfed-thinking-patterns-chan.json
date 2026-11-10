@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-10-024",
+  "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+  "summary": "该 HN 热帖讨论 Anthropic 的 Opus 5.5 模型在 11 月 3 日后推理行为出现变化，用户怀疑模型被静默降级（nerfed）。帖子聚焦于模型 thinking patterns 的漂移现象，即同一 prompt 下输出风格、推理链长度与质量较此前版本明显不同。核心技术亮点在于社区通过对比测试、prompt 复现与输出样本收集，形成对闭源模型行为变更的实证观察方法，涉及 reasoning trace 分析与版本回归检测。适用场景包括依赖 Opus 构建生产应用的 AI 工程师、需要评估模型稳定性与供应商透明度的团队，以及研究 LLM 行为漂移与版本治理的从业者。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:10:13.641841+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

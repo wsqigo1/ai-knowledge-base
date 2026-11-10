@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-10-002",
+  "title": "lxe/phoneuse",
+  "source": "github-trending",
+  "url": "https://github.com/lxe/phoneuse",
+  "summary": "phoneuse 是一个 Python 工具，让 Linux PC 通过 AirPlay 接收 iPhone 屏幕镜像，并通过蓝牙 HID 反向发送鼠标键盘操作，从而在未越狱、未修改的 iPhone 上实现远程查看与控制。它提供 CLI 和面向 agent 的 skill 接口，核心亮点是复用 AirPlay 与 Bluetooth HID 标准协议，无需在 iPhone 端安装任何软件。适用于自动化测试、移动端 agent 操作、远程演示与跨设备工作流集成。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:43.675932+00:00",
+  "analyzed_at": "2026-11-10T05:08:57.764689+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

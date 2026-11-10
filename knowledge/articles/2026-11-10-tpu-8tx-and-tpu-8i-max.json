@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-10-018",
+  "title": "TPU 8tx and TPU 8i Max",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "summary": "Google 发布 TPU 8tx 与 TPU 8i Max 两款新一代张量处理单元，分别面向训练与推理场景。TPU 8tx 针对大规模 LLM 训练优化，提升高带宽内存容量与芯片间互联带宽，缓解大模型训练中的显存墙与通信瓶颈；TPU 8i Max 则聚焦推理吞吐与能效，通过更大片上缓存和低精度计算支持降低单位 token 成本。核心技术亮点包括更高 HBM 带宽、增强的 ICI 互联拓扑以及面向 MoE 与长上下文推理的调度优化。适用场景为云端大模型训练集群、高并发推理服务及多模态模型部署，对依赖 Google Cloud TPU 的 AI 工程团队具有直接参考价值。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "multimodal",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:09:59.345958+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

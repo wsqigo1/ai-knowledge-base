@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-10-001",
+  "title": "DIYgod/pinky",
+  "source": "github-trending",
+  "url": "https://github.com/DIYgod/pinky",
+  "summary": "Pinky 是一个用 Go 编写的开源框架，让 AI agent 能够直接操作用户的手机，同时保持人类在环（human-in-the-loop）的审批与干预机制。它解决的核心问题是：现有 agent 大多局限于桌面或云端环境，难以安全地触达移动端真实操作（如点击、输入、跳转应用），而完全自动化的手机操作又存在误操作与隐私风险。技术亮点在于将 agent 的 tool-use 能力与移动设备控制桥接，并通过人在环设计对高风险动作进行确认，兼顾自动化效率与可控性。适用场景包括移动端 UI 自动化测试、个人助理类 agent、跨应用流程编排，以及需要人工审核的敏感操作代理。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-10T05:08:43.675932+00:00",
+  "analyzed_at": "2026-11-10T05:08:48.890622+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

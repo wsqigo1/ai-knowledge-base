@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-10-016",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "source": "hackernews-top",
+  "url": "https://github.com/thisisme6598/gemini_files/",
+  "summary": "该条目报道 Google Gemini 将用户个人 Drive 文件与邮件路由至人工标注员，暴露了 AI 助手在数据隐私与人工审核环节的边界问题。核心在于揭示大模型产品在训练与质量评估中可能触及敏感个人数据，涉及数据脱敏、访问控制与合规审计等技术挑战。技术亮点在于引发对 LLM 数据管道的透明性与隐私保护机制的讨论，而非具体算法创新。适用场景为 AI 工程师评估产品隐私风险、设计合规数据流程及理解大厂 LLM 运维实践。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:09:54.955135+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

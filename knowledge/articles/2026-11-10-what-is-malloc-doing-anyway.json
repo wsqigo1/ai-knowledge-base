@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-10-020",
+  "title": "What is malloc doing, anyway?",
+  "source": "hackernews-top",
+  "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+  "summary": "该文章深入剖析 C 标准库中 malloc 内存分配器的内部实现机制，解释其如何通过 brk/mmap 系统调用向操作系统申请内存、维护空闲链表与内存池、处理碎片与对齐等核心问题。技术亮点在于以可视化或分步方式展示 malloc 的元数据管理、分配策略（如首次适配、最佳适配）及 free 时的合并逻辑，帮助开发者理解内存分配的性能开销与常见陷阱。适用场景包括系统编程学习、性能调优、内存泄漏排查及对底层运行时机制感兴趣的后端与嵌入式工程师。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:10:04.257487+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

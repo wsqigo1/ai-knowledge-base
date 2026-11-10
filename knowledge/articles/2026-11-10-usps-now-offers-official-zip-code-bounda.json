@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-10-011",
+  "title": "USPS now offers official ZIP Code boundary polygons",
+  "source": "hackernews-top",
+  "url": "https://postalpro.usps.com/zcb",
+  "summary": "美国邮政署（USPS）正式发布官方 ZIP Code 边界多边形数据，此前开发者只能依赖第三方或非官方来源获取邮政编码地理边界。该数据集提供权威、标准化的地理边界信息，解决地址匹配、地理编码和区域分析中边界数据不准确、授权不清的问题。核心技术亮点在于官方数据源的权威性与可直接集成性，支持 GIS 工具和空间数据库使用。适用场景包括物流路径规划、地理围栏、地址验证、市场区域分析及需要精确邮政编码边界的 GIS 应用。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:09:34.565025+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-10-023",
+  "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+  "source": "hackernews-top",
+  "url": "https://github.com/Dodaios/ste80-humanizer",
+  "summary": "STE80 Humanizer 是一个基于 ASD-STE100 简化技术英语标准的文本改写工具，目标是将 AI 生成文本改写为更接近人类写作风格。它解决的是 AI 文本检测与\"去 AI 味\"需求，核心思路是让文本在保留原意的前提下向 STE100 规范靠拢约 80%，通过受控词汇、短句和明确结构降低机器生成特征。技术亮点在于借用航空业成熟的受控自然语言标准作为改写目标，而非依赖对抗式检测规避。适用场景包括技术文档写作、内容本地化及需要降低 AI 痕迹的文本润色工作。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-10T05:08:44.470644+00:00",
+  "analyzed_at": "2026-11-10T05:10:11.024555+00:00",
+  "organized_at": "2026-11-10T05:10:13.699926+00:00",
+  "status": "published"
+}

@@ -1,7 +1,373 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2928,
+  "total_count": 2952,
   "entries": [
+    {
+      "id": "kb-2026-11-10-001",
+      "title": "DIYgod/pinky",
+      "source": "github-trending",
+      "url": "https://github.com/DIYgod/pinky",
+      "file": "2026-11-10-diygodpinky.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-002",
+      "title": "lxe/phoneuse",
+      "source": "github-trending",
+      "url": "https://github.com/lxe/phoneuse",
+      "file": "2026-11-10-lxephoneuse.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-003",
+      "title": "devvmhq/devvm",
+      "source": "github-trending",
+      "url": "https://github.com/devvmhq/devvm",
+      "file": "2026-11-10-devvmhqdevvm.json",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-004",
+      "title": "dhruvthakur11/youtube-ai-video-editing-system",
+      "source": "github-trending",
+      "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+      "file": "2026-11-10-dhruvthakur11youtube-ai-video-editing-sy.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "workflow-automation",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-005",
+      "title": "AbhiKamane/ai-app-builder-open",
+      "source": "github-trending",
+      "url": "https://github.com/AbhiKamane/ai-app-builder-open",
+      "file": "2026-11-10-abhikamaneai-app-builder-open.json",
+      "tags": [
+        "code-generation",
+        "open-source",
+        "developer-tools",
+        "large-language-model",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-006",
+      "title": "ajayuv21/ozone-mastering-suite",
+      "source": "github-trending",
+      "url": "https://github.com/ajayuv21/ozone-mastering-suite",
+      "file": "2026-11-10-ajayuv21ozone-mastering-suite.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-007",
+      "title": "ZSeven-W/dsh-game-studio",
+      "source": "github-trending",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "file": "2026-11-10-zseven-wdsh-game-studio.json",
+      "tags": [
+        "large-language-model",
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-008",
+      "title": "dabingfy-dot/solo-to-team-skills",
+      "source": "github-trending",
+      "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+      "file": "2026-11-10-dabingfy-dotsolo-to-team-skills.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "workflow-automation",
+        "human-in-the-loop",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-009",
+      "title": "shanselman/sandbox-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/shanselman/sandbox-mcp",
+      "file": "2026-11-10-shanselmansandbox-mcp.json",
+      "tags": [
+        "mcp",
+        "developer-tools",
+        "tool-use",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-010",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "source": "hackernews-top",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "file": "2026-11-10-claude-fable-52-and-mythos-52.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-011",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "source": "hackernews-top",
+      "url": "https://postalpro.usps.com/zcb",
+      "file": "2026-11-10-usps-now-offers-official-zip-code-bounda.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-012",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "source": "hackernews-top",
+      "url": "https://e-means.github.io/",
+      "file": "2026-11-10-e-means-outperforming-k-means-in-one-ten.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "vector-database",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-013",
+      "title": "A primer on GPUs and kernel optimization",
+      "source": "hackernews-top",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "file": "2026-11-10-a-primer-on-gpus-and-kernel-optimization.json",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source",
+        "large-language-model"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-014",
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "source": "hackernews-top",
+      "url": "https://www.watched.earth",
+      "file": "2026-11-10-show-hn-every-satellite-that-passed-over.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-015",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "source": "hackernews-top",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "file": "2026-11-10-fable-52-one-shotted-my-nephews-dream-ga.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-016",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "source": "hackernews-top",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "file": "2026-11-10-google-gemini-routes-personal-drive-file.json",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-017",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "source": "hackernews-top",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "file": "2026-11-10-muse-ember-our-smallest-most-efficient-m.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-018",
+      "title": "TPU 8tx and TPU 8i Max",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "file": "2026-11-10-tpu-8tx-and-tpu-8i-max.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "multimodal",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-019",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "source": "hackernews-top",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "file": "2026-11-10-claude-fable-52-scores-65-on-artificial-.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-020",
+      "title": "What is malloc doing, anyway?",
+      "source": "hackernews-top",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "file": "2026-11-10-what-is-malloc-doing-anyway.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-021",
+      "title": "CUI – Native UI components for C",
+      "source": "hackernews-top",
+      "url": "https://yappologistic.github.io/CUI/",
+      "file": "2026-11-10-cui-native-ui-components-for-c.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-022",
+      "title": "The Web Is More Than Enough",
+      "source": "hackernews-top",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "file": "2026-11-10-the-web-is-more-than-enough.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-023",
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "source": "hackernews-top",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "file": "2026-11-10-show-hn-ste80-humanizer-de-ai-text-by-wr.json",
+      "tags": [
+        "large-language-model",
+        "prompt-engineering",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
+    {
+      "id": "kb-2026-11-10-024",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "file": "2026-11-10-is-opus-55-nerfed-thinking-patterns-chan.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-10T05:10:13.699926+00:00"
+    },
     {
       "id": "kb-2026-11-07-001",
       "title": "zeekk0/OpenAmika",
@@ -44050,5 +44416,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-07T03:42:24.647079+00:00"
+  "last_updated": "2026-11-10T05:10:13.898751+00:00"
 }
