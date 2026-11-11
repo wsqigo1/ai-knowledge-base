@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-11-003",
+  "title": "Synaptics patent claims stop work on DisplayLink drivers",
+  "source": "hackernews-top",
+  "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+  "summary": "Synaptics 公司针对 DisplayLink 驱动技术发起专利主张，导致开源 DisplayLink 驱动开发工作被迫停止。DisplayLink 是一种通过 USB 连接外接显示器的技术，其开源驱动（如 DisplayLink 的 Linux 驱动）依赖社区维护。此次专利主张直接影响依赖该驱动的多显示器扩展坞、USB 图形适配器等场景，可能迫使开发者移除相关代码或寻求法律规避方案。核心技术点在于专利覆盖了 DisplayLink 的压缩传输与帧缓冲管理机制，开源实现面临侵权风险。适用场景包括 Linux 桌面多屏办公、嵌入式显示扩展及开源硬件兼容性项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:42:53.128444+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

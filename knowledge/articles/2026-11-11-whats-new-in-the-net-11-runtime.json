@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-11-011",
+  "title": "What's new in the .NET 11 runtime",
+  "source": "hackernews-top",
+  "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+  "summary": ".NET 11 运行时更新发布，聚焦性能优化与运行时能力增强。该版本解决高吞吐场景下的执行效率与内存管理问题，核心技术亮点包括 JIT 编译优化、GC 低延迟改进、AOT 编译支持扩展及运行时诊断能力提升。适用于构建高性能后端服务、云原生应用及对启动速度和资源占用敏感的微服务场景，对 AI 工程中模型服务部署与推理管线的底层运行时选型有参考价值。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:43:19.715828+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

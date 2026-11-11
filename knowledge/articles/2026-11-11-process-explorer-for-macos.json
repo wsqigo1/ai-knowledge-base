@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-11-009",
+  "title": "Process Explorer for macOS",
+  "source": "hackernews-top",
+  "url": "https://github.com/microsoft/Procexp-Mac",
+  "summary": "Process Explorer for macOS 是一款面向 macOS 系统的进程监控与资源分析工具，填补了 macOS 原生活动监视器在进程树展示、句柄与文件描述符追踪等方面的能力空白。其核心亮点在于提供类似 Windows Sysinternals Process Explorer 的深度进程洞察，包括父子进程关系可视化、实时资源占用曲线、进程签名与权限信息展示，并针对 Apple Silicon 架构做了适配优化。该工具适用于开发者排查进程泄漏、性能瓶颈与异常后台任务，也适合安全研究人员进行本地进程行为审计。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:43:10.758993+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

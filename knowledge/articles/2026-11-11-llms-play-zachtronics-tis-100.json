@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-11-007",
+  "title": "LLMs Play Zachtronics' TIS-100",
+  "source": "hackernews-top",
+  "url": "https://tis-100.wincon.dev/",
+  "summary": "该条目探讨大型语言模型（LLMs）在 Zachtronics 出品的编程解谜游戏 TIS-100 中的表现。TIS-100 要求玩家用类似汇编的指令集编写程序，解决数据流与并行计算问题，是检验模型代码生成与逻辑推理能力的独特基准。研究通过让 LLM 理解游戏规则、生成可运行代码并迭代调试，评估其在受限指令集和严格时序约束下的程序合成能力。核心技术亮点在于将游戏作为封闭沙盒，考察模型的指令遵循、状态跟踪与错误修正，而非依赖自然语言描述。适用场景包括 LLM 代码生成基准设计、程序合成研究及 AI 智能体在结构化任务中的能力评估。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "benchmark",
+    "reasoning"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:43:01.555563+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

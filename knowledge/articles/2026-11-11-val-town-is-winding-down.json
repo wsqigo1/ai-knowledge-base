@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-11-004",
+  "title": "Val Town is winding down",
+  "source": "hackernews-top",
+  "url": "https://blog.val.town/winding-down",
+  "summary": "Val Town 是一个面向开发者的云端脚本托管与自动化平台，支持用 JavaScript/TypeScript 编写小型函数并通过 HTTP 触发、定时任务或事件驱动方式运行，目标是降低个人与团队搭建轻量自动化工作流的门槛。其核心亮点在于将代码片段、API 调用与定时调度整合为可分享的在线 val，并内置数据库与密钥管理，减少基础设施运维负担。该平台常被用于构建 webhook 处理、AI 工具链胶水代码、通知机器人与数据同步等场景。此次宣布关停意味着依赖其托管能力的自动化脚本与 AI 工作流需迁移至自建服务或替代平台，对使用其作为 agent 工具调用后端的开发者影响较大。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:42:55.164241+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

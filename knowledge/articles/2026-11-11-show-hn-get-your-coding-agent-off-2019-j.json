@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-11-006",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "source": "hackernews-top",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "summary": "该项目是一个面向 AI 编码代理（coding agent）的提示/规则集或工具，旨在引导 LLM 代理在生成前端代码时摆脱约 2019 年的 JavaScript 写法（如大量 jQuery、旧式 DOM 操作、过时打包配置），转而使用现代 Web 原语（如原生 ES modules、fetch、CSS 自定义属性、Web Components、现代框架约定等）。它解决的是编码代理训练数据滞后导致的代码风格陈旧、依赖过时库、生成冗余 polyfill 的问题。核心亮点在于以轻量规则注入方式约束代理输出，提升生成代码的现代性与可维护性，无需微调模型。适用于使用 Claude Code、Cursor、Copilot 等代理进行前端开发的工程师，以及需要统一团队代码风格的场景。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "agent",
+    "open-source",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:42:59.083988+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

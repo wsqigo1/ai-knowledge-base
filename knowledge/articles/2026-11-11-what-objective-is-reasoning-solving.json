@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-11-008",
+  "title": "What objective is reasoning solving?",
+  "source": "hackernews-top",
+  "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+  "summary": "该讨论围绕推理（reasoning）模型究竟在优化什么目标展开，质疑当前以 benchmark 分数为导向的评估是否真正反映推理能力。核心争议在于：链式思维、强化学习训练出的推理行为可能只是在拟合特定任务分布，而非获得可泛化的推理机制。讨论涉及 benchmark 设计缺陷、reward hacking、过程监督与结果监督的取舍，以及对 reasoning 能力本质的界定。适用于关注 LLM 推理评估方法论、训练目标设计的研究者与工程师，帮助反思现有推理模型评测体系的局限性。",
+  "tags": [
+    "reasoning",
+    "benchmark",
+    "large-language-model",
+    "fine-tuning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:43:05.498299+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-11-010",
+  "title": "AI usage generates a fragile codebase",
+  "source": "hackernews-top",
+  "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "summary": "该 HN 热帖讨论 AI 辅助编程（如 Copilot、LLM 代码生成）导致代码库脆弱化的现象：AI 生成的代码看似能跑，但缺乏对边界条件、错误处理和架构一致性的把握，长期积累后维护成本上升、缺陷隐蔽。文章剖析了 AI 代码生成在真实工程中的局限，指出需要更严格的 review、测试与架构约束来对冲风险。核心亮点在于从工程实践角度反思 code-generation 工具的隐性代价，而非单纯性能评测。适用于使用 AI 编程助手的开发团队、代码质量负责人及研究 AI 辅助软件工程的研究者参考。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "large-language-model",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:43:17.632745+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}

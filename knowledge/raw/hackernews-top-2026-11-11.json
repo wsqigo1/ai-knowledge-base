@@ -1,0 +1,398 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-11T03:42:03.208458+00:00",
+  "date": "2026-11-11",
+  "count": 20,
+  "items": [
+    {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "source": "hackernews-top",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "hn_url": "https://news.ycombinator.com/item?id=50447074",
+      "description": "",
+      "hn_score": 315,
+      "comments": 142,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Glasswing 是一个针对 LLM 智能体（agent）的开源评估/测试框架，旨在为 agent 工作流提供可复现的基准测试与质量度量。项目历经 7 个月开发后，维护者公布的测试结果被社区认为价值有限，暴露出评估维度设计、场景覆盖与真实工程需求脱节等问题。核心技术点在于对 agent 工具调用（tool-use）链路进行自动化评测，但缺乏对多步推理、长上下文与失败恢复等关键能力的有效刻画。该事件适用于关注 agent 评估方法论、benchmark 可信度以及开源项目治理的 AI 工程师参考。",
+      "tags": [
+        "agent",
+        "benchmark",
+        "open-source",
+        "tool-use",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-11T03:42:41.502643+00:00"
+    },
+    {
+      "title": ".name Grandfathered",
+      "source": "hackernews-top",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "hn_url": "https://news.ycombinator.com/item?id=50442736",
+      "description": "",
+      "hn_score": 718,
+      "comments": 168,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该条目标题为“.name Grandfathered”，来自 Hacker News 热门榜，但未提供具体描述内容，仅知社区热度较高（HN Score: 718）。从标题推测，可能涉及域名注册中“.name”顶级域的祖父条款（grandfathering）机制，即允许既有注册者在新规下保留原有权益。该话题属于互联网基础设施与域名政策领域，与 AI/LLM 技术无直接关联。核心技术亮点无法从现有信息中确认，适用场景可能为域名管理、政策合规或互联网治理讨论。由于缺乏实质技术细节，对 AI 工程师的参考价值有限，主要价值在于了解社区关注热点。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.0,
+      "analyzed_at": "2026-11-11T03:42:43.691756+00:00"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "source": "hackernews-top",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "hn_url": "https://news.ycombinator.com/item?id=50441707",
+      "description": "",
+      "hn_score": 761,
+      "comments": 278,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该 HN 热帖讨论智能家居设备应具备离线可用能力，反对强制依赖云端。核心问题是厂商将设备功能绑定互联网，导致断网时设备失效、隐私泄露和长期可用性风险。技术亮点在于倡导本地控制协议（如 Matter、Thread、Zigbee）与边缘计算架构，让设备在局域网内完成自动化与联动。适用场景包括家庭自动化、IoT 设备设计与隐私敏感部署，对 AI 工程师理解边缘推理与本地 agent 有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-11T03:42:45.516423+00:00"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "source": "hackernews-top",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "hn_url": "https://news.ycombinator.com/item?id=50445401",
+      "description": "",
+      "hn_score": 363,
+      "comments": 267,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该条目报道 Scion 品牌回归并计划在美国销售 kei truck（日本轻型卡车），属于汽车行业新闻而非 AI/LLM 技术内容。核心信息为品牌复活与车型引入，涉及美国市场对小型商用车的需求与法规适配问题，但缺乏技术细节与工程深度。对 AI 工程师而言，该条目与领域匹配度极低，仅可作为社区热点观察，不具备直接技术参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-11T03:42:47.250001+00:00"
+    },
+    {
+      "title": "Six Math Essentials by Terence Tao",
+      "source": "hackernews-top",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50446246",
+      "description": "",
+      "hn_score": 157,
+      "comments": 28,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Terence Tao 提出的六项数学基本功，面向数学学习与研究者，旨在弥补从计算到证明的思维断层。核心亮点在于将数学实践拆解为可训练的基础能力，强调直觉、严谨与问题求解的平衡。适用于数学教育、AI 推理能力研究及需要形式化思维的工程场景，对 LLM 数学推理评测亦有参考价值。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-11T03:42:49.155147+00:00"
+    },
+    {
+      "title": "Starlink Mini 2",
+      "source": "hackernews-top",
+      "url": "https://starlink.com/mini-2",
+      "hn_url": "https://news.ycombinator.com/item?id=50444129",
+      "description": "",
+      "hn_score": 297,
+      "comments": 305,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Starlink Mini 2 是 SpaceX 推出的便携式卫星互联网终端第二代产品，在 Hacker News 上获得 297 分关注。该设备解决偏远地区、移动场景下缺乏稳定宽带接入的问题，通过相控阵天线与低轨卫星星座实现低延迟、较高带宽的卫星通信。核心技术亮点包括更小的天线阵列、更低的功耗、内置 Wi-Fi 路由以及便携式设计，支持即插即用和户外供电。适用场景涵盖野外作业、房车旅行、应急通信和偏远地区临时组网。该条目属于消费级硬件与卫星通信领域，与 AI/LLM 工程技术栈关联度较低，但对需要在无网络覆盖环境下部署边缘 AI 或远程开发环境的工程师具有间接参考价值。",
+      "tags": [
+        "satellite-communication",
+        "edge-computing",
+        "hardware",
+        "remote-connectivity"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-11T03:42:51.317413+00:00"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "source": "hackernews-top",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "hn_url": "https://news.ycombinator.com/item?id=50443824",
+      "description": "",
+      "hn_score": 323,
+      "comments": 183,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Synaptics 公司针对 DisplayLink 驱动技术发起专利主张，导致开源 DisplayLink 驱动开发工作被迫停止。DisplayLink 是一种通过 USB 连接外接显示器的技术，其开源驱动（如 DisplayLink 的 Linux 驱动）依赖社区维护。此次专利主张直接影响依赖该驱动的多显示器扩展坞、USB 图形适配器等场景，可能迫使开发者移除相关代码或寻求法律规避方案。核心技术点在于专利覆盖了 DisplayLink 的压缩传输与帧缓冲管理机制，开源实现面临侵权风险。适用场景包括 Linux 桌面多屏办公、嵌入式显示扩展及开源硬件兼容性项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-11T03:42:53.128444+00:00"
+    },
+    {
+      "title": "Val Town is winding down",
+      "source": "hackernews-top",
+      "url": "https://blog.val.town/winding-down",
+      "hn_url": "https://news.ycombinator.com/item?id=50443427",
+      "description": "",
+      "hn_score": 324,
+      "comments": 85,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Val Town 是一个面向开发者的云端脚本托管与自动化平台，支持用 JavaScript/TypeScript 编写小型函数并通过 HTTP 触发、定时任务或事件驱动方式运行，目标是降低个人与团队搭建轻量自动化工作流的门槛。其核心亮点在于将代码片段、API 调用与定时调度整合为可分享的在线 val，并内置数据库与密钥管理，减少基础设施运维负担。该平台常被用于构建 webhook 处理、AI 工具链胶水代码、通知机器人与数据同步等场景。此次宣布关停意味着依赖其托管能力的自动化脚本与 AI 工作流需迁移至自建服务或替代平台，对使用其作为 agent 工具调用后端的开发者影响较大。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-11T03:42:55.164241+00:00"
+    },
+    {
+      "title": "AlphaProof Code",
+      "source": "hackernews-top",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "hn_url": "https://news.ycombinator.com/item?id=50439193",
+      "description": "",
+      "hn_score": 587,
+      "comments": 178,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "AlphaProof Code 是 DeepMind 将 AlphaProof 形式化数学证明能力向代码生成领域延伸的探索项目，旨在解决 LLM 在需要严格逻辑正确性的代码合成任务中可靠性不足的问题。其核心技术亮点在于将 Lean 形式化验证与强化学习搜索结合，通过证明搜索生成可机器校验的代码，而非依赖概率采样。适用场景包括竞赛级编程、形式化验证代码生成及高可靠性软件合成。",
+      "tags": [
+        "code-generation",
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 7.8,
+      "analyzed_at": "2026-11-11T03:42:57.005534+00:00"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "source": "hackernews-top",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "description": "",
+      "hn_score": 288,
+      "comments": 87,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该项目是一个面向 AI 编码代理（coding agent）的提示/规则集或工具，旨在引导 LLM 代理在生成前端代码时摆脱约 2019 年的 JavaScript 写法（如大量 jQuery、旧式 DOM 操作、过时打包配置），转而使用现代 Web 原语（如原生 ES modules、fetch、CSS 自定义属性、Web Components、现代框架约定等）。它解决的是编码代理训练数据滞后导致的代码风格陈旧、依赖过时库、生成冗余 polyfill 的问题。核心亮点在于以轻量规则注入方式约束代理输出，提升生成代码的现代性与可维护性，无需微调模型。适用于使用 Claude Code、Cursor、Copilot 等代理进行前端开发的工程师，以及需要统一团队代码风格的场景。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "agent",
+        "open-source",
+        "prompt-engineering"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-11T03:42:59.083988+00:00"
+    },
+    {
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "source": "hackernews-top",
+      "url": "https://tis-100.wincon.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50448340",
+      "description": "",
+      "hn_score": 17,
+      "comments": 2,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该条目探讨大型语言模型（LLMs）在 Zachtronics 出品的编程解谜游戏 TIS-100 中的表现。TIS-100 要求玩家用类似汇编的指令集编写程序，解决数据流与并行计算问题，是检验模型代码生成与逻辑推理能力的独特基准。研究通过让 LLM 理解游戏规则、生成可运行代码并迭代调试，评估其在受限指令集和严格时序约束下的程序合成能力。核心技术亮点在于将游戏作为封闭沙盒，考察模型的指令遵循、状态跟踪与错误修正，而非依赖自然语言描述。适用场景包括 LLM 代码生成基准设计、程序合成研究及 AI 智能体在结构化任务中的能力评估。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-11T03:43:01.555563+00:00"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "source": "hackernews-top",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "hn_url": "https://news.ycombinator.com/item?id=50443090",
+      "description": "",
+      "hn_score": 194,
+      "comments": 75,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "AMD Zen 6 架构家族的技术分析文章，探讨其如何为高性能计算提供更强算力支撑。文章聚焦 Zen 6 在核心数量、缓存层级、内存带宽与能效比上的设计演进，分析其面向数据中心、AI 推理与高性能计算负载的架构取舍。核心技术亮点包括更大容量缓存、改进的 chiplet 互连与更高内存带宽，以缓解数据供给瓶颈。对 AI 工程师而言，该内容有助于理解未来 CPU 侧算力与内存子系统演进对模型推理部署、数据预处理流水线及异构计算编排的潜在影响，适合关注硬件基础设施与系统性能优化的读者。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-11T03:43:03.735124+00:00"
+    },
+    {
+      "title": "What objective is reasoning solving?",
+      "source": "hackernews-top",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "hn_url": "https://news.ycombinator.com/item?id=50445013",
+      "description": "",
+      "hn_score": 117,
+      "comments": 53,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该讨论围绕推理（reasoning）模型究竟在优化什么目标展开，质疑当前以 benchmark 分数为导向的评估是否真正反映推理能力。核心争议在于：链式思维、强化学习训练出的推理行为可能只是在拟合特定任务分布，而非获得可泛化的推理机制。讨论涉及 benchmark 设计缺陷、reward hacking、过程监督与结果监督的取舍，以及对 reasoning 能力本质的界定。适用于关注 LLM 推理评估方法论、训练目标设计的研究者与工程师，帮助反思现有推理模型评测体系的局限性。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model",
+        "fine-tuning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-11T03:43:05.498299+00:00"
+    },
+    {
+      "title": "$30M Raised to Redo the CPU",
+      "source": "hackernews-top",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "hn_url": "https://news.ycombinator.com/item?id=50447036",
+      "description": "",
+      "hn_score": 40,
+      "comments": 32,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该条目报道一家初创公司获得3000万美元融资，旨在重新设计CPU架构。核心问题在于传统CPU在AI推理、数据处理等现代负载下能效与并行度不足，新架构可能针对向量计算、内存带宽或专用指令集优化。技术亮点或涉及RISC-V扩展、近内存计算或可重构数据通路，但具体细节未在标题中披露。适用场景包括边缘AI推理、数据中心加速及高吞吐低延迟计算任务。对AI工程师而言，若其架构能降低推理成本或提升吞吐，值得关注后续技术白皮书与基准测试。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-11T03:43:07.212834+00:00"
+    },
+    {
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "source": "hackernews-top",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "hn_url": "https://news.ycombinator.com/item?id=50448174",
+      "description": "",
+      "hn_score": 17,
+      "comments": 9,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该条目讨论 AI 作为信息入口（information gateway）的角色与受众接受度之间的矛盾：用户习惯用 AI 获取和筛选新闻信息，却不愿 AI 直接生成或改写新闻内容。核心问题在于 AI 在新闻分发中的信任与编辑权边界，涉及用户对 AI 生成内容的可信度、来源透明度和编辑责任的担忧。技术层面未涉及具体模型或架构，更多是产品与用户行为层面的观察。适用场景包括新闻聚合产品、AI 助手信息检索功能设计，以及媒体机构评估 AI 生成内容的用户接受度。",
+      "tags": [
+        "ai-assistant",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-11T03:43:09.045680+00:00"
+    },
+    {
+      "title": "Process Explorer for macOS",
+      "source": "hackernews-top",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "hn_url": "https://news.ycombinator.com/item?id=50433216",
+      "description": "",
+      "hn_score": 148,
+      "comments": 54,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Process Explorer for macOS 是一款面向 macOS 系统的进程监控与资源分析工具，填补了 macOS 原生活动监视器在进程树展示、句柄与文件描述符追踪等方面的能力空白。其核心亮点在于提供类似 Windows Sysinternals Process Explorer 的深度进程洞察，包括父子进程关系可视化、实时资源占用曲线、进程签名与权限信息展示，并针对 Apple Silicon 架构做了适配优化。该工具适用于开发者排查进程泄漏、性能瓶颈与异常后台任务，也适合安全研究人员进行本地进程行为审计。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-11T03:43:10.758993+00:00"
+    },
+    {
+      "title": "Ableton Live 13",
+      "source": "hackernews-top",
+      "url": "https://www.ableton.com/en/live/",
+      "hn_url": "https://news.ycombinator.com/item?id=50439695",
+      "description": "",
+      "hn_score": 289,
+      "comments": 304,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "Ableton Live 13 是 Ableton 公司发布的专业数字音频工作站（DAW）重大版本更新，面向音乐制作人、现场演出者和声音设计师。该版本主要解决现代音乐制作流程中对更高效编曲、更灵活现场表演控制和更深度声音设计工具的需求。核心技术亮点包括增强的 Session View 工作流、改进的 MIDI 编辑与自动化功能、新增的合成器与效果器设备，以及可能引入的 AI 辅助创作或音频处理能力（具体需参考官方发布说明）。适用场景涵盖电子音乐制作、现场演出、影视配乐及实验性声音艺术创作。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-11T03:43:12.993431+00:00"
+    },
+    {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "source": "hackernews-top",
+      "url": "https://tinyvalencia.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50441518",
+      "description": "",
+      "hn_score": 208,
+      "comments": 52,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该项目将西班牙瓦伦西亚的城市地图以 Sim City 风格的等距视角（isometric view）进行可视化呈现，属于地理数据可视化与创意编程的交叉作品。它解决的问题是如何以游戏化、低门槛的方式展示真实城市空间数据，降低公众理解城市结构的认知负担。核心技术亮点在于等距投影渲染与城市建筑数据的程序化生成，可能涉及 WebGL 或 Canvas 渲染管线。适用场景包括城市数据可视化演示、地图类交互应用原型、以及游戏化地理信息展示。该项目与 AI/LLM 工程无直接关联，对 AI 工程师的实用价值有限，但可作为多模态数据可视化的参考案例。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-11T03:43:15.216671+00:00"
+    },
+    {
+      "title": "AI usage generates a fragile codebase",
+      "source": "hackernews-top",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "description": "",
+      "hn_score": 409,
+      "comments": 425,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": "该 HN 热帖讨论 AI 辅助编程（如 Copilot、LLM 代码生成）导致代码库脆弱化的现象：AI 生成的代码看似能跑，但缺乏对边界条件、错误处理和架构一致性的把握，长期积累后维护成本上升、缺陷隐蔽。文章剖析了 AI 代码生成在真实工程中的局限，指出需要更严格的 review、测试与架构约束来对冲风险。核心亮点在于从工程实践角度反思 code-generation 工具的隐性代价，而非单纯性能评测。适用于使用 AI 编程助手的开发团队、代码质量负责人及研究 AI 辅助软件工程的研究者参考。",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "large-language-model",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-11T03:43:17.632745+00:00"
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "source": "hackernews-top",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "hn_url": "https://news.ycombinator.com/item?id=50439284",
+      "description": "",
+      "hn_score": 248,
+      "comments": 178,
+      "collected_at": "2026-11-11T03:42:02.256728+00:00",
+      "published_at": "2026-11-11T03:42:02.256728+00:00",
+      "summary": ".NET 11 运行时更新发布，聚焦性能优化与运行时能力增强。该版本解决高吞吐场景下的执行效率与内存管理问题，核心技术亮点包括 JIT 编译优化、GC 低延迟改进、AOT 编译支持扩展及运行时诊断能力提升。适用于构建高性能后端服务、云原生应用及对启动速度和资源占用敏感的微服务场景，对 AI 工程中模型服务部署与推理管线的底层运行时选型有参考价值。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-11T03:43:19.715828+00:00"
+    }
+  ]
+}

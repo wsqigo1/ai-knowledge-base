@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-11-005",
+  "title": "AlphaProof Code",
+  "source": "hackernews-top",
+  "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "summary": "AlphaProof Code 是 DeepMind 将 AlphaProof 形式化数学证明能力向代码生成领域延伸的探索项目，旨在解决 LLM 在需要严格逻辑正确性的代码合成任务中可靠性不足的问题。其核心技术亮点在于将 Lean 形式化验证与强化学习搜索结合，通过证明搜索生成可机器校验的代码，而非依赖概率采样。适用场景包括竞赛级编程、形式化验证代码生成及高可靠性软件合成。",
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-11-11T03:42:02.256728+00:00",
+  "analyzed_at": "2026-11-11T03:42:57.005534+00:00",
+  "organized_at": "2026-11-11T03:43:19.822759+00:00",
+  "status": "published"
+}
