@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-013",
+  "title": "My AI agents found an unmapped Maya site?",
+  "source": "hackernews-top",
+  "url": "https://pietromiotti.com/latest/maya-site",
+  "summary": "该项目展示了一个利用 AI agents 在卫星影像与地理空间数据中自动搜索、识别疑似未测绘的玛雅遗址的探索性实验。它针对传统考古调查成本高、覆盖有限的问题，尝试用 LLM 驱动的 agent 编排影像分析、特征检测与假设验证流程，核心技术亮点在于将多模态感知、工具调用与自主推理结合，形成可复用的遥感异常发现工作流。适用场景包括考古勘探、遥感变化检测、地理空间情报分析及 AI agent 在科学发现中的落地验证。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "tool-use",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:23.518365+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

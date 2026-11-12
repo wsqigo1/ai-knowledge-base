@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-12-008",
+  "title": "Lock Your GitHub Actions",
+  "source": "hackernews-top",
+  "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+  "summary": "该条目讨论 GitHub Actions 的安全加固实践，核心是锁定第三方 Action 的版本（如固定 commit SHA 而非浮动 tag），防止供应链攻击与恶意更新。技术亮点在于将依赖锁定思路引入 CI/CD 流水线，结合权限最小化、OIDC 短期凭证等机制降低凭据泄露风险。适用于所有使用 GitHub Actions 的工程团队，尤其对开源项目与涉及敏感部署凭据的仓库价值更高。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:10.957300+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

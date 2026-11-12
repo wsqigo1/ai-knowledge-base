@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-005",
+  "title": "vzroslieigry/maxagent",
+  "source": "github-trending",
+  "url": "https://github.com/vzroslieigry/maxagent",
+  "summary": "maxagent 是一个面向 AI agent 的记忆与经验层，通过 hooks 让 Claude Code、Codex、Antigravity 和 OpenClaw 等编码 agent 自动回忆并记录哪些操作有效，同时提供 maxagent-bridge 将用户自己的 Chrome 浏览器接入 agent 工作流。它解决的是编码 agent 跨会话缺乏持久经验、重复试错的问题，核心亮点在于以轻量 hook 机制实现经验沉淀与浏览器桥接，无需改造 agent 本体。适用于使用多款编码 agent 的开发者，希望 agent 记住历史成功模式并直接操作真实浏览器完成调试、抓取或端到端任务。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-12T04:50:20.657953+00:00",
+  "analyzed_at": "2026-11-12T04:50:59.515400+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

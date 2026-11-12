@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-011",
+  "title": "Emacs in the Age of Magic",
+  "source": "hackernews-top",
+  "url": "https://commandlinesystems.com/magic.txt",
+  "summary": "该文探讨在 AI 辅助编程（LLM、agent 等）普及的背景下，Emacs 编辑器如何保持其作为可编程编辑环境的竞争力。核心问题在于现代 AI 工具多围绕 VS Code 等 GUI 编辑器构建，Emacs 用户面临集成门槛。文章可能涉及通过 LSP、MCP 或自定义 Elisp 脚本将 LLM 能力嵌入 Emacs 工作流，强调其高度可定制性和文本处理优势。适用场景为长期使用 Emacs 的开发者希望在保留原有编辑习惯的同时接入 AI 代码生成与辅助功能。",
+  "tags": [
+    "developer-tools",
+    "ai-assistant",
+    "code-generation",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:17.311035+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

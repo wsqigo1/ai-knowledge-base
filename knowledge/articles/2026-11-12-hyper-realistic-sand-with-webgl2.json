@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-12-014",
+  "title": "Hyper-Realistic Sand with WebGL2",
+  "source": "hackernews-top",
+  "url": "https://av.github.io/safe-sand/",
+  "summary": "该项目用 WebGL2 实现超写实沙粒渲染，通过 GPU 粒子系统与物理模拟解决传统沙地效果真实感不足的问题。核心技术亮点包括基于 compute shader 的粒子动力学、屏幕空间环境光遮蔽与次表面散射近似，以及自适应 LOD 优化性能。适用于游戏、虚拟仿真、数字孪生等需要高保真自然场景的实时渲染场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "multimodal"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:24.975485+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

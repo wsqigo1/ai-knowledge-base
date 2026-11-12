@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-12-016",
+  "title": "Can a Linear Program Do Weight-Space Programming?",
+  "source": "hackernews-top",
+  "url": "https://nathan.rs/posts/weight-space-lp/",
+  "summary": "该研究探讨线性规划（Linear Program）能否实现权重空间编程（Weight-Space Programming），即直接操作神经网络权重而非通过梯度下降微调。核心问题在于：传统权重空间编辑依赖非线性优化，计算昂贵且难以保证约束；作者尝试用线性规划建模权重更新，在保持模型行为约束下求解可行权重方向。技术亮点包括将权重编辑转化为线性约束优化问题，可能降低计算成本并提升可解释性。适用场景为模型行为定向修正、安全对齐中的权重干预，以及资源受限下的轻量级模型编辑。",
+  "tags": [
+    "fine-tuning",
+    "reasoning",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:32.931304+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

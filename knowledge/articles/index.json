@@ -1,7 +1,297 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 2963,
+  "total_count": 2982,
   "entries": [
+    {
+      "id": "kb-2026-11-12-001",
+      "title": "FrigadeHQ/yogurt",
+      "source": "github-trending",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "file": "2026-11-12-frigadehqyogurt.json",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "local-ai",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-002",
+      "title": "agentes-chat/agentes-chat",
+      "source": "github-trending",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "file": "2026-11-12-agentes-chatagentes-chat.json",
+      "tags": [
+        "agent",
+        "mcp",
+        "multi-agent",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-003",
+      "title": "gogoymh/auto-ontology-mcp",
+      "source": "github-trending",
+      "url": "https://github.com/gogoymh/auto-ontology-mcp",
+      "file": "2026-11-12-gogoymhauto-ontology-mcp.json",
+      "tags": [
+        "mcp",
+        "rag",
+        "ai-assistant",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-004",
+      "title": "drost-ai/tinker-ai-skill",
+      "source": "github-trending",
+      "url": "https://github.com/drost-ai/tinker-ai-skill",
+      "file": "2026-11-12-drost-aitinker-ai-skill.json",
+      "tags": [
+        "fine-tuning",
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-005",
+      "title": "vzroslieigry/maxagent",
+      "source": "github-trending",
+      "url": "https://github.com/vzroslieigry/maxagent",
+      "file": "2026-11-12-vzroslieigrymaxagent.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-006",
+      "title": "AWS emulator",
+      "source": "hackernews-top",
+      "url": "https://github.com/aws/aws-emulator",
+      "file": "2026-11-12-aws-emulator.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-007",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "source": "hackernews-top",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "file": "2026-11-12-united-airlines-bans-ai-agents-from-book.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-008",
+      "title": "Lock Your GitHub Actions",
+      "source": "hackernews-top",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "file": "2026-11-12-lock-your-github-actions.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-009",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "source": "hackernews-top",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "file": "2026-11-12-a-false-smoke-alarm-almost-drowned-jane-.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-010",
+      "title": "Gemini Decisions API",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "file": "2026-11-12-gemini-decisions-api.json",
+      "tags": [
+        "large-language-model",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-011",
+      "title": "Emacs in the Age of Magic",
+      "source": "hackernews-top",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "file": "2026-11-12-emacs-in-the-age-of-magic.json",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-012",
+      "title": "The Utah Teapot",
+      "source": "hackernews-top",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "file": "2026-11-12-the-utah-teapot.json",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-013",
+      "title": "My AI agents found an unmapped Maya site?",
+      "source": "hackernews-top",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "file": "2026-11-12-my-ai-agents-found-an-unmapped-maya-site.json",
+      "tags": [
+        "agent",
+        "multimodal",
+        "tool-use",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-014",
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "source": "hackernews-top",
+      "url": "https://av.github.io/safe-sand/",
+      "file": "2026-11-12-hyper-realistic-sand-with-webgl2.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-015",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "source": "hackernews-top",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "file": "2026-11-12-faster-retrieval-for-better-more-efficie.json",
+      "tags": [
+        "rag",
+        "vector-database",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-016",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "source": "hackernews-top",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "file": "2026-11-12-can-a-linear-program-do-weight-space-pro.json",
+      "tags": [
+        "fine-tuning",
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-017",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "source": "hackernews-top",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "file": "2026-11-12-atuin-threads-all-your-agent-sessions-on.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-018",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "source": "hackernews-top",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "file": "2026-11-12-using-voltage-glitching-to-unleash-the-a.json",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
+    {
+      "id": "kb-2026-11-12-019",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "file": "2026-11-12-launch-hn-pomerado-yc-f26-turn-any-websi.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-12T04:51:38.624504+00:00"
+    },
     {
       "id": "kb-2026-11-11-001",
       "title": "Smart home devices should work without the internet",
@@ -44578,5 +44868,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-11T03:43:20.019458+00:00"
+  "last_updated": "2026-11-12T04:51:38.824036+00:00"
 }

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-003",
+  "title": "gogoymh/auto-ontology-mcp",
+  "source": "github-trending",
+  "url": "https://github.com/gogoymh/auto-ontology-mcp",
+  "summary": "该项目将 NVIDIA Auto Ontology 的语义层与个人知识库封装为 MCP server，为 Claude、ChatGPT 等 MCP 客户端提供结构化知识检索能力。它解决的是 LLM 客户端缺乏可复用、可查询个人知识库的问题，通过 Model Context Protocol 标准化接口暴露本体语义层，且无需 LLM API key 即可运行。核心技术亮点在于本体驱动的语义建模与 MCP 协议集成，降低知识库接入门槛。适用场景包括个人知识管理、AI 助手增强检索、以及基于本体的语义查询工作流。",
+  "tags": [
+    "mcp",
+    "rag",
+    "ai-assistant",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-12T04:50:20.657953+00:00",
+  "analyzed_at": "2026-11-12T04:50:53.063498+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

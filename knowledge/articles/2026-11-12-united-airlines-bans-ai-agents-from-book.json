@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-12-007",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "source": "hackernews-top",
+  "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "summary": "美联航（United Airlines）明确禁止 AI agent 代替旅客预订航班，这是航空业对自主 AI 代理进入交易环节的首个公开限制案例。事件源于有开发者尝试用浏览器自动化与 LLM agent 完成订票流程，触及航司的渠道控制、反欺诈与责任归属问题。核心技术看点在于 agent 在真实业务系统中的 tool-use 边界：身份验证、支付授权与条款合规难以由自动化代理独立承担。该事件对构建面向企业系统的 autonomous agent 具有警示意义，适用于 travel、电商与金融等强合规场景的 agent 设计评估。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:09.072313+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-12-006",
+  "title": "AWS emulator",
+  "source": "hackernews-top",
+  "url": "https://github.com/aws/aws-emulator",
+  "summary": "AWS emulator 是一个在本地模拟 AWS 云服务的开源工具，旨在解决开发者在没有真实 AWS 账户或希望离线测试时难以验证云基础设施代码的问题。其核心技术亮点在于通过轻量级实现复刻 S3、Lambda、DynamoDB 等常用服务的 API 行为，支持本地集成测试与 CI 流水线。适用场景包括云原生应用开发、基础设施即代码（IaC）的本地验证、以及教学演示。该项目在 HN 获得 752 分，社区关注度较高，但对 AI 工程师的直接价值有限，更多服务于 DevOps 与后端开发流程。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:05.483424+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

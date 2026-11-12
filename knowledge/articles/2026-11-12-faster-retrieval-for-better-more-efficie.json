@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-12-015",
+  "title": "Faster Retrieval for Better, More Efficient RAG",
+  "source": "hackernews-top",
+  "url": "https://machinelearning.apple.com/research/faster-retrieval",
+  "summary": "该条目讨论如何通过加速检索环节来提升 RAG（Retrieval-Augmented Generation）系统的整体效率与效果。核心问题在于传统 RAG 中检索阶段常成为性能瓶颈，影响生成质量与响应速度。技术亮点可能涉及优化向量检索、索引结构或检索策略，以减少延迟并提高召回相关性。适用场景包括需要实时或高吞吐 RAG 服务的问答系统、知识库助手及企业搜索应用。",
+  "tags": [
+    "rag",
+    "vector-database",
+    "large-language-model",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:26.737662+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

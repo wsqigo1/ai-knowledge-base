@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-019",
+  "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+  "source": "hackernews-top",
+  "url": "https://news.ycombinator.com/item?id=50455811",
+  "summary": "Pomerado（YC F26）是一个将任意网站自动转换为 MCP（Model Context Protocol）服务的工具，使 AI agent 能够直接调用网站功能与数据。它解决的是 agent 与外部 Web 服务集成成本高、需逐个手写 MCP server 的痛点，通过自动解析网站结构生成标准化 MCP 接口。核心技术亮点在于网站到 MCP 的自动化转换与协议适配，降低 tool-use 集成门槛。适用场景包括 agent 工具链快速扩展、Web 服务 agent 化封装及开发者构建 AI assistant 的外部能力接入。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:38.574329+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

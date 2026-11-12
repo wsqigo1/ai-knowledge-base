@@ -1,0 +1,402 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-12T04:50:22.165304+00:00",
+  "date": "2026-11-12",
+  "count": 20,
+  "items": [
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "source": "hackernews-top",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "hn_url": "https://news.ycombinator.com/item?id=50459745",
+      "description": "",
+      "hn_score": 260,
+      "comments": 37,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该条目探讨 Perl 语言的一个奇特现象：约 93% 的随机颜料泼溅图案可被解析为合法的 Perl 程序，源于 Perl 语法的高度灵活性与容错性。它并非解决实际工程问题，而是以幽默方式揭示编程语言语法设计的边界与解析器行为，核心技术点在于 Perl 解析器对任意字符序列的宽松接受度及语法歧义处理。适用场景为编程语言理论教学、解析器设计讨论及技术社区趣味分享，对 AI 工程师的直接实用价值有限，但可作为理解语言语法与解析器鲁棒性的案例。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-12T04:51:01.467114+00:00"
+    },
+    {
+      "title": "Tim Peters has died",
+      "source": "hackernews-top",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "hn_url": "https://news.ycombinator.com/item?id=50450488",
+      "description": "",
+      "hn_score": 992,
+      "comments": 107,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "Tim Peters 是 Python 社区的核心人物，以编写 Zen of Python（PEP 20）、TimSort 算法以及 CPython 中大量关键实现而闻名。该条目报道其逝世消息，本身并非技术文章或开源项目，而是对一位对 AI 工程基础设施有深远影响的工程师的纪念。其技术亮点在于 TimSort 作为 Python 内置排序算法被广泛用于数据处理与模型训练前的数据预处理，Zen of Python 则影响了整个 Python 生态的设计哲学。适用场景为 Python 开发者、AI 工程师了解语言底层与社区历史，但直接工程实用价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-12T04:51:03.451496+00:00"
+    },
+    {
+      "title": "AWS emulator",
+      "source": "hackernews-top",
+      "url": "https://github.com/aws/aws-emulator",
+      "hn_url": "https://news.ycombinator.com/item?id=50456631",
+      "description": "",
+      "hn_score": 752,
+      "comments": 228,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "AWS emulator 是一个在本地模拟 AWS 云服务的开源工具，旨在解决开发者在没有真实 AWS 账户或希望离线测试时难以验证云基础设施代码的问题。其核心技术亮点在于通过轻量级实现复刻 S3、Lambda、DynamoDB 等常用服务的 API 行为，支持本地集成测试与 CI 流水线。适用场景包括云原生应用开发、基础设施即代码（IaC）的本地验证、以及教学演示。该项目在 HN 获得 752 分，社区关注度较高，但对 AI 工程师的直接价值有限，更多服务于 DevOps 与后端开发流程。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-12T04:51:05.483424+00:00"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "source": "hackernews-top",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "hn_url": "https://news.ycombinator.com/item?id=50459703",
+      "description": "",
+      "hn_score": 720,
+      "comments": 1008,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，标题称 Nvidia 正准备罢免 CEO Jensen Huang，但描述为空，实际内容需依赖原文链接。核心议题围绕 Nvidia 高层人事变动传闻展开，涉及公司治理、AI 芯片巨头战略走向及资本市场影响。技术亮点有限，主要价值在于信息时效性与行业风向判断，而非工程实践。适用场景为关注 AI 硬件供应链、半导体行业动态与投资决策的工程师和研究者，可作为行业情报参考，但需核实信源真实性。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-12T04:51:07.362153+00:00"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "source": "hackernews-top",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "description": "",
+      "hn_score": 468,
+      "comments": 452,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "美联航（United Airlines）明确禁止 AI agent 代替旅客预订航班，这是航空业对自主 AI 代理进入交易环节的首个公开限制案例。事件源于有开发者尝试用浏览器自动化与 LLM agent 完成订票流程，触及航司的渠道控制、反欺诈与责任归属问题。核心技术看点在于 agent 在真实业务系统中的 tool-use 边界：身份验证、支付授权与条款合规难以由自动化代理独立承担。该事件对构建面向企业系统的 autonomous agent 具有警示意义，适用于 travel、电商与金融等强合规场景的 agent 设计评估。",
+      "tags": [
+        "agent",
+        "tool-use",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-12T04:51:09.072313+00:00"
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "source": "hackernews-top",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "hn_url": "https://news.ycombinator.com/item?id=50459485",
+      "description": "",
+      "hn_score": 178,
+      "comments": 33,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该条目讨论 GitHub Actions 的安全加固实践，核心是锁定第三方 Action 的版本（如固定 commit SHA 而非浮动 tag），防止供应链攻击与恶意更新。技术亮点在于将依赖锁定思路引入 CI/CD 流水线，结合权限最小化、OIDC 短期凭证等机制降低凭据泄露风险。适用于所有使用 GitHub Actions 的工程团队，尤其对开源项目与涉及敏感部署凭据的仓库价值更高。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-12T04:51:10.957300+00:00"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "source": "hackernews-top",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "hn_url": "https://news.ycombinator.com/item?id=50455394",
+      "description": "",
+      "hn_score": 445,
+      "comments": 225,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该条目讲述 Jane Street 纽约唯一数据中心因一次误报的烟雾报警触发气体灭火系统，险些导致整机房宕机的事故复盘。核心问题在于关键基础设施的告警联动与应急流程存在单点失效风险：报警信号未经多源交叉验证即触发不可逆的灭火动作。技术亮点包括对告警去抖、人工确认环节、灭火系统手动/自动模式切换以及跨团队应急演练的工程化反思，并涉及数据中心冗余与业务连续性设计。适用场景为金融交易、AI 训练集群等对低延迟与高可用有严苛要求的机房运维团队，以及负责告警系统与灾备流程的 SRE/基础设施工程师。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-11-12T04:51:13.487287+00:00"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "hn_url": "https://news.ycombinator.com/item?id=50456791",
+      "description": "",
+      "hn_score": 327,
+      "comments": 102,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "Gemini Decisions API 是 Google 为 Gemini 模型推出的结构化决策接口，允许开发者以声明式方式定义决策规则与候选动作，由模型在运行时选择并返回可解析的决策结果。它解决 LLM 输出自由文本难以稳定集成到业务逻辑的问题，将 prompt 工程收敛为 schema 约束的决策契约。核心技术亮点包括决策 schema 定义、候选动作枚举、置信度与理由字段，以及与 Gemini 原生 tool-use 能力的结合。适用于客服路由、风控审批、内容审核分流等需要可审计、可回放的自动化决策场景。",
+      "tags": [
+        "large-language-model",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-12T04:51:15.453383+00:00"
+    },
+    {
+      "title": "Emacs in the Age of Magic",
+      "source": "hackernews-top",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "hn_url": "https://news.ycombinator.com/item?id=50458208",
+      "description": "",
+      "hn_score": 176,
+      "comments": 61,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该文探讨在 AI 辅助编程（LLM、agent 等）普及的背景下，Emacs 编辑器如何保持其作为可编程编辑环境的竞争力。核心问题在于现代 AI 工具多围绕 VS Code 等 GUI 编辑器构建，Emacs 用户面临集成门槛。文章可能涉及通过 LSP、MCP 或自定义 Elisp 脚本将 LLM 能力嵌入 Emacs 工作流，强调其高度可定制性和文本处理优势。适用场景为长期使用 Emacs 的开发者希望在保留原有编辑习惯的同时接入 AI 代码生成与辅助功能。",
+      "tags": [
+        "developer-tools",
+        "ai-assistant",
+        "code-generation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-12T04:51:17.311035+00:00"
+    },
+    {
+      "title": "The Utah Teapot",
+      "source": "hackernews-top",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457618",
+      "description": "",
+      "hn_score": 102,
+      "comments": 26,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "Utah Teapot 是计算机图形学领域的经典测试模型，由犹他大学在 1975 年创建，用于验证渲染算法与光照模型。它解决了早期图形学研究中缺乏标准化、可复现测试对象的问题，使不同渲染管线、着色算法和几何处理技术能够公平对比。核心技术亮点在于其曲面几何结构包含自遮挡、高光反射、阴影和轮廓等复杂视觉特征，能全面暴露渲染缺陷。该模型至今仍被用于图形学教学、渲染器调试和算法基准测试，也是 AI 生成 3D 内容与神经渲染研究中的常见参照物。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-12T04:51:19.517607+00:00"
+    },
+    {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "source": "hackernews-top",
+      "url": "https://termsheetplease.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457230",
+      "description": "",
+      "hn_score": 198,
+      "comments": 79,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "这是一个将经典游戏《Papers Please》玩法与YC创业投资决策结合的网页小游戏，玩家扮演投资人审核创业项目并决定是否资助。它解决了技术社区中缺乏趣味性投资模拟工具的问题，通过游戏化方式呈现创业筛选逻辑。核心技术亮点在于将文档审核机制映射到YC申请评估流程，并利用前端交互实现快速决策反馈。适用场景包括技术社区娱乐、创业投资概念科普以及Hackathon项目展示。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-12T04:51:21.376018+00:00"
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "source": "hackernews-top",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "description": "",
+      "hn_score": 951,
+      "comments": 348,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该项目展示了一个利用 AI agents 在卫星影像与地理空间数据中自动搜索、识别疑似未测绘的玛雅遗址的探索性实验。它针对传统考古调查成本高、覆盖有限的问题，尝试用 LLM 驱动的 agent 编排影像分析、特征检测与假设验证流程，核心技术亮点在于将多模态感知、工具调用与自主推理结合，形成可复用的遥感异常发现工作流。适用场景包括考古勘探、遥感变化检测、地理空间情报分析及 AI agent 在科学发现中的落地验证。",
+      "tags": [
+        "agent",
+        "multimodal",
+        "tool-use",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-12T04:51:23.518365+00:00"
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "source": "hackernews-top",
+      "url": "https://av.github.io/safe-sand/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453288",
+      "description": "",
+      "hn_score": 337,
+      "comments": 66,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该项目用 WebGL2 实现超写实沙粒渲染，通过 GPU 粒子系统与物理模拟解决传统沙地效果真实感不足的问题。核心技术亮点包括基于 compute shader 的粒子动力学、屏幕空间环境光遮蔽与次表面散射近似，以及自适应 LOD 优化性能。适用于游戏、虚拟仿真、数字孪生等需要高保真自然场景的实时渲染场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-12T04:51:24.975485+00:00"
+    },
+    {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "source": "hackernews-top",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "hn_url": "https://news.ycombinator.com/item?id=50455633",
+      "description": "",
+      "hn_score": 176,
+      "comments": 34,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该条目讨论如何通过加速检索环节来提升 RAG（Retrieval-Augmented Generation）系统的整体效率与效果。核心问题在于传统 RAG 中检索阶段常成为性能瓶颈，影响生成质量与响应速度。技术亮点可能涉及优化向量检索、索引结构或检索策略，以减少延迟并提高召回相关性。适用场景包括需要实时或高吞吐 RAG 服务的问答系统、知识库助手及企业搜索应用。",
+      "tags": [
+        "rag",
+        "vector-database",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-12T04:51:26.737662+00:00"
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "source": "hackernews-top",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "hn_url": "https://news.ycombinator.com/item?id=50454625",
+      "description": "",
+      "hn_score": 205,
+      "comments": 90,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "Yogurt 是 Granola 的开源替代品，后者是一款面向 Mac 的 AI 会议笔记应用。Yogurt 旨在提供免费、隐私优先的会议记录与摘要方案，避免将敏感对话数据上传至第三方云服务。核心技术亮点在于本地化处理：利用本地运行的 LLM 或轻量模型完成转录、摘要与要点提取，数据不出设备；同时保持开源可审计，支持自定义模型与工作流。适用场景包括对隐私敏感的团队会议、个人知识管理、以及希望自托管 AI 笔记工具的开发者与研究者。",
+      "tags": [
+        "open-source",
+        "ai-assistant",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-12T04:51:28.883922+00:00"
+    },
+    {
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50459321",
+      "description": "",
+      "hn_score": 306,
+      "comments": 350,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该条目为 Hacker News 热门话题，内容涉及 NVIDIA CEO Jensen Huang 与其直接下属高管存在私人关系的传闻报道，属于科技公司治理与高管伦理类新闻，不涉及任何 AI/LLM 技术内容。其信息价值在于反映头部 AI 芯片公司管理层动态，可能间接影响投资者与行业观察者对 NVIDIA 组织稳定性的判断，但缺乏可验证的技术细节与工程参考意义。对 AI 工程师而言，该条目与日常研发工作无直接关联，仅可作为行业背景信息浏览。",
+      "tags": [
+        "open-source",
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-12T04:51:30.722656+00:00"
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "source": "hackernews-top",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452655",
+      "description": "",
+      "hn_score": 260,
+      "comments": 38,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该研究探讨线性规划（Linear Program）能否实现权重空间编程（Weight-Space Programming），即直接操作神经网络权重而非通过梯度下降微调。核心问题在于：传统权重空间编辑依赖非线性优化，计算昂贵且难以保证约束；作者尝试用线性规划建模权重更新，在保持模型行为约束下求解可行权重方向。技术亮点包括将权重编辑转化为线性约束优化问题，可能降低计算成本并提升可解释性。适用场景为模型行为定向修正、安全对齐中的权重干预，以及资源受限下的轻量级模型编辑。",
+      "tags": [
+        "fine-tuning",
+        "reasoning",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-12T04:51:32.931304+00:00"
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "source": "hackernews-top",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453637",
+      "description": "",
+      "hn_score": 201,
+      "comments": 77,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "Atuin Threads 是 Atuin 推出的跨机器 AI agent 会话同步与共享工具，将 shell 历史管理能力扩展到 agent 交互场景。它解决多设备、多终端下 agent 会话分散、难以检索和续接的问题，核心亮点是端到端加密的会话同步、统一会话索引与跨机器恢复，并支持与主流 agent 工具集成。适用于多机开发者、远程团队及需要长期追踪 agent 对话上下文的 AI 工程师。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-12T04:51:34.813332+00:00"
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "source": "hackernews-top",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "hn_url": "https://news.ycombinator.com/item?id=50451903",
+      "description": "",
+      "hn_score": 278,
+      "comments": 113,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "该文章讲述作者通过电压毛刺（voltage glitching）攻击，解锁了矿卡中隐藏的 A100 GPU 功能。矿卡通常基于 A100 芯片但被固件限制，作者利用电压故障注入绕过安全启动与熔断机制，恢复完整算力与显存。核心技术亮点在于硬件级 fault injection 的实操细节，包括时序调优与电路改造。适用于硬件安全研究、GPU 逆向工程及低成本获取大模型算力的场景。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-12T04:51:36.501955+00:00"
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "hn_url": "https://news.ycombinator.com/item?id=50455811",
+      "description": "",
+      "hn_score": 51,
+      "comments": 40,
+      "collected_at": "2026-11-12T04:50:20.803331+00:00",
+      "published_at": "2026-11-12T04:50:20.803331+00:00",
+      "summary": "Pomerado（YC F26）是一个将任意网站自动转换为 MCP（Model Context Protocol）服务的工具，使 AI agent 能够直接调用网站功能与数据。它解决的是 agent 与外部 Web 服务集成成本高、需逐个手写 MCP server 的痛点，通过自动解析网站结构生成标准化 MCP 接口。核心技术亮点在于网站到 MCP 的自动化转换与协议适配，降低 tool-use 集成门槛。适用场景包括 agent 工具链快速扩展、Web 服务 agent 化封装及开发者构建 AI assistant 的外部能力接入。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-12T04:51:38.574329+00:00"
+    }
+  ]
+}

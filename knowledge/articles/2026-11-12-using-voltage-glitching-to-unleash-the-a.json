@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-12-018",
+  "title": "Using voltage glitching to unleash the A100 in my mining card",
+  "source": "hackernews-top",
+  "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+  "summary": "该文章讲述作者通过电压毛刺（voltage glitching）攻击，解锁了矿卡中隐藏的 A100 GPU 功能。矿卡通常基于 A100 芯片但被固件限制，作者利用电压故障注入绕过安全启动与熔断机制，恢复完整算力与显存。核心技术亮点在于硬件级 fault injection 的实操细节，包括时序调优与电路改造。适用于硬件安全研究、GPU 逆向工程及低成本获取大模型算力的场景。",
+  "tags": [
+    "open-source",
+    "benchmark",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:36.501955+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

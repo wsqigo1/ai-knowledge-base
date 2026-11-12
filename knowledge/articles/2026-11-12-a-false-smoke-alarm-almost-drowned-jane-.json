@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-12-009",
+  "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+  "source": "hackernews-top",
+  "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+  "summary": "该条目讲述 Jane Street 纽约唯一数据中心因一次误报的烟雾报警触发气体灭火系统，险些导致整机房宕机的事故复盘。核心问题在于关键基础设施的告警联动与应急流程存在单点失效风险：报警信号未经多源交叉验证即触发不可逆的灭火动作。技术亮点包括对告警去抖、人工确认环节、灭火系统手动/自动模式切换以及跨团队应急演练的工程化反思，并涉及数据中心冗余与业务连续性设计。适用场景为金融交易、AI 训练集群等对低延迟与高可用有严苛要求的机房运维团队，以及负责告警系统与灾备流程的 SRE/基础设施工程师。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "benchmark"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:13.487287+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

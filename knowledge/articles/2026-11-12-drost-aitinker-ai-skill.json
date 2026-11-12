@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-004",
+  "title": "drost-ai/tinker-ai-skill",
+  "source": "github-trending",
+  "url": "https://github.com/drost-ai/tinker-ai-skill",
+  "summary": "该项目是一个 Agent Skill，用于基于用户自己的 Claude Code 会话数据，通过 Tinker 平台对 agentic 模型进行 fine-tuning。它解决的核心问题是：开发者希望让模型学习自身真实的编码与工具调用行为，但缺乏从会话日志到训练数据的便捷管道。技术亮点在于将 Claude Code、Codex、OpenCode 等 agent 运行时的会话轨迹转化为 fine-tuning 样本，并借助 Tinker 完成训练闭环，形成“使用即数据、数据即训练”的个性化模型迭代路径。适用场景包括个人或团队定制编码 agent、复现并强化特定工作流习惯、以及研究 agentic 轨迹数据对模型行为的影响。",
+  "tags": [
+    "fine-tuning",
+    "agent",
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-12T04:50:20.657953+00:00",
+  "analyzed_at": "2026-11-12T04:50:57.550934+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}

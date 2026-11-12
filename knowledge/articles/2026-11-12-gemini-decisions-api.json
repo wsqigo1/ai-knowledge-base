@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-12-010",
+  "title": "Gemini Decisions API",
+  "source": "hackernews-top",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "summary": "Gemini Decisions API 是 Google 为 Gemini 模型推出的结构化决策接口，允许开发者以声明式方式定义决策规则与候选动作，由模型在运行时选择并返回可解析的决策结果。它解决 LLM 输出自由文本难以稳定集成到业务逻辑的问题，将 prompt 工程收敛为 schema 约束的决策契约。核心技术亮点包括决策 schema 定义、候选动作枚举、置信度与理由字段，以及与 Gemini 原生 tool-use 能力的结合。适用于客服路由、风控审批、内容审核分流等需要可审计、可回放的自动化决策场景。",
+  "tags": [
+    "large-language-model",
+    "tool-use",
+    "developer-tools",
+    "workflow-automation",
+    "reasoning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-12T04:50:20.803331+00:00",
+  "analyzed_at": "2026-11-12T04:51:15.453383+00:00",
+  "organized_at": "2026-11-12T04:51:38.624504+00:00",
+  "status": "published"
+}
