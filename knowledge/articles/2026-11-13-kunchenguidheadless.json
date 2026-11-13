@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-13-010",
+  "title": "kunchenguid/headless",
+  "source": "github-trending",
+  "url": "https://github.com/kunchenguid/headless",
+  "summary": "该项目是一个 Agent skill，通过 SSH 以分步方式将 Mac、Linux 或 Windows 机器配置为 headless 模式，全程无需查看管理员密码。它解决了远程无头环境初始化时密码暴露与手动操作繁琐的问题，核心技术亮点在于基于 Shell 的自动化流程编排与免密交互设计，将系统配置步骤封装为可复用的 agent 技能。适用于 AI 工程师在远程服务器、CI 节点或边缘设备上快速搭建无图形界面的开发与推理环境。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-13T04:00:58.772852+00:00",
+  "analyzed_at": "2026-11-13T04:01:35.690124+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

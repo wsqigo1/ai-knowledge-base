@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-13-003",
+  "title": "gokayfem/image-to-sculpt",
+  "source": "github-trending",
+  "url": "https://github.com/gokayfem/image-to-sculpt",
+  "summary": "该项目是一个面向 coding agents 的 skill，可将任意单张图片重建为 3D 雕塑模型。它通过注册视角（registered views）、map-fitting 迭代优化，使生成几何与原始图像对齐，并支持在 Blender 中回放与生成 timelapse 视频。核心亮点在于把图像到 3D 的重建流程封装为 agent 可调用的技能，强调以输入图像为度量基准进行拟合，而非纯生成。适用于 3D 内容创作、游戏资产快速原型、AI agent 工具链扩展及教学演示等场景。",
+  "tags": [
+    "multimodal",
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-13T04:00:58.772852+00:00",
+  "analyzed_at": "2026-11-13T04:01:19.416983+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

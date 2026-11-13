@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-13-014",
+  "title": "Gemini 4 Hydrogen and Orchestrator",
+  "source": "hackernews-top",
+  "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+  "summary": "该条目指向 Google 新一代 Gemini 4 Hydrogen 模型及配套 Orchestrator 编排层，核心是在多模型、多工具环境下统一调度推理与执行。它解决的是复杂任务中模型能力碎片化、工具调用链路难以编排的问题，通过 Orchestrator 将规划、工具调用与结果聚合解耦，提升多步骤任务的稳定性。技术亮点在于模型与编排层的协同设计，可能涉及多 agent 协作与 tool-use 的标准化接口。适用场景包括企业级 AI 工作流自动化、复杂多模态任务处理以及需要可靠工具调用的生产级 agent 系统。",
+  "tags": [
+    "large-language-model",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "multimodal"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-13T04:00:58.975395+00:00",
+  "analyzed_at": "2026-11-13T04:01:46.191665+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

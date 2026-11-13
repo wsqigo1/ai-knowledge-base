@@ -1,0 +1,397 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-13T04:00:59.940618+00:00",
+  "date": "2026-11-13",
+  "count": 20,
+  "items": [
+    {
+      "title": "Jensen Huang resigns",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "hn_url": "https://news.ycombinator.com/item?id=50467087",
+      "description": "",
+      "hn_score": 3126,
+      "comments": 2921,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目为 Hacker News 热门讨论，标题「Jensen Huang resigns」指向 NVIDIA CEO 黄仁勋的相关传闻或讨论，而非具体技术项目或文章。其核心价值在于反映 AI 硬件生态与行业动态的社区关注度，而非提供可复用的技术方案或工程实践。技术亮点缺失，适用场景限于行业趋势观察与舆情跟踪，对 AI 工程师的日常开发直接帮助有限。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-13T04:01:40.895276+00:00"
+    },
+    {
+      "title": "Rust 1.100",
+      "source": "hackernews-top",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472038",
+      "description": "",
+      "hn_score": 504,
+      "comments": 210,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "Rust 1.100 是 Rust 编程语言的最新稳定版本发布，主要解决语言演进中的稳定性与性能优化问题。核心技术亮点包括编译器性能提升、标准库 API 稳定化以及可能的语言特性改进（如 const 泛型或错误处理增强）。该版本适用于系统编程、嵌入式开发、WebAssembly 及高性能后端服务等场景，对 AI 工程师而言，可借助 Rust 构建高效推理引擎或工具链，但直接关联度较低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-13T04:01:42.407733+00:00"
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "source": "hackernews-top",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "hn_url": "https://news.ycombinator.com/item?id=50477231",
+      "description": "",
+      "hn_score": 189,
+      "comments": 126,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目为 Hacker News 热帖，报道 Nvidia 员工发起请愿要求恢复 Jensen Huang 的某种职务或角色（标题表述为 bring back，具体背景需结合原文）。核心并非技术方案，而是围绕 Nvidia 管理层与组织动态的社区讨论，反映 AI 芯片龙头企业的内部治理与人事话题。技术亮点缺失，适用场景主要是关注 Nvidia 公司治理、AI 硬件产业动态及科技公司文化的从业者与投资者。对 AI 工程师的直接技术参考价值有限，但可作为了解头部 AI 基础设施公司组织稳定性的信息源。",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-13T04:01:44.388129+00:00"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "source": "hackernews-top",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472260",
+      "description": "",
+      "hn_score": 343,
+      "comments": 88,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目指向 Google 新一代 Gemini 4 Hydrogen 模型及配套 Orchestrator 编排层，核心是在多模型、多工具环境下统一调度推理与执行。它解决的是复杂任务中模型能力碎片化、工具调用链路难以编排的问题，通过 Orchestrator 将规划、工具调用与结果聚合解耦，提升多步骤任务的稳定性。技术亮点在于模型与编排层的协同设计，可能涉及多 agent 协作与 tool-use 的标准化接口。适用场景包括企业级 AI 工作流自动化、复杂多模态任务处理以及需要可靠工具调用的生产级 agent 系统。",
+      "tags": [
+        "large-language-model",
+        "multi-agent",
+        "tool-use",
+        "workflow-automation",
+        "multimodal"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-13T04:01:46.191665+00:00"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "source": "hackernews-top",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "hn_url": "https://news.ycombinator.com/item?id=50475713",
+      "description": "",
+      "hn_score": 110,
+      "comments": 25,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "Edge0-145B 是一个面向本地部署的超大规模开源语言模型，主打在个人计算机上运行接近前沿水平的 AI 能力。它主要解决大模型依赖云端 API、数据隐私与推理成本高的问题，通过模型压缩与高效推理技术降低硬件门槛。核心技术亮点包括 145B 参数规模下的量化与稀疏化优化、本地推理加速方案，以及可能针对消费级 GPU 或 CPU 的适配。适用场景涵盖隐私敏感的本地 AI 助手、离线开发环境、个人研究实验及边缘计算部署。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-13T04:01:48.119708+00:00"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "source": "hackernews-top",
+      "url": "https://github.com/simpsoka/zigzag",
+      "hn_url": "https://news.ycombinator.com/item?id=50470488",
+      "description": "",
+      "hn_score": 388,
+      "comments": 149,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "一位开发者因购买的300美元刺绣机被厂商锁定在订阅制软件后，自行开发了替代应用来控制设备。该项目通过逆向分析刺绣机的通信协议，构建了本地化控制软件，绕过了厂商的订阅限制，实现了图案传输与设备控制功能。核心技术亮点在于硬件协议逆向与本地应用开发，不依赖云端服务。适用于消费级硬件被订阅制绑架的场景，对嵌入式开发者和硬件爱好者有参考价值，但与AI/LLM领域关联较弱。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-13T04:01:50.369043+00:00"
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "source": "hackernews-top",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472490",
+      "description": "",
+      "hn_score": 223,
+      "comments": 105,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目报道了一颗新发现的矮行星候选体，其绕太阳公转周期约为280年。该发现解决的是太阳系边缘天体普查与轨道分类问题，核心技术亮点在于通过长期观测数据与轨道动力学计算确认其候选身份，并估算其极长周期轨道参数。适用场景为天文学研究、太阳系演化模型及科普传播，但对AI工程师的日常开发无直接实用价值。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-13T04:01:52.059513+00:00"
+    },
+    {
+      "title": "Foundation Models framework",
+      "source": "hackernews-top",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "hn_url": "https://news.ycombinator.com/item?id=50474361",
+      "description": "",
+      "hn_score": 158,
+      "comments": 22,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "Foundation Models framework 是苹果在 WWDC 2025 推出的端侧基础模型开发框架，允许开发者直接调用 Apple Intelligence 内置的约 30 亿参数 on-device 模型，无需自建推理基础设施。它解决了移动端集成 LLM 的门槛问题：提供 Swift API、引导式生成（guided generation）保证结构化输出、工具调用（tool use）与自定义 adapter 微调能力，并强调隐私与离线运行。核心技术亮点是系统级模型 + 受限解码 + 本地执行。适用场景为 iOS/macOS 应用内的摘要、分类、实体抽取与轻量 agent 功能。",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "tool-use",
+        "fine-tuning",
+        "multimodal"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-11-13T04:01:54.103869+00:00"
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "source": "hackernews-top",
+      "url": "https://status.cloud.microsoft/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471731",
+      "description": "",
+      "hn_score": 600,
+      "comments": 563,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目报道 Microsoft 365 服务出现降级故障，属于云服务可用性事件而非技术方案或开源项目。事件本身不涉及 AI/LLM 技术架构、算法或工程实践，仅反映大规模 SaaS 平台的运维风险与故障通报机制。对 AI 工程师而言，其价值在于提醒依赖 Microsoft 365 及 Azure 生态的 AI 应用需考虑服务中断的容错与降级策略，但缺乏可复用的技术细节与深度分析。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-13T04:01:55.790618+00:00"
+    },
+    {
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "hn_url": "https://news.ycombinator.com/item?id=50473190",
+      "description": "",
+      "hn_score": 136,
+      "comments": 189,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目为 Hacker News 热门新闻，报道前 Nvidia CEO 黄仁勋据消息源称与第二名员工存在恋爱关系。内容属于企业高管个人生活与公司治理范畴的媒体报道，不涉及任何 AI/LLM 技术方案、模型、工具或工程实践，也未提供可复用的技术信息。对 AI 工程师而言，其技术参考价值极低，仅可作为科技公司治理与职场伦理话题的谈资。HN 热度 136 表明社区有一定关注，但关注点在于人物八卦而非技术深度。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-13T04:01:57.758511+00:00"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "source": "hackernews-top",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "hn_url": "https://news.ycombinator.com/item?id=50468888",
+      "description": "",
+      "hn_score": 296,
+      "comments": 101,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该项目探索在小型和旧设备上运行 LLM 的可行性，解决边缘设备算力有限、内存不足导致大模型无法本地部署的问题。核心技术亮点包括模型量化、内存优化、推理引擎适配等轻量化手段，使 LLM 能在资源受限的硬件上运行。适用场景为边缘计算、离线 AI 助手、嵌入式设备及低功耗终端上的本地推理。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-13T04:01:59.512619+00:00"
+    },
+    {
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "source": "hackernews-top",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471761",
+      "description": "",
+      "hn_score": 155,
+      "comments": 25,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该研究将 PostgreSQL 中一个存在 22 年的类型混淆（type-confusion）原语武器化为远程代码执行（RCE）漏洞。它解决的是长期潜伏于数据库内核、此前被认为仅能导致崩溃或信息泄露的旧缺陷如何升级为完整 RCE 的问题。核心技术亮点在于对 Postgres 内部类型系统与内存布局的深度逆向，构造出可控的类型混淆路径并绕过现代缓解措施。适用场景为数据库安全研究、漏洞挖掘与红队渗透测试，对 AI 工程师的直接工程价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-13T04:02:01.297229+00:00"
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "source": "hackernews-top",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "description": "",
+      "hn_score": 127,
+      "comments": 117,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该 HN 讨论帖聚焦于 AI 生成内容（如合成语音、音乐）在 Apple App Store 审核流程中引发的困境。核心问题是：Apple 的自动化审核系统难以区分 AI 合成内容与真实内容，导致合成器/音频类 App 频繁被误判、延迟上架或下架。技术亮点在于揭示了 AI 内容检测与平台审核策略之间的冲突，以及开发者被迫调整产品功能（如移除 AI 生成能力）的应对方式。适用场景包括移动端 AI 音频应用开发、App Store 合规策略制定，以及平台审核机制研究。",
+      "tags": [
+        "multimodal",
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-13T04:02:03.312822+00:00"
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "source": "hackernews-top",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "hn_url": "https://news.ycombinator.com/item?id=50467618",
+      "description": "",
+      "hn_score": 249,
+      "comments": 87,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目报道了模组开发者完成并发布了《雷神之锤4》的废弃资料片，使玩家现在可以游玩。这解决了一个商业游戏资料片因故被取消、内容长期无法面世的问题。核心技术亮点在于社区模组开发者通过逆向工程、资源重建和代码修补，恢复了未完成内容并确保其兼容现代系统。适用场景主要是经典FPS游戏社区、游戏 preservation 和模组开发领域。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-13T04:02:05.234829+00:00"
+    },
+    {
+      "title": "Don't argue with me. $100k is fair, and you know it",
+      "source": "hackernews-top",
+      "url": "https://folklore.org/Switcher.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50477714",
+      "description": "",
+      "hn_score": 3,
+      "comments": 0,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目是 Hacker News 上的一篇讨论帖，标题主张 10 万美元的薪资/报价是合理的，但缺乏具体技术内容。帖子本身未提供可验证的技术方案或工程实践，主要围绕薪酬公平性展开观点辩论。由于信息量极低且无实质技术细节，对 AI 工程师的直接参考价值有限，仅可作为行业薪酬话题的社区舆情参考。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-13T04:02:07.047538+00:00"
+    },
+    {
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "source": "hackernews-top",
+      "url": "https://makepad.github.io/relax/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458849",
+      "description": "",
+      "hn_score": 132,
+      "comments": 55,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "Relax 是一个面向 Rust 的 JIT 编译器，旨在通过即时编译替代传统 AOT 编译流程，显著缩短 Rust 项目的构建时间。其核心技术亮点在于将 Rust 代码在运行时或开发迭代中动态编译执行，绕过冗长的 cargo build 链路，从而加速开发反馈循环。该项目在 HN 获得 132 分，社区关注度中等偏上。适用场景包括大型 Rust 项目的快速迭代开发、CI 构建优化以及需要频繁热重载的 Rust 应用开发。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "code-generation",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-13T04:02:08.895748+00:00"
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "source": "hackernews-top",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "hn_url": "https://news.ycombinator.com/item?id=50467460",
+      "description": "",
+      "hn_score": 202,
+      "comments": 2,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该条目是 Hacker News 上关于 AMD 下一代 Zen 6 架构的深度讨论，核心内容为对 AMD 工程师 Mike Clark 的访谈解读。Zen 6 旨在解决高性能计算与能效平衡问题，核心技术亮点包括更先进的制程工艺、改进的 IPC 提升、以及针对 AI 负载的指令集与缓存优化。适用场景涵盖服务器、数据中心及高性能桌面计算，对关注底层硬件与 AI 基础设施的工程师有参考价值，但与 LLM 应用开发直接关联较弱。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-13T04:02:10.749988+00:00"
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "source": "hackernews-top",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471431",
+      "description": "",
+      "hn_score": 485,
+      "comments": 305,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "Gemini 4 Hydrogen 是 Google 发布的下一代多模态大模型，在 Hacker News 上引发广泛讨论。该模型主要解决复杂推理、长上下文理解与多模态任务统一处理的问题，核心技术亮点包括增强的 reasoning 能力、更高效的多模态融合架构以及对 agent 与 tool-use 场景的原生支持。适用场景涵盖代码生成、复杂问答、多模态内容理解与自动化工作流。由于条目信息有限，具体技术细节需结合官方发布内容进一步确认。",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "reasoning",
+        "agent",
+        "tool-use"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-13T04:02:12.778485+00:00"
+    },
+    {
+      "title": "Anthropic IPO",
+      "source": "hackernews-top",
+      "url": "https://ipo.anthropic.com/us/",
+      "hn_url": "https://news.ycombinator.com/item?id=50465829",
+      "description": "",
+      "hn_score": 849,
+      "comments": 824,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "Anthropic IPO 是 Hacker News 上关于 AI 公司 Anthropic 启动首次公开募股（IPO）的讨论条目。该事件本身并非技术产品，而是资本市场动态，核心信息在于 Anthropic 作为 Claude 系列 large-language-model 的开发商，其估值、融资规模与商业化进展受到高度关注。技术亮点间接体现在其 IPO 文件可能披露的模型能力、安全研究投入与 enterprise 客户增长数据。适用场景为 AI 工程师跟踪头部 LLM 厂商的商业化路径、行业竞争格局与人才流动信号，而非直接用于工程实践。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-13T04:02:14.921349+00:00"
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "source": "hackernews-top",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
+      "description": "",
+      "hn_score": 209,
+      "comments": 56,
+      "collected_at": "2026-11-13T04:00:58.975395+00:00",
+      "published_at": "2026-11-13T04:00:58.975395+00:00",
+      "summary": "该研究通过分析中国前沿大模型（如 DeepSeek、Qwen 等）的输出特征，发现其推理痕迹中携带受出口管制 GPU（如 NVIDIA H100/A100）的硬件指纹，可用于推断训练所用芯片型号与算力规模。核心亮点在于将模型行为分析与硬件溯源结合，提出一种无需访问训练基础设施即可识别算力来源的方法，涉及 token 分布偏差、数值精度痕迹等信号。适用场景包括 AI 出口管制合规审查、模型供应链溯源及算力审计。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "open-source",
+        "reasoning"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-13T04:02:17.095168+00:00"
+    }
+  ]
+}

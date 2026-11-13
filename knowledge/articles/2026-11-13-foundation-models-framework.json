@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-13-016",
+  "title": "Foundation Models framework",
+  "source": "hackernews-top",
+  "url": "https://developer.apple.com/foundation-models-framework/",
+  "summary": "Foundation Models framework 是苹果在 WWDC 2025 推出的端侧基础模型开发框架，允许开发者直接调用 Apple Intelligence 内置的约 30 亿参数 on-device 模型，无需自建推理基础设施。它解决了移动端集成 LLM 的门槛问题：提供 Swift API、引导式生成（guided generation）保证结构化输出、工具调用（tool use）与自定义 adapter 微调能力，并强调隐私与离线运行。核心技术亮点是系统级模型 + 受限解码 + 本地执行。适用场景为 iOS/macOS 应用内的摘要、分类、实体抽取与轻量 agent 功能。",
+  "tags": [
+    "large-language-model",
+    "developer-tools",
+    "tool-use",
+    "fine-tuning",
+    "multimodal"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-11-13T04:00:58.975395+00:00",
+  "analyzed_at": "2026-11-13T04:01:54.103869+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

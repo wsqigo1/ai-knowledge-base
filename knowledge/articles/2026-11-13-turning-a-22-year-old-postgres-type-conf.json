@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-13-018",
+  "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+  "source": "hackernews-top",
+  "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+  "summary": "该研究将 PostgreSQL 中一个存在 22 年的类型混淆（type-confusion）原语武器化为远程代码执行（RCE）漏洞。它解决的是长期潜伏于数据库内核、此前被认为仅能导致崩溃或信息泄露的旧缺陷如何升级为完整 RCE 的问题。核心技术亮点在于对 Postgres 内部类型系统与内存布局的深度逆向，构造出可控的类型混淆路径并绕过现代缓解措施。适用场景为数据库安全研究、漏洞挖掘与红队渗透测试，对 AI 工程师的直接工程价值有限。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-13T04:00:58.975395+00:00",
+  "analyzed_at": "2026-11-13T04:02:01.297229+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

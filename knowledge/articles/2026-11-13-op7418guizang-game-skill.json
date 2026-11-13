@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-13-004",
+  "title": "op7418/guizang-game-skill",
+  "source": "github-trending",
+  "url": "https://github.com/op7418/guizang-game-skill",
+  "summary": "该项目是一个面向 Claude Code / Codex 的 Agent Skill，目标是让 AI 从零生成可在浏览器直接运行的 3D 动作游戏，并附带可玩演示《雾锁山门》。它解决的是 AI 生成游戏资产与可玩性落地之间的工程断层：通过 three.js 与单 HTML 文件架构，把场景、角色、动作逻辑和 AI 生成素材整合为可运行产物。核心技术亮点在于 Agent Skill 的封装方式与单文件交付形态，降低了 AI 生成 3D 游戏的部署门槛。适用场景包括 AI Agent 能力演示、游戏原型快速验证、以及作为 Agent Skill 开发的教学参考。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "open-source",
+    "developer-tools",
+    "multimodal"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-13T04:00:58.772852+00:00",
+  "analyzed_at": "2026-11-13T04:01:23.879828+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

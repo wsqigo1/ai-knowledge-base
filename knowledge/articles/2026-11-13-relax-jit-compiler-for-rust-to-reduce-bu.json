@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-13-020",
+  "title": "Relax: JIT compiler for Rust to reduce build times",
+  "source": "hackernews-top",
+  "url": "https://makepad.github.io/relax/",
+  "summary": "Relax 是一个面向 Rust 的 JIT 编译器，旨在通过即时编译替代传统 AOT 编译流程，显著缩短 Rust 项目的构建时间。其核心技术亮点在于将 Rust 代码在运行时或开发迭代中动态编译执行，绕过冗长的 cargo build 链路，从而加速开发反馈循环。该项目在 HN 获得 132 分，社区关注度中等偏上。适用场景包括大型 Rust 项目的快速迭代开发、CI 构建优化以及需要频繁热重载的 Rust 应用开发。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-13T04:00:58.975395+00:00",
+  "analyzed_at": "2026-11-13T04:02:08.895748+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

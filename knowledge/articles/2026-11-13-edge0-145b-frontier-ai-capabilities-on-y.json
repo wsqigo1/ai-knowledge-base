@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-13-015",
+  "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+  "source": "hackernews-top",
+  "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "summary": "Edge0-145B 是一个面向本地部署的超大规模开源语言模型，主打在个人计算机上运行接近前沿水平的 AI 能力。它主要解决大模型依赖云端 API、数据隐私与推理成本高的问题，通过模型压缩与高效推理技术降低硬件门槛。核心技术亮点包括 145B 参数规模下的量化与稀疏化优化、本地推理加速方案，以及可能针对消费级 GPU 或 CPU 的适配。适用场景涵盖隐私敏感的本地 AI 助手、离线开发环境、个人研究实验及边缘计算部署。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-13T04:00:58.975395+00:00",
+  "analyzed_at": "2026-11-13T04:01:48.119708+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

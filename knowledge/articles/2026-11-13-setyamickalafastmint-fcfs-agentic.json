@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-13-008",
+  "title": "setyamickala/fastmint-fcfs-agentic",
+  "source": "github-trending",
+  "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
+  "summary": "该项目是一个基于 JavaScript 的开源工具，利用 Binance Agentic Wallet 在 BNB Smart Chain 上实现 FCFS（先到先得）代币铸造，目标是在开盘后约 2 秒内将交易打包进区块。它解决了链上热门 mint 活动中手动操作延迟高、竞争激烈导致抢不到额度的问题。核心技术亮点在于将 Agentic Wallet 的自动化签名与交易提交能力封装为可复用的 mint 代理，实现低延迟的链上交互。适用场景包括 BNB Chain 上的 NFT/代币首发抢购、需要快速响应的链上自动化任务，以及研究 agent 与区块链钱包集成的开发者。",
+  "tags": [
+    "agent",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-13T04:00:58.772852+00:00",
+  "analyzed_at": "2026-11-13T04:01:32.031453+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}

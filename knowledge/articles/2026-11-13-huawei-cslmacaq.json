@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-13-009",
+  "title": "huawei-csl/MACaQ",
+  "source": "github-trending",
+  "url": "https://github.com/huawei-csl/MACaQ",
+  "summary": "MACaQ 是华为 CSL 团队开源的模型无关量化工具，面向 GGUF 格式及本地推理场景。它解决多模态模型（文本、图像、视频、音频）在不同推理框架下量化部署割裂的问题，提供统一的 SOTA 量化方案。核心技术亮点在于 model-agnostic 设计，可无缝对接 llama.cpp、vLLM、Diffusers 与 PyTorch，并覆盖 Ascend 硬件生态。适用场景包括本地端侧推理、多模态模型压缩部署，以及需要在异构框架间统一量化流程的工程实践。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "fine-tuning"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-13T04:00:58.772852+00:00",
+  "analyzed_at": "2026-11-13T04:01:33.812154+00:00",
+  "organized_at": "2026-11-13T04:02:17.167935+00:00",
+  "status": "published"
+}
