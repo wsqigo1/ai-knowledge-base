@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-14-001",
+  "title": "kociden/sakurai-skill",
+  "source": "github-trending",
+  "url": "https://github.com/kociden/sakurai-skill",
+  "summary": "该项目将樱井政博《游戏制作方法》全257集字幕整理为Claude Code可用的Agent Skill，把游戏设计方法论转化为AI可调用的结构化知识。它解决的是游戏设计经验难以被LLM直接复用的问题，通过字幕清洗、分段与Skill封装，让Claude Code在游戏设计任务中按樱井式思路给出建议。核心技术亮点是领域知识到Agent Skill的工程化转换，而非模型训练。适用于游戏设计辅助、Claude Code技能扩展与日文知识库构建场景。",
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-11-14T03:59:12.486711+00:00",
+  "analyzed_at": "2026-11-14T03:59:38.604344+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-14-007",
+  "title": "Ggml v1.0.0",
+  "source": "hackernews-top",
+  "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "summary": "GGML v1.0.0 是机器学习张量库 GGML 的首个正式稳定版本，为 ggml 生态（llama.cpp 等）提供底层计算支持。它解决了此前 API 不稳定、版本语义模糊的问题，通过语义化版本锁定接口，便于下游项目依赖管理。核心技术亮点包括纯 C 实现、无第三方依赖、支持 CPU/GPU 混合推理、量化张量运算与跨平台编译。适用场景为在本地或边缘设备上部署 LLM 推理、构建自定义推理引擎，以及需要轻量级张量计算库的 C/C++ 项目。",
+  "tags": [
+    "open-source",
+    "large-language-model",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-14T03:59:12.712821+00:00",
+  "analyzed_at": "2026-11-14T03:59:53.269066+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

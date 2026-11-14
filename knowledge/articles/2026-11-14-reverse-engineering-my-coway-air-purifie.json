@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-14-009",
+  "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+  "source": "hackernews-top",
+  "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+  "summary": "该项目通过逆向工程 Coway 空气净化器的本地通信协议（可能涉及 BLE 或 Wi-Fi 模块），绕过官方云服务实现本地控制。解决了智能家居设备强制依赖云端、隐私泄露和离线不可用的问题。核心技术亮点包括固件/协议逆向、本地 API 封装和自动化集成。适用于智能家居爱好者、隐私敏感用户及希望脱离云依赖的 IoT 开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-14T03:59:12.712821+00:00",
+  "analyzed_at": "2026-11-14T04:00:02.483091+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

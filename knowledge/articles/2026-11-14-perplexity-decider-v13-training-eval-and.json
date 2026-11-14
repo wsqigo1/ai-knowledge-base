@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-14-012",
+  "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+  "source": "hackernews-top",
+  "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+  "summary": "Perplexity Decider v1.3 是 Perplexity 团队开源的轻量级决策/路由模型，用于在复杂查询场景中判断何时调用检索、何时直接由 LLM 回答。它解决 RAG 系统中检索触发时机难以把握、过度检索导致延迟与成本上升的问题。核心技术亮点包括基于标注数据训练的二元分类器、配套的 eval 流程与训练脚本，以及面向生产环境的推理接口。适用场景为构建 agentic RAG 或搜索增强问答系统的工程师，用于优化检索策略与响应质量。",
+  "tags": [
+    "rag",
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "agent"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-14T03:59:12.712821+00:00",
+  "analyzed_at": "2026-11-14T04:00:15.001226+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

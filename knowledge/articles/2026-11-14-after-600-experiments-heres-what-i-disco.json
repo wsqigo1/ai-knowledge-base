@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-14-010",
+  "title": "After 600 experiments, here's what I discovered about JEPA world models",
+  "source": "hackernews-top",
+  "url": "https://haddyalchaer.com/jepa",
+  "summary": "该文基于600次实验系统评估JEPA（Joint Embedding Predictive Architecture）世界模型，探讨其在潜在空间进行预测而非像素重建的建模思路。核心亮点是通过大规模消融实验揭示JEPA在表示学习、预测稳定性与训练目标设计上的关键权衡，并对比生成式世界模型的差异。适用场景包括机器人控制、视频理解与自监督表示学习研究，为构建高效世界模型提供实证参考。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "multimodal",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-14T03:59:12.712821+00:00",
+  "analyzed_at": "2026-11-14T04:00:10.554746+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

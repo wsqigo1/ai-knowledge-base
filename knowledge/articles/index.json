@@ -1,7 +1,221 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 3005,
+  "total_count": 3019,
   "entries": [
+    {
+      "id": "kb-2026-11-14-001",
+      "title": "kociden/sakurai-skill",
+      "source": "github-trending",
+      "url": "https://github.com/kociden/sakurai-skill",
+      "file": "2026-11-14-kocidensakurai-skill.json",
+      "tags": [
+        "agent",
+        "prompt-engineering",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-002",
+      "title": "MZULALI/xj-scanner",
+      "source": "github-trending",
+      "url": "https://github.com/MZULALI/xj-scanner",
+      "file": "2026-11-14-mzulalixj-scanner.json",
+      "tags": [
+        "agent",
+        "open-source",
+        "developer-tools",
+        "tool-use"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-003",
+      "title": "berkantay/gpucanvas",
+      "source": "github-trending",
+      "url": "https://github.com/berkantay/gpucanvas",
+      "file": "2026-11-14-berkantaygpucanvas.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "agent",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-004",
+      "title": "nickvasilescu/grokbot-clone",
+      "source": "github-trending",
+      "url": "https://github.com/nickvasilescu/grokbot-clone",
+      "file": "2026-11-14-nickvasilescugrokbot-clone.json",
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "open-source",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-005",
+      "title": "nickvasilescu/bot-hq",
+      "source": "github-trending",
+      "url": "https://github.com/nickvasilescu/bot-hq",
+      "file": "2026-11-14-nickvasilescubot-hq.json",
+      "tags": [
+        "multi-agent",
+        "agent",
+        "ai-assistant",
+        "tool-use",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-006",
+      "title": "simplexai-labs/linger",
+      "source": "github-trending",
+      "url": "https://github.com/simplexai-labs/linger",
+      "file": "2026-11-14-simplexai-labslinger.json",
+      "tags": [
+        "agent",
+        "local-llm",
+        "personal-agent",
+        "multi-agent",
+        "open-source"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-007",
+      "title": "Ggml v1.0.0",
+      "source": "hackernews-top",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "file": "2026-11-14-ggml-v100.json",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-008",
+      "title": "Terminal borders that don't cost a cell",
+      "source": "hackernews-top",
+      "url": "https://www.joshka.net/cell-borders/",
+      "file": "2026-11-14-terminal-borders-that-dont-cost-a-cell.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-009",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "source": "hackernews-top",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "file": "2026-11-14-reverse-engineering-my-coway-air-purifie.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-010",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "source": "hackernews-top",
+      "url": "https://haddyalchaer.com/jepa",
+      "file": "2026-11-14-after-600-experiments-heres-what-i-disco.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-011",
+      "title": "FM-1 Workbench",
+      "source": "hackernews-top",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "file": "2026-11-14-fm-1-workbench.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "prompt-engineering",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-012",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "source": "hackernews-top",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "file": "2026-11-14-perplexity-decider-v13-training-eval-and.json",
+      "tags": [
+        "rag",
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "agent"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-013",
+      "title": "Weight Space Misfolding",
+      "source": "hackernews-top",
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "file": "2026-11-14-weight-space-misfolding.json",
+      "tags": [
+        "large-language-model",
+        "fine-tuning",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
+    {
+      "id": "kb-2026-11-14-014",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "file": "2026-11-14-ai-unlocks-gödels-notebooks-said-to-cont.json",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-14T04:00:32.032622+00:00"
+    },
     {
       "id": "kb-2026-11-13-001",
       "title": "threerocks/article2media",
@@ -45220,5 +45434,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-13T04:02:17.545597+00:00"
+  "last_updated": "2026-11-14T04:00:32.294262+00:00"
 }

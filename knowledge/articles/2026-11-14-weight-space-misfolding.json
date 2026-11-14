@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-14-013",
+  "title": "Weight Space Misfolding",
+  "source": "hackernews-top",
+  "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+  "summary": "Weight Space Misfolding 探讨神经网络权重空间中类似蛋白质错误折叠的现象，即训练后的权重配置可能陷入局部异常结构，导致模型泛化能力下降或行为不稳定。该问题指向模型训练与微调中的鲁棒性隐患，核心技术亮点在于从权重空间几何视角分析参数配置的\"折叠\"模式，并可能提出检测或缓解策略。适用场景包括大模型 fine-tuning 稳定性评估、训练过程监控以及模型压缩与合并时的权重健康检查。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-14T03:59:12.712821+00:00",
+  "analyzed_at": "2026-11-14T04:00:28.232813+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-14-008",
+  "title": "Terminal borders that don't cost a cell",
+  "source": "hackernews-top",
+  "url": "https://www.joshka.net/cell-borders/",
+  "summary": "该项目探讨终端边框渲染技术，通过利用 Unicode 制表符或终端模拟器特性，在不占用额外字符单元（cell）的情况下绘制边框，解决传统 TUI 中边框挤占内容空间的问题。核心技术亮点在于对终端字符宽度与渲染机制的精细控制，可能涉及零宽字符、组合字符或终端特定转义序列的运用。适用场景包括终端 UI 开发、CLI 工具界面优化及资源受限环境下的界面设计。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-14T03:59:12.712821+00:00",
+  "analyzed_at": "2026-11-14T03:59:56.952502+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}

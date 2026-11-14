@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-14-003",
+  "title": "berkantay/gpucanvas",
+  "source": "github-trending",
+  "url": "https://github.com/berkantay/gpucanvas",
+  "summary": "gpucanvas 是一个 TypeScript 开源项目，将数千个实时 DOM 节点渲染到无限画布上，由 GPU 负责绘制，编辑器支持选中、移动和缩放，shader 与过渡动画可直接作用于节点，AI agent 能读取节点信息并指向目标元素。它解决了大规模 DOM 元素在画布场景下的性能瓶颈与交互编辑难题，核心亮点是 GPU 加速渲染、DOM 与 canvas 融合、shader 驱动动画以及面向 AI agent 的可读可指能力。适用于设计工具、可视化编辑器、AI 辅助 UI 操作等场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "agent",
+    "multimodal"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-14T03:59:12.486711+00:00",
+  "analyzed_at": "2026-11-14T03:59:45.542089+00:00",
+  "organized_at": "2026-11-14T04:00:32.032622+00:00",
+  "status": "published"
+}
