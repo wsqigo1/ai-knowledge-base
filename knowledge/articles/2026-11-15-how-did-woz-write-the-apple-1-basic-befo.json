@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-15-020",
+  "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+  "source": "hackernews-top",
+  "url": "https://retrocomputing.stackexchange.com/questions/17957",
+  "summary": "该 HN 讨论帖探讨 Wozniak 在 Apple I 硬件完成前如何编写 BASIC 解释器，核心是他在纸上手写 6502 汇编并手工汇编成机器码，再借助另一台计算机或纸带验证。问题在于无目标硬件时如何开发系统软件，亮点是纯手工汇编、内存布局规划与跨平台模拟验证的工程方法。对现代 AI 工程师而言，其价值在于理解底层软件开发的约束驱动设计、手工优化与可移植性思维，适用于嵌入式开发、编译器/解释器教学及复古计算研究场景。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:06.424748+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

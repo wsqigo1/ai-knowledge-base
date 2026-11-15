@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-15-029",
+  "title": "Reverse engineering a vintage diode-transistor logic chip",
+  "source": "hackernews-top",
+  "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+  "summary": "该条目是对一款复古二极管-晶体管逻辑（DTL）芯片进行逆向工程的实践记录。作者通过去封装、显微拍摄和电路提取，还原了早期逻辑门（如NAND）的内部结构与工作原理，解决了缺乏原始文档时如何理解老式芯片设计的问题。核心技术亮点在于结合光学显微与版图追踪，逐层解析金属互连、扩散区和电阻，并复现逻辑功能。适用场景包括计算机历史研究、复古计算硬件修复、集成电路教学以及芯片逆向工程方法学习。",
+  "tags": [
+    "reverse-engineering",
+    "hardware",
+    "logic-chip",
+    "vintage-computing",
+    "integrated-circuit"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:30.218302+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

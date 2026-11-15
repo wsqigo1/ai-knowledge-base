@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-15-027",
+  "title": "Generative AI uses more energy on non-English text",
+  "source": "hackernews-top",
+  "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+  "summary": "该研究揭示生成式 AI 模型在处理非英语文本时能耗显著高于英语，源于 tokenization 效率差异与多语言训练数据不均衡。核心亮点在于量化了语言间推理能耗差距，并指出 tokenizer 设计对能效的关键影响。适用于多语言 LLM 部署、绿色 AI 与推理成本优化场景。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:26.411502+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

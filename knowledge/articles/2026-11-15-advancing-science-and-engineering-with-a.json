@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-15-026",
+  "title": "Advancing science and engineering with Antigravity's /teamwork",
+  "source": "hackernews-top",
+  "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+  "summary": "Antigravity 的 /teamwork 是一个面向科学与工程领域的多智能体协作框架，旨在解决复杂科研与工程任务中单一 LLM 难以完成跨步骤推理与工具调用的问题。其核心技术亮点在于将任务分解为可并行的子任务，由多个 agent 分工协作，并集成 tool-use 能力以调用外部计算与数据资源。该框架适用于科研辅助、工程仿真流程自动化、多步骤数据分析等场景，HN 社区热度较高（176 分），但具体技术细节与开源程度尚需进一步验证。",
+  "tags": [
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:22.522361+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

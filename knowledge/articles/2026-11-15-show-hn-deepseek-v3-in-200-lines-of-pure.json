@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-15-025",
+  "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+  "source": "hackernews-top",
+  "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+  "summary": "该项目用约200行纯Jax代码复现DeepSeek V3的核心推理实现，面向希望深入理解大模型内部机制的工程师。它解决了主流实现依赖庞大框架、难以阅读和修改的问题，通过极简Jax代码展示MoE路由、MLA注意力与RoPE等关键组件。技术亮点在于纯函数式实现、无PyTorch依赖、代码量极小便于教学与实验。适用场景包括LLM架构学习、Jax生态研究及轻量级推理原型验证。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:18.566047+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

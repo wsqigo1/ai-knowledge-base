@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-15-024",
+  "title": "Why get an expensive Pi when I have an old phone?",
+  "source": "hackernews-top",
+  "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+  "summary": "该 HN 热帖讨论将旧智能手机改造为低成本边缘计算节点，替代树莓派等昂贵单板计算机。核心思路是利用旧手机内置的 ARM SoC、电池、传感器和无线模块，通过 Termux、Linux 容器或自定义 ROM 运行服务，解决 DIY 项目硬件成本高、电子废弃物闲置的问题。技术亮点在于复用移动端硬件资源（NPU/GPU 可跑轻量模型）、低功耗常开特性及内置 UPS 级电池。适用场景包括家庭自动化网关、轻量 AI 推理节点、网络存储与个人服务器实验。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "edge-computing",
+    "hardware-reuse"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:16.518593+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

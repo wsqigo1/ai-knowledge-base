@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-15-019",
+  "title": "Lovable apps expose passport details and more than 200K private messages",
+  "source": "hackernews-top",
+  "url": "https://www.crissyfield.de/research/lovable-en/",
+  "summary": "Lovable 平台被曝存在严重数据泄露，暴露用户护照信息及超过20万条私密消息。该事件揭示了 AI 应用在数据存储与访问控制上的安全缺陷，核心问题在于后端权限校验缺失与敏感数据未加密。技术亮点在于攻击面分析：通过未授权 API 端点直接读取用户上传的证件与对话记录。适用于 AI 应用开发者、安全审计人员及关注 LLM 应用隐私风险的工程师，提醒在构建 AI 助手时需强化身份验证与数据隔离。",
+  "tags": [
+    "large-language-model",
+    "ai-assistant",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:03.918819+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}

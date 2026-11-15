@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-15-023",
+  "title": "PyPI's redesigned project pages with clearer security signals are now live",
+  "source": "hackernews-top",
+  "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+  "summary": "PyPI 官方重新设计了项目页面，并已正式上线，重点强化了安全信号的展示。该改版主要解决包管理生态中长期存在的供应链安全透明度不足问题，帮助开发者在使用第三方依赖时更快识别风险。核心技术亮点包括在项目页显著位置呈现安全相关元数据（如可信发布状态、漏洞披露等），并优化了信息层级与视觉呈现，使安全状态一目了然。该更新适用于所有通过 PyPI 获取 Python 包的开发者与团队，尤其对关注依赖安全、CI/CD 供应链审计的工程实践有直接帮助。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-15T03:44:22.345964+00:00",
+  "analyzed_at": "2026-11-15T03:45:14.729278+00:00",
+  "organized_at": "2026-11-15T03:45:41.162489+00:00",
+  "status": "published"
+}
