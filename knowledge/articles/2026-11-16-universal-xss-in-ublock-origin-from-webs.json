@@ -1,0 +1,16 @@
+{
+  "id": "kb-2026-11-16-015",
+  "title": "Universal XSS in uBlock Origin from website-driven element picker",
+  "source": "hackernews-top",
+  "url": "https://iter.ca/post/ubo-uxss/",
+  "summary": "该条目披露 uBlock Origin 浏览器扩展中存在一个通用型 XSS 漏洞（Universal XSS），攻击者可通过网站驱动的元素选择器（element picker）功能注入并执行任意脚本。核心问题在于元素选择器将网页可控内容回显到扩展的高权限 UI 上下文中，未做充分转义与隔离，导致网页脚本可突破扩展沙箱边界。技术亮点是揭示了浏览器扩展特权页面与不可信网页内容交互时的信任边界缺陷，属于典型的 DOM-based 跨上下文注入。适用场景为浏览器扩展安全审计、前端安全研究及广告拦截类工具的威胁建模。",
+  "tags": [
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-16T03:45:07.510941+00:00",
+  "analyzed_at": "2026-11-16T03:45:44.694665+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-16-005",
+  "title": "tiobeharxi1987/blender-ai-copilot-flow",
+  "source": "github-trending",
+  "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+  "summary": "Blender AI Copilot Flow 是一个面向 Blender 的可控 AI 工作流插件，将每次 copilot 编辑转化为受监督的 tool call：提议、审批、按序执行，支持当前步骤后取消并按名称撤销，并内置 MCP server。它解决的是 AI 直接操作 3D 软件时缺乏可控性与可回滚性的问题，核心技术亮点在于审批式工具调用链、可撤销操作命名机制与 MCP 集成，适用于 3D 建模自动化、Blender 插件开发及 agent 工具调用研究场景。",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "workflow-automation",
+    "ai-assistant",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-16T03:45:07.341923+00:00",
+  "analyzed_at": "2026-11-16T03:45:22.714585+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

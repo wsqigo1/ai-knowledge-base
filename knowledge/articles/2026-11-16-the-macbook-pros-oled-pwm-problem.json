@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-16-020",
+  "title": "The MacBook Pro's OLED PWM problem",
+  "source": "hackernews-top",
+  "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+  "summary": "该条目讨论 MacBook Pro 采用 OLED 屏幕后出现的 PWM（脉冲宽度调制）调光问题，即低亮度下屏幕以高频闪烁调节亮度，部分用户因此出现眼疲劳、头痛等不适。文章剖析了 OLED 面板 PWM 调光的硬件原理、与 LCD 的差异，以及苹果在亮度控制策略上的取舍，并探讨了软件层面缓解闪烁的可行性与局限。核心亮点在于将显示硬件参数与人体健康影响关联，提供实测数据与用户反馈。适用场景为关注显示设备健康、笔记本选购及人机交互体验的工程师与消费者。",
+  "tags": [
+    "developer-tools",
+    "benchmark",
+    "multimodal"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-16T03:45:07.510941+00:00",
+  "analyzed_at": "2026-11-16T03:46:00.074467+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

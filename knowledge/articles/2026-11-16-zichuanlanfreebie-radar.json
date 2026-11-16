@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-16-002",
+  "title": "ZiChuanLan/freebie-radar",
+  "source": "github-trending",
+  "url": "https://github.com/ZiChuanLan/freebie-radar",
+  "summary": "freebie-radar 是一个用 TypeScript 实现的白嫖资源聚合雷达，通过 57 个数据源定时采集福利信息，并引入 AI 二审机制过滤虚假福利，同时按获取方式对抽奖、试用、推广类资源进行分级隔离，最终通过 Telegram 即时推送。它解决的是福利信息分散、真假难辨、获取方式混杂导致筛选成本高的问题。核心技术亮点在于多源定时采集调度、LLM 驱动的二次审核过滤以及资源分级隔离策略。适用场景包括个人福利信息订阅、社区福利聚合推送，以及作为多源采集加 AI 过滤的工程参考实现。",
+  "tags": [
+    "open-source",
+    "workflow-automation",
+    "large-language-model",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-16T03:45:07.341923+00:00",
+  "analyzed_at": "2026-11-16T03:45:15.703364+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

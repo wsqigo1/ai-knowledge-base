@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-16-011",
+  "title": "findavoulot1973/Blender-AI-MCP-Suite",
+  "source": "github-trending",
+  "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
+  "summary": "Blender AI MCP Suite 是面向 Blender 的开源 AI 助手与内置 MCP（Model Context Protocol）服务器，将自然语言需求转化为可检查、可审批、可回滚的 3D 场景操作。它解决的是 LLM 直接操控 3D 软件时缺乏安全边界与可追溯性的问题，通过 MCP 工具调用层暴露 21+ 场景工具，并引入多 agent 协作与可视化 Studio 工作区，支持用户自选 AI 模型。核心技术亮点在于 reversible 操作审批机制与 MCP 标准化接口，适用于 3D 建模自动化、场景批量编辑及 AI 辅助内容生产流程。",
+  "tags": [
+    "mcp",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation",
+    "ai-assistant"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-11-16T03:45:07.341923+00:00",
+  "analyzed_at": "2026-11-16T03:45:32.707481+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

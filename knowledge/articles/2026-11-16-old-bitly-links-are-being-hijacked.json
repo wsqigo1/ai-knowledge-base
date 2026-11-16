@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-16-017",
+  "title": "Old Bitly links are being hijacked",
+  "source": "hackernews-top",
+  "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+  "summary": "该条目讨论旧 Bitly 短链接被劫持的安全事件：攻击者通过重新注册已释放的自定义短域名或利用 Bitly 链接管理漏洞，将历史短链重定向至恶意站点。核心问题在于短链接服务的生命周期管理缺陷——链接所有者删除或迁移后，旧链接仍被广泛引用却失去控制权。技术亮点是揭示了 URL 短链的信任链断裂风险，涉及 DNS 重绑定、域名抢注与重定向劫持。适用场景为安全研究、链接治理与内容平台的历史链接审计。",
+  "tags": [
+    "security",
+    "url-shortener",
+    "link-hijacking",
+    "web-security"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-16T03:45:07.510941+00:00",
+  "analyzed_at": "2026-11-16T03:45:48.926286+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

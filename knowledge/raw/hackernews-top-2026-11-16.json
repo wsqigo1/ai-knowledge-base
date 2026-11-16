@@ -1,0 +1,395 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-16T03:45:08.650093+00:00",
+  "date": "2026-11-16",
+  "count": 20,
+  "items": [
+    {
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "source": "hackernews-top",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "hn_url": "https://news.ycombinator.com/item?id=50513160",
+      "description": "",
+      "hn_score": 102,
+      "comments": 15,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目披露 uBlock Origin 浏览器扩展中存在一个通用型 XSS 漏洞（Universal XSS），攻击者可通过网站驱动的元素选择器（element picker）功能注入并执行任意脚本。核心问题在于元素选择器将网页可控内容回显到扩展的高权限 UI 上下文中，未做充分转义与隔离，导致网页脚本可突破扩展沙箱边界。技术亮点是揭示了浏览器扩展特权页面与不可信网页内容交互时的信任边界缺陷，属于典型的 DOM-based 跨上下文注入。适用场景为浏览器扩展安全审计、前端安全研究及广告拦截类工具的威胁建模。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-16T03:45:44.694665+00:00"
+    },
+    {
+      "title": "Qwen4-Max",
+      "source": "hackernews-top",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "hn_url": "https://news.ycombinator.com/item?id=50513215",
+      "description": "",
+      "hn_score": 140,
+      "comments": 26,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "Qwen4-Max 是阿里通义千问系列的最新旗舰大语言模型，在 Hacker News 获得 140 分关注。该模型旨在提升复杂推理、长上下文理解与多语言能力，核心技术亮点包括更大规模的 MoE 架构、增强的 reasoning 能力以及更高效的训练与推理优化。适用场景涵盖企业级 AI 助手、代码生成、多轮对话系统及需要高精度推理的 agent 工作流。作为开源生态的重要补充，它为开发者提供了可替代闭源模型的强基线选择。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "open-source",
+        "code-generation",
+        "ai-assistant"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-16T03:45:46.931531+00:00"
+    },
+    {
+      "title": "Old Bitly links are being hijacked",
+      "source": "hackernews-top",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50511395",
+      "description": "",
+      "hn_score": 205,
+      "comments": 109,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目讨论旧 Bitly 短链接被劫持的安全事件：攻击者通过重新注册已释放的自定义短域名或利用 Bitly 链接管理漏洞，将历史短链重定向至恶意站点。核心问题在于短链接服务的生命周期管理缺陷——链接所有者删除或迁移后，旧链接仍被广泛引用却失去控制权。技术亮点是揭示了 URL 短链的信任链断裂风险，涉及 DNS 重绑定、域名抢注与重定向劫持。适用场景为安全研究、链接治理与内容平台的历史链接审计。",
+      "tags": [
+        "security",
+        "url-shortener",
+        "link-hijacking",
+        "web-security"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-16T03:45:48.926286+00:00"
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "source": "hackernews-top",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "hn_url": "https://news.ycombinator.com/item?id=50512235",
+      "description": "",
+      "hn_score": 108,
+      "comments": 123,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目讨论 Nvidia 在 AI 算力主导地位之后的下一步战略方向，涉及 GPU 架构演进、CUDA 生态护城河、推理市场布局及潜在竞争威胁。核心问题在于：当训练需求增速放缓、定制 ASIC 和开源推理框架崛起时，Nvidia 如何维持增长曲线。技术亮点包括对 Blackwell 后续路线、NVLink 互联、软件栈（TensorRT、NIM）商业化的分析，以及对推理优化和边缘部署趋势的研判。适用场景为 AI 基础设施选型、算力成本规划和技术战略决策参考。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-16T03:45:50.956869+00:00"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "source": "hackernews-top",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "hn_url": "https://news.ycombinator.com/item?id=50512441",
+      "description": "",
+      "hn_score": 61,
+      "comments": 8,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "Tor Project 针对持续 DDoS 攻击发布快速响应 DoS 防御修复，属于网络安全与开源基础设施维护事件。该修复旨在缓解攻击造成的服务不可用问题，核心亮点在于快速迭代的防御策略与对匿名网络可用性的保障。技术深度一般，主要涉及流量识别与限流机制，与 AI/LLM 工程领域匹配度低，但对依赖 Tor 进行数据采集或隐私访问的开发者有间接参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-16T03:45:52.736223+00:00"
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source": "hackernews-top",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "hn_url": "https://news.ycombinator.com/item?id=50509837",
+      "description": "",
+      "hn_score": 207,
+      "comments": 46,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "Protomaps 是一个开源地图瓦片自托管方案，旨在降低地图服务部署成本与复杂度。它解决了传统地图瓦片服务依赖商业供应商、费用高昂且难以自托管的问题。核心技术亮点包括基于 PMTiles 单文件格式存储瓦片，支持静态托管（如 S3、GitHub Pages），无需专用服务器或数据库，并内置高效的空间索引与压缩。适用场景包括个人项目、内部工具、离线地图应用及对成本敏感的地图可视化需求。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-16T03:45:54.511794+00:00"
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "hn_url": "https://news.ycombinator.com/item?id=50509308",
+      "description": "",
+      "hn_score": 192,
+      "comments": 85,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目是一段解释厄尔尼诺（El Niño）现象运作机制的科普视频，源自 Hacker News 热门榜单。它面向普通受众，用可视化方式说明赤道太平洋海温异常升高如何通过大气环流（如沃克环流 Walker circulation）改变全球降水与风暴模式，并解释其对气候预测和极端天气预警的意义。技术亮点在于将海洋-大气耦合这一复杂气候动力学概念压缩为短时长的直观讲解，降低理解门槛。适用场景包括气候科学入门、气象科普传播，以及作为 AI 气候建模与极端天气预测任务的背景知识参考。但内容与 AI/LLM 工程实践无直接关联，对 AI 工程师的实用价值有限。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-16T03:45:56.449510+00:00"
+    },
+    {
+      "title": "Crows make decisions faster than we can",
+      "source": "hackernews-top",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50509023",
+      "description": "",
+      "hn_score": 186,
+      "comments": 139,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目报道了一项关于乌鸦决策速度的认知科学研究，发现乌鸦在感知与决策任务中的反应速度超过人类。研究通过行为实验与神经机制分析，揭示了鸟类大脑在高效信息处理上的独特策略，为理解生物智能的快速决策机制提供了新证据。核心技术亮点在于跨物种认知对比实验设计与神经计算模型，适用于生物启发计算、认知科学及AI决策系统设计等场景。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-16T03:45:58.172439+00:00"
+    },
+    {
+      "title": "The MacBook Pro's OLED PWM problem",
+      "source": "hackernews-top",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "hn_url": "https://news.ycombinator.com/item?id=50506719",
+      "description": "",
+      "hn_score": 433,
+      "comments": 244,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目讨论 MacBook Pro 采用 OLED 屏幕后出现的 PWM（脉冲宽度调制）调光问题，即低亮度下屏幕以高频闪烁调节亮度，部分用户因此出现眼疲劳、头痛等不适。文章剖析了 OLED 面板 PWM 调光的硬件原理、与 LCD 的差异，以及苹果在亮度控制策略上的取舍，并探讨了软件层面缓解闪烁的可行性与局限。核心亮点在于将显示硬件参数与人体健康影响关联，提供实测数据与用户反馈。适用场景为关注显示设备健康、笔记本选购及人机交互体验的工程师与消费者。",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-16T03:46:00.074467+00:00"
+    },
+    {
+      "title": "Handwriting, as a Font",
+      "source": "hackernews-top",
+      "url": "https://ductus.sorenblank.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50509972",
+      "description": "",
+      "hn_score": 164,
+      "comments": 40,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该项目将个人手写笔迹转化为可安装的字体文件，解决了个性化字体制作门槛高、流程繁琐的问题。核心技术亮点在于通过少量手写样本自动提取字形特征并生成完整字符集，可能结合了图像处理与矢量轮廓生成技术。适用场景包括个人品牌设计、创意排版、教育辅助及数字手写风格保留等。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-16T03:46:01.593474+00:00"
+    },
+    {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "source": "hackernews-top",
+      "url": "https://baron.by.dai.studio/",
+      "hn_url": "https://news.ycombinator.com/item?id=50510296",
+      "description": "",
+      "hn_score": 100,
+      "comments": 14,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "这是一个基于 WebGL 的飞行模拟器项目，利用种子生成程序化地形，在浏览器中实现实时 3D 飞行体验。它解决了传统飞行模拟器依赖大型预生成地形资源、部署门槛高的问题，通过 seed 驱动的地形生成算法在客户端动态构建无限地形。核心技术亮点包括 WebGL 渲染管线、程序化地形生成（噪声/分形算法）以及浏览器端实时物理模拟。适用场景为前端图形学学习、游戏原型开发、程序化内容生成演示，对 AI 工程师的直接实用价值有限，但可作为多模态/仿真环境构建的参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-16T03:46:03.811248+00:00"
+    },
+    {
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "hn_url": "https://news.ycombinator.com/item?id=50463399",
+      "description": "",
+      "hn_score": 367,
+      "comments": 185,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该视频展示如何用 Claude Code 和 Codex 两个 AI 编程助手，通过一个约3美元的 Arduino 板对1994年Jeep的ECU进行逆向工程。核心在于利用 LLM 的代码生成与推理能力辅助硬件协议分析、信号解码和脚本编写，降低汽车电子逆向的门槛。亮点是低成本硬件与 AI 辅助调试的结合，适用于汽车电子爱好者、嵌入式逆向工程教学及 AI 辅助硬件开发的探索场景。",
+      "tags": [
+        "code-generation",
+        "reasoning",
+        "developer-tools",
+        "ai-assistant",
+        "open-source"
+      ],
+      "score": 7.3,
+      "analyzed_at": "2026-11-16T03:46:05.263554+00:00"
+    },
+    {
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "source": "hackernews-top",
+      "url": "https://prog21.dadgum.com/116.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50506894",
+      "description": "",
+      "hn_score": 213,
+      "comments": 112,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目是2011年的一篇技术怀旧文章，通过列举现代软件（如Chrome、Windows、JVM等）的体积来对比Turbo Pascal编译器的极小体积，展示早期软件工程在极端资源约束下的高效设计。它不解决具体工程问题，核心亮点在于以直观数据引发对软件膨胀的反思，并致敬Pascal语言与DOS时代的开发环境。适用场景为技术历史科普、软件体积优化讨论及工程师文化分享。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-16T03:46:07.141251+00:00"
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "source": "hackernews-top",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50509411",
+      "description": "",
+      "hn_score": 433,
+      "comments": 191,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该条目报道了Microsoft 365服务中断导致15名酒店客人氯气中毒的事件。事件源于酒店依赖云服务进行泳池化学物质监控，服务中断后系统失效，化学物质失控引发中毒。核心问题在于关键基础设施过度依赖单一云服务，缺乏本地冗余和故障安全机制。技术亮点涉及云服务可靠性、故障转移设计和IoT系统安全。适用场景包括酒店、医院等依赖云服务的设施管理，提醒工程师设计容错系统。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-16T03:46:09.181365+00:00"
+    },
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "source": "hackernews-top",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "hn_url": "https://news.ycombinator.com/item?id=50506376",
+      "description": "",
+      "hn_score": 217,
+      "comments": 27,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该文章系统梳理了现代 LLM 中位置编码（Positional Embeddings）的演进脉络，从绝对位置编码（如正弦编码、可学习编码）到相对位置编码（如 RoPE、ALiBi），重点分析其在长上下文建模中的关键作用。文章解释了位置编码如何解决 Transformer 自注意力机制本身无序性的问题，并对比了不同方案在长度外推、计算效率和训练稳定性上的优劣。技术亮点包括对 RoPE 旋转位置编码的数学直觉拆解及其在主流开源模型（如 LLaMA 系列）中的实现细节。适合需要理解长上下文扩展、模型微调或架构选型的 AI 工程师阅读。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "fine-tuning",
+        "open-source"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-16T03:46:11.107611+00:00"
+    },
+    {
+      "title": "Emacs Is My Browser",
+      "source": "hackernews-top",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "hn_url": "https://news.ycombinator.com/item?id=50507553",
+      "description": "",
+      "hn_score": 187,
+      "comments": 105,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "《Emacs Is My Browser》介绍将 Emacs 作为浏览器使用的实践方案，通过 EWW、xwidgets 或外部浏览器集成，在编辑器内完成网页浏览、链接跳转与内容提取。它解决开发者频繁切换窗口、上下文断裂的问题，核心技术亮点是 Emacs Lisp 驱动的可编程浏览流程与键盘操作统一。适合重度 Emacs 用户、追求纯键盘工作流的开发者，但对 AI 工程师的日常研发直接价值有限。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-16T03:46:12.751291+00:00"
+    },
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "source": "hackernews-top",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "hn_url": "https://news.ycombinator.com/item?id=50508715",
+      "description": "",
+      "hn_score": 111,
+      "comments": 70,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "Clice v1.0 是面向现代 C++ 开发的开源语言服务器/工具链组件，旨在改善 C++ 代码的解析、补全与静态分析体验。它针对传统 C++ 工具在大型代码库中响应慢、配置复杂、对现代 C++ 标准支持不足的问题，提供更快的增量解析与更准确的语义分析。核心技术亮点包括基于现代 C++ 标准构建的索引与诊断机制，以及与编辑器/IDE 的协议集成。适用场景为 C++ 项目的日常开发、代码导航与重构辅助，对 AI 工程师而言更多是底层开发工具而非直接 LLM 能力。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-16T03:46:14.443938+00:00"
+    },
+    {
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "source": "hackernews-top",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "hn_url": "https://news.ycombinator.com/item?id=50510442",
+      "description": "",
+      "hn_score": 134,
+      "comments": 84,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "Vulcan火箭在复飞任务中失败，导致40颗Amazon卫星丢失。该事件涉及航天发射技术与卫星互联网部署，核心问题在于火箭可靠性及发射失败对Amazon Kuiper星座计划的影响。技术亮点包括Vulcan火箭的复飞尝试与失败原因分析，以及卫星损失对低轨互联网服务部署的连锁反应。适用场景为航天工程、卫星通信及项目管理风险评估。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-16T03:46:15.968764+00:00"
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "source": "hackernews-top",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "hn_url": "https://news.ycombinator.com/item?id=50500963",
+      "description": "",
+      "hn_score": 1656,
+      "comments": 1234,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "SpaceX 在 Starship Flight 15 中首次成功用发射塔机械臂（Mechazilla）捕获返回的超重型助推器，标志着可完全复用火箭系统的关键一步。该技术解决的是火箭一级回收依赖着陆腿与海上平台、复用周期长且成本高的问题。核心亮点包括：助推器在热分离后返回发射场，通过栅格舵与发动机再点火精确制导至塔架，由机械臂在半空中夹持捕获，省去着陆腿重量并实现快速周转。适用场景为重型运载、大规模星座部署及深空任务的低成本高频发射体系。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-16T03:46:17.859109+00:00"
+    },
+    {
+      "title": "Agentic AI Designs an Analog Synthesizer",
+      "source": "hackernews-top",
+      "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+      "hn_url": "https://news.ycombinator.com/item?id=50512933",
+      "description": "",
+      "hn_score": 8,
+      "comments": 1,
+      "collected_at": "2026-11-16T03:45:07.510941+00:00",
+      "published_at": "2026-11-16T03:45:07.510941+00:00",
+      "summary": "该项目展示了一个 Agentic AI 系统自主设计模拟合成器的实验，探索 LLM agent 在硬件电路设计领域的应用边界。它解决的核心问题是：通用 AI agent 能否在缺乏领域专用训练的情况下完成复杂的模拟电路设计任务。技术亮点在于将 agent 的推理与工具调用能力延伸到电子工程领域，可能涉及电路拓扑生成、元件选型与参数优化等环节。适用场景包括 AI 辅助硬件设计、agent 能力边界研究以及跨领域自动化设计流程的探索。",
+      "tags": [
+        "agent",
+        "reasoning",
+        "tool-use",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-16T03:46:19.615206+00:00"
+    }
+  ]
+}

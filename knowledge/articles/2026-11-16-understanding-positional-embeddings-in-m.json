@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-16-023",
+  "title": "Understanding Positional Embeddings in Modern LLMs",
+  "source": "hackernews-top",
+  "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+  "summary": "该文章系统梳理了现代 LLM 中位置编码（Positional Embeddings）的演进脉络，从绝对位置编码（如正弦编码、可学习编码）到相对位置编码（如 RoPE、ALiBi），重点分析其在长上下文建模中的关键作用。文章解释了位置编码如何解决 Transformer 自注意力机制本身无序性的问题，并对比了不同方案在长度外推、计算效率和训练稳定性上的优劣。技术亮点包括对 RoPE 旋转位置编码的数学直觉拆解及其在主流开源模型（如 LLaMA 系列）中的实现细节。适合需要理解长上下文扩展、模型微调或架构选型的 AI 工程师阅读。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "fine-tuning",
+    "open-source"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-16T03:45:07.510941+00:00",
+  "analyzed_at": "2026-11-16T03:46:11.107611+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-16-004",
+  "title": "racdeufindurch198812/Blender-AI-MCP-Studio",
+  "source": "github-trending",
+  "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+  "summary": "Blender AI MCP Studio 是一个面向 Blender 的 AI 助手与内置 MCP server 插件，将自然语言需求转化为可检查、可审批、可回滚的 3D 场景操作。它解决的是 LLM 直接操作 3D 软件时缺乏可控性与可逆性的问题，通过 MCP 协议把场景编辑封装为结构化工具调用，并引入人工审批与撤销机制。核心亮点包括可视化聊天工作区、multi-agent 协作、多模型可选以及 reversible 操作链。适用于 3D 建模自动化、场景快速原型和 Blender 工作流增强。",
+  "tags": [
+    "mcp",
+    "multi-agent",
+    "ai-assistant",
+    "workflow-automation",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-16T03:45:07.341923+00:00",
+  "analyzed_at": "2026-11-16T03:45:20.935748+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-16-012",
+  "title": "benzgasfuncring197110/blender-ai-copilot-bridge",
+  "source": "github-trending",
+  "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
+  "summary": "该项目是一个面向 Blender 的 MCP bridge，将 27 个受监督的场景操作工具通过本地认证的 Streamable HTTP 端点暴露给 OpenCode 及任意兼容 MCP 的客户端，并内置可视化聊天工作室与 agent teams。它解决的是 LLM/agent 难以安全、结构化地操控 Blender 场景的问题，核心亮点在于 MCP 协议标准化工具暴露、本地端点鉴权与多 agent 协作编排。适用于 3D 建模自动化、Blender 脚本生成与 AI 辅助场景编辑等场景。",
+  "tags": [
+    "mcp",
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-16T03:45:07.341923+00:00",
+  "analyzed_at": "2026-11-16T03:45:34.191040+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}

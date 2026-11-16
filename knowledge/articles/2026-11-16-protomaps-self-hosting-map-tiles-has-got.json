@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-16-019",
+  "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+  "source": "hackernews-top",
+  "url": "https://bruceroettgers.eu/blog/protomaps/",
+  "summary": "Protomaps 是一个开源地图瓦片自托管方案，旨在降低地图服务部署成本与复杂度。它解决了传统地图瓦片服务依赖商业供应商、费用高昂且难以自托管的问题。核心技术亮点包括基于 PMTiles 单文件格式存储瓦片，支持静态托管（如 S3、GitHub Pages），无需专用服务器或数据库，并内置高效的空间索引与压缩。适用场景包括个人项目、内部工具、离线地图应用及对成本敏感的地图可视化需求。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-16T03:45:07.510941+00:00",
+  "analyzed_at": "2026-11-16T03:45:54.511794+00:00",
+  "organized_at": "2026-11-16T03:46:19.670958+00:00",
+  "status": "published"
+}
