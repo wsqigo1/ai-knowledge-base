@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-17-002",
+  "title": "wisemeadowlarkspike/Gemini-Config-Checker-",
+  "source": "github-trending",
+  "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+  "summary": "Gemini-Config-Checker 是一个用 Go 编写的链式区域扫描工具，用于探测可访问 Google AI Studio 与 Gemini 的代理配置。它通过模拟已登录浏览器检查、反 DPI 探测等手段，帮助用户定位能绕过区域限制的代理链路，覆盖 Windows、macOS、Linux 与 Android 平台。核心技术亮点在于将浏览器指纹校验与代理链路扫描结合，以 CLI 形式输出可用配置。适用于需要稳定访问 Gemini 服务的开发者与 AI 工程师，尤其在受限网络环境下进行代理选型与连通性验证。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "tool-use",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-17T05:39:53.886940+00:00",
+  "analyzed_at": "2026-11-17T05:40:31.091198+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}

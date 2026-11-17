@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-17-013",
+  "title": "Tokendoctor – the same Claude Code for up to 38% less",
+  "source": "hackernews-top",
+  "url": "https://github.com/localixai/tokendoctor",
+  "summary": "Tokendoctor 是一个针对 Claude Code 的 token 优化工具，声称在保持相同功能的前提下将使用成本降低最多 38%。它解决的是开发者使用 Claude Code 进行 AI 辅助编程时 token 消耗过高、费用昂贵的问题。核心技术亮点在于对 Claude Code 的请求进行 token 层面的压缩或优化，可能涉及 prompt 精简、上下文裁剪或缓存策略，从而减少计费 token 数量。适用场景为日常使用 Claude Code 进行代码生成、调试和重构的开发者，尤其适合高频调用、对成本敏感的团队和个人。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "prompt-engineering",
+    "ai-assistant"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-17T05:39:54.079357+00:00",
+  "analyzed_at": "2026-11-17T05:41:08.146910+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}

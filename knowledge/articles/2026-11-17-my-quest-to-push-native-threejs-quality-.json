@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-17-012",
+  "title": "My Quest to push native Three.js quality match AAA Game Engines",
+  "source": "hackernews-top",
+  "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+  "summary": "该项目是开发者分享的将 Three.js 原生渲染质量推向 AAA 游戏引擎水准的技术探索。针对 Web 端 Three.js 在光照、材质、后处理等方面与商业引擎存在明显差距的问题，作者通过自定义 shader、PBR 材质管线优化、高级阴影与全局光照近似、后处理链等手段提升画面表现。核心技术亮点在于在浏览器原生 WebGL 环境下逼近主机级视觉质量，并保持 Three.js 的轻量与易用性。适用于 Web 3D 展示、游戏原型、数字孪生及交互式可视化等对画质有较高要求的场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "multimodal"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-17T05:39:54.079357+00:00",
+  "analyzed_at": "2026-11-17T05:41:01.182321+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}

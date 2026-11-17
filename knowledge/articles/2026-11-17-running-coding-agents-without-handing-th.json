@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-17-006",
+  "title": "Running coding agents without handing them my credentials",
+  "source": "hackernews-top",
+  "url": "https://blog.antonio.cx/running-agents-with-lend",
+  "summary": "该文探讨在运行 coding agent 时如何避免将个人凭证（API key、SSH 密钥、云账号 token 等）直接暴露给 agent，属于 agent 安全与权限隔离实践。核心思路是通过沙箱、代理转发、短期凭证或最小权限容器等方式，让 agent 在受限环境中执行代码生成与工具调用，而非持有真实长期密钥。亮点在于把凭证管理与 agent 执行链路解耦，降低 prompt injection 或恶意工具调用导致的泄露风险。适用于使用 Claude Code、Cursor 类 coding agent 或自建 multi-agent 工作流的开发者与团队。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "tool-use",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-17T05:39:54.079357+00:00",
+  "analyzed_at": "2026-11-17T05:40:42.268823+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}

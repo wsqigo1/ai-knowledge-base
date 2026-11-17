@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-17-010",
+  "title": "Spamhaus new email sender requirements in November",
+  "source": "hackernews-top",
+  "url": "https://www.spamhaus.org/sender-guidelines/",
+  "summary": "Spamhaus 宣布自 2025 年 11 月起实施新的邮件发送者要求，旨在遏制垃圾邮件与钓鱼攻击。新规对发件人的身份验证、退信处理、投诉率阈值及 DNS 配置提出更严格标准，核心技术亮点在于强化 SPF、DKIM、DMARC 的合规校验与实时信誉评估机制。该要求适用于所有批量邮件发送方，包括企业邮件系统、营销平台及自建 SMTP 服务，AI 工程师在构建通知、告警或用户触达类系统时需关注其合规影响。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-17T05:39:54.079357+00:00",
+  "analyzed_at": "2026-11-17T05:40:54.046293+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}

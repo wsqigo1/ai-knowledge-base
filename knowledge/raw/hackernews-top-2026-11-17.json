@@ -1,0 +1,395 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-17T05:39:55.724315+00:00",
+  "date": "2026-11-17",
+  "count": 20,
+  "items": [
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "source": "hackernews-top",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "hn_url": "https://news.ycombinator.com/item?id=50522980",
+      "description": "",
+      "hn_score": 1068,
+      "comments": 159,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "卡内基梅隆大学（CMU）将其计算机科学课程免费发布到 YouTube，涵盖算法、机器学习、计算机系统等核心主题。该举措解决了高质量 CS 教育资源获取门槛高、费用昂贵的问题，使全球学习者可零成本接触顶尖大学课程。技术亮点在于系统化课程体系与公开视频平台的结合，内容包含理论讲解与编程实践。适用场景包括自学计算机科学基础、AI 工程师补强底层知识、以及高校教学参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-17T05:40:32.748241+00:00"
+    },
+    {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "source": "hackernews-top",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "hn_url": "https://news.ycombinator.com/item?id=50524736",
+      "description": "",
+      "hn_score": 410,
+      "comments": 263,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目揭示 Windows 11 正在收集用户使用哪些 coding agents 和 developer tools 的数据，属于隐私与遥测议题而非技术发布。它暴露了操作系统层面的开发者工具使用监控问题，核心在于 Windows 遥测机制对 IDE、AI coding agent 等工具使用情况的采集范围与透明度。技术亮点有限，主要价值在于提醒 AI 工程师关注本地开发环境的隐私边界与合规风险，适用于企业 IT 管理、开发者隐私评估及 AI 工具选型时的安全审查场景。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-17T05:40:34.589161+00:00"
+    },
+    {
+      "title": "BugMeNot has closed",
+      "source": "hackernews-top",
+      "url": "https://www.bugmenot.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50523601",
+      "description": "",
+      "hn_score": 424,
+      "comments": 205,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "BugMeNot 是一个曾用于绕过网站强制注册的共享账号服务，用户可查询他人提交的临时登录凭据以访问需注册的内容。该服务现已关闭，HN 讨论主要围绕其历史作用、隐私与伦理争议，以及此类工具在当今身份验证生态中的消亡原因。技术层面无新架构或算法贡献，核心价值在于对开放网络访问与账号共享模式的回顾性讨论。对 AI 工程师而言，该条目与 LLM、RAG、agent 等方向无直接技术关联，仅可作为互联网访问控制演变与数据共享伦理的背景参考，实用价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-17T05:40:36.854073+00:00"
+    },
+    {
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "source": "hackernews-top",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "hn_url": "https://news.ycombinator.com/item?id=50524767",
+      "description": "",
+      "hn_score": 221,
+      "comments": 97,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "Optimizely 的第三方脚本被入侵，导致其在 Zoom、GitLab 等网站加载时向访客投放恶意软件。该事件暴露了第三方依赖供应链的严重风险：攻击者通过篡改 CDN 上的 JS 文件，使受信任站点成为恶意代码分发渠道。核心技术点在于供应链攻击路径与第三方脚本的信任边界问题，涉及前端安全与依赖审计。适用于 Web 安全工程师、DevOps 及依赖第三方脚本的站点运营方进行风险排查与防御参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-17T05:40:38.666651+00:00"
+    },
+    {
+      "title": "OpenCode Browse",
+      "source": "hackernews-top",
+      "url": "https://opencode.ai/product/browse",
+      "hn_url": "https://news.ycombinator.com/item?id=50523459",
+      "description": "",
+      "hn_score": 186,
+      "comments": 81,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "OpenCode Browse 是一个面向代码场景的开源浏览与检索工具，旨在解决开发者在大型代码库中快速定位、理解与复用代码片段的问题。其核心技术亮点在于结合代码语义索引与 LLM 辅助的上下文检索，支持对开源仓库进行结构化浏览与智能查询，降低人工翻找成本。适用场景包括代码调研、依赖分析、开源项目学习以及 AI 编程助手的上下文增强，对需要高效代码检索的工程师与 agent 工作流具有实用价值。",
+      "tags": [
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-17T05:40:40.350881+00:00"
+    },
+    {
+      "title": "Running coding agents without handing them my credentials",
+      "source": "hackernews-top",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "hn_url": "https://news.ycombinator.com/item?id=50526152",
+      "description": "",
+      "hn_score": 77,
+      "comments": 37,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该文探讨在运行 coding agent 时如何避免将个人凭证（API key、SSH 密钥、云账号 token 等）直接暴露给 agent，属于 agent 安全与权限隔离实践。核心思路是通过沙箱、代理转发、短期凭证或最小权限容器等方式，让 agent 在受限环境中执行代码生成与工具调用，而非持有真实长期密钥。亮点在于把凭证管理与 agent 执行链路解耦，降低 prompt injection 或恶意工具调用导致的泄露风险。适用于使用 Claude Code、Cursor 类 coding agent 或自建 multi-agent 工作流的开发者与团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "tool-use",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-17T05:40:42.268823+00:00"
+    },
+    {
+      "title": "Chemistry is Actually Geometry",
+      "source": "hackernews-top",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "hn_url": "https://news.ycombinator.com/item?id=50522643",
+      "description": "",
+      "hn_score": 175,
+      "comments": 86,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目探讨化学现象本质上可由几何结构解释，主张分子行为与反应规律源于空间构型而非单纯代数规则。它针对传统化学教育中过度依赖记忆与经验公式的问题，提出以几何直觉统一理解化学。核心技术亮点在于将化学键、分子轨道等概念映射为几何变换与对称性分析，可能涉及计算几何或拓扑方法。适用场景包括化学教学、分子模拟及跨学科AI for Science研究，对AI工程师理解几何深度学习在科学领域的应用有启发。",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-17T05:40:43.969518+00:00"
+    },
+    {
+      "title": "Frame – 31.5\" color ePaper display",
+      "source": "hackernews-top",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "hn_url": "https://news.ycombinator.com/item?id=50519354",
+      "description": "",
+      "hn_score": 357,
+      "comments": 246,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "Frame 是一款 31.5 英寸彩色电子纸（ePaper）显示器，面向需要长时间阅读或展示静态内容的场景。它解决的是传统 LCD/OLED 屏幕在护眼、功耗和户外可读性上的不足，通过大尺寸彩色电子纸实现低功耗、无背光、类纸显示。核心技术亮点在于 31.5 英寸彩色电子纸面板的驱动与色彩管理，以及可能配套的刷新策略与接口方案。适用场景包括数字标牌、办公信息屏、阅读终端和低功耗展示设备，对 AI 工程师而言更多是硬件外设与显示交互的参考，而非直接模型技术。",
+      "tags": [
+        "developer-tools",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-17T05:40:46.032120+00:00"
+    },
+    {
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "source": "hackernews-top",
+      "url": "https://burntsushi.net/jiff/",
+      "hn_url": "https://news.ycombinator.com/item?id=50519744",
+      "description": "",
+      "hn_score": 349,
+      "comments": 79,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "Jiff 是 Rust 生态中新兴的 datetime 库，1.0 版本发布标志着 API 稳定。它旨在解决 Rust 标准库时间处理能力薄弱、现有库（如 chrono、time）在时区、夏令时和格式化方面易错的问题。核心技术亮点包括：基于 Temporal 提案的现代设计、默认使用 IANA 时区数据库、类型安全的时间运算、支持 RFC 3339 和 ISO 8601 等格式，并强调正确性和性能。适用场景为需要可靠时间处理的 Rust 后端服务、CLI 工具和系统编程项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "rust",
+        "datetime",
+        "library"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-17T05:40:47.977339+00:00"
+    },
+    {
+      "title": "Grazing sheep in fields with solar arrays",
+      "source": "hackernews-top",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "hn_url": "https://news.ycombinator.com/item?id=50520182",
+      "description": "",
+      "hn_score": 248,
+      "comments": 241,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目讨论在太阳能阵列场地放牧羊群的农光互补实践，属于可再生能源与农业结合的交叉话题，而非 AI/LLM 技术内容。核心在于利用羊群控制光伏板下植被，降低除草运维成本，同时提升土地复合利用率，涉及光伏电站运维、畜牧管理与土地利用规划。技术亮点有限，主要是运维模式创新而非算法或工程突破。适用场景为大型地面光伏电站的生态化运维与土地资源优化，对 AI 工程师的直接技术参考价值较低。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-17T05:40:49.956137+00:00"
+    },
+    {
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "source": "hackernews-top",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "hn_url": "https://news.ycombinator.com/item?id=50523025",
+      "description": "",
+      "hn_score": 100,
+      "comments": 79,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目报道 Comcast 宣称的“fiber-powered Wi-Fi”实为有线电缆技术，AT&T 就此提起虚假广告诉讼。核心争议在于营销术语与技术实质的偏差：Comcast 将基于同轴电缆的宽带服务包装为光纤驱动，AT&T 认为构成误导性宣传。技术亮点在于揭示了宽带接入网中光纤与同轴混合架构（HFC）的命名边界问题，涉及网络基础设施的透明披露。适用场景为电信行业合规、广告真实性审查及网络技术传播规范讨论。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-17T05:40:51.842551+00:00"
+    },
+    {
+      "title": "Spamhaus new email sender requirements in November",
+      "source": "hackernews-top",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "hn_url": "https://news.ycombinator.com/item?id=50523784",
+      "description": "",
+      "hn_score": 87,
+      "comments": 79,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "Spamhaus 宣布自 2025 年 11 月起实施新的邮件发送者要求，旨在遏制垃圾邮件与钓鱼攻击。新规对发件人的身份验证、退信处理、投诉率阈值及 DNS 配置提出更严格标准，核心技术亮点在于强化 SPF、DKIM、DMARC 的合规校验与实时信誉评估机制。该要求适用于所有批量邮件发送方，包括企业邮件系统、营销平台及自建 SMTP 服务，AI 工程师在构建通知、告警或用户触达类系统时需关注其合规影响。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-17T05:40:54.046293+00:00"
+    },
+    {
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "source": "hackernews-top",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "hn_url": "https://news.ycombinator.com/item?id=50521045",
+      "description": "",
+      "hn_score": 742,
+      "comments": 623,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目报道的是 JPMorgan Chase 发生技术故障，导致美国多家银行的在线银行服务出现延迟。事件本身并非 AI/LLM 技术项目或研究文章，而是金融基础设施层面的运维事故，核心信息在于大型金融机构对集中式技术栈的依赖及其故障传导效应。技术亮点缺失，适用场景仅限于金融系统可靠性、运维监控与灾备设计等讨论。对 AI 工程师而言，直接技术参考价值有限，但可作为系统韧性、故障隔离与第三方依赖风险的反面案例。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-17T05:40:55.872716+00:00"
+    },
+    {
+      "title": "Squircles",
+      "source": "hackernews-top",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "hn_url": "https://news.ycombinator.com/item?id=50515151",
+      "description": "",
+      "hn_score": 159,
+      "comments": 45,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "Squircles 指超椭圆（superellipse）曲线，即介于正方形与圆形之间的圆角形状，常见于 iOS 图标、UI 设计与图形渲染。该项目/文章解决的是传统圆角矩形（rounded rectangle）在视觉与数学上不够平滑、难以参数化控制的问题，提供基于超椭圆公式的精确几何构造与渲染方法。核心技术亮点在于用单一指数参数统一描述从方形到圆形的连续过渡，并给出可落地的绘制/裁剪算法。适用场景包括 UI 设计系统、图标生成、图形库与前端渲染。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "multimodal"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-17T05:40:57.740704+00:00"
+    },
+    {
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "source": "hackernews-top",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "hn_url": "https://news.ycombinator.com/item?id=50517321",
+      "description": "",
+      "hn_score": 263,
+      "comments": 190,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "微软披露一起大规模邮件服务中断事件，根因是7月修复补丁中引入的软件缺陷。该缺陷在后续部署中触发级联故障，导致Exchange Online等邮件服务大面积不可用。核心技术问题在于补丁回归测试覆盖不足与灰度发布机制失效，暴露了大型分布式系统变更管理的脆弱性。事件对SRE和平台工程团队有直接参考价值，适用于云服务可靠性治理、故障复盘与发布流程改进场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-17T05:40:59.345651+00:00"
+    },
+    {
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "source": "hackernews-top",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "hn_url": "https://news.ycombinator.com/item?id=50523291",
+      "description": "",
+      "hn_score": 119,
+      "comments": 46,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该项目是开发者分享的将 Three.js 原生渲染质量推向 AAA 游戏引擎水准的技术探索。针对 Web 端 Three.js 在光照、材质、后处理等方面与商业引擎存在明显差距的问题，作者通过自定义 shader、PBR 材质管线优化、高级阴影与全局光照近似、后处理链等手段提升画面表现。核心技术亮点在于在浏览器原生 WebGL 环境下逼近主机级视觉质量，并保持 Three.js 的轻量与易用性。适用于 Web 3D 展示、游戏原型、数字孪生及交互式可视化等对画质有较高要求的场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-17T05:41:01.182321+00:00"
+    },
+    {
+      "title": "Rust changed me as a developer",
+      "source": "hackernews-top",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "hn_url": "https://news.ycombinator.com/item?id=50522563",
+      "description": "",
+      "hn_score": 230,
+      "comments": 143,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "这是一篇个人经验分享文章，作者讲述学习 Rust 如何改变其作为开发者的思维方式与工程习惯。文章并非介绍具体工具或框架，而是聚焦 Rust 的所有权、借用检查、错误处理与类型系统等语言特性如何促使开发者更严谨地思考内存安全、并发与边界条件，进而提升代码质量与系统设计能力。核心亮点在于从语言机制出发的工程思维迁移，而非可复用的技术方案。适用场景主要是开发者技术成长、语言选型讨论与团队工程文化参考，对 AI 工程师的直接技术落地价值有限。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-17T05:41:03.046781+00:00"
+    },
+    {
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "source": "hackernews-top",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "hn_url": "https://news.ycombinator.com/item?id=50524165",
+      "description": "",
+      "hn_score": 222,
+      "comments": 111,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目报道的是 United Airlines 发生大规模系统故障的新闻，而非技术文章或开源项目。内容本身不涉及 AI/LLM 技术方案、架构设计或工程实践，对 AI 工程师的技术参考价值有限。其核心信息是航空运营系统宕机事件，可能引发对高可用系统、故障恢复和运维韧性的讨论，但条目未提供任何技术细节或复盘分析。适用场景主要是关注基础设施可靠性、SRE 和系统容灾的工程师作为行业事件参考，而非可直接落地的技术学习材料。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-17T05:41:04.805632+00:00"
+    },
+    {
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "source": "hackernews-top",
+      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+      "hn_url": "https://news.ycombinator.com/item?id=50525658",
+      "description": "",
+      "hn_score": 89,
+      "comments": 30,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "该条目报道美国国防部连续第九次未能通过年度财务审计，尽管在财务组织与数据整合方面取得一定进展。核心问题在于大规模机构的财务数据分散、系统互操作性差、资产追踪困难，导致无法形成可审计的合并财务报表。技术层面涉及政府财务管理系统现代化、数据治理与ERP集成，但条目本身不涉及AI/LLM技术。适用场景为公共部门财务合规与审计信息化讨论，对AI工程师的直接技术参考价值有限。",
+      "tags": [
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-17T05:41:06.351383+00:00"
+    },
+    {
+      "title": "Tokendoctor – the same Claude Code for up to 38% less",
+      "source": "hackernews-top",
+      "url": "https://github.com/localixai/tokendoctor",
+      "hn_url": "https://news.ycombinator.com/item?id=50526584",
+      "description": "",
+      "hn_score": 7,
+      "comments": 0,
+      "collected_at": "2026-11-17T05:39:54.079357+00:00",
+      "published_at": "2026-11-17T05:39:54.079357+00:00",
+      "summary": "Tokendoctor 是一个针对 Claude Code 的 token 优化工具，声称在保持相同功能的前提下将使用成本降低最多 38%。它解决的是开发者使用 Claude Code 进行 AI 辅助编程时 token 消耗过高、费用昂贵的问题。核心技术亮点在于对 Claude Code 的请求进行 token 层面的压缩或优化，可能涉及 prompt 精简、上下文裁剪或缓存策略，从而减少计费 token 数量。适用场景为日常使用 Claude Code 进行代码生成、调试和重构的开发者，尤其适合高频调用、对成本敏感的团队和个人。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "prompt-engineering",
+        "ai-assistant"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-17T05:41:08.146910+00:00"
+    }
+  ]
+}

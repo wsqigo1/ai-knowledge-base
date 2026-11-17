@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-17-011",
+  "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+  "source": "hackernews-top",
+  "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+  "summary": "微软披露一起大规模邮件服务中断事件，根因是7月修复补丁中引入的软件缺陷。该缺陷在后续部署中触发级联故障，导致Exchange Online等邮件服务大面积不可用。核心技术问题在于补丁回归测试覆盖不足与灰度发布机制失效，暴露了大型分布式系统变更管理的脆弱性。事件对SRE和平台工程团队有直接参考价值，适用于云服务可靠性治理、故障复盘与发布流程改进场景。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-17T05:39:54.079357+00:00",
+  "analyzed_at": "2026-11-17T05:40:59.345651+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}

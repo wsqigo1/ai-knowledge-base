@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-17-009",
+  "title": "Jiff 1.0: A datetime library for Rust",
+  "source": "hackernews-top",
+  "url": "https://burntsushi.net/jiff/",
+  "summary": "Jiff 是 Rust 生态中新兴的 datetime 库，1.0 版本发布标志着 API 稳定。它旨在解决 Rust 标准库时间处理能力薄弱、现有库（如 chrono、time）在时区、夏令时和格式化方面易错的问题。核心技术亮点包括：基于 Temporal 提案的现代设计、默认使用 IANA 时区数据库、类型安全的时间运算、支持 RFC 3339 和 ISO 8601 等格式，并强调正确性和性能。适用场景为需要可靠时间处理的 Rust 后端服务、CLI 工具和系统编程项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "rust",
+    "datetime",
+    "library"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-17T05:39:54.079357+00:00",
+  "analyzed_at": "2026-11-17T05:40:47.977339+00:00",
+  "organized_at": "2026-11-17T05:41:08.201296+00:00",
+  "status": "published"
+}
