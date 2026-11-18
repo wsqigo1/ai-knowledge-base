@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-18-012",
+  "title": "jQuery 4.1.0",
+  "source": "hackernews-top",
+  "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+  "summary": "jQuery 4.1.0 是经典 JavaScript 库 jQuery 的最新稳定版本发布。该版本主要解决长期积累的兼容性与现代化问题，包括移除对已废弃 API 的支持、改进 ES 模块导入方式、优化事件处理与 Ajax 内部实现，并提升与现代浏览器及构建工具的兼容性。核心技术亮点在于精简代码体积、增强模块化支持，同时保持向后兼容的过渡策略。适用场景为仍在使用 jQuery 的存量 Web 项目升级维护，以及需要轻量级 DOM 操作与 Ajax 封装的传统前端开发。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:40.008972+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

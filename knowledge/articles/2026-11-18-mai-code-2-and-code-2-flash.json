@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-18-013",
+  "title": "MAI Code 2 and Code 2 Flash",
+  "source": "hackernews-top",
+  "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+  "summary": "MAI Code 2 与 Code 2 Flash 是面向代码生成场景的大语言模型系列，Code 2 Flash 为低延迟轻量版本。该系列针对代码补全、仓库级理解与多语言编程任务优化，解决通用 LLM 在长上下文代码推理和实时 IDE 集成中准确率与响应速度不足的问题。核心技术亮点包括代码专用训练数据配比、Flash 变体的推理加速与成本控制，以及面向 agentic coding 的工具调用能力。适用场景为 IDE 智能补全、CI 代码审查、自动化重构与开发者工具链集成。",
+  "tags": [
+    "code-generation",
+    "large-language-model",
+    "developer-tools",
+    "benchmark",
+    "agent"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:43.053168+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

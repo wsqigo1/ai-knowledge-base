@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-18-003",
+  "title": "sybil-solutions/inference-optimisation-skill",
+  "source": "github-trending",
+  "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+  "summary": "该项目是一个面向 Claude Code 等 agent 环境的 skill，用于在任意硬件和量化配置下对本地 LLM 推理服务进行爬山式性能调优。它针对 decode、speculative decoding、prefill、KV cache、启动时间和 TTFT 等关键环节，通过自动化基准测试与参数搜索帮助工程师找到更优的 serving 配置。核心亮点在于将推理优化流程封装为可复用的 agent skill，降低手工调参成本，适合本地部署 LLM、追求低延迟高吞吐的工程团队使用。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "agent",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 7.4,
+  "collected_at": "2026-11-18T05:03:34.170515+00:00",
+  "analyzed_at": "2026-11-18T05:03:46.958384+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

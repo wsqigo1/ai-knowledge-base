@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-18-004",
+  "title": "huggingface/pybot",
+  "source": "github-trending",
+  "url": "https://github.com/huggingface/pybot",
+  "summary": "PyBot 是一个用纯 Python 编写的规则驱动聊天机器人，由一组 agent 协作实现对话逻辑，不依赖任何模型权重或训练过程。它解决的是在无 GPU、无训练数据、低资源环境下快速搭建可控对话系统的需求。核心技术亮点在于多 agent 分工与纯规则引擎的结合，所有行为可解释、可调试，避免了 LLM 的黑盒与幻觉问题。适用场景包括教学演示、嵌入式或离线环境的轻量对话交互、以及作为 agent 协作架构的参考实现。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-18T05:03:34.170515+00:00",
+  "analyzed_at": "2026-11-18T05:03:50.282672+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

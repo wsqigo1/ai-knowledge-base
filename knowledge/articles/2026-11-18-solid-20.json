@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-18-016",
+  "title": "Solid 2.0",
+  "source": "hackernews-top",
+  "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+  "summary": "Solid 2.0 是 Solid 框架的一次重大版本升级，Solid 是一个用于构建用户界面的声明式 JavaScript 库，以细粒度响应式系统著称。它解决了传统虚拟 DOM 框架在更新性能上的瓶颈，通过编译时优化和细粒度响应式原语（如 Signal）实现精准的 DOM 更新。核心技术亮点包括：更高效的响应式追踪机制、改进的 SSR 支持、以及更完善的 TypeScript 类型推断。适用场景为对性能敏感的前端应用、交互密集型 Web 界面以及需要轻量级响应式状态管理的项目。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:52.834618+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

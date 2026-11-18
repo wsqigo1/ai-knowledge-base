@@ -1,0 +1,397 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-18T05:03:35.122713+00:00",
+  "date": "2026-11-18",
+  "count": 20,
+  "items": [
+    {
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "source": "hackernews-top",
+      "url": "https://calif.io/java4shell/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538240",
+      "description": "",
+      "hn_score": 667,
+      "comments": 184,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "Java4Shell 披露了 OpenJDK 在处理 Base64 编码数据时存在的远程代码执行（RCE）漏洞，属于高危安全缺陷。该问题源于 Base64 解码路径中的边界处理缺陷，攻击者可构造恶意输入触发任意代码执行。核心技术亮点在于揭示了标准库层面对编码数据校验的缺失，影响面覆盖广泛 Java 运行时。适用于使用 OpenJDK 的服务器端应用、中间件及云原生环境的安全评估与补丁升级场景。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-18T05:04:20.524831+00:00"
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "source": "hackernews-top",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50540178",
+      "description": "",
+      "hn_score": 208,
+      "comments": 140,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目讨论 Google 的 AI 搜索摘要（AI Overviews）导致搜索流量下降约 40% 的现象，核心问题是生成式 AI 直接回答用户查询，减少了用户点击进入网站的需求。技术亮点在于 LLM 驱动的答案生成与搜索结果的融合，改变了传统搜索的流量分发模式。对 AI 工程师而言，这反映了 RAG 与 LLM 在搜索场景的落地影响，涉及内容生态、SEO 策略及 AI 产品设计权衡。适用场景包括搜索产品设计、内容平台流量分析及 AI 助手集成。",
+      "tags": [
+        "large-language-model",
+        "rag",
+        "ai-assistant",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-18T05:04:23.337160+00:00"
+    },
+    {
+      "title": "ID.me terms required for IRS sign-in",
+      "source": "hackernews-top",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "hn_url": "https://news.ycombinator.com/item?id=50540437",
+      "description": "",
+      "hn_score": 216,
+      "comments": 98,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目讨论美国国税局（IRS）要求用户通过ID.me进行身份验证才能登录其在线服务，引发隐私与数字身份认证的争议。核心问题在于政府服务强制使用第三方生物识别身份平台，涉及数据安全、用户隐私和替代方案缺失。技术亮点在于身份验证流程的集中化与生物识别技术的应用，但缺乏开源或去中心化身份方案。适用场景为政府数字化服务、身份认证系统设计及隐私合规讨论。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-18T05:04:24.968690+00:00"
+    },
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "hn_url": "https://news.ycombinator.com/item?id=50535230",
+      "description": "",
+      "hn_score": 1173,
+      "comments": 738,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目标题指向一个名为 GPT‑6.2 Astra and Sol 的模型或技术发布，但描述为空，仅凭标题与 HN 热度无法确认其真实内容。从命名看，可能涉及新一代 large-language-model 的能力升级，或面向 reasoning、agent 场景的模型变体。若属实，其潜在价值在于提升复杂推理与多步任务执行表现，可能适用于 agent 构建、tool-use 集成与开发者工具链。但缺乏技术细节、论文或代码链接，无法评估其架构创新、benchmark 表现与可复现性，当前信息不足以支撑深入判断。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "agent",
+        "benchmark"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-11-18T05:04:26.811833+00:00"
+    },
+    {
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "source": "hackernews-top",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538994",
+      "description": "",
+      "hn_score": 384,
+      "comments": 121,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "Quad9 是一家提供公共 DNS 解析与恶意域名过滤的非营利服务，因法国法院要求其屏蔽特定盗版网站域名而选择退出法国市场。该事件解决的是隐私与言论自由倡导者对 DNS 层强制过滤合法性的担忧，核心争议在于 DNS 解析商是否应承担版权执法义务。技术亮点在于 Quad9 的威胁情报驱动过滤架构与 DNSSEC 验证能力，以及其拒绝实施域名封锁的立场。适用场景包括网络隐私研究、DNS 安全策略讨论及互联网治理政策分析。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-18T05:04:29.048228+00:00"
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "source": "hackernews-top",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "hn_url": "https://news.ycombinator.com/item?id=50539610",
+      "description": "",
+      "hn_score": 206,
+      "comments": 50,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目报告 Microsoft 的 ONNX Runtime 项目从 GitHub 上消失，引发社区关注。ONNX Runtime 是跨平台高性能推理引擎，支持 ONNX 模型在 CPU/GPU 等多硬件上高效执行，广泛用于模型部署与推理加速。其消失可能影响依赖该项目的开发者与生产环境，涉及开源治理、供应链安全与项目可持续性问题。事件本身技术深度有限，但对 AI 工程实践有警示意义，适用场景包括模型部署、推理优化及开源依赖风险管理。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-18T05:04:30.867787+00:00"
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "source": "hackernews-top",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "hn_url": "https://news.ycombinator.com/item?id=50534631",
+      "description": "",
+      "hn_score": 451,
+      "comments": 217,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目报道 Nvidia 在营收达到 1040 亿美元后停止单独披露新加坡地区销售数据。这并非技术产品发布，而是涉及 AI 芯片供应链透明度与地缘监管的财务披露变化，核心信息在于新加坡作为 GPU 转口枢纽的角色可能被弱化，影响对 AI 算力流向的追踪。对 AI 工程师而言，其价值在于理解算力供给与区域合规风险，而非直接技术实践。",
+      "tags": [
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-18T05:04:33.237788+00:00"
+    },
+    {
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "source": "hackernews-top",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "hn_url": "https://news.ycombinator.com/item?id=50539747",
+      "description": "",
+      "hn_score": 131,
+      "comments": 49,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "Archive Team 正在对 Apple Support Community 进行归档，该社区将于 2026 年 11 月 20 日关闭。此举旨在保存大量用户生成的技术问答与故障排查记录，防止有价值的知识随平台下线而丢失。核心技术亮点在于使用分布式爬虫与 WARC 格式进行大规模网页存档，确保内容可长期检索与复用。适用场景包括历史技术资料保存、数据考古以及为 AI 训练提供社区问答语料。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-18T05:04:34.779913+00:00"
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "source": "hackernews-top",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "hn_url": "https://news.ycombinator.com/item?id=50532849",
+      "description": "",
+      "hn_score": 523,
+      "comments": 597,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目报道美国高度机密的国家安全通信网络发生宕机事件，属于网络安全与关键基础设施可靠性领域的新闻。事件本身不涉及AI/LLM技术，但揭示了高安全等级通信系统在可用性、冗余设计和故障恢复方面的脆弱性，对构建高可靠分布式系统、安全通信架构具有间接参考价值。核心技术关注点包括网络冗余、故障切换机制、安全隔离与运维监控。适用场景为关键基础设施安全评估、高可用系统设计讨论，对AI工程师的直接技术价值有限。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-18T05:04:37.421216+00:00"
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "source": "hackernews-top",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "hn_url": "https://news.ycombinator.com/item?id=50537156",
+      "description": "",
+      "hn_score": 278,
+      "comments": 152,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "jQuery 4.1.0 是经典 JavaScript 库 jQuery 的最新稳定版本发布。该版本主要解决长期积累的兼容性与现代化问题，包括移除对已废弃 API 的支持、改进 ES 模块导入方式、优化事件处理与 Ajax 内部实现，并提升与现代浏览器及构建工具的兼容性。核心技术亮点在于精简代码体积、增强模块化支持，同时保持向后兼容的过渡策略。适用场景为仍在使用 jQuery 的存量 Web 项目升级维护，以及需要轻量级 DOM 操作与 Ajax 封装的传统前端开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-18T05:04:40.008972+00:00"
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "source": "hackernews-top",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=50535885",
+      "description": "",
+      "hn_score": 314,
+      "comments": 143,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "MAI Code 2 与 Code 2 Flash 是面向代码生成场景的大语言模型系列，Code 2 Flash 为低延迟轻量版本。该系列针对代码补全、仓库级理解与多语言编程任务优化，解决通用 LLM 在长上下文代码推理和实时 IDE 集成中准确率与响应速度不足的问题。核心技术亮点包括代码专用训练数据配比、Flash 变体的推理加速与成本控制，以及面向 agentic coding 的工具调用能力。适用场景为 IDE 智能补全、CI 代码审查、自动化重构与开发者工具链集成。",
+      "tags": [
+        "code-generation",
+        "large-language-model",
+        "developer-tools",
+        "benchmark",
+        "agent"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-18T05:04:43.053168+00:00"
+    },
+    {
+      "title": "Phrack 73 Released",
+      "source": "hackernews-top",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "hn_url": "https://news.ycombinator.com/item?id=50535992",
+      "description": "",
+      "hn_score": 321,
+      "comments": 48,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "Phrack 73 是传奇黑客杂志 Phrack 的第 73 期发布，属于安全研究与逆向工程领域的经典技术刊物。它本身不解决具体工程问题，而是汇集低层系统、漏洞利用、协议分析与安全攻防的深度文章，核心亮点在于高质量的技术写作与一手研究细节，常涉及内存破坏、内核利用、网络协议逆向等硬核主题。适用场景包括安全研究员、逆向工程师与系统程序员跟踪前沿攻防技术，对 AI 工程师的直接相关性较低，但可作为理解系统安全与底层机制的参考读物。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-18T05:04:45.005229+00:00"
+    },
+    {
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "source": "hackernews-top",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "hn_url": "https://news.ycombinator.com/item?id=50536813",
+      "description": "",
+      "hn_score": 282,
+      "comments": 84,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目回顾了1676年Ole Rømer首次通过观测木星卫星Io的食现象估算出光速有限的历史事件，属于科学史/物理学史内容，而非AI或软件工程技术。其核心价值在于展示早期科学家如何利用天文观测数据与几何推理完成定量测量，方法论上涉及观测误差分析与模型修正，但与当前AI工程师的日常技术栈（LLM、RAG、Agent等）无直接关联。适用场景限于科普阅读、科学史教学或作为跨领域类比素材，对工程实践帮助有限。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-18T05:04:46.950673+00:00"
+    },
+    {
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "source": "hackernews-top",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538303",
+      "description": "",
+      "hn_score": 108,
+      "comments": 160,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "哈佛研究团队发现，AI coding agents 的普及使软件开发瓶颈从编写代码转移到 code review 环节。该研究通过实证分析指出，agent 能快速生成大量代码，但人类审查者需投入更多精力验证正确性、安全性与可维护性，导致 review 成为新的效率瓶颈。核心技术亮点在于量化了 agent 对开发工作流的影响，并揭示 code review 环节的负载变化。适用场景包括 AI 辅助开发流程设计、工程团队效能评估以及 code review 工具链优化。",
+      "tags": [
+        "code-generation",
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-18T05:04:48.758708+00:00"
+    },
+    {
+      "title": "Fun with Constrained Programming",
+      "source": "hackernews-top",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50503492",
+      "description": "",
+      "hn_score": 38,
+      "comments": 0,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目讨论约束编程（Constrained Programming）的实践应用，通过具体示例展示如何用约束求解器建模和解决组合优化问题。核心亮点在于将声明式约束模型与搜索策略结合，简化复杂调度、排班、资源分配等问题的求解过程。适用场景包括运筹优化、任务调度、配置生成等工程问题。",
+      "tags": [
+        "developer-tools",
+        "reasoning",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-18T05:04:51.133889+00:00"
+    },
+    {
+      "title": "Solid 2.0",
+      "source": "hackernews-top",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "hn_url": "https://news.ycombinator.com/item?id=50536387",
+      "description": "",
+      "hn_score": 259,
+      "comments": 76,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "Solid 2.0 是 Solid 框架的一次重大版本升级，Solid 是一个用于构建用户界面的声明式 JavaScript 库，以细粒度响应式系统著称。它解决了传统虚拟 DOM 框架在更新性能上的瓶颈，通过编译时优化和细粒度响应式原语（如 Signal）实现精准的 DOM 更新。核心技术亮点包括：更高效的响应式追踪机制、改进的 SSR 支持、以及更完善的 TypeScript 类型推断。适用场景为对性能敏感的前端应用、交互密集型 Web 界面以及需要轻量级响应式状态管理的项目。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-18T05:04:52.834618+00:00"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "source": "hackernews-top",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=50532191",
+      "description": "",
+      "hn_score": 350,
+      "comments": 122,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该 HN 讨论帖探讨不同 LLM 各自最适合的 harness（评测/调用框架），即针对特定模型选择最优的封装、提示模板与工具链组合。它解决的是模型能力差异大、单一 harness 难以通用的问题，帮助工程师避免用错框架导致性能损失。核心亮点在于社区实测经验汇总，覆盖主流模型与 harness 的匹配关系，并涉及 tool-use、prompt 结构等细节。适用于需要为多模型搭建评测流水线或选型的 AI 工程师。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "tool-use",
+        "prompt-engineering",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-18T05:04:54.954740+00:00"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "source": "hackernews-top",
+      "url": "https://starsling.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=50536468",
+      "description": "",
+      "hn_score": 64,
+      "comments": 36,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "StarSling 是 YC P25 孵化的自改进 CI 系统，专为 agent-volume 仓库设计，即大量由 AI agent 自动提交代码的代码库。它解决传统 CI 在 agent 高频提交场景下反馈滞后、规则僵化、无法自适应的问题。核心技术亮点在于 CI 流程能根据历史构建与测试结果自我优化，动态调整检查策略与资源分配，减少误报和人工干预。适用场景包括多 agent 协作开发、自动化代码生成流水线及需要高吞吐持续集成的 AI 工程团队。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "workflow-automation",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-18T05:04:57.449061+00:00"
+    },
+    {
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "source": "hackernews-top",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "hn_url": "https://news.ycombinator.com/item?id=50541790",
+      "description": "",
+      "hn_score": 4,
+      "comments": 0,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "该条目是 Hacker News 上关于 Google Gemini 4 Carbon 模型发布延迟的讨论帖，标题直译为「为什么 Gemini 4 Carbon 要等这么久」。帖子本身未提供技术细节，核心议题是社区对 Google 下一代 Gemini 模型研发进度、内部工程瓶颈与发布节奏的猜测和质疑。技术亮点在于它折射出大模型训练规模扩张下的工程复杂度、算力调度与产品化节奏问题，而非具体算法创新。适用场景为 AI 工程师跟踪前沿模型发布动态、了解大厂研发节奏与社区预期管理。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-18T05:05:00.063344+00:00"
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "source": "hackernews-top",
+      "url": "https://browser.engineering/",
+      "hn_url": "https://news.ycombinator.com/item?id=50537290",
+      "description": "",
+      "hn_score": 143,
+      "comments": 20,
+      "collected_at": "2026-11-18T05:03:34.281813+00:00",
+      "published_at": "2026-11-18T05:03:34.281813+00:00",
+      "summary": "《Web Browser Engineering》是一本在线开源书籍，通过从零构建一个简易浏览器来讲解 Web 浏览器的内部工作原理。它解决了工程师对浏览器渲染、网络请求、HTML 解析、CSS 布局、JavaScript 执行等底层机制理解不足的问题。核心技术亮点在于以可运行的 Python 代码逐步实现 URL 加载、HTML 解析、样式计算、布局与绘制、事件处理及简单 JS 解释器，将抽象概念具象化。适用场景包括前端/全栈工程师深入理解浏览器行为、计算机系统课程教学、以及需要定制或调试渲染逻辑的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-18T05:05:02.714653+00:00"
+    }
+  ]
+}

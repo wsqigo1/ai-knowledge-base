@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-18-010",
+  "title": "Quad9's withdrawal from France: A canary in the coal mine",
+  "source": "hackernews-top",
+  "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+  "summary": "Quad9 是一家提供公共 DNS 解析与恶意域名过滤的非营利服务，因法国法院要求其屏蔽特定盗版网站域名而选择退出法国市场。该事件解决的是隐私与言论自由倡导者对 DNS 层强制过滤合法性的担忧，核心争议在于 DNS 解析商是否应承担版权执法义务。技术亮点在于 Quad9 的威胁情报驱动过滤架构与 DNSSEC 验证能力，以及其拒绝实施域名封锁的立场。适用场景包括网络隐私研究、DNS 安全策略讨论及互联网治理政策分析。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:29.048228+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

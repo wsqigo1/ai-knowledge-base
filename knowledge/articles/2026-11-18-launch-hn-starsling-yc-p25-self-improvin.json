@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-18-018",
+  "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+  "source": "hackernews-top",
+  "url": "https://starsling.dev",
+  "summary": "StarSling 是 YC P25 孵化的自改进 CI 系统，专为 agent-volume 仓库设计，即大量由 AI agent 自动提交代码的代码库。它解决传统 CI 在 agent 高频提交场景下反馈滞后、规则僵化、无法自适应的问题。核心技术亮点在于 CI 流程能根据历史构建与测试结果自我优化，动态调整检查策略与资源分配，减少误报和人工干预。适用场景包括多 agent 协作开发、自动化代码生成流水线及需要高吞吐持续集成的 AI 工程团队。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "workflow-automation",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:57.449061+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-18-007",
+  "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+  "source": "hackernews-top",
+  "url": "https://calif.io/java4shell/",
+  "summary": "Java4Shell 披露了 OpenJDK 在处理 Base64 编码数据时存在的远程代码执行（RCE）漏洞，属于高危安全缺陷。该问题源于 Base64 解码路径中的边界处理缺陷，攻击者可构造恶意输入触发任意代码执行。核心技术亮点在于揭示了标准库层面对编码数据校验的缺失，影响面覆盖广泛 Java 运行时。适用于使用 OpenJDK 的服务器端应用、中间件及云原生环境的安全评估与补丁升级场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:20.524831+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

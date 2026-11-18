@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-18-017",
+  "title": "What is the best harness for each model?",
+  "source": "hackernews-top",
+  "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+  "summary": "该 HN 讨论帖探讨不同 LLM 各自最适合的 harness（评测/调用框架），即针对特定模型选择最优的封装、提示模板与工具链组合。它解决的是模型能力差异大、单一 harness 难以通用的问题，帮助工程师避免用错框架导致性能损失。核心亮点在于社区实测经验汇总，覆盖主流模型与 harness 的匹配关系，并涉及 tool-use、prompt 结构等细节。适用于需要为多模型搭建评测流水线或选型的 AI 工程师。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "tool-use",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-18T05:03:34.281813+00:00",
+  "analyzed_at": "2026-11-18T05:04:54.954740+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

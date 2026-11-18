@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-18-006",
+  "title": "YellowLaborerMarket/Gemini-Config-Checker-",
+  "source": "github-trending",
+  "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+  "summary": "该项目是一个链式区域扫描工具，用于探测可访问 Google AI Studio 与 Gemini 的代理配置，核心在于模拟已登录浏览器环境并规避 DPI 深度包检测，覆盖 Windows、macOS、Linux 与 Android 多平台。它解决的是在受限网络环境下稳定接入 Google AI 服务的配置筛选问题，技术亮点包括签名浏览器状态校验、反 DPI 探测与跨平台 CLI 实现。适用场景为需要批量验证代理可用性、搭建 AI 服务访问链路的工程师与运维人员。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation",
+    "large-language-model"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-18T05:03:34.170515+00:00",
+  "analyzed_at": "2026-11-18T05:04:18.366264+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}

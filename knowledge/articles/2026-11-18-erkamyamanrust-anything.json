@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-18-002",
+  "title": "erkamyaman/rust-anything",
+  "source": "github-trending",
+  "url": "https://github.com/erkamyaman/rust-anything",
+  "summary": "rust-anything 是一个面向代码迁移的工程化工具，目标是把 TypeScript、Python、C、Go、Ruby、Java 等语言编写的应用逐步重写为 Rust，并在每一步用原程序录制的行为做对照校验。它解决的是大规模语言迁移中行为回归难以验证的痛点，核心思路是增量重写加行为录制回放，把迁移拆成可验证的小步。项目同时提供 agent-skills 与 Claude Code、Codex 集成，适合借助 LLM 辅助完成迁移。适用于遗留系统现代化、性能敏感模块替换，以及需要可控风险的多语言代码库向 Rust 演进。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.3,
+  "collected_at": "2026-11-18T05:03:34.170515+00:00",
+  "analyzed_at": "2026-11-18T05:03:40.560933+00:00",
+  "organized_at": "2026-11-18T05:05:02.827178+00:00",
+  "status": "published"
+}
