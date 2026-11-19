@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-19-018",
+  "title": "Advancing chip design with OpenAI models",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+  "summary": "OpenAI 发布技术博客，介绍其推理模型（o1/o3 系列）在芯片设计流程中的应用探索。该工作针对传统 EDA 流程中 RTL 代码生成、验证用例编写、时序约束调试等环节高度依赖专家经验、迭代周期长的问题，利用大模型的长链推理与代码生成能力辅助完成设计任务。核心技术亮点在于将芯片设计问题形式化为可验证的推理任务，结合领域知识约束与工具反馈闭环提升生成正确率，并展示了在真实设计场景中的初步量化结果。适用场景包括数字电路 RTL 辅助编写、验证激励生成、设计文档理解与 EDA 脚本自动化，对芯片与 AI 交叉领域工程师具有参考价值。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "code-generation",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:27.206401+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

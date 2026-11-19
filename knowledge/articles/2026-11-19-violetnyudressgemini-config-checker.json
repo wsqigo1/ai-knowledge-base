@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-19-004",
+  "title": "Violetnyudress/Gemini-Config-Checker-",
+  "source": "github-trending",
+  "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+  "summary": "该项目是一个用 Go 编写的链式区域扫描器，用于探测可访问 Google AI Studio 与 Gemini 的代理配置，并内置已登录浏览器状态校验、抗 DPI 检测，覆盖 Windows/macOS/Linux/Android 多平台。它解决的是在受限网络环境下定位可用代理链路、判断账号能否正常进入 Gemini 服务的问题。技术亮点在于将代理链路扫描、浏览器登录态验证与反深度包检测结合为 CLI 工具，便于自动化批量测试。适用场景为需要稳定访问 Google AI 服务的开发者、跨境网络调试及代理可用性评估。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "tool-use",
+    "ai-assistant"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-19T04:58:18.064593+00:00",
+  "analyzed_at": "2026-11-19T04:58:40.486822+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

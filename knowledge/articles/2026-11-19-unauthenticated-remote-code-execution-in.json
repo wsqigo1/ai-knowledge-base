@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-19-009",
+  "title": "Unauthenticated remote code execution in Nginx",
+  "source": "hackernews-top",
+  "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+  "summary": "该条目披露 Nginx 存在未认证远程代码执行漏洞（Unauthenticated RCE），攻击者无需任何凭据即可通过网络触发，可能导致服务器被完全接管。核心问题在于 Nginx 某模块/配置路径对输入校验不足，使恶意请求可越过认证边界执行任意代码。技术亮点在于漏洞利用链的构造与影响面评估，涉及 HTTP 请求解析、内存破坏或配置注入等机制。适用场景为运维安全、Web 服务器加固、漏洞应急响应与渗透测试，对使用 Nginx 作为反向代理或静态资源服务器的团队具有直接修复与排查价值。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "security",
+    "nginx",
+    "vulnerability"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:03.267924+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

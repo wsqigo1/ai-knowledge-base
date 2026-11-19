@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-19-014",
+  "title": "LLM assisted reverse engineering",
+  "source": "hackernews-top",
+  "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+  "summary": "该条目探讨利用 LLM 辅助逆向工程（reverse engineering），核心是将大语言模型引入二进制分析、反汇编代码理解与漏洞挖掘流程，以缓解传统逆向工程高度依赖专家经验、耗时且门槛高的问题。技术亮点在于让模型理解汇编/伪代码语义、辅助识别函数用途与数据结构，并结合工具调用（tool-use）形成分析闭环。适用场景包括恶意软件分析、漏洞研究、遗留系统维护与安全审计，对安全工程师与逆向初学者均有参考价值，但需注意模型幻觉带来的误判风险。",
+  "tags": [
+    "large-language-model",
+    "tool-use",
+    "code-generation",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:16.634102+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

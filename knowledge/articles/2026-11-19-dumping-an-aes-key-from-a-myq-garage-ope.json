@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-19-016",
+  "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+  "source": "hackernews-top",
+  "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+  "summary": "该条目记录了一次针对 MyQ 车库门开启器的逆向工程实践：作者通过提取设备固件中的 AES 密钥，解决了设备离线时反复重启的问题。核心在于定位并 dump 出用于加密通信的 AES 密钥，从而绕过厂商云依赖、实现本地控制。技术亮点包括固件分析、密钥提取与嵌入式设备调试，属于 IoT 安全与硬件逆向范畴。适用场景为智能家居设备本地化改造、IoT 安全研究及固件逆向学习。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:20.537809+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

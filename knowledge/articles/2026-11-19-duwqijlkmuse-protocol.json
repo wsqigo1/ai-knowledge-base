@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-19-001",
+  "title": "duwqijlk/muse-protocol",
+  "source": "github-trending",
+  "url": "https://github.com/duwqijlk/muse-protocol",
+  "summary": "该项目以纯 Python HTTP 请求逆向实现 muse.ai 的账号注册与邀请码兑换流程，绕过浏览器自动化，直接构造并发送协议层请求。核心亮点在于对注册链路中参数签名、会话状态与邀请码校验逻辑的协议级还原，代码轻量、无 Selenium 依赖，便于批量与自动化调用。适用于需要程序化获取 muse.ai 账号或研究其注册风控机制的开发者，也可作为 HTTP 协议逆向与自动化注册流程的学习参考。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-19T04:58:18.064593+00:00",
+  "analyzed_at": "2026-11-19T04:58:23.652560+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

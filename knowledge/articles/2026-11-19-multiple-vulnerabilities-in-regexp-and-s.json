@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-19-011",
+  "title": "Multiple vulnerabilities in Regexp and String case conversion",
+  "source": "hackernews-top",
+  "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+  "summary": "该条目披露了正则表达式（Regexp）和字符串大小写转换（String case conversion）中的多个安全漏洞，属于软件供应链与运行时安全范畴。问题核心在于某些语言或库的实现缺陷可能导致拒绝服务、信息泄露或意外行为，影响依赖这些基础功能的应用程序。技术亮点在于揭示了看似简单的字符串操作背后隐藏的边界条件与性能陷阱，对安全审计和代码健壮性有直接参考价值。适用场景包括后端服务开发、安全漏洞排查、编程语言运行时维护以及开发者工具链的安全加固。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "security",
+    "regexp",
+    "string-manipulation"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:06.835635+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

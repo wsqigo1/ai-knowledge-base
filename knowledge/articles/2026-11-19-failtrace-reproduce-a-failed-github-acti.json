@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-19-019",
+  "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+  "source": "hackernews-top",
+  "url": "https://github.com/Ri4dH/failtrace",
+  "summary": "FailTrace 是一个开发者工具，可从 GitHub Actions 运行 URL 在本地复现失败的 CI 运行。它解决 CI 失败难以本地调试的问题，通过解析运行日志与配置，重建执行环境与步骤，帮助快速定位错误。核心技术亮点在于自动化提取工作流上下文并模拟执行，减少手动排查成本。适用于依赖 GitHub Actions 的团队进行 CI 故障诊断与调试。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:30.742740+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

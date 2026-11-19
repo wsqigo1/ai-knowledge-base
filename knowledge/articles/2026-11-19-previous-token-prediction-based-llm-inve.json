@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-19-021",
+  "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2607.29378",
+  "summary": "该研究提出基于 Previous-Token Prediction 的 LLM 反演方法，用于从模型输出重建原始 prompt。解决的问题是 LLM 黑盒场景下 prompt 隐私泄露风险与可审计性缺失。核心技术亮点在于利用前一个 token 的预测分布作为逆向信号，无需梯度或白盒访问即可恢复 prompt 内容。适用场景包括 LLM 安全审计、prompt 泄露检测、模型服务隐私评估。",
+  "tags": [
+    "large-language-model",
+    "prompt-engineering",
+    "benchmark"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:34.214567+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}

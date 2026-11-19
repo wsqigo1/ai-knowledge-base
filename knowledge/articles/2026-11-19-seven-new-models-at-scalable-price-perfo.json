@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-19-012",
+  "title": "Seven new models at scalable price-performance",
+  "source": "hackernews-top",
+  "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+  "summary": "该条目为某厂商发布七款新模型的公告，主打可扩展的价格性能比。核心在于通过模型矩阵覆盖不同算力与成本区间，让开发者在推理成本与能力之间灵活取舍。技术亮点可能涉及模型蒸馏、量化或混合专家架构以压低单位 token 成本，并保持接近旗舰模型的基准表现。适用场景包括高并发 API 服务、成本敏感的批量推理、以及需要按任务难度动态路由的多模型编排系统。HN 481 分显示社区对性价比路线关注度高，但摘要信息有限，需查阅原文确认具体参数与基准数据。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-19T04:58:18.221876+00:00",
+  "analyzed_at": "2026-11-19T04:59:09.184305+00:00",
+  "organized_at": "2026-11-19T04:59:38.125286+00:00",
+  "status": "published"
+}
