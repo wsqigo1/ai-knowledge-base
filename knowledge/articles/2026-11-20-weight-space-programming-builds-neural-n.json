@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-20-009",
+  "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+  "source": "hackernews-top",
+  "url": "https://notesbylex.com/weight-space-programming-1990s",
+  "summary": "Weight-Space Programming 是一种直接操作神经网络权重空间来构建网络的方法，灵感来自1990年代的研究范式。它试图解决传统梯度训练依赖大量数据和算力的问题，通过显式编程权重而非端到端学习来获得可控网络。核心技术亮点在于将网络构建视为权重空间中的组合与编辑，可能涉及权重初始化、模块化拼接或进化策略。适用场景包括小样本学习、可解释性研究、以及资源受限下的网络设计探索。",
+  "tags": [
+    "open-source",
+    "fine-tuning",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.459017+00:00",
+  "analyzed_at": "2026-11-20T04:50:31.927720+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

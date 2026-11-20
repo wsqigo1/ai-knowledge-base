@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-20-004",
+  "title": "VisionWormStudio/Gemini-Config-Checker-",
+  "source": "github-trending",
+  "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+  "summary": "Gemini-Config-Checker 是一个用 Go 编写的命令行工具，用于扫描不同地区的代理配置，检测哪些配置能够成功访问 Google AI Studio 和 Gemini 服务。它解决的核心问题是：由于区域限制和网络审查，开发者难以判断自己的代理链路是否能稳定登录并使用 Gemini。技术亮点包括已登录浏览器状态检测、抗 DPI 探测以及跨 Windows/macOS/Linux/Android 多平台支持。适用场景为需要稳定访问 Google AI 服务的开发者、网络配置调试人员以及多区域代理链路验证。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "cli",
+    "ai-assistant"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.283451+00:00",
+  "analyzed_at": "2026-11-20T04:50:10.280067+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

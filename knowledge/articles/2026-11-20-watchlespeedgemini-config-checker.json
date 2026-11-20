@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-20-003",
+  "title": "Watchlespeed/Gemini-Config-Checker-",
+  "source": "github-trending",
+  "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+  "summary": "该项目是一个命令行工具，用于扫描和检测代理配置，帮助用户通过已登录浏览器访问 Google AI Studio 和 Gemini 服务。它解决的是在特定网络环境下代理链配置不当导致无法访问 Google AI 服务的问题，核心亮点包括签名浏览器状态检测、反 DPI（深度包检测）能力以及跨 Windows/macOS/Linux/Android 多平台支持。项目以 Makefile 为主要语言，提供 CLI 交互方式，适合需要稳定访问 Gemini 及 AI Studio 的开发者、研究人员在受限网络环境中进行代理配置诊断与优化。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "ai-assistant",
+    "tool-use"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.283451+00:00",
+  "analyzed_at": "2026-11-20T04:50:07.237163+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

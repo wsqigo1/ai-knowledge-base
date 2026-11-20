@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-20-010",
+  "title": "Synology Security Advisory",
+  "source": "hackernews-top",
+  "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+  "summary": "Synology 发布安全公告，披露其 NAS 产品线中的安全漏洞及修复方案。该公告针对群晖 DSM 系统及相关套件中的潜在风险，提供受影响版本范围、漏洞等级与升级指引，帮助用户及时修补以避免未授权访问或数据泄露。核心技术亮点在于官方对漏洞的定位与补丁分发机制，涉及固件更新与安全配置建议。适用场景为使用 Synology NAS 的企业与个人用户进行安全运维、漏洞响应与合规检查。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.459017+00:00",
+  "analyzed_at": "2026-11-20T04:50:35.755627+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

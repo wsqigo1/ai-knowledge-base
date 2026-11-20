@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-20-012",
+  "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+  "source": "hackernews-top",
+  "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+  "summary": "这是一个在浏览器中运行的纯前端工具，用户只需上传或选择一张 A4 纸，即可自动生成可打印的 8 页折页小志（zine）排版。它解决了传统折页小志需要手动计算拼版、依赖专业设计软件或打印服务的问题，将复杂的页面排序与折叠逻辑封装为即时可用的 Web 应用。核心技术亮点在于用 JavaScript 实现 8 页折页的拼版算法（页面旋转、镜像、顺序重排），并利用浏览器打印 API 输出 PDF 或直接打印。适用场景包括独立出版、手工书制作、教学材料分发、活动宣传册等轻量级印刷需求。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.459017+00:00",
+  "analyzed_at": "2026-11-20T04:50:46.864050+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

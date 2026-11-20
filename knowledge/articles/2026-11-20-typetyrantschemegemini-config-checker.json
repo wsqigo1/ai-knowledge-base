@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-20-002",
+  "title": "TypeTyrantScheme/Gemini-Config-Checker-",
+  "source": "github-trending",
+  "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+  "summary": "该项目是一个链式区域扫描工具，用于探测可访问 Google AI Studio 与 Gemini 的代理配置，并内置已登录浏览器状态检测、抗 DPI 干扰能力，覆盖 Windows/macOS/Linux/Android 多平台。它解决的是特定网络环境下 AI 服务访问受阻、代理配置难以验证的问题，核心亮点在于将代理可用性判断与真实登录态校验结合，而非仅做端口连通性测试。适用场景包括需要稳定访问 Gemini 的开发者、跨境网络环境下的 AI 工具使用者，以及研究网络可达性的工程师。项目以 Makefile 组织，工程化程度一般，偏向实用脚本集合。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.283451+00:00",
+  "analyzed_at": "2026-11-20T04:49:58.478243+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

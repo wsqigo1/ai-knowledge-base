@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-20-007",
+  "title": "How to CAD Almost Anything",
+  "source": "hackernews-top",
+  "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+  "summary": "该条目介绍了一种通过参数化建模与脚本化操作实现快速 CAD 设计的方法，核心在于将设计意图转化为可复用的几何约束与程序化流程，从而降低复杂零件建模的门槛。技术亮点包括基于特征树的模块化构建、参数驱动变体生成以及跨软件平台的脚本接口（如 Python 调用 CAD API）。适用场景涵盖机械设计原型迭代、教学演示以及小批量定制化零件开发，对需要快速验证结构可行性的工程师具有参考价值，但与 AI/LLM 技术栈的直接关联较弱。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-20T04:49:30.459017+00:00",
+  "analyzed_at": "2026-11-20T04:50:24.399551+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

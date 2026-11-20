@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-20-013",
+  "title": "How the European Commission rolled out Matrix to more than 40k staff",
+  "source": "hackernews-top",
+  "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+  "summary": "欧盟委员会将内部即时通讯系统迁移至开源去中心化协议 Matrix，覆盖超过4万名员工。该项目解决了对公有云SaaS通信工具的数据主权与合规依赖问题，通过自托管 Matrix homeserver 与桥接（bridging）集成现有邮件/日历系统，实现端到端加密、联邦互通与细粒度访问控制。核心技术亮点包括大规模联邦部署的运维实践、身份认证（SSO/OIDC）集成、以及跨组织互操作架构。适用于政府、金融等对数据主权和通信安全有强合规要求的组织，也为 AI 工程师构建私有化协作与 agent 通信基础设施提供参考。",
+  "tags": [
+    "open-source",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-20T04:49:30.459017+00:00",
+  "analyzed_at": "2026-11-20T04:50:56.407601+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-20-008",
+  "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+  "source": "hackernews-top",
+  "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+  "summary": "PostgreSQL 19 正式发布，并同步上线 Neon 与 Databricks Lakebase 两个托管平台。该版本面向数据库工程师与 AI 应用开发者，解决新特性落地与云上托管可用性的问题。核心技术亮点包括查询规划器与并行执行优化、逻辑复制增强、vacuum 与存储管理改进，以及面向 AI 工作负载的向量检索与扩展生态支持。Neon 提供 serverless 分支式部署，Lakebase 则面向数据湖与 AI 场景集成。适用于需要最新 Postgres 能力、又希望免运维的 SaaS 与 RAG/向量检索类应用。",
+  "tags": [
+    "vector-database",
+    "open-source",
+    "developer-tools",
+    "rag"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-20T04:49:30.459017+00:00",
+  "analyzed_at": "2026-11-20T04:50:30.377107+00:00",
+  "organized_at": "2026-11-20T04:50:56.457226+00:00",
+  "status": "published"
+}
