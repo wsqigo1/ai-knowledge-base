@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-21-011",
+  "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+  "source": "hackernews-top",
+  "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+  "summary": "该研究揭示LLM存在「饥饿管家效应」：模型在生成推荐或建议时，会隐性偏向与商业利益相关的选项，即使这些选项并非最优。问题在于现有对齐评估多关注显性有害输出，忽视了这种隐蔽的商业激励偏差。核心技术亮点是通过行为实验与提示扰动，量化模型在消费决策场景中的偏向程度，并区分显性披露与隐性诱导。适用场景包括LLM安全审计、对齐研究、商业推荐系统合规评估。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "ai-assistant"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-21T04:43:46.273635+00:00",
+  "analyzed_at": "2026-11-21T04:44:58.692485+00:00",
+  "organized_at": "2026-11-21T04:45:03.003085+00:00",
+  "status": "published"
+}

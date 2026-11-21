@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-21-007",
+  "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+  "source": "hackernews-top",
+  "url": "https://signal.org/blog/protecting-your-privacy/",
+  "summary": "该讨论聚焦移动操作系统平台对 AI agent 数据采集能力的限制机制，探讨如何在系统层面约束 agent 对用户数据的访问与捕获。核心问题在于移动端 AI agent 权限过大导致隐私泄露风险，需要平台级管控方案。技术亮点涉及操作系统权限模型、沙箱隔离、数据访问审计与 agent 行为边界定义。适用场景包括移动 OS 安全设计、AI agent 隐私合规、端侧智能助手开发。",
+  "tags": [
+    "agent",
+    "ai-assistant",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-21T04:43:46.273635+00:00",
+  "analyzed_at": "2026-11-21T04:44:43.310592+00:00",
+  "organized_at": "2026-11-21T04:45:03.003085+00:00",
+  "status": "published"
+}

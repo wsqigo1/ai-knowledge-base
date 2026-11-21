@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-21-005",
+  "title": "Language Models Can Rewrite Their Own Weights",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2611.21885",
+  "summary": "该研究探索让语言模型通过生成文本指令来重写自身权重参数，而非依赖外部梯度更新或人工微调。核心问题是模型能否在推理阶段自主完成参数级自我修改，从而持续适应新任务或纠正错误。技术亮点在于将权重编辑转化为序列生成问题，利用模型自身的语言理解能力定位并修改关键参数，可能结合元学习或指令微调策略。适用场景包括持续学习、个性化模型适配、低资源环境下的快速领域迁移，以及构建能自我修复的智能体系统。",
+  "tags": [
+    "large-language-model",
+    "fine-tuning",
+    "reasoning",
+    "agent",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-11-21T04:43:46.273635+00:00",
+  "analyzed_at": "2026-11-21T04:44:37.993390+00:00",
+  "organized_at": "2026-11-21T04:45:03.003085+00:00",
+  "status": "published"
+}

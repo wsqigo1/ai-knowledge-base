@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-21-012",
+  "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+  "source": "hackernews-top",
+  "url": "https://kobi.music/research/dettato",
+  "summary": "该项目是一个音频转 MIDI 的开源模型，通过架构与推理优化将计算效率提升约 60 倍，使高精度转录可在消费级硬件上实时运行。核心亮点在于大幅压缩模型规模与推理成本，同时保持转录质量，降低了音乐信息检索（MIR）任务的部署门槛。适用于音乐制作、自动扒谱、教育工具及实时演奏分析等场景，对需要本地化、低延迟音频转 MIDI 的 AI 工程师具有较高参考价值。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-21T04:43:46.273635+00:00",
+  "analyzed_at": "2026-11-21T04:45:00.804249+00:00",
+  "organized_at": "2026-11-21T04:45:03.003085+00:00",
+  "status": "published"
+}

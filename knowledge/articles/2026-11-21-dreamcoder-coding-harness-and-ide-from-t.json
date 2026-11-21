@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-21-006",
+  "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+  "source": "hackernews-top",
+  "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+  "summary": "DreamCoder 是由《Mastering Emacs》作者推出的编码 harness 与 IDE，面向 AI 辅助编程场景。它试图解决现有 AI 编码工具与编辑器工作流割裂、上下文管理薄弱的问题，通过将 LLM 驱动的代码生成能力深度集成到可编程编辑环境中。核心技术亮点在于 harness 层对模型调用、上下文注入与工具编排的统一抽象，以及面向 Emacs 用户习惯的可扩展架构。适用场景包括日常 AI 辅助编码、自定义 agent 工作流搭建，以及希望摆脱封闭商业 IDE 的开发者。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "ai-assistant",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-21T04:43:46.273635+00:00",
+  "analyzed_at": "2026-11-21T04:44:39.617437+00:00",
+  "organized_at": "2026-11-21T04:45:03.003085+00:00",
+  "status": "published"
+}

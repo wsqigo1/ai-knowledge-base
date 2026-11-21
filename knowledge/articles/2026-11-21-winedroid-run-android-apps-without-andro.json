@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-21-010",
+  "title": "Winedroid – run Android apps without Android (WASM demo)",
+  "source": "hackernews-top",
+  "url": "https://winedroid.soham.sh/demo/",
+  "summary": "Winedroid 是一个在无 Android 系统环境下运行 Android 应用的开源项目，通过 WebAssembly 技术将 Android 运行时移植到浏览器或 WASM 运行时中。它解决了传统 Android 应用依赖完整 Android 系统或模拟器的问题，降低了跨平台运行 Android 应用的门槛。核心技术亮点在于利用 WASM 的沙箱隔离和可移植性，结合 Wine 式的兼容层思路，实现轻量级 Android 应用执行环境。适用场景包括快速测试 Android 应用、在非 Android 设备上运行轻量级 Android 工具，以及为开发者提供无需模拟器的调试方案。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-21T04:43:46.273635+00:00",
+  "analyzed_at": "2026-11-21T04:44:52.680259+00:00",
+  "organized_at": "2026-11-21T04:45:03.003085+00:00",
+  "status": "published"
+}
