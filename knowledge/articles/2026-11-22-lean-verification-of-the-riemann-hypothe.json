@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-22-007",
+  "title": "Lean verification of the Riemann Hypothesis",
+  "source": "hackernews-top",
+  "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+  "summary": "该项目使用 Lean 定理证明器对黎曼猜想进行形式化验证尝试，旨在通过机器可验证的方式推进这一数学难题的证明或证伪。核心技术亮点在于将 Lean 的依赖类型理论与数学形式化结合，利用交互式定理证明环境确保每一步推理的严格正确性。适用场景包括数学形式化研究、定理证明器工具链开发以及 AI 辅助数学推理的基准测试。",
+  "tags": [
+    "reasoning",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:32.513528+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

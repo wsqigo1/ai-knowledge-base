@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-22-012",
+  "title": "Show HN: Zero C# – C# without a runtime or GC",
+  "source": "hackernews-top",
+  "url": "https://onurgumus.github.io/zero-csharp/index.html",
+  "summary": "Zero C# 是一个实验性项目，旨在让 C# 代码脱离 .NET 运行时和垃圾回收器（GC）运行，通过静态编译和手动内存管理实现零运行时依赖。它解决了在资源受限环境（如嵌入式系统、游戏引擎、WebAssembly 或原生库）中部署 C# 的痛点，同时保留 C# 的语法和类型安全优势。核心技术亮点包括自定义的 AOT 编译器、无 GC 的内存分配策略（如栈分配和区域内存）以及对 C# 子集的静态分析。适用场景包括高性能原生插件、实时系统、跨平台库开发以及探索 C# 在系统编程领域的可能性。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "code-generation",
+    "benchmark"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:47.499825+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

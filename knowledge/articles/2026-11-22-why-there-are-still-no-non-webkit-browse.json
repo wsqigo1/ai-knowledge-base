@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-22-015",
+  "title": "Why there are still no non-WebKit browsers on iOS",
+  "source": "hackernews-top",
+  "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+  "summary": "该文章探讨iOS平台至今没有非WebKit浏览器内核的根本原因，剖析Apple对App Store审核规则和WebKit内核的强制绑定如何限制第三方浏览器引擎（如Blink、Gecko）进入iOS。核心亮点在于从政策、商业利益与技术架构三层解释垄断成因，并讨论欧盟DMA等监管压力下的潜在变化。对AI工程师而言，理解平台限制有助于评估移动端Web应用与AI前端部署的可行性边界。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:53.534622+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

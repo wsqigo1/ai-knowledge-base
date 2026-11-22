@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-22-010",
+  "title": "Pandex – Official European Law for AI Agents, over MCP",
+  "source": "hackernews-top",
+  "url": "https://www.pandex.io",
+  "summary": "Pandex 是一个通过 MCP（Model Context Protocol）向 AI Agent 提供欧盟法律查询能力的开源项目。它解决 AI Agent 在涉及欧洲法规时缺乏权威、结构化法律知识的问题，避免模型幻觉或过时信息。核心技术亮点在于将欧盟法律数据封装为 MCP 工具，使 Agent 能按需检索官方法律条文，实现工具调用与法律知识库的标准化集成。适用场景包括合规审查、法律咨询辅助、跨境业务规则查询等需要引用欧洲法规的 AI 工作流。",
+  "tags": [
+    "mcp",
+    "agent",
+    "tool-use",
+    "open-source",
+    "rag"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:43.337496+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-22-011",
+  "title": "PostgreSQL Extensions in Go",
+  "source": "hackernews-top",
+  "url": "https://jespino.github.io/gopgext/",
+  "summary": "该项目探讨使用 Go 语言编写 PostgreSQL 扩展的可行性与实践方法，解决传统扩展开发依赖 C 语言带来的内存安全与开发效率问题。核心技术亮点在于利用 Go 的 cgo 机制或 WASM 运行时桥接 PostgreSQL 内部 API，实现类型安全、并发友好的扩展逻辑，并可能涉及与 pgx 等驱动的深度集成。适用场景包括需要高性能数据库侧计算、自定义数据类型或 AI 推理下推的工程师，尤其适合已有 Go 技术栈的团队降低扩展维护成本。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "vector-database",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:45.582386+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

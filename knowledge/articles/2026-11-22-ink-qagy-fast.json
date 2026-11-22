@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-22-005",
+  "title": "INK-Q/agy-fast",
+  "source": "github-trending",
+  "url": "https://github.com/INK-Q/agy-fast",
+  "summary": "INK-Q/agy-fast 是面向 Google Antigravity（CLI/Desktop/IDE）的非侵入式 MCP 加速插件，用于降低 AI 编码代理的调用成本。它针对 coding agent 多轮交互中 LLM turns 频繁、token 配额消耗快、上传流量大的问题，在不改动原生 UI 与 diff 的前提下优化请求链路。核心亮点是通过 MCP 层拦截与压缩减少冗余上下文，实现 LLM turns 降低 34%、token quota 降低 31%、上传流量降低 40%，且保持与原生工具链兼容。适用于使用 Antigravity 与 Gemini 进行日常编码、对 token 成本和响应延迟敏感的开发者与团队。",
+  "tags": [
+    "mcp",
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-22T03:58:48.360862+00:00",
+  "analyzed_at": "2026-11-22T03:59:27.110364+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

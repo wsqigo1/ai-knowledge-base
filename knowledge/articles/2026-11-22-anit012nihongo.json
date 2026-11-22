@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-22-004",
+  "title": "AnIT012/nihongo",
+  "source": "github-trending",
+  "url": "https://github.com/AnIT012/nihongo",
+  "summary": "该项目是一个面向日语写作的 agent skill，用于将 AI 生成的日语文本改写得更接近人类自然表达。它解决 LLM 输出日语时常见的机械感、生硬措辞和翻译腔问题，通过可复用的技能提示/工作流适配 Claude、ChatGPT、Claude Code、Codex 等多种模型与工具。核心技术亮点在于以 agent skill 形式封装日语润色规则与改写流程，而非训练新模型，部署轻量、跨平台可用。适用场景包括日语内容创作、本地化文案、AI 辅助写作与多模型工作流中的文风优化。",
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "large-language-model",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-22T03:58:48.360862+00:00",
+  "analyzed_at": "2026-11-22T03:59:25.344240+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

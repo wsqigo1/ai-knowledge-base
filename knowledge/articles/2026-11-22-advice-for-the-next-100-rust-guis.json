@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-22-013",
+  "title": "Advice for the next 100 Rust GUIs",
+  "source": "hackernews-top",
+  "url": "https://linebender.org/blog/next-100-guis/",
+  "summary": "该文章是 Rust GUI 开发的经验总结，面向未来 100 个 Rust GUI 项目提出建议。文章梳理了 Rust GUI 生态的现状与痛点，包括框架碎片化、渲染后端选择、状态管理、跨平台兼容性等核心问题，并给出架构设计与工程实践层面的指导。技术亮点在于结合 Rust 所有权模型讨论 GUI 状态与事件循环的设计权衡，覆盖 egui、iced、Tauri 等主流方案。适用于正在选型或构建 Rust 桌面应用的工程师，对 AI 工程师开发本地工具界面亦有参考价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:49.351218+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

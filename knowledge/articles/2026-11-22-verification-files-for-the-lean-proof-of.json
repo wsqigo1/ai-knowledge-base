@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-22-016",
+  "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+  "source": "hackernews-top",
+  "url": "https://math.mit.edu/~drew/grh/",
+  "summary": "该条目是黎曼猜想 Lean 形式化证明的验证文件，属于数学形式化验证领域。它解决的是如何用 Lean 证明助手对黎曼猜想这一千禧年难题进行机器可验证证明的问题，核心技术亮点在于将高度复杂的解析数论证明转化为 Lean 可检查的形式化代码，并公开验证文件供社区审查。适用场景包括数学形式化研究、定理证明器开发、AI 辅助数学推理以及形式化验证工具链的测试。对 AI 工程师而言，其价值主要在于为 reasoning 和 code-generation 方向提供高难度形式化推理基准，但直接工程实用性有限。",
+  "tags": [
+    "reasoning",
+    "open-source",
+    "benchmark",
+    "code-generation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:55.198832+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-22-014",
+  "title": "LLMs can read and write executables byte by byte from a hex dump",
+  "source": "hackernews-top",
+  "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+  "summary": "该研究探讨大型语言模型（LLM）直接以十六进制转储（hex dump）形式逐字节读写可执行文件的能力。核心问题是LLM能否在不依赖专用二进制分析工具的情况下理解并修改机器码，从而简化逆向工程、漏洞修补和二进制补丁流程。技术亮点在于将可执行文件编码为十六进制文本输入模型，并评估其字节级生成与修改的准确性，涉及上下文窗口限制、字节对齐和指令语义保持等挑战。适用场景包括安全研究中的二进制分析、自动化漏洞修复、恶意软件检测以及教学演示，但实际生产部署仍需结合传统工具链。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "reasoning",
+    "developer-tools"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-22T03:58:48.479877+00:00",
+  "analyzed_at": "2026-11-22T03:59:51.498854+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

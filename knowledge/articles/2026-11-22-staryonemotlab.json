@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-22-002",
+  "title": "staryone/motlab",
+  "source": "github-trending",
+  "url": "https://github.com/staryone/motlab",
+  "summary": "motlab 是一个将视频生成转化为代码的开源项目：用 Canvas 场景描述画面，通过 WebCodecs 在 headless Chrome 中逐帧渲染并编码为视频，配套 review viewer 供人工审片，并提供 agent skills 让 Claude Code 等编码代理根据参考素材自动搭建视频。它解决的是传统视频制作流程难以版本化、难以程序化批量生成、难以让 AI 代理直接介入的问题，把视频变成可 diff、可复用的代码资产。技术亮点在于 WebCodecs 硬件加速编码与无头浏览器渲染管线的结合，以及面向 agent 的 skill 封装。适合程序化动效、数据驱动视频、AI 辅助内容生产等场景。",
+  "tags": [
+    "agent",
+    "multimodal",
+    "developer-tools",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-22T03:58:48.360862+00:00",
+  "analyzed_at": "2026-11-22T03:59:03.118902+00:00",
+  "organized_at": "2026-11-22T04:00:07.506740+00:00",
+  "status": "published"
+}

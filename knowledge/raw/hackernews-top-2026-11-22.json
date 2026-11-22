@@ -1,0 +1,393 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-22T03:58:50.053600+00:00",
+  "date": "2026-11-22",
+  "count": 20,
+  "items": [
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "source": "hackernews-top",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "hn_url": "https://news.ycombinator.com/item?id=50582069",
+      "description": "",
+      "hn_score": 760,
+      "comments": 177,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目报道了一种治疗胰腺癌的新药，被评价为数十年来该领域的最大突破。胰腺癌因早期诊断困难、化疗耐药性强而预后极差，新药有望显著延长患者生存期。核心技术亮点在于其针对特定分子靶点的创新机制（具体靶点与临床数据需查阅原文），可能涉及靶向治疗或免疫调节路径。适用场景为肿瘤内科临床治疗与药物研发参考，但与 AI/LLM 工程技术栈无直接关联，对 AI 工程师的实用价值有限。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-22T03:59:31.033357+00:00"
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "source": "hackernews-top",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "hn_url": "https://news.ycombinator.com/item?id=50589618",
+      "description": "",
+      "hn_score": 897,
+      "comments": 751,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该项目使用 Lean 定理证明器对黎曼猜想进行形式化验证尝试，旨在通过机器可验证的方式推进这一数学难题的证明或证伪。核心技术亮点在于将 Lean 的依赖类型理论与数学形式化结合，利用交互式定理证明环境确保每一步推理的严格正确性。适用场景包括数学形式化研究、定理证明器工具链开发以及 AI 辅助数学推理的基准测试。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-22T03:59:32.513528+00:00"
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "source": "hackernews-top",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "hn_url": "https://news.ycombinator.com/item?id=50591853",
+      "description": "",
+      "hn_score": 385,
+      "comments": 99,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "Inkling-2-Mini 是一款可在仅 5.4 GB 内存中运行的小型语言模型，旨在解决大模型部署时显存/内存占用过高、难以在消费级硬件或边缘设备上落地的问题。其核心技术亮点在于极低的内存占用与量化/压缩优化，使模型能在资源受限环境中保持可用性能。适用场景包括本地推理、边缘计算、个人设备上的 AI 助手及低资源环境下的原型验证。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-22T03:59:34.544389+00:00"
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "source": "hackernews-top",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "hn_url": "https://news.ycombinator.com/item?id=50588982",
+      "description": "",
+      "hn_score": 558,
+      "comments": 363,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目为 Hacker News 热门帖，内容为引爆一堆叠氮化铅（lead azide）的演示，属于化学/爆炸物实验展示，与 AI/LLM 技术无关。它不解决任何软件工程或 AI 问题，也无 LLM、agent、RAG 等技术亮点，仅因视觉冲击与猎奇性获得高社区热度（HN 558 分）。适用场景限于科普、化学演示或安全培训参考，对 AI 工程师的实际技术价值极低。",
+      "tags": [
+        "open-source",
+        "benchmark"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-22T03:59:36.156577+00:00"
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "source": "hackernews-top",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "hn_url": "https://news.ycombinator.com/item?id=50583028",
+      "description": "",
+      "hn_score": 187,
+      "comments": 64,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目探讨如何通过思维控制身体动作，进而实现对外部系统的操控，属于脑机接口（BCI）与神经控制交叉领域。核心问题在于如何将人类意图信号转化为可执行的身体或设备动作，降低控制延迟与误操作率。技术亮点可能涉及意图解码、运动想象分类或闭环反馈机制，强调从认知到行动的映射优化。适用场景包括辅助残障人士运动康复、人机协同操作及新型交互界面设计，对AI工程师在神经信号处理与实时控制方向有参考价值。",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-22T03:59:37.890516+00:00"
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "source": "hackernews-top",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "hn_url": "https://news.ycombinator.com/item?id=50587875",
+      "description": "",
+      "hn_score": 521,
+      "comments": 256,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该 HN 热帖记录了一次硬件故障排查：作者发现显示器通过 USB-C/DP 链路干扰导致网络下载速度下降 75%，最终定位为显示器内置 USB Hub 或电源管理引发的电磁干扰/带宽争用。问题本身与 AI 无关，但排查方法论（分层隔离、变量控制、链路替换）对 AI 工程师调试复杂系统（如多卡训练、分布式推理）有迁移价值。核心技术亮点在于用系统性二分法定位非直觉的跨组件干扰，适用场景为软硬件协同调试、性能异常归因。",
+      "tags": [
+        "developer-tools",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-22T03:59:39.564750+00:00"
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "source": "hackernews-top",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50595537",
+      "description": "",
+      "hn_score": 11,
+      "comments": 11,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目探讨「有意识 AI」这一概念在公众讨论与技术叙事中被神话化的现象，属于 AI 哲学与认知科学交叉的评论性文章。文章核心在于辨析意识（consciousness）与智能（intelligence）的混淆，指出当前 large-language-model 表现出的拟人化行为常被误读为意识迹象，并讨论这种误读对 AI 安全、监管预期和公众信任的潜在影响。技术亮点在于概念澄清与论证框架，而非工程实现。适用场景为 AI 伦理讨论、产品叙事设计及技术传播中的风险沟通，对一线 AI 工程师的直接工程价值有限。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "ai-assistant"
+      ],
+      "score": 5.4,
+      "analyzed_at": "2026-11-22T03:59:41.826256+00:00"
+    },
+    {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "source": "hackernews-top",
+      "url": "https://www.pandex.io",
+      "hn_url": "https://news.ycombinator.com/item?id=50593481",
+      "description": "",
+      "hn_score": 48,
+      "comments": 10,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "Pandex 是一个通过 MCP（Model Context Protocol）向 AI Agent 提供欧盟法律查询能力的开源项目。它解决 AI Agent 在涉及欧洲法规时缺乏权威、结构化法律知识的问题，避免模型幻觉或过时信息。核心技术亮点在于将欧盟法律数据封装为 MCP 工具，使 Agent 能按需检索官方法律条文，实现工具调用与法律知识库的标准化集成。适用场景包括合规审查、法律咨询辅助、跨境业务规则查询等需要引用欧洲法规的 AI 工作流。",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "open-source",
+        "rag"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-22T03:59:43.337496+00:00"
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "source": "hackernews-top",
+      "url": "https://jespino.github.io/gopgext/",
+      "hn_url": "https://news.ycombinator.com/item?id=50591260",
+      "description": "",
+      "hn_score": 125,
+      "comments": 23,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该项目探讨使用 Go 语言编写 PostgreSQL 扩展的可行性与实践方法，解决传统扩展开发依赖 C 语言带来的内存安全与开发效率问题。核心技术亮点在于利用 Go 的 cgo 机制或 WASM 运行时桥接 PostgreSQL 内部 API，实现类型安全、并发友好的扩展逻辑，并可能涉及与 pgx 等驱动的深度集成。适用场景包括需要高性能数据库侧计算、自定义数据类型或 AI 推理下推的工程师，尤其适合已有 Go 技术栈的团队降低扩展维护成本。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "vector-database",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-22T03:59:45.582386+00:00"
+    },
+    {
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "source": "hackernews-top",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50590279",
+      "description": "",
+      "hn_score": 141,
+      "comments": 102,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "Zero C# 是一个实验性项目，旨在让 C# 代码脱离 .NET 运行时和垃圾回收器（GC）运行，通过静态编译和手动内存管理实现零运行时依赖。它解决了在资源受限环境（如嵌入式系统、游戏引擎、WebAssembly 或原生库）中部署 C# 的痛点，同时保留 C# 的语法和类型安全优势。核心技术亮点包括自定义的 AOT 编译器、无 GC 的内存分配策略（如栈分配和区域内存）以及对 C# 子集的静态分析。适用场景包括高性能原生插件、实时系统、跨平台库开发以及探索 C# 在系统编程领域的可能性。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "code-generation",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-22T03:59:47.499825+00:00"
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "source": "hackernews-top",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "hn_url": "https://news.ycombinator.com/item?id=50593737",
+      "description": "",
+      "hn_score": 112,
+      "comments": 22,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该文章是 Rust GUI 开发的经验总结，面向未来 100 个 Rust GUI 项目提出建议。文章梳理了 Rust GUI 生态的现状与痛点，包括框架碎片化、渲染后端选择、状态管理、跨平台兼容性等核心问题，并给出架构设计与工程实践层面的指导。技术亮点在于结合 Rust 所有权模型讨论 GUI 状态与事件循环的设计权衡，覆盖 egui、iced、Tauri 等主流方案。适用于正在选型或构建 Rust 桌面应用的工程师，对 AI 工程师开发本地工具界面亦有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-22T03:59:49.351218+00:00"
+    },
+    {
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "source": "hackernews-top",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "hn_url": "https://news.ycombinator.com/item?id=50546587",
+      "description": "",
+      "hn_score": 206,
+      "comments": 134,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该研究探讨大型语言模型（LLM）直接以十六进制转储（hex dump）形式逐字节读写可执行文件的能力。核心问题是LLM能否在不依赖专用二进制分析工具的情况下理解并修改机器码，从而简化逆向工程、漏洞修补和二进制补丁流程。技术亮点在于将可执行文件编码为十六进制文本输入模型，并评估其字节级生成与修改的准确性，涉及上下文窗口限制、字节对齐和指令语义保持等挑战。适用场景包括安全研究中的二进制分析、自动化漏洞修复、恶意软件检测以及教学演示，但实际生产部署仍需结合传统工具链。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "developer-tools"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-22T03:59:51.498854+00:00"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "source": "hackernews-top",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "hn_url": "https://news.ycombinator.com/item?id=50575644",
+      "description": "",
+      "hn_score": 509,
+      "comments": 280,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该文章探讨iOS平台至今没有非WebKit浏览器内核的根本原因，剖析Apple对App Store审核规则和WebKit内核的强制绑定如何限制第三方浏览器引擎（如Blink、Gecko）进入iOS。核心亮点在于从政策、商业利益与技术架构三层解释垄断成因，并讨论欧盟DMA等监管压力下的潜在变化。对AI工程师而言，理解平台限制有助于评估移动端Web应用与AI前端部署的可行性边界。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-22T03:59:53.534622+00:00"
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "source": "hackernews-top",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "hn_url": "https://news.ycombinator.com/item?id=50590441",
+      "description": "",
+      "hn_score": 106,
+      "comments": 37,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目是黎曼猜想 Lean 形式化证明的验证文件，属于数学形式化验证领域。它解决的是如何用 Lean 证明助手对黎曼猜想这一千禧年难题进行机器可验证证明的问题，核心技术亮点在于将高度复杂的解析数论证明转化为 Lean 可检查的形式化代码，并公开验证文件供社区审查。适用场景包括数学形式化研究、定理证明器开发、AI 辅助数学推理以及形式化验证工具链的测试。对 AI 工程师而言，其价值主要在于为 reasoning 和 code-generation 方向提供高难度形式化推理基准，但直接工程实用性有限。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-22T03:59:55.198832+00:00"
+    },
+    {
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "source": "hackernews-top",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "hn_url": "https://news.ycombinator.com/item?id=50546495",
+      "description": "",
+      "hn_score": 100,
+      "comments": 67,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目探讨《万智牌》（Magic: The Gathering）中的指数级增长现象，分析卡牌效果如何通过叠加触发产生指数级资源或伤害膨胀。核心在于用数学建模揭示游戏平衡性设计中的指数机制，涉及组合数学与概率分析。技术亮点是量化了指数行为对游戏策略和卡牌设计的影响，为桌游/卡牌游戏机制分析提供参考。适用场景包括游戏设计、数学建模教学及桌游策略研究，对AI工程师的直接实用价值有限。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-22T03:59:56.950109+00:00"
+    },
+    {
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "source": "hackernews-top",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50532417",
+      "description": "",
+      "hn_score": 45,
+      "comments": 23,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目讨论热带雨林物种的演化年龄可能远低于传统认知，属于生态学与演化生物学研究。研究通过分子钟或系统发育分析等方法，挑战了热带雨林作为古老物种避难所的经典假说，揭示许多物种在较晚地质时期才分化形成。核心亮点在于跨物种的大尺度比较与时间校准方法，对理解生物多样性形成机制有理论意义。适用场景为演化生物学、保护生物学及生态学教学讨论，但与 AI 工程技术无直接关联。",
+      "tags": [
+        "benchmark",
+        "reasoning"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-22T03:59:58.682897+00:00"
+    },
+    {
+      "title": "RCE in Gnupg",
+      "source": "hackernews-top",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50587208",
+      "description": "",
+      "hn_score": 242,
+      "comments": 98,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "GnuPG 被披露存在远程代码执行（RCE）漏洞，攻击者可利用特制输入触发内存破坏并在目标系统执行任意代码。该漏洞影响广泛使用的开源加密工具链，涉及密钥管理、签名验证与邮件加密等场景。核心技术点在于漏洞位于解析不可信数据（如密钥或签名包）的代码路径，可能通过恶意构造的 OpenPGP 消息触发。对 AI 工程师而言，此条目与 LLM 技术栈无直接关联，但作为开源安全事件，提醒在集成加密、签名验证或供应链安全组件时需关注依赖漏洞与及时更新。适用场景为安全审计、依赖管理与基础设施防护。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "security"
+      ],
+      "score": 4.5,
+      "analyzed_at": "2026-11-22T04:00:00.612292+00:00"
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "hn_url": "https://news.ycombinator.com/item?id=50583761",
+      "description": "",
+      "hn_score": 641,
+      "comments": 725,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目是 Hacker News 上的一则求助帖，发帖者拥有 15 年从业经验、身处美国，已失业两年，询问下一步该怎么做。帖子本身不涉及具体技术方案，核心价值在于呈现资深工程师长期失业的真实困境与社区讨论，涵盖求职策略、年龄歧视、技能更新、转行或自由职业等建议。技术亮点缺失，但社区热度极高（641 分），讨论中可能包含对当前就业市场、AI 对岗位冲击的观察。适用场景为职业规划参考、就业市场情绪分析，对 AI 工程师的技术选型无直接帮助。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-22T04:00:02.465086+00:00"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "source": "hackernews-top",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "hn_url": "https://news.ycombinator.com/item?id=50579568",
+      "description": "",
+      "hn_score": 2399,
+      "comments": 1166,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目为 Hacker News 热门帖，标题指向 Alessandro Masullo 的 GRH 项目，但描述与附加信息均缺失，仅知 HN Score 高达 2399，说明社区关注度极高。由于缺乏项目细节，无法确认其具体解决的技术问题、核心架构或适用场景；从命名与热度推测，可能涉及开源工具或 AI 相关工程实践，但需进一步查阅原始链接才能评估其技术深度与实用价值。当前信息不足以支撑对 LLM 工程师的直接参考意义。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 5.0,
+      "analyzed_at": "2026-11-22T04:00:04.703499+00:00"
+    },
+    {
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "source": "hackernews-top",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "hn_url": "https://news.ycombinator.com/item?id=50595812",
+      "description": "",
+      "hn_score": 7,
+      "comments": 0,
+      "collected_at": "2026-11-22T03:58:48.479877+00:00",
+      "published_at": "2026-11-22T03:58:48.479877+00:00",
+      "summary": "该条目探讨将AI应用于黎曼猜想这一数学难题的设想，属于AI for Math方向的探索性讨论。核心问题在于：当前LLM与自动定理证明系统能否在纯数学重大猜想上产生实质性推进。技术亮点可能涉及形式化证明辅助（如Lean）、符号推理与LLM结合、以及AI生成数学猜想的可行性边界。适用场景为AI辅助数学研究、自动定理证明、以及评估LLM在长程逻辑推理上的能力上限。需注意此类讨论多为概念性思辨，缺乏可复现实验与基准数据，对一线AI工程师的直接工程价值有限，但对reasoning方向的研究者具有启发意义。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "large-language-model"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-22T04:00:07.456450+00:00"
+    }
+  ]
+}
