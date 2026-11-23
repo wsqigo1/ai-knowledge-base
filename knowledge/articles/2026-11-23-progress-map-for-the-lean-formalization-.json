@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-23-014",
+  "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+  "source": "hackernews-top",
+  "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+  "summary": "该项目是 Lean 定理证明器对 Alessandro Masullo 手稿进行形式化验证的进度地图，旨在将数学手稿中的定义、定理与证明逐步翻译为 Lean 4 可机器检验的代码，解决形式化数学中进度追踪与协作管理的问题。核心技术亮点在于以进度地图方式可视化形式化覆盖率、标注未完成引理与依赖关系，并可能结合 Mathlib 生态与自动化证明策略。适用场景包括形式化数学研究、Lean 社区协作项目、数学论文的可验证复现以及 AI 辅助定理证明的基准构建。",
+  "tags": [
+    "open-source",
+    "reasoning",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-23T04:41:06.641237+00:00",
+  "analyzed_at": "2026-11-23T04:42:03.400021+00:00",
+  "organized_at": "2026-11-23T04:42:19.070326+00:00",
+  "status": "published"
+}

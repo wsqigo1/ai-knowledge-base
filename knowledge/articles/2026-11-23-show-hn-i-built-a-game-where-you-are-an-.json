@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-23-016",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "source": "hackernews-top",
+  "url": "https://github.com/gulivan/worker755",
+  "summary": "这是一个交互式游戏，玩家扮演 LLM 的 subagent，在模拟的任务环境中执行指令、调用工具并完成目标。它通过游戏化方式直观展示 LLM agent 的工作机制，帮助理解 prompt 解析、tool-use 决策和任务分解流程。核心技术亮点在于将 agent 执行循环转化为可玩的交互体验，降低 agent 系统的认知门槛。适用场景包括 AI 工程师理解 agent 行为、教学演示以及 agent 设计思路的快速验证。",
+  "tags": [
+    "large-language-model",
+    "agent",
+    "tool-use",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-23T04:41:06.641237+00:00",
+  "analyzed_at": "2026-11-23T04:42:06.738274+00:00",
+  "organized_at": "2026-11-23T04:42:19.070326+00:00",
+  "status": "published"
+}

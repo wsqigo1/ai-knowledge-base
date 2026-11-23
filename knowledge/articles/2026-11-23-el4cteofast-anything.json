@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-23-001",
+  "title": "EL4CTEO/fast-anything",
+  "source": "github-trending",
+  "url": "https://github.com/EL4CTEO/fast-anything",
+  "summary": "fast-anything 是一个面向 AI coding agent 的性能优化工作流工具，主张不整体重写项目，而是先用 profiler 定位 Python/Node/Ruby 应用中真正慢的 5% 热点函数，再借助 coding agent 将这些函数移植为 Rust 等高性能实现，并通过行为等价性验证确保语义一致。核心亮点是把性能剖析、agent 驱动的代码生成与差分测试串成闭环，以 agent-skills/插件形式集成到 Claude Code、Codex 等工具链。适用于已有脚本语言服务、希望低成本提速且不愿承担全量重写风险的工程团队。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-23T04:41:06.520906+00:00",
+  "analyzed_at": "2026-11-23T04:41:13.330231+00:00",
+  "organized_at": "2026-11-23T04:42:19.070326+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-23-013",
+  "title": "Perplexity and Intelligence",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/perplexity-and-intelligence/",
+  "summary": "该条目探讨语言模型中的困惑度（Perplexity）与模型智能水平之间的关系，核心问题是：困惑度这一传统语言建模指标能否真实反映模型的推理与理解能力。文章通过实验与理论分析指出，低困惑度并不必然对应高智能表现，模型在分布外任务、长尾推理上可能表现不佳，而困惑度仅衡量下一 token 预测的统计拟合度。技术亮点在于将困惑度与下游任务表现、校准误差、推理链质量进行对比分析，揭示指标与能力之间的错位。适用场景包括模型评估体系设计、benchmark 选择、以及 LLM 训练目标与能力对齐的研究讨论。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "prompt-engineering"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-23T04:41:06.641237+00:00",
+  "analyzed_at": "2026-11-23T04:41:59.617019+00:00",
+  "organized_at": "2026-11-23T04:42:19.070326+00:00",
+  "status": "published"
+}

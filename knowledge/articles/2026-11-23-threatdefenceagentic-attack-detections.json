@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-23-002",
+  "title": "ThreatDefence/agentic-attack-detections",
+  "source": "github-trending",
+  "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+  "summary": "该项目汇集了针对 AI agent 攻击框架（ARTEX、Cairn、PentAGI、HexStrike、CyberStrikeAI、Strix、Hermes Agent、Agent Zero）的检测规则与 IOC，解决蓝队在 agentic AI 威胁下缺乏可落地检测能力的问题。核心亮点是覆盖 KQL（Microsoft Sentinel/Defender XDR）、Sigma、Suricata、Zeek、YARA、Splunk、Elastic 及 STIX 2.1 等多引擎规则集，可直接用于威胁狩猎与告警。适用于安全运营中心、红蓝对抗与 AI 安全研究场景。",
+  "tags": [
+    "agent",
+    "open-source",
+    "ai-security",
+    "detection-engineering",
+    "multi-agent"
+  ],
+  "score": 7.6,
+  "collected_at": "2026-11-23T04:41:06.520906+00:00",
+  "analyzed_at": "2026-11-23T04:41:18.560388+00:00",
+  "organized_at": "2026-11-23T04:42:19.070326+00:00",
+  "status": "published"
+}

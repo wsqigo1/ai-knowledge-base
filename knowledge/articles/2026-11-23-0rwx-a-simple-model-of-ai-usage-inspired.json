@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-23-015",
+  "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+  "source": "hackernews-top",
+  "url": "https://0rwx.com/",
+  "summary": "该条目提出一种受 Unix 文件权限启发的 AI 使用权限模型（0rwx），用类似 owner/group/other 的读、写、执行位来刻画 AI 系统对数据与工具的访问控制。它针对的是 AI agent 与工具调用场景中权限边界模糊、难以审计的问题，核心亮点在于用极简、工程师熟悉的 Unix 权限语义统一表达 AI 的读写与执行能力，降低权限配置与推理成本。适用于 agent 工具调用、数据访问治理与 AI 安全策略设计等场景，但当前仅为概念模型，HN 热度有限。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "developer-tools",
+    "open-source"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-23T04:41:06.641237+00:00",
+  "analyzed_at": "2026-11-23T04:42:05.159349+00:00",
+  "organized_at": "2026-11-23T04:42:19.070326+00:00",
+  "status": "published"
+}
