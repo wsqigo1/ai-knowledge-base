@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-24-013",
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "source": "hackernews-top",
+  "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+  "summary": "NariQ 是一种面向 Qwen3-27B 的量化方案，将模型压缩至约 10 GB 单文件，同时保持 BF16 级别的输出质量。它解决的是大模型本地部署时显存与存储占用过高的问题，使 27B 级模型可在消费级硬件上运行。核心技术亮点在于量化精度接近 BF16、单文件封装便于分发与加载，并针对 Qwen3 架构做了适配优化。适用场景包括本地推理、边缘部署、低成本实验与私有化 AI 助手搭建。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:48.578232+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

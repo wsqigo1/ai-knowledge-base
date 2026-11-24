@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-24-014",
+  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+  "source": "hackernews-top",
+  "url": "https://z.ai/blog/glm-5.4",
+  "summary": "GLM-5.4 是智谱推出的首个 loop transformer 架构大模型，面向通用编码任务。它针对传统 transformer 在长程代码依赖与迭代式推理上的不足，通过循环复用层间计算增强多步代码生成与调试能力。核心技术亮点是 loop transformer 设计，使模型能在推理时进行多轮内部迭代，提升复杂算法题与仓库级代码理解表现。适用场景包括代码生成、程序修复、agentic coding 与开发者工具集成。",
+  "tags": [
+    "large-language-model",
+    "code-generation",
+    "reasoning",
+    "open-source",
+    "developer-tools"
+  ],
+  "score": 8.2,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:50.243898+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

@@ -1,7 +1,278 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 3190,
+  "total_count": 3208,
   "entries": [
+    {
+      "id": "kb-2026-11-24-001",
+      "title": "erkamyaman/safe-anything",
+      "source": "github-trending",
+      "url": "https://github.com/erkamyaman/safe-anything",
+      "file": "2026-11-24-erkamyamansafe-anything.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "agent",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-002",
+      "title": "xikhar/papercraft",
+      "source": "github-trending",
+      "url": "https://github.com/xikhar/papercraft",
+      "file": "2026-11-24-xikharpapercraft.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tools",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-003",
+      "title": "qianyiai/kurocat",
+      "source": "github-trending",
+      "url": "https://github.com/qianyiai/kurocat",
+      "file": "2026-11-24-qianyiaikurocat.json",
+      "tags": [
+        "open-source",
+        "mcp",
+        "developer-tools",
+        "multimodal",
+        "ai-assistant"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-004",
+      "title": "sous-labs/songe",
+      "source": "github-trending",
+      "url": "https://github.com/sous-labs/songe",
+      "file": "2026-11-24-sous-labssonge.json",
+      "tags": [
+        "fine-tuning",
+        "local-llm",
+        "open-source",
+        "developer-tools",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-005",
+      "title": "praseesh369/youtube-ai-video-editing-system",
+      "source": "github-trending",
+      "url": "https://github.com/praseesh369/youtube-ai-video-editing-system",
+      "file": "2026-11-24-praseesh369youtube-ai-video-editing-syst.json",
+      "tags": [
+        "agent",
+        "workflow-automation",
+        "multimodal",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-006",
+      "title": "lebrowndnasty-hash/ai-app-builder",
+      "source": "github-trending",
+      "url": "https://github.com/lebrowndnasty-hash/ai-app-builder",
+      "file": "2026-11-24-lebrowndnasty-hashai-app-builder.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "open-source",
+        "workflow-automation",
+        "large-language-model"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-007",
+      "title": "rcgaming265-afk/claude-prompt-studio",
+      "source": "github-trending",
+      "url": "https://github.com/rcgaming265-afk/claude-prompt-studio",
+      "file": "2026-11-24-rcgaming265-afkclaude-prompt-studio.json",
+      "tags": [
+        "prompt-engineering",
+        "developer-tools",
+        "automation",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-008",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "source": "hackernews-top",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "file": "2026-11-24-stalwart-is-now-a-drop-in-replacement-fo.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-009",
+      "title": "Ladybird is now in alpha",
+      "source": "hackernews-top",
+      "url": "https://ladybird.org/posts/alpha/",
+      "file": "2026-11-24-ladybird-is-now-in-alpha.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-010",
+      "title": "GPUI is getting its own repository",
+      "source": "hackernews-top",
+      "url": "https://github.com/zed-industries/gpui",
+      "file": "2026-11-24-gpui-is-getting-its-own-repository.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-011",
+      "title": "Declare is a UI language for you and your AI",
+      "source": "hackernews-top",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "file": "2026-11-24-declare-is-a-ui-language-for-you-and-you.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-012",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "file": "2026-11-24-latent-introspection-llms-can-detect-pri.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-013",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "source": "hackernews-top",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "file": "2026-11-24-nariq-bf16-level-qwen38-27b-in-a-10-gb-f.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-014",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "source": "hackernews-top",
+      "url": "https://z.ai/blog/glm-5.4",
+      "file": "2026-11-24-glm-54-toward-generalized-coding-with-ou.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-015",
+      "title": "Kagi Mail (public beta)",
+      "source": "hackernews-top",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "file": "2026-11-24-kagi-mail-public-beta.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-016",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "source": "hackernews-top",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "file": "2026-11-24-c26-is-done-again-iso-c-meeting-trip-rep.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-017",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "source": "hackernews-top",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "file": "2026-11-24-win4wine-run-windows-shell-as-the-linux-.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
+    {
+      "id": "kb-2026-11-24-018",
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "file": "2026-11-24-shirudo-openai-and-ciscos-open-source-ru.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-24T07:33:02.423222+00:00"
+    },
     {
       "id": "kb-2026-11-23-001",
       "title": "EL4CTEO/fast-anything",
@@ -48030,5 +48301,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-23T04:42:19.438605+00:00"
+  "last_updated": "2026-11-24T07:33:02.753369+00:00"
 }

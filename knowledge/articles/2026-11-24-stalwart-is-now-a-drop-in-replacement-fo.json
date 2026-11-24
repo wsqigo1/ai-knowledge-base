@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-24-008",
+  "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+  "source": "hackernews-top",
+  "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+  "summary": "Stalwart 是一个开源邮件服务器，现已实现与 Microsoft Exchange 的即插即用兼容，可替代 Exchange 提供邮件、日历、联系人等协作服务。它解决了企业从 Exchange 迁移时面临的高成本、许可限制和云依赖问题，核心技术亮点包括原生支持 JMAP、IMAP、SMTP、CalDAV 等开放协议，内置反垃圾邮件、全文搜索和 Sieve 过滤，并采用 Rust 编写以保证性能与内存安全。适用场景为中小型企业、注重数据主权和成本控制的组织，以及希望自建邮件系统的技术团队。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:26.679642+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

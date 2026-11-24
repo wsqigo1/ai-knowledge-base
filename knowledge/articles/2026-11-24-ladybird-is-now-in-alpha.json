@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-24-009",
+  "title": "Ladybird is now in alpha",
+  "source": "hackernews-top",
+  "url": "https://ladybird.org/posts/alpha/",
+  "summary": "Ladybird 是一个从零开始独立实现的浏览器引擎，现已进入 alpha 阶段。它旨在解决现有浏览器引擎（如 Blink、WebKit）由大厂主导、代码库庞大复杂、难以独立演进的问题，提供更简洁、模块化且符合 Web 标准的替代方案。核心技术亮点包括自研的 LibWeb 渲染引擎、LibJS JavaScript 引擎以及多进程架构，强调安全性与性能。适用场景包括浏览器开发研究、Web 标准测试、嵌入式 Web 渲染以及希望摆脱单一厂商垄断的开发者社区。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:28.461552+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-24-001",
+  "title": "erkamyaman/safe-anything",
+  "source": "github-trending",
+  "url": "https://github.com/erkamyaman/safe-anything",
+  "summary": "safe-anything 是一个用 Rust 编写的高性能漏洞扫描器，面向代码安全审计场景，可检测 XSS、SQL 注入、泄露的密钥、依赖 CVE，并特别覆盖 AI agent 配置（如 Claude Code 插件）的安全检查。核心亮点在于纯 Rust 实现带来的扫描速度，以及将传统 Web 漏洞与 AI agent 工具链安全纳入统一检测范围。适用于开发者在提交代码前做本地安全自查，或集成到 CI 流程中，尤其适合使用 Claude Code、Codex 等 AI 编程工具的团队排查 agent 配置风险。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "agent",
+    "tool-use"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-24T07:31:40.782294+00:00",
+  "analyzed_at": "2026-11-24T07:31:53.501076+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-24-004",
+  "title": "sous-labs/songe",
+  "source": "github-trending",
+  "url": "https://github.com/sous-labs/songe",
+  "summary": "sous-labs/songe 是一个面向本地模型的训练引擎，利用用户闲置算力进行模型训练。它解决本地 LLM 用户缺乏高效训练工具、闲置 GPU 资源浪费的问题，核心亮点在于将训练任务调度到空闲计算资源上，支持 fine-tuning 与 distillation 流程，并与 coding-agents 场景结合。适用场景包括个人开发者或小团队在本地环境对开源模型做微调、知识蒸馏，以及构建基于本地模型的编码助手。项目以 Python 实现，当前处于早期阶段，社区关注度中等。",
+  "tags": [
+    "fine-tuning",
+    "local-llm",
+    "open-source",
+    "developer-tools",
+    "code-generation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-24T07:31:40.782294+00:00",
+  "analyzed_at": "2026-11-24T07:32:02.940941+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

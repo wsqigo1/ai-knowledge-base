@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-24-018",
+  "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+  "source": "hackernews-top",
+  "url": "https://openai.com/index/introducing-shirudo/",
+  "summary": "Shirudo 是 OpenAI 与 Cisco 联合开源的 Linux 内核运行时防护工具，用于为尚未打补丁的 Linux 系统提供临时安全隔离。它针对漏洞披露到补丁部署之间的空窗期风险，通过运行时拦截与策略约束限制未修复漏洞的可利用面，避免攻击者利用已知缺陷提权或横向移动。核心技术亮点在于内核级运行时防护与低开销策略执行，可在不重启、不打补丁的前提下动态收敛攻击面。适用场景包括生产服务器、边缘设备及无法及时打补丁的关键基础设施的安全运维。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:57.505631+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

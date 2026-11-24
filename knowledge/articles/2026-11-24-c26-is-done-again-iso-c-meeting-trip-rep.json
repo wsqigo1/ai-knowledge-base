@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-24-016",
+  "title": "C++26 is done (again): ISO C++ meeting trip report",
+  "source": "hackernews-top",
+  "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+  "summary": "这是 ISO C++ 委员会会议行程报告，记录 C++26 标准草案在本次会议上基本定稿（\"done again\" 指此前已宣布完成、本次又做修订收尾）。内容围绕标准库与语言核心的最终提案表决、遗留缺陷处理及下一版 C++29 的早期规划展开，涉及反射、契约、模式匹配等重量级特性的落地状态与争议。对 AI 工程师而言，价值在于提前了解未来编译器与工具链演进方向，尤其是反射和编译期计算对高性能推理框架、算子库与代码生成工具的潜在影响，但短期不改变日常开发。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "open-source",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:54.095882+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}

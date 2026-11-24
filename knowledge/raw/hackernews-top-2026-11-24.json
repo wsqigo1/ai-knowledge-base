@@ -1,0 +1,394 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-24T07:31:42.097648+00:00",
+  "date": "2026-11-24",
+  "count": 20,
+  "items": [
+    {
+      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "source": "hackernews-top",
+      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50624487",
+      "description": "",
+      "hn_score": 108,
+      "comments": 29,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该条目报道印度反对党因Instagram账号被封锁而冲击Meta办公室要求恢复账号，属于科技公司内容审核与政治争议事件，而非技术项目或研究文章。事件核心是社交媒体平台账号封禁引发的政治压力与线下抗议，涉及平台治理、内容审核政策及政治干预科技公司运营等议题。对AI工程师而言，该条目缺乏可复用的技术方案、模型方法或工程实践，技术深度与实用价值极低，仅可作为平台治理与内容审核政策背景的参考案例。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "workflow-automation"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-24T07:32:22.914880+00:00"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "source": "hackernews-top",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50611576",
+      "description": "",
+      "hn_score": 2465,
+      "comments": 3402,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该条目为 Hacker News 热门新闻，标题称 Nvidia 重新任命 Jensen Huang 为 CEO。实际上 Jensen Huang 自 1993 年创立 Nvidia 以来一直担任 CEO，从未离任，因此该标题可能为误传、标题党或对某次公司治理事件的夸张表述。条目本身不包含任何技术方案、架构或工程实践内容，对 AI 工程师的技术参考价值极低。其高热度（HN Score 2465）主要源于 Nvidia 在 AI 算力领域的核心地位以及 Jensen Huang 本人的公众影响力，属于行业新闻而非技术文章。适用场景仅限于了解 AI 硬件生态的舆论动态，不适合作为技术学习或工程决策依据。",
+      "tags": [
+        "open-source",
+        "benchmark"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-24T07:32:24.871272+00:00"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "source": "hackernews-top",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "hn_url": "https://news.ycombinator.com/item?id=50620349",
+      "description": "",
+      "hn_score": 390,
+      "comments": 196,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Stalwart 是一个开源邮件服务器，现已实现与 Microsoft Exchange 的即插即用兼容，可替代 Exchange 提供邮件、日历、联系人等协作服务。它解决了企业从 Exchange 迁移时面临的高成本、许可限制和云依赖问题，核心技术亮点包括原生支持 JMAP、IMAP、SMTP、CalDAV 等开放协议，内置反垃圾邮件、全文搜索和 Sieve 过滤，并采用 Rust 编写以保证性能与内存安全。适用场景为中小型企业、注重数据主权和成本控制的组织，以及希望自建邮件系统的技术团队。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-24T07:32:26.679642+00:00"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "source": "hackernews-top",
+      "url": "https://ladybird.org/posts/alpha/",
+      "hn_url": "https://news.ycombinator.com/item?id=50614249",
+      "description": "",
+      "hn_score": 1737,
+      "comments": 404,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Ladybird 是一个从零开始独立实现的浏览器引擎，现已进入 alpha 阶段。它旨在解决现有浏览器引擎（如 Blink、WebKit）由大厂主导、代码库庞大复杂、难以独立演进的问题，提供更简洁、模块化且符合 Web 标准的替代方案。核心技术亮点包括自研的 LibWeb 渲染引擎、LibJS JavaScript 引擎以及多进程架构，强调安全性与性能。适用场景包括浏览器开发研究、Web 标准测试、嵌入式 Web 渲染以及希望摆脱单一厂商垄断的开发者社区。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-24T07:32:28.461552+00:00"
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "source": "hackernews-top",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "hn_url": "https://news.ycombinator.com/item?id=50622774",
+      "description": "",
+      "hn_score": 241,
+      "comments": 67,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "纽约州立法禁止汽车经销商对车辆收取订阅费和购后费用，要求所有功能价格在购车时一次性透明披露。该法案针对车企通过软件订阅锁定座椅加热、自动驾驶等功能并持续收费的商业模式，强制将此类功能纳入车辆基础售价。核心亮点在于以消费者保护立法直接干预软件定义汽车的商业化路径，为汽车行业订阅制划定法律边界。适用场景包括汽车经销商合规、车企定价策略调整及消费者权益保护实践，对AI工程师的直接技术关联较弱，但涉及软件产品定价与功能解锁的商业模式讨论。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-24T07:32:30.821887+00:00"
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "source": "hackernews-top",
+      "url": "https://github.com/zed-industries/gpui",
+      "hn_url": "https://news.ycombinator.com/item?id=50619103",
+      "description": "",
+      "hn_score": 224,
+      "comments": 83,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "GPUI 是 Zed 编辑器团队开发的 Rust 原生 GPU 加速 UI 框架，现从 Zed 主仓库独立为单独仓库。它解决的是传统 UI 框架在高刷新率、复杂界面下渲染性能不足的问题，通过直接利用 GPU 进行界面绘制，实现低延迟、高帧率的桌面应用体验。核心技术亮点包括基于 Rust 的零成本抽象、GPU 渲染管线集成、以及面向现代桌面应用的响应式布局能力。适用场景为需要高性能图形界面的桌面工具、编辑器、IDE 及实时交互类应用，对 AI 工程师而言可作为构建本地 AI 工具前端的高效 UI 层选型参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-24T07:32:33.439943+00:00"
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "source": "hackernews-top",
+      "url": "https://www.bored.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50619207",
+      "description": "",
+      "hn_score": 205,
+      "comments": 45,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Bored.com 是一个聚合趣味、有趣和酷炫网站的导航目录，旨在解决用户无聊时缺乏探索目标的问题。其核心技术亮点在于对海量站点进行人工或半自动的分类整理与推荐，提供简洁的浏览入口和发现机制。该项目本身不涉及 AI 或复杂工程实现，更偏向内容策展与 Web 目录服务。适用场景包括个人休闲浏览、灵感发现以及作为网站收藏与分享的轻量工具，对 AI 工程师的直接技术参考价值有限。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-24T07:32:35.253628+00:00"
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "hn_url": "https://news.ycombinator.com/item?id=50615308",
+      "description": "",
+      "hn_score": 1546,
+      "comments": 857,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该条目是 Hacker News 上的一则高热度讨论帖，标题指控 Anthropic CEO Dario Amodei 通过夸大 AI 安全风险来推动对开源模型的监管限制，从而维持闭源厂商的控制地位。帖子本身并非技术文章，而是围绕 AI 治理、开源生态与商业利益冲突的争议性观点，核心议题涉及开源大模型（OSS models）的合法性与监管边界、AI 安全叙事背后的商业动机，以及闭源与开源路线的博弈。适用场景为 AI 政策讨论、开源社区立场分析及行业舆论观察，对具体工程实践的直接技术指导有限。",
+      "tags": [
+        "open-source",
+        "large-language-model",
+        "benchmark"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-24T07:32:37.567828+00:00"
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "source": "hackernews-top",
+      "url": "https://arm.jonpalmisc.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50617499",
+      "description": "",
+      "hn_score": 981,
+      "comments": 225,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该条目为 Hacker News 上的一则站点停运公告，某网站应 Arm 公司要求将于 2026 年 12 月 4 日停止服务，HN 热度达 981 分。内容本身不涉及具体技术方案或工程实践，核心信息仅为停运时间与请求方，缺乏可迁移的技术亮点。对 AI 工程师而言，其价值主要在于提示关注 Arm 生态相关工具与资源的可持续性，以及社区对平台关停事件的高关注度，适用场景限于技术选型时的依赖风险评估与生态动态跟踪。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.2,
+      "analyzed_at": "2026-11-24T07:32:40.338627+00:00"
+    },
+    {
+      "title": "Declare is a UI language for you and your AI",
+      "source": "hackernews-top",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "hn_url": "https://news.ycombinator.com/item?id=50622854",
+      "description": "",
+      "hn_score": 40,
+      "comments": 27,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Declare 是一种面向人类与 AI 协作的 UI 语言，旨在解决传统 UI 开发中人类可读性与 AI 可理解性难以兼顾的问题。其核心技术亮点在于将界面声明为结构化、语义化的描述，使 LLM 能够直接解析并生成或修改 UI，同时保持人类可读的语法。该语言可能支持组件化声明、状态绑定和事件处理，降低 AI 生成 UI 代码的歧义性。适用场景包括 AI 辅助的快速原型设计、低代码平台中的智能 UI 生成，以及需要人机协同编辑界面的开发工作流。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-24T07:32:42.259778+00:00"
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "source": "hackernews-top",
+      "url": "https://spelunkr.tv",
+      "hn_url": "https://news.ycombinator.com/item?id=50606192",
+      "description": "",
+      "hn_score": 982,
+      "comments": 170,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该项目利用 Internet Archive 中大量被遗忘的公共领域视频资源，构建了一个免费的替代性电视网络，通过自动化编排与流媒体播放技术，将零散存档内容转化为可连续观看的频道。它解决了传统电视内容获取成本高、存档视频难以被有效利用的问题，核心技术亮点在于对海量视频元数据的自动化整理、频道编排算法以及基于 Web 的流媒体分发。适用场景包括个人或社区搭建低成本流媒体服务、数字存档内容的再利用与展示，以及作为媒体技术教学案例。",
+      "tags": [
+        "open-source",
+        "workflow-automation",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-24T07:32:44.556048+00:00"
+    },
+    {
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "source": "hackernews-top",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "hn_url": "https://news.ycombinator.com/item?id=50620328",
+      "description": "",
+      "hn_score": 54,
+      "comments": 4,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该研究探讨 LLM 能否通过「潜在内省」（latent introspection）机制检测自身表示中先前被注入的概念，即模型对内部激活状态进行自我监控的能力。核心在于利用模型内部表示而非外部输出判断概念注入是否发生，为可解释性与安全监控提供新思路。技术亮点是无需额外训练即可探测隐藏状态中的概念痕迹，适用于模型安全审计、提示注入检测与对齐研究。HN 热度中等（54 分），偏学术探索，工程落地尚早。",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "prompt-engineering"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-24T07:32:46.371011+00:00"
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "source": "hackernews-top",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "hn_url": "https://news.ycombinator.com/item?id=50611402",
+      "description": "",
+      "hn_score": 159,
+      "comments": 32,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "NariQ 是一种面向 Qwen3-27B 的量化方案，将模型压缩至约 10 GB 单文件，同时保持 BF16 级别的输出质量。它解决的是大模型本地部署时显存与存储占用过高的问题，使 27B 级模型可在消费级硬件上运行。核心技术亮点在于量化精度接近 BF16、单文件封装便于分发与加载，并针对 Qwen3 架构做了适配优化。适用场景包括本地推理、边缘部署、低成本实验与私有化 AI 助手搭建。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-24T07:32:48.578232+00:00"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "source": "hackernews-top",
+      "url": "https://z.ai/blog/glm-5.4",
+      "hn_url": "https://news.ycombinator.com/item?id=50609685",
+      "description": "",
+      "hn_score": 1104,
+      "comments": 360,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "GLM-5.4 是智谱推出的首个 loop transformer 架构大模型，面向通用编码任务。它针对传统 transformer 在长程代码依赖与迭代式推理上的不足，通过循环复用层间计算增强多步代码生成与调试能力。核心技术亮点是 loop transformer 设计，使模型能在推理时进行多轮内部迭代，提升复杂算法题与仓库级代码理解表现。适用场景包括代码生成、程序修复、agentic coding 与开发者工具集成。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 8.2,
+      "analyzed_at": "2026-11-24T07:32:50.243898+00:00"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "source": "hackernews-top",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "hn_url": "https://news.ycombinator.com/item?id=50615481",
+      "description": "",
+      "hn_score": 402,
+      "comments": 315,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Kagi Mail 是 Kagi 推出的邮件服务公开测试版，主打隐私优先与无广告的邮件体验。它解决主流邮件服务商扫描内容、插入广告和追踪用户的问题，通过端到端加密、无广告界面和订阅制商业模式保障用户数据不被商业化利用。核心技术亮点包括隐私保护架构、与 Kagi 搜索生态的整合，以及对邮件内容的零分析承诺。适用场景为注重隐私的个人用户、需要干净邮件工作流的知识工作者，以及对数据主权有要求的小型团队。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-24T07:32:51.981544+00:00"
+    },
+    {
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "source": "hackernews-top",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "hn_url": "https://news.ycombinator.com/item?id=50600838",
+      "description": "",
+      "hn_score": 114,
+      "comments": 143,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "这是 ISO C++ 委员会会议行程报告，记录 C++26 标准草案在本次会议上基本定稿（\"done again\" 指此前已宣布完成、本次又做修订收尾）。内容围绕标准库与语言核心的最终提案表决、遗留缺陷处理及下一版 C++29 的早期规划展开，涉及反射、契约、模式匹配等重量级特性的落地状态与争议。对 AI 工程师而言，价值在于提前了解未来编译器与工具链演进方向，尤其是反射和编译期计算对高性能推理框架、算子库与代码生成工具的潜在影响，但短期不改变日常开发。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-24T07:32:54.095882+00:00"
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "source": "hackernews-top",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "hn_url": "https://news.ycombinator.com/item?id=50610743",
+      "description": "",
+      "hn_score": 228,
+      "comments": 120,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Win4wine 是一个开源项目，旨在通过 Wine 兼容层将 Windows Shell（如 explorer.exe）作为 Linux 桌面环境运行。它解决了 Linux 用户希望直接使用 Windows 原生桌面组件（如任务栏、开始菜单）而无需完整虚拟机的需求。核心技术亮点在于深度集成 Wine 与 Linux 显示服务器，实现 Windows Shell 的窗口管理、系统托盘和文件资源管理器功能。适用场景包括需要运行 Windows 专属桌面工具或偏好 Windows 交互风格的 Linux 用户，以及 Wine 兼容性测试与开发。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-24T07:32:55.816926+00:00"
+    },
+    {
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "source": "hackernews-top",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "hn_url": "https://news.ycombinator.com/item?id=50619630",
+      "description": "",
+      "hn_score": 64,
+      "comments": 19,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "Shirudo 是 OpenAI 与 Cisco 联合开源的 Linux 内核运行时防护工具，用于为尚未打补丁的 Linux 系统提供临时安全隔离。它针对漏洞披露到补丁部署之间的空窗期风险，通过运行时拦截与策略约束限制未修复漏洞的可利用面，避免攻击者利用已知缺陷提权或横向移动。核心技术亮点在于内核级运行时防护与低开销策略执行，可在不重启、不打补丁的前提下动态收敛攻击面。适用场景包括生产服务器、边缘设备及无法及时打补丁的关键基础设施的安全运维。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-24T07:32:57.505631+00:00"
+    },
+    {
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "source": "hackernews-top",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "hn_url": "https://news.ycombinator.com/item?id=50605479",
+      "description": "",
+      "hn_score": 300,
+      "comments": 317,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该条目讨论 Nespresso 减少每颗咖啡胶囊中咖啡粉克数的项目，属于消费品制造与可持续包装领域的工程优化，而非 AI/LLM 技术内容。其核心问题是在保证萃取风味与品质的前提下降低单杯咖啡用量，涉及粉量配比、研磨度、胶囊结构与萃取压力等参数协同调整。技术亮点在于通过工艺与产品设计实现减量而不牺牲口感，并可能带来成本与环保收益。适用场景为咖啡胶囊产品研发、食品工程与可持续消费设计。对 AI 工程师而言，该内容与本职工作关联度低，仅可作为跨领域工程优化思路的参考。",
+      "tags": [
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-24T07:33:00.280999+00:00"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "source": "hackernews-top",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "hn_url": "https://news.ycombinator.com/item?id=50620102",
+      "description": "",
+      "hn_score": 314,
+      "comments": 281,
+      "collected_at": "2026-11-24T07:31:40.893897+00:00",
+      "published_at": "2026-11-24T07:31:40.893897+00:00",
+      "summary": "该条目讨论计算复杂性理论中 VP 与 VNP 是否相等的问题，指出在任意域上 VP ≠ VNP 这一结论成立。它解决的是代数复杂性理论中关于 VP 与 VNP 关系这一核心开放问题的部分情形，核心技术亮点在于对任意域（包括正特征域和小特征域）给出 VP 与 VNP 不等的证明或构造，突破了此前仅在特定域（如有理数域或特征为零的域）上成立的结果。适用场景主要是理论计算机科学、代数复杂性、电路下界与证明复杂性研究，对 AI 工程师的日常工程实践直接价值有限，但为理解计算极限与算法下界提供理论基础。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-24T07:33:02.310664+00:00"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-24-012",
+  "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+  "source": "hackernews-top",
+  "url": "https://arxiv.org/abs/2602.20031",
+  "summary": "该研究探讨 LLM 能否通过「潜在内省」（latent introspection）机制检测自身表示中先前被注入的概念，即模型对内部激活状态进行自我监控的能力。核心在于利用模型内部表示而非外部输出判断概念注入是否发生，为可解释性与安全监控提供新思路。技术亮点是无需额外训练即可探测隐藏状态中的概念痕迹，适用于模型安全审计、提示注入检测与对齐研究。HN 热度中等（54 分），偏学术探索，工程落地尚早。",
+  "tags": [
+    "large-language-model",
+    "reasoning",
+    "benchmark",
+    "prompt-engineering"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-24T07:31:40.893897+00:00",
+  "analyzed_at": "2026-11-24T07:32:46.371011+00:00",
+  "organized_at": "2026-11-24T07:33:02.423222+00:00",
+  "status": "published"
+}
