@@ -1,7 +1,230 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 3208,
+  "total_count": 3223,
   "entries": [
+    {
+      "id": "kb-2026-11-26-001",
+      "title": "Developing-Gamer/agent-sim",
+      "source": "github-trending",
+      "url": "https://github.com/Developing-Gamer/agent-sim",
+      "file": "2026-11-26-developing-gameragent-sim.json",
+      "tags": [
+        "agent",
+        "tool-use",
+        "open-source",
+        "developer-tools",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-002",
+      "title": "alesha-pro/llm.asm",
+      "source": "github-trending",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "file": "2026-11-26-alesha-prollmasm.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "benchmark",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-003",
+      "title": "1Password Security Incident",
+      "source": "hackernews-top",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "file": "2026-11-26-1password-security-incident.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-004",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "source": "hackernews-top",
+      "url": "https://github.com/lsernau/grh-lean",
+      "file": "2026-11-26-much-shorter-version-of-grh-lean-verific.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-005",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "source": "hackernews-top",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "file": "2026-11-26-gpt-62-astra-is-the-first-model-to-beat-.json",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-006",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "file": "2026-11-26-openai-cuts-gpt-62-usage-astra-hits-limi.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-007",
+      "title": "Bare Metal Qwen",
+      "source": "hackernews-top",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "file": "2026-11-26-bare-metal-qwen.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-008",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "source": "hackernews-top",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "file": "2026-11-26-nfs2root-a-12-year-old-pre-auth-remote-r.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-009",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "file": "2026-11-26-the-new-york-times-warns-photographers-n.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-010",
+      "title": "SSH is a GUI framework",
+      "source": "hackernews-top",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "file": "2026-11-26-ssh-is-a-gui-framework.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-011",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "source": "hackernews-top",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "file": "2026-11-26-google-releases-cogentic-papers-on-integ.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-012",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "source": "hackernews-top",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "file": "2026-11-26-windows-loudness-equalization-reverse-en.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-013",
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "source": "hackernews-top",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "file": "2026-11-26-porting-rockbox-to-an-undocumented-9-ali.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-014",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "source": "hackernews-top",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "file": "2026-11-26-i-checked-clojures-core-with-lean-and-fo.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
+    {
+      "id": "kb-2026-11-26-015",
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "source": "hackernews-top",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "file": "2026-11-26-jev-is-probably-qwen35-35b-a3b.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "benchmark",
+        "agent"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-26T05:55:41.616880+00:00"
+    },
     {
       "id": "kb-2026-11-24-001",
       "title": "erkamyaman/safe-anything",
@@ -48301,5 +48524,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-24T07:33:02.753369+00:00"
+  "last_updated": "2026-11-26T05:55:41.905874+00:00"
 }

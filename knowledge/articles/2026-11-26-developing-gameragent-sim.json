@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-26-001",
+  "title": "Developing-Gamer/agent-sim",
+  "source": "github-trending",
+  "url": "https://github.com/Developing-Gamer/agent-sim",
+  "summary": "该项目为 AI agents 提供在 Linux 上运行 iOS 模拟器的能力，是 x86Sim 的 agent 层。它解决了 AI agent 在非 macOS 环境中无法直接操作 iOS 模拟器、难以进行移动端自动化测试与交互的问题。核心技术亮点在于用 Rust 实现，将 iOS 模拟器能力封装为 agent 可调用的工具层，支持 Claude Code 等 agent 框架，使 agent 能在 Linux 上驱动 iOS 应用。适用场景包括移动端 UI 自动化测试、agent 驱动的 iOS 应用探索与调试、跨平台 CI 中的 iOS 交互验证。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "open-source",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-26T05:54:14.859421+00:00",
+  "analyzed_at": "2026-11-26T05:54:36.881355+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

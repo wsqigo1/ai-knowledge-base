@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-26-015",
+  "title": "Jev is probably Qwen3.5-35B-A3B",
+  "source": "hackernews-top",
+  "url": "https://modaic.dev/blog/latency-doesnt-lie",
+  "summary": "该条目讨论社区推测某匿名模型'Jev'实为 Qwen3.5-35B-A3B，即阿里 Qwen 系列新一代 MoE 架构模型（35B 总参数、约 3B 激活参数）。它回应的是开源社区对神秘高性能模型身份与来源的追踪需求，帮助工程师判断其是否值得本地部署或作为基座使用。核心技术亮点在于 MoE 稀疏激活带来的推理成本优势，以及 Qwen3.5 在 reasoning、多语言与 agent 能力上的迭代。适用场景包括本地/私有化部署、低成本推理服务、微调基座选型与模型能力对比评测。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "reasoning",
+    "benchmark",
+    "agent"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:41.502368+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-26-006",
+  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "source": "hackernews-top",
+  "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+  "summary": "该条目讨论 OpenAI 对 GPT-6.2 使用量的削减策略，涉及 Astra 与 Sol 两个模型在推理效率上的差异：Astra 达到使用上限的速度快 40%，Sol 快 25%。核心问题在于高负载下模型调用配额与推理成本的管理，技术亮点是不同模型变体在 token 消耗速率上的量化对比，反映出 OpenAI 对资源分配和限流的精细化控制。适用场景包括 API 配额规划、模型选型与成本评估、以及依赖 OpenAI 服务的应用容量设计。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "developer-tools",
+    "reasoning"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:16.757430+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

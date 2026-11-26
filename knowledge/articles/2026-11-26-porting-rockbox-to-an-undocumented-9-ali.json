@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-26-013",
+  "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+  "source": "hackernews-top",
+  "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+  "summary": "该项目记录了一位开发者将开源固件 Rockbox 移植到一款无文档的 9 美元 AliExpress 'YP3' MP3 播放器的过程，并借助 LLM 辅助逆向工程与代码生成。核心问题是廉价硬件缺乏官方文档和固件支持，导致移植困难。技术亮点在于利用 LLM 分析固件、推断硬件接口、生成适配代码，显著降低逆向工程门槛。适用场景包括嵌入式开发、固件逆向、低成本硬件改造，以及探索 LLM 在系统级编程中的实际辅助能力。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "code-generation",
+    "developer-tools",
+    "reasoning"
+  ],
+  "score": 7.5,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:36.947083+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

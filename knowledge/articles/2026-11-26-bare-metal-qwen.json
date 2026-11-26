@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-26-007",
+  "title": "Bare Metal Qwen",
+  "source": "hackernews-top",
+  "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+  "summary": "Bare Metal Qwen 是一个在裸机（bare metal）环境下直接运行 Qwen 大语言模型的开源项目，旨在摆脱对容器化、虚拟化或重型推理框架的依赖，降低部署门槛与运行时开销。其核心技术亮点在于针对裸机硬件进行底层优化，精简推理栈，可能涉及直接内存管理、算子融合与轻量化运行时，从而在资源受限或追求极致性能的场景中提升推理效率。该项目适合边缘设备、嵌入式 AI、私有化部署及对延迟和资源占用敏感的工程场景，为 AI 工程师提供了一种轻量级 LLM 部署参考方案。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:18.452937+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

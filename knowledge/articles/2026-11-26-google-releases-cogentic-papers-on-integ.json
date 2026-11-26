@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-26-011",
+  "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+  "source": "hackernews-top",
+  "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+  "summary": "Google 发布 Cogentic 系列论文，聚焦整数分解（integer factorization）与离散对数（discrete logs）等经典计算难题。该研究探索以 AI 方法辅助解决密码学与数论中的硬问题，核心亮点在于将学习型方法引入传统算法难以高效处理的数学计算任务，可能涉及模型引导的搜索或启发式优化。适用场景包括密码学安全性分析、数论算法研究以及 AI for Math 方向的探索，对 AI 工程师理解模型在形式化数学问题上的能力边界具有参考价值。",
+  "tags": [
+    "reasoning",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:26.793147+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

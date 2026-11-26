@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-26-002",
+  "title": "alesha-pro/llm.asm",
+  "source": "github-trending",
+  "url": "https://github.com/alesha-pro/llm.asm",
+  "summary": "该项目用100%纯x86-64 NASM汇编实现三个组件：Qwen3-0.6B推理（12KB）、可启动裸机OS（22KB）和带实时Braille TUI的从零Mini-GPT训练器（32KB），零C、零libc、零依赖。它解决的是LLM推理与训练对庞大运行时和依赖栈的依赖问题，证明极小体积下可运行Transformer推理与训练。核心技术亮点包括手写AVX2向量化、裸机引导、汇编级内存管理与Braille终端可视化。适用于嵌入式/裸机AI、教学演示及极致性能与体积研究场景。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "benchmark",
+    "developer-tools"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-26T05:54:14.859421+00:00",
+  "analyzed_at": "2026-11-26T05:54:41.933271+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

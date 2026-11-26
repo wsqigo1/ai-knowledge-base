@@ -1,0 +1,396 @@
+{
+  "source": "hackernews-top",
+  "collected_at": "2026-11-26T05:54:19.179193+00:00",
+  "date": "2026-11-26",
+  "count": 20,
+  "items": [
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "source": "hackernews-top",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "hn_url": "https://news.ycombinator.com/item?id=50646108",
+      "description": "",
+      "hn_score": 1210,
+      "comments": 1061,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目为 Hacker News 热门讨论帖，标题以夸张语气表达对近期某项技术进展的震惊，但描述与附加信息均未提供具体技术内容，无法确认其指向 LLM、Agent 或其他 AI 工程方向。核心价值在于 HN 社区高热度（1210 分）所反映的行业情绪与关注焦点，而非可复用的技术方案或工具。适用场景限于追踪技术趋势与社区舆论，对 AI 工程师的落地实践参考有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 3.5,
+      "analyzed_at": "2026-11-26T05:55:01.881571+00:00"
+    },
+    {
+      "title": "1Password Security Incident",
+      "source": "hackernews-top",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50644817",
+      "description": "",
+      "hn_score": 1303,
+      "comments": 547,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "1Password 披露一起安全事件，涉及内部系统被未授权访问，攻击者疑似通过员工设备或凭证获取部分基础设施权限。事件核心问题在于密码管理器厂商自身的安全边界与供应链信任，技术亮点包括其快速检测、隔离受影响系统、强制密钥轮换以及对外透明披露时间线。对 AI 工程师而言，该事件提醒在构建 agent、tool-use 与自动化工作流时，需对 secrets 管理、API key 存储和第三方凭证调用链做最小权限与零信任设计，适用于依赖密码管理器或集中式凭证服务的开发与运维场景。",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-26T05:55:03.841905+00:00"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "source": "hackernews-top",
+      "url": "https://github.com/lsernau/grh-lean",
+      "hn_url": "https://news.ycombinator.com/item?id=50648050",
+      "description": "",
+      "hn_score": 374,
+      "comments": 187,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该项目是 Anthropic 对广义黎曼假设（GRH）进行 Lean 形式化验证工作的精简版本，旨在降低形式化数学证明的代码规模与验证复杂度。它解决了大型 Lean 证明工程难以复现、审阅和教学的问题，核心技术亮点在于通过重构证明结构、精简冗余步骤，在保持形式化正确性的前提下显著缩短验证脚本。适用场景包括形式化数学研究、Lean 教学示例、AI 辅助定理证明的基准测试，以及探索 LLM 与交互式定理证明器结合的工程实践。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-26T05:55:05.862058+00:00"
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "hn_url": "https://news.ycombinator.com/item?id=50649864",
+      "description": "",
+      "hn_score": 192,
+      "comments": 75,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目是 Hacker News 上的一则社区动态帖，指出近期 Ask HN 类帖子数量明显增多。它本身不涉及具体技术方案或开源项目，而是反映 HN 社区讨论生态的变化：用户更频繁地发起提问型帖子，寻求建议、经验分享或问题诊断。核心信息在于社区互动模式的观察，而非技术实现。对 AI 工程师而言，价值有限，主要可用于了解开发者社区关注点和提问趋势，但不提供可直接复用的技术内容。",
+      "tags": [
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-26T05:55:07.865714+00:00"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "source": "hackernews-top",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "hn_url": "https://news.ycombinator.com/item?id=50647181",
+      "description": "",
+      "hn_score": 219,
+      "comments": 103,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该 HN 讨论聚焦 Ubuntu 安全响应速度缓慢的问题，指出 Canonical 在处理 CVE 补丁、安全更新发布上存在明显延迟，影响依赖 Ubuntu 的生产环境与开源生态。讨论涉及具体案例、与 Debian 等发行版的对比，以及安全团队资源与流程瓶颈。核心技术亮点在于对发行版安全维护流程的实证分析与社区反馈，而非 AI 技术本身。适用场景为运维工程师、安全团队及开源发行版维护者评估基础镜像安全风险时参考。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-26T05:55:10.552105+00:00"
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "source": "hackernews-top",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "hn_url": "https://news.ycombinator.com/item?id=50601280",
+      "description": "",
+      "hn_score": 326,
+      "comments": 90,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "GPT-6.2 Astra 是 OpenAI 发布的新一代大语言模型，在代码高尔夫（code golf）任务上首次超越 Google 工程师保持的纪录。代码高尔夫要求用尽可能短的代码实现指定功能，对模型的代码生成精度、语言特性掌握和推理压缩能力要求极高。该模型通过强化推理与代码生成训练，在极端约束下仍能产出正确且极简的代码，体现了 reasoning 与 code-generation 能力的融合突破。适用于代码竞赛、自动化脚本优化、算法教学及对代码简洁性有严格要求的工程场景。",
+      "tags": [
+        "large-language-model",
+        "code-generation",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-26T05:55:12.641212+00:00"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "source": "hackernews-top",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "hn_url": "https://news.ycombinator.com/item?id=50643129",
+      "description": "",
+      "hn_score": 459,
+      "comments": 113,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目是 Hacker News 上一篇高热度（459 分）的采访式文章，主角是曾潜入 Home Depot 蓄水池的潜水者，内容围绕其动机、安全考量与现场细节展开。文章不涉及任何 AI/LLM 技术，也未提出可迁移的工程方法或工具，核心价值在于猎奇叙事与社区讨论，而非技术方案。对 AI 工程师而言，仅可作为 HN 社区兴趣风向的参考，无直接实用价值或技术深度。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-26T05:55:15.145427+00:00"
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "hn_url": "https://news.ycombinator.com/item?id=50651117",
+      "description": "",
+      "hn_score": 88,
+      "comments": 51,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目讨论 OpenAI 对 GPT-6.2 使用量的削减策略，涉及 Astra 与 Sol 两个模型在推理效率上的差异：Astra 达到使用上限的速度快 40%，Sol 快 25%。核心问题在于高负载下模型调用配额与推理成本的管理，技术亮点是不同模型变体在 token 消耗速率上的量化对比，反映出 OpenAI 对资源分配和限流的精细化控制。适用场景包括 API 配额规划、模型选型与成本评估、以及依赖 OpenAI 服务的应用容量设计。",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-26T05:55:16.757430+00:00"
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "source": "hackernews-top",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "hn_url": "https://news.ycombinator.com/item?id=50648365",
+      "description": "",
+      "hn_score": 105,
+      "comments": 22,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "Bare Metal Qwen 是一个在裸机（bare metal）环境下直接运行 Qwen 大语言模型的开源项目，旨在摆脱对容器化、虚拟化或重型推理框架的依赖，降低部署门槛与运行时开销。其核心技术亮点在于针对裸机硬件进行底层优化，精简推理栈，可能涉及直接内存管理、算子融合与轻量化运行时，从而在资源受限或追求极致性能的场景中提升推理效率。该项目适合边缘设备、嵌入式 AI、私有化部署及对延迟和资源占用敏感的工程场景，为 AI 工程师提供了一种轻量级 LLM 部署参考方案。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-26T05:55:18.452937+00:00"
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "source": "hackernews-top",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "hn_url": "https://news.ycombinator.com/item?id=50647161",
+      "description": "",
+      "hn_score": 117,
+      "comments": 43,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目披露 Linux 内核 NFS 服务器中存在长达 12 年的 pre-auth 远程 root 漏洞，攻击者无需认证即可获取 root 权限。问题根源在于 NFS 服务对特定 RPC 请求的权限校验缺陷，影响广泛部署的 Linux 服务器。技术亮点在于漏洞的长期潜伏性与远程利用的严重性，涉及内核网络协议栈与 RPC 认证机制。适用场景为 Linux 系统安全审计、漏洞修复与渗透测试，对 AI 工程师的直接技术关联较弱，但作为基础设施安全案例具有参考价值。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-26T05:55:20.565371+00:00"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "source": "hackernews-top",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "hn_url": "https://news.ycombinator.com/item?id=50647673",
+      "description": "",
+      "hn_score": 286,
+      "comments": 258,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "《纽约时报》向摄影师发出警告，建议不要因 AI 功能而升级 Photoshop。该事件源于 Adobe 更新服务条款，允许其使用用户内容训练 AI 模型，并默认开启生成式 AI 功能，引发专业创作者对作品版权与数据使用的担忧。核心技术争议点在于生成式 AI 的训练数据授权与用户内容使用边界，涉及内容凭证（Content Credentials）与数据隐私机制。对 AI 工程师而言，这反映了 AI 产品在数据合规、用户信任与默认设置设计上的关键权衡。适用场景包括 AI 产品合规设计、内容平台数据治理及创作者工具的产品决策参考。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-26T05:55:22.577095+00:00"
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "source": "hackernews-top",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "hn_url": "https://news.ycombinator.com/item?id=50589784",
+      "description": "",
+      "hn_score": 165,
+      "comments": 80,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该文章提出将 SSH 协议视为一种 GUI 框架，探讨如何利用 SSH 的终端交互能力构建用户界面。它解决的是在无图形环境下（如远程服务器、嵌入式设备）快速搭建交互式界面的问题，避免依赖浏览器或本地 GUI 库。核心技术亮点在于将 SSH 的会话、通道、终端仿真等原语抽象为 UI 组件模型，可能涉及 TUI 渲染、事件循环与状态同步。适用场景包括运维工具、CLI 应用增强、低带宽远程管理界面，对 AI 工程师构建 agent 交互终端或调试工具有一定参考价值，但领域匹配度一般。",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-26T05:55:24.685442+00:00"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "source": "hackernews-top",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "hn_url": "https://news.ycombinator.com/item?id=50642086",
+      "description": "",
+      "hn_score": 475,
+      "comments": 342,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "Google 发布 Cogentic 系列论文，聚焦整数分解（integer factorization）与离散对数（discrete logs）等经典计算难题。该研究探索以 AI 方法辅助解决密码学与数论中的硬问题，核心亮点在于将学习型方法引入传统算法难以高效处理的数学计算任务，可能涉及模型引导的搜索或启发式优化。适用场景包括密码学安全性分析、数论算法研究以及 AI for Math 方向的探索，对 AI 工程师理解模型在形式化数学问题上的能力边界具有参考价值。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-26T05:55:26.793147+00:00"
+    },
+    {
+      "title": "How can people make money as AI replaces intellectual jobs?",
+      "source": "hackernews-top",
+      "url": "https://news.ycombinator.com/item?id=50651911",
+      "hn_url": "https://news.ycombinator.com/item?id=50651911",
+      "description": "",
+      "hn_score": 6,
+      "comments": 1,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目是 Hacker News 上的一则讨论帖，探讨在 AI 逐步替代知识型工作的背景下，个人如何寻找新的收入来源。帖子本身并非技术文章，而是围绕 AI 对就业结构冲击的社会经济议题展开观点交流，涉及职业转型、AI 辅助创业、技能再定位等方向。核心价值在于提供工程师视角的行业趋势观察与多元变现思路，而非具体技术方案。适用于关注 AI 职业影响、寻求副业或转型路径的开发者与研究者参考。",
+      "tags": [
+        "large-language-model",
+        "ai-assistant",
+        "workflow-automation",
+        "developer-tools"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-26T05:55:28.775550+00:00"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "source": "hackernews-top",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50644980",
+      "description": "",
+      "hn_score": 145,
+      "comments": 37,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目是一篇数学论文，宣称多项式 Hirsch 猜想（polynomial Hirsch conjecture）为假，即线性规划中多面体图直径的多项式上界不成立。Hirsch 猜想及其多项式变体长期是组合优化与多面体理论的核心问题，关系到单纯形法 pivot 规则的最坏情况复杂度。论文通过构造反例推翻该猜想，属于纯数学突破，对 AI 工程无直接实用价值，但涉及组合优化与算法复杂度理论，对研究 reasoning 与算法设计的工程师有间接启发。",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 4.2,
+      "analyzed_at": "2026-11-26T05:55:30.860092+00:00"
+    },
+    {
+      "title": "Marginal Grains",
+      "source": "hackernews-top",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "hn_url": "https://news.ycombinator.com/item?id=50634381",
+      "description": "",
+      "hn_score": 5,
+      "comments": 0,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "Marginal Grains 是 Hacker News 上出现的一个技术条目，但当前仅提供标题和 HN Score 为 5 的有限信息，缺乏描述、代码仓库或文章正文，无法确认其具体技术内容。从命名推测可能与边缘计算、数据分片或细粒度资源调度相关，但无实质证据。由于信息严重不足，无法评估其解决的问题、核心技术亮点及适用场景。该条目对 AI 工程师的实际参考价值有限，建议补充原始链接或详细描述后再做判断。",
+      "tags": [
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 2.0,
+      "analyzed_at": "2026-11-26T05:55:32.951640+00:00"
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "source": "hackernews-top",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "hn_url": "https://news.ycombinator.com/item?id=50641171",
+      "description": "",
+      "hn_score": 331,
+      "comments": 185,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该项目逆向工程了 Windows 的响度均衡（Loudness Equalization）算法，并将其移植到 Linux 音频框架 PipeWire 上。它解决了 Linux 桌面音频缺乏动态范围压缩/响度均衡功能的问题，使不同音量内容的播放体验更一致。核心技术亮点在于对 Windows 专有音频处理链的逆向分析与在 PipeWire 中的等效实现，涉及音频信号处理与系统级集成。适用场景包括 Linux 桌面用户、音频工程师及对跨平台音频兼容性感兴趣的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.5,
+      "analyzed_at": "2026-11-26T05:55:34.955944+00:00"
+    },
+    {
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "source": "hackernews-top",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50624446",
+      "description": "",
+      "hn_score": 250,
+      "comments": 96,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该项目记录了一位开发者将开源固件 Rockbox 移植到一款无文档的 9 美元 AliExpress 'YP3' MP3 播放器的过程，并借助 LLM 辅助逆向工程与代码生成。核心问题是廉价硬件缺乏官方文档和固件支持，导致移植困难。技术亮点在于利用 LLM 分析固件、推断硬件接口、生成适配代码，显著降低逆向工程门槛。适用场景包括嵌入式开发、固件逆向、低成本硬件改造，以及探索 LLM 在系统级编程中的实际辅助能力。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "code-generation",
+        "developer-tools",
+        "reasoning"
+      ],
+      "score": 7.5,
+      "analyzed_at": "2026-11-26T05:55:36.947083+00:00"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "source": "hackernews-top",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "hn_url": "https://news.ycombinator.com/item?id=50642939",
+      "description": "",
+      "hn_score": 207,
+      "comments": 71,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该项目使用 Lean 定理证明器对 Clojure 核心库进行形式化验证，发现了一些未被报告的 bug。它解决的是动态语言核心库缺乏严格正确性保证的问题，核心技术亮点在于将 Clojure 的语义映射到 Lean 中，并利用定理证明进行自动化检查。适用场景包括编程语言实现者、形式化验证研究者以及对 Clojure 可靠性感兴趣的开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "reasoning",
+        "benchmark"
+      ],
+      "score": 7.0,
+      "analyzed_at": "2026-11-26T05:55:38.675450+00:00"
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "source": "hackernews-top",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "hn_url": "https://news.ycombinator.com/item?id=50648823",
+      "description": "",
+      "hn_score": 284,
+      "comments": 77,
+      "collected_at": "2026-11-26T05:54:16.597483+00:00",
+      "published_at": "2026-11-26T05:54:16.597483+00:00",
+      "summary": "该条目讨论社区推测某匿名模型'Jev'实为 Qwen3.5-35B-A3B，即阿里 Qwen 系列新一代 MoE 架构模型（35B 总参数、约 3B 激活参数）。它回应的是开源社区对神秘高性能模型身份与来源的追踪需求，帮助工程师判断其是否值得本地部署或作为基座使用。核心技术亮点在于 MoE 稀疏激活带来的推理成本优势，以及 Qwen3.5 在 reasoning、多语言与 agent 能力上的迭代。适用场景包括本地/私有化部署、低成本推理服务、微调基座选型与模型能力对比评测。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "reasoning",
+        "benchmark",
+        "agent"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-26T05:55:41.502368+00:00"
+    }
+  ]
+}

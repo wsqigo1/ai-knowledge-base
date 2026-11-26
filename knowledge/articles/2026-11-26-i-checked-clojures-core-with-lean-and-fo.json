@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-26-014",
+  "title": "I checked Clojure's core with Lean and found unreported bugs",
+  "source": "hackernews-top",
+  "url": "https://s.conao3.com/blog/2026/e4f733",
+  "summary": "该项目使用 Lean 定理证明器对 Clojure 核心库进行形式化验证，发现了一些未被报告的 bug。它解决的是动态语言核心库缺乏严格正确性保证的问题，核心技术亮点在于将 Clojure 的语义映射到 Lean 中，并利用定理证明进行自动化检查。适用场景包括编程语言实现者、形式化验证研究者以及对 Clojure 可靠性感兴趣的开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "reasoning",
+    "benchmark"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:38.675450+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

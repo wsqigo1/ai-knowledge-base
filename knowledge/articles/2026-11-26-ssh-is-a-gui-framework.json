@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-26-010",
+  "title": "SSH is a GUI framework",
+  "source": "hackernews-top",
+  "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+  "summary": "该文章提出将 SSH 协议视为一种 GUI 框架，探讨如何利用 SSH 的终端交互能力构建用户界面。它解决的是在无图形环境下（如远程服务器、嵌入式设备）快速搭建交互式界面的问题，避免依赖浏览器或本地 GUI 库。核心技术亮点在于将 SSH 的会话、通道、终端仿真等原语抽象为 UI 组件模型，可能涉及 TUI 渲染、事件循环与状态同步。适用场景包括运维工具、CLI 应用增强、低带宽远程管理界面，对 AI 工程师构建 agent 交互终端或调试工具有一定参考价值，但领域匹配度一般。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:24.685442+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}

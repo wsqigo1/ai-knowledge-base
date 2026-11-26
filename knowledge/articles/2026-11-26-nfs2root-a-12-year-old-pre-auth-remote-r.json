@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-26-008",
+  "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+  "source": "hackernews-top",
+  "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+  "summary": "该条目披露 Linux 内核 NFS 服务器中存在长达 12 年的 pre-auth 远程 root 漏洞，攻击者无需认证即可获取 root 权限。问题根源在于 NFS 服务对特定 RPC 请求的权限校验缺陷，影响广泛部署的 Linux 服务器。技术亮点在于漏洞的长期潜伏性与远程利用的严重性，涉及内核网络协议栈与 RPC 认证机制。适用场景为 Linux 系统安全审计、漏洞修复与渗透测试，对 AI 工程师的直接技术关联较弱，但作为基础设施安全案例具有参考价值。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-26T05:54:16.597483+00:00",
+  "analyzed_at": "2026-11-26T05:55:20.565371+00:00",
+  "organized_at": "2026-11-26T05:55:41.616880+00:00",
+  "status": "published"
+}
