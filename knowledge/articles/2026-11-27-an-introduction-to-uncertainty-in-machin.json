@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-27-011",
+  "title": "An introduction to uncertainty in machine learning",
+  "source": "hackernews-top",
+  "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+  "summary": "该条目介绍机器学习中的不确定性（uncertainty）概念，属于基础性技术文章。文章系统梳理了不确定性在ML中的来源与类型，包括aleatoric uncertainty（数据固有噪声）和epistemic uncertainty（模型认知不足），并讨论量化与建模方法（如贝叶斯方法、集成方法、概率输出校准等）。核心亮点在于将抽象的不确定性理论转化为工程可用的分类框架，帮助工程师理解模型置信度、识别分布外样本与提升系统鲁棒性。适用场景包括模型风险评估、安全关键系统、主动学习与数据采集策略，以及需要可靠置信度估计的部署环境。",
+  "tags": [
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-27T05:47:52.710586+00:00",
+  "analyzed_at": "2026-11-27T05:48:53.680243+00:00",
+  "organized_at": "2026-11-27T05:49:06.670178+00:00",
+  "status": "published"
+}

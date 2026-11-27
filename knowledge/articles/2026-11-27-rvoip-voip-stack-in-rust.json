@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-27-012",
+  "title": "Rvoip: VoIP stack in Rust",
+  "source": "hackernews-top",
+  "url": "https://github.com/eisenzopf/rvoip",
+  "summary": "Rvoip 是一个用 Rust 实现的 VoIP 协议栈开源项目，旨在为开发者提供高性能、内存安全的实时语音通信基础设施。它解决了传统 VoIP 栈（如基于 C/C++ 的实现）在并发安全、资源管理和异步 I/O 方面的痛点，核心技术亮点包括利用 Rust 的 ownership 模型保证线程安全、基于 async/await 的异步网络处理、以及模块化的 SIP/RTP 协议实现。该项目适用于需要构建低延迟语音通话、会议系统或嵌入式通信组件的场景，尤其适合对可靠性和性能有较高要求的 Rust 生态开发者。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-27T05:47:52.710586+00:00",
+  "analyzed_at": "2026-11-27T05:48:55.322668+00:00",
+  "organized_at": "2026-11-27T05:49:06.670178+00:00",
+  "status": "published"
+}

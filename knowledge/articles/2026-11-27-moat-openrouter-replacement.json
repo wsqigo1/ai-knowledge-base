@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-27-013",
+  "title": "Moat: OpenRouter replacement",
+  "source": "hackernews-top",
+  "url": "https://commandcode.ai/moat",
+  "summary": "Moat 是 OpenRouter 的开源替代方案，定位为 LLM API 网关与路由层，解决开发者依赖 OpenRouter 单一托管服务带来的供应商锁定、成本不透明与可用性风险。核心技术亮点在于统一多模型接入接口、请求路由与回退策略、用量与成本追踪，并支持自托管部署以掌控数据流。适用于需要多模型切换、成本优化或私有化部署 LLM 调用基础设施的 AI 工程团队。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-27T05:47:52.710586+00:00",
+  "analyzed_at": "2026-11-27T05:49:03.558010+00:00",
+  "organized_at": "2026-11-27T05:49:06.670178+00:00",
+  "status": "published"
+}

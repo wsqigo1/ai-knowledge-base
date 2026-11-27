@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-27-006",
+  "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+  "source": "hackernews-top",
+  "url": "https://github.com/antonpictures/youtube-punisher",
+  "summary": "YouTube Ad Punisher 是一个浏览器端工具，当检测到 YouTube 播放广告时自动重新加载页面，从而绕过广告播放。它解决的是用户不愿观看广告但又不愿付费订阅 YouTube Premium 的痛点。核心技术亮点在于通过监听页面事件或 DOM 变化来识别广告状态，并触发页面刷新，实现轻量级广告规避。适用场景包括个人日常浏览 YouTube 时减少广告干扰，尤其适合对广告容忍度低且不介意页面重载的用户。该项目在 Hacker News 上获得较高关注，但技术深度有限，属于实用型小工具。",
+  "tags": [
+    "developer-tools",
+    "workflow-automation",
+    "open-source"
+  ],
+  "score": 6.5,
+  "collected_at": "2026-11-27T05:47:52.710586+00:00",
+  "analyzed_at": "2026-11-27T05:48:38.731508+00:00",
+  "organized_at": "2026-11-27T05:49:06.670178+00:00",
+  "status": "published"
+}

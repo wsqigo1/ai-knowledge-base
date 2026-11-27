@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-27-004",
+  "title": "EL4CTEO/shrink-anything",
+  "source": "github-trending",
+  "url": "https://github.com/EL4CTEO/shrink-anything",
+  "summary": "shrink-anything 是一个用 Rust 编写的 CLI 工具，面向任意代码库自动删除死代码、冗余文件、依赖和资源，并以「自有测试仍通过」作为每次裁剪的保留条件，实现「更少代码、相同测试通过」。其核心亮点是将删除操作与测试验证闭环结合，并带有 ai-agents、claude-code 标签，可接入 AI 编码代理工作流。适用于需要精简 bundle 体积、清理遗留代码库、降低依赖膨胀的工程场景，尤其适合配合 AI 代理做安全的自动化重构。",
+  "tags": [
+    "developer-tools",
+    "code-generation",
+    "agent",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.2,
+  "collected_at": "2026-11-27T05:47:52.526433+00:00",
+  "analyzed_at": "2026-11-27T05:48:16.242064+00:00",
+  "organized_at": "2026-11-27T05:49:06.670178+00:00",
+  "status": "published"
+}

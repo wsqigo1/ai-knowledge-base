@@ -1,7 +1,218 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 3223,
+  "total_count": 3237,
   "entries": [
+    {
+      "id": "kb-2026-11-27-001",
+      "title": "qianyiai/KuroCat",
+      "source": "github-trending",
+      "url": "https://github.com/qianyiai/KuroCat",
+      "file": "2026-11-27-qianyiaikurocat.json",
+      "tags": [
+        "mcp",
+        "ai-assistant",
+        "developer-tools",
+        "open-source",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-002",
+      "title": "nexu-io/opengame",
+      "source": "github-trending",
+      "url": "https://github.com/nexu-io/opengame",
+      "file": "2026-11-27-nexu-ioopengame.json",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multi-agent",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-003",
+      "title": "Moh4696/inkworks-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Moh4696/inkworks-skill",
+      "file": "2026-11-27-moh4696inkworks-skill.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multimodal",
+        "code-generation",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-004",
+      "title": "EL4CTEO/shrink-anything",
+      "source": "github-trending",
+      "url": "https://github.com/EL4CTEO/shrink-anything",
+      "file": "2026-11-27-el4cteoshrink-anything.json",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-005",
+      "title": "AI made self-hosting fun again",
+      "source": "hackernews-top",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "file": "2026-11-27-ai-made-self-hosting-fun-again.json",
+      "tags": [
+        "ai-assistant",
+        "developer-tools",
+        "workflow-automation",
+        "open-source",
+        "agent"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-006",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "source": "hackernews-top",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "file": "2026-11-27-youtube-ad-punisher-auto-reloads-youtube.json",
+      "tags": [
+        "developer-tools",
+        "workflow-automation",
+        "open-source"
+      ],
+      "score": 6.5,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-007",
+      "title": "AMD-specific fork of llama.cpp",
+      "source": "hackernews-top",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "file": "2026-11-27-amd-specific-fork-of-llamacpp.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-008",
+      "title": "Intel One Mono font (2023)",
+      "source": "hackernews-top",
+      "url": "https://github.com/intel/intel-one-mono",
+      "file": "2026-11-27-intel-one-mono-font-2023.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-009",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "source": "hackernews-top",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "file": "2026-11-27-novita-streamlake-etc-are-bytedance-ark-.json",
+      "tags": [
+        "large-language-model",
+        "developer-tools",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-010",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "source": "hackernews-top",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "file": "2026-11-27-google-will-make-ai-agents-use-its-mcp-s.json",
+      "tags": [
+        "mcp",
+        "agent",
+        "tool-use",
+        "large-language-model",
+        "developer-tools"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-011",
+      "title": "An introduction to uncertainty in machine learning",
+      "source": "hackernews-top",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "file": "2026-11-27-an-introduction-to-uncertainty-in-machin.json",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-012",
+      "title": "Rvoip: VoIP stack in Rust",
+      "source": "hackernews-top",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "file": "2026-11-27-rvoip-voip-stack-in-rust.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-013",
+      "title": "Moat: OpenRouter replacement",
+      "source": "hackernews-top",
+      "url": "https://commandcode.ai/moat",
+      "file": "2026-11-27-moat-openrouter-replacement.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
+    {
+      "id": "kb-2026-11-27-014",
+      "title": "Nextcloud Office Desktop app",
+      "source": "hackernews-top",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "file": "2026-11-27-nextcloud-office-desktop-app.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-27T05:49:06.670178+00:00"
+    },
     {
       "id": "kb-2026-11-26-001",
       "title": "Developing-Gamer/agent-sim",
@@ -48524,5 +48735,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-26T05:55:41.905874+00:00"
+  "last_updated": "2026-11-27T05:49:06.960192+00:00"
 }

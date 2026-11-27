@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-27-003",
+  "title": "Moh4696/inkworks-skill",
+  "source": "github-trending",
+  "url": "https://github.com/Moh4696/inkworks-skill",
+  "summary": "Inkworks 是一个面向 Claude Code 等 agent 运行时的 skill，用于生成可交互的 3D「how-it-works」讲解页面，视觉风格模拟工程图纸（engineering sheet）。它解决的是技术概念与产品原理难以用静态图文讲清、而手工制作 3D 交互页面成本高的问题：agent 依据描述自动产出带 3D 模型与交互的说明页。核心技术亮点在于将 agent skill 封装为可复用能力，结合 JavaScript 与 Web 3D 渲染，把结构化讲解内容映射为工程图式视觉与可操作场景。适用场景包括教育科普、技术文档、产品原理演示及开发者向的 explainer 内容生产。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "multimodal",
+    "code-generation",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-27T05:47:52.526433+00:00",
+  "analyzed_at": "2026-11-27T05:48:12.436818+00:00",
+  "organized_at": "2026-11-27T05:49:06.670178+00:00",
+  "status": "published"
+}
