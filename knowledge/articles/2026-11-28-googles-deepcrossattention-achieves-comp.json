@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-28-005",
+  "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+  "source": "hackernews-top",
+  "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+  "summary": "Google 提出 DeepCrossAttention（DCA），一种在 Transformer 架构中融合深层网络与跨层注意力机制的新方法，旨在解决标准注意力在深层模型中计算冗余、训练与推理效率低下的问题。核心技术亮点在于通过跨层注意力复用与深度交叉设计，在保持模型质量（如语言建模困惑度、下游任务精度）与基线相当的前提下，实现最高 3 倍的训练/推理加速。该方法适用于大规模语言模型预训练、长序列建模及对推理延迟敏感的生产部署场景，对关注模型效率与架构创新的 AI 工程师具有较高参考价值。",
+  "tags": [
+    "large-language-model",
+    "benchmark",
+    "reasoning",
+    "open-source"
+  ],
+  "score": 7.8,
+  "collected_at": "2026-11-28T05:27:56.477750+00:00",
+  "analyzed_at": "2026-11-28T05:28:34.263676+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

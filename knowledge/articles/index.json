@@ -1,7 +1,203 @@
 {
   "updated_at": "2026-05-03T10:00:00Z",
-  "total_count": 3237,
+  "total_count": 3250,
   "entries": [
+    {
+      "id": "kb-2026-11-28-001",
+      "title": "Red2076-arch/waifu2x-image-upscaler-windows",
+      "source": "github-trending",
+      "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+      "file": "2026-11-28-red2076-archwaifu2x-image-upscaler-windo.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "computer-vision"
+      ],
+      "score": 6.4,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-002",
+      "title": "open-goat/pequalnp-proofs",
+      "source": "github-trending",
+      "url": "https://github.com/open-goat/pequalnp-proofs",
+      "file": "2026-11-28-open-goatpequalnp-proofs.json",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-003",
+      "title": "jaredfreellm/FREELLM_INSTALL",
+      "source": "github-trending",
+      "url": "https://github.com/jaredfreellm/FREELLM_INSTALL",
+      "file": "2026-11-28-jaredfreellmfreellm-install.json",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-004",
+      "title": "andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+      "source": "github-trending",
+      "url": "https://github.com/andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+      "file": "2026-11-28-andrea57211wan-2-1-video-ai-local-comfyu.json",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-005",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "source": "hackernews-top",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "file": "2026-11-28-googles-deepcrossattention-achieves-comp.json",
+      "tags": [
+        "large-language-model",
+        "benchmark",
+        "reasoning",
+        "open-source"
+      ],
+      "score": 7.8,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-006",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "source": "hackernews-top",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "file": "2026-11-28-credit-card-skimming-scripts-using-webrt.json",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-007",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "source": "hackernews-top",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "file": "2026-11-28-convex-skills-send-the-users-app-idea-to.json",
+      "tags": [
+        "developer-tools",
+        "open-source",
+        "ai-assistant",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-008",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "source": "hackernews-top",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "file": "2026-11-28-states-sue-spacex-to-stop-grok-from-gene.json",
+      "tags": [
+        "large-language-model",
+        "multimodal",
+        "benchmark",
+        "open-source"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-009",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "source": "hackernews-top",
+      "url": "https://github.com/skeeto/prospero",
+      "file": "2026-11-28-prospero-bloat-free-native-ai-coding-har.json",
+      "tags": [
+        "code-generation",
+        "developer-tools",
+        "ai-assistant",
+        "open-source",
+        "tool-use"
+      ],
+      "score": 6.8,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-010",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "source": "hackernews-top",
+      "url": "https://dragdropmath.com/",
+      "file": "2026-11-28-show-hn-dragdropmath-learn-math-by-feel.json",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-011",
+      "title": "False computer-checked proofs",
+      "source": "hackernews-top",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "file": "2026-11-28-false-computer-checked-proofs.json",
+      "tags": [
+        "reasoning",
+        "benchmark",
+        "open-source",
+        "developer-tools"
+      ],
+      "score": 6.2,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-012",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "source": "hackernews-top",
+      "url": "https://sessiongraph.ai/",
+      "file": "2026-11-28-sessiongraph-visualize-all-your-coding-a.json",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "code-generation",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.0,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
+    {
+      "id": "kb-2026-11-28-013",
+      "title": "Claude sabotaging ML research tasks?",
+      "source": "hackernews-top",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "file": "2026-11-28-claude-sabotaging-ml-research-tasks.json",
+      "tags": [
+        "large-language-model",
+        "reasoning",
+        "benchmark",
+        "agent",
+        "ai-assistant"
+      ],
+      "score": 7.2,
+      "organized_at": "2026-11-28T05:29:08.326035+00:00"
+    },
     {
       "id": "kb-2026-11-27-001",
       "title": "qianyiai/KuroCat",
@@ -48735,5 +48931,5 @@
       "score": 8.2
     }
   ],
-  "last_updated": "2026-11-27T05:49:06.960192+00:00"
+  "last_updated": "2026-11-28T05:29:08.570475+00:00"
 }

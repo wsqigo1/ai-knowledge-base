@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-28-004",
+  "title": "andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+  "source": "github-trending",
+  "url": "https://github.com/andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+  "summary": "该项目是一个面向 Windows 10/11 的 Wan 2.1 视频生成模型本地部署工具，以 Go 语言编写，提供 ComfyUI 便携版安装器与一键配置脚本。它解决的核心问题是：Wan 2.1 作为开源视频生成模型，其 ComfyUI 环境依赖复杂、模型权重与自定义节点配置繁琐，普通用户难以在本地快速跑通。技术亮点在于将 Python 环境、ComfyUI 运行时、Wan 2.1 模型文件与必要节点打包为可移植的 Windows 安装流程，降低本地视频生成的门槛。适用场景为希望在本地消费级 GPU 上体验文生视频/图生视频的创作者与研究者，以及需要离线、隐私可控的视频生成工作流。",
+  "tags": [
+    "multimodal",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-28T05:27:56.348443+00:00",
+  "analyzed_at": "2026-11-28T05:28:27.219708+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

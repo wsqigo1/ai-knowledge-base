@@ -1,0 +1,17 @@
+{
+  "id": "kb-2026-11-28-006",
+  "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+  "source": "hackernews-top",
+  "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+  "summary": "该条目报道了在多个热门购物网站上发现的信用卡侧录脚本（credit card skimming scripts），这些脚本利用 WebRTC 技术绕过传统安全检测。WebRTC 的 data channel 和 STUN/TURN 机制被滥用来隐蔽地外传窃取的支付卡数据，从而规避基于网络流量特征和 CSP 的防护。核心技术亮点在于攻击者利用浏览器原生 API 建立点对点通道，使恶意数据流出难以被常规 WAF 和脚本监控捕获。对 AI 工程师而言，这提示在构建支付风控、前端安全监控或异常流量检测模型时，需将 WebRTC 信令与数据通道行为纳入特征工程，适用于电商安全、浏览器端威胁检测和反欺诈系统开发场景。",
+  "tags": [
+    "open-source",
+    "developer-tools",
+    "benchmark"
+  ],
+  "score": 6.2,
+  "collected_at": "2026-11-28T05:27:56.477750+00:00",
+  "analyzed_at": "2026-11-28T05:28:40.796764+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

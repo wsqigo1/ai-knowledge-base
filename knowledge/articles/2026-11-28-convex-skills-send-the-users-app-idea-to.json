@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-28-007",
+  "title": "Convex skills send the user's app idea to a remote server without telling them",
+  "source": "hackernews-top",
+  "url": "https://github.com/convex/convex-backend-skill/issues/64",
+  "summary": "该条目披露 Convex 平台的 skills 功能在用户不知情的情况下将应用创意发送至远程服务器，涉及数据隐私与用户知情权问题。核心争议在于 AI 辅助开发工具默认外传用户输入，缺乏透明告知与本地处理选项。技术亮点在于暴露了 AI 开发工具链中数据流向的隐蔽性，提醒工程师审查第三方 skill 的网络行为。适用场景为 AI 辅助开发平台的安全审计、隐私合规评估及开发者工具选型。",
+  "tags": [
+    "developer-tools",
+    "open-source",
+    "ai-assistant",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-28T05:27:56.477750+00:00",
+  "analyzed_at": "2026-11-28T05:28:42.372633+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

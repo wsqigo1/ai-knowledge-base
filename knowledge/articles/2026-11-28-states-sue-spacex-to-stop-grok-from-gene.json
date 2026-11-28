@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-28-008",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "source": "hackernews-top",
+  "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+  "summary": "该条目报道多州联合起诉 SpaceX，要求阻止其 Grok 模型生成儿童性虐待图像与复仇色情内容。事件核心是生成式 AI 的内容安全与法律责任问题：Grok 作为 xAI 旗下 LLM，被指缺乏有效的 safety filter 与内容审核机制，导致可被滥用于生成违法图像。技术层面涉及 NSFW 内容检测、prompt 注入防护、输出过滤与模型对齐（alignment）等防护手段的失效分析。适用场景为 AI 安全合规、内容审核系统设计与 LLM 部署风险评估，对构建生产级 AI 产品的工程师具有警示与参考价值。",
+  "tags": [
+    "large-language-model",
+    "multimodal",
+    "benchmark",
+    "open-source"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-28T05:27:56.477750+00:00",
+  "analyzed_at": "2026-11-28T05:28:52.242239+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

@@ -1,0 +1,592 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-11-28T05:27:57.758165+00:00",
+  "date": "2026-11-28",
+  "count": 20,
+  "items": [
+    {
+      "title": "nexu-io/opengame",
+      "source": "github-trending",
+      "url": "https://github.com/nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "stars": 2425,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "game-development",
+        "game-engine",
+        "indie-game",
+        "local-first",
+        "mcp",
+        "mini-games",
+        "threejs",
+        "unity",
+        "unreal-engine",
+        "vibe-coding",
+        "wechat-minigame"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T21:15:04Z",
+      "summary": "opengame 是一个面向 AI agents 的游戏开发框架，定位为 agent 领域的 Unity/Unreal。它解决的核心问题是：让 Claude Code、Codex、DeepSeek 等 20+ coding agents 能够端到端地构建、混编并发布 3D 与 mini-games，而无需人工串联工具链。技术亮点包括内置 100+ 可 remix 的病毒式游戏模板、agent-skills 抽象层，以及面向微信、抖音、TikTok、Telegram、itch.io 等多平台的一键发布流水线。适用场景为 AI 游戏快速原型、agent 能力评测与多平台小游戏分发。",
+      "tags": [
+        "agent",
+        "code-generation",
+        "multi-agent",
+        "developer-tools",
+        "open-source"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-28T05:27:59.500851+00:00"
+    },
+    {
+      "title": "alesha-pro/llm.asm",
+      "source": "github-trending",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "stars": 2322,
+      "language": "Assembly",
+      "topics": [
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning",
+        "nasm",
+        "osdev",
+        "qwen",
+        "transformer",
+        "x86-64"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T20:40:20Z",
+      "summary": "该项目用100%纯x86-64 NASM汇编实现Qwen3-0.6B推理（12KB）、可启动裸机OS（22KB）和从零训练的Mini-GPT训练器（32KB），零C、零libc、零依赖。它解决的是LLM推理与训练栈过度依赖庞大运行时和框架的问题，核心亮点在于用AVX2手写汇编完成矩阵运算与模型推理、裸机引导加载以及Braille字符实时TUI监控训练过程。适用于学习LLM底层实现、汇编与SIMD优化、嵌入式/裸机AI部署等场景，工程实用面窄但教学与极客价值突出。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "benchmark"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-28T05:28:01.300187+00:00"
+    },
+    {
+      "title": "erkamyaman/safe-anything",
+      "source": "github-trending",
+      "url": "https://github.com/erkamyaman/safe-anything",
+      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "stars": 836,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "cli",
+        "codex",
+        "cursor",
+        "devsecops",
+        "mcp",
+        "osv",
+        "owasp",
+        "rust",
+        "sast",
+        "secret-scanning",
+        "secrets",
+        "security",
+        "security-scanner",
+        "sql-injection",
+        "vulnerability",
+        "vulnerability-scanner",
+        "xss"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T18:29:53Z",
+      "summary": "safe-anything 是一个用 Rust 编写的高性能漏洞扫描器，面向代码仓库与 AI agent 配置，检测 XSS、SQL 注入、泄露密钥、依赖 CVE 及 AI agent 设置中的安全隐患。核心亮点在于 100% Rust 实现带来的扫描速度，以及将传统应用安全检测与 AI agent（如 Claude Code、Codex）配置审计结合，填补了 agent 工具链安全扫描的空白。适用于开发者在 CI 或本地对项目与 AI 编码助手环境做快速安全体检。",
+      "tags": [
+        "developer-tools",
+        "agent",
+        "open-source",
+        "code-generation",
+        "tool-use"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-28T05:28:03.084166+00:00"
+    },
+    {
+      "title": "gary23w/f-ck_data_brokers",
+      "source": "github-trending",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "stars": 803,
+      "language": "Python",
+      "topics": [
+        "ccpa",
+        "cli",
+        "data-brokers",
+        "data-deletion",
+        "gdpr",
+        "lgpd",
+        "mcp",
+        "mcp-server",
+        "opt-out",
+        "personal-data",
+        "pipeda",
+        "privacy",
+        "privacy-tools",
+        "python"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T22:09:21Z",
+      "summary": "f-ck_data_brokers 是一个开源 Python CLI 脚本，用于自动向数据经纪商（data brokers）发送退出（opt-out）与数据删除请求，帮助用户行使 GDPR/CCPA 赋予的隐私权利。核心亮点在于将原本需逐家手动填表、发邮件的繁琐流程脚本化、批量化，降低个人数据维权的操作门槛。项目以 Python 实现，提供命令行交互，覆盖常见数据经纪商清单。适用场景包括个人隐私自查与清理、隐私维权自动化，以及作为隐私合规工具链的参考实现；与 AI/LLM 工程无直接关联，技术深度偏轻量。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation",
+        "cli"
+      ],
+      "score": 5.6,
+      "analyzed_at": "2026-11-28T05:28:05.403242+00:00"
+    },
+    {
+      "title": "Red2076-arch/waifu2x-image-upscaler-windows",
+      "source": "github-trending",
+      "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+      "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+      "stars": 787,
+      "language": "C++",
+      "topics": [
+        "amd",
+        "artificial-intelligence",
+        "computer-vision",
+        "deep-learning",
+        "denoising",
+        "gpu",
+        "image-enhancement",
+        "image-processing",
+        "image-upscaling",
+        "intel",
+        "linux",
+        "machine-learning",
+        "macos",
+        "ncnn",
+        "nvidia",
+        "super-resolution",
+        "vulkan",
+        "waifu2x",
+        "windows"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T15:19:42Z",
+      "summary": "该项目是面向 Windows 平台的免费 AI 图像放大与照片降噪工具，基于 ncnn 神经网络推理框架，并通过 Vulkan 实现 GPU 加速，解决本地无云端依赖的高质量图像超分与去噪需求。核心技术亮点在于将 waifu2x 类模型移植到 ncnn 并利用 Vulkan 跨厂商 GPU 加速，兼容 AMD 等非 CUDA 显卡，C++ 实现便于打包为轻量桌面应用。适用场景包括动漫插画放大、老照片修复、低分辨率素材增强及无 NVIDIA 显卡用户的本地图像处理。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "computer-vision"
+      ],
+      "score": 6.4,
+      "analyzed_at": "2026-11-28T05:28:06.994013+00:00"
+    },
+    {
+      "title": "chanke17/KuroCat",
+      "source": "github-trending",
+      "url": "https://github.com/chanke17/KuroCat",
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "stars": 774,
+      "language": "C++",
+      "topics": [
+        "bongo-cat",
+        "bongo-cat-alternative",
+        "cpp",
+        "desktop-companion",
+        "desktop-pet",
+        "drawing-tablet",
+        "kurocat",
+        "linux",
+        "macos",
+        "mcp",
+        "mcp-server",
+        "native-app",
+        "obs",
+        "obs-overlay",
+        "open-source",
+        "streamer-tools",
+        "swift",
+        "uos",
+        "vtuber",
+        "windows"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T08:33:49Z",
+      "summary": "KuroCat 是一款开源原生桌面宠物应用，定位为 Bongo Cat 的替代品，支持 macOS、Windows、Linux 和 UOS 全平台，安装包仅 802 KB。它解决了桌面互动宠物工具跨平台兼容性差、资源占用高的问题，核心亮点包括 Swift/C++ 原生实现、2.5D 转头捕猎动画、数位板输入联动、OBS 透明绿幕叠加、在线皮肤工坊及零按键上传机制。适用于直播主播、桌面美化用户及开源桌面交互开发者。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal",
+        "workflow-automation"
+      ],
+      "score": 5.5,
+      "analyzed_at": "2026-11-28T05:28:08.708774+00:00"
+    },
+    {
+      "title": "Moh4696/inkworks-skill",
+      "source": "github-trending",
+      "url": "https://github.com/Moh4696/inkworks-skill",
+      "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+      "stars": 545,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "agent-skills",
+        "claude-code",
+        "education",
+        "explainer",
+        "threejs"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-25T13:53:35Z",
+      "summary": "Inkworks 是一个面向 Claude Code 等 agent 环境的 skill，用于生成可交互的 3D how-it-works 讲解页面，视觉风格模拟工程图纸。它解决的是技术概念与产品原理难以用静态图文讲清的问题：agent 可依据描述自动产出带 3D 交互的说明页，降低制作门槛。核心技术亮点在于将 agent skill 封装为可复用能力，结合 JavaScript 与 3D 渲染，把工程制图式的表达与可交互场景结合。适用场景包括教育科普、技术文档、产品原理演示和内部培训材料生成。",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "multimodal",
+        "open-source"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-28T05:28:10.547148+00:00"
+    },
+    {
+      "title": "EL4CTEO/shrink-anything",
+      "source": "github-trending",
+      "url": "https://github.com/EL4CTEO/shrink-anything",
+      "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "stars": 397,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "bundle-size",
+        "claude-code",
+        "cli",
+        "code-cleanup",
+        "dead-code",
+        "mcp",
+        "refactoring",
+        "rust",
+        "unused-dependencies"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-27T16:23:41Z",
+      "summary": "shrink-anything 是一个用 Rust 编写的 CLI 工具，通过自动删除代码库中的死代码、冗余文件、依赖和资源来缩减体积，并以“自有测试仍通过”作为每次裁剪的保留条件，实现“更少代码、同样测试通过”。其核心亮点是将删除操作与测试验证闭环结合，并面向 AI agent 场景（如 Claude Code）提供自动化代码清理能力。适用于需要降低 bundle 体积、清理遗留代码库或为 AI 编码代理提供安全重构工具的工程团队。",
+      "tags": [
+        "developer-tools",
+        "code-generation",
+        "agent",
+        "open-source",
+        "workflow-automation"
+      ],
+      "score": 7.2,
+      "analyzed_at": "2026-11-28T05:28:12.343267+00:00"
+    },
+    {
+      "title": "open-goat/pequalnp-proofs",
+      "source": "github-trending",
+      "url": "https://github.com/open-goat/pequalnp-proofs",
+      "description": "Lean 4 proofs from the public AI attempt at P vs NP (pequalnp.com). Open gaps welcome pull requests.",
+      "stars": 297,
+      "language": "Lean",
+      "topics": [],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T05:27:42Z",
+      "summary": "该项目是 pequalnp.com 公开 AI 尝试证明 P vs NP 问题过程中产出的 Lean 4 形式化证明代码库，旨在将 AI 生成的数学论证转化为可机器验证的形式化证明，并公开未完成的部分以接受社区贡献。核心技术亮点在于使用 Lean 4 依赖类型系统对复杂数学推理进行严格形式化，暴露 AI 推理中的逻辑缺口，形成人机协作的证明工程流程。适用场景包括形式化数学研究、AI 数学推理能力评估、Lean 4 学习与定理证明工程实践。",
+      "tags": [
+        "reasoning",
+        "open-source",
+        "benchmark",
+        "code-generation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-28T05:28:13.983621+00:00"
+    },
+    {
+      "title": "VanessaLy536/ragdoll-destruction-roblox-script",
+      "source": "github-trending",
+      "url": "https://github.com/VanessaLy536/ragdoll-destruction-roblox-script",
+      "description": "Ragdoll Destruction Script — Ragdoll Destruction Roblox Script & Auto Farm GUI",
+      "stars": 273,
+      "language": "Go",
+      "topics": [
+        "ragdoll-destruction",
+        "ragdoll-destruction-roblox-script",
+        "ragdoll-destruction-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:55:50Z",
+      "summary": "该项目是一个 Roblox 游戏脚本，提供 Ragdoll Destruction（布娃娃破坏）效果与 Auto Farm GUI 自动化工具，以 Go 语言仓库形式发布。它解决的是 Roblox 玩家/脚本使用者希望快速获得物理布娃娃破坏玩法与自动刷资源功能的需求，核心亮点在于将破坏物理效果与自动化 GUI 集成于单一脚本，降低使用门槛。适用场景为 Roblox 游戏娱乐、脚本测试与自动化刷取，与 AI/LLM 工程技术栈无直接关联，对 AI 工程师的参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-28T05:28:15.425892+00:00"
+    },
+    {
+      "title": "ZeynepMatuda1665/hyper-realistic-ragdoll-roblox-script",
+      "source": "github-trending",
+      "url": "https://github.com/ZeynepMatuda1665/hyper-realistic-ragdoll-roblox-script",
+      "description": "Hyper Realistic Ragdoll Script — Hyper Realistic Ragdoll Roblox Script & Auto Farm GUI",
+      "stars": 263,
+      "language": "Go",
+      "topics": [
+        "hyper-realistic-ragdoll",
+        "hyper-realistic-ragdoll-roblox-scri",
+        "hyper-realistic-ragdoll-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:53:24Z",
+      "summary": "该项目名为 Hyper Realistic Ragdoll Script，实为 Roblox 游戏平台的脚本工具，提供超写实布娃娃物理效果与自动刷取（Auto Farm）GUI 功能。其解决的问题是 Roblox 玩家/开发者快速获得角色物理模拟与自动化资源获取能力，核心技术亮点在于通过 Go 语言编写的脚本注入与 GUI 自动化控制，但内容与 AI/LLM 技术栈无直接关联。适用场景为 Roblox 游戏辅助与脚本开发，对 AI 工程师的实际参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.8,
+      "analyzed_at": "2026-11-28T05:28:17.164594+00:00"
+    },
+    {
+      "title": "jaredfreellm/FREELLM_INSTALL",
+      "source": "github-trending",
+      "url": "https://github.com/jaredfreellm/FREELLM_INSTALL",
+      "description": "One OpenAI-compatible endpoint for many free LLM tiers. Add your own provider keys, and the router picks a healthy model for each request, fails over when one is rate-limited, and tracks usage per key so you stay under every quota. Self-hosted, keys encrypted at rest. For personal experimentation.",
+      "stars": 253,
+      "language": null,
+      "topics": [],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-22T20:13:06Z",
+      "summary": "FREELLM_INSTALL 是一个自托管的 OpenAI-compatible 路由层，聚合多个免费 LLM 层级（free tiers）。它解决的核心问题是：免费模型额度分散、易触发 rate limit、多 key 配额管理繁琐。技术亮点包括：统一 OpenAI-compatible endpoint、按请求自动挑选健康模型、rate limit 时自动 failover、按 key 追踪用量以规避超配额、密钥静态加密。适合个人开发者做低成本实验、原型验证和模型对比测试，不适合生产级高可靠场景。",
+      "tags": [
+        "large-language-model",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.8,
+      "analyzed_at": "2026-11-28T05:28:18.664402+00:00"
+    },
+    {
+      "title": "Henris73/dify-ai-pro-patcher-installer",
+      "source": "github-trending",
+      "url": "https://github.com/Henris73/dify-ai-pro-patcher-installer",
+      "description": "SillyTavern Extras & KoboldCPP CUDA Bundle — SillyTavern Extras & KoboldCPP CUDA Bundle Portable & Windows Setup",
+      "stars": 249,
+      "language": "Go",
+      "topics": [
+        "sillytavern-extras-koboldc",
+        "sillytavern-extras-koboldc-portable",
+        "sillytavern-extras-koboldc-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:52:47Z",
+      "summary": "该项目是一个面向 Windows 10/11 的便携式安装包，将 SillyTavern Extras 与 KoboldCPP 的 CUDA 版本打包整合，用 Go 编写安装/启动逻辑。它解决的是本地 LLM 前端部署时依赖繁杂、CUDA 环境配置困难、多组件手动拼装的问题，通过一键式 bundle 降低搭建门槛。技术亮点在于便携化封装与 CUDA 加速推理的自动化配置，而非模型或算法创新。适用场景为个人在 Windows 上快速搭建本地角色扮演/对话式 LLM 环境，属于开发者工具与 AI 助手部署辅助类项目，对研究型 AI 工程师的参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "ai-assistant",
+        "large-language-model"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-28T05:28:20.400092+00:00"
+    },
+    {
+      "title": "VofotiBego3/liveportrait-ai-face-animator-portable",
+      "source": "github-trending",
+      "url": "https://github.com/VofotiBego3/liveportrait-ai-face-animator-portable",
+      "description": "LivePortrait AI Face Animator Portable — LivePortrait AI Face Animator Portable Portable & Windows Setup",
+      "stars": 249,
+      "language": "Go",
+      "topics": [
+        "liveportrait-ai-face-anima",
+        "liveportrait-ai-face-anima-portable",
+        "liveportrait-ai-face-anima-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:52:46Z",
+      "summary": "该项目是 LivePortrait 人脸动画模型的 Windows 便携化封装，基于 Go 语言实现，提供开箱即用的 Windows 10/11 安装与运行环境。它解决的是原版 LivePortrait 部署门槛高、依赖配置繁琐的问题，让非专业用户也能快速体验人脸驱动动画。核心技术亮点在于将深度学习推理流程打包为便携式应用，降低环境配置成本，但本质上是对开源模型的二次封装，未涉及算法创新。适用场景包括短视频创作者快速生成人脸动画、AI 爱好者本地测试、以及需要离线人脸驱动演示的轻量级应用。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 5.8,
+      "analyzed_at": "2026-11-28T05:28:22.075523+00:00"
+    },
+    {
+      "title": "aLima89/topaz-gigapixel-ai-8-pro-desktop-suite",
+      "source": "github-trending",
+      "url": "https://github.com/aLima89/topaz-gigapixel-ai-8-pro-desktop-suite",
+      "description": "Topaz Gigapixel AI 8 Pro Patcher — Topaz Gigapixel AI 8 Pro Portable & Windows Setup",
+      "stars": 249,
+      "language": "Go",
+      "topics": [
+        "topaz-gigapixel-ai-8-pro",
+        "topaz-gigapixel-ai-8-pro-portable",
+        "topaz-gigapixel-ai-8-pro-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:52:36Z",
+      "summary": "该项目名为 Topaz Gigapixel AI 8 Pro Patcher，实为针对 Topaz Gigapixel AI 8 Pro 商业图像放大软件的破解/补丁工具，提供便携版与 Windows 安装包，使用 Go 语言编写。它解决的问题是绕过正版授权验证，让用户免费使用该商业软件。核心技术亮点在于补丁注入与便携化封装，而非 AI 算法本身。适用场景为 Windows 10/11 用户本地图像超分辨率处理，但对 AI 工程师而言技术参考价值有限，且涉及软件盗版风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-28T05:28:23.581793+00:00"
+    },
+    {
+      "title": "roux71442/bluestacks-5-pro-patcher-installer",
+      "source": "github-trending",
+      "url": "https://github.com/roux71442/bluestacks-5-pro-patcher-installer",
+      "description": "Topaz Photo AI 3 Pro Full Suite — Topaz Photo AI 3 Pro Portable & Windows Setup",
+      "stars": 249,
+      "language": "Go",
+      "topics": [
+        "topaz-photo-ai-3-pro",
+        "topaz-photo-ai-3-pro-portable",
+        "topaz-photo-ai-3-pro-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:52:34Z",
+      "summary": "该项目名为 bluestacks-5-pro-patcher-installer，实际内容与标题严重不符：描述指向 Topaz Photo AI 3 Pro 的破解/便携安装包，Topics 也围绕 Topaz Photo AI 3 Pro 的 Windows 版本，而非 BlueStacks 模拟器补丁。它试图解决的是商业图像增强软件 Topaz Photo AI 3 Pro 的免费获取与安装问题，技术上以 Go 语言打包分发安装器，无实质 AI 算法创新，属于软件分发/破解类仓库。适用场景为个人在 Windows 10/11 上安装该商业软件，对 AI 工程师无技术参考价值，且存在版权与安全风险。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "multimodal"
+      ],
+      "score": 1.5,
+      "analyzed_at": "2026-11-28T05:28:25.397583+00:00"
+    },
+    {
+      "title": "andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+      "source": "github-trending",
+      "url": "https://github.com/andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+      "description": "Wan 2.1 Video AI Local ComfyUI Installer — Wan 2.1 Video AI Local ComfyUI Portable & Windows Setup",
+      "stars": 249,
+      "language": "Go",
+      "topics": [
+        "wan-2-1-video-ai-local-com",
+        "wan-2-1-video-ai-local-com-portable",
+        "wan-2-1-video-ai-local-com-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:52:38Z",
+      "summary": "该项目是一个面向 Windows 10/11 的 Wan 2.1 视频生成模型本地部署工具，以 Go 语言编写，提供 ComfyUI 便携版安装器与一键配置脚本。它解决的核心问题是：Wan 2.1 作为开源视频生成模型，其 ComfyUI 环境依赖复杂、模型权重与自定义节点配置繁琐，普通用户难以在本地快速跑通。技术亮点在于将 Python 环境、ComfyUI 运行时、Wan 2.1 模型文件与必要节点打包为可移植的 Windows 安装流程，降低本地视频生成的门槛。适用场景为希望在本地消费级 GPU 上体验文生视频/图生视频的创作者与研究者，以及需要离线、隐私可控的视频生成工作流。",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 6.2,
+      "analyzed_at": "2026-11-28T05:28:27.219708+00:00"
+    },
+    {
+      "title": "Reyes1126/topaz-video-ai",
+      "source": "github-trending",
+      "url": "https://github.com/Reyes1126/topaz-video-ai",
+      "description": "Topaz Video AI — Topaz Video AI 6 Windows",
+      "stars": 247,
+      "language": "Go",
+      "topics": [
+        "topaz-video",
+        "topaz-video-ai",
+        "video-upscaler",
+        "windows-11"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:52:34Z",
+      "summary": "该项目是一个以 Go 语言实现的 Topaz Video AI 6 Windows 版本相关仓库，定位为视频超分辨率与画质增强工具的封装或分发入口。它试图解决 Windows 11 环境下视频放大、去噪与帧插值等画质提升需求，核心亮点在于借助 Topaz 成熟的 AI 视频增强能力，以轻量 Go 代码提供调用或部署便利。适用场景包括老视频修复、低分辨率素材升格以及内容创作者本地化视频后处理，但仓库本身技术原创性有限，更多是工具集成与分发性质。",
+      "tags": [
+        "open-source",
+        "multimodal",
+        "developer-tools",
+        "video-upscaler",
+        "windows"
+      ],
+      "score": 5.2,
+      "analyzed_at": "2026-11-28T05:28:29.142993+00:00"
+    },
+    {
+      "title": "hiroshileroy72054/ragdoll-research-roblox-script",
+      "source": "github-trending",
+      "url": "https://github.com/hiroshileroy72054/ragdoll-research-roblox-script",
+      "description": "Ragdoll Research Script — Ragdoll Research Roblox Script & Auto Farm GUI",
+      "stars": 241,
+      "language": "Go",
+      "topics": [
+        "ragdoll-research",
+        "ragdoll-research-roblox-script",
+        "ragdoll-research-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:54:58Z",
+      "summary": "该项目是一个面向 Roblox 平台的 Ragdoll Research 脚本与自动农场 GUI 工具，以 Go 语言实现，通过 GitHub Trending 获得关注。它解决的是 Roblox 玩家在游戏中快速实现布娃娃效果与自动化资源收集的需求，核心亮点在于将游戏内脚本与 GUI 自动化结合，提供一键式操作体验。适用场景为 Roblox 游戏辅助与自动化测试，但与 AI/LLM 工程技术栈关联极弱，对 AI 工程师的实际参考价值有限。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 2.5,
+      "analyzed_at": "2026-11-28T05:28:30.822302+00:00"
+    },
+    {
+      "title": "ibrahimkaminski/ragdoll-playground-roblox-script",
+      "source": "github-trending",
+      "url": "https://github.com/ibrahimkaminski/ragdoll-playground-roblox-script",
+      "description": "Ragdoll Playground Script — Ragdoll Playground Roblox Script & Auto Farm GUI",
+      "stars": 241,
+      "language": "Go",
+      "topics": [
+        "ragdoll-playground",
+        "ragdoll-playground-roblox-script",
+        "ragdoll-playground-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "collected_at": "2026-11-28T05:27:56.348443+00:00",
+      "published_at": "2026-11-28T04:55:18Z",
+      "summary": "该项目名为 ragdoll-playground-roblox-script，实为 Roblox 游戏 Ragdoll Playground 的作弊脚本与自动农场 GUI，以 Go 语言实现，通过注入或外部工具操控游戏逻辑。它解决的是玩家在游戏中重复刷资源、自动化操作的需求，核心技术点在于游戏内存读写、GUI 覆盖与自动化循环控制。适用场景仅限于 Roblox 游戏辅助，与 AI/LLM 技术栈无直接关联，对 AI 工程师的参考价值极低。",
+      "tags": [
+        "open-source",
+        "developer-tools",
+        "workflow-automation"
+      ],
+      "score": 1.8,
+      "analyzed_at": "2026-11-28T05:28:32.290611+00:00"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-28-012",
+  "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+  "source": "hackernews-top",
+  "url": "https://sessiongraph.ai/",
+  "summary": "SessionGraph 是一个面向 coding agent 会话的可视化工具，将多个编码代理（如 Claude Code、Cursor 等）的会话记录聚合为一张交互式图谱。它解决了开发者难以跨会话追踪任务脉络、理解代理决策路径的问题。核心技术亮点在于将会话中的消息、工具调用、文件修改等事件建模为图节点与边，支持交互式探索与关联分析。适用场景包括调试复杂多步编码任务、复盘代理行为、团队协作中共享会话上下文。",
+  "tags": [
+    "agent",
+    "developer-tools",
+    "code-generation",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 7.0,
+  "collected_at": "2026-11-28T05:27:56.477750+00:00",
+  "analyzed_at": "2026-11-28T05:29:03.330211+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

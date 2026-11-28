@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-28-003",
+  "title": "jaredfreellm/FREELLM_INSTALL",
+  "source": "github-trending",
+  "url": "https://github.com/jaredfreellm/FREELLM_INSTALL",
+  "summary": "FREELLM_INSTALL 是一个自托管的 OpenAI-compatible 路由层，聚合多个免费 LLM 层级（free tiers）。它解决的核心问题是：免费模型额度分散、易触发 rate limit、多 key 配额管理繁琐。技术亮点包括：统一 OpenAI-compatible endpoint、按请求自动挑选健康模型、rate limit 时自动 failover、按 key 追踪用量以规避超配额、密钥静态加密。适合个人开发者做低成本实验、原型验证和模型对比测试，不适合生产级高可靠场景。",
+  "tags": [
+    "large-language-model",
+    "open-source",
+    "developer-tools",
+    "workflow-automation"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-28T05:27:56.348443+00:00",
+  "analyzed_at": "2026-11-28T05:28:18.664402+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

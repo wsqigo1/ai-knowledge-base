@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-11-28-001",
+  "title": "Red2076-arch/waifu2x-image-upscaler-windows",
+  "source": "github-trending",
+  "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+  "summary": "该项目是面向 Windows 平台的免费 AI 图像放大与照片降噪工具，基于 ncnn 神经网络推理框架，并通过 Vulkan 实现 GPU 加速，解决本地无云端依赖的高质量图像超分与去噪需求。核心技术亮点在于将 waifu2x 类模型移植到 ncnn 并利用 Vulkan 跨厂商 GPU 加速，兼容 AMD 等非 CUDA 显卡，C++ 实现便于打包为轻量桌面应用。适用场景包括动漫插画放大、老照片修复、低分辨率素材增强及无 NVIDIA 显卡用户的本地图像处理。",
+  "tags": [
+    "open-source",
+    "multimodal",
+    "developer-tools",
+    "computer-vision"
+  ],
+  "score": 6.4,
+  "collected_at": "2026-11-28T05:27:56.348443+00:00",
+  "analyzed_at": "2026-11-28T05:28:06.994013+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}

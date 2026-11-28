@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-11-28-009",
+  "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "source": "hackernews-top",
+  "url": "https://github.com/skeeto/prospero",
+  "summary": "Prospero 是一个基于 ImGui 构建的原生 AI 编码工具（coding harness），主打轻量与无冗余（bloat-free）。它针对现有 AI 编码助手普遍依赖 Electron/Web 技术栈、资源占用高、启动慢的问题，提供原生渲染的轻量替代方案。核心技术亮点在于用 ImGui 实现即时模式 GUI，保持低内存与高响应，同时集成 LLM 驱动的代码生成与交互能力。适用场景包括本地开发环境中的 AI 辅助编码、对性能和资源敏感的开发者工作流，以及希望自托管、可定制的 AI coding agent 实验。",
+  "tags": [
+    "code-generation",
+    "developer-tools",
+    "ai-assistant",
+    "open-source",
+    "tool-use"
+  ],
+  "score": 6.8,
+  "collected_at": "2026-11-28T05:27:56.477750+00:00",
+  "analyzed_at": "2026-11-28T05:28:56.234770+00:00",
+  "organized_at": "2026-11-28T05:29:08.326035+00:00",
+  "status": "published"
+}
